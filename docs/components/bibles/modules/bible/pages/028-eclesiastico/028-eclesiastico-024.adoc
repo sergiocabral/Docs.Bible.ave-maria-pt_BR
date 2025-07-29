@@ -1,0 +1,207 @@
+include::./index.adoc[]
+
+[[v28-24-0]]
+=== Eclesiástico, 24
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiástico 24 apresenta a Sabedoria falando sobre si mesma e sua origem divina. Ela se apresenta como tendo sido criada antes de todas as coisas e descreve sua presença em diversas figuras bíblicas importantes. Além disso, a Sabedoria faz um convite para que todos a busquem e sigam seus ensinamentos. Seguem abaixo cinco versículos relacionados com os temas abordados em Eclesiástico 24:
+* Provérbios 3:13-15: "Feliz é o homem que acha sabedoria, e o homem que adquire entendimento, porque o lucro dela é melhor que o lucro da prata, e o seu ganho mais do que o ouro mais fino. Mais preciosa é do que as jóias, e tudo o que podes desejar não se pode comparar a ela." Este versículo destaca a importância da sabedoria e o seu valor incomparável.
+* Jó 28:28: "E disse ao homem: Eis que o temor do Senhor é a sabedoria, e o apartar-se do mal é o entendimento." Esse versículo destaca a conexão entre a sabedoria e o temor do Senhor.
+* Provérbios 8:17: "Eu amo aqueles que me amam, e os que me procuram diligentemente me encontrarão." Este versículo é semelhante ao convite feito pela Sabedoria em Eclesiástico 24, onde ela convida as pessoas a buscá-la.
+* Colossenses 2:3: "em quem estão escondidos todos os tesouros da sabedoria e da ciência." Esse versículo fala sobre como em Cristo está oculta toda a sabedoria e conhecimento.
+* Tiago 1:5: "Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, e não o censura, e ser-lhe-á dada." Este versículo destaca a fonte da sabedoria e o fato de que Deus está disposto a concedê-la a todos que pedem com fé.
+****
+
+[[v28-24-1]]
+
+^<<v28-24-1,1>>^ A sabedoria faz o seu próprio elogio, honra-se em Deus, gloria-se no meio do seu povo.^&#42;1^
+
+[[v28-24-2]]
+
+^<<v28-24-2,2>>^ Ela abre a boca na assembleia do Altíssimo, gloria-se diante dos exércitos do Senhor,
+
+[[v28-24-3]]
+
+^<<v28-24-3,3>>^ é exaltada no meio do seu povo, e admirada na assembleia santa.
+
+[[v28-24-4]]
+
+^<<v28-24-4,4>>^ Entre a multidão dos eleitos, recebe louvores, e bênçãos entre os abençoados de Deus.
+
+[[v28-24-5]]
+
+^<<v28-24-5,5>>^ Ela diz: “Saí da boca do Altíssimo; nasci antes de toda criatura.
+
+[[v28-24-6]]
+
+^<<v28-24-6,6>>^ Eu fiz levantar no céu uma luz indefectível, e cobri toda a terra como que de uma nuvem.
+
+[[v28-24-7]]
+
+^<<v28-24-7,7>>^ Habitei nos lugares mais altos: meu trono está numa coluna de nuvens.
+
+[[v28-24-8]]
+
+^<<v28-24-8,8>>^ Sozinha percorri a abóbada celeste, e penetrei nas profundezas dos abismos. Andei sobre as ondas do mar,
+
+[[v28-24-9]]
+
+^<<v28-24-9,9>>^ e percorri toda a terra. Imperei sobre todos os povos
+
+[[v28-24-10]]
+
+^<<v28-24-10,10>>^ e sobre todas as nações.
+
+[[v28-24-11]]
+
+^<<v28-24-11,11>>^ Tive sob os meus pés, com meu poder, os corações de todos os homens, grandes e pequenos. Entre todas as coisas procurei um lugar de repouso, e habitarei na moradia do Senhor.^&#42;1^
+
+[[v28-24-12]]
+
+^<<v28-24-12,12>>^ Então, a voz do Criador do universo deu-me suas ordens, e aquele que me criou repousou sob minha tenda.^&#42;1^
+
+[[v28-24-13]]
+
+^<<v28-24-13,13>>^ E disse-me: “Habita em Jacó, possui tua herança em Israel, estende tuas raízes entre os eleitos”.
+
+[[v28-24-14]]
+
+^<<v28-24-14,14>>^ Desde o início, antes de todos os séculos, ele me criou, e não deixarei de existir até o fim dos séculos; e exerci as minhas funções diante dele na casa santa.
+
+[[v28-24-15]]
+
+^<<v28-24-15,15>>^ Assim fui firmada em Sião; repousei na cidade santa, e em Jerusalém está a sede do meu poder.
+
+[[v28-24-16]]
+
+^<<v28-24-16,16>>^ Lancei raízes no meio de um povo glorioso, cuja herança está na partilha de meu Deus; e fixei minha morada na assembleia dos santos.^&#42;1^
+
+[[v28-24-17]]
+
+^<<v28-24-17,17>>^ Elevei-me como o cedro do Líbano, como o cipreste do monte Sião;^&#42;1^
+
+[[v28-24-18]]
+
+^<<v28-24-18,18>>^ cresci como a palmeira de Cades, como as roseiras de Jericó.^&#42;1^
+
+[[v28-24-19]]
+
+^<<v28-24-19,19>>^ Elevei-me como uma formosa oliveira nos campos, como um plátano no caminho à beira das águas.
+
+[[v28-24-20]]
+
+^<<v28-24-20,20>>^ Exalo um perfume de canela e de bálsamo odorífero, um perfume como de mirra escolhida;
+
+[[v28-24-21]]
+
+^<<v28-24-21,21>>^ como o estoraque, o gálbano, o ônix e a mirra, como a gota de incenso que cai por si própria, perfumei minha morada. Meu perfume é como o de um bálsamo sem mistura.^&#42;1^
+
+[[v28-24-22]]
+
+^<<v28-24-22,22>>^ Estendi meus galhos como um terebinto, meus ramos são de honra e de graça.
+
+[[v28-24-23]]
+
+^<<v28-24-23,23>>^ Cresci como a vinha de frutos de agradável odor, e minhas flores são frutos de glória e abundância.
+
+[[v28-24-24]]
+
+^<<v28-24-24,24>>^ Sou a mãe do puro amor, do temor (a Deus), da ciência e da santa esperança,
+
+[[v28-24-25]]
+
+^<<v28-24-25,25>>^ em mim se acha toda a graça do caminho e da verdade, em mim toda a esperança da vida e da virtude.
+
+[[v28-24-26]]
+
+^<<v28-24-26,26>>^ Vinde a mim todos os que me desejais com ardor, e enchei-vos de meus frutos;
+
+[[v28-24-27]]
+
+^<<v28-24-27,27>>^ pois meu espírito é mais doce do que o mel, e minha posse mais suave que o favo de mel.
+
+[[v28-24-28]]
+
+^<<v28-24-28,28>>^ A memória de meu nome durará por toda a série dos séculos.
+
+[[v28-24-29]]
+
+^<<v28-24-29,29>>^ Aqueles que me comem terão ainda fome, e aqueles que me bebem terão ainda sede.
+
+[[v28-24-30]]
+
+^<<v28-24-30,30>>^ Aquele que me ouve não será humilhado, e os que agem por mim não pecarão.
+
+[[v28-24-31]]
+
+^<<v28-24-31,31>>^ Aqueles que me tornam conhecida terão a vida eterna.
+
+[[v28-24-32]]
+
+^<<v28-24-32,32>>^ Tudo isso é o livro da vida, a aliança do Altíssimo, e o conhecimento da verdade.^&#42;1^
+
+[[v28-24-33]]
+
+^<<v28-24-33,33>>^ Moisés deu-nos a Lei com os preceitos da justiça, a herança da casa de Jacó e as promessas feitas a Israel.
+
+[[v28-24-34]]
+
+^<<v28-24-34,34>>^ Deus prometeu a seu servo Davi que faria sair dele um rei muito poderoso, o qual se sentaria eternamente num trono de glória.
+
+[[v28-24-35]]
+
+^<<v28-24-35,35>>^ A Lei faz transbordar a sabedoria como o Fison, e como o Tigre na época dos frutos novos;^&#42;1^
+
+[[v28-24-36]]
+
+^<<v28-24-36,36>>^ ela espalha a inteligência como o Eufrates, e uma inundação como a do Jordão no tempo da colheita.
+
+[[v28-24-37]]
+
+^<<v28-24-37,37>>^ É ela quem derrama a ciência como o Nilo, soltando as águas como o Geon no tempo da vindima.
+
+[[v28-24-38]]
+
+^<<v28-24-38,38>>^ Foi ele quem primeiro a conheceu perfeitamente, essa sabedoria impenetrável às almas fracas.^&#42;1^
+
+[[v28-24-39]]
+
+^<<v28-24-39,39>>^ O seu pensamento é mais vasto do que o mar, e seu conselho, mais profundo do que o grande abismo.
+
+[[v28-24-40]]
+
+^<<v28-24-40,40>>^ Eu, a sabedoria, fiz correr os rios.
+
+[[v28-24-41]]
+
+^<<v28-24-41,41>>^ Sou como o curso de água imensa de um rio, como o canal de uma ribeira, e como um aqueduto saindo do paraíso.
+
+[[v28-24-42]]
+
+^<<v28-24-42,42>>^ Eu disse: “Regarei as plantas do meu jardim, darei de beber aos frutos de meu prado”;
+
+[[v28-24-43]]
+
+^<<v28-24-43,43>>^ e eis que meu curso de água tornou-se abundante, e meu rio tornou-se um mar.
+
+[[v28-24-44]]
+
+^<<v28-24-44,44>>^ Pois a luz da ciência que eu derramo sobre todos é como a luz da manhã, e de longe eu a torno conhecida.
+
+[[v28-24-45]]
+
+^<<v28-24-45,45>>^ Penetrarei em todas as profundezas da terra, visitarei todos aqueles que dormem, e alumiarei todos os que confiam no Senhor.
+
+[[v28-24-46]]
+
+^<<v28-24-46,46>>^ Continuarei a espalhar a minha doutrina como uma profecia, e a deixarei aos que buscam a sabedoria, e não abandonarei seus descendentes até o século santo.
+
+[[v28-24-47]]
+
+^<<v28-24-47,47>>^ Considerai que não trabalhei só para mim, mas para todos aqueles que buscam a verdade.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-023.adoc#v28-23-0[&#60; Capítulo Anterior] | <<v28-24-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-025.adoc#v28-25-0[Próximo Capítulo &#62;]

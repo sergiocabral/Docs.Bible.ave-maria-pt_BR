@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v2-5-0]]
+=== Êxodo, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 5 de Êxodo narra a reação negativa do faraó e dos capatazes egípcios à solicitação de Moisés e Arão para que o povo de Israel fosse autorizado a deixar o Egito por um tempo para adorar a Deus. Em vez de permitir que o povo de Israel saísse, o faraó ordena que mais trabalho seja imposto a eles, o que leva a uma maior opressão e sofrimento do povo. A seguir, cinco versículos relacionados com os temas abordados em Êxodo 5:
+* Salmos 22:24: "Porque não desprezou, nem abominou a aflição do aflito, nem escondeu dele o seu rosto; antes, quando ele clamou, o ouviu." Este versículo destaca a compaixão e atenção de Deus aos que sofrem e clamam por ajuda. Isso é relevante para o capítulo 5 de Êxodo, onde o povo de Israel sofre com a opressão e a falta de compaixão do faraó e dos capatazes.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo destaca como Deus está presente e oferece força e ajuda para seus seguidores em momentos difíceis. Isso é relevante para o capítulo 5 de Êxodo, onde o povo de Israel enfrenta dificuldades e oprimidos pelo faraó.
+* Salmos 44:23: "Desperta! Por que dormes, Senhor? Acorda! Não nos rejeites para sempre." Este versículo expressa um apelo para que Deus acorde e atue em favor dos seus seguidores que sofrem. Isso é relevante para o capítulo 5 de Êxodo, onde o povo de Israel clama por libertação e alívio do sofrimento e opressão.
+* Salmos 55:22: "Lança o teu cuidado sobre o Senhor, e ele te susterá; nunca permitirá que o justo seja abalado." Este versículo destaca a importância de confiar em Deus e depositar nossas preocupações e cuidados nele. Isso é relevante para o capítulo 5 de Êxodo, onde o povo de Israel enfrenta dificuldades e opressão e precisa confiar em Deus para obter alívio e libertação.
+* Isaías 49:15: "Porventura, pode uma mulher esquecer-se do filho que ainda mama, de sorte que não se compadeça do filho do seu ventre? Mas ainda que esta viesse a se esquecer dele, contudo, eu não me esquecerei de ti." Este versículo destaca o amor e cuidado de Deus pelos seus seguidores, comparando-o ao amor incondicional de uma mãe por seu filho. Isso é relevante para o capítulo 5 de Êxodo, onde o povo de Israel sofre com a opressão e a falta de compaixão do faraó e dos capatazes, mas Deus continua a amá-los e cuidar deles.
+****
+
+[[v2-5-1]]
+
+^<<v2-5-1,1>>^ Depois disso, Moisés e Aarão dirigiram-se ao faraó e disseram-lhe: “Assim fala o Senhor, o Deus de Israel: Deixa ir o meu povo, para que me faça uma festa no deserto”.
+
+[[v2-5-2]]
+
+^<<v2-5-2,2>>^ O faraó respondeu: “Quem é esse Senhor, para que eu lhe deva obedecer, deixando partir Israel? Não conheço o Senhor, e não deixarei partir Israel”.
+
+[[v2-5-3]]
+
+^<<v2-5-3,3>>^ Eles prosseguiram: “O Deus dos hebreus nos apareceu. Deixa-nos ir ao deserto, a três dias de caminho, para oferecer sacrifícios ao Senhor, para que não nos fira ele pela peste ou pela espada”.
+
+[[v2-5-4]]
+
+^<<v2-5-4,4>>^ O rei do Egito disse-lhes: “Moisés e Aarão, por que quereis desviar o povo do seu trabalho? Ide às vossas ocupações”.
+
+[[v2-5-5]]
+
+^<<v2-5-5,5>>^ E ajuntou: “O povo é, atualmente, numeroso, e vós o faríeis interromper seus trabalhos!”.
+
+[[v2-5-6]]
+
+^<<v2-5-6,6>>^ Naquele mesmo dia, deu o faraó ao inspetor do povo e aos vigias esta ordem:
+
+[[v2-5-7]]
+
+^<<v2-5-7,7>>^ “Não fornecereis mais, como dantes, a palha ao povo para fazer os tijolos: irão eles mesmos procurá-la.
+
+[[v2-5-8]]
+
+^<<v2-5-8,8>>^ Entretanto, exigi deles a mesma quantidade de tijolos que antes, sem nada diminuir. São uns preguiçosos. É por isso que clamam: queremos ir oferecer sacrifícios ao nosso Deus.
+
+[[v2-5-9]]
+
+^<<v2-5-9,9>>^ Que sejam sobrecarregados de trabalhos; ocupem-se eles de suas tarefas e não deem ouvidos às mentiras que se lhes contam!”.
+
+[[v2-5-10]]
+
+^<<v2-5-10,10>>^ Os inspetores e os vigias do povo foram dizer-lhes:
+
+[[v2-5-11]]
+
+^<<v2-5-11,11>>^ “O faraó manda-vos dizer que já não vos fornecerá palha; e que vós mesmos devereis procurá-la onde houver, mas nada se diminuirá de vosso trabalho”.
+
+[[v2-5-12]]
+
+^<<v2-5-12,12>>^ Espalhou-se, pois, o povo por todo o Egito para ajuntar restolho e transformá-lo em palha.
+
+[[v2-5-13]]
+
+^<<v2-5-13,13>>^ Os inspetores instavam com eles, dizendo: “Aprontai vossa tarefa diária, como quando se vos fornecia palha”.
+
+[[v2-5-14]]
+
+^<<v2-5-14,14>>^ Açoitavam até os vigias israelitas que os inspetores do faraó tinham estabelecido sobre eles. Diziam-lhes: “Por que não terminastes, ontem e hoje, como antes, o que se vos havia fixado de tijolos a fazer?”.
+
+[[v2-5-15]]
+
+^<<v2-5-15,15>>^ Os vigias israelitas foram queixar-se ao faraó: “Por que – perguntaram eles – procedes desse modo com os teus servos?
+
+[[v2-5-16]]
+
+^<<v2-5-16,16>>^ Não se nos fornece mais a palha e se nos diz: fazei tijolos. E chegam até a nos açoitar (como se) teu povo estivesse em falta”.
+
+[[v2-5-17]]
+
+^<<v2-5-17,17>>^ O faraó respondeu: “Vós sois uns preguiçosos, sim, uns preguiçosos! É por isso que dizeis: queremos ir oferecer sacrifícios ao Senhor.
+
+[[v2-5-18]]
+
+^<<v2-5-18,18>>^ E agora, ao trabalho! Não se vos fornecerá a palha, mas deveis entregar a mesma quantidade de tijolos”.
+
+[[v2-5-19]]
+
+^<<v2-5-19,19>>^ Os vigias israelitas, aos quais diziam: “Nada diminuireis da entrega diária de tijolos”, viram-se em um cruel embaraço.
+
+[[v2-5-20]]
+
+^<<v2-5-20,20>>^ Saindo da casa do faraó, encontraram Moisés e Aarão que os esperavam.
+
+[[v2-5-21]]
+
+^<<v2-5-21,21>>^ Disseram-lhes: “Que o Senhor vos veja e vos julgue, vós, que atraístes sobre nós a aversão do faraó e de sua gente, e pusestes em suas mãos a espada para nos matar”.
+
+[[v2-5-22]]
+
+^<<v2-5-22,22>>^ Moisés voltou-se de novo para o Senhor: “Ó Senhor – disse-lhe ele – por que fizestes mal a este povo? Por que me enviastes?
+
+[[v2-5-23]]
+
+^<<v2-5-23,23>>^ Desde que fui falar ao faraó em vosso nome, ele maltrata o povo, e vós não o livrastes de maneira alguma”.
+
+'''
+
+xref:002-exodo/002-exodo-004.adoc#v2-4-0[&#60; Capítulo Anterior] | <<v2-5-0,Topo>> | xref:002-exodo/002-exodo-006.adoc#v2-6-0[Próximo Capítulo &#62;]

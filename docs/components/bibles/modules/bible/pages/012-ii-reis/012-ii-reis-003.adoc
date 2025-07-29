@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v12-3-0]]
+=== II Reis, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Reis 3 narra a história do rei Jorão de Israel, do rei Jeosafá de Judá e do rei de Edom, que se uniram para lutar contra Moabe. Eles marcharam pelo deserto de Edom e ficaram sem água. Então, eles procuraram o profeta Eliseu, que pediu um tocador de harpa e profetizou que Deus forneceria água milagrosamente. Deus cumpriu a profecia de Eliseu e forneceu água suficiente para as tropas e os animais. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Reis 3:
+* Salmos 104:10-13: "Faz brotar relva para o gado, e plantas para o homem cultivar, tirando da terra o alimento: o vinho, que alegra o coração humano; o azeite, que faz brilhar o rosto, e o pão que sustenta o vigor da vida." Este versículo fala sobre como Deus fornece alimento e bebida para a humanidade. Em 2 Reis 3, Deus forneceu água milagrosamente para as tropas e animais que estavam com sede.
+* Isaías 41:17-18: "Os aflitos e os necessitados buscam água, mas não a encontram; a língua lhes resseca de sede. Mas eu, o Senhor, os atenderei; eu, o Deus de Israel, não os abandonarei. Abrirei rios nas colinas estéreis, e fontes no meio dos vales; tornarei o deserto em lago, e a terra ressequida em mananciais." Este versículo se relaciona com a situação das tropas de Jorão, Jeosafá e o rei de Edom que estavam com sede no deserto, mas Deus atendeu suas necessidades fornecendo água.
+* Deuteronômio 2:4-5: "Dai ordem ao povo: 'Estais passando pelo território dos vossos irmãos, os descendentes de Esaú, que habitam em Seir. Eles terão medo de vós, mas tende cuidado. Não vos envolvais numa guerra com eles, porque não vos darei nem sequer uma palma de terra. Darei como herança aos descendentes de Esaú o território que agora ocupam." Este versículo fala sobre a importância de respeitar os limites territoriais dos outros povos e evitar conflitos desnecessários. Em 2 Reis 3, Jorão, Jeosafá e o rei de Edom lutaram contra Moabe, mas enfrentaram dificuldades no caminho.
+* Mateus 5:9: "Bem-aventurados os pacificadores, pois serão chamados filhos de Deus." Este versículo se relaciona com a importância da paz e da reconciliação entre os povos. Em 2 Reis 3, Jorão, Jeosafá e o rei de Edom se uniram para lutar contra Moabe, mas enfrentaram dificuldades no caminho.
+* Filipenses 4:19: "O meu Deus suprirá todas as necessidades de vocês, de acordo com as suas gloriosas riquezas em Cristo Jesus." Este versículo fala sobre como Deus supre todas as necessidades daqueles que confiam Nele. Em 2 Reis 3, Eliseu profetizou que Deus forneceria água milagrosamente para as tropas e animais que estavam com sede, e Deus cumpriu a Sua promessa. Esse versículo nos lembra que podemos confiar em Deus para nos suprir em todas as nossas necessidades.
+****
+
+[[v12-3-1]]
+
+^<<v12-3-1,1>>^ No décimo oitavo ano de Josafá, rei de Judá, Jorão, filho de Acab, tornou-se rei de Israel em Samaria e reinou durante doze anos.
+
+[[v12-3-2]]
+
+^<<v12-3-2,2>>^ Fez o mal aos olhos do Senhor, mas não tanto como seu pai e sua mãe, porque tirou a estela que seu pai tinha erigido a Baal.
+
+[[v12-3-3]]
+
+^<<v12-3-3,3>>^ Perseverou todavia nos pecados de Jeroboão, filho de Nabat, que fez pecar Israel e não se apartou deles.
+
+[[v12-3-4]]
+
+^<<v12-3-4,4>>^ Mesa, rei de Moab, possuidor de muitos rebanhos, pagava ao rei de Israel, à guisa de tributo, cem mil cordeiros e a lã de cem mil carneiros.
+
+[[v12-3-5]]
+
+^<<v12-3-5,5>>^ Morrendo, porém, Acab, ele libertou-se do rei de Israel.
+
+[[v12-3-6]]
+
+^<<v12-3-6,6>>^ O rei Jorão saiu de Samaria e passou em revista todo o Israel.
+
+[[v12-3-7]]
+
+^<<v12-3-7,7>>^ Em seguida, mandou dizer a Josafá, rei de Judá: “O rei de Moab rebelou-se contra mim; queres vir comigo para atacá-lo?”. “Sim – respondeu Josafá –, farei o que fizeres, meu povo fará o que fizer o teu, minha cavalaria fará o que fizer a tua.”
+
+[[v12-3-8]]
+
+^<<v12-3-8,8>>^ E ajuntou: “Por onde iremos?”. “Pelo caminho do deserto de Edom.”
+
+[[v12-3-9]]
+
+^<<v12-3-9,9>>^ O rei de Israel, o rei de Judá e o rei de Edom puseram-se em marcha, mas depois de darem uma volta de sete dias de marcha, veio a faltar água, tanto para o exército como para os animais que o seguiam.
+
+[[v12-3-10]]
+
+^<<v12-3-10,10>>^ O rei de Israel exclamou: “Ai! O Senhor juntou aqui os três reis para entregá-los ao rei de Moab!”.
+
+[[v12-3-11]]
+
+^<<v12-3-11,11>>^ Josafá disse: “Não há por aqui algum profeta do Senhor, para por meio dele consultarmos o Senhor?”. “Sim – respondeu um dos servos do rei de Israel –, está aqui Eliseu, filho de Safat, que derramava água nas mãos de Elias.”
+
+[[v12-3-12]]
+
+^<<v12-3-12,12>>^ Josafá disse: “A palavra do Senhor está com ele”. E desceram a ele Josafá, o rei de Israel, e o rei de Edom.
+
+[[v12-3-13]]
+
+^<<v12-3-13,13>>^ Eliseu disse ao rei de Israel: “Que queres de mim, ó rei? Vai procurar os profetas de teu pai e de tua mãe”. “Não – disse-lhe o rei de Israel –, porque o Senhor reuniu aqui estes três reis para entregá-los ao rei de Moab.”
+
+[[v12-3-14]]
+
+^<<v12-3-14,14>>^ Eliseu exclamou: “Pela vida do Senhor dos exércitos a quem sirvo, se não fosse em atenção a Josafá, rei de Judá, eu não faria caso algum de ti, nem mesmo poria em ti os meus olhos.
+
+[[v12-3-15]]
+
+^<<v12-3-15,15>>^ Mas agora trazei-me um tocador de harpa”. Apenas fez o tocador vibrar as cordas, veio a mão do Senhor sobre Eliseu^&#42;1^
+
+[[v12-3-16]]
+
+^<<v12-3-16,16>>^ e este disse: “Eis o que diz o Senhor: ‘Cavai neste vale fossas e fossas!’.
+
+[[v12-3-17]]
+
+^<<v12-3-17,17>>^ Eis o que diz o Senhor: ‘Não sentireis vento nem vereis chuva e contudo este vale se encherá de água e bebereis vós, vossos rebanhos e vossos animais de carga’.
+
+[[v12-3-18]]
+
+^<<v12-3-18,18>>^ Porém, isto é pouco aos olhos do Senhor; ele vai entregar também Moab nas vossas mãos.
+
+[[v12-3-19]]
+
+^<<v12-3-19,19>>^ Destruireis todas as cidades fortes, as cidades mais importantes, derrubareis todas as árvores frutíferas, tapareis todas as fontes e cobrireis de pedras todos os campos férteis”.
+
+[[v12-3-20]]
+
+^<<v12-3-20,20>>^ No dia seguinte pela manhã, à hora da oblação, desceram as águas do lado de Edom e a terra encheu-se de água.
+
+[[v12-3-21]]
+
+^<<v12-3-21,21>>^ Ouvindo os moabitas que aqueles reis vinham atacá-los, mobilizaram todos os que estavam na idade de pegar em armas e foram para a fronteira.
+
+[[v12-3-22]]
+
+^<<v12-3-22,22>>^ Na manhã seguinte, quando o sol se levantava sobre as águas, os moabitas viram diante de si as águas vermelhas como sangue.
+
+[[v12-3-23]]
+
+^<<v12-3-23,23>>^ “É sangue!” – exclamaram eles. “Os reis pelejaram entre si e destruíram-se mutuamente. Vamos, Moab, à presa!”
+
+[[v12-3-24]]
+
+^<<v12-3-24,24>>^ Logo, porém, que chegaram para atacar o acampamento dos israelitas, estes levantaram-se e feriram os moabitas, que fugiram diante deles. E, enquanto os feriam, iam penetrando mais adentro na sua terra.
+
+[[v12-3-25]]
+
+^<<v12-3-25,25>>^ Destruíram as cidades, encheram toda a terra fértil de pedras, que cada um lançou, entupiram todas as fontes, derrubaram todas as árvores frutíferas, de modo que só ficaram as pedras da cidade de Quir-Hares, que tinha sido cercada e atacada pelos atiradores de funda.
+
+[[v12-3-26]]
+
+^<<v12-3-26,26>>^ Vendo o rei de Moab que perdia o combate, tomou consigo setecentos homens armados de espada para abrir caminho até o rei de Edom, mas não conseguiu.
+
+[[v12-3-27]]
+
+^<<v12-3-27,27>>^ Tomando então o seu filho primogênito, que deveria reinar depois dele, ofereceu-o em holocausto sobre a muralha. Isso provocou uma tal indignação entre os israelitas, que estes se retiraram e voltaram para a sua terra.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-002.adoc#v12-2-0[&#60; Capítulo Anterior] | <<v12-3-0,Topo>> | xref:012-ii-reis/012-ii-reis-004.adoc#v12-4-0[Próximo Capítulo &#62;]

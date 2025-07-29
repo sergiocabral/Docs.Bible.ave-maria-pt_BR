@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v16-4-0]]
+=== Neemias, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Neemias 4 narra a oposição e oposições enfrentadas pelos judeus na reconstrução dos muros de Jerusalém. No capítulo, os inimigos se opõem à obra, zombam dos judeus, planejam atacá-los e espalhar mentiras sobre eles. Em resposta, Neemias organiza os trabalhadores, encoraja-os a confiar em Deus e toma medidas de precaução contra os ataques. Aqui estão cinco versículos relacionados com os temas abordados em Neemias 4:
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo encoraja os judeus a confiar em Deus para proteção e ajuda, como Neemias fez quando se enfrentou com a oposição.
+* Salmo 46:1: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia." Neemias confia em Deus como sua proteção contra os inimigos, e este salmo reflete essa confiança.
+* Provérbios 21:31: "O cavalo prepara-se para o dia da batalha, mas o SENHOR é que dá a vitória." Neemias tomou medidas de precaução para se proteger dos ataques dos inimigos, mas reconheceu que a vitória vinha do Senhor.
+* Efésios 6:11: "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo." Neemias encorajou os trabalhadores a se protegerem com armas enquanto reconheciam que a luta não era apenas física, mas espiritual.
+* Neemias 4:20: "No lugar onde ouvirdes o som da buzina, ali vos ajuntareis conosco; o nosso Deus pelejará por nós." Este versículo reflete a confiança de Neemias e dos judeus de que Deus lutaria por eles e protegeria a obra que estavam fazendo.
+****
+
+[[v16-4-1]]
+
+^<<v16-4-1,1>>^ Quando Sanabalat, Tobias, os árabes, os amonitas e os azoteus souberam que prosseguíamos na reparação das muralhas de Jerusalém e que as fendas começavam a desaparecer, ficaram enraivecidos.
+
+[[v16-4-2]]
+
+^<<v16-4-2,2>>^ Coligaram-se todos para vir atacar Jerusalém e semear ali a confusão.^&#42;1^
+
+[[v16-4-3]]
+
+^<<v16-4-3,3>>^ Fizemos oração ao nosso Deus e estabelecemos uma guarda de dia e de noite para nos proteger contra eles.
+
+[[v16-4-4]]
+
+^<<v16-4-4,4>>^ Já o povo de Judá dizia: “Os transportadores estão quase sem forças e há ainda grande quantidade de escombros. Jamais conseguiremos reconstruir a muralha”.
+
+[[v16-4-5]]
+
+^<<v16-4-5,5>>^ E nossos inimigos diziam: “Vamos atacá-los sem que saibam e antes que vejam algo. Nós os mataremos e faremos parar a obra”.
+
+[[v16-4-6]]
+
+^<<v16-4-6,6>>^ Os judeus que habitavam nas vizinhanças vieram até dez vezes advertir-nos acerca dos lugares de onde possivelmente nossos inimigos viriam atacar-nos.
+
+[[v16-4-7]]
+
+^<<v16-4-7,7>>^ Coloquei, pois, como anteparo, por detrás das muralhas, nos pontos descobertos, o povo dividido em famílias, com as suas espadas, lanças e arcos.
+
+[[v16-4-8]]
+
+^<<v16-4-8,8>>^ Tendo terminado a inspeção, achei que era de meu dever exortar os homens importantes, os magistrados e o restante do povo: “Não tenhais medo deles!” – disse-lhes eu –. “Lembrai-vos de que o Senhor é grande e temível; combatei por vossos irmãos, vossos filhos e filhas, vossas mulheres e vossas casas!”.
+
+[[v16-4-9]]
+
+^<<v16-4-9,9>>^ Quando nossos inimigos souberam que estávamos informados, compreenderam que Deus lhes aniquilava o projeto. Nós, pois, retornamos todos à muralha, cada um ao seu trabalho.
+
+[[v16-4-10]]
+
+^<<v16-4-10,10>>^ Mas, depois daquele dia, a metade dos homens trabalhava na construção, enquanto a outra metade estava armada de lanças, escudos, arcos e couraças; e os chefes estavam atrás deles com toda a gente de Judá.
+
+[[v16-4-11]]
+
+^<<v16-4-11,11>>^ Entre os que estavam ocupados na muralha, os transportadores trabalhavam com uma das mãos e, na outra, traziam uma arma;
+
+[[v16-4-12]]
+
+^<<v16-4-12,12>>^ os pedreiros tinham cada um sua espada na cinta ao redor dos rins; foi assim que se fez a alvenaria. Um corneteiro estava sempre junto de mim.
+
+[[v16-4-13]]
+
+^<<v16-4-13,13>>^ E eu disse aos homens importantes, aos magistrados e ao resto do povo: “O trabalho é considerável e se estende por um vasto espaço; nós nos encontramos dispersos na muralha, uns à grande distância dos outros.
+
+[[v16-4-14]]
+
+^<<v16-4-14,14>>^ Quando, pois, tocar a trombeta, de qualquer canto em que vós a escuteis, reuni-vos a nós. Nosso Deus combaterá por nós”.
+
+[[v16-4-15]]
+
+^<<v16-4-15,15>>^ Assim trabalhávamos desde o despontar da aurora até a aparição das estrelas, enquanto a metade dos homens empunhava a arma.
+
+[[v16-4-16]]
+
+^<<v16-4-16,16>>^ Ao mesmo tempo, eu disse ao povo: “Cada um, com seu ajudante, passe a noite em Jerusalém, para nos auxiliar a montar a guarda durante a noite e a trabalhar durante o dia”.
+
+[[v16-4-17]]
+
+^<<v16-4-17,17>>^ Quanto a mim, a meus irmãos, a minha gente e aos guardas de minha escolta, nem mesmo trocávamos nossas vestes; cada um guardava sua arma ao alcance da mão.
+
+'''
+
+xref:016-neemias/016-neemias-003.adoc#v16-3-0[&#60; Capítulo Anterior] | <<v16-4-0,Topo>> | xref:016-neemias/016-neemias-005.adoc#v16-5-0[Próximo Capítulo &#62;]

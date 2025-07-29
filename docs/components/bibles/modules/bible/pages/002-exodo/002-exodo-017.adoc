@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v2-17-0]]
+=== Êxodo, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Êxodo 17 narra a história da batalha entre os israelitas e os amalequitas, na qual Moisés intercede a Deus enquanto Josué lidera a batalha. Aqui estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Êxodo 15:3: "O Senhor é um guerreiro; o Senhor é o seu nome." Este versículo descreve Deus como um guerreiro, o que é relevante para a batalha descrita em Êxodo 17.
+* Deuteronômio 25:17-19: Este trecho reconta a batalha entre os israelitas e os amalequitas, que ocorreu em Refidim. O versículo 19 é especialmente relevante, pois declara que Deus ordenou que os israelitas destruíssem completamente os amalequitas.
+* Salmos 121:2: "O meu socorro vem do Senhor, que fez os céus e a terra." Este versículo enfatiza a confiança em Deus em tempos de dificuldade, algo que os israelitas demonstraram durante a batalha em Êxodo 17.
+* Isaías 41:10: "Não tenha medo, pois estou com você; não tenha medo, pois sou o seu Deus. Eu o fortalecerei e o ajudarei; eu o segurarei com a minha mão direita vitoriosa." Este versículo oferece encorajamento e conforto, algo que Deus ofereceu aos israelitas durante a batalha em Êxodo 17.
+* Filipenses 4:13: "Tudo posso naquele que me fortalece." Este versículo enfatiza a ideia de que Deus dá força e capacidade às pessoas para lidar com desafios e dificuldades, algo que os israelitas experimentaram durante a batalha em Êxodo 17.
+****
+
+[[v2-17-1]]
+
+^<<v2-17-1,1>>^ Segundo uma ordem do Senhor, toda a assembleia dos israelitas partiu, por etapas, do deserto de Sin. Acamparam em Rafidim, onde não havia água para o povo beber.
+
+[[v2-17-2]]
+
+^<<v2-17-2,2>>^ E vieram então discutir com Moisés: “Dá-nos água para beber” – disseram eles. Moisés respondeu-lhes: “Por que procurais contendas comigo? Por que provocais o Senhor?”.
+
+[[v2-17-3]]
+
+^<<v2-17-3,3>>^ Entretanto, o povo que ali estava privado de água e devorado pela sede, murmurava contra Moisés: “Por que nos fizeste sair do Egito? Para nos fazer morrer de sede com nossos filhinhos e nossos rebanhos?”.
+
+[[v2-17-4]]
+
+^<<v2-17-4,4>>^ Então dirigiu Moisés esta prece ao Senhor: “Que farei a este povo? Mais um pouco e irão apedrejar-me”.
+
+[[v2-17-5]]
+
+^<<v2-17-5,5>>^ O Senhor respondeu a Moisés: “Passa adiante do povo, e leva contigo alguns dos anciãos de Israel; toma na mão tua vara, com que feriste o Nilo, e vai.
+
+[[v2-17-6]]
+
+^<<v2-17-6,6>>^ Eis que estarei ali diante de ti. Sobre o rochedo do monte Horeb ferirás o rochedo e a água jorrará dele: assim o povo poderá beber”. Isso fez Moisés em presença dos anciãos de Israel.^&#42;1^
+
+[[v2-17-7]]
+
+^<<v2-17-7,7>>^ Chamaram esse lugar Massa e Meriba, por causa da contenda que os israelitas tiveram com ele, e porque tinham provocado o Senhor, dizendo: “O Senhor está ou não no meio de nós?”.^&#42;1^
+
+[[v2-17-8]]
+
+^<<v2-17-8,8>>^ Amalec veio atacar Israel em Rafidim.
+
+[[v2-17-9]]
+
+^<<v2-17-9,9>>^ Moisés disse a Josué: “Escolhe-nos homens e vai combater Amalec. Amanhã estarei no alto da colina com a vara de Deus na mão”.
+
+[[v2-17-10]]
+
+^<<v2-17-10,10>>^ Josué obedeceu Moisés e foi combater Amalec, enquanto Moisés, Aarão e Hur subiam ao alto da colina.
+
+[[v2-17-11]]
+
+^<<v2-17-11,11>>^ E, quando Moisés tinha a mão levantada, Israel vencia, mas logo que a abaixava, Amalec triunfava.
+
+[[v2-17-12]]
+
+^<<v2-17-12,12>>^ Mas como se fatigassem os braços de Moisés, puseram-lhe uma pedra por baixo e ele assentou-se nela, enquanto Aarão e Hur lhe sustentavam as mãos de cada lado: suas mãos puderam assim conservar-se levantadas até o pôr do sol,
+
+[[v2-17-13]]
+
+^<<v2-17-13,13>>^ e Josué derrotou Amalec e seu povo a fio da espada.
+
+[[v2-17-14]]
+
+^<<v2-17-14,14>>^ O Senhor disse a Moisés: “Escreve isto para lembrar, e dize a Josué que eu apagarei a memória de Amalec de debaixo do céu”.
+
+[[v2-17-15]]
+
+^<<v2-17-15,15>>^ Moisés construiu um altar que chamou de “O Senhor é minha bandeira”.^&#42;1^
+
+[[v2-17-16]]
+
+^<<v2-17-16,16>>^ “Já que a mão – disse ele – foi levantada contra o trono do Senhor, o Senhor está em guerra perpétua contra Amalec.”
+
+'''
+
+xref:002-exodo/002-exodo-016.adoc#v2-16-0[&#60; Capítulo Anterior] | <<v2-17-0,Topo>> | xref:002-exodo/002-exodo-018.adoc#v2-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v21-55-0]]
+=== Salmos, 55
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 55 é um lamento de Davi diante de sua angústia e sofrimento, causados pelas palavras e ações traiçoeiras de seus inimigos. O salmista implora a Deus que o salve e julgue seus inimigos, confiando que Ele ouvirá e agirá. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 55:
+* Salmos 31:22: "Mas eu confio em ti, Senhor, e digo: Tu és o meu Deus." Davi expressa sua confiança em Deus, mesmo em meio às dificuldades e traições.
+* Salmos 54:4: "Eis que Deus é o meu ajudador; o Senhor é quem sustenta a minha vida." O salmista reconhece que somente Deus pode ajudá-lo e sustentá-lo em momentos de aflição.
+* Salmos 56:9: "Quando eu a ti clamar, então voltarão para trás os meus inimigos; isto sei eu, porque Deus é por mim." Davi confia que Deus o ouvirá e agirá em seu favor, fazendo seus inimigos recuarem.
+* Salmos 57:1: "Tem misericórdia de mim, ó Deus, tem misericórdia de mim, porque a minha alma confia em ti; e à sombra das tuas asas me abrigo, até que passem as calamidades." Davi clama por misericórdia e proteção divina, sabendo que somente em Deus pode encontrar refúgio.
+* Salmos 59:9: "Mas eu cantarei a tua força; pela manhã louvarei com alegria a tua misericórdia; porquanto tu foste o meu alto refúgio, e proteção no dia da minha angústia." Davi louva a Deus por sua força e misericórdia, reconhecendo que Ele é seu refúgio e proteção em meio à aflição.
+****
+
+[[v21-55-1]]
+
+^<<v21-55-1,1>>^ Ao mestre de canto. Conforme: “Muda pomba de longínquas terras”. Cântico de Davi, quando vai para junto dos filisteus, em Get.^&#42;1^
+
+[[v21-55-2]]
+
+^<<v21-55-2,2>>^ Tende piedade de mim, ó Deus, porque aos pés me pisam os homens; sem cessar eles me oprimem combatendo.
+
+[[v21-55-3]]
+
+^<<v21-55-3,3>>^ Meus inimigos continuamente me espezinham, são numerosos os que me fazem guerra.
+
+[[v21-55-4]]
+
+^<<v21-55-4,4>>^ Ó Altíssimo, quando o terror me assalta, é em vós que eu ponho a minha confiança.
+
+[[v21-55-5]]
+
+^<<v21-55-5,5>>^ É em Deus, cuja promessa eu proclamo, sim, é em Deus que eu ponho minha esperança; nada temo: que mal me pode fazer um ser de carne?
+
+[[v21-55-6]]
+
+^<<v21-55-6,6>>^ O dia inteiro eles me difamam, seus pensamentos todos são para o meu mal;
+
+[[v21-55-7]]
+
+^<<v21-55-7,7>>^ Reúnem-se, armam ciladas, observam meus passos, e odeiam a minha vida.
+
+[[v21-55-8]]
+
+^<<v21-55-8,8>>^ Tratai-os segundo a sua iniquidade. Ó meu Deus, em vossa cólera, prostrai esses povos.
+
+[[v21-55-9]]
+
+^<<v21-55-9,9>>^ Vós conheceis os caminhos do meu exílio, vós recolhestes minhas lágrimas em vosso cantil; não está tudo escrito em vosso livro?^&#42;1^
+
+[[v21-55-10]]
+
+^<<v21-55-10,10>>^ Sempre que vos invocar, meus inimigos recuarão: bem sei que Deus está por mim.
+
+[[v21-55-11]]
+
+^<<v21-55-11,11>>^ É em Deus, cuja promessa eu proclamo,
+
+[[v21-55-12]]
+
+^<<v21-55-12,12>>^ é em Deus que eu ponho minha esperança; nada temo: que mal me pode fazer um ser de carne?
+
+[[v21-55-13]]
+
+^<<v21-55-13,13>>^ Os votos que fiz, ó Deus, devo cumpri-los; eu vos oferecerei um sacrifício de louvor,
+
+[[v21-55-14]]
+
+^<<v21-55-14,14>>^ porque da morte livrastes a minha vida, e da queda preservastes os meus pés, para que eu ande na presença de Deus, na luz dos vivos.
+
+'''
+
+xref:021-salmos/021-salmos-054.adoc#v21-54-0[&#60; Capítulo Anterior] | <<v21-55-0,Topo>> | xref:021-salmos/021-salmos-056.adoc#v21-56-0[Próximo Capítulo &#62;]

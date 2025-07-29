@@ -1,0 +1,307 @@
+include::./index.adoc[]
+
+[[v21-77-0]]
+=== Salmos, 77
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 77 é um salmo de lamentação, em que o salmista expressa seu sofrimento e busca consolo em Deus. Ele questiona a Deus sobre o seu silêncio diante de suas aflições e lembra das obras maravilhosas que Deus fez no passado em favor do seu povo. A seguir, estão cinco versículos relacionados aos temas abordados em Salmo 77, em ordem de proximidade com o capítulo:
+* Salmos 22:2: "Deus meu, Deus meu, por que me desamparaste? Por que te alongas do meu auxílio e das palavras do meu bramido?" Assim como o salmista de Salmo 77, o salmista de Salmo 22 expressa sua dor e questiona o motivo do aparente abandono de Deus.
+* Salmos 13:1-2: "Até quando, SENHOR? Esquecer-te-ás de mim para sempre? Até quando esconderás de mim o teu rosto? Até quando consultarei com a minha alma, tendo tristeza no meu coração cada dia? Até quando se exaltará sobre mim o meu inimigo?" O salmista de Salmo 13 também se sente abandonado por Deus e se questiona sobre quanto tempo terá que suportar o sofrimento.
+* Salmos 44:23-24: "Desperta! Por que dormes, Senhor? Acorda! Não nos rejeites para sempre. Por que escondes o teu rosto e te esqueces da nossa miséria e opressão?" O salmista de Salmo 44 clama a Deus para que acorde e não os abandone em meio ao sofrimento.
+* Salmos 66:5: "Vinde, e vede as obras de Deus; é tremendo nos seus feitos para com os filhos dos homens." O salmista de Salmo 77 também lembra das obras maravilhosas de Deus no passado, e este versículo de Salmo 66 convida a todos a contemplarem as obras de Deus.
+* Salmos 86:7: "Invoco-te no dia da minha angústia, porque me respondes." Este versículo de Salmo 86 expressa a confiança do salmista em que Deus irá responder ao seu clamor, assim como o salmista de Salmo 77 espera encontrar consolo em Deus.
+****
+
+[[v21-77-1]]
+
+^<<v21-77-1,1>>^ Hino de Asaf. Escuta, ó meu povo, minha doutrina; às palavras de minha boca presta atenção.^&#42;1^
+
+[[v21-77-2]]
+
+^<<v21-77-2,2>>^ Abrirei os lábios, pronunciarei sentenças, desvendarei os mistérios das origens.^&#42;1^
+
+[[v21-77-3]]
+
+^<<v21-77-3,3>>^ O que ouvimos e aprendemos, através de nossos pais,
+
+[[v21-77-4]]
+
+^<<v21-77-4,4>>^ nada ocultaremos a seus filhos, narrando à geração futura os louvores do Senhor, seu poder e suas obras grandiosas.
+
+[[v21-77-5]]
+
+^<<v21-77-5,5>>^ Ele promulgou uma lei para Jacó, instituiu a legislação de Israel, para que aquilo que confiara a nossos pais, eles o transmitissem a seus filhos,
+
+[[v21-77-6]]
+
+^<<v21-77-6,6>>^ a fim de que a nova geração o conhecesse, e os filhos que lhes nascessem pudessem também contar aos seus.
+
+[[v21-77-7]]
+
+^<<v21-77-7,7>>^ Aprenderiam, assim, a pôr em Deus sua esperança, a não esquecer as divinas obras, a observar as suas leis;
+
+[[v21-77-8]]
+
+^<<v21-77-8,8>>^ e a não se tornar como seus pais, geração rebelde e contumaz, de coração desviado, de espírito infiel a Deus.
+
+[[v21-77-9]]
+
+^<<v21-77-9,9>>^ Os filhos de Efraim, hábeis no arco, voltaram as costas no dia do combate.^&#42;1^
+
+[[v21-77-10]]
+
+^<<v21-77-10,10>>^ Não guardaram a divina aliança, recusaram observar a sua Lei.
+
+[[v21-77-11]]
+
+^<<v21-77-11,11>>^ Eles esqueceram suas obras, e as maravilhas operadas ante seus olhos.
+
+[[v21-77-12]]
+
+^<<v21-77-12,12>>^ Em presença de seus pais, ainda em terras do Egito, ele fez grandes prodígios nas planícies de Tânis.
+
+[[v21-77-13]]
+
+^<<v21-77-13,13>>^ O mar foi dividido para lhes dar passagem, represando as águas, verticais como um dique;
+
+[[v21-77-14]]
+
+^<<v21-77-14,14>>^ De dia ele os conduziu por trás de uma nuvem, e à noite ao clarão de uma flama.
+
+[[v21-77-15]]
+
+^<<v21-77-15,15>>^ Rochedos foram fendidos por ele no deserto, com torrentes de água os dessedentara.
+
+[[v21-77-16]]
+
+^<<v21-77-16,16>>^ Da pedra fizera jorrar regatos, e fluir água como rios.
+
+[[v21-77-17]]
+
+^<<v21-77-17,17>>^ Entretanto, continuaram a pecar contra ele, e a se revoltar contra o Altíssimo no deserto.
+
+[[v21-77-18]]
+
+^<<v21-77-18,18>>^ Provocaram o Senhor em seus corações, reclamando iguarias de suas preferências.
+
+[[v21-77-19]]
+
+^<<v21-77-19,19>>^ E falaram contra Deus: “Deus será capaz de nos servir uma mesa no deserto?
+
+[[v21-77-20]]
+
+^<<v21-77-20,20>>^ Eis que feriu a rocha para fazer jorrar dela água em torrentes. Mas poderia ele nos dar pão e preparar carne para seu povo?”.
+
+[[v21-77-21]]
+
+^<<v21-77-21,21>>^ O Senhor ouviu e se irritou: sua cólera se acendeu contra Jacó, e sua ira se desencadeou contra Israel,
+
+[[v21-77-22]]
+
+^<<v21-77-22,22>>^ porque não tiveram fé em Deus, nem confiaram em seu auxílio.
+
+[[v21-77-23]]
+
+^<<v21-77-23,23>>^ Contudo, ele ordenou às nuvens do alto, e abriu as portas do céu:
+
+[[v21-77-24]]
+
+^<<v21-77-24,24>>^ fez chover o maná para saciá-los, deu-lhes o trigo do céu.^&#42;1^
+
+[[v21-77-25]]
+
+^<<v21-77-25,25>>^ Pôde o homem comer o pão dos fortes, e lhes mandou víveres em abundância,
+
+[[v21-77-26]]
+
+^<<v21-77-26,26>>^ depois fez soprar no céu o vento leste, e seu poder levantou o vento sul.
+
+[[v21-77-27]]
+
+^<<v21-77-27,27>>^ Fez chover carnes, então, como poeira, numerosas aves como as areias do mar,
+
+[[v21-77-28]]
+
+^<<v21-77-28,28>>^ As quais caíram em seus acampamentos, ao redor de suas tendas.
+
+[[v21-77-29]]
+
+^<<v21-77-29,29>>^ Delas comeram até se fartarem e satisfazerem os seus desejos.
+
+[[v21-77-30]]
+
+^<<v21-77-30,30>>^ Mas apenas o apetite saciaram, estando-lhes na boca ainda o alimento,
+
+[[v21-77-31]]
+
+^<<v21-77-31,31>>^ desencadeia-se contra eles a cólera divina, fazendo perecer a sua elite, e prostrando a juventude de Israel.
+
+[[v21-77-32]]
+
+^<<v21-77-32,32>>^ Malgrado tudo isso, persistiram em pecar, não se deixaram persuadir por seus prodígios.
+
+[[v21-77-33]]
+
+^<<v21-77-33,33>>^ Então, Deus pôs súbito termo a seus dias, e seus anos tiveram repentino fim.
+
+[[v21-77-34]]
+
+^<<v21-77-34,34>>^ Quando os feria, eles o procuravam, e de novo se voltavam para Deus.
+
+[[v21-77-35]]
+
+^<<v21-77-35,35>>^ E se lembravam que Deus era o seu rochedo, e que o Altíssimo lhes era o salvador.
+
+[[v21-77-36]]
+
+^<<v21-77-36,36>>^ Mas suas palavras enganavam, e lhe mentiam com a sua língua.
+
+[[v21-77-37]]
+
+^<<v21-77-37,37>>^ Seus corações não falavam com franqueza, não eram fiéis à sua aliança.
+
+[[v21-77-38]]
+
+^<<v21-77-38,38>>^ Mas ele, por compaixão, perdoava-lhes a falta e não os exterminava. Muitas vezes reteve sua cólera, não se entregando a todo o seu furor.
+
+[[v21-77-39]]
+
+^<<v21-77-39,39>>^ Sabendo que eles eram simples carne, um sopro só, que passa sem voltar.
+
+[[v21-77-40]]
+
+^<<v21-77-40,40>>^ Quantas vezes no deserto o provocaram, e na solidão o afligiram!
+
+[[v21-77-41]]
+
+^<<v21-77-41,41>>^ Recomeçaram a tentar a Deus, a exasperar o Santo de Israel.
+
+[[v21-77-42]]
+
+^<<v21-77-42,42>>^ Esqueceram a obra de suas mãos, no dia em que os livrou do adversário,
+
+[[v21-77-43]]
+
+^<<v21-77-43,43>>^ quando operou seus prodígios no Egito e maravilhas nas planícies de Tânis;
+
+[[v21-77-44]]
+
+^<<v21-77-44,44>>^ quando converteu seus rios em sangue, a fim de impedi-los de beber de suas águas;
+
+[[v21-77-45]]
+
+^<<v21-77-45,45>>^ quando enviou moscas para os devorar e rãs que os infestaram;
+
+[[v21-77-46]]
+
+^<<v21-77-46,46>>^ quando entregou suas colheitas aos pulgões, e aos gafanhotos o fruto de seu trabalho;
+
+[[v21-77-47]]
+
+^<<v21-77-47,47>>^ quando arrasou suas vinhas com o granizo, e suas figueiras com a geada;
+
+[[v21-77-48]]
+
+^<<v21-77-48,48>>^ quando extinguiu seu gado com saraivadas, e seus rebanhos pelos raios;
+
+[[v21-77-49]]
+
+^<<v21-77-49,49>>^ quando descarregou o ardor de sua cólera, indignação, furor, tribulação, um esquadrão de anjos da desgraça.
+
+[[v21-77-50]]
+
+^<<v21-77-50,50>>^ Deu livre curso à sua cólera; longe de preservá-los da morte, ele entregou à peste os seres vivos.
+
+[[v21-77-51]]
+
+^<<v21-77-51,51>>^ Matou os primogênitos no Egito, os primeiros partos nas habitações de Cam,
+
+[[v21-77-52]]
+
+^<<v21-77-52,52>>^ enquanto retirou seu povo como ovelhas, e o fez atravessar o deserto como rebanho.
+
+[[v21-77-53]]
+
+^<<v21-77-53,53>>^ Conduziu-o com firmeza sem nada ter que temer, enquanto aos inimigos os submergiu no mar.
+
+[[v21-77-54]]
+
+^<<v21-77-54,54>>^ Ele os levou para uma terra santa, até os montes que sua destra conquistou.
+
+[[v21-77-55]]
+
+^<<v21-77-55,55>>^ Ele expulsou nações diante deles, distribuiu-lhes as terras como herança, fez habitar em suas tendas as tribos de Israel.
+
+[[v21-77-56]]
+
+^<<v21-77-56,56>>^ Mas ainda tentaram a Deus e provocaram o Altíssimo, e não observaram os seus preceitos.
+
+[[v21-77-57]]
+
+^<<v21-77-57,57>>^ Transviaram-se e prevaricaram como seus pais, erraram o alvo, como um arco mal entesado.
+
+[[v21-77-58]]
+
+^<<v21-77-58,58>>^ Provocaram-lhe a ira com seus lugares altos, e inflamaram-lhe o zelo com seus ídolos.^&#42;1^
+
+[[v21-77-59]]
+
+^<<v21-77-59,59>>^ À vista disso, Deus se encolerizou e rejeitou Israel severamente.
+
+[[v21-77-60]]
+
+^<<v21-77-60,60>>^ Abandonou o santuário de Siló, tabernáculo onde habitara entre os homens.
+
+[[v21-77-61]]
+
+^<<v21-77-61,61>>^ Deixou conduzir cativa a arca de sua força, permitiu que a arca de sua glória caísse em mãos inimigas.^&#42;1^
+
+[[v21-77-62]]
+
+^<<v21-77-62,62>>^ Abandonou seu povo à espada, e se irritou contra a sua herança.
+
+[[v21-77-63]]
+
+^<<v21-77-63,63>>^ O fogo devorou sua juventude, suas filhas não encontraram desponsório.
+
+[[v21-77-64]]
+
+^<<v21-77-64,64>>^ Seus sacerdotes pereceram pelo gládio, e as viúvas não choraram mais seus mortos.
+
+[[v21-77-65]]
+
+^<<v21-77-65,65>>^ Então, o Senhor despertou como de um sono, como se fosse um guerreiro dominado pelo vinho.
+
+[[v21-77-66]]
+
+^<<v21-77-66,66>>^ E feriu pelas costas os inimigos, infligindo-lhes eterna ignomínia.
+
+[[v21-77-67]]
+
+^<<v21-77-67,67>>^ Rejeitou o tabernáculo de José, e repeliu a tribo de Efraim.
+
+[[v21-77-68]]
+
+^<<v21-77-68,68>>^ Mas escolheu a de Judá e o monte Sião, monte de predileção.
+
+[[v21-77-69]]
+
+^<<v21-77-69,69>>^ Construiu seu santuário, qual um céu, estável como a terra, firmada para sempre.
+
+[[v21-77-70]]
+
+^<<v21-77-70,70>>^ Escolhendo a Davi, seu servo, e o tomando dos apriscos das ovelhas.
+
+[[v21-77-71]]
+
+^<<v21-77-71,71>>^ Chamou-o do cuidado das ovelhas e suas crias, para apascentar o rebanho de Jacó, seu povo, e de Israel, sua herança.
+
+[[v21-77-72]]
+
+^<<v21-77-72,72>>^ Davi foi para eles um pastor reto de coração, que os dirigiu com mão prudente.
+
+'''
+
+xref:021-salmos/021-salmos-076.adoc#v21-76-0[&#60; Capítulo Anterior] | <<v21-77-0,Topo>> | xref:021-salmos/021-salmos-078.adoc#v21-78-0[Próximo Capítulo &#62;]

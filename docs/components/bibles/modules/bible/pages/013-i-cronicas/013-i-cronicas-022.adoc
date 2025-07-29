@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v13-22-0]]
+=== I Crônicas, 22
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 22 de 1 Crônicas descreve a preparação de Davi para a construção do templo de Deus em Jerusalém, e como ele reuniu os materiais necessários para a obra. Davi explica a Salomão, seu filho e sucessor, que ele foi escolhido por Deus para construir o templo e encoraja-o a completar a obra. Aqui estão cinco versículos relacionados com os temas deste capítulo:
+* 1 Reis 5:5 - "E eis que propus edificar uma casa ao nome do Senhor meu Deus, como o Senhor falou a Davi meu pai, dizendo: Teu filho, que porei em teu lugar no teu trono, ele edificará uma casa ao meu nome." Este versículo mostra como Salomão cumpre a profecia de Davi e constrói o templo.
+* 1 Crônicas 22:11-12 - "Eis que há de nascer um filho a ti, que será homem de descanso, porque lhe darei descanso de todos os seus inimigos em redor; pois Salomão será o seu nome, e em seus dias darei paz e sossego a Israel. Ele edificará uma casa ao meu nome, e ele será meu filho, e eu lhe serei pai; e estabelecerei o trono do seu reino sobre Israel para sempre." Este versículo mostra como Deus escolheu Salomão para construir o templo e como ele será abençoado.
+* 1 Crônicas 22:16 - "Do ouro, da prata, e do cobre, e do ferro não há conta. Levanta-te, pois, e faze a obra; e o Senhor seja contigo." Este versículo mostra como Davi encoraja Salomão a completar a obra e que Deus estará com ele.
+* 1 Crônicas 22:19 - "Agora, pois, dai ordem para que se ajuntem para mim cortadores de madeira em abundância nas montanhas do Líbano; e eu porei gente em número contigo, cortadores de pedra e carpinteiros, para fazerem toda a sorte de obra." Este versículo mostra como Davi reuniu os materiais necessários para a construção do templo, incluindo cortadores de madeira e pedra e carpinteiros.
+* 2 Crônicas 2:4-5 - "Eis que vou edificar uma casa ao nome do Senhor meu Deus, para a consagrar-lhe, para queimar perante ele o incenso aromático, para por sobre ela o pão da proposição contínuo, e para oferecer holocaustos pela manhã e pela tarde, nos sábados, nas luas novas, e nas festas do Senhor nosso Deus; o que é ordenado perpetuamente em Israel." Este versículo mostra como Salomão completou a obra de construir o templo e como ele será usado para adoração a Deus.
+****
+
+[[v13-22-1]]
+
+^<<v13-22-1,1>>^ E Davi disse: “É aqui a casa do Senhor Deus e este o altar dos holocaustos de Israel”.
+
+[[v13-22-2]]
+
+^<<v13-22-2,2>>^ Mandou Davi que se juntassem os estrangeiros que viviam na terra de Israel e os empregou para trabalharem as pedras que deviam servir para a construção da casa de Deus.
+
+[[v13-22-3]]
+
+^<<v13-22-3,3>>^ Preparou também ferro em abundância, tanto para os pregos dos batentes das portas como para travar as juntas e uma enorme quantidade de bronze
+
+[[v13-22-4]]
+
+^<<v13-22-4,4>>^ e de cedros sem conta, pois os sidônios e os tírios lhe tinham enviado uma grande quantidade deles.
+
+[[v13-22-5]]
+
+^<<v13-22-5,5>>^ Davi dizia: “Meu filho Salomão é ainda um menino fraco e a casa que se há de construir ao Senhor deve ser de uma grande magnificência, para ser ilustre e célebre em todos os países. Quero, pois, fazer-lhe os preparativos”. Por isso, antes de morrer, ele fez grandes preparativos.
+
+[[v13-22-6]]
+
+^<<v13-22-6,6>>^ Depois chamou Salomão, seu filho, e ordenou-lhe que construísse o Templo do Senhor, Deus de Israel.
+
+[[v13-22-7]]
+
+^<<v13-22-7,7>>^ “Meu filho –, disse-lhe ele – eu tive a intenção de construir uma casa ao nome do Senhor, meu Deus.
+
+[[v13-22-8]]
+
+^<<v13-22-8,8>>^ Mas a palavra do Senhor me foi dirigida nesses termos: ‘Tu derramaste muito sangue e fizeste grandes guerras. Tu não construirás uma casa para meu nome, pois derramaste diante de mim muito sangue sobre a terra.^&#42;1^
+
+[[v13-22-9]]
+
+^<<v13-22-9,9>>^ Eis: um filho te nascerá, que há de ser um homem de paz, porque eu lhe darei paz frente a todos os seus inimigos ao redor. Seu nome será Salomão. E, durante seu tempo, darei paz e calma a Israel.^&#42;1^
+
+[[v13-22-10]]
+
+^<<v13-22-10,10>>^ Ele me edificará um templo; será para mim um filho; eu serei para ele um pai e firmarei para sempre o trono de sua realeza sobre Israel’.
+
+[[v13-22-11]]
+
+^<<v13-22-11,11>>^ Portanto, que o Senhor esteja contigo, meu filho, para que prosperes e construas o Templo do Senhor, teu Deus, segundo o que disse de ti.
+
+[[v13-22-12]]
+
+^<<v13-22-12,12>>^ Que o Senhor se digne conceder-te sabedoria e inteligência, quando te fizer reinar sobre Israel, para que observes a Lei do Senhor, teu Deus.
+
+[[v13-22-13]]
+
+^<<v13-22-13,13>>^ Prosperarás, então, se te aplicares à observância das leis e dos mandamentos que o Senhor prescreveu a Israel, por meio de Moisés. Sê forte e corajoso! Não temas, não te amedrontes.
+
+[[v13-22-14]]
+
+^<<v13-22-14,14>>^ Eis que, por meus esforços, preparei para a casa do Senhor cem mil talentos de ouro, um milhão de talentos de prata, bronze e ferro em tal quantidade que se não poderia pesar. Preparei também madeira e pedras; e tu ainda acrescentarás mais.^&#42;1^
+
+[[v13-22-15]]
+
+^<<v13-22-15,15>>^ Tens a teu dispor uma multidão de operários, como talhadores, pedreiros, carpinteiros e artífices hábeis em todas as espécies de ofícios.
+
+[[v13-22-16]]
+
+^<<v13-22-16,16>>^ O ouro, a prata, o bronze e o ferro existem em número incalculável. Vamos ao trabalho e que o Senhor esteja contigo!”
+
+[[v13-22-17]]
+
+^<<v13-22-17,17>>^ Davi ordenou a todos os chefes de Israel ajudar Salomão, seu filho:
+
+[[v13-22-18]]
+
+^<<v13-22-18,18>>^ “O Senhor, vosso Deus – disse-lhes ele – não está convosco? Não vos assegurou ele a paz em todas as vossas fronteiras? Com efeito, ele entregou nas minhas mãos os habitantes da terra, que atualmente estão sujeitos ao Senhor e a seu povo.
+
+[[v13-22-19]]
+
+^<<v13-22-19,19>>^ Aplicai-vos, pois, de todo o vosso coração e vossa alma a buscar o Senhor, vosso Deus. Construí o santuário do Senhor Deus, para trazer a arca da aliança do Senhor e os utensílios consagrados a Deus no templo que será edificado ao nome do Senhor”.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-021.adoc#v13-21-0[&#60; Capítulo Anterior] | <<v13-22-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-023.adoc#v13-23-0[Próximo Capítulo &#62;]

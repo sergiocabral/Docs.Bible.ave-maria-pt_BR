@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v51-4-0]]
+=== Atos dos Apóstolos, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 4 de Atos dos Apóstolos narra a prisão de Pedro e João após eles realizarem um milagre e pregarem sobre Jesus na praça do templo. Eles são levados perante o Sinédrio, a mais alta corte judaica, e interrogados sobre sua autoridade e ensinamentos. Os líderes religiosos ficam perplexos com a coragem e sabedoria de Pedro e João e, depois de ameaçá-los, os libertam. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* João 14:6: "Jesus respondeu: 'Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, a não ser por mim.'" Pedro e João foram presos por pregar sobre Jesus, que afirmava ser o caminho para a salvação e a vida eterna. Esse versículo reforça a mensagem que eles estavam compartilhando.
+* Atos dos Apóstolos 4:12: "Não há salvação em nenhum outro, pois, debaixo do céu não há nenhum outro nome dado aos homens pelo qual devamos ser salvos". Pedro declara isso quando questionado pelo Sinédrio sobre a cura que realizaram em nome de Jesus. Ele afirma que Jesus é o único meio de salvação.
+* Atos dos Apóstolos 4:19-20: "Porém, Pedro e João responderam: 'Julguem vocês mesmos se é certo aos olhos de Deus obedecer a vocês mais do que a ele. Pois não podemos deixar de falar do que vimos e ouvimos'". Mesmo diante da ameaça de prisão e perseguição, Pedro e João se recusam a parar de pregar sobre Jesus e a verdade que testemunharam.
+* 2 Timóteo 1:7: "Pois Deus não nos deu espírito de covardia, mas de poder, de amor e de equilíbrio". A coragem de Pedro e João diante da perseguição reflete a força que Deus dá aos seus seguidores. Eles não se envergonham do evangelho e não se deixam intimidar pelos líderes religiosos.
+* Atos dos Apóstolos 4:31: "Depois de orarem, tremeu o lugar em que estavam reunidos; todos ficaram cheios do Espírito Santo e anunciavam corajosamente a palavra de Deus". Depois de serem libertados, Pedro e João se unem aos outros discípulos e oram juntos. Esse versículo mostra que a oração e a comunhão com outros crentes são importantes para fortalecer a fé e a coragem de enfrentar a perseguição.
+****
+
+[[v51-4-1]]
+
+^<<v51-4-1,1>>^ Enquanto eles falavam ao povo, vieram os sacerdotes, o chefe do templo e os saduceus,^&#42;1^
+
+[[v51-4-2]]
+
+^<<v51-4-2,2>>^ contrariados porque ensinavam ao povo e anunciavam, na pessoa de Jesus, a ressurreição dos mortos.^&#42;1^
+
+[[v51-4-3]]
+
+^<<v51-4-3,3>>^ Prenderam-nos e os colocaram no cárcere até o outro dia, pois já era tarde.
+
+[[v51-4-4]]
+
+^<<v51-4-4,4>>^ Muitos, porém, dos que tinham ouvido a pregação creram; e o número dos fiéis elevou-se a mais ou menos cinco mil.^&#42;1^
+
+[[v51-4-5]]
+
+^<<v51-4-5,5>>^ No dia seguinte, reuniram-se em Jerusalém os chefes do povo, os anciãos, os escribas,
+
+[[v51-4-6]]
+
+^<<v51-4-6,6>>^ com Anás, sumo sacerdote, Caifás, João, Alexandre e todos os que eram da linhagem pontifical.
+
+[[v51-4-7]]
+
+^<<v51-4-7,7>>^ Colocando-os no meio, perguntaram: “Com que poder ou em que nome fizestes isso?”.
+
+[[v51-4-8]]
+
+^<<v51-4-8,8>>^ Então Pedro, cheio do Espírito Santo, respondeu-lhes: “Chefes do povo e anciãos, ouvi-me:
+
+[[v51-4-9]]
+
+^<<v51-4-9,9>>^ se hoje somos interrogados a respeito do benefício feito a um enfermo, e em que nome foi ele curado,
+
+[[v51-4-10]]
+
+^<<v51-4-10,10>>^ ficai sabendo todos vós e todo o povo de Israel: foi em nome de Jesus Cristo Nazareno, que vós crucificastes, mas que Deus ressuscitou dos mortos. Por ele é que esse homem se acha são, em pé, diante de vós.
+
+[[v51-4-11]]
+
+^<<v51-4-11,11>>^ Esse Jesus, pedra que foi desprezada por vós, edificadores, tornou-se a pedra angular.
+
+[[v51-4-12]]
+
+^<<v51-4-12,12>>^ Em nenhum outro há salvação, porque debaixo do céu nenhum outro nome foi dado aos homens, pelo qual devamos ser salvos”.
+
+[[v51-4-13]]
+
+^<<v51-4-13,13>>^ Vendo eles a coragem de Pedro e de João, e considerando que eram homens sem estudo e sem instrução, admiravam-se. Reconheciam-nos como companheiros de Jesus.
+
+[[v51-4-14]]
+
+^<<v51-4-14,14>>^ Mas vendo com eles o homem que tinha sido curado, não puderam replicar.
+
+[[v51-4-15]]
+
+^<<v51-4-15,15>>^ Mandaram que se retirassem da sala do conselho, e conferenciaram entre si:
+
+[[v51-4-16]]
+
+^<<v51-4-16,16>>^ “Que faremos sem esses homens? Porquanto o milagre por eles feito se tornou conhecido de todos os habitantes de Jerusalém, e não o podemos negar.
+
+[[v51-4-17]]
+
+^<<v51-4-17,17>>^ Todavia, para que esta notícia não se divulgue mais entre o povo, proibamos, com ameaças, que no futuro falem a alguém nesse nome”.
+
+[[v51-4-18]]
+
+^<<v51-4-18,18>>^ Chamaram-nos e ordenaram-lhes que absolutamente não falassem nem ensinassem em nome de Jesus.
+
+[[v51-4-19]]
+
+^<<v51-4-19,19>>^ Responderam-lhes Pedro e João: “Julgai-o vós mesmos se é justo diante de Deus obedecermos a vós mais do que a Deus.
+
+[[v51-4-20]]
+
+^<<v51-4-20,20>>^ Não podemos deixar de falar das coisas que temos visto e ouvido”.
+
+[[v51-4-21]]
+
+^<<v51-4-21,21>>^ Eles, então, ameaçando-os de novo, soltaram-nos, não achando pretexto para os castigar por causa do povo, porque todos glorificavam a Deus pelo que tinha acontecido.
+
+[[v51-4-22]]
+
+^<<v51-4-22,22>>^ Pois já passava dos 40 anos o homem em quem se realizara essa cura milagrosa.
+
+[[v51-4-23]]
+
+^<<v51-4-23,23>>^ Postos em liberdade, voltaram aos seus irmãos e referiram tudo quanto lhes tinham dito os sumos sacerdotes e os anciãos.
+
+[[v51-4-24]]
+
+^<<v51-4-24,24>>^ Ao ouvirem isso, levantaram unânimes a voz a Deus e disseram: “Senhor, vós que fizestes o céu, a terra, o mar e tudo o que neles há.
+
+[[v51-4-25]]
+
+^<<v51-4-25,25>>^ Vós que, pelo Espírito Santo, pela boca de nosso pai Davi, vosso servo, dissestes: Por que se agitam as nações, e imaginam os povos coisas vãs?
+
+[[v51-4-26]]
+
+^<<v51-4-26,26>>^ Levantam-se os reis da terra, e os príncipes se reúnem em conselho contra o Senhor e contra o seu Cristo (Sl 2,1s).
+
+[[v51-4-27]]
+
+^<<v51-4-27,27>>^ Pois, na verdade, se uniram nesta cidade contra o vosso santo servo Jesus, que ungistes, Herodes e Pôncio Pilatos com as nações e com o povo de Israel,^&#42;1^
+
+[[v51-4-28]]
+
+^<<v51-4-28,28>>^ para executarem o que a vossa mão e o vosso conselho predeterminaram que se fizesse.
+
+[[v51-4-29]]
+
+^<<v51-4-29,29>>^ Agora, pois, Senhor, olhai para as suas ameaças e concedei aos vossos servos que com todo o desassombro anunciem a vossa palavra.
+
+[[v51-4-30]]
+
+^<<v51-4-30,30>>^ Estendei a vossa mão para que se realizem curas, milagres e prodígios pelo nome de Jesus, vosso santo servo!
+
+[[v51-4-31]]
+
+^<<v51-4-31,31>>^ Mal acabavam de rezar, tremeu o lugar onde estavam reunidos. E todos ficaram cheios do Espírito Santo e anunciaram com intrepidez a Palavra de Deus.
+
+[[v51-4-32]]
+
+^<<v51-4-32,32>>^ A multidão dos fiéis era um só coração e uma só alma. Ninguém dizia que eram suas as coisas que possuía, mas tudo entre eles era comum.
+
+[[v51-4-33]]
+
+^<<v51-4-33,33>>^ Com grande coragem os apóstolos davam testemunho da Ressurreição do Senhor Jesus. Em todos eles era grande a graça.
+
+[[v51-4-34]]
+
+^<<v51-4-34,34>>^ Nem havia entre eles nenhum necessitado, porque todos os que possuíam terras ou casas vendiam-nas,
+
+[[v51-4-35]]
+
+^<<v51-4-35,35>>^ e traziam o preço do que tinham vendido e depositavam-no aos pés dos apóstolos. Repartia-se então a cada um deles conforme a sua necessidade.
+
+[[v51-4-36]]
+
+^<<v51-4-36,36>>^ Assim José (a quem os apóstolos deram o sobrenome de Barnabé, que quer dizer Filho da Consolação), levita, natural de Chipre, possuía um campo.
+
+[[v51-4-37]]
+
+^<<v51-4-37,37>>^ Vendeu-o e trouxe o valor dele e depositou aos pés dos apóstolos.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-003.adoc#v51-3-0[&#60; Capítulo Anterior] | <<v51-4-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-005.adoc#v51-5-0[Próximo Capítulo &#62;]

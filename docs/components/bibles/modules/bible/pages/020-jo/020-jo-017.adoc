@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v20-17-0]]
+=== Jó, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* No capítulo 17 de Jó, o protagonista continua a lamentar a sua situação difícil e a falta de esperança que sente em relação ao futuro. Ele se sente desprezado pelos seus amigos e abandonado por Deus. A seguir estão cinco versículos relacionados com os temas abordados nesse capítulo:
+* Salmos 88:8: "Afastei dos teus olhos os meus conhecidos; fiz de mim mesmo um horror para eles. Estou fechado e não posso sair." Este versículo retrata a solidão que Jó sente e como ele se afastou dos seus conhecidos por causa do sofrimento que está passando.
+* Isaías 53:3: "Era desprezado, e o mais rejeitado entre os homens, homem de dores, e experimentado nos trabalhos; e, como um de quem os homens escondiam o rosto, era desprezado, e não fizemos dele caso algum." Este verso fala sobre como Jó se sente desprezado e rejeitado pelos seus amigos e até mesmo por Deus.
+* Salmos 88:15: "Estou aflito e prestes a morrer desde a minha mocidade; carrego sobre mim os terrores que provocas, e estou completamente desesperado." Este verso descreve a condição desesperada de Jó, que sente que tem carregado o peso do sofrimento desde a sua juventude.
+* Lamentações 3:18: "E disse: Consumiu-se a minha força e a minha esperança no SENHOR." Jó sente que perdeu toda a sua força e esperança, especialmente em relação a Deus, e que não tem mais nada para se segurar.
+* Salmos 22:14: "Sou derramado como água, e todos os meus ossos se desconjuntam; o meu coração é como cera, derreteu-se no meio das minhas entranhas." Este verso ilustra a fraqueza física e emocional que Jó sente, comparando-o com água e cera derretida.
+****
+
+[[v20-17-1]]
+
+^<<v20-17-1,1>>^ Meu espírito vai-se consumindo, os meus dias se apagam, só me resta o sepulcro!
+
+[[v20-17-2]]
+
+^<<v20-17-2,2>>^ Estou de fato cercado de zombadores e meus olhos velam por causa de seus ultrajes.^&#42;1^
+
+[[v20-17-3]]
+
+^<<v20-17-3,3>>^ Sê tu mesmo a minha caução, junto a ti, pois quem ousará bater em minha mão?^&#42;1^
+
+[[v20-17-4]]
+
+^<<v20-17-4,4>>^ Pois fechaste o seu coração à inteligência; por isso, não os deixarás triunfar.
+
+[[v20-17-5]]
+
+^<<v20-17-5,5>>^ Há quem convide seus amigos à partilha, enquanto desfalecem os olhos de seus filhos.
+
+[[v20-17-6]]
+
+^<<v20-17-6,6>>^ Ele me reduziu a zombaria do povo, como aquele em cujo rosto se cospe.
+
+[[v20-17-7]]
+
+^<<v20-17-7,7>>^ Meus olhos se escurecem de tristeza e todo o meu corpo não é mais que uma sombra.
+
+[[v20-17-8]]
+
+^<<v20-17-8,8>>^ As pessoas retas estão espantadas e o inocente se irrita contra o ímpio.
+
+[[v20-17-9]]
+
+^<<v20-17-9,9>>^ O justo, entretanto, persiste no seu caminho, e o homem de mãos puras redobra de coragem.
+
+[[v20-17-10]]
+
+^<<v20-17-10,10>>^ Mas vós todos voltai e vinde; pois não acharei entre vós nenhum sábio.
+
+[[v20-17-11]]
+
+^<<v20-17-11,11>>^ Meus dias se esgotam, meus projetos estão aniquilados, frustraram-se os projetos do meu coração.
+
+[[v20-17-12]]
+
+^<<v20-17-12,12>>^ Fazem da noite, dia. A luz da manhã é para mim como trevas.
+
+[[v20-17-13]]
+
+^<<v20-17-13,13>>^ Deverei esperar? A região dos mortos é a minha morada! Preparo meu leito no local tenebroso.
+
+[[v20-17-14]]
+
+^<<v20-17-14,14>>^ Disse ao sepulcro: ‘Tu és meu pai’, e aos vermes: ‘Vós sois minha mãe e minha irmã!’.
+
+[[v20-17-15]]
+
+^<<v20-17-15,15>>^ Onde está, pois, minha esperança? E a minha felicidade, quem a entrevê?
+
+[[v20-17-16]]
+
+^<<v20-17-16,16>>^ Descerão elas comigo à região dos mortos? Afundaremos juntos no pó?”.
+
+'''
+
+xref:020-jo/020-jo-016.adoc#v20-16-0[&#60; Capítulo Anterior] | <<v20-17-0,Topo>> | xref:020-jo/020-jo-018.adoc#v20-18-0[Próximo Capítulo &#62;]

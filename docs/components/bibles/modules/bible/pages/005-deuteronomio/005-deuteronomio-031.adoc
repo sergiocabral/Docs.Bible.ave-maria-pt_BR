@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v5-31-0]]
+=== Deuteronômio, 31
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Deuteronômio 31 aborda a transição do comando de Moisés para Josué e a importância da obediência à lei de Deus. Moisés instrui o povo a seguir os mandamentos de Deus, lembrando-os de que a rebelião trará consequências graves. Abaixo estão cinco versículos relacionados com os temas abordados em Deuteronômio 31:
+* Josué 1:7-8: "Tão-somente sê forte e mui corajoso para teres o cuidado de fazer conforme toda a lei que meu servo Moisés te ordenou; dela não te desvies, nem para a direita nem para a esquerda, para que sejas bem sucedido por onde quer que andares. Não se aparte da tua boca o livro desta lei, antes medita nele dia e noite, para que tenhas cuidado de fazer conforme tudo quanto nele está escrito; porque então farás prosperar o teu caminho, e serás bem sucedido." Josué é encarregado de liderar o povo, e Deus lhe ordena que seja forte e corajoso e obedeça à lei de Moisés para ter sucesso.
+* Josué 23:6: "Sede, pois, mui esforçados para guardardes e para fazerdes tudo quanto está escrito no livro da lei de Moisés, não vos desviando dele nem para a direita nem para a esquerda." Josué lembra o povo da importância de obedecer à lei de Deus e não se desviar dela.
+* Salmos 119:165: "Grande paz têm os que amam a tua lei, e para eles não há tropeço." A obediência à lei de Deus traz paz e evita o pecado.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Confiança em Deus e obediência à sua lei são importantes para a orientação na vida.
+* Romanos 2:13: "Porque os simples ouvidores da lei não são justos diante de Deus, mas os que praticam a lei hão de ser justificados." A obediência à lei de Deus é importante para a justificação diante Dele.
+****
+
+[[v5-31-1]]
+
+^<<v5-31-1,1>>^ Moisés dirigiu ainda a todo o Israel o discurso seguinte:
+
+[[v5-31-2]]
+
+^<<v5-31-2,2>>^ “Eis-me hoje com a idade de cento e vinte anos; não posso mais ir e vir, e o Senhor disse-me que eu não passaria o Jordão.
+
+[[v5-31-3]]
+
+^<<v5-31-3,3>>^ O Senhor, teu Deus, passará diante de ti; ele mesmo exterminará essas nações para que possuas a sua terra. E Josué vos conduzirá, como o declarou o Senhor.
+
+[[v5-31-4]]
+
+^<<v5-31-4,4>>^ O Senhor fará a esses povos como fez a Seon e a Og, reis dos amorreus, e à sua terra, aniquilando-os.
+
+[[v5-31-5]]
+
+^<<v5-31-5,5>>^ O Senhor vo-los entregará, e vós os tratareis exatamente como vos ordenei.
+
+[[v5-31-6]]
+
+^<<v5-31-6,6>>^ Coragem! E sede fortes. Nada vos atemorize, e não os temais, porque é o Senhor, vosso Deus, que marcha à vossa frente: ele não vos deixará nem vos abandonará”.
+
+[[v5-31-7]]
+
+^<<v5-31-7,7>>^ Moisés chamou em seguida Josué e disse-lhe em presença de todo o Israel: “Mostra-te varonil e corajoso, porque entrarás com esse povo na terra que o Senhor jurou a seus pais dar-lhes, e a repartirás entre eles.
+
+[[v5-31-8]]
+
+^<<v5-31-8,8>>^ O Senhor mesmo marchará diante de ti, e estará contigo, e não te deixará nem te abandonará. Nada temas, e não te amedrontes”.
+
+[[v5-31-9]]
+
+^<<v5-31-9,9>>^ Moisés escreveu essa lei e deu-a aos sacerdotes filhos de Levi, que levavam a arca da aliança do Senhor, bem como a todos os anciãos de Israel,
+
+[[v5-31-10]]
+
+^<<v5-31-10,10>>^ dando-lhes esta ordem: “Ao fim de cada sete anos, no ano da remissão, por ocasião da festa dos Tabernáculos,
+
+[[v5-31-11]]
+
+^<<v5-31-11,11>>^ quando todo o Israel vier apresentar-se diante do Senhor, vosso Deus, no lugar escolhido por ele, tu farás a leitura dessa lei a todo o povo israelita.
+
+[[v5-31-12]]
+
+^<<v5-31-12,12>>^ Juntarás todo o povo num mesmo lugar, homens, mulheres, crianças e o estrangeiro que habita em tuas cidades, para que, ouvindo essa leitura, aprendam a temer o Senhor, vosso Deus, e ponham cuidadosamente em prática todas as prescrições dessa lei.
+
+[[v5-31-13]]
+
+^<<v5-31-13,13>>^ Seus filhos, que delas não tiverem conhecimento, as ouvirão, e aprenderão a respeitar o Senhor, vosso Deus, em todo o tempo que viverdes nesta terra, cuja posse ides tomar ao passar o Jordão”.
+
+[[v5-31-14]]
+
+^<<v5-31-14,14>>^ O Senhor disse a Moisés: “Aproxima-se o dia de tua morte. Chama Josué e apresentai-vos na tenda de reunião, para que eu lhe dê minhas ordens”. Apresentaram-se, pois, Moisés e Josué na tenda de reunião.
+
+[[v5-31-15]]
+
+^<<v5-31-15,15>>^ E o Senhor apareceu ali na coluna de fumaça, a qual parou à entrada do pavilhão.
+
+[[v5-31-16]]
+
+^<<v5-31-16,16>>^ O Senhor disse a Moisés: “Eis que vais repousar com teus pais, e esse povo irá prostituir-se aos deuses estrangeiros, entre os quais vai habitar. Ele me abandonará e violará a aliança que fiz com ele.
+
+[[v5-31-17]]
+
+^<<v5-31-17,17>>^ Naquele dia, o meu furor se acenderá contra esse povo: eu o abandonarei e esconderei a minha face, e ele será devorado, uma multidão de males e angústias virá sobre ele, o que lhe fará dizer: ‘É certamente porque meu Deus não está mais comigo que me vêm todos esses males’.
+
+[[v5-31-18]]
+
+^<<v5-31-18,18>>^ Eu, porém, ocultarei completamente a minha face naquele momento, por causa do mal que fez o povo, seguindo outros deuses.
+
+[[v5-31-19]]
+
+^<<v5-31-19,19>>^ E agora, escrevei este cântico, ensinai-o aos israelitas e ponde-o nos seus lábios, para que me sirva de testemunho contra eles.
+
+[[v5-31-20]]
+
+^<<v5-31-20,20>>^ Com efeito, quando eu os tiver introduzido na terra que mana leite e mel, que prometi a seus pais lhes dar, depois que tiverem comido, e se tiverem saciado e engordado, se voltarão para outros deuses e lhes renderão culto, desprezando-me e violando a minha aliança.
+
+[[v5-31-21]]
+
+^<<v5-31-21,21>>^ Depois que tiverem caído sobre eles muitos males e angústias, deporá contra eles este cântico que seus descendentes repetirão de memória. Eu conheço as disposições que animam esse povo desde o presente, antes mesmo que o tenha introduzido na terra que lhe jurei dar”.
+
+[[v5-31-22]]
+
+^<<v5-31-22,22>>^ Nesse mesmo dia, Moisés redigiu o cântico e o ensinou aos israelitas.
+
+[[v5-31-23]]
+
+^<<v5-31-23,23>>^ O Senhor deu a Josué, filho de Nun, as seguintes ordens: “Mostra-te varonil e corajoso, porque tu introduzirás os israelitas na terra que lhes jurei dar; e estarei contigo”.
+
+[[v5-31-24]]
+
+^<<v5-31-24,24>>^ Quando Moisés acabou de escrever todo o texto desta lei,
+
+[[v5-31-25]]
+
+^<<v5-31-25,25>>^ deu aos levitas, que levavam a arca da aliança do Senhor, esta ordem:
+
+[[v5-31-26]]
+
+^<<v5-31-26,26>>^ “Tomai este livro da lei e colocai-o ao lado da arca da aliança do Senhor, vosso Deus, para aí servir de testemunho contra ti,
+
+[[v5-31-27]]
+
+^<<v5-31-27,27>>^ porque conheço teu espírito de revolta e sei que tens a cerviz dura. Se hoje, que ainda estou vivo no meio de vós, sois rebeldes ao Senhor, quanto mais o sereis depois de minha morte.
+
+[[v5-31-28]]
+
+^<<v5-31-28,28>>^ Reuni junto de mim todos os anciãos de vossas tribos e vossos magistrados, para lhes dirigir estas palavras e tomarei o céu e a terra como testemunhas contra eles.^&#42;1^
+
+[[v5-31-29]]
+
+^<<v5-31-29,29>>^ Pois sei que depois de minha morte vos corrompereis certamente e vos desviareis do caminho que vos tracei; sei que virão males sobre vós no decorrer dos tempos, porque fareis o mal aos olhos do Senhor, irritando-o com o vosso proceder”.
+
+[[v5-31-30]]
+
+^<<v5-31-30,30>>^ Então pronunciou Moisés até o fim este cântico, em presença da assembleia:
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-030.adoc#v5-30-0[&#60; Capítulo Anterior] | <<v5-31-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-032.adoc#v5-32-0[Próximo Capítulo &#62;]

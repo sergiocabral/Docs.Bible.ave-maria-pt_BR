@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v21-15-0]]
+=== Salmos, 15
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 15 é um salmo de Davi que fala sobre as qualidades daqueles que habitam no santuário de Deus. É um convite a viver uma vida justa e íntegra, seguindo os mandamentos de Deus. Os versículos relacionados com os temas abordados em Salmo 15 são:
+* Salmos 24:3-4: "Quem subirá ao monte do Senhor? Quem há de permanecer no seu santo lugar? O que é limpo de mãos e puro de coração, que não entrega a sua alma à falsidade, nem jura com engano." Este versículo fala sobre a pureza de coração e a honestidade, qualidades que são importantes para habitar no santuário de Deus.
+* Provérbios 11:3: "A integridade dos retos os guia, mas a falsidade dos infiéis os destrói." Este versículo destaca a importância da integridade e da retidão em nossas vidas. Aqueles que seguem esses princípios são guiados por eles, enquanto os que não os seguem são destruídos pela falsidade.
+* Isaías 33:15-16: "O que anda em justiça e fala com retidão, que rejeita o ganho da opressão, que sacode as mãos para não receber suborno, que tapa os ouvidos para não ouvir falar de derramamento de sangue e fecha os olhos para não ver o mal, este habitará nas alturas; fortalezas rochosas serão a sua segurança, o seu refúgio será um lugar seguro." Este versículo fala sobre a justiça e a retidão, e a necessidade de rejeitar a opressão e a violência. Aqueles que seguem esses princípios encontrarão segurança e refúgio em Deus.
+* Mateus 5:8: "Bem-aventurados os limpos de coração, porque verão a Deus." Este versículo destaca a importância da pureza de coração, uma das qualidades mencionadas em Salmo 15. Aqueles que são puros de coração são bem-aventurados, pois verão a Deus.
+* 2 Timóteo 2:19: "Entretanto, o firme fundamento de Deus permanece inabalável e selado com esta inscrição: O Senhor conhece os seus." Este versículo fala sobre a importância de permanecer firme nos princípios de Deus e de ser conhecido por Ele. Aqueles que habitam no santuário de Deus são aqueles que permanecem firmes nos princípios e são conhecidos por Ele.
+****
+
+[[v21-15-1]]
+
+^<<v21-15-1,1>>^ Poema de Davi. Guardai-me, ó Deus, porque é em vós que procuro refúgio.^&#42;1^
+
+[[v21-15-2]]
+
+^<<v21-15-2,2>>^ Digo a Deus: “Sois o meu Senhor, fora de vós não há felicidade para mim”.
+
+[[v21-15-3]]
+
+^<<v21-15-3,3>>^ Quão admirável tornou Deus o meu afeto para com os santos que estão em sua terra.
+
+[[v21-15-4]]
+
+^<<v21-15-4,4>>^ Numerosos são os sofrimentos que suportam aqueles que se entregam a estranhos deuses. Não hei de oferecer suas libações de sangue e meus lábios jamais pronunciarão o nome de seus ídolos.
+
+[[v21-15-5]]
+
+^<<v21-15-5,5>>^ Senhor, vós sois a minha parte de herança e meu cálice; vós tendes nas mãos o meu destino.
+
+[[v21-15-6]]
+
+^<<v21-15-6,6>>^ O cordel mediu para mim um lote aprazível, muito me agrada a minha herança.^&#42;1^
+
+[[v21-15-7]]
+
+^<<v21-15-7,7>>^ Bendigo o Senhor porque me deu conselho, porque mesmo de noite o coração me exorta.
+
+[[v21-15-8]]
+
+^<<v21-15-8,8>>^ Ponho sempre o Senhor diante dos olhos, pois ele está à minha direita; não vacilarei.
+
+[[v21-15-9]]
+
+^<<v21-15-9,9>>^ Por isso, meu coração se alegra e minha alma exulta, até meu corpo descansará seguro,
+
+[[v21-15-10]]
+
+^<<v21-15-10,10>>^ porque vós não abandonareis minha alma na habitação dos mortos, nem permitireis que vosso Santo conheça a corrupção.^&#42;1^
+
+[[v21-15-11]]
+
+^<<v21-15-11,11>>^ Vós me ensinareis o caminho da vida, há abundância de alegria junto de vós, e delícias eternas à vossa direita.^&#42;1^
+
+'''
+
+xref:021-salmos/021-salmos-014.adoc#v21-14-0[&#60; Capítulo Anterior] | <<v21-15-0,Topo>> | xref:021-salmos/021-salmos-016.adoc#v21-16-0[Próximo Capítulo &#62;]

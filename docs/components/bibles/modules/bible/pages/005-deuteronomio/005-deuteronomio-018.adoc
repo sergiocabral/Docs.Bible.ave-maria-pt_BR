@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v5-18-0]]
+=== Deuteronômio, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Deuteronômio 18 fala sobre a posição dos levitas e profetas na comunidade de Israel, bem como a proibição da prática da adivinhação, feitiçaria e outras formas de magia. O capítulo enfatiza que o povo deve seguir somente as orientações que Deus fornece por meio dos profetas e que não deve recorrer a outras formas de consulta para obter informações. Abaixo estão cinco versículos relacionados com os temas abordados em Deuteronômio 18:
+* Números 18:20: "O SENHOR disse a Arão: Você não terá herança na terra deles, nem terá parte alguma entre eles. Eu sou a sua parte e a sua herança entre os israelitas." Este versículo destaca a posição dos levitas na comunidade de Israel e como eles são responsáveis por cuidar do santuário e das ofertas.
+* Jeremias 23:16: "Assim diz o SENHOR dos Exércitos: Não deem ouvidos às palavras dos profetas que entre vocês falam. Eles os enganam. Falam de visões de suas próprias mentes, não da boca do SENHOR." Este versículo reforça a ideia de que os israelitas devem confiar somente nas palavras dos profetas que falam em nome de Deus, e não em outros que não são inspirados por Ele.
+* Levítico 19:31: "Não se voltem para os médiuns nem para os que consultam espíritos, nem os busquem para ficarem impuros por meio deles. Eu sou o SENHOR, o Deus de vocês." Este versículo enfatiza a proibição da prática da adivinhação e outras formas de magia mencionadas em Deuteronômio 18.
+* 1 Reis 22:22: "O SENHOR disse a ele: Com que meio? Ele disse: Sairei e serei um espírito de mentira na boca de todos os seus profetas. O SENHOR disse: Você o enganará e também terá sucesso. Saia e faça isso." Este versículo mostra como os falsos profetas podem enganar o povo de Israel se eles não seguirem as orientações dadas por Deus.
+* Isaías 8:19: "Quando disserem a vocês: Consultem os médiuns e os que consultam espíritos, que murmuram e sussurram, não recorram a tais coisas. Um povo não deve consultar o seu Deus pelos mortos, em favor dos vivos?" Este versículo reforça a importância de seguir somente as orientações de Deus e não recorrer a outras formas de consulta para obter informações.
+****
+
+[[v5-18-1]]
+
+^<<v5-18-1,1>>^ “Os sacerdotes levíticos e toda a tribo de Levi não terão parte nem herança com Israel: viverão dos sacrifícios feitos pelo fogo ao Senhor, que é a sua parte.
+
+[[v5-18-2]]
+
+^<<v5-18-2,2>>^ Não terão herança entre seus irmãos. O Senhor mesmo é a sua herança, como ele lhes disse.
+
+[[v5-18-3]]
+
+^<<v5-18-3,3>>^ Esse é o direito devido aos sacerdotes pelo povo, por aqueles que oferecerem em sacrifício um boi ou uma ovelha: darão ao sacerdote a espádua, as mandíbulas e o estômago.
+
+[[v5-18-4]]
+
+^<<v5-18-4,4>>^ A ele darás as primícias de teu trigo, de teu vinho e de teu óleo, e as primícias da lã de tuas ovelhas.
+
+[[v5-18-5]]
+
+^<<v5-18-5,5>>^ Porque o Senhor, teu Deus, escolheu-o dentre todas as tribos, ele e seus filhos, para estar diante do Senhor e oficiar perpetuamente em nome do Senhor.
+
+[[v5-18-6]]
+
+^<<v5-18-6,6>>^ Quando um levita vier de uma cidade situada em qualquer ponto de Israel, dirigindo-se espontaneamente ao lugar escolhido pelo Senhor,
+
+[[v5-18-7]]
+
+^<<v5-18-7,7>>^ para oficiar em nome do Senhor, seu Deus, como todos, os seus irmãos levitas que nesse tempo assistem diante do Senhor,
+
+[[v5-18-8]]
+
+^<<v5-18-8,8>>^ receberá a mesma porção dos alimentos que os outros, independentemente do produto da venda de seu patrimônio.”
+
+[[v5-18-9]]
+
+^<<v5-18-9,9>>^ “Quando tiveres entrado na terra que o Senhor, teu Deus, te dá, não te porás a imitar as práticas abomináveis da gente daquela terra.
+
+[[v5-18-10]]
+
+^<<v5-18-10,10>>^ Não se ache no meio de ti quem faça passar pelo fogo seu filho ou sua filha, nem quem se dê à adivinhação, à astrologia, aos agouros, ao feiticismo,
+
+[[v5-18-11]]
+
+^<<v5-18-11,11>>^ à magia ou à invocação dos mortos,
+
+[[v5-18-12]]
+
+^<<v5-18-12,12>>^ porque o Senhor, teu Deus, abomina aqueles que se dão a essas práticas, e é por causa dessas abominações que o Senhor, teu Deus, expulsa diante de ti essas nações.
+
+[[v5-18-13]]
+
+^<<v5-18-13,13>>^ Serás inteiramente do Senhor, teu Deus.
+
+[[v5-18-14]]
+
+^<<v5-18-14,14>>^ As nações que vais despojar ouvem os agoureiros e os adivinhos; a ti, porém, o Senhor, teu Deus, não o permite.
+
+[[v5-18-15]]
+
+^<<v5-18-15,15>>^ O Senhor, teu Deus, te suscitará dentre os teus irmãos um profeta como eu: é a ele que devereis ouvir.^&#42;1^
+
+[[v5-18-16]]
+
+^<<v5-18-16,16>>^ Foi o que tu mesmo pediste ao Senhor, teu Deus, em Horeb, quando lhe disseste no dia da assembleia: Oh! Não ouça eu mais a voz do Senhor, meu Deus, nem torne a ver mais esse fogo ardente, para que eu não morra!
+
+[[v5-18-17]]
+
+^<<v5-18-17,17>>^ E o Senhor disse-me: ‘Está muito bem o que disseram;
+
+[[v5-18-18]]
+
+^<<v5-18-18,18>>^ eu lhes suscitarei um profeta como tu dentre seus irmãos: minhas palavras porei em sua boca e ele lhes fará conhecer as minhas ordens.
+
+[[v5-18-19]]
+
+^<<v5-18-19,19>>^ Mas ao que recusar ouvir o que ele disser de minha parte, pedirei contas disso.
+
+[[v5-18-20]]
+
+^<<v5-18-20,20>>^ O profeta que tiver a audácia de proferir em meu nome uma palavra que eu não lhe mandei dizer, ou que se atrever a falar em nome de outros deuses, será morto.
+
+[[v5-18-21]]
+
+^<<v5-18-21,21>>^ Se disseres a ti mesmo: ‘Como posso eu distinguir a palavra que não vem do Senhor?’.
+
+[[v5-18-22]]
+
+^<<v5-18-22,22>>^ Quando o profeta tiver falado em nome do Senhor, se o que ele disse não se realizar, é que essa palavra não veio do Senhor. O profeta falou presunçosamente. Não o temas!”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-017.adoc#v5-17-0[&#60; Capítulo Anterior] | <<v5-18-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-019.adoc#v5-19-0[Próximo Capítulo &#62;]

@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-11-0]]
+=== Salmos, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 11 trata da confiança em Deus em meio a tempos difíceis. O salmista encoraja a confiar no Senhor mesmo em situações de grande adversidade, lembrando que Ele é justo e ama a justiça. Abaixo estão cinco versículos que abordam temas relacionados com este salmo:
+* Salmo 5:12: "Pois tu, Senhor, abençoas o justo e como escudo o cercas da tua benevolência." Este versículo fala da proteção que Deus oferece aos justos, o que é uma promessa presente também no Salmo 11.
+* Salmo 46:1: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia." Este versículo fala da proteção que Deus oferece em momentos de angústia, o que é um tema central do Salmo 11.
+* Salmo 34:8: "Provai e vede como o Senhor é bom; bem-aventurado o homem que nele se refugia." Este versículo fala da bondade de Deus e da bênção que é confiar nele, o que é um tema também presente no Salmo 11.
+* Salmo 37:39-40: "Mas a salvação dos justos vem do Senhor; ele é a sua fortaleza no tempo da adversidade. O Senhor os ajuda e os livra; ele os livra dos ímpios e os salva, porque nele se refugiam." Estes versículos falam da proteção que Deus oferece aos justos em momentos de adversidade, o que é um tema central do Salmo 11.
+* Salmo 62:8: "Confiai nele, ó povo, em todos os tempos; derramai perante ele o vosso coração. Deus é o nosso refúgio." Este versículo encoraja a confiar em Deus em todas as situações e a buscar refúgio nele, o que é uma mensagem presente também no Salmo 11.
+****
+
+[[v21-11-1]]
+
+^<<v21-11-1,1>>^ Ao mestre de canto. Uma oitava abaixo. Salmo de Davi.^&#42;1^
+
+[[v21-11-2]]
+
+^<<v21-11-2,2>>^ Salvai-nos, Senhor, pois desaparecem os homens piedosos, e a lealdade se extingue entre os homens.
+
+[[v21-11-3]]
+
+^<<v21-11-3,3>>^ Uns não têm para com os outros senão palavras mentirosas; adulação na boca, duplicidade no coração.
+
+[[v21-11-4]]
+
+^<<v21-11-4,4>>^ Que o Senhor extirpe os lábios hipócritas e a língua insolente.
+
+[[v21-11-5]]
+
+^<<v21-11-5,5>>^ Aqueles que dizem: “Dominaremos pela nossa língua, nossos lábios trabalham para nós, quem nos será senhor?”.
+
+[[v21-11-6]]
+
+^<<v21-11-6,6>>^ Responde, porém, o Senhor: “Por causa da aflição dos humildes e dos gemidos dos pobres, irei levantar-me para lhes dar a salvação que desejam”.
+
+[[v21-11-7]]
+
+^<<v21-11-7,7>>^ As palavras do Senhor são palavras sinceras, puras como a prata acrisolada, isenta de ganga, sete vezes depurada.
+
+[[v21-11-8]]
+
+^<<v21-11-8,8>>^ Vós, Senhor, haveis de nos guardar, defender-nos sempre dessa raça maléfica,
+
+[[v21-11-9]]
+
+^<<v21-11-9,9>>^ porque os ímpios andam de todos os lados, enquanto a vileza se ergue entre os homens.^&#42;1^
+
+'''
+
+xref:021-salmos/021-salmos-010.adoc#v21-10-0[&#60; Capítulo Anterior] | <<v21-11-0,Topo>> | xref:021-salmos/021-salmos-012.adoc#v21-12-0[Próximo Capítulo &#62;]

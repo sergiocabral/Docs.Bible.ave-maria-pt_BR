@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v21-103-0]]
+=== Salmos, 103
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 103 é um cântico de louvor e gratidão a Deus por sua misericórdia e bondade para com o seu povo. Nele, o salmista exalta a grandiosidade de Deus e as suas obras maravilhosas. Abaixo estão cinco versículos relacionados com os temas abordados nesse capítulo:
+* Deuteronômio 7:9: "Saiba, portanto, que o Senhor, o seu Deus, é Deus; ele é o Deus fiel, que mantém a aliança e a bondade por mil gerações daqueles que o amam e obedecem aos seus mandamentos." Este versículo destaca a fidelidade de Deus em manter a sua aliança e a sua bondade para com aqueles que o amam e obedecem aos seus mandamentos, tema que é enfatizado no Salmo 103.
+* Isaías 43:25: "Sou eu, eu mesmo, aquele que apaga suas transgressões, por amor de mim, e que não se lembra mais de seus pecados." Assim como o salmista agradece a Deus por perdoar os seus pecados e curar as suas enfermidades (Salmo 103:3), este versículo de Isaías destaca a graça e a misericórdia de Deus em perdoar as transgressões do seu povo.
+* Lamentações 3:22-23: "As misericórdias do Senhor são a causa de não sermos consumidos, porque as suas misericórdias não têm fim; renovam-se cada manhã. Grande é a tua fidelidade." O salmista exalta a misericórdia e a fidelidade de Deus no Salmo 103, e este versículo de Lamentações reforça essa mensagem ao destacar que é graças à misericórdia do Senhor que o seu povo não é destruído.
+* Efésios 2:8-9: "Porque pela graça vocês são salvos, por meio da fé, e isto não vem de vocês, é dom de Deus; não por obras, para que ninguém se glorie." O salmista reconhece que a sua salvação e a sua redenção vêm de Deus (Salmo 103:4), e este versículo de Efésios enfatiza que a salvação é um dom gratuito de Deus, recebido pela fé e não por obras.
+* Tiago 1:17: "Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes, que não muda como sombras inconstantes." Assim como o salmista exalta a bondade e a generosidade de Deus no Salmo 103, este versículo de Tiago destaca que todas as boas dádivas e dons perfeitos vêm de Deus, o Pai das luzes.
+****
+
+[[v21-103-1]]
+
+^<<v21-103-1,1>>^ Bendize, ó minha alma, o Senhor! Senhor, meu Deus, vós sois imensamente grande! De majestade e esplendor vos revestis,^&#42;1^
+
+[[v21-103-2]]
+
+^<<v21-103-2,2>>^ envolvido de luz como de um manto. Vós estendestes o céu qual pavilhão,
+
+[[v21-103-3]]
+
+^<<v21-103-3,3>>^ acima das águas fixastes vossa morada. De nuvens fazeis vosso carro, andais nas asas do vento;
+
+[[v21-103-4]]
+
+^<<v21-103-4,4>>^ fazeis dos ventos os vossos mensageiros, e dos flamejantes relâmpagos vossos ministros.^&#42;1^
+
+[[v21-103-5]]
+
+^<<v21-103-5,5>>^ Fundastes a terra em bases sólidas que são eternamente inabaláveis.
+
+[[v21-103-6]]
+
+^<<v21-103-6,6>>^ Vós a tínheis coberto com o manto do oceano, as águas ultrapassavam as montanhas.
+
+[[v21-103-7]]
+
+^<<v21-103-7,7>>^ Mas à vossa ameaça elas se afastaram, ao estrondo de vosso trovão estremeceram.
+
+[[v21-103-8]]
+
+^<<v21-103-8,8>>^ Elevaram-se as montanhas, sulcaram-se os vales nos lugares que vós lhes destinastes.
+
+[[v21-103-9]]
+
+^<<v21-103-9,9>>^ Estabelecestes os limites, que elas não hão de ultrapassar, para que não mais tornem a cobrir a terra.^&#42;1^
+
+[[v21-103-10]]
+
+^<<v21-103-10,10>>^ Mandastes as fontes correr em riachos, que serpeiam por entre os montes.
+
+[[v21-103-11]]
+
+^<<v21-103-11,11>>^ Ali vão beber os animais dos campos, neles matam a sede os asnos selvagens.
+
+[[v21-103-12]]
+
+^<<v21-103-12,12>>^ Os pássaros do céu vêm aninhar em suas margens, e cantam entre as folhagens.
+
+[[v21-103-13]]
+
+^<<v21-103-13,13>>^ Do alto de vossas moradas derramais a chuva nas montanhas, do fruto de vossas obras se farta a terra.
+
+[[v21-103-14]]
+
+^<<v21-103-14,14>>^ Fazeis brotar a relva para o gado, e plantas úteis ao homem, para que da terra possa extrair o pão
+
+[[v21-103-15]]
+
+^<<v21-103-15,15>>^ e o vinho que alegra o coração do homem, o óleo que lhe faz brilhar o rosto e o pão que lhe sustenta as forças.
+
+[[v21-103-16]]
+
+^<<v21-103-16,16>>^ As árvores do Senhor são cheias de seiva, assim como os cedros do Líbano que ele plantou.
+
+[[v21-103-17]]
+
+^<<v21-103-17,17>>^ Lá constroem as aves os seus ninhos, nos ciprestes a cegonha tem sua casa.
+
+[[v21-103-18]]
+
+^<<v21-103-18,18>>^ Os altos montes dão abrigo às cabras, e os rochedos aos arganazes.
+
+[[v21-103-19]]
+
+^<<v21-103-19,19>>^ Fizestes a lua para indicar os tempos; o sol conhece a hora de se pôr.
+
+[[v21-103-20]]
+
+^<<v21-103-20,20>>^ Mal estendeis as trevas e já se faz noite, entram a rondar os animais das selvas.
+
+[[v21-103-21]]
+
+^<<v21-103-21,21>>^ Rugem os leõezinhos por sua presa, e pedem a Deus o seu sustento.
+
+[[v21-103-22]]
+
+^<<v21-103-22,22>>^ Mas se retiram ao raiar do sol, e vão se deitar em seus covis.
+
+[[v21-103-23]]
+
+^<<v21-103-23,23>>^ É então que o homem sai para o trabalho, e trabalha sem descanso até o entardecer.
+
+[[v21-103-24]]
+
+^<<v21-103-24,24>>^ Ó Senhor, quão variadas são as vossas obras! Feitas, todas, com sabedoria, a terra está cheia das coisas que criastes.
+
+[[v21-103-25]]
+
+^<<v21-103-25,25>>^ Eis o mar, imenso e vasto, onde, sem conta, se agitam animais grandes e pequenos.
+
+[[v21-103-26]]
+
+^<<v21-103-26,26>>^ Nele navegam as naus e o Leviatã que criastes para brincar nas ondas.^&#42;1^
+
+[[v21-103-27]]
+
+^<<v21-103-27,27>>^ Todos esses seres esperam de vós que lhes deis de comer em seu tempo.
+
+[[v21-103-28]]
+
+^<<v21-103-28,28>>^ Vós lhes dais e eles o recolhem; abris a mão, e se fartam de bens.
+
+[[v21-103-29]]
+
+^<<v21-103-29,29>>^ Se desviais o rosto, eles se perturbam; se lhes retirais o sopro, expiram e voltam ao pó donde saíram.
+
+[[v21-103-30]]
+
+^<<v21-103-30,30>>^ Se enviais, porém, o vosso sopro, eles revivem e renovais a face da terra.
+
+[[v21-103-31]]
+
+^<<v21-103-31,31>>^ Ao Senhor, glória eterna; alegre-se o Senhor em suas obras!
+
+[[v21-103-32]]
+
+^<<v21-103-32,32>>^ Ele, cujo olhar basta para fazer tremer a terra, e cujo contato inflama as montanhas.^&#42;1^
+
+[[v21-103-33]]
+
+^<<v21-103-33,33>>^ Enquanto viver, cantarei à glória do Senhor, salmodiarei o meu Deus enquanto existir.
+
+[[v21-103-34]]
+
+^<<v21-103-34,34>>^ Possam minhas palavras lhe ser agradáveis! Minha única alegria se encontra no Senhor.
+
+[[v21-103-35]]
+
+^<<v21-103-35,35>>^ Sejam tirados da terra os pecadores e doravante desapareçam os ímpios. Bendize, ó minha alma, o Senhor! Aleluia.
+
+'''
+
+xref:021-salmos/021-salmos-102.adoc#v21-102-0[&#60; Capítulo Anterior] | <<v21-103-0,Topo>> | xref:021-salmos/021-salmos-104.adoc#v21-104-0[Próximo Capítulo &#62;]

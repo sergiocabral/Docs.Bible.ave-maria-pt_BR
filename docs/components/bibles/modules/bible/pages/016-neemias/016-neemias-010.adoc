@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v16-10-0]]
+=== Neemias, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em Neemias 10, o povo de Israel faz um acordo com Deus para seguir suas leis e estatutos e viver de acordo com sua vontade. O capítulo contém uma lista detalhada de pessoas que assinaram o acordo e comprometeram-se a cumprir as obrigações estipuladas. Abaixo estão cinco versículos relacionados com os temas abordados em Neemias 10:
+* Deuteronômio 27:26: "Maldito aquele que não confirmar as palavras desta lei, não as cumprindo. E todo o povo dirá: Amém!" Este versículo destaca a importância de seguir a lei de Deus e as consequências de não fazê-lo.
+* Josué 24:24: "E disse o povo a Josué: Serviremos ao Senhor nosso Deus, e obedeceremos à sua voz." Este versículo mostra o compromisso do povo de Israel em servir a Deus e seguir sua vontade.
+* Salmos 119:106: "Jurando eu, e o confirmarei, que guardarei os teus justos juízos." Este versículo enfatiza a importância de cumprir os mandamentos de Deus e seguir sua vontade.
+* Ezequiel 36:27: "E porei dentro de vós o meu Espírito, e farei que andeis nos meus estatutos, e guardeis os meus juízos, e os observeis." Este versículo mostra a promessa de Deus de dar a seu povo o Espírito Santo para ajudá-los a cumprir suas leis e estatutos.
+* Gálatas 6:2: "Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo." Este versículo destaca a importância da comunidade e da ajuda mútua na vida cristã e em seguir a vontade de Deus.
+****
+
+[[v16-10-1]]
+
+^<<v16-10-1,1>>^ Eis os que apuseram o seu selo: Neemias, o governador, filho de Hacalias. Sacerdotes: Sedecias,
+
+[[v16-10-2]]
+
+^<<v16-10-2,2>>^ Saraías, Azarias, Jeremias,
+
+[[v16-10-3]]
+
+^<<v16-10-3,3>>^ Fasur, Amarias, Melquias,
+
+[[v16-10-4]]
+
+^<<v16-10-4,4>>^ Hatus, Sebanias, Meluc,
+
+[[v16-10-5]]
+
+^<<v16-10-5,5>>^ Harim, Meremot, Abdias,
+
+[[v16-10-6]]
+
+^<<v16-10-6,6>>^ Daniel, Genton, Baruc,
+
+[[v16-10-7]]
+
+^<<v16-10-7,7>>^ Mesolam, Abias, Miamin,
+
+[[v16-10-8]]
+
+^<<v16-10-8,8>>^ Maazias, Belgai, Semeías.
+
+[[v16-10-9]]
+
+^<<v16-10-9,9>>^ Levitas: Josué, filho de Azanias, Benui, dos filhos de Henadad, Cadmiel
+
+[[v16-10-10]]
+
+^<<v16-10-10,10>>^ e seus irmãos, Sequenias, Odaías, Celita, Falaías, Hanã,
+
+[[v16-10-11]]
+
+^<<v16-10-11,11>>^ Micas, Roob, Hasebias,
+
+[[v16-10-12]]
+
+^<<v16-10-12,12>>^ Zacur, Serebias, Sabanias,
+
+[[v16-10-13]]
+
+^<<v16-10-13,13>>^ Odaías, Bani e Canani.
+
+[[v16-10-14]]
+
+^<<v16-10-14,14>>^ Chefes do povo: Faros, Faat-Moab, Elam, Zetu,
+
+[[v16-10-15]]
+
+^<<v16-10-15,15>>^ Bani, Buni, Azgad, Bebai,
+
+[[v16-10-16]]
+
+^<<v16-10-16,16>>^ Adonias, Beguai, Adin,
+
+[[v16-10-17]]
+
+^<<v16-10-17,17>>^ Ater, Ezequias, Azur,
+
+[[v16-10-18]]
+
+^<<v16-10-18,18>>^ Odaías, Hasum, Besai,
+
+[[v16-10-19]]
+
+^<<v16-10-19,19>>^ Haref, Anatot, Nebai,
+
+[[v16-10-20]]
+
+^<<v16-10-20,20>>^ Megfias, Mesolam, Hazir,
+
+[[v16-10-21]]
+
+^<<v16-10-21,21>>^ Mesezebel, Sadoc, Jedua,
+
+[[v16-10-22]]
+
+^<<v16-10-22,22>>^ Feltias, Hanã, Anaías,
+
+[[v16-10-23]]
+
+^<<v16-10-23,23>>^ Oseias, Hananias, Hasub,
+
+[[v16-10-24]]
+
+^<<v16-10-24,24>>^ Aloés, Falea, Sobec,
+
+[[v16-10-25]]
+
+^<<v16-10-25,25>>^ Reum, Hasabna, Maasias,
+
+[[v16-10-26]]
+
+^<<v16-10-26,26>>^ Aías, Hanã, Anã,
+
+[[v16-10-27]]
+
+^<<v16-10-27,27>>^ Meluc, Harim e Baana.
+
+[[v16-10-28]]
+
+^<<v16-10-28,28>>^ O resto do povo, os sacerdotes, levitas, porteiros, cantores, natineus e todos os que estavam separados dos povos estrangeiros para seguir a Lei de Deus, suas mulheres, filhos e filhas, todos os que estavam em idade de conhecer e compreender,
+
+[[v16-10-29]]
+
+^<<v16-10-29,29>>^ juntaram-se aos seus irmãos, às pessoas importantes e se comprometeram com juramento a caminhar segundo a Lei de Deus, dada por intermédio de Moisés, seu servo, a observar e a praticar todos os mandamentos do Senhor, nosso Deus, suas ordenações e leis.
+
+[[v16-10-30]]
+
+^<<v16-10-30,30>>^ Prometemos não dar nossas filhas aos habitantes da terra e não tomar suas filhas para os nossos filhos;
+
+[[v16-10-31]]
+
+^<<v16-10-31,31>>^ nada comprar da terra, em dia de sábado ou em dia de festa, se trouxessem para vender, naqueles dias, mercadorias ou quaisquer gêneros alimentícios que fossem; deixar repousar a terra e não reclamar nenhuma dívida no sétimo ano.
+
+[[v16-10-32]]
+
+^<<v16-10-32,32>>^ Impusemo-nos a obrigação de pagar cada ano o terço de um siclo para o serviço do templo:
+
+[[v16-10-33]]
+
+^<<v16-10-33,33>>^ os pães da proposição, a oblação perpétua, o holocausto perpétuo, os sacrifícios dos sábados, das neomênias e das festas, as coisas consagradas, os sacrifícios expiatórios em favor de Israel e para todo o serviço da casa de nosso Deus.
+
+[[v16-10-34]]
+
+^<<v16-10-34,34>>^ Tiramos à sorte, sacerdotes, levitas e o povo, para a repartição da oferta da madeira, a fim de que cada família, por sua vez, em cada ano, nas épocas determinadas, trouxesse ao templo o material necessário para manter aceso o fogo do altar do Senhor, nosso Deus, de conformidade com o que está escrito na Lei.
+
+[[v16-10-35]]
+
+^<<v16-10-35,35>>^ Tomamos o compromisso de levar ao templo, cada ano, as primícias de nosso solo e as de nossos campos;
+
+[[v16-10-36]]
+
+^<<v16-10-36,36>>^ de apresentar igualmente aos sacerdotes que fazem o serviço da casa de Deus, como está prescrito na Lei, os primogênitos dos nossos filhos e de nossos rebanhos e os primogênitos de nossos bois e de nossas ovelhas;
+
+[[v16-10-37]]
+
+^<<v16-10-37,37>>^ do mesmo modo, de levar aos sacerdotes, nas salas da casa de Deus, as primícias de nossos alimentos, nossas oferendas, assim como dos frutos de todas as árvores, do vinho e do azeite; e de entregar o dízimo de nosso solo aos levitas que estavam encarregados de transportá-lo para todas as nossas aglomerações agrícolas.
+
+[[v16-10-38]]
+
+^<<v16-10-38,38>>^ Um sacerdote da linhagem de Aarão acompanharia os levitas quando recebessem o dízimo; e os levitas trariam o dízimo do dízimo à casa de nosso Deus, para as salas que servem de depósito.
+
+[[v16-10-39]]
+
+^<<v16-10-39,39>>^ Porque os filhos de Israel e os filhos de Levi devem trazer para essas salas as primícias do trigo, do vinho e do azeite; nessas salas é que se acham os utensílios do santuário e é ali que os sacerdotes se encontram em serviço, bem como os porteiros e os cantores. Assim é que nós não mais queremos negligenciar a casa de nosso Deus.
+
+'''
+
+xref:016-neemias/016-neemias-009.adoc#v16-9-0[&#60; Capítulo Anterior] | <<v16-10-0,Topo>> | xref:016-neemias/016-neemias-011.adoc#v16-11-0[Próximo Capítulo &#62;]

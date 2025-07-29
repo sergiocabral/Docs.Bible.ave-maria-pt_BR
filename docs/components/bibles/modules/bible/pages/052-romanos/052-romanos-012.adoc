@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v52-12-0]]
+=== Romanos, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Romanos 12 é um capítulo que trata sobre a vida cristã prática e a maneira como os cristãos devem viver em comunidade. Paulo destaca a importância de oferecer nossos corpos como sacrifício vivo a Deus e de não se conformar com os padrões deste mundo. Ele também fala sobre o amor genuíno, o respeito, a hospitalidade, o serviço e a harmonia entre os cristãos. Com base nisso, aqui estão cinco versículos relacionados com os temas abordados em Romanos 12, em ordem de proximidade com o capítulo:
+* 1 Coríntios 12:27: "Ora, vós sois o corpo de Cristo, e seus membros em particular." Esse versículo destaca a importância da unidade entre os cristãos e como cada um de nós desempenha um papel único no corpo de Cristo. Ele enfatiza que todos os membros são importantes e necessários para o bom funcionamento do corpo.
+* Efésios 4:32: "Antes sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo." Esse versículo destaca a importância do amor genuíno e do perdão entre os cristãos. Ele enfatiza que devemos tratar uns aos outros com bondade, misericórdia e perdão, assim como Deus nos tratou em Cristo.
+* Hebreus 13:2: "Não vos esqueçais da hospitalidade, porque por ela alguns, não o sabendo, hospedaram anjos." Esse versículo destaca a importância da hospitalidade entre os cristãos. Ele enfatiza que devemos estar abertos e dispostos a acolher os outros, pois isso pode nos trazer bênçãos inesperadas.
+* Filipenses 2:3-4: "Nada façais por contenda ou por vanglória, mas por humildade; cada um considere os outros superiores a si mesmo. Não atente cada um para o que é propriamente seu, mas cada qual também para o que é dos outros." Esse versículo destaca a importância da humildade e do serviço entre os cristãos. Ele enfatiza que devemos colocar os outros acima de nós mesmos e servir uns aos outros com amor.
+* Colossenses 3:13: "Suportai-vos uns aos outros, perdoai-vos mutuamente, caso alguém tenha motivo de queixa contra outrem. Assim como o Senhor vos perdoou, assim também perdoai vós." Esse versículo destaca novamente a importância do perdão e do amor entre os cristãos. Ele enfatiza que devemos suportar uns aos outros e perdoar uns aos outros, assim como Deus nos perdoou em Cristo.
+****
+
+[[v52-12-1]]
+
+^<<v52-12-1,1>>^ Eu vos exorto, pois, irmãos, pelas misericórdias de Deus, a oferecerdes vossos corpos em sacrifício vivo, santo, agradável a Deus: é este o vosso culto espiritual.
+
+[[v52-12-2]]
+
+^<<v52-12-2,2>>^ Não vos conformeis com este mundo, mas transformai-vos pela renovação do vosso espírito, para que possais discernir qual é a vontade de Deus, o que é bom, o que lhe agrada e o que é perfeito.
+
+[[v52-12-3]]
+
+^<<v52-12-3,3>>^ Em virtude da graça que me foi dada, recomendo a todos e a cada um: não façam de si próprios uma opinião maior do que convém, mas um conceito razoavelmente modesto, de acordo com o grau de fé que Deus lhes distribuiu.^&#42;1^
+
+[[v52-12-4]]
+
+^<<v52-12-4,4>>^ Pois, como em um só corpo temos muitos membros e cada um dos nossos membros tem diferente função,
+
+[[v52-12-5]]
+
+^<<v52-12-5,5>>^ assim nós, embora sejamos muitos, formamos um só corpo em Cristo, e cada um de nós é membro um do outro.
+
+[[v52-12-6]]
+
+^<<v52-12-6,6>>^ Temos dons diferentes, conforme a graça que nos foi conferida. Aquele que tem o dom da profecia, exerça-o conforme a fé.
+
+[[v52-12-7]]
+
+^<<v52-12-7,7>>^ Aquele que é chamado ao ministério, dedique-se ao ministério. Se tem o dom de ensinar, que ensine;
+
+[[v52-12-8]]
+
+^<<v52-12-8,8>>^ o dom de exortar, que exorte; aquele que distribui as esmolas, faça-o com simplicidade; aquele que preside, presida com zelo; aquele que exerce a misericórdia, que o faça com afabilidade.
+
+[[v52-12-9]]
+
+^<<v52-12-9,9>>^ Que vossa caridade não seja fingida. Aborrecei o mal, apegai-vos solidamente ao bem.
+
+[[v52-12-10]]
+
+^<<v52-12-10,10>>^ Amai-vos mutuamente com afeição terna e fraternal. Adiantai-vos em honrar uns aos outros.
+
+[[v52-12-11]]
+
+^<<v52-12-11,11>>^ Não relaxeis o vosso zelo. Sede fervorosos de espírito. Servi ao Senhor.
+
+[[v52-12-12]]
+
+^<<v52-12-12,12>>^ Sede alegres na esperança, pacientes na tribulação e perseverantes na oração.
+
+[[v52-12-13]]
+
+^<<v52-12-13,13>>^ Socorrei às necessidades dos fiéis. Esmerai-vos na prática da hospitalidade.
+
+[[v52-12-14]]
+
+^<<v52-12-14,14>>^ Abençoai os que vos perseguem; abençoai-os, e não os praguejeis.
+
+[[v52-12-15]]
+
+^<<v52-12-15,15>>^ Alegrai-vos com os que se alegram; chorai com os que choram.
+
+[[v52-12-16]]
+
+^<<v52-12-16,16>>^ Vivei em boa harmonia uns com os outros. Não vos deixeis levar pelo gosto das grandezas; afeiçoai-vos com as coisas modestas. Não sejais sábios aos vossos próprios olhos.
+
+[[v52-12-17]]
+
+^<<v52-12-17,17>>^ Não pagueis a ninguém o mal com o mal. Aplicai-vos a fazer o bem diante de todos os homens.
+
+[[v52-12-18]]
+
+^<<v52-12-18,18>>^ Se for possível, quanto depender de vós, vivei em paz com todos os homens.
+
+[[v52-12-19]]
+
+^<<v52-12-19,19>>^ Não vos vingueis uns dos outros, caríssimos, mas deixai agir a ira de Deus, porque está escrito: A mim a vingança; a mim exercer a justiça, diz o Senhor (Dt 32,35).
+
+[[v52-12-20]]
+
+^<<v52-12-20,20>>^ Se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber. Procedendo assim, amontoarás carvões em brasa sobre a sua cabeça (Pr 25,21s).^&#42;1^
+
+[[v52-12-21]]
+
+^<<v52-12-21,21>>^ Não te deixes vencer pelo mal, mas triunfa do mal com o bem.
+
+'''
+
+xref:052-romanos/052-romanos-011.adoc#v52-11-0[&#60; Capítulo Anterior] | <<v52-12-0,Topo>> | xref:052-romanos/052-romanos-013.adoc#v52-13-0[Próximo Capítulo &#62;]

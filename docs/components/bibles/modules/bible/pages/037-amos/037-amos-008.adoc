@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v37-8-0]]
+=== Amós, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Amós 8 é um capítulo que traz uma forte crítica à injustiça social e econômica que estava sendo cometida em Israel, incluindo a exploração dos pobres e a falta de compaixão pelos necessitados. Além disso, é denunciada a falsidade religiosa e a adoração vazia e superficial. Abaixo, seguem cinco versículos que abordam temas relacionados a esse capítulo:
+* Isaías 5:8 - "Ai dos que ajuntam casa a casa, ajuntam campo a campo, até que não haja mais lugar, e ficam como únicos moradores no meio da terra!" Este versículo condena a ganância e a busca desenfreada por riquezas, que é um dos principais problemas abordados em Amós 8.
+* Provérbios 14:31 - "O que oprime o pobre insulta àquele que o criou, mas o que tem compaixão dos necessitados honra-o." Este versículo destaca a importância da compaixão e do cuidado pelos necessitados, algo que era negligenciado em Israel e é criticado por Amós.
+* Jeremias 22:13-14 - "Ai daquele que edifica a sua casa com injustiça e os seus aposentos sem direito, servindo-se do seu próximo sem remunerá-lo e não lhe dá o salário do seu trabalho!...Porventura não sabe que eu o Senhor fiz esta exigência: que se faça justiça, e se ame a misericórdia, e se ande humildemente com o seu Deus?" Nesses versículos, vemos uma semelhança com a mensagem de Amós, pois também é denunciada a injustiça social e a exploração dos trabalhadores.
+* Tiago 5:1-5 - "Vinde agora, ricos, chorai e pranteai, por causa das vossas desventuras, que vos sobrevirão...Tendes vivido em delícias sobre a terra, e sido luxuriosos; tendes engordado o vosso coração para o dia da matança." Esses versículos trazem uma crítica semelhante à de Amós, contra aqueles que acumulam riquezas injustamente e desfrutam do luxo enquanto os pobres sofrem.
+* Isaías 1:13-15 - "Não tragais mais ofertas vãs; o incenso é para mim abominação, e as luas novas, e os sábados, e a convocação das assembleias; não posso suportar iniquidade, nem mesmo a reunião solene...Lavai-vos, purificai-vos, tirai de diante dos meus olhos a maldade dos vossos atos." Nesses versículos, vemos uma crítica à adoração vazia e superficial que é condenada por Amós em seu capítulo 8.
+****
+
+[[v37-8-1]]
+
+^<<v37-8-1,1>>^ Eis o que me mostrou o Senhor: Vi uma cesta de frutos maduros.
+
+[[v37-8-2]]
+
+^<<v37-8-2,2>>^ “Que vês tu, Amós?” – perguntou-me ele –. “Uma cesta de frutos maduros” – respondi –. Ele replicou: “Chegou o fim para o meu povo de Israel. Não continuarei a perdoá-lo.
+
+[[v37-8-3]]
+
+^<<v37-8-3,3>>^ Naquele dia, os cantos do palácio serão gritos de aflição – oráculo do Senhor Javé. Uma multidão de cadáveres, lançados em qualquer parte. Silêncio!”.
+
+[[v37-8-4]]
+
+^<<v37-8-4,4>>^ Ouvi isto, vós que engolis o pobre, e fazeis perecer os humildes da terra,
+
+[[v37-8-5]]
+
+^<<v37-8-5,5>>^ dizendo: Quando passará a lua nova, para vendermos o nosso trigo, e o sábado, para abrirmos os nossos celeiros, diminuindo a medida e aumentando o preço, e falseando a balança para defraudar?^&#42;1^
+
+[[v37-8-6]]
+
+^<<v37-8-6,6>>^ Compraremos os infelizes por dinheiro e os pobres por um par de sandálias. Venderemos até o refugo do trigo.
+
+[[v37-8-7]]
+
+^<<v37-8-7,7>>^ O Senhor jurou pelo orgulho de Jacó: não esquecerei jamais nenhum de seus atos.
+
+[[v37-8-8]]
+
+^<<v37-8-8,8>>^ Não estremecerá a terra por causa disso? Não estará de luto toda a sua população? Todo o solo crescerá como o Nilo, subirá e baixará como o rio do Egito.
+
+[[v37-8-9]]
+
+^<<v37-8-9,9>>^ Acontecerá naquele dia – oráculo do Senhor Javé – que farei o sol se pôr ao meio-dia, e encherei a terra de trevas em pleno dia.
+
+[[v37-8-10]]
+
+^<<v37-8-10,10>>^ Converterei vossas festas em luto, e vossos cânticos em elegias fúnebres. Porei o saco em volta de todos os rins, e a navalha em todas as cabeças. E farei (a terra) debulhar-se em pranto, como se chora um filho único, e seu porvir será um dia de amargura.
+
+[[v37-8-11]]
+
+^<<v37-8-11,11>>^ Virão dias – oráculo do Senhor Javé – em que enviarei fome sobre a terra, não uma fome de pão, nem uma sede de água, mas (fome e sede) de ouvir a palavra do Senhor.^&#42;1^
+
+[[v37-8-12]]
+
+^<<v37-8-12,12>>^ Andarão errantes de um mar a outro, vaguearão do Norte ao Oriente; correrão por toda parte buscando a palavra do Senhor, e não a encontrarão.
+
+[[v37-8-13]]
+
+^<<v37-8-13,13>>^ Naqueles dias, desfalecerão de sede as belas jovens e os moços.
+
+[[v37-8-14]]
+
+^<<v37-8-14,14>>^ Os que juram pelo pecado da Samaria e dizem: “Pela vida do teu deus, Dã!”. e “Pelo caminho de Bersabeia!” – estes cairão e não mais se levantarão.^&#42;1^
+
+'''
+
+xref:037-amos/037-amos-007.adoc#v37-7-0[&#60; Capítulo Anterior] | <<v37-8-0,Topo>> | xref:037-amos/037-amos-009.adoc#v37-9-0[Próximo Capítulo &#62;]

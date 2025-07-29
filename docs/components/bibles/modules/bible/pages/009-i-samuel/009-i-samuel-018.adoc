@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v9-18-0]]
+=== I Samuel, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 18 de 1 Samuel narra o estabelecimento da amizade entre Davi e Jônatas, filho do rei Saul, bem como a inveja e o ciúme que Saul começa a nutrir em relação a Davi, devido à sua crescente popularidade junto ao povo e às suas vitórias militares. Os versículos selecionados abaixo tratam de temas como amizade, inveja e ciúme.
+* Provérbios 17:17: "Em todo tempo ama o amigo; e na angústia se faz o irmão." Este versículo destaca a importância da amizade verdadeira, que se mantém constante em todos os momentos, especialmente nos momentos difíceis.
+* Provérbios 14:30: "O coração sereno é a vida da carne, mas a inveja é a podridão dos ossos." Aqui, o autor destaca o efeito negativo da inveja sobre a saúde emocional e espiritual de uma pessoa.
+* Provérbios 27:4: "A ira é cruel e a fúria é impetuosa, mas quem pode enfrentar o ciúme?" Este versículo aponta para a natureza destrutiva do ciúme e a dificuldade de lidar com ele.
+* Gálatas 5:19-21: "Ora, as obras da carne são manifestas, as quais são: prostituição, impureza, lascívia, idolatria, feitiçarias, inimizades, porfias, ciúmes, iras, discórdias, dissensões, facções, invejas, bebedices, glutonarias, e coisas semelhantes a estas, acerca das quais vos declaro, como já antes vos disse, que os que cometem tais coisas não herdarão o reino de Deus." Este trecho bíblico aponta para a gravidade do ciúme como uma obra da carne, que se opõe à natureza de Deus e à vida eterna.
+* 1 Coríntios 13:4-7: "O amor é paciente, é benigno; o amor não arde em ciúmes, não se ufana, não se ensoberbece, não se porta inconvenientemente, não busca os seus próprios interesses, não se irrita, não suspeita mal; não se regozija com a injustiça, mas se regozija com a verdade; tudo sofre, tudo crê, tudo espera, tudo suporta." Estes versículos falam sobre as características do verdadeiro amor, que incluem a ausência de ciúme e inveja.
+****
+
+[[v9-18-1]]
+
+^<<v9-18-1,1>>^ Tendo Davi acabado de falar com Saul, a alma de Jônatas apegou-se à alma de Davi e Jônatas começou a amá-lo como a si mesmo.
+
+[[v9-18-2]]
+
+^<<v9-18-2,2>>^ Naquele mesmo dia, Saul o reteve em sua casa e não o deixou voltar para a casa de seu pai.
+
+[[v9-18-3]]
+
+^<<v9-18-3,3>>^ Jônatas fez um pacto com Davi, pois o amava como a si mesmo.
+
+[[v9-18-4]]
+
+^<<v9-18-4,4>>^ Tirou o seu manto, deu-o a Davi, bem como a sua armadura, sua espada, seu arco e seu cinto.
+
+[[v9-18-5]]
+
+^<<v9-18-5,5>>^ Saul incumbiu Davi de diversas missões e todas foram muito frutuosas. Colocou-o à frente dos seus guerreiros e ele ganhou a simpatia de todo o povo, inclusive dos servos do rei.
+
+[[v9-18-6]]
+
+^<<v9-18-6,6>>^ Voltando o exército, depois de Davi ter matado o filisteu, de todas as cidades de Israel saíam as mulheres ao encontro do rei Saul, cantando e dançando alegremente, ao som de tamborins e címbalos.
+
+[[v9-18-7]]
+
+^<<v9-18-7,7>>^ E enquanto dançavam, diziam umas às outras: “Saul matou seus milhares e Davi seus dez milhares”.
+
+[[v9-18-8]]
+
+^<<v9-18-8,8>>^ Saul irritou-se em extremo e desagradou-lhe tal canção. “Dão dez mil a Davi – disse ele – e a mim apenas mil! Só lhe falta a coroa!”
+
+[[v9-18-9]]
+
+^<<v9-18-9,9>>^ E a partir daquele dia, Saul olhou Davi com maus olhos.
+
+[[v9-18-10]]
+
+^<<v9-18-10,10>>^ No dia seguinte, apoderou-se dele o mau espírito de Deus e teve um acesso de delírio em sua casa. Como nos outros dias, Davi pôs-se a tocar a cítara.
+
+[[v9-18-11]]
+
+^<<v9-18-11,11>>^ Saul, que tinha uma lança na mão, arremessou-a contra Davi, dizendo: “Vou cravá-lo na parede!”. Mas Davi se desviou do golpe por duas vezes.
+
+[[v9-18-12]]
+
+^<<v9-18-12,12>>^ Saul temia Davi, porque o Senhor estava com o jovem, ao passo que se tinha retirado de Saul.
+
+[[v9-18-13]]
+
+^<<v9-18-13,13>>^ Afastou-o então de si, estabelecendo-o chefe de mil homens, à frente dos quais Davi empreendia as suas expedições.
+
+[[v9-18-14]]
+
+^<<v9-18-14,14>>^ Saía-se bem em todas as suas empresas, porque o Senhor estava com ele.
+
+[[v9-18-15]]
+
+^<<v9-18-15,15>>^ Saul, vendo-o tão engenhoso, teve medo dele.
+
+[[v9-18-16]]
+
+^<<v9-18-16,16>>^ Mas todos em Israel e Judá o amavam, porque ele entrava e saía diante deles.
+
+[[v9-18-17]]
+
+^<<v9-18-17,17>>^ Saul disse a Davi: “Eis minha filha mais velha, Merob, que eu te darei por mulher, contanto que sejas valoroso e combatas nas guerras do Senhor”. Saul pensava: “Não é bom que o fira a minha mão, mas antes a dos filisteus”.
+
+[[v9-18-18]]
+
+^<<v9-18-18,18>>^ Davi respondeu: “Quem sou eu? E o que é a minha vida ou a família de meu pai em Israel, para que me torne genro do rei?”.
+
+[[v9-18-19]]
+
+^<<v9-18-19,19>>^ Ora, tendo chegado o tempo em que Merob, filha de Saul, devia ser dada a Davi, deram-na em casamento a Adriel, o molatita.
+
+[[v9-18-20]]
+
+^<<v9-18-20,20>>^ Ora, Micol, filha de Saul, amava Davi. E contaram-no a Saul, que se alegrou com isso.
+
+[[v9-18-21]]
+
+^<<v9-18-21,21>>^ “Vou dar-lhe Micol – pensava Saul –, para que ela lhe seja uma armadilha e ele caia na mão dos filisteus.” Saul disse, pois, a Davi pela segunda vez: “Agora vais tornar-te meu genro”.
+
+[[v9-18-22]]
+
+^<<v9-18-22,22>>^ E ordenou aos seus servos que dissessem em segredo a Davi: “O rei afeiçoou-se a ti e todos os seus servos te amam. Torna-te genro do rei”.
+
+[[v9-18-23]]
+
+^<<v9-18-23,23>>^ Os servos de Saul repetiram essas palavras aos ouvidos de Davi, mas este respondeu: “Parece-vos pouca coisa ser genro do rei? Eu sou pobre e de condição humilde”.
+
+[[v9-18-24]]
+
+^<<v9-18-24,24>>^ Os servos de Saul referiram-lhe as palavras de Davi.
+
+[[v9-18-25]]
+
+^<<v9-18-25,25>>^ Saul ordenou: “Falarei assim a Davi que o rei só pede como dote cem prepúcios de filisteus, para vingar-se dos seus inimigos”. Seu desígnio era entregar Davi nas mãos dos filisteus.
+
+[[v9-18-26]]
+
+^<<v9-18-26,26>>^ Transmitiram os servos a Davi essa mensagem, o qual se agradou da proposta de tornar-se genro do rei.
+
+[[v9-18-27]]
+
+^<<v9-18-27,27>>^ Antes que expirasse o prazo fixado, Davi partiu com seus homens; matou duzentos filisteus e trouxe os seus prepúcios, entregando-os integralmente ao rei, para se tornar seu genro. Saul deu-lhe por mulher sua filha Micol.
+
+[[v9-18-28]]
+
+^<<v9-18-28,28>>^ Ele compreendeu que o Senhor estava com Davi. Sua filha Micol o amava.
+
+[[v9-18-29]]
+
+^<<v9-18-29,29>>^ O rei sentiu com isso redobrar o seu medo. Durante todo o resto de sua vida ele detestou Davi.
+
+[[v9-18-30]]
+
+^<<v9-18-30,30>>^ Cada vez que os chefes dos filisteus faziam incursões, Davi era mais bem-sucedido que todos os homens de Saul, o que deu ao seu nome grande fama.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-017.adoc#v9-17-0[&#60; Capítulo Anterior] | <<v9-18-0,Topo>> | xref:009-i-samuel/009-i-samuel-019.adoc#v9-19-0[Próximo Capítulo &#62;]

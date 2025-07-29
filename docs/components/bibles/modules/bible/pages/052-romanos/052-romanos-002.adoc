@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v52-2-0]]
+=== Romanos, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Romanos 2 aborda a hipocrisia dos judeus que condenam os gentios por seus pecados, enquanto eles mesmos cometem os mesmos erros. Paulo argumenta que todos são culpados diante de Deus e que a justiça de Deus não faz distinção entre judeus e gentios. Ele também enfatiza a necessidade de uma mudança interior, não apenas de seguir a lei externamente. Com base nesses temas, os cinco versículos relacionados são:
+* Mateus 7:1-2: "Não julgueis, para que não sejais julgados. Pois com o critério com que julgardes, sereis julgados; e com a medida com que tiverdes medido vos medirão também a vós." Este versículo fala sobre a hipocrisia do julgamento e como podemos ser julgados da mesma forma que julgamos os outros. Isso se relaciona com a condenação dos judeus aos gentios em Romanos 2.
+* Gálatas 3:28: "Não há judeu nem grego; não há escravo nem livre; não há homem nem mulher; porque todos vós sois um em Cristo Jesus." Este versículo fala sobre a unidade em Cristo e a falta de distinção entre diferentes grupos de pessoas. Isso se relaciona com a afirmação de Paulo em Romanos 2 de que a justiça de Deus não faz distinção entre judeus e gentios.
+* Tiago 1:22: "Mas sede cumpridores da palavra, e não somente ouvintes, enganando-vos a vós mesmos." Este versículo destaca a importância de agir de acordo com a palavra de Deus, em vez de apenas ouvi-la. Isso se relaciona com a ênfase de Paulo em Romanos 2 de que a mudança interior é necessária, não apenas a conformidade externa com a lei.
+* 1 Coríntios 4:5: "Portanto, não julgueis antes do tempo, até que o Senhor venha, o qual não só trará à luz as coisas ocultas das trevas, mas também manifestará os desígnios dos corações; e então cada um receberá de Deus o louvor que lhe é devido." Este versículo fala sobre a justiça de Deus e como ele revelará a verdadeira intenção dos corações. Isso se relaciona com a ênfase de Paulo em Romanos 2 de que a justiça de Deus não é baseada em distinções externas, mas sim na verdadeira intenção do coração.
+* Efésios 2:8-9: "Porque pela graça sois salvos, por meio da fé, e isto não vem de vós, é dom de Deus; não vem das obras, para que ninguém se glorie." Este versículo fala sobre a salvação pela graça, não pelas obras. Isso se relaciona com a afirmação de Paulo em Romanos 2 de que a justiça de Deus não é alcançada pela conformidade externa com a lei, mas sim pela mudança interior e pela fé em Cristo.
+****
+
+[[v52-2-1]]
+
+^<<v52-2-1,1>>^ Assim, és inescusável, ó homem, quem quer que sejas, que te arvoras em juiz. Naquilo que julgas a outrem, a ti mesmo te condenas; pois tu, que julgas, fazes as mesmas coisas que eles.^&#42;1^
+
+[[v52-2-2]]
+
+^<<v52-2-2,2>>^ Ora, sabemos que o juízo de Deus contra aqueles que fazem tais coisas corresponde à verdade.
+
+[[v52-2-3]]
+
+^<<v52-2-3,3>>^ Tu, ó homem, que julgas os que praticam tais coisas, mas as cometes também, pensas que escaparás ao juízo de Deus?
+
+[[v52-2-4]]
+
+^<<v52-2-4,4>>^ Ou desprezas as riquezas da sua bondade, tolerância e longanimidade, desconhecendo que a bondade de Deus te convida ao arrependimento?
+
+[[v52-2-5]]
+
+^<<v52-2-5,5>>^ Mas, pela tua obstinação e coração impenitente, vais acumulando ira contra ti, para o dia da cólera e da revelação do justo juízo de Deus,
+
+[[v52-2-6]]
+
+^<<v52-2-6,6>>^ que retribuirá a cada um segundo as suas obras:
+
+[[v52-2-7]]
+
+^<<v52-2-7,7>>^ a vida eterna aos que, perseverando em fazer o bem, buscam a glória, a honra e a imortalidade;
+
+[[v52-2-8]]
+
+^<<v52-2-8,8>>^ mas ira e indignação aos contumazes, rebeldes à verdade e seguidores do mal.
+
+[[v52-2-9]]
+
+^<<v52-2-9,9>>^ Tribulação e angústia sobrevirão a todo aquele que pratica o mal, primeiro ao judeu e depois ao grego;
+
+[[v52-2-10]]
+
+^<<v52-2-10,10>>^ mas glória, honra e paz a todo o que faz o bem, primeiro ao judeu e depois ao grego.
+
+[[v52-2-11]]
+
+^<<v52-2-11,11>>^ Porque, diante de Deus, não há distinção de pessoas.
+
+[[v52-2-12]]
+
+^<<v52-2-12,12>>^ Todos os que sem a Lei pecaram, sem aplicação da lei perecerão; e quantos pecaram sob o regime da lei, pela Lei serão julgados.^&#42;1^
+
+[[v52-2-13]]
+
+^<<v52-2-13,13>>^ Porque diante de Deus não são justos os que ouvem a lei, mas serão tidos por justos os que praticam a lei.
+
+[[v52-2-14]]
+
+^<<v52-2-14,14>>^ Os pagãos, que não têm a Lei, fazendo naturalmente as coisas que são da Lei, embora não tenham a lei, a si mesmos servem de lei;
+
+[[v52-2-15]]
+
+^<<v52-2-15,15>>^ eles mostram que o objeto da lei está gravado nos seus corações, dando-lhes testemunho a sua consciência, bem como os seus raciocínios, com os quais se acusam ou se escusam mutuamente.^&#42;1^
+
+[[v52-2-16]]
+
+^<<v52-2-16,16>>^ Isso aparecerá claramente no dia em que, segundo o meu Evangelho, Deus julgar as ações secretas dos homens, por Jesus Cristo.
+
+[[v52-2-17]]
+
+^<<v52-2-17,17>>^ Mas tu, que és chamado judeu, e te apoias na lei, e te glorias de teu Deus;
+
+[[v52-2-18]]
+
+^<<v52-2-18,18>>^ tu, que conheces a sua vontade, e instruído pela lei sabes aquilatar a diferença das coisas;
+
+[[v52-2-19]]
+
+^<<v52-2-19,19>>^ tu, que te ufanas de ser guia dos cegos, luzeiro dos que estão em trevas,
+
+[[v52-2-20]]
+
+^<<v52-2-20,20>>^ doutor dos ignorantes, mestre dos simples, porque encontras na lei a regra da ciência e da verdade;
+
+[[v52-2-21]]
+
+^<<v52-2-21,21>>^ tu, que ensinas aos outros... não te ensinas a ti mesmo! Tu, que pregas que não se deve furtar, furtas!
+
+[[v52-2-22]]
+
+^<<v52-2-22,22>>^ Tu, que dizes que não se deve adulterar, adulteras! Tu, que abominas os ídolos, pilhas os seus templos!
+
+[[v52-2-23]]
+
+^<<v52-2-23,23>>^ Tu, que te glorias da lei, desonras a Deus pela transgressão da lei!
+
+[[v52-2-24]]
+
+^<<v52-2-24,24>>^ Porque assim fala a Escritura: Por vossa causa o nome de Deus é blasfemado entre os pagãos (Is 52,5).
+
+[[v52-2-25]]
+
+^<<v52-2-25,25>>^ A circuncisão, em verdade, é proveitosa se guardares a Lei. Mas, se fores transgressor da Lei, serás, com tua circuncisão, um mero incircunciso.
+
+[[v52-2-26]]
+
+^<<v52-2-26,26>>^ Se, portanto, o incircunciso observa os preceitos da lei, não será ele considerado como circunciso, apesar de sua incircuncisão?^&#42;1^
+
+[[v52-2-27]]
+
+^<<v52-2-27,27>>^ Ainda mais, o incircunciso de nascimento, cumprindo a lei, te julgará que, com a letra e com a circuncisão, és transgressor da lei.
+
+[[v52-2-28]]
+
+^<<v52-2-28,28>>^ Não é verdadeiro judeu o que o é exteriormente, nem verdadeira circuncisão a que aparece exteriormente na carne.
+
+[[v52-2-29]]
+
+^<<v52-2-29,29>>^ Mas é judeu o que o é interiormente, e verdadeira circuncisão é a do coração, segundo o espírito da lei, e não segundo a letra. Tal judeu recebe o louvor não dos homens, e sim de Deus.
+
+'''
+
+xref:052-romanos/052-romanos-001.adoc#v52-1-0[&#60; Capítulo Anterior] | <<v52-2-0,Topo>> | xref:052-romanos/052-romanos-003.adoc#v52-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v14-4-0]]
+=== II Crônicas, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Crônicas 4 descreve os utensílios que foram feitos para serem usados no templo de Salomão, incluindo um mar de bronze, dez suportes com rodas, bacias, lamparinas, colheres, garfos e taças. Todos os utensílios foram feitos com grande habilidade e precisão para serem usados no serviço do Senhor. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Crônicas 4:
+* 2 Crônicas 4:18: "Assim Salomão fez todos estes objetos em grande quantidade, pois o peso do bronze não podia ser determinado." Este verso destaca a quantidade de objetos que foram feitos para o templo. Todos foram feitos em grande quantidade, mostrando a importância e a grandiosidade do templo.
+* 1 Reis 7:23-26: "Também fez um mar de fundição, dez côvados de uma borda à outra, completamente redondo, com cinco côvados de altura, e um cordão de trinta côvados o circundava. Abaixo da sua borda, à volta, estavam as figuras de bois, dez por côvado, e o mar assentava sobre doze bois. Quatro deles estavam voltados para o norte, quatro para o sul, quatro para o ocidente e quatro para o oriente; e sobre eles estava a bacia." Estes versos descrevem a construção do mar de bronze para o templo. Ele foi feito em grande escala, com uma borda de dez côvados e uma altura de cinco côvados, com figuras de bois em volta.
+* 2 Crônicas 4:9: "Também fez as cortinas do pátio, as quais eram de linho fino torcido, e as colunas com as suas bases, as quais eram de bronze." Este verso descreve as cortinas do pátio e as colunas que foram feitas para o templo. Eles foram feitos de linho fino torcido e bronze, respectivamente.
+* 1 Reis 7:50: "E as taças, e as colheres, e os incensários, de ouro puro; e as portas da casa, a saber, a entrada da câmara interior, e as portas do templo, de ouro." Este verso descreve os objetos de ouro que foram feitos para o templo. As taças, colheres e incensários foram feitos de ouro puro, bem como as portas do templo.
+* 2 Crônicas 4:22: "O mar, e os bois debaixo dele, e os caldeirões, e as bases, e todos os utensílios que estavam debaixo dele, faziam parte dos tesouros que Hirão de Tiro deu a Salomão, para a obra do Senhor." Este verso destaca que os utensílios que foram feitos para o templo foram presentes de Hirão de Tiro, que ajudou Salomão a obter materiais e trabalhadores para a construção do templo.
+****
+
+[[v14-4-1]]
+
+^<<v14-4-1,1>>^ Construiu também um altar de bronze de vinte côvados de comprimento, vinte de largura e dez de altura.
+
+[[v14-4-2]]
+
+^<<v14-4-2,2>>^ Fabricou o “mar” de metal fundido, o qual tinha uma largura de dez côvados de uma borda a outra. Tinha a forma circular e sua altura era de cinco côvados; sua circunferência era medida por um cordão de trinta côvados.
+
+[[v14-4-3]]
+
+^<<v14-4-3,3>>^ Figuras de bois circundavam-no todo, ao redor, debaixo do rebordo, dez para cada côvado, em duas fileiras, fundidas numa só peça com ele.
+
+[[v14-4-4]]
+
+^<<v14-4-4,4>>^ Era sustentado por doze bois, dos quais três olhavam para o norte, três para o oeste, três para o sul e três para o oriente. O “mar” descansava sobre suas partes traseiras que estavam voltadas para dentro.
+
+[[v14-4-5]]
+
+^<<v14-4-5,5>>^ Sua espessura era de um palmo; e a borda, como a de um copo, tinha a forma de uma flor de loto. Sua capacidade era de três mil batos.
+
+[[v14-4-6]]
+
+^<<v14-4-6,6>>^ Salomão fez também dez bacias, das quais cinco foram colocadas à direita e cinco à esquerda, para nelas fazer as abluções. Aí era lavado tudo o que se utilizava para os holocaustos; ao passo que o “mar” servia para as abluções dos sacerdotes.
+
+[[v14-4-7]]
+
+^<<v14-4-7,7>>^ Fez dez candelabros de ouro, de acordo com o modelo prescrito e colocou-os no templo, cinco à direita e cinco à esquerda.
+
+[[v14-4-8]]
+
+^<<v14-4-8,8>>^ Fez dez mesas e colocou-as no templo, cinco à direita e cinco à esquerda; e cem vasos de ouro.
+
+[[v14-4-9]]
+
+^<<v14-4-9,9>>^ Fez o átrio dos sacerdotes e o grande pátio com portas recobertas de bronze.
+
+[[v14-4-10]]
+
+^<<v14-4-10,10>>^ Colocou o “mar” voltado para a direita, a sudeste.
+
+[[v14-4-11]]
+
+^<<v14-4-11,11>>^ Hiram fabricou as caldeiras, as pás e as bacias, terminando dessa maneira todos os trabalhos que tinha de fazer para o rei Salomão, no Templo de Deus,
+
+[[v14-4-12]]
+
+^<<v14-4-12,12>>^ a saber: duas colunas com os capitéis e as arquitraves que lhes estavam sobrepostas, duas redes que cobriam os capitéis com as arquitraves que estavam sobrepostas às colunas,
+
+[[v14-4-13]]
+
+^<<v14-4-13,13>>^ quatrocentas romãs das quais duas fileiras ornavam as grades que cobriam os capitéis com as arquitraves que estavam sobre as colunas.
+
+[[v14-4-14]]
+
+^<<v14-4-14,14>>^ Fez os pedestais e as bacias que eles suportam,
+
+[[v14-4-15]]
+
+^<<v14-4-15,15>>^ o “mar” e os doze bois que o sustentam,
+
+[[v14-4-16]]
+
+^<<v14-4-16,16>>^ as caldeiras, as pás e os garfos. Todos os acessórios que Hiram-Abi fez para o Templo do Senhor eram de bronze polido.
+
+[[v14-4-17]]
+
+^<<v14-4-17,17>>^ O rei mandou-os fundir na planície do Jordão, numa terra argilosa entre Sucot e Saredata.
+
+[[v14-4-18]]
+
+^<<v14-4-18,18>>^ Todos os objetos foram fabricados em tal quantidade que não se podia avaliar o peso do bronze.
+
+[[v14-4-19]]
+
+^<<v14-4-19,19>>^ Eis os objetos que Salomão mandou fossem ainda feitos para o templo: altar de ouro, as mesas nas quais se colocavam os pães da proposição,
+
+[[v14-4-20]]
+
+^<<v14-4-20,20>>^ os candelabros com suas lâmpadas de ouro prescritos pela lei para o santuário, as flores,
+
+[[v14-4-21]]
+
+^<<v14-4-21,21>>^ as lâmpadas e as tenazes feitas de ouro fino,
+
+[[v14-4-22]]
+
+^<<v14-4-22,22>>^ as facas, os vasos, as colheres e os cinzeiros de ouro fino, a porta de ouro da sala, as portas internas do Santo dos Santos e as portas de entrada do templo que eram de ouro.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-003.adoc#v14-3-0[&#60; Capítulo Anterior] | <<v14-4-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-005.adoc#v14-5-0[Próximo Capítulo &#62;]

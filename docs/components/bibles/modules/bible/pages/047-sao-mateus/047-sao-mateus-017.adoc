@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v47-17-0]]
+=== São Mateus, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 17 de São Mateus apresenta a transfiguração de Jesus diante de Pedro, Tiago e João no topo de uma montanha, seguida por uma cura realizada por Jesus e sua discussão com seus discípulos sobre o pagamento de impostos. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Marcos 9:2-3: "Seis dias depois, Jesus levou consigo Pedro, Tiago e João e os levou a um lugar alto, onde estavam a sós. Lá ele foi transfigurado diante deles. Suas roupas se tornaram tão brancas como nenhuma lavadeira na terra poderia branqueá-las." Este versículo descreve a transfiguração de Jesus e é paralelo a Mateus 17:1-3.
+* Mateus 17:5: "Enquanto ele ainda estava falando, uma nuvem brilhante os envolveu, e uma voz da nuvem disse: 'Este é meu Filho amado, em quem me comprazo. Ouça-o!'" Este versículo relata a voz de Deus que fala dos céus testificando que Jesus é seu Filho amado, confirmando sua divindade diante dos discípulos.
+* Marcos 9:29: "Ele respondeu: 'Esta espécie só pode sair pela oração.'" Este versículo é parte de uma história em que os discípulos não conseguiram curar um menino possuído por um espírito maligno, e Jesus explicou que essa espécie só pode ser expulsa pela oração. É paralelo a Mateus 17:14-21, que contém a mesma história.
+* Mateus 17:24-25: "Quando chegaram a Cafarnaum, os coletores de impostos aproximaram-se de Pedro e perguntaram: 'O seu mestre não paga o imposto do templo?' 'Sim, ele paga', respondeu Pedro. Quando Pedro entrou em casa, Jesus o questionou primeiro: 'O que você acha, Simão? De quem os reis da terra cobram impostos e taxas: de seus próprios filhos ou de outros?'" Esses versículos descrevem a discussão de Jesus e Pedro sobre o pagamento de impostos.
+* Mateus 17:27: "Mas, para não ofendê-los, vá ao mar e jogue um anzol. Tire o primeiro peixe que pegar, abra a boca dele e encontrará uma moeda de quatro dracmas. Pegue-o e dê a eles para o meu imposto e o seu." Este versículo é uma continuação da história sobre o pagamento de impostos e descreve a maneira como Jesus providenciou o dinheiro para o imposto, um exemplo de sua divindade e poder sobrenatural.
+****
+
+[[v47-17-1]]
+
+^<<v47-17-1,1>>^ Seis dias depois, Jesus tomou consigo Pedro, Tiago e João, seu irmão, e conduziu-os à parte a uma alta montanha.
+
+[[v47-17-2]]
+
+^<<v47-17-2,2>>^ Lá se transfigurou na presença deles: seu rosto brilhou como o sol, suas vestes tornaram-se resplandecentes de brancura.
+
+[[v47-17-3]]
+
+^<<v47-17-3,3>>^ E eis que apareceram Moisés e Elias conversando com ele.^&#42;1^
+
+[[v47-17-4]]
+
+^<<v47-17-4,4>>^ Pedro tomou, então, a palavra e disse-lhe: “Senhor, é bom estarmos aqui. Se queres, farei aqui três tendas: uma para ti, uma para Moisés e outra para Elias”.
+
+[[v47-17-5]]
+
+^<<v47-17-5,5>>^ Falava ele ainda, quando veio uma nuvem luminosa e os envolveu. E daquela nuvem fez-se ouvir uma voz que dizia: “Eis o meu Filho muito amado, em quem pus toda a minha afeição; ouvi-o”.
+
+[[v47-17-6]]
+
+^<<v47-17-6,6>>^ Ouvindo esta voz, os discípulos caíram com a face por terra e tiveram medo.
+
+[[v47-17-7]]
+
+^<<v47-17-7,7>>^ Mas Jesus aproximou-se deles e tocou-os, dizendo: “Levantai-vos e não temais”.
+
+[[v47-17-8]]
+
+^<<v47-17-8,8>>^ Eles levantaram os olhos e não viram mais ninguém, senão unicamente Jesus.
+
+[[v47-17-9]]
+
+^<<v47-17-9,9>>^ E, quando desciam, Jesus lhes fez esta proibição: “Não conteis a ninguém o que vistes, até que o Filho do Homem ressuscite dos mortos”.
+
+[[v47-17-10]]
+
+^<<v47-17-10,10>>^ Em seguida, os discípulos o interrogaram: “Por que dizem os escribas que Elias deve voltar primeiro?”.
+
+[[v47-17-11]]
+
+^<<v47-17-11,11>>^ Jesus respondeu-lhes: “Elias, de fato, deve voltar e restabelecer todas as coisas.
+
+[[v47-17-12]]
+
+^<<v47-17-12,12>>^ Mas eu vos digo que Elias já veio, mas não o conheceram; antes, fizeram com ele quanto quiseram. Do mesmo modo farão sofrer o Filho do Homem”.^&#42;1^
+
+[[v47-17-13]]
+
+^<<v47-17-13,13>>^ Os discípulos compreenderam, então, que ele lhes falava de João Batista.
+
+[[v47-17-14]]
+
+^<<v47-17-14,14>>^ E, quando eles se reuniram ao povo, um homem aproximou-se deles e prostrou-se diante de Jesus,
+
+[[v47-17-15]]
+
+^<<v47-17-15,15>>^ dizendo: “Senhor, tem piedade de meu filho, porque é lunático e sofre muito: ora cai no fogo, ora na água...
+
+[[v47-17-16]]
+
+^<<v47-17-16,16>>^ Já o apresentei a teus discípulos, mas eles não o puderam curar”.
+
+[[v47-17-17]]
+
+^<<v47-17-17,17>>^ Respondeu Jesus: “Raça incrédula e perversa, até quando estarei convosco? Até quando hei de aturar-vos? Trazei-mo”.
+
+[[v47-17-18]]
+
+^<<v47-17-18,18>>^ Jesus ameaçou o demônio e este saiu do menino, que ficou curado na mesma hora.
+
+[[v47-17-19]]
+
+^<<v47-17-19,19>>^ Então, os discípulos lhe perguntaram em particular: “Por que não pudemos nós expulsar esse demônio?”.
+
+[[v47-17-20]]
+
+^<<v47-17-20,20>>^ Jesus respondeu-lhes: “Por causa de vossa falta de fé. Em verdade vos digo: se tiverdes fé, como um grão de mostarda, direis a esta montanha: Transporta-te daqui para lá, e ela irá; e nada vos será impossível.
+
+[[v47-17-21]]
+
+^<<v47-17-21,21>>^ Quanto a esta espécie de demônio, só se pode expulsar à força de oração e de jejum”.
+
+[[v47-17-22]]
+
+^<<v47-17-22,22>>^ Enquanto caminhava pela Galileia, Jesus lhes disse: “O Filho do Homem deve ser entregue nas mãos dos homens.
+
+[[v47-17-23]]
+
+^<<v47-17-23,23>>^ Eles irão matá-lo, mas ao terceiro dia ressuscitará.” E eles ficaram profundamente aflitos.
+
+[[v47-17-24]]
+
+^<<v47-17-24,24>>^ Logo que chegaram a Cafarnaum, aqueles que cobravam o imposto da didracma aproximaram-se de Pedro e lhe perguntaram: “Teu mestre não paga a didracma?”.^&#42;1^ –
+
+[[v47-17-25]]
+
+^<<v47-17-25,25>>^ “Paga, sim” – respondeu Pedro. Mas quando chegaram à casa, Jesus preveniu-o, dizendo: “Que te parece, Simão? Os reis da terra, de quem recebem os tributos ou os impostos? De seus filhos ou dos estrangeiros?”
+
+[[v47-17-26]]
+
+^<<v47-17-26,26>>^ Pedro respondeu: “Dos estrangeiros”. Jesus replicou: “Os filhos, então, estão isentos.^&#42;1^
+
+[[v47-17-27]]
+
+^<<v47-17-27,27>>^ Mas não convém escandalizá-los. Vai ao mar, lança o anzol, e ao primeiro peixe que pegares, abrirás a boca e encontrarás um estater. Toma-o e dá-o por mim e por ti”.^&#42;1^
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-016.adoc#v47-16-0[&#60; Capítulo Anterior] | <<v47-17-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-018.adoc#v47-18-0[Próximo Capítulo &#62;]

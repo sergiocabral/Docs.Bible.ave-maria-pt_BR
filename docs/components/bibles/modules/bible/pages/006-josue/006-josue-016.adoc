@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v6-16-0]]
+=== Josué, 16
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* No capítulo 16 de Josué, são descritas as fronteiras e a divisão da terra entre as tribos de Efraim e Manassés. Os versículos a seguir estão relacionados aos temas abordados nesse capítulo:
+* Números 26:52-54: "Então o Senhor disse a Moisés: 'A terra será dividida entre eles como uma herança, de acordo com o número de nomes. Aqueles que são muitos em número receberão uma herança maior, e aqueles que são poucos em número receberão uma herança menor. Cada um receberá sua herança de acordo com o recenseamento. Mas a terra será distribuída por sorteio; e será dividida de acordo com as tribos de seus antepassados." Esse versículo mostra que a distribuição de terras entre as tribos de Israel foi um plano de Deus desde o tempo de Moisés.
+* Deuteronômio 33:17: "Que é majestoso como o primeiro touro do rebanho, suas pontas são os chifres do boi selvagem. Com eles ele vai chifrar as nações, até as extremidades da terra. Essas são as dezenas de milhares de Efraim; essas são as milhares de Manassés." Este versículo menciona as tribos de Efraim e Manassés, que receberam a terra descrita em Josué 16.
+* Josué 17:14-18: Neste trecho, vemos a tribo de José (ou seja, as tribos de Efraim e Manassés) reclamando que a terra que lhes foi dada não é suficiente para eles. Josué responde indicando que eles têm a capacidade de expandir seu território, mas devem expulsar os cananeus que ainda estão na região.
+* Salmos 78:67-69: "Então ele rejeitou a tenda de José; ele não escolheu a tribo de Efraim, mas escolheu a tribo de Judá, o monte Sião, que ele amou. Ele construiu seu santuário como as alturas, como a terra que ele estabeleceu para sempre. Ele escolheu Davi, seu servo, e o tirou dos currais de ovelhas." Esse versículo menciona que a tribo de Efraim foi rejeitada, mas a tribo de Judá foi escolhida como a tribo principal para liderar Israel. Isso é relevante porque a tribo de Efraim recebeu uma porção maior de terra em Josué 16, mas acabou não sendo escolhida por Deus como a tribo líder.
+* 1 Reis 7:23-26: Este versículo descreve os pilares de bronze que Salomão fez para o templo em Jerusalém. O pilar chamado "Boaz" foi construído para representar a tribo de Efraim, que, como mencionado acima, recebeu uma porção maior de terra em Josué 16.
+****
+
+[[v6-16-1]]
+
+^<<v6-16-1,1>>^ A parte que tocou por sorte aos filhos de José começava desde o Jordão, defronte de Jericó (as águas de Jericó), ao oriente, e passava pelo deserto que vai de Jericó ao monte Betel.
+
+[[v6-16-2]]
+
+^<<v6-16-2,2>>^ Continuava de Betel a Luza, passava ao longo da fronteira dos arqueus, em Atarot,
+
+[[v6-16-3]]
+
+^<<v6-16-3,3>>^ descia pelo ocidente, ao longo da fronteira dos jafletitas até a fronteira de Bet-Horon inferior, e até Gazer, terminando no mar.
+
+[[v6-16-4]]
+
+^<<v6-16-4,4>>^ Tal foi a parte que coube aos filhos de José: Manassés e Efraim.
+
+[[v6-16-5]]
+
+^<<v6-16-5,5>>^ Esse é o território dos filhos de Efraim, segundo suas famílias. O limite de sua herança, para o oriente, foi Atarot-Adar até Bet-Horon superior.
+
+[[v6-16-6]]
+
+^<<v6-16-6,6>>^ Para o ocidente, a fronteira tocava o norte de Macmetat e voltava para Tanat-Silo, ao oriente, e a ultrapassava, indo para o oriente de Janoe.
+
+[[v6-16-7]]
+
+^<<v6-16-7,7>>^ Descia em seguida de Janoe a Atarot e a Naarata, atingia Jericó e terminava no Jordão.
+
+[[v6-16-8]]
+
+^<<v6-16-8,8>>^ De Tafua estendia-se para o ocidente até a torrente de Caná, terminando no mar. Essa foi a parte dos filhos de Efraim, segundo suas famílias.
+
+[[v6-16-9]]
+
+^<<v6-16-9,9>>^ Tiveram também cidades situadas no meio da parte dos filhos de Manassés, todas com suas aldeias.
+
+[[v6-16-10]]
+
+^<<v6-16-10,10>>^ Os filhos de Efraim não expulsaram, entretanto, os cananeus de Gazer, de sorte que os cananeus continuam até agora a habitar no meio de Efraim, mas sujeitos a trabalhos forçados.
+
+'''
+
+xref:006-josue/006-josue-015.adoc#v6-15-0[&#60; Capítulo Anterior] | <<v6-16-0,Topo>> | xref:006-josue/006-josue-017.adoc#v6-17-0[Próximo Capítulo &#62;]

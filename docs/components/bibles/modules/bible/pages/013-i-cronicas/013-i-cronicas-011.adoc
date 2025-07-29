@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v13-11-0]]
+=== I Crônicas, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Crônicas 11 registra a ascensão do Rei Davi ao trono de Israel e o estabelecimento de sua capital em Jerusalém. O capítulo destaca seus valentes guerreiros, incluindo seus Três Grandes Heróis: Josheb-Basshebeth, Eleazar e Shammah. Eles se destacaram por suas habilidades de combate e pela devoção a Davi. A partir deste capítulo, escolhi cinco versículos relacionados aos temas de liderança, coragem, lealdade e vitória, que podem ser encontrados em outras partes da Bíblia.
+* Josué 1:9: "Não te mandei eu? Sê forte e corajoso; não temas, nem te espantes, porque o SENHOR teu Deus é contigo, por onde quer que andares." Assim como Davi liderou seu povo com coragem e determinação, Deus também exortou Josué a liderar os filhos de Israel com força e coragem. Esta passagem mostra como a liderança requer coragem e confiança em Deus.
+* Provérbios 17:17: "Em todo tempo ama o amigo e na angústia se faz o irmão." Davi e seus guerreiros compartilharam uma forte lealdade e compromisso um com o outro. Este versículo de Provérbios destaca a importância da amizade e lealdade, especialmente em tempos difíceis.
+* Salmos 20:7: "Uns confiam em carros, outros em cavalos, mas nós faremos menção do nome do SENHOR nosso Deus." Davi e seus guerreiros reconheceram que a vitória não dependia de seus próprios recursos ou habilidades, mas da graça e poder de Deus. Este versículo do Salmo 20 destaca a importância de confiar em Deus em vez de confiar em nossa própria força.
+* 2 Timóteo 2:3: "Sofre comigo como bom soldado de Jesus Cristo." Este versículo de 2 Timóteo destaca a importância de ser um soldado fiel de Cristo. Assim como Davi e seus guerreiros lutaram com coragem e devoção ao seu rei, também somos chamados a lutar como bons soldados de Cristo.
+* 1 João 5:4: "Porque todo o que é nascido de Deus vence o mundo; e esta é a vitória que vence o mundo: a nossa fé." Este versículo de 1 João destaca que a verdadeira vitória é alcançada através da fé em Deus. Davi e seus guerreiros venceram muitas batalhas, mas sua verdadeira vitória veio da fidelidade e confiança em Deus.
+****
+
+[[v13-11-1]]
+
+^<<v13-11-1,1>>^ Todo o Israel foi ter com Davi, em Hebron. Disseram-lhe “Vê, nós somos teus ossos e tua carne.^&#42;1^
+
+[[v13-11-2]]
+
+^<<v13-11-2,2>>^ Já antes, quando Saul era rei, eras tu que conduzias os destinos de Israel. O Senhor, teu Deus, te disse: ‘És tu que apascentarás Israel, meu povo, e serás tu o chefe de Israel, meu povo’.”
+
+[[v13-11-3]]
+
+^<<v13-11-3,3>>^ Assim todos os anciãos de Israel vieram para junto do rei, em Hebron, e Davi concluiu um pacto com eles, em Hebron, diante do Senhor. Então, eles ungiram-no rei de Israel, segundo a palavra do Senhor, pronunciada por Samuel.
+
+[[v13-11-4]]
+
+^<<v13-11-4,4>>^ Davi foi com todo o Israel contra Jerusalém, chamada então, Jebus, onde estavam os jebuseus, habitantes da terra.
+
+[[v13-11-5]]
+
+^<<v13-11-5,5>>^ Os jebuseus disseram a Davi: “Aqui não entrarás”. Mas Davi se apoderou da fortaleza de Sião, que se tornou a Cidade de Davi.
+
+[[v13-11-6]]
+
+^<<v13-11-6,6>>^ “O primeiro – disse ele –, seja quem for, que vencer os jebuseus, será nomeado chefe e príncipe.” O primeiro que subiu foi Joab, filho de Sárvia, e tornou-se chefe.
+
+[[v13-11-7]]
+
+^<<v13-11-7,7>>^ Davi instalou-se na fortaleza, que por isso se chama Cidade de Davi.
+
+[[v13-11-8]]
+
+^<<v13-11-8,8>>^ Ele fortificou a cidade ao redor, desde Milo até seus arredores e Joab restaurou o resto da cidade.
+
+[[v13-11-9]]
+
+^<<v13-11-9,9>>^ Davi tornou-se cada vez mais poderoso e o Deus dos exércitos estava com ele.
+
+[[v13-11-10]]
+
+^<<v13-11-10,10>>^ Eis os chefes dos heróis que estavam a serviço de Davi e que o ajudaram com todo o Israel a assegurar seu domínio, a fim de fazê-lo rei, segundo a palavra do Senhor, com respeito a Israel.
+
+[[v13-11-11]]
+
+^<<v13-11-11,11>>^ Segue a relação dos heróis que estavam a serviço de Davi: Jesbaam, chefe dos trinta. Ele brandiu sua lança contra trezentos homens e os abateu de uma só vez.
+
+[[v13-11-12]]
+
+^<<v13-11-12,12>>^ Depois deste, Eleazar, filho de Dodô, o aoíta, um dos três heróis.
+
+[[v13-11-13]]
+
+^<<v13-11-13,13>>^ Estava ele com Davi em Afes-Domim, onde os filisteus se tinham reunido para o combate. Lá havia um campo de cevada e o exército fugia diante dos filisteus.
+
+[[v13-11-14]]
+
+^<<v13-11-14,14>>^ Eles se postaram no meio do campo, defenderam-no e destroçaram os filisteus. Assim o Senhor assegurou uma grande vitória.
+
+[[v13-11-15]]
+
+^<<v13-11-15,15>>^ Três dos trinta capitães desceram à rocha para perto de Davi, junto da caverna de Odolam, enquanto o acampamento dos filisteus estava levantado no vale dos refains.
+
+[[v13-11-16]]
+
+^<<v13-11-16,16>>^ Enquanto Davi estava na caverna, uma guarnição de filisteus se achava em Belém.
+
+[[v13-11-17]]
+
+^<<v13-11-17,17>>^ Davi exprimiu um desejo: “Quem me dará de beber – disse ele – da água da cisterna que está às portas de Belém?”.
+
+[[v13-11-18]]
+
+^<<v13-11-18,18>>^ Os três homens atravessaram o acampamento dos filisteus e tiraram água da cisterna que está à porta de Belém. Eles a levaram a Davi, mas Davi não quis bebê-la e fez dela uma libação ao Senhor:
+
+[[v13-11-19]]
+
+^<<v13-11-19,19>>^ “Deus me livre – disse ele – de beber semelhante coisa! Haveria eu de beber o sangue destes homens? Pois foi arriscando a própria vida que eles me trouxeram esta água.” Por isso, recusou-se a beber. Eis o que fizeram esses três bravos.
+
+[[v13-11-20]]
+
+^<<v13-11-20,20>>^ Abisaí, irmão de Joab, era o chefe dos três; brandiu sua lança contra trezentos homens; matou-os e adquiriu um nome entre os três.
+
+[[v13-11-21]]
+
+^<<v13-11-21,21>>^ Era o mais considerado da segunda tríade e foi o seu chefe, mas não se igualou aos três primeiros;
+
+[[v13-11-22]]
+
+^<<v13-11-22,22>>^ Banaías, filho de Joiada, homem de valor e rico em altos feitos, originário de Cabseel, foi o que venceu os dois filhos de Ariel, de Moab. Foi ele também quem desceu e matou o leão na cisterna, num dia de nevada.
+
+[[v13-11-23]]
+
+^<<v13-11-23,23>>^ Foi ele ainda quem venceu um egípcio de cinco côvados de altura. Esse egípcio tinha na mão uma lança semelhante a um cilindro de tear de tecelão. Foi contra ele com um bordão, arrancou-lhe a lança das mãos e o matou com a própria lança.
+
+[[v13-11-24]]
+
+^<<v13-11-24,24>>^ Eis o que fez Banaías, filho de Joiada, que foi célebre entre os três valentes.
+
+[[v13-11-25]]
+
+^<<v13-11-25,25>>^ Era mais considerado que os trinta; todavia, não se igualou aos três. Davi o colocou à testa de sua guarda.
+
+[[v13-11-26]]
+
+^<<v13-11-26,26>>^ Valentes homens do exército: Asael, irmão de Joab; Elcanã, filho de Dodô, natural de Belém;
+
+[[v13-11-27]]
+
+^<<v13-11-27,27>>^ Samot, de Aori; Heles, de Falon;
+
+[[v13-11-28]]
+
+^<<v13-11-28,28>>^ Ira, filho de Aces, de Tícua;
+
+[[v13-11-29]]
+
+^<<v13-11-29,29>>^ Abiezer, de Anatot; Sobocai, o husatita; Ilai, o aoíta; Maarai, de Netofa;
+
+[[v13-11-30]]
+
+^<<v13-11-30,30>>^ Héled, filho de Baana, de Netofa;
+
+[[v13-11-31]]
+
+^<<v13-11-31,31>>^ Etai, filho de Ribai, de Gabaá, dos filhos de Benjamim; Banaías, de Faraton;
+
+[[v13-11-32]]
+
+^<<v13-11-32,32>>^ Hurrai, dos vales de Gaás; Abiel, de Arabá; Azmot, de Baurim; Eliaba, de Saalbon; Bené-Asem, de Gezon;
+
+[[v13-11-33]]
+
+^<<v13-11-33,33>>^ Jônatas, filho de Saage, de Arar;
+
+[[v13-11-34]]
+
+^<<v13-11-34,34>>^ Aiam, filho de Sacar, de Arar;
+
+[[v13-11-35]]
+
+^<<v13-11-35,35>>^ Elifalet, filho de Ur; Héfer, de Mequera;
+
+[[v13-11-36]]
+
+^<<v13-11-36,36>>^ Aías, de Felon; Hesro, de Carmelo;
+
+[[v13-11-37]]
+
+^<<v13-11-37,37>>^ Naarai, filho de Azbai; Joel, irmão de Natã;
+
+[[v13-11-38]]
+
+^<<v13-11-38,38>>^ Mibaar, filho de Agarai;
+
+[[v13-11-39]]
+
+^<<v13-11-39,39>>^ Selec, o amonita; Naarai, de Beerot, escudeiro de Joab, filho de Sárvia;
+
+[[v13-11-40]]
+
+^<<v13-11-40,40>>^ Ira, de Jeter; Gareb, de Jeter;
+
+[[v13-11-41]]
+
+^<<v13-11-41,41>>^ Urias, o hiteu; Zabad, filho de Ooli;
+
+[[v13-11-42]]
+
+^<<v13-11-42,42>>^ Adina, filho de Siza, filho de Rúben, chefe dos rubenitas e com ele trinta homens;
+
+[[v13-11-43]]
+
+^<<v13-11-43,43>>^ Hanã, filho de Maaca; Josafá, de Matã;
+
+[[v13-11-44]]
+
+^<<v13-11-44,44>>^ Ozias, de Astarot; Hosama e Jaiel, filhos de Hotam, de Aroer;
+
+[[v13-11-45]]
+
+^<<v13-11-45,45>>^ Jadiel, filho de Samri; Joás, seu irmão, o tosaíta;
+
+[[v13-11-46]]
+
+^<<v13-11-46,46>>^ Eliel, de Maanaim; Jeribai e Josaías, filhos de Elnaem; Jetma, o moabita; Eliel, Obed e Jasiel, de Soba.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-010.adoc#v13-10-0[&#60; Capítulo Anterior] | <<v13-11-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-012.adoc#v13-12-0[Próximo Capítulo &#62;]

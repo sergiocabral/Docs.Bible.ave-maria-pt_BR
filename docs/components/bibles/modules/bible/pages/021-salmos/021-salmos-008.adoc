@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v21-8-0]]
+=== Salmos, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 8 é um cântico de louvor a Deus pela sua grandeza e por ter concedido ao homem a posição de dominar sobre a criação. O Salmo inicia e encerra com a mesma afirmação: "Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra!" (v.1 e v.9). Os versículos escolhidos, em ordem de proximidade com os temas do capítulo, são:
+* Gênesis 1:26: "E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; tenha ele domínio sobre os peixes do mar, sobre as aves dos céus, sobre os animais domésticos, sobre toda a terra e sobre todos os répteis que rastejam pela terra." Esse versículo se relaciona com o Salmo 8 porque ambos destacam a posição elevada do homem na criação, como uma imagem e semelhança de Deus, e o seu papel de domínio sobre a terra.
+* Jó 7:17-18: "Que é o homem, para que lhe dês importância e atenção, para que o examines todas as manhãs e o proves a cada instante? Por que não desvias de mim o teu olhar, nem me deixas em paz nem mesmo enquanto engulo saliva?" Jó expressa a sua angústia diante da dor e sofrimento, contrastando com o Salmo 8 que celebra a grandeza e bondade de Deus em conceder ao homem uma posição elevada na criação.
+* Hebreus 2:6-8a: "O que é o homem, para que te lembres dele? E o filho do homem, para que o visites? Tu o fizeste por um pouco menor que os anjos, de glória e honra o coroaste, e o constituíste sobre as obras das tuas mãos; tudo sujeitaste debaixo dos seus pés." O autor de Hebreus cita o Salmo 8 para falar da supremacia de Jesus sobre todas as coisas, como aquele que cumpriu a missão dada ao homem de dominar sobre a criação.
+* Salmos 144:3-4: "Ó Senhor, que é o homem para que o tomes em conta, o filho do homem para que o consideres? O homem é como um sopro, os seus dias são como uma sombra que passa." Esse salmo destaca a brevidade da vida humana e a insignificância do homem diante da grandeza de Deus, contrastando com a posição de honra que o Salmo 8 atribui ao homem na criação.
+* Isaías 40:26: "Levantai ao alto os vossos olhos e vede. Quem criou estas coisas? Aquele que faz sair o seu exército de estrelas, todas bem contadas, as quais ele chama pelo nome; por ser ele grande em força e forte em poder, nem uma só vem a faltar." Esse versículo destaca a grandeza e poder de Deus na criação, em sintonia com o tema do Salmo 8, que celebra a grandeza de Deus em conceder ao homem uma posição elevada na sua obra criadora.
+****
+
+[[v21-8-1]]
+
+^<<v21-8-1,1>>^ Ao mestre de canto. Com a gitiena. Salmo de Davi.^&#42;1^
+
+[[v21-8-2]]
+
+^<<v21-8-2,2>>^ Ó Senhor, nosso Deus, como é glorioso vosso nome em toda a terra! Vossa majestade se estende, triunfante, por cima de todos os céus.^&#42;1^
+
+[[v21-8-3]]
+
+^<<v21-8-3,3>>^ Da boca das crianças e dos pequeninos sai um louvor que confunde vossos adversários, e reduz ao silêncio vossos inimigos.^&#42;1^
+
+[[v21-8-4]]
+
+^<<v21-8-4,4>>^ Quando contemplo o firmamento, obra de vossos dedos, a lua e as estrelas que lá fixastes:
+
+[[v21-8-5]]
+
+^<<v21-8-5,5>>^ ‘‘Que é o homem – digo-me então –, para pensardes nele? Que são os filhos de Adão, para que vos ocupeis com eles?
+
+[[v21-8-6]]
+
+^<<v21-8-6,6>>^ Entretanto, vós o fizestes quase igual aos anjos, de glória e honra o coroastes.
+
+[[v21-8-7]]
+
+^<<v21-8-7,7>>^ Destes-lhe poder sobre as obras de vossas mãos, vós lhe submetestes todo o universo.^&#42;1^
+
+[[v21-8-8]]
+
+^<<v21-8-8,8>>^ Rebanhos e gados, e até os animais bravios,
+
+[[v21-8-9]]
+
+^<<v21-8-9,9>>^ pássaros do céu e peixes do mar, tudo o que se move nas águas do oceano”.
+
+[[v21-8-10]]
+
+^<<v21-8-10,10>>^ Ó Senhor, nosso Deus, como é glorioso vosso nome em toda a terra!
+
+'''
+
+xref:021-salmos/021-salmos-007.adoc#v21-7-0[&#60; Capítulo Anterior] | <<v21-8-0,Topo>> | xref:021-salmos/021-salmos-009.adoc#v21-9-0[Próximo Capítulo &#62;]

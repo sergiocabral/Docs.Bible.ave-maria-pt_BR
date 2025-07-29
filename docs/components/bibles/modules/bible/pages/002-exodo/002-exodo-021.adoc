@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v2-21-0]]
+=== Êxodo, 21
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Êxodo 21 é um capítulo que apresenta diversas leis e regulamentações para a justiça e a convivência pacífica entre as pessoas. Entre os temas abordados estão a escravidão, a responsabilidade civil, a pena de morte e outras questões jurídicas relevantes. A partir disso, podemos encontrar os seguintes versículos relacionados:
+* Provérbios 22:7: "O rico domina sobre os pobres, e o que toma emprestado é servo do que empresta." Esse versículo faz referência à questão da escravidão, que é abordada em Êxodo 21. Na época bíblica, a escravidão era uma prática comum, mas a Bíblia apresenta regulamentações para proteger os escravos e evitar abusos.
+* Levítico 24:17: "E aquele que matar qualquer homem, certamente será morto." A pena de morte é um tema presente em Êxodo 21 e em outras partes da Bíblia. Esse versículo apresenta a determinação de que aquele que tirar a vida de outro ser humano deve ser punido com a morte.
+* Deuteronômio 19:21: "Não terás piedade; vida por vida, olho por olho, dente por dente, mão por mão, pé por pé." Esse versículo apresenta o princípio da justiça retributiva, que é abordado em Êxodo 21. A ideia é que a punição deve ser proporcional ao crime cometido, e não deve haver excessos ou abusos.
+* Romanos 13:1-4: "Toda alma esteja sujeita às autoridades superiores; porque não há autoridade que não venha de Deus; e as que existem foram ordenadas por Deus. Por isso, quem resiste à autoridade, resiste à ordenação de Deus; e os que resistem trarão sobre si mesmos condenação. Porque os magistrados não são para temor quando se faz o bem, mas quando se faz o mal. Queres tu, pois, não temer a autoridade? Faze o bem, e terás louvor dela." Esse trecho do Novo Testamento apresenta a ideia de que as autoridades civis são instituídas por Deus para manter a ordem e a justiça na sociedade. Esse princípio está em sintonia com as regulamentações apresentadas em Êxodo 21.
+* Lucas 6:31: "E como vós quereis que os homens vos façam, da mesma maneira fazei-lhes vós também." Esse versículo apresenta o princípio da empatia e do respeito ao próximo, que é um dos fundamentos da lei apresentada em Êxodo 21. A ideia é tratar os outros com justiça e compaixão, assim como gostaríamos de ser tratados.
+****
+
+[[v2-21-1]]
+
+^<<v2-21-1,1>>^ “Estas são as leis que exporás (aos israelitas):
+
+[[v2-21-2]]
+
+^<<v2-21-2,2>>^ quando comprares um escravo hebreu, ele servirá seis anos; no sétimo sairá livre, sem pagar nada.
+
+[[v2-21-3]]
+
+^<<v2-21-3,3>>^ Se entrou sozinho, sozinho sairá; se tiver mulher, sua mulher partirá com ele.
+
+[[v2-21-4]]
+
+^<<v2-21-4,4>>^ Mas, se foi o seu senhor que lhe deu uma mulher, e esta deu à luz filhos e filhas, a mulher e seus filhos serão propriedade do senhor, e ele partirá sozinho.
+
+[[v2-21-5]]
+
+^<<v2-21-5,5>>^ Porém, se o escravo disser: ‘Eu amo meu senhor, minha mulher e meus filhos; não quero sair livre’,
+
+[[v2-21-6]]
+
+^<<v2-21-6,6>>^ seu senhor o levará então diante de Deus e o fará aproximar-se do batente ou da ombreira da porta, e lhe furará a orelha com uma sovela; desta sorte o escravo estará para sempre a seu serviço.^&#42;1^
+
+[[v2-21-7]]
+
+^<<v2-21-7,7>>^ Se um homem tiver vendido sua filha para ser escrava, ela não sairá em liberdade nas mesmas condições que o escravo.
+
+[[v2-21-8]]
+
+^<<v2-21-8,8>>^ Se desagradar ao seu senhor, que a havia destinado para si, ele a fará resgatar; mas não poderá vendê-la a estrangeiros depois de lhe ter sido infiel.
+
+[[v2-21-9]]
+
+^<<v2-21-9,9>>^ Se a destinar ao seu filho, a tratará segundo o direito das filhas.
+
+[[v2-21-10]]
+
+^<<v2-21-10,10>>^ Se tomar outra mulher, não diminuirá nada à primeira, quanto à alimentação, aos vestidos e ao direito conjugal.
+
+[[v2-21-11]]
+
+^<<v2-21-11,11>>^ Se lhe recusar uma destas três coisas, ela poderá partir livre, gratuitamente, sem pagar nada.”
+
+[[v2-21-12]]
+
+^<<v2-21-12,12>>^ “Aquele que ferir mortalmente um homem, será morto.
+
+[[v2-21-13]]
+
+^<<v2-21-13,13>>^ Porém, se nada premeditou, e Deus o fez cair em suas mãos, eu lhe fixarei um lugar onde possa refugiar-se.^&#42;1^
+
+[[v2-21-14]]
+
+^<<v2-21-14,14>>^ Mas, se alguém, por maldade, armar ciladas para matar o seu próximo, o tirarás até mesmo do meu altar, para matá-lo.
+
+[[v2-21-15]]
+
+^<<v2-21-15,15>>^ Aquele que ferir seu pai ou sua mãe, será morto.
+
+[[v2-21-16]]
+
+^<<v2-21-16,16>>^ Aquele que furtar um homem, e o tiver vendido, ou se este for encontrado em suas mãos, será morto.
+
+[[v2-21-17]]
+
+^<<v2-21-17,17>>^ Quem amaldiçoar seu pai ou sua mãe, será punido de morte.^&#42;1^
+
+[[v2-21-18]]
+
+^<<v2-21-18,18>>^ Quando, em uma contenda entre dois homens, um dos dois ferir o outro com uma pedra ou com o punho, sem matá-lo, mas o obrigar a ficar de cama,
+
+[[v2-21-19]]
+
+^<<v2-21-19,19>>^ aquele que feriu não será punido, se o outro se levantar e puder passear fora com seu bastão. Mas o indenizará pelo tempo que perdeu e os remédios que gastou.
+
+[[v2-21-20]]
+
+^<<v2-21-20,20>>^ Se um homem ferir seu escravo ou sua escrava com um bastão, de modo que ele morra sob sua mão, será punido.
+
+[[v2-21-21]]
+
+^<<v2-21-21,21>>^ Se o escravo, porém, sobreviver um dia ou dois, não será punido, porque ele é propriedade do seu senhor.
+
+[[v2-21-22]]
+
+^<<v2-21-22,22>>^ Se homens brigarem, e acontecer que venham a ferir uma mulher grávida, e esta der à luz sem nenhum dano, eles serão passíveis de uma indenização imposta pelo marido da mulher, e que pagarão diante dos juízes.
+
+[[v2-21-23]]
+
+^<<v2-21-23,23>>^ Mas, se houver outros danos, urge dar vida por vida,
+
+[[v2-21-24]]
+
+^<<v2-21-24,24>>^ olho por olho, dente por dente, mão por mão, pé por pé,
+
+[[v2-21-25]]
+
+^<<v2-21-25,25>>^ queimadura por queimadura, ferida por ferida, golpe por golpe.^&#42;1^
+
+[[v2-21-26]]
+
+^<<v2-21-26,26>>^ Se um homem, ferindo seu escravo ou sua escrava, atinge-lhe o olho e o faz perdê-lo, o deixará ir livre em compensação de seu olho.
+
+[[v2-21-27]]
+
+^<<v2-21-27,27>>^ E, se lhe deitar fora um dente, o deixará ir livre em compensação do dente.
+
+[[v2-21-28]]
+
+^<<v2-21-28,28>>^ Se um boi ferir mortalmente um homem ou uma mulher com as pontas dos chifres, será apedrejado e não se comerá a sua carne; mas o dono do boi não será punido.
+
+[[v2-21-29]]
+
+^<<v2-21-29,29>>^ Porém, se o boi era já acostumado a dar chifradas, e o dono, tendo sido avisado, não o vigiou, o boi será apedrejado, se matar um homem ou uma mulher, e seu dono também morrerá.
+
+[[v2-21-30]]
+
+^<<v2-21-30,30>>^ Se, para resgatar sua vida, lhe for imposta uma quitação, ele deverá dar todo o preço que lhe tiver sido imposto.
+
+[[v2-21-31]]
+
+^<<v2-21-31,31>>^ Se o boi ferir um filho ou uma filha, será aplicada a mesma lei.
+
+[[v2-21-32]]
+
+^<<v2-21-32,32>>^ Mas, se ferir um escravo ou uma escrava, se pagará ao seu senhor trinta siclos de prata, e o boi será apedrejado.
+
+[[v2-21-33]]
+
+^<<v2-21-33,33>>^ Se alguém deixar uma cisterna aberta ou cavar uma sem cobri-la, e nela cair um boi ou um jumento, o proprietário da cisterna pagará uma indenização:
+
+[[v2-21-34]]
+
+^<<v2-21-34,34>>^ reembolsará em dinheiro o proprietário do animal morto, e este será seu.
+
+[[v2-21-35]]
+
+^<<v2-21-35,35>>^ Se o boi de alguém der uma chifrada no boi de outro, e este vier a morrer, venderão o boi vivo e repartirão o valor: repartirão igualmente o boi morto.
+
+[[v2-21-36]]
+
+^<<v2-21-36,36>>^ Mas, se o boi era já acostumado a dar chifradas, seu dono, que não o vigiou, pagará boi por boi, e receberá o animal morto.”
+
+[[v2-21-37]]
+
+^<<v2-21-37,37>>^ “Se um homem furtar um boi ou um carneiro, e o matar ou vender, pagará cinco bois pelo boi, e quatro carneiros pelo carneiro.
+
+'''
+
+xref:002-exodo/002-exodo-020.adoc#v2-20-0[&#60; Capítulo Anterior] | <<v2-21-0,Topo>> | xref:002-exodo/002-exodo-022.adoc#v2-22-0[Próximo Capítulo &#62;]

@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v43-2-0]]
+=== Sofonias, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 2 de Sofonias fala sobre a iminente destruição que virá sobre as nações vizinhas de Judá, incluindo Moabe, Amom, Cuxe e Nínive. O capítulo termina com uma chamada ao arrependimento para os habitantes de Judá, para que eles possam ser poupados da ira de Deus. Abaixo estão cinco versículos relacionados com os temas abordados em Sofonias 2:
+* Isaías 13:6: "Uivai, porque o dia do SENHOR está perto; virá como uma assolação do Todo-Poderoso." Este verso fala sobre a vinda do Dia do Senhor e sua natureza destrutiva, o que se relaciona com a profecia de Sofonias sobre a destruição que virá sobre as nações.
+* Jeremias 46:28: "Não temas, ó servo meu, Jacó, diz o SENHOR, porque estou contigo; pois destruirei todas as nações entre as quais te lancei; porém a ti não destruirei de todo, mas castigar-te-ei com medida, e de maneira alguma te terei por inocente." Este verso mostra que, embora Deus puna as nações por sua desobediência, ele ainda tem um plano para seu povo, que se relaciona com a chamada ao arrependimento em Sofonias 2.
+* Isaías 11:14: "Mas eles voarão sobre o ombro dos filisteus ao ocidente; juntos despojarão os filhos do oriente; em Edom e Moabe porão as suas mãos, e os filhos de Amom lhes obedecerão." Este verso menciona Moabe, Amom e Edom, que são algumas das nações que Sofonias profetizou serem destruídas.
+* Jeremias 50:29: "Chamai contra Babilônia os flecheiros, todos os que armam arco; acampai-vos contra ela ao redor; ninguém escape; pagai-lhe conforme a sua obra; conforme tudo o que ela fez, fazei-lhe a ela; porque se houve soberbamente contra o SENHOR, contra o Santo de Israel." Este verso fala sobre a punição que virá sobre a Babilônia por sua desobediência, o que se relaciona com a profecia de Sofonias sobre a destruição que virá sobre as nações.
+* Isaías 55:6-7: "Buscai ao SENHOR enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos, e se converta ao SENHOR, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar." Este verso fala sobre a importância do arrependimento, que é uma chamada que Sofonias faz aos habitantes de Judá no final do capítulo 2.
+****
+
+[[v43-2-1]]
+
+^<<v43-2-1,1>>^ Curvai-vos, curvai-vos, gente sem pudor,
+
+[[v43-2-2]]
+
+^<<v43-2-2,2>>^ antes que nasça a sentença e o dia passe como a palha; antes que caia sobre vós o ardor da ira do Senhor; antes que caia sobre vós o dia da indignação do Senhor!^&#42;1^
+
+[[v43-2-3]]
+
+^<<v43-2-3,3>>^ Buscai o Senhor, vós todos, humildes da terra, que observais a sua Lei; buscai a justiça e a humildade: talvez assim estareis ao abrigo no dia da cólera do Senhor.
+
+[[v43-2-4]]
+
+^<<v43-2-4,4>>^ Com efeito, Gaza se tornará um deserto, e Ascalon uma solidão. Os habitantes de Azoto serão expulsos em pleno meio-dia, e os de Acaron serão exterminados.
+
+[[v43-2-5]]
+
+^<<v43-2-5,5>>^ Ai dos habitantes da costa do mar! Ai do povo dos cretenses! A palavra do Senhor foi pronunciada contra vós, Canaã, terra dos filisteus: “Irei te destruir de tal forma que ninguém te habitará mais”.^&#42;1^
+
+[[v43-2-6]]
+
+^<<v43-2-6,6>>^ A região do mar servirá de pasto para os pastores e de aprisco para os rebanhos.
+
+[[v43-2-7]]
+
+^<<v43-2-7,7>>^ Esta casa pertencerá ao resto da casa de Judá; eles apascentarão ali os seus rebanhos. À noite, descansarão nas casas de Ascalon, porque o Senhor, seu Deus, os visitará e os restabelecerá.
+
+[[v43-2-8]]
+
+^<<v43-2-8,8>>^ Ouvi os insultos de Moab e os ultrajes dos amonitas, que saciaram o meu povo de injúrias, e tomaram uma atitude insolente contra a sua terra.
+
+[[v43-2-9]]
+
+^<<v43-2-9,9>>^ Por isso, juro por minha vida – oráculo do Senhor dos exércitos, o Deus de Israel –, Moab será como Sodoma, e os amonitas como Gomorra: um campo de urtigas, uma região de sal, um deserto eterno. Os sobreviventes do meu povo os saquearão, os que restarem da minha gente serão seus herdeiros.
+
+[[v43-2-10]]
+
+^<<v43-2-10,10>>^ Tal será o preço do seu orgulho, por terem alardeado grandeza e insolência com o povo do Senhor dos exércitos.
+
+[[v43-2-11]]
+
+^<<v43-2-11,11>>^ O Senhor lhes será um objeto de terror, porque aniquilará todos os deuses da terra, e virão prostrar-se diante dele – cada um na sua terra – todos os habitantes das ilhas das nações.^&#42;1^
+
+[[v43-2-12]]
+
+^<<v43-2-12,12>>^ Também vós, ó etíopes, sereis traspassados com minha espada!
+
+[[v43-2-13]]
+
+^<<v43-2-13,13>>^ Estenderá também a sua mão contra o Norte, destruirá a Assíria, e reduzirá Nínive a um deserto árido como a estepe.
+
+[[v43-2-14]]
+
+^<<v43-2-14,14>>^ Rebanhos virão descansar ali, e animais dos vales; nos seus capitéis virão alojar-se o pelicano e o ouriço. Um murmúrio se ouvirá nas janelas, haverá desolação nos seus limiares, porque foi posto a descoberto o madeiramento de cedro.^&#42;1^
+
+[[v43-2-15]]
+
+^<<v43-2-15,15>>^ Ei-la, a cidade alegre e cheia de confiança em si mesma, que dizia em seu coração: “Eu, e só eu!”. Como se tornou ela um deserto, um covil de feras? Todo o que passar por ela assobiará e agitará a mão.
+
+'''
+
+xref:043-sofonias/043-sofonias-001.adoc#v43-1-0[&#60; Capítulo Anterior] | <<v43-2-0,Topo>> | xref:043-sofonias/043-sofonias-003.adoc#v43-3-0[Próximo Capítulo &#62;]

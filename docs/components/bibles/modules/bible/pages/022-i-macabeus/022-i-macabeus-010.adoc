@@ -1,0 +1,375 @@
+include::./index.adoc[]
+
+[[v22-10-0]]
+=== I Macabeus, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Macabeus 10 descreve a aliança feita entre o rei selêucida, Antíoco VII, e o sumo sacerdote judeu, João Hircano I. Nessa aliança, João Hircano recebe a confirmação de sua posição como sumo sacerdote e líder político dos judeus, além da promessa de paz e cooperação entre o reino selêucida e os judeus.
+* 2 Crônicas 9:26: "Ele também reinou sobre todos os reis, desde o Rio até a terra dos filisteus e até a fronteira do Egito." João Hircano I foi um governante judeu que expandiu seu controle sobre uma grande parte da Palestina, incluindo áreas que antes estavam sob domínio estrangeiro.
+* Esdras 4:23: "Então, quando a cópia da carta do rei Artaxerxes foi lida perante Reum, e Sinsai, o escrivão, e seus companheiros, eles foram depressa a Jerusalém, aos judeus, e os impediram com mão armada." Esse versículo fala sobre oposição externa ao governo judeu e pode ser visto como um contraste com a aliança pacífica entre João Hircano I e Antíoco VII.
+* Isaías 19:19: "Naquele dia haverá um altar para o Senhor no meio da terra do Egito, e uma coluna para o Senhor na sua fronteira." Esse versículo é interessante porque fala sobre um altar para o Senhor em território egípcio, sugerindo que a religião judaica estava se espalhando para além da Palestina.
+* Mateus 22:21: "Então ele lhes disse: 'Dêem a César o que é de César e a Deus o que é de Deus'." Esse versículo fala sobre a relação entre a autoridade política e a religião, um tema que é relevante para a aliança entre João Hircano I e Antíoco VII.
+* Atos dos Apóstolos 10:34-35: "Então Pedro abriu a boca e disse: Na verdade, compreendo agora que Deus não faz acepção de pessoas; Mas em toda nação aquele que o teme e faz o que é justo é aceitável para ele." Esse versículo fala sobre a ideia de que a religião é uma questão pessoal e pode ser praticada em diferentes culturas e locais, algo que pode ser relacionado à aliança entre João Hircano I e Antíoco VII, que permitiu a coexistência pacífica de diferentes culturas e religiões em uma área geográfica.
+****
+
+[[v22-10-1]]
+
+^<<v22-10-1,1>>^ No ano cento e sessenta, Alexandre Epífanes, filho de Antíoco, embarcou e veio ocupar Ptolemaida, onde foi acolhido e proclamado rei.^&#42;1^
+
+[[v22-10-2]]
+
+^<<v22-10-2,2>>^ Soube-o o rei Demétrio, que reuniu um numerosíssimo exército e o atacou.
+
+[[v22-10-3]]
+
+^<<v22-10-3,3>>^ Enviou a Jônatas uma carta, em termos pacíficos, para lisonjeá-lo,
+
+[[v22-10-4]]
+
+^<<v22-10-4,4>>^ dizendo consigo mesmo: “Apressemo-nos em fazer a paz com ele, antes que a faça com Alexandre contra nós.
+
+[[v22-10-5]]
+
+^<<v22-10-5,5>>^ Porque certamente ele se lembra do mal que lhe causamos, assim como a seus irmãos e à sua raça”.
+
+[[v22-10-6]]
+
+^<<v22-10-6,6>>^ Concedeu-lhe autorização para recrutar tropas, fabricar armas e ser seu aliado. Mandou-lhe entregar os reféns aprisionados na fortaleza.
+
+[[v22-10-7]]
+
+^<<v22-10-7,7>>^ Jônatas veio então a Jerusalém e leu a carta diante de todo o povo e das tropas que ocupavam a fortaleza.
+
+[[v22-10-8]]
+
+^<<v22-10-8,8>>^ Estes ficaram tomados de um grande medo, quando souberam que o rei lhe havia permitido levantar um exército.
+
+[[v22-10-9]]
+
+^<<v22-10-9,9>>^ Os guardas lhe entregaram os reféns e ele os entregou a seus pais.
+
+[[v22-10-10]]
+
+^<<v22-10-10,10>>^ Ficou habitando em Jerusalém e começou a edificar e restaurar a cidade.
+
+[[v22-10-11]]
+
+^<<v22-10-11,11>>^ Ordenou aos que executavam os trabalhos, que construíssem ao redor do monte Sião um muro de pedras de cantaria para sua fortificação. E assim foi feito.
+
+[[v22-10-12]]
+
+^<<v22-10-12,12>>^ Os estrangeiros que se achavam nas fortalezas edificadas por Báquides fugiram.
+
+[[v22-10-13]]
+
+^<<v22-10-13,13>>^ Cada qual deixou seu posto para se refugiar no seu país.
+
+[[v22-10-14]]
+
+^<<v22-10-14,14>>^ Sobraram somente em Betsur alguns dos desertores da Lei e dos preceitos. Era ali seu lugar de refúgio.
+
+[[v22-10-15]]
+
+^<<v22-10-15,15>>^ Entretanto, soube o rei Alexandre da carta que Demétrio havia feito a Jônatas, e contaram-lhe as batalhas e feitos deste e de seus irmãos, como também os trabalhos que tinham suportado.
+
+[[v22-10-16]]
+
+^<<v22-10-16,16>>^ “Poderíamos acaso encontrar – disse ele – um homem semelhante a este? Procuremos imediatamente fazê-lo nosso amigo e aliado.”
+
+[[v22-10-17]]
+
+^<<v22-10-17,17>>^ Escreveu-lhe então e mandou-lhe uma carta lavrada nestes termos:
+
+[[v22-10-18]]
+
+^<<v22-10-18,18>>^ “O rei Alexandre a seu irmão Jônatas, saudações!
+
+[[v22-10-19]]
+
+^<<v22-10-19,19>>^ Ouvimos dizer de ti, que tu és um homem poderoso e forte, e que mereces a nossa amizade.
+
+[[v22-10-20]]
+
+^<<v22-10-20,20>>^ Por isso, te constituímos desde agora sumo sacerdote de teu povo e te outorgamos o título de amigo do rei – mandou-lhe uma toga de púrpura e uma coroa de ouro – e pedimos-te escolher nosso partido e conservar-nos tua amizade”.
+
+[[v22-10-21]]
+
+^<<v22-10-21,21>>^ No sétimo mês do ano cento e sessenta, pela festa dos Tabernáculos, revestiu-se Jônatas da túnica sagrada. Organizou um exército e ajuntou armas em quantidade.
+
+[[v22-10-22]]
+
+^<<v22-10-22,22>>^ Demétrio foi informado de tudo isso e inquietou-se:
+
+[[v22-10-23]]
+
+^<<v22-10-23,23>>^ “Como fomos deixar que Alexandre nos precedesse, travando com os judeus uma amizade que o fortifica?
+
+[[v22-10-24]]
+
+^<<v22-10-24,24>>^ Eu também vou escrever-lhe belas palavras, títulos e presentes, para que eles passem ao meu lado e venham em meu auxílio”.
+
+[[v22-10-25]]
+
+^<<v22-10-25,25>>^ E ele mandou-lhes levar uma mensagem nestes termos: “O rei Demétrio ao povo dos judeus, saudações!
+
+[[v22-10-26]]
+
+^<<v22-10-26,26>>^ Vós observastes nossos acordos, permanecestes fiéis à nossa amizade e não fizestes convenções com nossos inimigos. Nós o sabemos e regozijamo-nos com isso.
+
+[[v22-10-27]]
+
+^<<v22-10-27,27>>^ Ainda agora continuai a nos conservar a mesma fidelidade e vos recompensaremos do que fareis por nós.
+
+[[v22-10-28]]
+
+^<<v22-10-28,28>>^ Nós vos isentaremos dos muitos impostos e vos cumularemos de presentes.
+
+[[v22-10-29]]
+
+^<<v22-10-29,29>>^ Desde agora concedemo-vos a todos os judeus dispensa dos impostos, da taxa do sal e das coroas.^&#42;1^
+
+[[v22-10-30]]
+
+^<<v22-10-30,30>>^ Ao terço dos produtos do solo e à metade dos frutos das árvores, que me pertencem, eu renuncio, a partir deste dia, a cobrar na terra de Judá e nos três distritos da Samaria e da Galileia, que lhe estão anexos. Isso desde agora e para sempre.
+
+[[v22-10-31]]
+
+^<<v22-10-31,31>>^ Que Jerusalém seja sagrada e isenta, com seu território, dos dízimos e dos impostos.
+
+[[v22-10-32]]
+
+^<<v22-10-32,32>>^ Renuncio também a todo poder sobre a fortaleza de Jerusalém e a entrego ao sumo sacerdote, para que ele coloque ali como guardas os homens que ele quiser.
+
+[[v22-10-33]]
+
+^<<v22-10-33,33>>^ Concedo gratuitamente a liberdade a todo cidadão judeu, em cativeiro no meu reino e todos serão isentos de impostos, mesmo sobre seu gado.
+
+[[v22-10-34]]
+
+^<<v22-10-34,34>>^ Todos os dias solenes, os sábados, as neomênias, as festas prescritas, os três dias anteriores às solenidades e os três dias posteriores, sejam dias de imunidade e de isenção para todos os judeus que habitam em meu reino.
+
+[[v22-10-35]]
+
+^<<v22-10-35,35>>^ Ninguém poderá perseguir ou molestar quem quer que seja dentre eles, por motivo algum.
+
+[[v22-10-36]]
+
+^<<v22-10-36,36>>^ Que se alistem no exército do rei até trinta mil judeus e que lhes sejam dados os mesmos direitos que às tropas reais.
+
+[[v22-10-37]]
+
+^<<v22-10-37,37>>^ Alguns deles serão colocados nas grandes fortalezas do rei, outros serão designados para postos de confiança no reino. Seus chefes e seus oficiais serão escolhidos entre eles, seguirão suas próprias leis, como o exige o rei para a Judeia.
+
+[[v22-10-38]]
+
+^<<v22-10-38,38>>^ Os três distritos da Samaria que foram anexados à Judeia lhe serão incorporados de maneira que sejam considerados como sendo um só com ela, e não obedeçam a nenhuma outra autoridade a não ser à do sumo sacerdote.
+
+[[v22-10-39]]
+
+^<<v22-10-39,39>>^ Faço de Ptolemaida e de seu território doação ao templo de Jerusalém, para prover seu sustento.
+
+[[v22-10-40]]
+
+^<<v22-10-40,40>>^ Darei também cada ano quinze mil siclos de prata das rendas do rei, provenientes dos seus domínios.
+
+[[v22-10-41]]
+
+^<<v22-10-41,41>>^ Todo o dinheiro que os administradores dos negócios não tiverem despendido, e que lhes sobrar, como nos anos passados, será destinado à construção do templo.
+
+[[v22-10-42]]
+
+^<<v22-10-42,42>>^ Além disso, será feita a entrega dos cinco mil siclos de prata cobrados cada ano das rendas do templo, porque essa soma pertence aos sacerdotes que prestam o serviço litúrgico.
+
+[[v22-10-43]]
+
+^<<v22-10-43,43>>^ Todo aquele que se refugiar no Templo de Jerusalém ou no seu recinto, por motivo de dívida ao fisco, ou por qualquer coisa que seja, será poupado, bem como tudo o que ele possui no meu reino.
+
+[[v22-10-44]]
+
+^<<v22-10-44,44>>^ As despesas para os trabalhos da construção e restauração do templo serão postas na conta do rei.
+
+[[v22-10-45]]
+
+^<<v22-10-45,45>>^ Do mesmo modo, as despesas para a construção dos muros e do recinto da cidade ficarão a cargo das rendas do rei, bem como os gastos da construção das outras fortificações na Judeia”.
+
+[[v22-10-46]]
+
+^<<v22-10-46,46>>^ Quando Jônatas e o povo ouviram essas propostas, não acreditaram e não quiseram aceitá-las, lembrando-se de todo o mal que Demétrio havia causado a Israel e do quanto ele os havia oprimido.
+
+[[v22-10-47]]
+
+^<<v22-10-47,47>>^ Escolheram então o partido de Alexandre, porque ele tinha sido o primeiro a lhes falar de paz, e foram sempre seus auxiliares.
+
+[[v22-10-48]]
+
+^<<v22-10-48,48>>^ Alexandre reuniu um grande exército e veio ao encontro de Demétrio.
+
+[[v22-10-49]]
+
+^<<v22-10-49,49>>^ Os dois reis travaram combate, mas o exército de Demétrio fugiu. Perseguiu-o Alexandre, obtendo pleno êxito.
+
+[[v22-10-50]]
+
+^<<v22-10-50,50>>^ Combateu com ardor até o pôr do sol e Demétrio morreu nesse mesmo dia.
+
+[[v22-10-51]]
+
+^<<v22-10-51,51>>^ Então, Alexandre enviou embaixadores a Ptolomeu, rei do Egito, com a missão de lhe dizer:
+
+[[v22-10-52]]
+
+^<<v22-10-52,52>>^ “Eis-me de volta ao solo do meu reino e assentado no trono de meus pais. Recobrei o poder, derrotei Demétrio e tomei posse de meu país.
+
+[[v22-10-53]]
+
+^<<v22-10-53,53>>^ Travei batalha com ele, venci-o com seu exército e subi ao trono onde ele reinava.
+
+[[v22-10-54]]
+
+^<<v22-10-54,54>>^ Façamos agora laços de amizade. Dá-me tua filha como esposa e serei teu genro, e vos cumularei, a ti e a ela, com presentes dignos de vós”.
+
+[[v22-10-55]]
+
+^<<v22-10-55,55>>^ O rei Ptolomeu respondeu: “Venturoso o dia em que entraste na terra de teus pais e te assentaste no trono de seu reino!
+
+[[v22-10-56]]
+
+^<<v22-10-56,56>>^ Por isso, te darei o que me pedes. Mas vem ter comigo em Ptolemaida, para que nos vejamos, e farei de ti o meu genro como desejas”.
+
+[[v22-10-57]]
+
+^<<v22-10-57,57>>^ Partiu Ptolomeu do Egito com sua filha Cleópatra e dirigiu-se a Ptolemaida no ano cento e sessenta e dois.
+
+[[v22-10-58]]
+
+^<<v22-10-58,58>>^ Deu-a em casamento a Alexandre que veio-lhe ao encontro e celebrou as bodas com real magnificência.
+
+[[v22-10-59]]
+
+^<<v22-10-59,59>>^ O rei Alexandre escreveu também a Jônatas para que viesse procurá-lo.
+
+[[v22-10-60]]
+
+^<<v22-10-60,60>>^ Este se dirigiu a Ptolemaida, onde, com pompa, encontrou os dois reis. Ofereceu-lhes, como também a seus amigos, prata, ouro e numerosos presentes e conquistou sua total confiança.
+
+[[v22-10-61]]
+
+^<<v22-10-61,61>>^ Todavia, alguns perversos de Israel reuniram-se contra ele e esses ímpios quiseram acusá-lo, mas o rei não lhes deu atenção.
+
+[[v22-10-62]]
+
+^<<v22-10-62,62>>^ Ordenou até mesmo que se tirassem as vestes de Jônatas, para revesti-lo de púrpura. E assim fizeram. E o rei fê-lo assentar-se junto de si.
+
+[[v22-10-63]]
+
+^<<v22-10-63,63>>^ Disse também aos grandes de sua corte: “Saí com ele para o centro da cidade e proclamai que ninguém o acuse, sob qualquer pretexto, e que ninguém o moleste de maneira alguma”.
+
+[[v22-10-64]]
+
+^<<v22-10-64,64>>^ Quando seus acusadores o viram assim exaltado publicamente e revestido de púrpura, fugiram.
+
+[[v22-10-65]]
+
+^<<v22-10-65,65>>^ Honrou-o o rei, inscreveu-o entre seus primeiros amigos e deu-lhe o título de chefe do exército e de governador.
+
+[[v22-10-66]]
+
+^<<v22-10-66,66>>^ Após isso, regressou Jônatas a Jerusalém, tranquilo e alegre.
+
+[[v22-10-67]]
+
+^<<v22-10-67,67>>^ No ano cento e sessenta e cinco, Demétrio, filho de Demétrio, voltou de Creta à terra de seus pais.^&#42;1^
+
+[[v22-10-68]]
+
+^<<v22-10-68,68>>^ Com essa notícia, Alexandre, muito contristado, partiu para Antioquia.
+
+[[v22-10-69]]
+
+^<<v22-10-69,69>>^ Demétrio constituiu Apolônio como governador da Celessíria. Este levantou um poderoso exército, que ele reuniu em Jâmnia, e mandou avisar ao sumo sacerdote Jônatas:^&#42;1^
+
+[[v22-10-70]]
+
+^<<v22-10-70,70>>^ “Só tu nos resistes e, por causa de ti, eu me tornei objeto de zombarias e de opróbrio. Por que te fazes de arrogante diante de nós, em tuas montanhas?^&#42;1^
+
+[[v22-10-71]]
+
+^<<v22-10-71,71>>^ Se tens ainda confiança em tuas tropas, desce agora das montanhas a nós na planície, onde nos poderemos medir, porque tenho comigo a força das cidades.
+
+[[v22-10-72]]
+
+^<<v22-10-72,72>>^ Informa-te e saberás quem sou eu e quem são os meus aliados. Estes também dizem que não podereis manter-vos de pé diante de nós, porque já duas vezes teus pais foram afugentados em sua própria terra.
+
+[[v22-10-73]]
+
+^<<v22-10-73,73>>^ Hoje não poderás mais resistir à nossa cavalaria e a um tal exército, nesta planície, onde não há nem pedra nem rochedo nem esconderijo algum para se refugiar”.
+
+[[v22-10-74]]
+
+^<<v22-10-74,74>>^ Ao ouvir as palavras de Apolônio, indignou-se Jônatas. Tomando consigo dez mil homens, saiu de Jerusalém. Seu irmão Simão trouxe-lhe reforço.
+
+[[v22-10-75]]
+
+^<<v22-10-75,75>>^ Veio acampar perto de Jope que, possuindo uma guarnição de Apolônio, fechou-lhe suas portas. Jônatas atacou-a.
+
+[[v22-10-76]]
+
+^<<v22-10-76,76>>^ Os habitantes, espantados, abriram-lhe as portas e assim Jônatas conquistou Jope.
+
+[[v22-10-77]]
+
+^<<v22-10-77,77>>^ Ao saber disso, Apolônio pôs a caminho três mil cavaleiros e um poderoso exército
+
+[[v22-10-78]]
+
+^<<v22-10-78,78>>^ e de lá dirigiu-se para Azoto, como se fosse atravessá-la. Ao mesmo tempo, ganhou a planície, porque possuía uma numerosa cavalaria, na qual depositava confiança. Jônatas perseguiu-o até Azoto, e os dois exércitos chocaram-se.
+
+[[v22-10-79]]
+
+^<<v22-10-79,79>>^ Apolônio havia deixado escondidos mil cavaleiros, para pegar os judeus de emboscada.
+
+[[v22-10-80]]
+
+^<<v22-10-80,80>>^ Mas Jônatas foi informado dessa emboscada dirigida contra ele. Os inimigos cercavam sua formação e, desde a manhã até o pôr do sol, atacaram seus homens.
+
+[[v22-10-81]]
+
+^<<v22-10-81,81>>^ O povo permanecia firme em suas fileiras como Jônatas havia ordenado, enquanto que os cavaleiros do inimigo se fatigavam.
+
+[[v22-10-82]]
+
+^<<v22-10-82,82>>^ Em seguida, Simão avançou com sua tropa e travou uma batalha contra a falange, quando a cavalaria já estava enfraquecida. O inimigo, aniquilado, foi posto em fuga.
+
+[[v22-10-83]]
+
+^<<v22-10-83,83>>^ Os cavaleiros se dispersaram pela planície, e os fugitivos alcançaram Azoto, onde se refugiaram no templo de Dagon, seu ídolo, para ali se porem em segurança.
+
+[[v22-10-84]]
+
+^<<v22-10-84,84>>^ Jônatas incendiou Azoto e todos os povoados das circunvizinhanças depois de tê-los pilhado. Queimou o templo de Dagon com todos os que estavam ali refugiados.
+
+[[v22-10-85]]
+
+^<<v22-10-85,85>>^ O número dos que pereceram pela espada ou pelo fogo foi cerca de oito mil.
+
+[[v22-10-86]]
+
+^<<v22-10-86,86>>^ Jônatas partiu dali e foi acampar diante de Ascalon, cujos habitantes saíram-lhe ao encontro, rendendo-lhe grandes honras.
+
+[[v22-10-87]]
+
+^<<v22-10-87,87>>^ Em seguida, alcançou Jerusalém com seus companheiros, carregados de espólios.
+
+[[v22-10-88]]
+
+^<<v22-10-88,88>>^ Quando o rei Alexandre soube desses acontecimentos, quis honrar ainda mais Jônatas.
+
+[[v22-10-89]]
+
+^<<v22-10-89,89>>^ Mandou-lhe uma fivela de ouro, como se concedia aos pais dos reis, e deu-lhe como propriedade pessoal Acaron e seu território.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-009.adoc#v22-9-0[&#60; Capítulo Anterior] | <<v22-10-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-011.adoc#v22-11-0[Próximo Capítulo &#62;]

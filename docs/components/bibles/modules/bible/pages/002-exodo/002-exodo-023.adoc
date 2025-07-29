@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v2-23-0]]
+=== Êxodo, 23
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Êxodo 23 apresenta uma série de leis e mandamentos dados por Deus a Moisés para serem seguidos pelo povo de Israel. Os temas abordados incluem justiça, solidariedade, adoração a Deus, e a importância de seguir suas leis. A seguir estão cinco versículos relacionados a esses temas:
+* Levítico 19:15: "Não cometerás injustiça no julgamento. Não favorecerás o pobre, nem terás complacência com o grande; com justiça julgarás o teu próximo." Esse versículo fala sobre a importância da justiça na tomada de decisões e julgamentos, um tema abordado em Êxodo 23.
+* Deuteronômio 16:20: "Somente seguirás a justiça, para que vivas e possuas em herança a terra que te dá o Senhor teu Deus." Nesse versículo, Deus instrui o povo de Israel a seguir a justiça como um meio de obter a vida eterna e a bênção da Terra Prometida, o que está alinhado com o tema central de Êxodo 23.
+* Levítico 19:18: "Não te vingarás nem guardarás ira contra os filhos do teu povo; mas amarás o teu próximo como a ti mesmo. Eu sou o Senhor." Esse versículo enfatiza a importância da solidariedade e do amor ao próximo, algo que é enfatizado em várias partes de Êxodo 23.
+* Salmos 100:4: "Entrai pelas suas portas com ação de graças, e em seus átrios com louvor; dai-lhe graças e bendizei o seu nome." Esse versículo fala sobre a importância de adorar a Deus e expressar gratidão por suas bênçãos, algo que é mencionado em Êxodo 23:14-19.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Esse versículo fala sobre a importância de confiar em Deus e seguir seus caminhos, algo que é enfatizado em Êxodo 23:20-33, onde Deus promete guiar e proteger o povo de Israel em sua jornada para a Terra Prometida.
+****
+
+[[v2-23-1]]
+
+^<<v2-23-1,1>>^ “Não levantarás um boato falso; não darás tua mão ao perverso para levantar um falso testemunho.
+
+[[v2-23-2]]
+
+^<<v2-23-2,2>>^ Não seguirás o mau exemplo da multidão. Não deporás num processo, metendo-te do lado da maioria de maneira a perverter a justiça.
+
+[[v2-23-3]]
+
+^<<v2-23-3,3>>^ Não favorecerás tampouco o pobre em seu processo.^&#42;1^
+
+[[v2-23-4]]
+
+^<<v2-23-4,4>>^ Se encontrares o boi de teu inimigo ou o seu jumento desgarrado, faze-os retornar a ele.
+
+[[v2-23-5]]
+
+^<<v2-23-5,5>>^ Se vires o jumento de teu inimigo caindo sob a carga, guarda-te de passar adiante: ajuda-o a descarregar.
+
+[[v2-23-6]]
+
+^<<v2-23-6,6>>^ Não atentarás contra o direito do pobre em sua causa.
+
+[[v2-23-7]]
+
+^<<v2-23-7,7>>^ Abstém-te de toda palavra mentirosa. Não matarás o inocente e o justo, porque não absolverei o culpado.
+
+[[v2-23-8]]
+
+^<<v2-23-8,8>>^ Não aceitarás presentes, porque os presentes cegam aqueles que veem claro, e perdem as causas justas.
+
+[[v2-23-9]]
+
+^<<v2-23-9,9>>^ Não oprimirás o estrangeiro, pois conheceis o que sente o estrangeiro, vós que o fostes no Egito.
+
+[[v2-23-10]]
+
+^<<v2-23-10,10>>^ Durante seis anos, semearás a terra e recolherás o produto.
+
+[[v2-23-11]]
+
+^<<v2-23-11,11>>^ Mas, no sétimo ano, a deixarás repousar; os pobres de teu povo comerão o seu produto, e os animais selvagens comerão o resto. Farás o mesmo com a tua vinha e o teu olival.
+
+[[v2-23-12]]
+
+^<<v2-23-12,12>>^ Durante seis dias, farás o teu trabalho, mas no sétimo descansarás, para que descansem o teu boi e o teu jumento, e respirem o filho de tua escrava e o estrangeiro.
+
+[[v2-23-13]]
+
+^<<v2-23-13,13>>^ Observareis tudo o que vos disse: Não pronunciareis o nome de outros deuses; que o seu nome não se ouça em tua boca.”
+
+[[v2-23-14]]
+
+^<<v2-23-14,14>>^ “Três vezes por ano celebrarás uma festa em minha honra.
+
+[[v2-23-15]]
+
+^<<v2-23-15,15>>^ Observarás a festa dos Ázimos: durante sete dias, no mês das espigas, como o fixei, comerás pães sem fermento, foi nesse mês que saíste do Egito. Não se apresentará ninguém diante de mim com as mãos vazias.
+
+[[v2-23-16]]
+
+^<<v2-23-16,16>>^ Depois haverá a festa da Ceifa, das primícias do teu trabalho, do que semeaste nos campos; e a festa da Colheita, no fim do ano, quando recolheres nos campos os frutos do teu trabalho.^&#42;1^
+
+[[v2-23-17]]
+
+^<<v2-23-17,17>>^ Três vezes por ano, todo indivíduo do sexo masculino se apresentará diante do Senhor.
+
+[[v2-23-18]]
+
+^<<v2-23-18,18>>^ Quando me sacrificares uma vítima, não oferecerás o seu sangue com pão fermentado; e a gordura de minha festa não será guardada a noite toda até a manhã do dia seguinte.
+
+[[v2-23-19]]
+
+^<<v2-23-19,19>>^ Trarás à casa do Senhor, teu Deus, as primícias dos primeiros produtos de tua terra. Não cozerás um cabrito no leite de sua mãe.”
+
+[[v2-23-20]]
+
+^<<v2-23-20,20>>^ “Vou enviar um anjo adiante de ti para te proteger no caminho e para te conduzir ao lugar que te preparei.
+
+[[v2-23-21]]
+
+^<<v2-23-21,21>>^ Está de sobreaviso em sua presença, e ouve o que ele te diz. Não lhe resistas, pois ele não te perdoaria tua falta, porque meu nome está nele.^&#42;1^
+
+[[v2-23-22]]
+
+^<<v2-23-22,22>>^ Mas, se lhe obedeceres pontualmente, se fizeres tudo o que eu te disser, serei o inimigo dos teus inimigos, e o adversário dos teus adversários.
+
+[[v2-23-23]]
+
+^<<v2-23-23,23>>^ Porque meu anjo marchará adiante de ti e te conduzirá entre os amorreus, os hiteus, os ferezeus, os cananeus, os heveus e os jebuseus, que exterminarei.
+
+[[v2-23-24]]
+
+^<<v2-23-24,24>>^ Não adorarás os seus deuses, não lhes prestarás culto, imitando as práticas (desses povos), mas derrubarás os seus deuses e farás em pedaços as suas estelas.
+
+[[v2-23-25]]
+
+^<<v2-23-25,25>>^ Prestarás culto ao Senhor, teu Deus, que abençoará teu pão e tua água, e te preservarei da enfermidade.
+
+[[v2-23-26]]
+
+^<<v2-23-26,26>>^ Não haverá em tua terra nem mulher que aborta nem mulher estéril. Completarei o número dos teus dias.
+
+[[v2-23-27]]
+
+^<<v2-23-27,27>>^ Enviarei diante de ti o meu terror, e semearei o pânico em todos os povos entre os quais chegares e porei todos os teus inimigos em fuga diante de ti.
+
+[[v2-23-28]]
+
+^<<v2-23-28,28>>^ Mandarei vespas diante de ti que expulsarão para longe de tua face os heveus, os cananeus, os hiteus.
+
+[[v2-23-29]]
+
+^<<v2-23-29,29>>^ Não os expulsarei em um só ano, para que a terra não se torne um deserto e se multipliquem contra ti as feras do campo.
+
+[[v2-23-30]]
+
+^<<v2-23-30,30>>^ Eu os expulsarei progressivamente diante de ti até que te tenhas multiplicado bastante para ocupar o país.
+
+[[v2-23-31]]
+
+^<<v2-23-31,31>>^ Os limites que te fixei vão do mar Vermelho ao mar dos filisteus, e desde o deserto até o Eufrates. Porque entregarei em tuas mãos os habitantes dessa terra, e os expulsarei de diante de ti.
+
+[[v2-23-32]]
+
+^<<v2-23-32,32>>^ Não farás aliança nem com eles nem com seus deuses.
+
+[[v2-23-33]]
+
+^<<v2-23-33,33>>^ Eles não residirão na tua terra, para que não te façam pecar contra mim, e para que, prestando um culto aos seus deuses, não sejas preso no laço.”
+
+'''
+
+xref:002-exodo/002-exodo-022.adoc#v2-22-0[&#60; Capítulo Anterior] | <<v2-23-0,Topo>> | xref:002-exodo/002-exodo-024.adoc#v2-24-0[Próximo Capítulo &#62;]

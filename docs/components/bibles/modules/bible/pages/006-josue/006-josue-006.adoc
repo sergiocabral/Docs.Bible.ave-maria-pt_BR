@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v6-6-0]]
+=== Josué, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 6 de Josué descreve a queda das muralhas de Jericó, uma das mais famosas histórias bíblicas de conquista. Deus ordenou que os israelitas marchassem ao redor da cidade durante seis dias, com os sacerdotes tocando trombetas e levando a Arca da Aliança. No sétimo dia, após sete voltas ao redor da cidade, o povo de Israel soltou um grande grito, e as muralhas caíram milagrosamente. Segue abaixo cinco versículos relacionados com temas abordados em Josué 6, excluindo versículos do próprio capítulo:
+* Hebreus 11:30: "Pela fé, caíram os muros de Jericó, sendo rodeados durante sete dias pelos exércitos." Esse versículo faz parte do capítulo da fé em Hebreus, que destaca exemplos de homens e mulheres que viveram pela fé. A referência à queda dos muros de Jericó mostra que a fé foi o que permitiu que os israelitas vencessem uma cidade fortificada.
+* Salmos 118:10-12: "Todas as nações me cercaram, mas em nome do SENHOR eu as destruí. Cercaram-me, cercaram-me por todos os lados, mas em nome do SENHOR eu as destruí." Esses versículos são um cântico de louvor a Deus pela vitória sobre os inimigos. Embora sejam aplicáveis a várias situações de conflito, podem ser relacionados à queda das muralhas de Jericó.
+* Isaías 54:17: "Nenhuma arma forjada contra ti prosperará; e toda língua que se levantar contra ti em juízo, tu a condenarás; esta é a herança dos servos do SENHOR, e a sua justiça que de mim procede, diz o SENHOR." Esse versículo traz uma promessa de proteção e vitória para os servos de Deus. Embora seja um texto mais geral, pode ser aplicado ao caso da conquista de Jericó.
+* 2 Coríntios 10:4-5: "Porque as armas da nossa milícia não são carnais, mas sim poderosas em Deus para destruição das fortalezas; destruindo os conselhos, e toda a altivez que se levanta contra o conhecimento de Deus, e levando cativo todo o entendimento à obediência de Cristo." Esses versículos falam sobre a natureza espiritual da guerra que os cristãos enfrentam. Embora sejam do Novo Testamento, podem ser aplicados à queda das muralhas de Jericó como um exemplo de como Deus pode destruir fortalezas.
+* 2 Crônicas 20:15: "Não temais, nem vos assusteis por causa desta grande multidão; pois a peleja não é vossa, mas de Deus." Esse versículo faz parte do discurso de Josafá aos exércitos de Judá antes da batalha contra os moabitas e amonitas. Embora não seja uma referência direta à conquista de Jericó, a mensagem de que a vitória vem de Deus é aplicável a todas as situações de conflito.
+****
+
+[[v6-6-1]]
+
+^<<v6-6-1,1>>^ Jericó, cidade murada, tinha se fechado diante dos israelitas, e ninguém saía dela nem podia entrar.
+
+[[v6-6-2]]
+
+^<<v6-6-2,2>>^ O Senhor disse a Josué: “Vê, entreguei-te Jericó, seu rei e seus valentes guerreiros.
+
+[[v6-6-3]]
+
+^<<v6-6-3,3>>^ Dai volta à cidade, vós todos, homens de guerra; contornai toda a cidade uma vez. Assim farás durante seis dias.
+
+[[v6-6-4]]
+
+^<<v6-6-4,4>>^ Sete sacerdotes, tocando sete trombetas, irão adiante da arca. No sétimo dia, dareis sete vezes volta à cidade, tocando os sacerdotes a trombeta.
+
+[[v6-6-5]]
+
+^<<v6-6-5,5>>^ Quando o som da trombeta for mais forte e ouvirdes a sua voz, todo o povo soltará um grande clamor e a muralha da cidade desabará. Então, o povo tomará de assalto a cidade, cada um no lugar que lhe ficar defronte”.
+
+[[v6-6-6]]
+
+^<<v6-6-6,6>>^ Josué, filho de Nun, convocou os sacerdotes e disse-lhes: “Levai a arca da aliança, e sete sacerdotes estejam diante dela tocando as trombetas”.
+
+[[v6-6-7]]
+
+^<<v6-6-7,7>>^ E disse em seguida ao povo: “Avante! Dai volta à cidade, marchando os guerreiros diante da arca do Senhor”.
+
+[[v6-6-8]]
+
+^<<v6-6-8,8>>^ Logo que Josué acabou de falar, os sete sacerdotes, levando as sete trombetas, retumbantes, puseram-se em marcha diante do Senhor, tocando os seus instrumentos; e a arca da aliança do Senhor os seguiu.
+
+[[v6-6-9]]
+
+^<<v6-6-9,9>>^ Marcharam os guerreiros diante dos sacerdotes que tocavam a trombeta, e a retaguarda seguia a arca; e durante toda a marcha ouvia-se o retinir das trombetas.
+
+[[v6-6-10]]
+
+^<<v6-6-10,10>>^ Ora, Josué havia dado essa ordem ao povo: “Não griteis, nem façais ouvir a vossa voz, nem saia de vossa boca palavra alguma, até o dia em que eu vos disser: ‘Gritai!’. Então, clamareis com força”.
+
+[[v6-6-11]]
+
+^<<v6-6-11,11>>^ A arca do Senhor deu uma volta à cidade, e retornaram ao acampamento para ali passar a noite.
+
+[[v6-6-12]]
+
+^<<v6-6-12,12>>^ Josué levantou-se muito cedo e os sacerdotes levaram a arca do Senhor.
+
+[[v6-6-13]]
+
+^<<v6-6-13,13>>^ Os sete sacerdotes, levando as sete trombetas retumbantes, marchavam diante da arca do Senhor, tocando a trombeta durante a marcha. Os guerreiros precediam-nos, e a retaguarda seguia a arca do Senhor. E ouvia-se o retinir da trombeta durante a marcha.
+
+[[v6-6-14]]
+
+^<<v6-6-14,14>>^ Deram volta à cidade uma vez, no segundo dia, e voltaram ao acampamento. O mesmo fizeram durante seis dias.
+
+[[v6-6-15]]
+
+^<<v6-6-15,15>>^ Mas, ao sétimo dia, levantando-se de madrugada, deram volta à cidade sete vezes, como nos dias precedentes: esse foi o único dia em que fizeram sete vezes a volta.
+
+[[v6-6-16]]
+
+^<<v6-6-16,16>>^ Quando os sacerdotes tocaram as trombetas na sétima volta, Josué disse ao povo: “Gritai, porque o Senhor vos entregou a cidade.
+
+[[v6-6-17]]
+
+^<<v6-6-17,17>>^ A cidade será votada ao Senhor por interdito, como tudo o que nela se encontra; exceção feita somente a Raab, a prostituta, que terá a sua vida salva com todos os que se encontrarem em sua casa, porque ocultou os espiões que tínhamos enviado.
+
+[[v6-6-18]]
+
+^<<v6-6-18,18>>^ Mas guardai-vos de tocar no que é votado ao interdito. Se tomardes algo do que foi anatematizado, atraireis o interdito sobre o acampamento de Israel, o que seria uma catástrofe.
+
+[[v6-6-19]]
+
+^<<v6-6-19,19>>^ Toda a prata, todo o ouro e todos os objetos de bronze e de ferro serão consagrados ao Senhor e farão parte do seu tesouro”.
+
+[[v6-6-20]]
+
+^<<v6-6-20,20>>^ O povo clamou e os sacerdotes tocaram as trombetas. E logo que o povo ouviu o som das trombetas, levantou um grande clamor. A muralha desabou. A multidão subiu à cidade, sem nada diante de si.
+
+[[v6-6-21]]
+
+^<<v6-6-21,21>>^ Tomaram a cidade e votaram-na ao interdito, passando a fio de espada tudo o que nela se encontrava: homens, mulheres, crianças, velhos e até mesmo os bois, as ovelhas e os jumentos.
+
+[[v6-6-22]]
+
+^<<v6-6-22,22>>^ Josué disse então aos dois homens que tinham explorado a terra: “Entrai na casa da prostituta e fazei-a sair de lá com tudo o que lhe pertence”.
+
+[[v6-6-23]]
+
+^<<v6-6-23,23>>^ Os espiões entraram na casa e fizeram sair Raab, seu pai, sua mãe, seus irmãos e tudo o que lhe pertencia, toda a sua parentela, e puseram-nos em segurança fora do acampamento de Israel.
+
+[[v6-6-24]]
+
+^<<v6-6-24,24>>^ Queimaram a cidade com tudo o que ela continha, exceto prata, ouro e todos os objetos de bronze e de ferro que foram recolhidos aos tesouros da casa do Senhor.
+
+[[v6-6-25]]
+
+^<<v6-6-25,25>>^ Josué conservou a vida de Raab, a prostituta, bem como a da família de seu pai e a de todos os seus, de sorte que ela habitou no meio de Israel até este dia, porque ela havia ocultado os mensageiros enviados a explorar Jericó.
+
+[[v6-6-26]]
+
+^<<v6-6-26,26>>^ Então proferiu Josué este juramento: “Maldito seja diante do Senhor quem tentar reconstruir esta cidade de Jericó! Será ao preço do seu primogênito que lhe lançará os primeiros fundamentos, e será à custa do último de seus filhos, que lhe porá as portas!”.
+
+[[v6-6-27]]
+
+^<<v6-6-27,27>>^ O Senhor estava com Josué, e o seu renome divulgou-se por toda a terra.
+
+'''
+
+xref:006-josue/006-josue-005.adoc#v6-5-0[&#60; Capítulo Anterior] | <<v6-6-0,Topo>> | xref:006-josue/006-josue-007.adoc#v6-7-0[Próximo Capítulo &#62;]

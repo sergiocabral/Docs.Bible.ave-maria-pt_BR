@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v28-44-0]]
+=== Eclesiástico, 44
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 44 do livro de Eclesiástico apresenta um elogio aos patriarcas do Antigo Testamento, destacando a sua justiça e fidelidade a Deus. Os versículos relacionados aos temas abordados nesse capítulo são:
+* Gênesis 6:9: "Estas são as origens de Noé: Noé era homem justo e íntegro entre os seus contemporâneos; Noé andava com Deus." Esse versículo fala sobre a justiça de Noé, destacando sua fidelidade a Deus, o que se relaciona com o tema de justiça e fidelidade apresentado em Eclesiástico 44.
+* Gênesis 15:6: "Abrão creu no Senhor, e isso lhe foi creditado como justiça." Esse versículo destaca a fé de Abraão, que lhe foi creditada como justiça, mostrando a importância da fé na vida dos patriarcas e seu exemplo de justiça.
+* Êxodo 15:1-2: "Cantarei ao Senhor, pois ele triunfou gloriosamente. Lançou ao mar o cavalo e o seu cavaleiro. O Senhor é a minha força e a minha canção; ele é a minha salvação! Ele é o meu Deus e eu o louvarei, o Deus de meu pai, e eu o exaltarei." Esse é um exemplo do louvor que os patriarcas davam a Deus por suas obras maravilhosas, demonstrando sua gratidão e reconhecimento a Deus.
+* Salmos 25:10: "Todos os caminhos do Senhor são amor e fidelidade para com aqueles que cumprem os preceitos da sua aliança." Esse versículo fala sobre a fidelidade de Deus com aqueles que cumprem seus preceitos, mostrando a relação entre a justiça e fidelidade dos patriarcas com a justiça e fidelidade de Deus.
+* Hebreus 11:32-34: "E que mais direi? Não tenho tempo para falar de Gideão, Baraque, Sansão, Jefté, Davi, Samuel e dos profetas, os quais pela fé conquistaram reinos, praticaram a justiça, alcançaram o cumprimento das promessas, fecharam a boca dos leões, extinguiram a violência do fogo e escaparam do fio da espada; da fraqueza tiraram forças, tornaram-se poderosos em batalha e puseram em fuga exércitos estrangeiros." Esse trecho do livro de Hebreus apresenta exemplos de fé e justiça de personagens do Antigo Testamento, mostrando a sua importância e o exemplo que deixaram para as gerações futuras.
+****
+
+[[v28-44-1]]
+
+^<<v28-44-1,1>>^ Façamos o elogio dos homens ilustres, que são nossos antepassados, em sua linhagem.^&#42;1^
+
+[[v28-44-2]]
+
+^<<v28-44-2,2>>^ O Senhor deu-lhes uma glória abundante, desde o princípio do mundo, por um efeito de sua magnificência.
+
+[[v28-44-3]]
+
+^<<v28-44-3,3>>^ Eles foram soberanos em seus estados, foram homens de grande virtude, dotados de prudência. As predições que anunciaram adquiriram-lhes a dignidade de profetas:^&#42;1^
+
+[[v28-44-4]]
+
+^<<v28-44-4,4>>^ eles governaram os povos do seu tempo e, com a firmeza de sua sabedoria, deram instruções muito santas ao povo.
+
+[[v28-44-5]]
+
+^<<v28-44-5,5>>^ Com sua habilidade cultivaram a arte das melodias, publicaram os cânticos das escrituras.
+
+[[v28-44-6]]
+
+^<<v28-44-6,6>>^ Homens ricos de virtude, que tinham gosto pela beleza, e viviam em paz em suas casas.
+
+[[v28-44-7]]
+
+^<<v28-44-7,7>>^ Todos eles adquiriram fama junto de seus contemporâneos, e foram a glória de seu tempo.
+
+[[v28-44-8]]
+
+^<<v28-44-8,8>>^ Aqueles que deles nasceram deixaram um nome que publica seus louvores.
+
+[[v28-44-9]]
+
+^<<v28-44-9,9>>^ Outros há, dos quais não se tem lembrança; pereceram como se nunca tivessem existido. Nasceram, eles e seus filhos, como se não tivessem nascido.
+
+[[v28-44-10]]
+
+^<<v28-44-10,10>>^ Os primeiros, porém, foram homens de misericórdia; nunca foram esquecidas as obras de sua caridade.
+
+[[v28-44-11]]
+
+^<<v28-44-11,11>>^ Na sua posteridade permanecem os seus bens.
+
+[[v28-44-12]]
+
+^<<v28-44-12,12>>^ Os filhos de seus filhos são uma santa linhagem, e seus descendentes mantêm-se fiéis às alianças.
+
+[[v28-44-13]]
+
+^<<v28-44-13,13>>^ Por causa deles seus filhos permanecem para sempre, e sua posteridade, assim como sua glória, não terá fim.
+
+[[v28-44-14]]
+
+^<<v28-44-14,14>>^ Seus corpos foram sepultados em paz, seu nome vive de século em século.
+
+[[v28-44-15]]
+
+^<<v28-44-15,15>>^ Proclamem os povos sua sabedoria, e cante a assembleia os seus louvores!
+
+[[v28-44-16]]
+
+^<<v28-44-16,16>>^ Henoc agradou a Deus e foi transportado ao paraíso, para excitar as nações à penitência.^&#42;1^
+
+[[v28-44-17]]
+
+^<<v28-44-17,17>>^ Noé foi julgado justo e perfeito, e no tempo da ira tornou-se o elo de reconciliação.^&#42;1^
+
+[[v28-44-18]]
+
+^<<v28-44-18,18>>^ Por isso, foram deixados alguns na terra, quando veio o dilúvio.
+
+[[v28-44-19]]
+
+^<<v28-44-19,19>>^ Ele foi o depositário das alianças feitas com o mundo, a fim de que ninguém doravante fosse destruído por dilúvio.
+
+[[v28-44-20]]
+
+^<<v28-44-20,20>>^ Abraão é o pai ilustre de uma infinidade de povos. Ninguém lhe foi igual em glória: guardou a Lei do Altíssimo, e fez aliança com ele.
+
+[[v28-44-21]]
+
+^<<v28-44-21,21>>^ O Senhor marcou essa aliança em sua carne; na provação, mostrou-se fiel.
+
+[[v28-44-22]]
+
+^<<v28-44-22,22>>^ Por isso, jurou Deus que o havia de glorificar na sua raça, e prometeu que ele cresceria como o pó da terra.
+
+[[v28-44-23]]
+
+^<<v28-44-23,23>>^ Prometeu-lhe que exaltaria sua raça como as estrelas, e que seu quinhão de herança se estenderia de um mar a outro: desde o rio até as extremidades da terra.
+
+[[v28-44-24]]
+
+^<<v28-44-24,24>>^ Ele fez o mesmo com Isaac, por causa de seu pai, Abraão.
+
+[[v28-44-25]]
+
+^<<v28-44-25,25>>^ O Senhor deu-lhe a bênção de todas as nações, e confirmou sua aliança sobre a cabeça de Jacó.
+
+[[v28-44-26]]
+
+^<<v28-44-26,26>>^ Distinguiu-o com suas bênçãos, deu-lhe a herança, e repartiu-a entre as doze tribos.
+
+[[v28-44-27]]
+
+^<<v28-44-27,27>>^ Conservou-lhe homens cheios de misericórdia, que encontraram graça aos olhos de toda carne.^&#42;1^
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-043.adoc#v28-43-0[&#60; Capítulo Anterior] | <<v28-44-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-045.adoc#v28-45-0[Próximo Capítulo &#62;]

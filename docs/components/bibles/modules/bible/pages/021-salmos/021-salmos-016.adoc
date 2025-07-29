@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v21-16-0]]
+=== Salmos, 16
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 16 é um salmo de confiança e proteção em Deus, no qual o salmista expressa sua devoção e dependência do Senhor. Ele declara que somente em Deus encontra segurança e alegria. Abaixo estão cinco versículos que tratam de temas relacionados a este salmo:
+* Salmos 34:8: "Provai e vede que o SENHOR é bom; bem-aventurado o homem que nele confia." Este versículo fala sobre experimentar a bondade do Senhor e confiar nele, assim como o salmista faz em Salmo 16.
+* Salmos 73:26: "A minha carne e o meu coração desfalecem; mas Deus é a fortaleza do meu coração e a minha porção para sempre." Este versículo fala sobre a confiança em Deus em meio a dificuldades e desânimo, semelhante à confiança expressa no Salmo 16.
+* Isaías 26:3: "Tu conservarás em paz aquele cuja mente está firme em ti; porque ele confia em ti." Este versículo fala sobre a paz que Deus dá àqueles que confiam nele, um tema abordado no Salmo 16.
+* Filipenses 3:8: "E, na verdade, tenho também por perda todas as coisas, pela excelência do conhecimento de Cristo Jesus, meu Senhor; pelo qual sofri a perda de todas estas coisas, e as considero como esterco, para que possa ganhar a Cristo." Este versículo fala sobre colocar a confiança em Jesus acima de tudo o mais, uma atitude semelhante à do salmista em Salmo 16.
+* Atos dos Apóstolos 2:25: "Porque dele disse Davi: Sempre via diante de mim o Senhor, Porque está à minha direita, para que eu não seja comovido." Este versículo cita Salmo 16:8, onde o salmista declara que o Senhor está sempre à sua frente, fortalecendo sua confiança e segurança.
+****
+
+[[v21-16-1]]
+
+^<<v21-16-1,1>>^ Súplica de Davi. Ouvi, Senhor, uma causa justa! Atendei a meu clamor! Escutai minha prece, de lábios sem malícia.^&#42;1^
+
+[[v21-16-2]]
+
+^<<v21-16-2,2>>^ Venha de vós o meu julgamento, e vossos olhos reconheçam que sou íntegro.
+
+[[v21-16-3]]
+
+^<<v21-16-3,3>>^ Podeis sondar meu coração, visitá-lo à noite, prová-lo pelo fogo, não encontrareis iniquidade em mim.
+
+[[v21-16-4]]
+
+^<<v21-16-4,4>>^ Minha boca não pecou, como costumam os homens; conforme as palavras dos vossos lábios, segui os caminhos da lei.
+
+[[v21-16-5]]
+
+^<<v21-16-5,5>>^ Meus passos se mantiveram firmes nas vossas sendas, meus pés não titubearam.
+
+[[v21-16-6]]
+
+^<<v21-16-6,6>>^ Eu vos invoco, pois me atendereis, Senhor; inclinai vossos ouvidos para mim, escutai minha voz.
+
+[[v21-16-7]]
+
+^<<v21-16-7,7>>^ Mostrai a vossa admirável misericórdia, vós que salvais dos adversários os que se acolhem à vossa direita.
+
+[[v21-16-8]]
+
+^<<v21-16-8,8>>^ Guardai-me como a pupila dos olhos, escondei-me à sombra de vossas asas,
+
+[[v21-16-9]]
+
+^<<v21-16-9,9>>^ longe dos pecadores, que me querem fazer violência. Meus inimigos me rodeiam com furor.
+
+[[v21-16-10]]
+
+^<<v21-16-10,10>>^ Seu coração endurecido se fecha à piedade; só têm na boca palavras arrogantes.
+
+[[v21-16-11]]
+
+^<<v21-16-11,11>>^ Eis que agora me cercam, espreitam para me prostrar por terra;
+
+[[v21-16-12]]
+
+^<<v21-16-12,12>>^ qual leão que se atira ávido sobre a presa, e como o leãozinho no seu covil.
+
+[[v21-16-13]]
+
+^<<v21-16-13,13>>^ Levantai-vos, Senhor, correi-lhe ao encontro, derrubai-o; com vossa espada livrai-me do pecador,
+
+[[v21-16-14]]
+
+^<<v21-16-14,14>>^ com vossa mão livrai-me dos homens, desses cuja única felicidade está nesta vida, que têm o ventre repleto de bens, cujos filhos vivem na abundância e deixam ainda aos seus filhos o que lhes sobra.
+
+[[v21-16-15]]
+
+^<<v21-16-15,15>>^ Mas eu, confiado na vossa justiça, contemplarei a vossa face; ao despertar, irei saciar-me com a visão de vosso ser.
+
+'''
+
+xref:021-salmos/021-salmos-015.adoc#v21-15-0[&#60; Capítulo Anterior] | <<v21-16-0,Topo>> | xref:021-salmos/021-salmos-017.adoc#v21-17-0[Próximo Capítulo &#62;]

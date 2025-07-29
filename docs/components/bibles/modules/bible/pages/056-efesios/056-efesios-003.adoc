@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v56-3-0]]
+=== Efésios, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Efésios 3 trata da revelação do mistério de Deus em relação à salvação dos gentios, que antes eram considerados excluídos. O apóstolo Paulo enfatiza a importância da graça de Deus nessa revelação e a necessidade de pregá-la a todos. Além disso, ele destaca a importância da oração e do amor de Cristo, que ultrapassa todo o entendimento. A seguir estão cinco versículos relacionados com esses temas:
+* Atos 22:21: "Mas ele me disse: Vai, porque eu te enviarei aos gentios de longe." Esse versículo mostra a intenção de Deus de incluir os gentios na salvação, que é o mistério revelado em Efésios 3.
+* Romanos 16:25-27: "Ora, àquele que é poderoso para vos confirmar segundo o meu evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério que desde tempos eternos esteve oculto, mas que se manifestou agora e se tornou manifesto pela Escrituras dos profetas, segundo o mandamento do Deus eterno, a todas as nações para obediência da fé." Esse versículo fala sobre a revelação do mistério que antes estava oculto e agora é manifesto, assim como em Efésios 3.
+* Colossenses 4:2-3: "Perseverai na oração, velando nela com ações de graças; orai também por nós, para que Deus nos abra porta à palavra, a fim de falarmos do mistério de Cristo, pelo qual também estou preso." Esse versículo destaca a importância da oração, assim como em Efésios 3, e também a necessidade de pregar o mistério de Cristo.
+* João 13:34: "Um novo mandamento vos dou: que vos ameis uns aos outros; assim como eu vos amei, que também vos ameis uns aos outros." Esse versículo destaca o amor de Cristo, que ultrapassa todo o entendimento, assim como em Efésios 3.
+* 1 João 4:11-12: "Amados, se Deus assim nos amou, também nós devemos amar uns aos outros. Ninguém jamais viu a Deus; se nos amarmos uns aos outros, Deus está em nós, e em nós é perfeito o seu amor." Esse versículo fala sobre a importância do amor, que é um tema presente em Efésios 3, e também destaca a presença de Deus em nós quando amamos uns aos outros.
+****
+
+[[v56-3-1]]
+
+^<<v56-3-1,1>>^ Por essa causa é que eu, Paulo, prisioneiro de Jesus Cristo por amor de vós, gentios...^&#42;1^ –
+
+[[v56-3-2]]
+
+^<<v56-3-2,2>>^ Vós deveis ter aprendido o modo como Deus me concedeu esta graça que me foi feita a vosso respeito.
+
+[[v56-3-3]]
+
+^<<v56-3-3,3>>^ Foi por revelação que me foi manifestado o mistério que acabo de esboçar.^&#42;1^
+
+[[v56-3-4]]
+
+^<<v56-3-4,4>>^ Lendo-me, podereis entender a compreensão que me foi concedida do mistério cristão,
+
+[[v56-3-5]]
+
+^<<v56-3-5,5>>^ que em outras gerações não foi manifestado aos homens da maneira como agora tem sido revelado pelo Espírito aos seus santos apóstolos e profetas.
+
+[[v56-3-6]]
+
+^<<v56-3-6,6>>^ A saber: que os gentios são coerdeiros conosco (que somos judeus), são membros do mesmo corpo e participantes da promessa em Jesus Cristo pelo Evangelho.
+
+[[v56-3-7]]
+
+^<<v56-3-7,7>>^ Eu me tornei servo deste Evangelho em virtude da graça que me foi dada pela onipotente ação divina.
+
+[[v56-3-8]]
+
+^<<v56-3-8,8>>^ A mim, o mais insignificante dentre todos os santos, coube-me a graça de anunciar entre os pagãos a inexplorável riqueza de Cristo,^&#42;1^
+
+[[v56-3-9]]
+
+^<<v56-3-9,9>>^ e a todos manifestar o desígnio salvador de Deus, mistério oculto desde a eternidade em Deus, que tudo criou.
+
+[[v56-3-10]]
+
+^<<v56-3-10,10>>^ Assim, de ora em diante, as dominações e as potestades celestes podem conhecer, pela Igreja, a infinita diversidade da sabedoria divina,
+
+[[v56-3-11]]
+
+^<<v56-3-11,11>>^ de acordo com o desígnio eterno que Deus realizou em Jesus Cristo, nosso Senhor.
+
+[[v56-3-12]]
+
+^<<v56-3-12,12>>^ Pela fé que nele depositamos, temos plena confiança de aproximar-nos junto de Deus.
+
+[[v56-3-13]]
+
+^<<v56-3-13,13>>^ Por isso, vos rogo que não desfaleçais nas minhas tribulações que sofro por vós: elas são a vossa glória.
+
+[[v56-3-14]]
+
+^<<v56-3-14,14>>^ Por esta causa dobro os joelhos em presença do Pai,
+
+[[v56-3-15]]
+
+^<<v56-3-15,15>>^ ao qual deve a sua existência toda família no céu e na terra,
+
+[[v56-3-16]]
+
+^<<v56-3-16,16>>^ para que vos conceda, segundo seu glorioso tesouro, que sejais poderosamente robustecidos pelo seu Espírito em vista do crescimento do vosso homem interior.^&#42;1^
+
+[[v56-3-17]]
+
+^<<v56-3-17,17>>^ Que Cristo habite pela fé em vossos corações, arraigados e consolidados na caridade,
+
+[[v56-3-18]]
+
+^<<v56-3-18,18>>^ a fim de que possais, com todos os cristãos, compreender qual seja a largura, o comprimento, a altura e a profundidade,
+
+[[v56-3-19]]
+
+^<<v56-3-19,19>>^ isto é, conhecer a caridade de Cristo, que desafia todo o conhecimento, e sejais cheios de toda a plenitude de Deus.
+
+[[v56-3-20]]
+
+^<<v56-3-20,20>>^ Àquele que, pela virtude que opera em nós, pode fazer infinitamente mais do que tudo quanto pedimos ou entendemos,
+
+[[v56-3-21]]
+
+^<<v56-3-21,21>>^ a ele seja dada glória na Igreja, e em Cristo Jesus, por todas as gerações de eternidade. Amém.
+
+'''
+
+xref:056-efesios/056-efesios-002.adoc#v56-2-0[&#60; Capítulo Anterior] | <<v56-3-0,Topo>> | xref:056-efesios/056-efesios-004.adoc#v56-4-0[Próximo Capítulo &#62;]

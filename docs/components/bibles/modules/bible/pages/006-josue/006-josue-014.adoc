@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v6-14-0]]
+=== Josué, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 14 de Josué descreve como a terra de Canaã foi dividida entre as tribos de Israel, e como Caleb, um dos espiões enviados por Moisés para a Terra Prometida, pediu a Josué que lhe desse uma porção de terra que tinha sido prometida a ele por Deus. Caleb é um exemplo de fé e perseverança, pois apesar de sua idade avançada, ele ainda estava disposto a lutar por sua herança na terra. Aqui estão cinco versículos relacionados aos temas abordados em Josué 14:
+* Deuteronômio 1:36: "Salvo Calebe, filho de Jefoné; ele a verá, e a terra que pisou darei a ele e a seus filhos, porquanto perseverou em seguir ao Senhor." Este versículo se relaciona com a promessa que Deus fez a Caleb, de que ele receberia uma porção de terra na Terra Prometida por causa de sua fé e obediência.
+* Hebreus 3:14: "Porque somos feitos participantes de Cristo, se retivermos firmemente o princípio da nossa confiança até ao fim." Este versículo se relaciona com a ideia de perseverança e confiança em Deus, que Caleb demonstrou ao longo de sua vida e que é um exemplo para todos os crentes.
+* Salmos 37:4: "Agrada-te do Senhor, e ele satisfará os desejos do teu coração." Este versículo se relaciona com o fato de que Caleb confiou em Deus para lhe dar a porção de terra que lhe havia sido prometida, e que essa confiança foi recompensada.
+* Efésios 6:10: "No demais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder." Este versículo se relaciona com a ideia de que a força e o poder de Deus são necessários para perseverar na fé e na obediência, assim como Caleb fez.
+* Salmos 27:14: "Espera pelo Senhor; anima-te, e fortalece o teu coração; espera, pois, pelo Senhor." Este versículo se relaciona com a ideia de que Caleb esperou pacientemente pelo cumprimento da promessa de Deus, e que todos os crentes devem confiar e esperar no Senhor para cumprir suas promessas e planos em suas vidas.
+****
+
+[[v6-14-1]]
+
+^<<v6-14-1,1>>^ Eis as partes que os filhos de Israel receberam em herança na terra de Canaã, que lhes deram o sacerdote Eleazar, Josué, filho de Nun, e os chefes de família das tribos de Israel.
+
+[[v6-14-2]]
+
+^<<v6-14-2,2>>^ A repartição fez-se por sorte pelas nove tribos e meia, como o Senhor havia prescrito, por meio de Moisés;
+
+[[v6-14-3]]
+
+^<<v6-14-3,3>>^ porque às outras duas tribos e meia, Moisés tinha dado sua parte além do Jordão; mas não deu parte alguma aos levitas.
+
+[[v6-14-4]]
+
+^<<v6-14-4,4>>^ Os filhos de José formavam, com efeito, duas tribos: Manassés e Efraim. Aos levitas não deram herança na terra, mas apenas cidades para habitarem e os arredores dessas cidades para os seus rebanhos e os seus bens.
+
+[[v6-14-5]]
+
+^<<v6-14-5,5>>^ Como o Senhor tinha ordenado a Moisés, assim fizeram os israelitas e dividiram a terra.
+
+[[v6-14-6]]
+
+^<<v6-14-6,6>>^ Os filhos de Judá vieram ter com Josué, em Gálgala; e Caleb, filho de Jefoné, o cenezeu, disse-lhe: “Sabes o que o Senhor disse de mim e de ti a Moisés, homem de Deus, em Cades Barnes.
+
+[[v6-14-7]]
+
+^<<v6-14-7,7>>^ Eu tinha quarenta anos quando Moisés, servo do Senhor, me enviou de Cades Barne a explorar a terra e eu lhe fiz um relatório perfeitamente sincero.
+
+[[v6-14-8]]
+
+^<<v6-14-8,8>>^ Meus irmãos que tinham ido comigo desanimaram o povo, mas eu segui fielmente o Senhor, meu Deus.
+
+[[v6-14-9]]
+
+^<<v6-14-9,9>>^ Naquele dia, Moisés fez este juramento: ‘A terra que pisaste será a tua parte e a de teus filhos para sempre, porque seguiste fielmente o Senhor, meu Deus’.
+
+[[v6-14-10]]
+
+^<<v6-14-10,10>>^ Pois bem, eis que o Senhor conservou-me a vida, como prometeu. Quarenta e cinco anos são passados desde que o Senhor assim falou a Moisés, durante a marcha de Israel pelo deserto; tenho hoje oitenta e cinco anos,
+
+[[v6-14-11]]
+
+^<<v6-14-11,11>>^ e acho-me ainda robusto como no dia em que Moisés me enviou, e sinto-me tão forte como naquele tempo, tanto para a guerra como para qualquer outra missão.^&#42;1^
+
+[[v6-14-12]]
+
+^<<v6-14-12,12>>^ Dá-me, pois, este monte que o Senhor me prometeu naquele tempo; porque naquele dia ouviste que se encontram enacim neste lugar e também grandes fortalezas. Se o Senhor estiver comigo, conseguirei despojá-los, como ele disse”.
+
+[[v6-14-13]]
+
+^<<v6-14-13,13>>^ Josué abençoou Caleb, filho de Jefoné e lhe deu Hebron como herança.
+
+[[v6-14-14]]
+
+^<<v6-14-14,14>>^ Eis por que Hebron pertence até o dia de hoje a Caleb, filho de Jefoné, o cenezeu, porque ele seguiu fielmente o Senhor, Deus de Israel.
+
+[[v6-14-15]]
+
+^<<v6-14-15,15>>^ Hebron chamava-se outrora Cariat-Arbe; Arbe foi o maior homem entre os enacim. E a terra ficou, a partir de então, tranquila e sem guerra.
+
+'''
+
+xref:006-josue/006-josue-013.adoc#v6-13-0[&#60; Capítulo Anterior] | <<v6-14-0,Topo>> | xref:006-josue/006-josue-015.adoc#v6-15-0[Próximo Capítulo &#62;]

@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v30-18-0]]
+=== Jeremias, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 18 de Jeremias apresenta a metáfora do oleiro e do barro, na qual Deus é o oleiro e o povo é o barro. Deus está mostrando a Jeremias como ele pode moldar e transformar o povo de acordo com a sua vontade, mas também como ele pode destruí-los se eles se rebelarem contra ele. A seguir estão cinco versículos relacionados com os temas abordados em Jeremias 18:
+* Romanos 9:21: "Ou não tem o oleiro direito sobre a massa, para do mesmo barro fazer um vaso para honra e outro, para desonra?" Este versículo fala sobre a soberania de Deus sobre as pessoas e como ele pode moldá-las de acordo com a sua vontade.
+* Isaías 64:8: "Mas agora, SENHOR, tu és nosso Pai; nós somos o barro, e tu, o nosso oleiro; e todos nós, obra das tuas mãos." Este versículo também usa a metáfora do oleiro e do barro para mostrar a relação entre Deus e o seu povo.
+* 2 Timóteo 2:20-21: "Ora, numa grande casa, não há somente utensílios de ouro e de prata, mas também de madeira e de barro; uns, para honra; outros, porém, para desonra. Assim, pois, se alguém a si mesmo se purificar destes erros, será utensílio para honra, santificado e útil ao seu possuidor, estando preparado para toda boa obra." Este versículo fala sobre como Deus pode usar pessoas que se purificam para fazer a sua obra, assim como um oleiro pode moldar o barro para usos diferentes.
+* Isaías 29:16: "Que pensais vós? Acaso, pode o oleiro ser considerado como o barro que molda? Porventura, pode a obra dizer do seu artífice: Não me fez? Ou pode o vaso dizer do oleiro: Nada sabe?" Este versículo questiona a ideia de que as pessoas podem se rebelar contra Deus e questionar a sua autoridade como um oleiro que molda o barro.
+* Salmos 2:9: "Com uma vara de ferro os despedaçarás como a um vaso de oleiro." Este versículo fala sobre como Deus pode destruir aqueles que se rebelam contra ele, assim como um vaso de barro pode ser despedaçado.
+****
+
+[[v30-18-1]]
+
+^<<v30-18-1,1>>^ Foi dirigida a Jeremias a palavra do Senhor nestes termos:^&#42;1^
+
+[[v30-18-2]]
+
+^<<v30-18-2,2>>^ “Vai e desce à casa do oleiro, e ali te farei ouvir minha palavra”.
+
+[[v30-18-3]]
+
+^<<v30-18-3,3>>^ Desci, então, à casa do oleiro, e o encontrei ocupado a trabalhar no torno.
+
+[[v30-18-4]]
+
+^<<v30-18-4,4>>^ Quando o vaso que estava a modelar não lhe saía bem, como costuma acontecer nos trabalhos de cerâmica, punha-se a trabalhar em outro à sua maneira.
+
+[[v30-18-5]]
+
+^<<v30-18-5,5>>^ Foi esta, então, a linguagem do Senhor: “casa de Israel, não poderei fazer de vós o que faz esse oleiro? – oráculo do Senhor.
+
+[[v30-18-6]]
+
+^<<v30-18-6,6>>^ O que é a argila em suas mãos, assim sois vós nas minhas, casa de Israel.
+
+[[v30-18-7]]
+
+^<<v30-18-7,7>>^ Ora anuncio a uma nação ou a um reino que vou arrancá-lo e destruí-lo.
+
+[[v30-18-8]]
+
+^<<v30-18-8,8>>^ Mas se essa nação, contra a qual me pronunciei, se afastar do mal que cometeu, arrependo-me da punição com que resolvera castigá-la.
+
+[[v30-18-9]]
+
+^<<v30-18-9,9>>^ Outras vezes, em relação a um povo ou reino, resolvo edificá-lo e plantá-lo.
+
+[[v30-18-10]]
+
+^<<v30-18-10,10>>^ Se, porém, tal nação proceder mal diante de meus olhos e não escutar minha palavra, recuarei do bem que lhe decidira fazer.
+
+[[v30-18-11]]
+
+^<<v30-18-11,11>>^ Assim, portanto, dirige-te agora nestes termos à gente de Judá e aos habitantes de Jerusalém: Eis o que diz o Senhor: nutro o desígnio de lançar-vos uma desgraça, tenciono um projeto contra vós. Voltai todos, portanto, do mau caminho, emendai vosso proceder e vossos atos.
+
+[[v30-18-12]]
+
+^<<v30-18-12,12>>^ É inútil, responderão eles, seguiremos nossas ideias e cada um de nós agirá de acordo com as más inclinações de seu coração obstinado”.
+
+[[v30-18-13]]
+
+^<<v30-18-13,13>>^ Eis por que assim fala o Senhor: “Interrogai as nações pagãs: quem jamais ouviu semelhante coisa? Foi perversidade sem nome a cometida pela virgem de Israel.
+
+[[v30-18-14]]
+
+^<<v30-18-14,14>>^ Acaso será abandonado o rochedo que domina a planície pela neve do Líbano? E se esgotarão as águas fluentes, que, frescas, correm das montanhas?^&#42;1^
+
+[[v30-18-15]]
+
+^<<v30-18-15,15>>^ No entanto, o meu povo me esqueceu! Incensa ídolos quiméricos, que o fazem tropeçar pelo caminho, o caminho de outrora, conduzindo-o por veredas tortuosas de caminhos não trilhados.
+
+[[v30-18-16]]
+
+^<<v30-18-16,16>>^ A um deserto será reduzida a terra, objeto de perpétuo assobio; e o que por ele passar, estupefato, meneará a cabeça.^&#42;1^
+
+[[v30-18-17]]
+
+^<<v30-18-17,17>>^ À semelhança do vento de leste, eu o dispersarei ante seus inimigos. E lhe voltarei as costas e não a face no dia da desgraça”.
+
+[[v30-18-18]]
+
+^<<v30-18-18,18>>^ “Vinde” – disseram então –, “e tramemos uma conspiração contra Jeremias! Por falta de um sacerdote não perecerá a Lei, nem pela falta de um sábio, o conselho, ou pela falta de um profeta, a palavra divina. Vinde e firamo-lo com a língua, não lhe demos ouvidos às palavras!”^&#42;1^
+
+[[v30-18-19]]
+
+^<<v30-18-19,19>>^ Senhor, ouvi-me! Escutai o que dizem meus inimigos.
+
+[[v30-18-20]]
+
+^<<v30-18-20,20>>^ É assim que pagam o bem com o mal? Abrem uma cova para atentar-me contra a vida. Lembrai-vos de que ante vós me apresentei, a fim de por eles interceder e deles afastar a vossa cólera.
+
+[[v30-18-21]]
+
+^<<v30-18-21,21>>^ Assim, entregai-lhes os filhos à fome e a eles próprios a fio de espada. Percam suas mulheres os filhos e maridos, morram os homens pela peste, e os jovens caiam sob a espada nos combates.
+
+[[v30-18-22]]
+
+^<<v30-18-22,22>>^ Quando, de súbito, sobre eles lançardes hordas armadas, ouçam-se os clamores partidos de suas casas, já que cavaram uma fossa para prender-me, e armaram laços a meus pés.
+
+[[v30-18-23]]
+
+^<<v30-18-23,23>>^ Vós, porém, Senhor, que bem conheceis suas conspirações de morte contra mim, não lhes perdoeis tal iniquidade. Que a vossos olhos o seu pecado permaneça indelével e caiam diante de vós. Agi contra eles no dia de vossa cólera.
+
+'''
+
+xref:030-jeremias/030-jeremias-017.adoc#v30-17-0[&#60; Capítulo Anterior] | <<v30-18-0,Topo>> | xref:030-jeremias/030-jeremias-019.adoc#v30-19-0[Próximo Capítulo &#62;]

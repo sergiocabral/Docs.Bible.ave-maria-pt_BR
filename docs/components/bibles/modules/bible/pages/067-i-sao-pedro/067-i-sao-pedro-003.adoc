@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v67-3-0]]
+=== I São Pedro, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 3 da primeira epístola de São Pedro fala sobre a conduta que os cristãos devem ter em suas relações interpessoais, especialmente em relação aos seus cônjuges e aos outros irmãos na fé. O texto destaca a importância da humildade, do amor, da paciência e da bondade na construção de relacionamentos saudáveis. Além disso, o capítulo também menciona o exemplo de Cristo como modelo de comportamento a ser seguido pelos cristãos.
+* Provérbios 15:1: "A resposta branda desvia o furor, mas a palavra dura suscita a ira." Este versículo destaca a importância de sermos pacientes e brandos em nossas relações interpessoais, especialmente quando se trata de situações tensas. Essa atitude pode ajudar a evitar conflitos e a promover a paz entre as pessoas.
+* Efésios 4:2: "Completai a minha alegria, de modo que penseis a mesma coisa, tenhais o mesmo amor, sejais unidos de alma, tendo o mesmo sentimento." Aqui, o apóstolo Paulo exorta os cristãos a serem unidos e a pensarem e agirem de forma semelhante. Isso é importante para a construção de relacionamentos saudáveis e para a promoção da harmonia na igreja.
+* 1 Coríntios 13:4-7: "O amor é paciente, é benigno; o amor não arde em ciúmes, não se ufana, não se ensoberbece, não se conduz inconvenientemente, não procura os seus interesses, não se exaspera, não se ressente do mal; não se alegra com a injustiça, mas regozija-se com a verdade." Nesses versículos, Paulo apresenta uma descrição do amor verdadeiro. Esse tipo de amor é fundamental para a construção de relacionamentos saudáveis, não apenas entre cônjuges, mas também entre irmãos na fé.
+* Romanos 12:18: "Se possível, quanto depender de vós, tende paz com todos os homens." O apóstolo Paulo exorta os cristãos a fazerem todo o esforço possível para manter a paz com as pessoas ao seu redor. Essa é uma atitude fundamental para a promoção da harmonia e do bem-estar das pessoas em nossa sociedade.
+****
+
+[[v67-3-1]]
+
+^<<v67-3-1,1>>^ Vós, também, ó mulheres, sede submissas aos vossos maridos. Se alguns não obedecem à palavra, serão conquistados, mesmo sem a palavra da pregação, pelo simples procedimento de suas mulheres,^&#42;1^
+
+[[v67-3-2]]
+
+^<<v67-3-2,2>>^ ao observarem vossa vida casta e reservada.
+
+[[v67-3-3]]
+
+^<<v67-3-3,3>>^ Não seja o vosso adorno o que aparece externamente: cabelos trançados, ornamentos de ouro, vestidos elegantes;
+
+[[v67-3-4]]
+
+^<<v67-3-4,4>>^ mas tende aquele ornato interior e oculto do coração, a pureza incorruptível de um espírito suave e pacífico, o que é tão precioso aos olhos de Deus.
+
+[[v67-3-5]]
+
+^<<v67-3-5,5>>^ Era assim que outrora se ornavam as santas mulheres que esperavam em Deus; eram submissas a seus maridos,
+
+[[v67-3-6]]
+
+^<<v67-3-6,6>>^ como Sara que obedecia a Abraão, chamando-o de senhor. Dela vos tornais filhas pela prática do bem sem temor de perturbação alguma.
+
+[[v67-3-7]]
+
+^<<v67-3-7,7>>^ Do mesmo modo vós, ó maridos, comportai-vos sabiamente no vosso convívio com as vossas mulheres, pois são de um sexo mais fraco. Porquanto elas são herdeiras, com o mesmo direito que vós outros, da graça que dá a vida. Tratai-as com todo o respeito, para que nada se oponha às vossas orações.
+
+[[v67-3-8]]
+
+^<<v67-3-8,8>>^ Finalmente, tende todos um só coração e uma só alma, sentimentos de amor fraterno, de misericórdia, de humildade.
+
+[[v67-3-9]]
+
+^<<v67-3-9,9>>^ Não pagueis mal com mal, nem injúria com injúria. Ao contrário, abençoai, pois para isso fostes chamados, para que sejais herdeiros da bênção.
+
+[[v67-3-10]]
+
+^<<v67-3-10,10>>^ Com efeito, quem quiser amar a vida e ver dias felizes, refreie sua língua do mal e seus lábios de palavras enganadoras;
+
+[[v67-3-11]]
+
+^<<v67-3-11,11>>^ aparte-se do mal e faça o bem, busque a paz e siga-a.
+
+[[v67-3-12]]
+
+^<<v67-3-12,12>>^ Porque os olhos do Senhor estão sobre os justos e seus ouvidos, atentos a seus rogos; mas a força do Senhor está contra os que fazem o mal (Sl 33,13-17).
+
+[[v67-3-13]]
+
+^<<v67-3-13,13>>^ Se fordes zelosos do bem, quem vos poderá fazer mal?
+
+[[v67-3-14]]
+
+^<<v67-3-14,14>>^ E até sereis felizes, se padecerdes alguma coisa por causa da justiça!
+
+[[v67-3-15]]
+
+^<<v67-3-15,15>>^ Portanto, não temais as suas ameaças e não vos turbeis. Antes, santificai em vossos corações Cristo, o Senhor. Estai sempre prontos a responder para vossa defesa a todo aquele que vos pedir a razão de vossa esperança, mas fazei-o com suavidade e respeito.^&#42;1^
+
+[[v67-3-16]]
+
+^<<v67-3-16,16>>^ Tende uma consciência reta a fim de que, mesmo naquilo em que dizem mal de vós, sejam confundidos os que desacreditam o vosso santo procedimento em Cristo.
+
+[[v67-3-17]]
+
+^<<v67-3-17,17>>^ Aliás, é melhor padecer, se Deus assim o quiser, por fazer o bem do que por fazer o mal.
+
+[[v67-3-18]]
+
+^<<v67-3-18,18>>^ Pois também Cristo morreu uma vez pelos nossos pecados – o Justo pelos injustos – para nos conduzir a Deus. Padeceu a morte em sua carne, mas foi vivificado quanto ao espírito.
+
+[[v67-3-19]]
+
+^<<v67-3-19,19>>^ É nesse mesmo espírito que ele foi pregar aos espíritos que eram detidos no cárcere, àqueles que outrora, nos dias de Noé, tinham sido rebeldes,^&#42;1^
+
+[[v67-3-20]]
+
+^<<v67-3-20,20>>^ quando Deus aguardava com paciência, enquanto se edificava a arca, na qual poucas pessoas, isto é, apenas oito se salvaram por meio da água.^&#42;1^
+
+[[v67-3-21]]
+
+^<<v67-3-21,21>>^ Essa água prefigurava o batismo de agora, que vos salva também a vós, não pela purificação das impurezas do corpo, mas pela que consiste em pedir a Deus uma consciência boa, pela Ressurreição de Jesus Cristo.^&#42;1^
+
+[[v67-3-22]]
+
+^<<v67-3-22,22>>^ Esse Jesus Cristo, tendo subido ao céu, está assentado à direita de Deus, depois de ter recebido a submissão dos anjos, dos principados e das potestades.
+
+'''
+
+xref:067-i-sao-pedro/067-i-sao-pedro-002.adoc#v67-2-0[&#60; Capítulo Anterior] | <<v67-3-0,Topo>> | xref:067-i-sao-pedro/067-i-sao-pedro-004.adoc#v67-4-0[Próximo Capítulo &#62;]

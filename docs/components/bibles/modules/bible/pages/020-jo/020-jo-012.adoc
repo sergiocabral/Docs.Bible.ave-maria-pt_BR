@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v20-12-0]]
+=== Jó, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jó 12 é um capítulo em que Jó responde a Zofar, um dos amigos que o visitam e tentam consolá-lo em meio às suas aflições. Jó refuta a posição de Zofar, afirmando que a sabedoria não é exclusividade dos amigos, mas também é concedida por Deus aos que sofrem. Ele fala sobre a soberania de Deus e a natureza passageira da vida humana. Abaixo estão cinco versículos relacionados com os temas abordados em Jó 12:
+* Salmos 147:5 - "Grande é o nosso Senhor e tremendo, acima de todos os deuses." Este versículo destaca a soberania de Deus, um tema recorrente em Jó 12.
+* Tiago 1:5 - "Mas, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não censura, e ser-lhe-á dada." Jó 12 fala sobre a sabedoria concedida por Deus aos que sofrem, e este versículo em Tiago reforça essa ideia.
+* Salmos 90:10 - "Os dias dos nossos anos são setenta anos, e se alguns, pela sua robustez, chegam a oitenta anos, o orgulho deles é canseira e enfado, pois cedo se corta e vamos voando." Assim como Jó, este versículo destaca a brevidade da vida humana.
+* Isaías 40:28 - "Não sabes, não ouviste que o eterno Deus, o SENHOR, o Criador dos fins da terra, nem se cansa nem se fatiga? É inescrutável o seu entendimento." Este versículo reforça a soberania e a infinitude de Deus, temas presentes em Jó 12.
+* Provérbios 3:5-6 - "Confia no SENHOR de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo destaca a importância da confiança em Deus, um tema presente em Jó 12.
+****
+
+[[v20-12-1]]
+
+^<<v20-12-1,1>>^ Jó tomou a palavra nestes termos:
+
+[[v20-12-2]]
+
+^<<v20-12-2,2>>^ “Sois mesmo gente muito hábil, e convosco morrerá a sabedoria!
+
+[[v20-12-3]]
+
+^<<v20-12-3,3>>^ Tenho também o espírito como o vosso, e não vos sou inferior! Quem, pois, ignoraria o que sabeis?
+
+[[v20-12-4]]
+
+^<<v20-12-4,4>>^ Os amigos escarnecem daquele que invoca a Deus, para que ele lhe responda. Sim, zombam do justo e do inocente.
+
+[[v20-12-5]]
+
+^<<v20-12-5,5>>^ ‘Vergonha para a infelicidade!’ – assim pensam os felizes. Só há desprezo para aquele cujo pé fraqueja.
+
+[[v20-12-6]]
+
+^<<v20-12-6,6>>^ As tendas dos bandidos gozam de paz, e segurança para aqueles que provocam a Deus, que não têm outro Deus senão o próprio braço.
+
+[[v20-12-7]]
+
+^<<v20-12-7,7>>^ Pergunta, pois, aos animais da terra, eles te ensinarão; e às aves do céu, e elas te instruirão.
+
+[[v20-12-8]]
+
+^<<v20-12-8,8>>^ Fala aos répteis da terra, e eles te responderão, e aos peixes do mar, e eles te contarão.
+
+[[v20-12-9]]
+
+^<<v20-12-9,9>>^ Entre todos esses seres, quem não sabe que foi a mão de Deus que fez tudo isso?’^&#42;1^
+
+[[v20-12-10]]
+
+^<<v20-12-10,10>>^ Ele que tem em mãos a alma de tudo o que vive e o sopro de vida de todo o gênero humano.
+
+[[v20-12-11]]
+
+^<<v20-12-11,11>>^ Não discerne o ouvido as palavras, como o paladar discerne o sabor da comida?
+
+[[v20-12-12]]
+
+^<<v20-12-12,12>>^ A sabedoria pertence aos cabelos brancos, e à longa vida confere a inteligência.
+
+[[v20-12-13]]
+
+^<<v20-12-13,13>>^ Em Deus residem a sabedoria e o poder. Ele possui o conselho e a inteligência.
+
+[[v20-12-14]]
+
+^<<v20-12-14,14>>^ O que ele destrói não será reconstruído, se aprisionar um homem, ninguém há que o solte.
+
+[[v20-12-15]]
+
+^<<v20-12-15,15>>^ Quando faz as águas pararem, há seca; se as soltar, submergirão a terra.
+
+[[v20-12-16]]
+
+^<<v20-12-16,16>>^ Nele há força e prudência; ele conhece o que engana e o enganado.
+
+[[v20-12-17]]
+
+^<<v20-12-17,17>>^ Faz os árbitros andarem descalços e torna os juízes estúpidos.
+
+[[v20-12-18]]
+
+^<<v20-12-18,18>>^ Ele desata a cinta dos reis e cinge-lhes os rins com uma corda.
+
+[[v20-12-19]]
+
+^<<v20-12-19,19>>^ Ele faz os sacerdotes andar descalços e abate os poderosos.
+
+[[v20-12-20]]
+
+^<<v20-12-20,20>>^ Ele tira a palavra aos mais seguros de si mesmos e retira a sabedoria dos anciãos.
+
+[[v20-12-21]]
+
+^<<v20-12-21,21>>^ Ele derrama desprezo sobre os nobres e afrouxa a cinta dos fortes.
+
+[[v20-12-22]]
+
+^<<v20-12-22,22>>^ Ele põe a claro os segredos das trevas e traz à luz a sombra da morte.
+
+[[v20-12-23]]
+
+^<<v20-12-23,23>>^ Ele torna grandes as nações e as destrói, multiplica os povos e depois os suprime.
+
+[[v20-12-24]]
+
+^<<v20-12-24,24>>^ Ele tira a razão dos chefes da terra, e os deixa perdidos no deserto sem pista.
+
+[[v20-12-25]]
+
+^<<v20-12-25,25>>^ Andam às apalpadelas nas trevas, privados da luz, tropeçando como um ébrio.
+
+'''
+
+xref:020-jo/020-jo-011.adoc#v20-11-0[&#60; Capítulo Anterior] | <<v20-12-0,Topo>> | xref:020-jo/020-jo-013.adoc#v20-13-0[Próximo Capítulo &#62;]

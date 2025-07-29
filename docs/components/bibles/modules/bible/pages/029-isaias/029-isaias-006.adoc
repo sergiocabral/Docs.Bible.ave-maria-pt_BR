@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v29-6-0]]
+=== Isaías, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 6 descreve a visão que o profeta Isaías teve do Senhor, sentado em Seu trono, cercado de serafins que clamavam "Santo, Santo, Santo". Isaías foi confrontado com a santidade de Deus e sua própria pecaminosidade, mas foi purificado e comissionado para proclamar a mensagem de Deus ao povo. Abaixo estão cinco versículos relacionados com os temas abordados em Isaías 6:
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento; os loucos desprezam a sabedoria e a instrução." Esse versículo fala sobre a importância do temor a Deus e como isso é fundamental para o nosso entendimento e sabedoria. Isaías 6 retrata claramente a santidade de Deus e a reação apropriada à Sua presença.
+* Romanos 3:23-24: "Porque todos pecaram e destituídos estão da glória de Deus; sendo justificados gratuitamente pela sua graça, mediante a redenção que há em Cristo Jesus." Aqui, vemos que todos pecaram e estão separados da glória de Deus, mas a graça de Deus em Cristo Jesus nos justifica e nos reconcilia com Ele. Isaías 6 mostra como a santidade de Deus expõe a nossa pecaminosidade e como precisamos ser purificados para nos aproximarmos Dele.
+* 1 Pedro 1:15-16: "Mas, assim como é santo aquele que vos chamou, sede vós também santos em toda a vossa maneira de viver; porque está escrito: Sede santos, porque eu sou santo." Pedro está citando Levítico 11:44-45, onde Deus chama o Seu povo para ser santo porque Ele é santo. Isaías 6 mostra a santidade de Deus e a necessidade de sermos purificados para estarmos em Sua presença.
+* João 12:41: "Isaías disse isto porque viu a sua glória e falou dele." Aqui, vemos que Isaías 6 é citado como a fonte de uma profecia sobre Jesus. Isaías viu a glória de Deus em Sua santidade, e essa visão o comissionou para falar em nome de Deus. Jesus, o Filho de Deus, é a personificação da glória de Deus.
+* Apocalipse 4:8: "E os quatro seres viventes tinham, cada um de per si, seis asas, e ao redor, e por dentro, estavam cheios de olhos; e não têm descanso nem de dia nem de noite, proclamando: Santo, Santo, Santo é o Senhor Deus, o Todo-Poderoso, aquele que era, que é e que há de vir." Este versículo descreve uma cena muito semelhante à visão de Isaías em Isaías 6. Os seres viventes proclamam a santidade de Deus e reconhecem a Sua soberania.
+****
+
+[[v29-6-1]]
+
+^<<v29-6-1,1>>^ No ano da morte do rei Ozias, eu vi o Senhor sentado num trono muito ele-vado; as franjas de seu manto enchiam o templo.^&#42;1^
+
+[[v29-6-2]]
+
+^<<v29-6-2,2>>^ Os serafins se mantinham junto dele. Cada um deles tinha seis asas; com um par de asas velavam a face; com outro cobriam os pés; e, com o terceiro, voavam.^&#42;1^
+
+[[v29-6-3]]
+
+^<<v29-6-3,3>>^ Suas vozes se revezavam e diziam: “Santo, santo, santo é o Senhor Deus do universo! A terra inteira proclama a sua glória!”.
+
+[[v29-6-4]]
+
+^<<v29-6-4,4>>^ A este brado as portas estremeceram em seus gonzos e a casa encheu-se de fumo.
+
+[[v29-6-5]]
+
+^<<v29-6-5,5>>^ “Ai de mim” – gritava eu –. “Estou perdido porque sou um homem de lábios impuros, e habito com um povo (também) de lábios impuros e, entretanto, meus olhos viram o rei, o Senhor dos exércitos!”
+
+[[v29-6-6]]
+
+^<<v29-6-6,6>>^ Porém, um dos serafins voou em minha direção; trazia na mão uma brasa viva, que tinha tomado do altar com uma tenaz.
+
+[[v29-6-7]]
+
+^<<v29-6-7,7>>^ Aplicou-a na minha boca e disse: “Tendo esta brasa tocado teus lábios, teu pecado foi tirado, e tua falta, apagada”.
+
+[[v29-6-8]]
+
+^<<v29-6-8,8>>^ Ouvi então a voz do Senhor que dizia: “Quem enviarei eu? E quem irá por nós?”. “Eis-me aqui” – disse eu –, “enviai-me.’’
+
+[[v29-6-9]]
+
+^<<v29-6-9,9>>^ “Vai, pois, dizer a esse povo” – disse ele: “Escutai, sem chegar a compreender, olhai, sem chegar a ver.
+
+[[v29-6-10]]
+
+^<<v29-6-10,10>>^ Obceca o coração desse povo, ensurdece-lhe os ouvidos, fecha-lhe os olhos, de modo que não veja nada com seus olhos, não ouça com seus ouvidos, não compreenda nada com seu espírito. E não se cure de novo”.^&#42;1^
+
+[[v29-6-11]]
+
+^<<v29-6-11,11>>^ “Até quando, Senhor?” – disse eu. E ele respondeu: “Até que as cidades fiquem devastadas e sem habitantes, as casas, sem gente, e a terra, deserta;
+
+[[v29-6-12]]
+
+^<<v29-6-12,12>>^ até que o Senhor tenha banido os homens, e seja grande a solidão na terra.
+
+[[v29-6-13]]
+
+^<<v29-6-13,13>>^ Se restar um décimo da população, ele será lançado ao fogo, como o terebinto e o carvalho, cuja linhagem permanece quando são abatidos.” Sua linhagem é um germe santo.^&#42;1^
+
+'''
+
+xref:029-isaias/029-isaias-005.adoc#v29-5-0[&#60; Capítulo Anterior] | <<v29-6-0,Topo>> | xref:029-isaias/029-isaias-007.adoc#v29-7-0[Próximo Capítulo &#62;]

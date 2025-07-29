@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v8-1-0]]
+=== Rute, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 1 do livro de Rute narra a história de Noemi e sua família, que deixam sua terra natal em busca de alimento e prosperidade em um país estrangeiro. Infelizmente, Noemi fica viúva e seus dois filhos também morrem, deixando-a sem nenhum parente próximo. A partir daí, ela decide retornar à sua terra natal, mas incentiva suas noras, Rute e Orfa, a ficarem em Moabe e encontrarem novos maridos. Os seguintes cinco versículos, em ordem de proximidade com os temas do capítulo, foram selecionados para ilustrar a temática do livro:
+* Deuteronômio 10:18-19: "Ele faz justiça ao órfão e à viúva, ama o estrangeiro, dando-lhe pão e roupa. Portanto, ame os estrangeiros, pois vocês foram estrangeiros no Egito." Este versículo fala sobre a importância de tratar os estrangeiros com amor e compaixão, o que é relevante para o relacionamento entre Noemi, Rute e Orfa em Moabe.
+* Êxodo 22:21-22: "Não maltrate nem oprimas o estrangeiro, pois vocês foram estrangeiros no Egito. Não maltratem viúvas nem órfãos." Este versículo se concentra em proibir a opressão de estrangeiros, viúvas e órfãos, enfatizando a importância da compaixão e da justiça social.
+* Levítico 19:9-10: "Quando vocês colherem a colheita da sua terra, não colham até o fim da lavoura, nem rebusquem os bagos caídos da sua colheita. Não percorram a vinha segunda vez, nem apanhem as uvas que caíram; deixem-nas para o pobre e para o estrangeiro. Eu sou o Senhor, o Deus de vocês." Este versículo incentiva a doação de alimentos para os pobres e estrangeiros, o que é relevante para a situação em que Rute e Noemi se encontram.
+* Salmos 146:9: "O Senhor protege o estrangeiro e sustém o órfão e a viúva, mas frustra os planos dos ímpios." Este versículo enfatiza a proteção divina aos estrangeiros, órfãos e viúvas, o que é uma fonte de consolo para Noemi em sua situação difícil.
+* Isaías 54:4-5: "Não tenha medo, pois você não será envergonhada. Não se sinta humilhada, pois você não será desonrada. Em vez disso, você esquecerá a vergonha da sua juventude e se lembrará mais da sua aflição, como de uma esposa abandonada e triste em espírito, uma esposa que foi rejeitada", declara o seu Deus. "Por um breve instante eu a abandonei, mas com profunda compaixão eu a trarei de volta." Este versículo fala sobre a compaixão de Deus por aqueles que sofrem e são rejeitados, o que é relevante para a história de Noemi e sua luta para encontrar segurança e consolo.
+****
+
+[[v8-1-1]]
+
+^<<v8-1-1,1>>^ No tempo que governavam os juízes, sobreveio uma fome na terra. Um homem partiu de Belém de Judá, com sua mulher e seus dois filhos, indo morar nos campos de Moab.
+
+[[v8-1-2]]
+
+^<<v8-1-2,2>>^ Chamava-se Elimelec e sua mulher Noemi; seus dois filhos chamavam-se Maalon e Quelion; eram efrateus de Belém de Judá. Chegados à terra de Moab, estabeleceram-se ali.
+
+[[v8-1-3]]
+
+^<<v8-1-3,3>>^ Elimelec, marido de Noemi, morreu, deixando-a com seus dois filhos.
+
+[[v8-1-4]]
+
+^<<v8-1-4,4>>^ Estes casaram com mulheres moabitas, chamadas uma Orfa e outra Rute. Viveram lá aproximadamente dez anos.
+
+[[v8-1-5]]
+
+^<<v8-1-5,5>>^ Maalon e Quelion morreram ficando Noemi só, sem seus dois filhos e sem seu marido.
+
+[[v8-1-6]]
+
+^<<v8-1-6,6>>^ Então, levantou-se Noemi e partiu da região de Moab com suas duas noras, porque ouviu dizer que o Senhor tinha visitado o seu povo e lhe tinha dado pão.
+
+[[v8-1-7]]
+
+^<<v8-1-7,7>>^ Deixou, pois, aquele lugar onde habitara com suas duas noras e pôs-se a caminho de volta para a terra de Judá.
+
+[[v8-1-8]]
+
+^<<v8-1-8,8>>^ “Ide, voltai para a casa de vossa mãe – disse ela às suas noras –. O Senhor use convosco de misericórdia, como vós usastes com os que morreram e comigo!
+
+[[v8-1-9]]
+
+^<<v8-1-9,9>>^ Que ele vos conceda paz em vossos lares, cada uma em casa de seu marido!” E beijou-as. Elas puseram-se a chorar:
+
+[[v8-1-10]]
+
+^<<v8-1-10,10>>^ “Nós iremos contigo para o teu povo – disseram elas.
+
+[[v8-1-11]]
+
+^<<v8-1-11,11>>^ “Ide, minhas filhas – replicou Noemi –. Por que haveis de vir comigo? Porventura, tenho eu ainda em meu seio filhos que possam tornar-se vossos maridos?
+
+[[v8-1-12]]
+
+^<<v8-1-12,12>>^ Voltai, minhas filhas, porque já estou demasiado velha para casar-me de novo. E ainda que eu tivesse alguma esperança e que esta noite mesmo me fosse dado ter marido e viesse a gerar filhos,
+
+[[v8-1-13]]
+
+^<<v8-1-13,13>>^ haveríeis de esperá-los crescer, sem vos casardes de novo, até que se tornassem grandes? Não, minhas filhas, minha dor é muito maior do que a vossa, porque a mão do Senhor pesou sobre mim”.
+
+[[v8-1-14]]
+
+^<<v8-1-14,14>>^ Então, elas desataram de novo a chorar. Orfa beijou a sua sogra, porém Rute não quis separar-se dela.
+
+[[v8-1-15]]
+
+^<<v8-1-15,15>>^ “Eis que tua cunhada voltou para o seu povo e para os seus deuses – disse-lhe Noemi –. “Vai com ela!”
+
+[[v8-1-16]]
+
+^<<v8-1-16,16>>^ “Não insistas comigo – respondeu Rute – para que eu te deixe e me vá longe de ti. Aonde fores, eu irei; onde habitares, eu habitarei. O teu povo é meu povo e o teu Deus, meu Deus.
+
+[[v8-1-17]]
+
+^<<v8-1-17,17>>^ Na terra em que morreres, quero também eu morrer e aí ser sepultada. O Senhor trate-me com todo o rigor, se outra coisa, a não ser a morte, me separar de ti!”
+
+[[v8-1-18]]
+
+^<<v8-1-18,18>>^ Ante tal resolução, Noemi não insistiu mais.
+
+[[v8-1-19]]
+
+^<<v8-1-19,19>>^ Seguiram juntas o seu caminho até Belém. Ali chegando, comoveu-se toda a cidade e as mulheres diziam: “Eis aí Noemi!”.
+
+[[v8-1-20]]
+
+^<<v8-1-20,20>>^ “Não me chameis mais Noemi – replicou ela –, mas chamai-me Mara, porque o Todo-poderoso me encheu de amargura.
+
+[[v8-1-21]]
+
+^<<v8-1-21,21>>^ Parti com as mãos cheias e o Senhor fez-me voltar com as mãos vazias. Por que me chamais Noemi, se o Senhor se declarou contra mim e o Onipotente me inundou de aflição?”.
+
+[[v8-1-22]]
+
+^<<v8-1-22,22>>^ Foi assim que voltaram dos campos de Moab, Noemi e sua nora Rute, a moabita. Chegaram a Belém, quando começava a colheita da cevada.
+
+'''
+
+xref:007-juizes/007-juizes-021.adoc#v7-21-0[&#60; Capítulo Anterior] | <<v8-1-0,Topo>> | xref:008-rute/008-rute-002.adoc#v8-2-0[Próximo Capítulo &#62;]

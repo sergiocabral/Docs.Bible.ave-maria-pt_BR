@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v26-4-0]]
+=== Cântico dos Cânticos, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Cânticos 4 descreve a beleza da amada do poeta e o seu amor por ela. O capítulo destaca a perfeição e a pureza física e espiritual da amada, sua voz atraente e seu amor intenso. Abaixo estão cinco versículos relacionados aos temas deste capítulo.
+* Provérbios 31:30: "A beleza é enganosa, e a formosura é passageira; mas a mulher que teme ao Senhor será elogiada." Este versículo destaca a importância de uma beleza interior, ou seja, o temor ao Senhor e uma vida virtuosa, como mais valioso do que a beleza física.
+* Salmos 45:11: "Ouve, ó filha, considera, e inclina os teus ouvidos; esquece-te também do teu povo e da casa do teu pai." Este verso fala sobre deixar para trás sua vida anterior para se comprometer com seu cônjuge e família.
+* Provérbios 5:18-19: "Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade. Como cerva amorosa, e gazela graciosa, os seus seios te saciem todo o tempo; e pelo seu amor sejas atraído perpetuamente." Este versículo fala sobre a alegria e a satisfação que o amor físico traz ao casamento.
+* 1 Coríntios 13:4-7: "O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta." Este versículo destaca a importância do amor em um relacionamento, que é caracterizado por paciência, bondade, perdão e esperança.
+* Efésios 5:25: "Maridos, ame cada um a sua esposa, assim como Cristo amou a igreja e entregou-se por ela." Este versículo fala sobre a natureza sacrificial do amor, que é exemplificado por Cristo.
+****
+
+[[v26-4-1]]
+
+^<<v26-4-1,1>>^ – Tu és bela, minha querida, tu és formosa! Através do teu véu os teus olhos são como pombas, teus cabelos são como um rebanho de cabras, descendo impetuosas pela montanha de Galaad,^&#42;1^
+
+[[v26-4-2]]
+
+^<<v26-4-2,2>>^ teus dentes são como um rebanho de ovelhas tosquiadas que saem do banho; cada uma leva dois cordeirinhos gêmeos, e nenhuma há estéril entre elas.
+
+[[v26-4-3]]
+
+^<<v26-4-3,3>>^ Teus lábios são como um fio de púrpura, e graciosa é tua boca. Tua face é como um pedaço de romã debaixo do teu véu;
+
+[[v26-4-4]]
+
+^<<v26-4-4,4>>^ teu pescoço é semelhante à torre de Davi, construída para depósito de armas. Aí estão pendentes mil escudos, todos os escudos dos valentes.^&#42;1^
+
+[[v26-4-5]]
+
+^<<v26-4-5,5>>^ Os teus dois seios são como filhotes gêmeos de uma gazela, pastando entre os lírios.
+
+[[v26-4-6]]
+
+^<<v26-4-6,6>>^ Antes que sopre a brisa do dia, e se estendam as sombras, irei ao monte da mirra, e à colina do incenso.
+
+[[v26-4-7]]
+
+^<<v26-4-7,7>>^ És toda bela, ó minha amada, e não há mancha em ti.
+
+[[v26-4-8]]
+
+^<<v26-4-8,8>>^ Vem comigo do Líbano, ó esposa, vem comigo do Líbano! Olha dos cumes do Amaná, do cimo de Sanir e do Hermon, das cavernas dos leões, dos esconderijos das panteras.
+
+[[v26-4-9]]
+
+^<<v26-4-9,9>>^ Tu me fazes delirar, minha irmã, minha noiva, tu me fazes delirar com um só dos teus olhares, com um só colar do teu pescoço.^&#42;1^
+
+[[v26-4-10]]
+
+^<<v26-4-10,10>>^ Como são deliciosas as tuas carícias, minha irmã, minha noiva! Mais deliciosos que o vinho são teus amores, e o odor dos teus perfumes excede o de todos os aromas!
+
+[[v26-4-11]]
+
+^<<v26-4-11,11>>^ Teus lábios, ó noiva, destilam o mel; há mel e leite sob a tua língua. O perfume de tuas vestes é como o perfume do Líbano.
+
+[[v26-4-12]]
+
+^<<v26-4-12,12>>^ És um jardim fechado, minha irmã, minha noiva, uma nascente fechada, uma fonte selada.
+
+[[v26-4-13]]
+
+^<<v26-4-13,13>>^ Teus rebentos são como um bosque de romãs com frutos deliciosos; com ligústica e nardo,
+
+[[v26-4-14]]
+
+^<<v26-4-14,14>>^ nardo e açafrão, canela e cinamomo, com todas as árvores de incenso, mirra e aloés, com os bálsamos mais preciosos.
+
+[[v26-4-15]]
+
+^<<v26-4-15,15>>^ És a fonte do meu jardim, uma fonte de água viva, um riacho que corre do Líbano.
+
+[[v26-4-16]]
+
+^<<v26-4-16,16>>^ – Levanta-te, vento do norte, vem tu, vento do sul. Sopra no meu jardim para que se espalhem os meus perfumes. Entre meu amado no seu jardim, prove-lhe os frutos deliciosos.^&#42;1^
+
+'''
+
+xref:026-cantico-dos-canticos/026-cantico-dos-canticos-003.adoc#v26-3-0[&#60; Capítulo Anterior] | <<v26-4-0,Topo>> | xref:026-cantico-dos-canticos/026-cantico-dos-canticos-005.adoc#v26-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v50-18-0]]
+=== São João, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São João 18 narra a prisão e julgamento de Jesus antes da sua crucificação. O capítulo começa com a traição de Judas Iscariotes e termina com Pedro negando Jesus três vezes. Alguns dos temas abordados incluem o sofrimento e humilhação de Jesus, a lealdade e traição dos seus discípulos, e o julgamento injusto que Jesus enfrentou.
+* Salmo 22:16 - "Pois cães me cercam; um bando de malfeitores me rodeia; traspassaram-me as mãos e os pés." Este salmo profético descreve detalhes da crucificação de Jesus, incluindo o fato de que as mãos e os pés dele foram traspassados.
+* Isaías 53:3 - "Era desprezado e o mais rejeitado entre os homens; homem de dores e que sabe o que é padecer; e, como um de quem os homens escondem o rosto, era desprezado, e dele não fizemos caso." Este verso descreve a humilhação e sofrimento que Jesus enfrentou antes de sua morte.
+* Mateus 26:56 - "Mas tudo isso aconteceu para que se cumprissem as escrituras dos profetas. Então todos os discípulos, deixando-o, fugiram." Este verso mostra como os discípulos abandonaram Jesus quando ele foi preso, cumprindo a profecia que dizia que o pastor seria ferido e o rebanho disperso.
+* Marcos 14:61 - "Mas ele guardou silêncio e nada respondeu. Perguntaram-lhe de novo: 'És tu o Cristo, o Filho do Deus Bendito?'". Este verso mostra o julgamento injusto que Jesus enfrentou, com as autoridades religiosas procurando qualquer motivo para condená-lo.
+* Lucas 22:34 - "Eu te digo, Pedro, que não cantará hoje o galo antes que três vezes tenhas negado que me conheces." Este verso mostra a tristeza de Jesus ao prever que Pedro o negaria três vezes, o que acontece mais tarde no capítulo 18.
+****
+
+[[v50-18-1]]
+
+^<<v50-18-1,1>>^ Depois dessas palavras, Jesus saiu com os seus discípulos para além da torrente de Cedron, onde havia um jardim, no qual entrou com os seus discípulos.
+
+[[v50-18-2]]
+
+^<<v50-18-2,2>>^ Judas, o traidor, conhecia também aquele lugar, porque Jesus ia frequentemente para lá com os seus discípulos.
+
+[[v50-18-3]]
+
+^<<v50-18-3,3>>^ Tomou então Judas a coorte e os guardas de serviço dos pontífices e dos fariseus, e chegaram ali com lanternas, tochas e armas.
+
+[[v50-18-4]]
+
+^<<v50-18-4,4>>^ Como Jesus soubesse tudo o que havia de lhe acontecer, adiantou-se e perguntou-lhes: “A quem buscais?”.
+
+[[v50-18-5]]
+
+^<<v50-18-5,5>>^ Responderam: “A Jesus de Nazaré.” – “Sou eu” – disse-lhes. (Também Judas, o traidor, estava com eles.)
+
+[[v50-18-6]]
+
+^<<v50-18-6,6>>^ Quando lhes disse “Sou eu”, recuaram e caíram por terra.
+
+[[v50-18-7]]
+
+^<<v50-18-7,7>>^ Perguntou-lhes ele, pela segunda vez: “A quem buscais?”. Disseram: “A Jesus de Nazaré”.
+
+[[v50-18-8]]
+
+^<<v50-18-8,8>>^ Replicou Jesus: “Já vos disse que sou eu. Se é, pois, a mim que buscais, deixai ir estes”.
+
+[[v50-18-9]]
+
+^<<v50-18-9,9>>^ Assim se cumpriu a palavra que disse: Dos que me deste não perdi nenhum (Jo 17,12).
+
+[[v50-18-10]]
+
+^<<v50-18-10,10>>^ Simão Pedro, que tinha uma espada, puxou dela e feriu o servo do sumo sacerdote, decepando-lhe a orelha direita. (O servo chamava-se Malco.)
+
+[[v50-18-11]]
+
+^<<v50-18-11,11>>^ Mas Jesus disse a Pedro: “Enfia a tua espada na bainha! Não hei de beber eu o cálice que o Pai me deu?”.
+
+[[v50-18-12]]
+
+^<<v50-18-12,12>>^ Então a coorte, o tribuno e os guardas dos judeus prenderam Jesus e o ataram.
+
+[[v50-18-13]]
+
+^<<v50-18-13,13>>^ Conduziram-no primeiro a Anás, por ser sogro de Caifás, que era o sumo sacerdote daquele ano. (= Mt 26,57-75 = Mc 14,53-72 = Lc 22,54-71)
+
+[[v50-18-14]]
+
+^<<v50-18-14,14>>^ Caifás fora quem dera aos judeus o conselho: “Convém que um só homem morra em lugar do povo”.
+
+[[v50-18-15]]
+
+^<<v50-18-15,15>>^ Simão Pedro seguia Jesus, e mais outro discípulo. Este discípulo era conhecido do sumo sacerdote e entrou com Jesus no pátio da casa do sumo sacerdote,
+
+[[v50-18-16]]
+
+^<<v50-18-16,16>>^ porém Pedro ficou de fora, à porta. Mas o outro discípulo (que era conhecido do sumo sacerdote) saiu e falou à porteira, e esta deixou Pedro entrar.
+
+[[v50-18-17]]
+
+^<<v50-18-17,17>>^ A porteira perguntou a Pedro: “Não és acaso também tu dos discípulos desse homem?”. – “Não o sou” – respondeu ele.
+
+[[v50-18-18]]
+
+^<<v50-18-18,18>>^ Os servos e os guardas acenderam um fogo, porque fazia frio, e se aqueciam. Com eles estava também Pedro, de pé, aquecendo-se.
+
+[[v50-18-19]]
+
+^<<v50-18-19,19>>^ O sumo sacerdote indagou de Jesus acerca dos seus discípulos e da sua doutrina.
+
+[[v50-18-20]]
+
+^<<v50-18-20,20>>^ Jesus respondeu-lhe: “Falei publicamente ao mundo. Ensinei na sinagoga e no templo, onde se reúnem os judeus, e nada falei às ocultas.
+
+[[v50-18-21]]
+
+^<<v50-18-21,21>>^ Por que me perguntas? Pergunta àqueles que ouviram o que lhes disse. Estes sabem o que ensinei”.
+
+[[v50-18-22]]
+
+^<<v50-18-22,22>>^ A essas palavras, um dos guardas presentes deu uma bofetada em Jesus, dizendo: “É assim que respondes ao sumo sacerdote?”.
+
+[[v50-18-23]]
+
+^<<v50-18-23,23>>^ Replicou-lhe Jesus: “Se falei mal, prova-o, mas se falei bem, por que me bates?”.
+
+[[v50-18-24]]
+
+^<<v50-18-24,24>>^ (Anás enviou-o preso ao sumo sacerdote Caifás.)^&#42;1^
+
+[[v50-18-25]]
+
+^<<v50-18-25,25>>^ Simão Pedro estava lá se aquecendo. Perguntaram-lhe: “Não és porventura, também tu, dos seus discípulos?” Negou-o, dizendo: “Não!”.
+
+[[v50-18-26]]
+
+^<<v50-18-26,26>>^ Disse-lhe um dos servos do sumo sacerdote, parente daquele a quem Pedro cortara a orelha: “Não te vi eu com ele no horto?”.
+
+[[v50-18-27]]
+
+^<<v50-18-27,27>>^ Mas Pedro negou-o outra vez, e imediatamente o galo cantou. (= Mt 27,1s.11-31 = Mc 15,1-20 = Lc 23,1-25)
+
+[[v50-18-28]]
+
+^<<v50-18-28,28>>^ Da casa de Caifás conduziram Jesus ao pretório. Era de manhã cedo. Mas os judeus não entraram no pretório, para não se contaminarem e poderem comer a Páscoa.^&#42;1^
+
+[[v50-18-29]]
+
+^<<v50-18-29,29>>^ Saiu, por isso, Pilatos para ter com eles, e perguntou: “Que acusação trazeis contra este homem?”.
+
+[[v50-18-30]]
+
+^<<v50-18-30,30>>^ Responderam-lhe: “Se este não fosse malfeitor, não o teríamos entregue a ti”.
+
+[[v50-18-31]]
+
+^<<v50-18-31,31>>^ Disse, então, Pilatos: “Tomai-o e julgai-o vós mesmos segundo a vossa Lei”. Responderam-lhe os judeus: “Não nos é permitido matar ninguém”.^&#42;1^
+
+[[v50-18-32]]
+
+^<<v50-18-32,32>>^ Assim se cumpria a palavra com a qual Jesus indicou de que gênero de morte havia de morrer (Mt 20,19).
+
+[[v50-18-33]]
+
+^<<v50-18-33,33>>^ Pilatos entrou no pretório, chamou Jesus e perguntou-lhe: “És tu o rei dos judeus?”
+
+[[v50-18-34]]
+
+^<<v50-18-34,34>>^ Jesus respondeu: “Dizes isso por ti mesmo, ou foram outros que to disseram de mim?”
+
+[[v50-18-35]]
+
+^<<v50-18-35,35>>^ Disse Pilatos: “Acaso sou eu judeu? A tua nação e os sumos sacerdotes entregaram-te a mim. Que fizeste?”.
+
+[[v50-18-36]]
+
+^<<v50-18-36,36>>^ Respondeu Jesus: “O meu Reino não é deste mundo. Se o meu Reino fosse deste mundo, os meus súditos certamente teriam pelejado para que eu não fosse entregue aos judeus. Mas o meu Reino não é deste mundo”.
+
+[[v50-18-37]]
+
+^<<v50-18-37,37>>^ Perguntou-lhe então Pilatos: “És, portanto, rei?” Respondeu Jesus: “Sim, eu sou rei. É para dar testemunho da verdade que nasci e vim ao mundo. Todo o que é da verdade ouve a minha voz”.
+
+[[v50-18-38]]
+
+^<<v50-18-38,38>>^ Disse-lhe Pilatos: “Que é a verdade?...”. Falando isso, saiu de novo, foi ter com os judeus e disse-lhes: “Não acho nele crime algum.
+
+[[v50-18-39]]
+
+^<<v50-18-39,39>>^ Mas é costume entre vós que pela Páscoa vos solte um preso. Quereis, pois, que vos solte o rei dos judeus?”.
+
+[[v50-18-40]]
+
+^<<v50-18-40,40>>^ Então todos gritaram novamente e disseram: “Não! A este não! Mas a Barrabás!”. (Barrabás era um salteador.)
+
+'''
+
+xref:050-sao-joao/050-sao-joao-017.adoc#v50-17-0[&#60; Capítulo Anterior] | <<v50-18-0,Topo>> | xref:050-sao-joao/050-sao-joao-019.adoc#v50-19-0[Próximo Capítulo &#62;]

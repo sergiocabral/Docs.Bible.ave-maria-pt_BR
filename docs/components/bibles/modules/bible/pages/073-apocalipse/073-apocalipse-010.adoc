@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v73-10-0]]
+=== Apocalipse, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Apocalipse 10 trata da visão de João sobre um anjo forte descendo do céu com um livro aberto em sua mão. O anjo coloca um pé sobre a terra e outro sobre o mar e clama com uma voz forte como um leão rugindo. Em seguida, sete trovões emitem suas vozes, mas João é proibido de escrever o que ouviu. Os cinco versículos relacionados aos temas abordados em Apocalipse 10 são:
+* Jeremias 25:30: "E tu, pois, lhes profetizarás todas estas palavras, e lhes dirás: O SENHOR desde o alto ruge, e dá a sua voz desde a sua santa morada; rugirá fortemente contra a sua habitação; dará um grito, como os que pisam as uvas, contra todos os moradores da terra." Este versículo fala sobre Deus rugindo como um leão, semelhante ao que o anjo forte faz em Apocalipse 10.
+* Ezequiel 2:9-10: "Então olhei, e eis que uma mão se estendia para mim, e eis que nela estava um rolo de livro. E estendeu-o diante de mim, e estava escrito por dentro e por fora; e nele estavam escritas lamentações, e suspiros e ais." Este versículo descreve um rolo de livro, semelhante ao livro aberto que o anjo forte segura em sua mão em Apocalipse 10.
+* Daniel 12:4: "Mas tu, Daniel, encerra as palavras, e sela o livro, até ao tempo do fim; muitos correrão de uma parte para outra, e a ciência se multiplicará." Este versículo fala sobre selar um livro, semelhante ao que o anjo forte faz com o livro aberto em sua mão em Apocalipse 10.
+* Salmos 29:3: "A voz do SENHOR ouve-se sobre as suas águas; o Deus da glória troveja; o SENHOR está sobre as muitas águas." Este versículo descreve Deus trovejando, semelhante ao que o anjo forte faz em Apocalipse 10.
+* Êxodo 19:18: "E todo o monte Sinai fumegava, porque o SENHOR descera sobre ele em fogo; e a sua fumaça subiu como fumaça de uma fornalha, e todo o monte tremia grandemente." Este versículo descreve o monte tremendo, semelhante à reação da terra e do mar quando o anjo forte coloca seus pés sobre eles em Apocalipse 10.
+****
+
+[[v73-10-1]]
+
+^<<v73-10-1,1>>^ Vi então outro anjo vigoroso descer do céu, revestido de uma nuvem e com o arco-íris em torno da cabeça. Seu rosto era como sol, e as suas pernas como colunas de fogo.
+
+[[v73-10-2]]
+
+^<<v73-10-2,2>>^ Segurava na mão um pequeno livro aberto. Pôs o pé direito sobre o mar, o esquerdo sobre a terra
+
+[[v73-10-3]]
+
+^<<v73-10-3,3>>^ e começou a clamar em alta voz, como um leão que ruge. Quando clamou, os sete trovões ressoaram.^&#42;1^
+
+[[v73-10-4]]
+
+^<<v73-10-4,4>>^ Quando cessaram de falar, dispunha-me a escrever, mas ouvi uma voz do céu que dizia: “Sela o que falaram os sete trovões e não o escrevas”.
+
+[[v73-10-5]]
+
+^<<v73-10-5,5>>^ Então o anjo, que eu vira de pé sobre o mar e a terra, levantou a mão direita para o céu
+
+[[v73-10-6]]
+
+^<<v73-10-6,6>>^ e jurou por aquele que vive pelos séculos dos séculos, que criou o céu e tudo o que há nele, a terra e tudo o que ela contém, o mar e tudo o que encerra, que não haveria mais tempo;
+
+[[v73-10-7]]
+
+^<<v73-10-7,7>>^ mas, nos dias em que soasse a trombeta do sétimo anjo, se cumpriria o mistério de Deus, de acordo com a Boa-Nova que confiou a seus servos, os profetas.
+
+[[v73-10-8]]
+
+^<<v73-10-8,8>>^ Então, a voz que ouvi do céu falou-me de novo, e disse: “Vai e toma o pequeno livro aberto da mão do anjo que está em pé sobre o mar e a terra”.
+
+[[v73-10-9]]
+
+^<<v73-10-9,9>>^ Fui eu, pois, ter com o anjo, dizendo-lhe que me desse o pequeno livro. E ele me disse: “Toma e devora-o! Ele te será amargo nas entranhas, mas, na boca, doce como o mel”.^&#42;1^
+
+[[v73-10-10]]
+
+^<<v73-10-10,10>>^ Tomei então o pequeno livro da mão do anjo e o comi. De fato, em minha boca tinha a doçura do mel, mas depois de o ter comido, amargou-me nas entranhas.
+
+[[v73-10-11]]
+
+^<<v73-10-11,11>>^ Então, foi-me explicado: “Urge que ainda profetizes de novo a numerosas nações, povos, línguas e reis”.^&#42;1^
+
+'''
+
+xref:073-apocalipse/073-apocalipse-009.adoc#v73-9-0[&#60; Capítulo Anterior] | <<v73-10-0,Topo>> | xref:073-apocalipse/073-apocalipse-011.adoc#v73-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v1-42-0]]
+=== Gênesis, 42
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 42 narra a história dos irmãos de José indo até o Egito para comprar alimentos durante a fome que atingiu a terra de Canaã. Ao chegar lá, eles são recebidos por José, que agora é um oficial importante do faraó e que, sem que eles saibam, é seu irmão há muito tempo perdido. Os temas abordados incluem o arrependimento, o perdão, a providência de Deus e a restauração de relacionamentos familiares.
+* Salmos 32:5: "Confessei-te o meu pecado e a minha maldade não encobri. Dizia eu: Confessarei ao SENHOR as minhas transgressões; e tu perdoaste a culpa do meu pecado." Os irmãos de José finalmente confessam o que fizeram a ele, mostrando arrependimento por seus pecados. Este verso destaca a importância da confissão e do arrependimento genuíno para receber o perdão de Deus.
+* Provérbios 28:13: "O que encobre as suas transgressões jamais prosperará; mas o que as confessa e deixa, alcançará misericórdia." Este verso fala sobre a necessidade de confessar nossos pecados e deixá-los para trás, em vez de tentar escondê-los ou negá-los. Isso é algo que os irmãos de José estão enfrentando ao serem confrontados com sua culpa.
+* Romanos 8:28: "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito." A venda de José como escravo e sua subsequente ascensão ao poder no Egito foram todas parte do plano de Deus para usá-lo para salvar sua família da fome. Este verso destaca a verdade de que Deus trabalha todas as coisas para o bem daqueles que O amam.
+* Efésios 4:32: "Antes, sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo." José escolhe perdoar seus irmãos pelo que fizeram a ele, mostrando a eles a mesma misericórdia que Deus mostrou a ele. Este verso nos lembra da importância de perdoar aqueles que nos magoaram e mostra o perdão como uma forma de restaurar relacionamentos quebrados.
+* Tiago 5:16: "Confessai, pois, os vossos pecados uns aos outros e orai uns pelos outros, para serdes curados. A oração feita por um justo pode muito em seus efeitos." Este verso destaca a importância de nos apoiarmos mutuamente na busca do perdão e da restauração. A confissão e o compartilhamento de nossos fardos uns com os outros podem levar à cura e à restauração de relacionamentos quebrados.
+****
+
+[[v1-42-1]]
+
+^<<v1-42-1,1>>^ Jacó, sabendo que havia trigo no Egito, disse aos seus filhos: “Por que estais olhando uns para os outros?
+
+[[v1-42-2]]
+
+^<<v1-42-2,2>>^ Eu soube que há trigo no Egito. Descei lá e comprai-o para nós; poderemos assim viver e escaparemos à morte”.
+
+[[v1-42-3]]
+
+^<<v1-42-3,3>>^ E os dez irmãos de José desceram ao Egito para comprar trigo.
+
+[[v1-42-4]]
+
+^<<v1-42-4,4>>^ Jacó não deixou partir com seus irmãos Benjamim, irmão de José, “com medo – pensava ele – de que lhe acontecesse alguma desgraça”.
+
+[[v1-42-5]]
+
+^<<v1-42-5,5>>^ Os filhos de Israel chegaram, pois, no meio de uma multidão de outros para comprar víveres, porque a fome reinava na terra de Canaã.
+
+[[v1-42-6]]
+
+^<<v1-42-6,6>>^ José era o governador de toda a região, e era ele quem vendia o trigo a todo o mundo. Desde sua chegada, os irmãos de José prostraram-se diante dele com o rosto por terra.
+
+[[v1-42-7]]
+
+^<<v1-42-7,7>>^ José reconheceu-os imediatamente, mas, comportando-se com eles como um estrangeiro, disse-lhes com rudeza: “Donde vindes?”. “Da terra de Canaã – responderam eles – para comprar víveres.”
+
+[[v1-42-8]]
+
+^<<v1-42-8,8>>^ José reconheceu os seus irmãos, mas eles não o reconheceram.
+
+[[v1-42-9]]
+
+^<<v1-42-9,9>>^ E lembrava-se dos sonhos que tivera outrora a respeito deles; disse-lhes: “Vós sois espiões: viestes explorar os pontos fracos do país”.
+
+[[v1-42-10]]
+
+^<<v1-42-10,10>>^ “Não, meu senhor – responderam – teus servos vieram comprar víveres.
+
+[[v1-42-11]]
+
+^<<v1-42-11,11>>^ Somos todos filhos do mesmo pai, somos gente honesta; teus servos não são espiões.”
+
+[[v1-42-12]]
+
+^<<v1-42-12,12>>^ “Não é verdade –, disse-lhes ele – viestes explorar os pontos fracos do país.”
+
+[[v1-42-13]]
+
+^<<v1-42-13,13>>^ Eles responderam: “Somos doze irmãos, filhos do mesmo pai, na terra de Canaã. O mais novo está agora em casa de nosso pai, o outro já não existe”.
+
+[[v1-42-14]]
+
+^<<v1-42-14,14>>^ José disse-lhes: “É bem como eu disse: sois espiões.
+
+[[v1-42-15]]
+
+^<<v1-42-15,15>>^ Sereis, aliás, postos à prova: pela vida do faraó, não saireis daqui antes que tenha vindo vosso irmão mais novo.
+
+[[v1-42-16]]
+
+^<<v1-42-16,16>>^ Mandai um de vós buscá-lo; enquanto isso, ficareis prisioneiros. Vossas palavras serão assim provadas, e veremos se dissestes a verdade. Do contrário, pela vida do faraó, sois espiões!”.
+
+[[v1-42-17]]
+
+^<<v1-42-17,17>>^ E mandou metê-los na prisão durante três dias.
+
+[[v1-42-18]]
+
+^<<v1-42-18,18>>^ No terceiro dia, José disse-lhes: “Fazei isto, e vivereis, porque sou cheio do temor a Deus.
+
+[[v1-42-19]]
+
+^<<v1-42-19,19>>^ Se sois gente de bem, que um dentre vós fique detido em prisão; e os outros partam levando o trigo para alimentar vossas famílias.
+
+[[v1-42-20]]
+
+^<<v1-42-20,20>>^ Trazei-me então vosso irmão mais novo, para que eu possa verificar a verdade de vossas palavras, e não morrereis”. Foi o que fizeram.
+
+[[v1-42-21]]
+
+^<<v1-42-21,21>>^ Disseram uns aos outros: “Em verdade, somos culpados pelo crime cometido contra o nosso irmão, porque víamos a angústia de sua alma quando ele nos suplicava, e não o escutamos! Eis por que veio sobre nós esta desgraça!”.
+
+[[v1-42-22]]
+
+^<<v1-42-22,22>>^ “Não vos tinha eu dito, disse-lhes Rúben, para não pecardes contra o menino? Não quisestes ouvir-me, e eis agora que nos é reclamado o seu sangue!”
+
+[[v1-42-23]]
+
+^<<v1-42-23,23>>^ Ora, não sabiam que José os compreendia, porque lhes tinha falado por meio de um intérprete.
+
+[[v1-42-24]]
+
+^<<v1-42-24,24>>^ E José afastou-se deles para chorar. Voltou em seguida e falou-lhes; e escolheu Simeão, ao qual mandou prender na presença deles.
+
+[[v1-42-25]]
+
+^<<v1-42-25,25>>^ José ordenou depois que se enchessem de trigo os seus sacos, e que se pusesse o dinheiro de cada um em seu saco de viagem, e também que se lhes dessem provisões para o caminho: assim foi feito.
+
+[[v1-42-26]]
+
+^<<v1-42-26,26>>^ Eles carregaram o trigo sobre os seus jumentos e partiram.
+
+[[v1-42-27]]
+
+^<<v1-42-27,27>>^ Na estalagem, abrindo um deles o seu saco para dar de comer ao seu jumento, viu que o seu dinheiro estava na boca do saco.
+
+[[v1-42-28]]
+
+^<<v1-42-28,28>>^ “Devolveram-me o meu dinheiro – disse ele aos seus irmãos –; ei-lo aqui no meu saco!” Desfaleceu-se-lhes o coração, e, tomados de espanto, disseram uns aos outros: “Que é isto que Deus nos fez?”.
+
+[[v1-42-29]]
+
+^<<v1-42-29,29>>^ Voltaram para junto de Jacó, seu pai, na terra de Canaã, e contaram-lhe nestes termos tudo o que lhes tinha acontecido:
+
+[[v1-42-30]]
+
+^<<v1-42-30,30>>^ “O homem que governa o país nos falou asperamente e nos tomou por espiões.
+
+[[v1-42-31]]
+
+^<<v1-42-31,31>>^ Dissemos-lhe que éramos gente honesta, e não espiões;
+
+[[v1-42-32]]
+
+^<<v1-42-32,32>>^ que éramos doze irmãos, filhos do mesmo pai, dos quais um já não existia mais, e o mais novo estava no momento com nosso pai, na terra de Canaã.
+
+[[v1-42-33]]
+
+^<<v1-42-33,33>>^ O governador do país disse-nos: por isso reconhecerei se sois gente de bem: deixai junto de mim um de vossos irmãos, levai o trigo que precisais para alimentar vossas famílias, e parti.
+
+[[v1-42-34]]
+
+^<<v1-42-34,34>>^ Vós me conduzireis então vosso irmão mais novo: assim saberei que não sois espiões, mas gente honesta. Eu vos devolverei então vosso irmão, e podereis negociar no país”.
+
+[[v1-42-35]]
+
+^<<v1-42-35,35>>^ E, esvaziando os seus sacos, eis que o pacote de dinheiro de cada um se encontrava em seu saco. Quando eles e seu pai viram seu dinheiro, tiveram medo.
+
+[[v1-42-36]]
+
+^<<v1-42-36,36>>^ Jacó disse-lhes: “Vós me tirais os meus filhos! José já não existe, Simeão tampouco, e quereis me tomar ainda Benjamim! Tudo vem cair sobre mim!”.
+
+[[v1-42-37]]
+
+^<<v1-42-37,37>>^ Rúben disse-lhe: “Tira a vida aos meus dois filhos, se eu não te reconduzir Benjamim! Confia-o a mim: eu o trarei de volta”.
+
+[[v1-42-38]]
+
+^<<v1-42-38,38>>^ “Meu filho – tornou Jacó – não descerá convosco, porque seu irmão morreu, e só resta ele. Se lhe acontecesse um acidente nesta viagem que ides fazer, faríeis descer os meus cabelos brancos à habitação dos mortos, sob o peso da dor.”
+
+'''
+
+xref:001-genesis/001-genesis-041.adoc#v1-41-0[&#60; Capítulo Anterior] | <<v1-42-0,Topo>> | xref:001-genesis/001-genesis-043.adoc#v1-43-0[Próximo Capítulo &#62;]

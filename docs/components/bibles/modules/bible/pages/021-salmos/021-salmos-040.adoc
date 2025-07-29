@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v21-40-0]]
+=== Salmos, 40
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 40 é uma expressão de confiança em Deus e gratidão por sua ajuda em tempos difíceis. Ele começa com Davi falando sobre como Deus o tirou de um "poço de destruição" e colocou seus pés em uma rocha firme. Ele então louva a Deus por suas bênçãos e misericórdia, pedindo que ele continue a ser seu ajudador e libertador. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 40:
+* Salmos 37:23-24: "O Senhor firma os passos de um homem, quando a conduta deste o agrada; ainda que tropece, não cairá, pois o Senhor o toma pela mão." Este versículo fala sobre como Deus cuida daqueles que o seguem e como ele os protege e os ajuda em momentos difíceis.
+* Salmos 46:1: "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade." Este versículo é uma expressão da confiança em Deus e na segurança que ele oferece.
+* Salmos 118:5: "Na minha angústia clamei ao Senhor; o Senhor me ouviu e me pôs a salvo." Este versículo fala sobre como Deus responde às orações e ajuda seus seguidores em momentos de necessidade.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo é outra expressão da confiança em Deus e de como ele ajuda e sustenta seus seguidores.
+* Filipenses 4:6-7: "Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica com ações de graças; e a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus." Este versículo fala sobre a importância da oração e da gratidão, e como isso pode trazer paz e conforto em momentos difíceis.
+****
+
+[[v21-40-1]]
+
+^<<v21-40-1,1>>^ Ao mestre de canto. Salmo de Davi.^&#42;1^
+
+[[v21-40-2]]
+
+^<<v21-40-2,2>>^ Feliz quem se lembra do necessitado e do pobre, porque no dia da desgraça o Senhor o salvará.
+
+[[v21-40-3]]
+
+^<<v21-40-3,3>>^ O Senhor há de guardá-lo e o conservará vivo, há de torná-lo feliz na terra e não o abandonará à mercê de seus inimigos.
+
+[[v21-40-4]]
+
+^<<v21-40-4,4>>^ O Senhor o assistirá no leito de dores, e na sua doença o reconfortará.
+
+[[v21-40-5]]
+
+^<<v21-40-5,5>>^ Quanto a mim, eu vos digo: “Piedade para mim, Senhor; sarai-me, porque pequei contra vós”.
+
+[[v21-40-6]]
+
+^<<v21-40-6,6>>^ Meus inimigos falam de mim maldizendo: “Quando há de morrer e se extinguir o seu nome?”.
+
+[[v21-40-7]]
+
+^<<v21-40-7,7>>^ Se alguém me vem visitar, fala hipocritamente. Seu coração recolhe calúnias e, saindo fora, se apressa em divulgá-las.
+
+[[v21-40-8]]
+
+^<<v21-40-8,8>>^ Todos os que me odeiam murmuram contra mim, e só procuram fazer-me mal.
+
+[[v21-40-9]]
+
+^<<v21-40-9,9>>^ “Um mal mortal – dizem eles – o atingiu; ei-lo deitado, para não mais se levantar.”
+
+[[v21-40-10]]
+
+^<<v21-40-10,10>>^ Até o próprio amigo em que eu confiava, que partilhava do meu pão, levantou contra mim o calcanhar.^&#42;1^
+
+[[v21-40-11]]
+
+^<<v21-40-11,11>>^ Ao menos vós, Senhor, tende piedade de mim; erguei-me, para eu lhes dar a paga que merecem.
+
+[[v21-40-12]]
+
+^<<v21-40-12,12>>^ Nisso verei que me sois favorável, se meu inimigo não triunfar de mim.
+
+[[v21-40-13]]
+
+^<<v21-40-13,13>>^ Vós, porém, me conservareis incólume, e na vossa presença me poreis para sempre.
+
+[[v21-40-14]]
+
+^<<v21-40-14,14>>^ Bendito seja o Senhor, Deus de Israel, de eternidade em eternidade! Assim seja! Assim seja!^&#42;1^
+
+'''
+
+xref:021-salmos/021-salmos-039.adoc#v21-39-0[&#60; Capítulo Anterior] | <<v21-40-0,Topo>> | xref:021-salmos/021-salmos-041.adoc#v21-41-0[Próximo Capítulo &#62;]

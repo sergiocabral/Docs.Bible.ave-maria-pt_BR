@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v29-16-0]]
+=== Isaías, 16
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 16 de Isaías é uma profecia sobre a destruição de Moabe e a promessa de que, um dia, Deus irá restaurar a glória do povo de Moabe. Os versículos selecionados são os seguintes:
+* Jeremias 48:47: "Contudo, restaurarei a sorte de Moabe nos últimos dias, declara o SENHOR". Este versículo é uma promessa de restauração para Moabe, que é mencionada em Isaías 16.
+* Amós 2:1: "Assim diz o SENHOR: Por três transgressões de Moabe, e por quatro, não retirarei o castigo, porque queimou os ossos do rei de Edom até cal." Este versículo fala sobre o pecado de Moabe e sua punição, o que é relevante para o julgamento de Moabe descrito em Isaías 16.
+* Jeremias 48:36: "Por isso o meu coração geme por causa de Moabe como flautistas, e o meu coração geme como flautas por causa dos homens de Quir-Heres; porque toda a sua riqueza se desvaneceu." Este versículo descreve a lamentação do profeta Jeremias por Moabe, que perdeu sua riqueza e está sofrendo, um tema que também é mencionado em Isaías 16.
+* Ezequiel 25:8-9: "Assim diz o Senhor DEUS: Porquanto Moabe e Seir dizem: Eis que a casa de Judá é como todas as nações, por isso eis que eu abrirei o lado de Moabe desde as cidades, desde as suas cidades fronteiriças, a glória da terra de Bet-Jesimote, Baoal-Meom e Quiriataim." Estes versículos falam sobre a atitude de Moabe em relação a Judá e a punição que eles receberão por causa disso. Essa punição é semelhante à que é descrita em Isaías 16.
+* Jeremias 48:28: "Deixai as cidades, e habitai nas rochas, ó habitantes de Moabe, e sede como a pomba que se aninha no fundo da boca da caverna." Este versículo descreve o desespero dos habitantes de Moabe em meio à destruição de suas cidades, um tema que também é mencionado em Isaías 16.
+****
+
+[[v29-16-1]]
+
+^<<v29-16-1,1>>^ Enviai o cordeiro ao soberano deste país de Selá, pelo deserto, ao monte de Sião.^&#42;1^
+
+[[v29-16-2]]
+
+^<<v29-16-2,2>>^ Como aves espantadas, como ninhada dispersa, tais serão as filhas de Moab na passagem do Arnon.
+
+[[v29-16-3]]
+
+^<<v29-16-3,3>>^ “Dá teu aviso, intervém como árbitro, cobre-nos com tua sombra como a noite, em pleno meio-dia; esconde os exilados, não traias os fugitivos.
+
+[[v29-16-4]]
+
+^<<v29-16-4,4>>^ Deixa morar em tua casa os exilados de Moab, sê o seu refúgio contra o devastador, até que o opressor desapareça, a devastação tenha fim, e o invasor deixe a terra.
+
+[[v29-16-5]]
+
+^<<v29-16-5,5>>^ O trono se consolidará pela bondade; nele sentará constantemente, na casa de Davi, um juiz amante do direito e zeloso da justiça.”
+
+[[v29-16-6]]
+
+^<<v29-16-6,6>>^ “Nós conhecemos o orgulho de Moab, o soberbo, sua arrogância, sua altivez, sua insolência e a perfídia de sua língua.”^&#42;1^
+
+[[v29-16-7]]
+
+^<<v29-16-7,7>>^ Por isso, Moab geme sobre Moab e todos se lamentam. Pelos bolos de uvas de Quir-Hareset, eles suspiram consternados;
+
+[[v29-16-8]]
+
+^<<v29-16-8,8>>^ porque o campo de Hesebon está seco e os soberanos das nações saquearam a vinha de Sabama, cujos sarmentos atingiram Jazer e se perdiam no deserto, cujos rebentos se prolongavam e atravessavam o mar.
+
+[[v29-16-9]]
+
+^<<v29-16-9,9>>^ Por isso, eu choro com Jazer sobre a vinha de Sabama; banho-vos com minhas lágrimas, Hesebon e Elale; porque sobre vossa colheita e vossa messe retumbou o grito do pisoeiro.
+
+[[v29-16-10]]
+
+^<<v29-16-10,10>>^ A alegria e a animação desapareceram dos pomares, nas vinhas não há mais cantos nem vozes alegres; já não se pisa a vindima nas cubas, e o grito do pisoeiro cessou.
+
+[[v29-16-11]]
+
+^<<v29-16-11,11>>^ Por isso, estremeço sobre Moab como uma harpa, e meu coração geme sobre Quir-Hares;
+
+[[v29-16-12]]
+
+^<<v29-16-12,12>>^ por mais que Moab se agite nos lugares altos, por mais que visite seus santuários para orar, nada obterá.
+
+[[v29-16-13]]
+
+^<<v29-16-13,13>>^ Esse é o oráculo que o Senhor pronunciou outrora contra Moab.
+
+[[v29-16-14]]
+
+^<<v29-16-14,14>>^ E agora, ele declara: “Dentro de três anos, contados como os anos de um assalariado, a soberania de Moab, tão considerável, será insignificante, e dela não restará senão um débil vestígio”.
+
+'''
+
+xref:029-isaias/029-isaias-015.adoc#v29-15-0[&#60; Capítulo Anterior] | <<v29-16-0,Topo>> | xref:029-isaias/029-isaias-017.adoc#v29-17-0[Próximo Capítulo &#62;]

@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v21-113-0]]
+=== Salmos, 113
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 113 é um hino de louvor a Deus, que exalta sua grandeza e misericórdia para com seu povo. Os versículos selecionados abaixo destacam a grandeza de Deus e seu cuidado pelos necessitados:
+* Isaías 57:15: "Porque assim diz o Alto e o Excelso, que habita na eternidade e cujo nome é santo: Habito no alto e santo lugar, mas habito também com o contrito e abatido de espírito, para vivificar o espírito dos abatidos e vivificar o coração dos contritos." Este versículo destaca a soberania de Deus e seu cuidado pelos necessitados e contritos de coração.
+* Salmos 72:12-13: "Porque ele livrará o necessitado quando clamar e o aflito que não tem quem o socorra. Ele se compadecerá do pobre e do necessitado e salvará as almas dos necessitados." Este versículo destaca a bondade de Deus para com os necessitados e aflitos.
+* Salmos 103:13-14: "Como um pai se compadece de seus filhos, assim o Senhor se compadece daqueles que o temem. Pois ele sabe do que somos feitos; lembra-se de que somos pó." Este versículo destaca a misericórdia de Deus para com seu povo e sua compaixão como um pai para com seus filhos.
+* Salmos 116:5-6: "O Senhor é compassivo e justo; sim, misericordioso é o nosso Deus. O Senhor guarda os simples; estava eu prostrado, e ele me salvou." Este versículo destaca a misericórdia e justiça de Deus para com seu povo, e seu cuidado pelos simples e necessitados.
+* Salmos 145:8-9: "Compaixão e piedade é o Senhor, tardio em irar-se e grande em amor. O Senhor é bom para com todos; sua compaixão alcança todas as suas criaturas." Este versículo destaca a compaixão e amor de Deus para com todas as suas criaturas, e sua bondade para com todos.
+****
+
+[[v21-113-1]]
+
+^<<v21-113-1,1>>^ Aleluia. Quando Israel saiu do Egito, e a casa de Jacó se apartou de um povo bárbaro,
+
+[[v21-113-2]]
+
+^<<v21-113-2,2>>^ a terra de Judá tornou-se o santuário do Senhor, e Israel seu reino.
+
+[[v21-113-3]]
+
+^<<v21-113-3,3>>^ O mar, à vista disso, fugiu, o Jordão volveu atrás.
+
+[[v21-113-4]]
+
+^<<v21-113-4,4>>^ Os montes saltaram como carneiros; as colinas, como cordeiros.^&#42;1^
+
+[[v21-113-5]]
+
+^<<v21-113-5,5>>^ Que tens, ó mar, para assim fugires? E tu, Jordão, para retrocederes para a tua fonte?
+
+[[v21-113-6]]
+
+^<<v21-113-6,6>>^ Ó montes, por que saltastes como carneiros, e vós, colinas, como cordeiros?
+
+[[v21-113-7]]
+
+^<<v21-113-7,7>>^ Ante a face de Deus, treme, ó terra,
+
+[[v21-113-8]]
+
+^<<v21-113-8,8>>^ por quem o rochedo se mudou em lençol de água, e a pedra em fonte de água viva.
+
+[[v21-113-9]]
+
+^<<v21-113-9,9>>^ (1) Não a nós, Senhor, não a nós, mas ao vosso nome dai glória, por amor de vossa misericórdia e fidelidade.
+
+[[v21-113-10]]
+
+^<<v21-113-10,10>>^ (2) Por que diriam as nações pagãs: “Onde está o Deus deles?”.
+
+[[v21-113-11]]
+
+^<<v21-113-11,11>>^ (3) Nosso Deus está nos céus; ele faz tudo o que lhe apraz.
+
+[[v21-113-12]]
+
+^<<v21-113-12,12>>^ (4) Quanto a seus ídolos de ouro e prata, são eles simples obras da mão dos homens.
+
+[[v21-113-13]]
+
+^<<v21-113-13,13>>^ (5) Têm boca, mas não falam, olhos e não podem ver,
+
+[[v21-113-14]]
+
+^<<v21-113-14,14>>^ (6) têm ouvidos, mas não ouvem; nariz e não podem cheirar.
+
+[[v21-113-15]]
+
+^<<v21-113-15,15>>^ (7) Têm mãos, mas não apalpam; pés e não podem andar, sua garganta não emite som algum.
+
+[[v21-113-16]]
+
+^<<v21-113-16,16>>^ (8) Semelhantes a eles sejam os que os fabricam e quantos neles põem sua confiança.
+
+[[v21-113-17]]
+
+^<<v21-113-17,17>>^ (9) Mas Israel, ao contrário, confia no Senhor: ele é o seu amparo e o seu escudo.
+
+[[v21-113-18]]
+
+^<<v21-113-18,18>>^ (10) Aarão confia no Senhor: ele é o seu amparo e o seu escudo.
+
+[[v21-113-19]]
+
+^<<v21-113-19,19>>^ (11) Confiam no Senhor os que temem o Senhor: ele é o seu amparo e o seu escudo.
+
+[[v21-113-20]]
+
+^<<v21-113-20,20>>^ (12) O Senhor se lembra de nós e nos dará a sua bênção; abençoará a casa de Israel, abençoará a casa de Aarão,
+
+[[v21-113-21]]
+
+^<<v21-113-21,21>>^ (13) abençoará os que temem ao Senhor, os pequenos como os grandes.
+
+[[v21-113-22]]
+
+^<<v21-113-22,22>>^ (14) O Senhor há de vos multiplicar, vós e vossos filhos.
+
+[[v21-113-23]]
+
+^<<v21-113-23,23>>^ (15) Sede os benditos do Senhor, que fez o céu e a terra.
+
+[[v21-113-24]]
+
+^<<v21-113-24,24>>^ (16) O céu é o céu do Senhor, mas a terra ele a deu aos filhos de Adão.
+
+[[v21-113-25]]
+
+^<<v21-113-25,25>>^ (17) Não são os mortos que louvam o Senhor, nem nenhum daqueles que descem aos lugares infernais.
+
+[[v21-113-26]]
+
+^<<v21-113-26,26>>^ (18) Mas somos nós que bendizemos o Senhor, agora e para sempre.
+
+'''
+
+xref:021-salmos/021-salmos-112.adoc#v21-112-0[&#60; Capítulo Anterior] | <<v21-113-0,Topo>> | xref:021-salmos/021-salmos-114.adoc#v21-114-0[Próximo Capítulo &#62;]

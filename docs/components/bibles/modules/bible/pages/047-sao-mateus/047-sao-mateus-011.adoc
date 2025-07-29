@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v47-11-0]]
+=== São Mateus, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 11 de São Mateus apresenta a continuação do ministério de Jesus, que começa a enfrentar a incredulidade de algumas pessoas e a rejeição de outras. Ele também envia seus discípulos para realizar milagres e pregar o evangelho. Além disso, Jesus se dirige diretamente ao povo, chamando-os para que venham a Ele e encontrem descanso para suas almas. Abaixo estão cinco versículos relacionados com os temas abordados em São Mateus 11:
+* Salmo 86:5: "Pois tu, Senhor, és bom, e pronto para perdoar, e abundante em benignidade para com todos os que te invocam." Jesus convida as pessoas cansadas e sobrecarregadas a virem a Ele e encontrar descanso em sua graça e bondade.
+* Isaías 55:1: "Ó vós, todos os que tendes sede, vinde às águas, e os que não tendes dinheiro, vinde, comprai, e comei; sim, vinde, comprai, sem dinheiro e sem preço, vinho e leite." Jesus oferece a todos, independentemente da sua situação financeira ou social, a oportunidade de encontrar vida e satisfação nele.
+* João 14:6: "Disse-lhe Jesus: Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim." Jesus afirma que Ele é a única maneira de se chegar a Deus e encontrar verdadeira vida e paz.
+* Mateus 11:28-29: "Vinde a mim, todos os que estai cansados e oprimidos, e eu vos aliviarei. Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas." Jesus convida as pessoas a se aproximarem dele, apegando-se a ele e aprendendo dele, para encontrar descanso e paz em suas almas.
+* Lucas 9:23: "Dizia a todos: Se alguém quer vir após mim, a si mesmo se negue, dia a dia tome a sua cruz, e siga-me." Jesus chama as pessoas para deixar tudo e segui-lo, assumindo sua cruz diariamente e encontrando vida em união com Ele.
+****
+
+[[v47-11-1]]
+
+^<<v47-11-1,1>>^ Após ter dado instruções aos seus doze discípulos, Jesus partiu para ensinar e pregar nas cidades daquela região.
+
+[[v47-11-2]]
+
+^<<v47-11-2,2>>^ Tendo João, em sua prisão, ouvido falar das obras de Cristo, mandou-lhe dizer pelos seus discípulos:
+
+[[v47-11-3]]
+
+^<<v47-11-3,3>>^ “Sois vós aquele que deve vir, ou devemos esperar por outro?”.
+
+[[v47-11-4]]
+
+^<<v47-11-4,4>>^ Respondeu-lhes Jesus: “Ide e contai a João o que ouvistes e o que vistes:
+
+[[v47-11-5]]
+
+^<<v47-11-5,5>>^ os cegos veem, os coxos andam, os leprosos são limpos, os surdos ouvem, os mortos ressuscitam, o Evangelho é anunciado aos pobres...
+
+[[v47-11-6]]
+
+^<<v47-11-6,6>>^ Bem-aventurado aquele para quem eu não for ocasião de queda!”.
+
+[[v47-11-7]]
+
+^<<v47-11-7,7>>^ Tendo eles partido, disse Jesus à multidão a respeito de João: “Que fostes ver no deserto? Um caniço agitado pelo vento?^&#42;1^
+
+[[v47-11-8]]
+
+^<<v47-11-8,8>>^ Que fostes ver, então? Um homem vestido com roupas luxuosas? Mas os que estão revestidos de tais roupas vivem nos palácios dos reis.
+
+[[v47-11-9]]
+
+^<<v47-11-9,9>>^ Então, por que fostes para lá? Para ver um profeta? Sim, digo-vos eu, mais que um profeta.
+
+[[v47-11-10]]
+
+^<<v47-11-10,10>>^ É dele que está escrito: Eis que eu envio meu mensageiro diante de ti para te preparar o caminho (Ml 3,1).
+
+[[v47-11-11]]
+
+^<<v47-11-11,11>>^ Em verdade vos digo: entre os filhos das mulheres, não surgiu outro maior que João Batista. No entanto, o menor no Reino dos Céus é maior do que ele.
+
+[[v47-11-12]]
+
+^<<v47-11-12,12>>^ Desde a época de João Batista até o presente, o Reino dos Céus é arrebatado à força e são os violentos que o conquistam.^&#42;1^
+
+[[v47-11-13]]
+
+^<<v47-11-13,13>>^ Porque os profetas e a Lei tiveram a palavra até João.
+
+[[v47-11-14]]
+
+^<<v47-11-14,14>>^ E, se quereis compreender, é ele o Elias que devia voltar.^&#42;1^
+
+[[v47-11-15]]
+
+^<<v47-11-15,15>>^ Quem tem ouvidos ouça.
+
+[[v47-11-16]]
+
+^<<v47-11-16,16>>^ A quem hei de comparar esta geração? É semelhante a meninos sentados nas praças que gritam aos seus companheiros:
+
+[[v47-11-17]]
+
+^<<v47-11-17,17>>^ Tocamos a flauta e não dançais, cantamos uma lamentação e não chorais.
+
+[[v47-11-18]]
+
+^<<v47-11-18,18>>^ João veio; ele não bebia e não comia, e disseram: Ele está possesso de um demônio.
+
+[[v47-11-19]]
+
+^<<v47-11-19,19>>^ O Filho do Homem vem, come e bebe, e dizem: É um comilão e beberrão, amigo dos publicanos e dos devassos. Mas a sabedoria foi justificada por seus filhos”.
+
+[[v47-11-20]]
+
+^<<v47-11-20,20>>^ Depois Jesus começou a censurar as cidades, onde tinha feito grande número de seus milagres, por terem recusado arrepender-se:
+
+[[v47-11-21]]
+
+^<<v47-11-21,21>>^ “Ai de ti, Corozaim! Ai de ti, Betsaida! Porque, se tivessem sido feitos em Tiro e em Sidônia os milagres que foram feitos em vosso meio, há muito tempo elas se teriam arrependido sob o cilício e a cinza.
+
+[[v47-11-22]]
+
+^<<v47-11-22,22>>^ Por isso, vos digo: no dia do juízo, haverá menor rigor para Tiro e para Sidônia que para vós!
+
+[[v47-11-23]]
+
+^<<v47-11-23,23>>^ E tu, Cafarnaum, serás elevada até o céu? Não! Serás atirada até o inferno! Porque, se Sodoma tivesse visto os milagres que foram feitos dentro dos teus muros, subsistiria até este dia.
+
+[[v47-11-24]]
+
+^<<v47-11-24,24>>^ Por isso, te digo: no dia do juízo, haverá menor rigor para Sodoma do que para ti!”.
+
+[[v47-11-25]]
+
+^<<v47-11-25,25>>^ Por aquele tempo, Jesus pronunciou estas palavras: “Eu te bendigo, Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e entendidos e as revelaste aos pequenos.
+
+[[v47-11-26]]
+
+^<<v47-11-26,26>>^ Sim, Pai, eu te bendigo, porque assim foi do teu agrado.
+
+[[v47-11-27]]
+
+^<<v47-11-27,27>>^ Todas as coisas me foram dadas por meu Pai; ninguém conhece o Filho, senão o Pai, e ninguém conhece o Pai, senão o Filho e aquele a quem o Filho quiser revelá-lo.
+
+[[v47-11-28]]
+
+^<<v47-11-28,28>>^ Vinde a mim, vós todos que estais aflitos sob o fardo, e eu vos aliviarei.
+
+[[v47-11-29]]
+
+^<<v47-11-29,29>>^ Tomai meu jugo sobre vós e recebei minha doutrina, porque eu sou manso e humilde de coração e achareis o repouso para as vossas almas.
+
+[[v47-11-30]]
+
+^<<v47-11-30,30>>^ Porque meu jugo é suave e meu peso é leve”.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-010.adoc#v47-10-0[&#60; Capítulo Anterior] | <<v47-11-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-012.adoc#v47-12-0[Próximo Capítulo &#62;]

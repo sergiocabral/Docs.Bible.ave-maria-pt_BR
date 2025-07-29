@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v73-2-0]]
+=== Apocalipse, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Apocalipse 2 é um capítulo da Bíblia que contém cartas escritas por Jesus Cristo para sete igrejas na Ásia Menor. Cada carta começa com uma mensagem específica para a igreja e termina com a frase "Quem tem ouvidos, ouça o que o Espírito diz às igrejas". Essas cartas abordam temas como a fidelidade, a perseverança, a correção, a tolerância e a recompensa.
+* Hebreus 3:14: "Porque nos tornamos participantes de Cristo, se é que guardamos firme até ao fim a confiança que desde o princípio tivemos" A carta aos Hebreus exorta os crentes a perseverarem em sua fé e confiança em Jesus Cristo até o fim. Isso está relacionado com a mensagem de Apocalipse 2, que incentiva as igrejas a permanecerem fiéis e perseverantes.
+* 2 Pedro 2:1: "Assim como, no meio do povo, surgiram falsos profetas, assim também haverá entre vós falsos mestres, os quais introduzirão, dissimuladamente, heresias destruidoras, até ao ponto de renegarem o Soberano Senhor que os resgatou, trazendo sobre si mesmos repentina destruição." A segunda carta de Pedro alerta sobre a existência de falsos mestres que introduzem heresias perigosas. Isso está relacionado com a mensagem de Apocalipse 2, que repreende as igrejas por tolerarem falsos mestres.
+* Efésios 4:15: "Mas, seguindo a verdade em amor, cresçamos em tudo naquele que é a cabeça, Cristo" A carta aos Efésios exorta os crentes a seguirem a verdade em amor e a crescerem em Cristo. Isso está relacionado com a mensagem de Apocalipse 2, que incentiva as igrejas a se arrependerem e voltarem ao caminho correto, a fim de receberem recompensas eternas.
+* 1 Coríntios 9:27: "Mas esmurro o meu corpo e o reduzo à escravidão, para que, tendo pregado aos outros, não venha eu mesmo a ser desqualificado." O apóstolo Paulo fala sobre a necessidade de disciplina e autocontrole em sua vida. Isso está relacionado com a mensagem de Apocalipse 2, que repreende as igrejas por não se corrigirem e se disciplinarem adequadamente.
+* Colossenses 3:23-24: "Tudo quanto fizerdes, fazei-o de todo o coração, como para o Senhor e não para homens, cientes de que recebereis do Senhor a recompensa da herança. A Cristo, o Senhor, é que estais servindo." A carta aos Colossenses incentiva os crentes a servirem ao Senhor com todo o coração, cientes de que receberão recompensas. Isso está relacionado com a mensagem de Apocalipse 2, que promete recompensas aos que perseverarem e superarem as provações.
+****
+
+[[v73-2-1]]
+
+^<<v73-2-1,1>>^ “Ao anjo da igreja de Éfeso, escreve: Eis o que diz aquele que segura as sete estrelas na sua mão direita, aquele que anda pelo meio dos sete candelabros de ouro.
+
+[[v73-2-2]]
+
+^<<v73-2-2,2>>^ Conheço tuas obras, teu trabalho e tua paciência: não podes suportar os maus, puseste à prova os que se dizem apóstolos e não o são e os achaste mentirosos.
+
+[[v73-2-3]]
+
+^<<v73-2-3,3>>^ Tens perseverança, sofreste pelo meu nome e não desanimaste.
+
+[[v73-2-4]]
+
+^<<v73-2-4,4>>^ Mas tenho contra ti que arrefeceste o teu primeiro amor.
+
+[[v73-2-5]]
+
+^<<v73-2-5,5>>^ Lembra-te, pois, donde caíste. Arrepende-te e retorna às tuas primeiras obras. Senão, virei a ti e removerei o teu candelabro do seu lugar, caso não te arrependas.
+
+[[v73-2-6]]
+
+^<<v73-2-6,6>>^ Mas isto tens de bem: detestas as obras dos nicolaítas, como eu as detesto.^&#42;1^
+
+[[v73-2-7]]
+
+^<<v73-2-7,7>>^ Quem tiver ouvidos, ouça o que o Espírito diz às igrejas: Ao vencedor darei de comer (do fruto) da árvore da vida, que se acha no paraíso de Deus”.^&#42;1^
+
+[[v73-2-8]]
+
+^<<v73-2-8,8>>^ “Ao anjo da igreja de Esmirna, escreve: Eis o que diz o Primeiro e o Último, que foi morto e retomou a vida.
+
+[[v73-2-9]]
+
+^<<v73-2-9,9>>^ Eu conheço a tua angústia e a tua pobreza – ainda que sejas rico – e também as difamações daqueles que se dizem judeus e não o são; são apenas uma sinagoga de Satanás.
+
+[[v73-2-10]]
+
+^<<v73-2-10,10>>^ Nada temas ante o que hás de sofrer. Por estes dias o demônio vai lançar alguns de vós na prisão, para pôr-vos à prova. Tereis tribulações durante dez dias. Sê fiel até a morte e te darei a coroa da vida.^&#42;1^
+
+[[v73-2-11]]
+
+^<<v73-2-11,11>>^ Quem tiver ouvidos, ouça o que o Espírito diz às igrejas: O vencedor não sofrerá dano algum da segunda morte.”^&#42;1^
+
+[[v73-2-12]]
+
+^<<v73-2-12,12>>^ “Ao anjo da igreja de Pérgamo, escreve: Eis o que diz aquele que tem a espada afiada de dois gumes.
+
+[[v73-2-13]]
+
+^<<v73-2-13,13>>^ Sei onde habitas: aí se acha o trono de Satanás. Mas tu te apegaste firmemente ao meu nome e não renegaste a minha fé, mesmo naqueles dias em que minha fiel testemunha Antipas foi morto entre vós, onde Satanás habita.
+
+[[v73-2-14]]
+
+^<<v73-2-14,14>>^ Todavia, tenho alguma coisa contra ti: é que tens aí sequazes da doutrina de Balaão, o qual ensinou Balac a fazer tropeçar os filhos de Israel, para levá-los a comer carne imolada aos ídolos e praticar imundícies.^&#42;1^
+
+[[v73-2-15]]
+
+^<<v73-2-15,15>>^ Tens também sequazes da doutrina dos nicolaítas.
+
+[[v73-2-16]]
+
+^<<v73-2-16,16>>^ Arrepende-te, pois; senão virei em breve a ti e combaterei contra eles com a espada da minha boca.
+
+[[v73-2-17]]
+
+^<<v73-2-17,17>>^ Quem tiver ouvidos, ouça o que o Espírito diz às igrejas: Ao vencedor darei o maná escondido e lhe entregarei uma pedra branca, na qual está escrito um nome novo que ninguém conhece, senão aquele que o receber.”^&#42;1^
+
+[[v73-2-18]]
+
+^<<v73-2-18,18>>^ “Ao anjo da igreja de Tiatira, escreve: Eis o que diz o Filho de Deus, que tem os olhos como chamas de fogo e os pés semelhantes ao fino bronze.
+
+[[v73-2-19]]
+
+^<<v73-2-19,19>>^ Conheço tuas obras, teu amor, tua fidelidade, tua generosidade, tua paciência e persistência; e as tuas últimas obras, que excedem as primeiras.
+
+[[v73-2-20]]
+
+^<<v73-2-20,20>>^ Mas tenho contra ti que permites a Jezabel, mulher que se diz profetisa, seduzir meus servos e ensinar-lhes a praticar imundícies e comer carne imolada aos ídolos.^&#42;1^
+
+[[v73-2-21]]
+
+^<<v73-2-21,21>>^ Eu lhe dei tempo para arrepender-se, mas não quer arrepender-se de suas imundícies.
+
+[[v73-2-22]]
+
+^<<v73-2-22,22>>^ Desta vez a lançarei num leito, e com ela os cúmplices de seus adultérios para aí sofrerem muito, se não se arrependerem das suas obras.
+
+[[v73-2-23]]
+
+^<<v73-2-23,23>>^ Farei perecer pela peste os seus filhos, e todas as igrejas hão de saber que eu sou aquele que sonda os rins e os corações, porque darei a cada um de vós segundo as suas obras.
+
+[[v73-2-24]]
+
+^<<v73-2-24,24>>^ A vós, porém, e aos demais de Tiatira que não seguis esta doutrina e não conheceis (como dizem) ‘as profundezas de Satanás’, não imporei outro fardo.
+
+[[v73-2-25]]
+
+^<<v73-2-25,25>>^ Mas guardai o que tendes até que eu venha.
+
+[[v73-2-26]]
+
+^<<v73-2-26,26>>^ Então ao vencedor, ao que praticar minhas obras até o fim, eu lhe darei poder sobre as nações pagãs.
+
+[[v73-2-27]]
+
+^<<v73-2-27,27>>^ Ele as regerá com cetro de ferro, como se quebra um vaso de argila,
+
+[[v73-2-28]]
+
+^<<v73-2-28,28>>^ assim como eu mesmo recebi o poder de meu Pai; e eu lhe darei a Estrela da manhã.^&#42;1^
+
+[[v73-2-29]]
+
+^<<v73-2-29,29>>^ Quem tiver ouvidos, ouça o que o Espírito diz às igrejas.”
+
+'''
+
+xref:073-apocalipse/073-apocalipse-001.adoc#v73-1-0[&#60; Capítulo Anterior] | <<v73-2-0,Topo>> | xref:073-apocalipse/073-apocalipse-003.adoc#v73-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v33-4-0]]
+=== Ezequiel, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 4 narra um episódio no qual Deus ordena que o profeta faça uma representação simbólica do cerco e da queda de Jerusalém. Ezequiel é instruído a deitar-se de lado por um número determinado de dias para simbolizar os anos de punição que a cidade enfrentaria. O capítulo também descreve a dieta restrita que Deus ordena que Ezequiel siga durante esse tempo de punição. Abaixo estão cinco versículos relacionados aos temas abordados em Ezequiel 4:
+* Levítico 26:18-19: "E se, ainda assim, não me ouvirdes, aumentarei sete vezes mais as pragas sobre vós segundo os vossos pecados. E farei quebrar o orgulho do vosso poder, e tornarei o vosso céu como ferro, e a vossa terra como bronze." Este versículo destaca a relação entre a desobediência e a punição de Deus, que é um tema central em Ezequiel 4.
+* Isaías 20:2-3: "Ao mesmo tempo falou o Senhor por intermédio de Isaías, filho de Amós, dizendo: Vai, solta o cilício de teus lombos e descalça os sapatos dos teus pés. E ele assim o fez, indo nu e descalço. E disse o Senhor: Assim como o meu servo Isaías foi nu e descalço por três anos, como sinal e prodígio contra o Egito e contra a Etiópia..." Este versículo faz uma conexão com o simbolismo da nudez e da falta de sapatos que Ezequiel é ordenado a seguir, como uma forma de sinalizar a punição que Jerusalém enfrentaria.
+* 2 Reis 25:1-3: "E sucedeu que, no nono ano do seu reinado, no décimo mês, aos dez do mês, veio Nabucodonosor, rei de Babilônia, ele e todo o seu exército, contra Jerusalém, e acamparam contra ela; e levantaram contra ela trincheiras em redor. E esteve a cidade cercada até ao undécimo ano do rei Zedequias. Aos nove do mês, quando a fome era forte na cidade, não havia pão para o povo da terra." Este versículo descreve o cerco de Jerusalém pelos babilônios, um evento histórico que é simbolizado na representação que Ezequiel é ordenado a fazer.
+* Deuteronômio 28:53: "Então, comerás o fruto do teu ventre, a carne de teus filhos e de tuas filhas que o Senhor, teu Deus, te deu, no cerco e no aperto com que os teus inimigos te apertarão." Este versículo destaca o tema da fome e da escassez de alimentos que Ezequiel é ordenado a experimentar como parte de sua representação simbólica do cerco de Jerusalém.
+* Jeremias 14:15: “Portanto, assim diz o SENHOR acerca dos profetas que profetizam em meu nome, sem que eu os tenha enviado, e que dizem: ‘Não haverá espada nem fome nesta terra’: à espada e à fome serão consumidos esses profetas.” O capítulo 4 de Ezequiel trata da visão de Deus instruindo o profeta a representar o cerco de Jerusalém com atos simbólicos, como deitar-se de lado por um número de dias específico. Os versículos selecionados têm relação com a profecia, que é uma das principais mensagens de Ezequiel. Em Jeremias 14:15, há uma condenação aos profetas que falam em nome de Deus sem terem sido enviados por Ele, anunciando falsas palavras de esperança, o que pode ser interpretado como uma advertência para que os profetas sejam fiéis em sua mensagem.
+****
+
+[[v33-4-1]]
+
+^<<v33-4-1,1>>^ “Filho do homem, toma um tijolo, põe-no diante de ti, e desenha nele a cidade de Jerusalém.^&#42;1^
+
+[[v33-4-2]]
+
+^<<v33-4-2,2>>^ Farás contra ela trabalhos de assédio, contra ela construirás terraços e trincheiras, estabelecerás campos e prepararás aríetes.
+
+[[v33-4-3]]
+
+^<<v33-4-3,3>>^ Tomarás em seguida uma frigideira de ferro e a colocarás como uma muralha de ferro entre ti e a cidade. Em seguida, voltarás contra ela a tua face; ela será atacada e farás então o assédio. Será isto um símbolo para a casa de Israel.
+
+[[v33-4-4]]
+
+^<<v33-4-4,4>>^ Deita-te sobre o lado esquerdo e toma sobre ti a iniquidade da casa de Israel; todo o tempo em que ficares assim deitado levarás sua iniquidade.
+
+[[v33-4-5]]
+
+^<<v33-4-5,5>>^ E eu fixo o número dos anos do seu pecado, segundo o número de dias que te concedo, trezentos e noventa dias, durante os quais carregarás a iniquidade da casa de Israel.^&#42;1^
+
+[[v33-4-6]]
+
+^<<v33-4-6,6>>^ Quando esse período estiver terminado, tu te deitarás sobre o lado direito, para de novo levar a iniquidade da casa de Judá durante quarenta dias; cada dia que te concedo corresponde a um ano.
+
+[[v33-4-7]]
+
+^<<v33-4-7,7>>^ Voltarás a tua face e estenderás o teu braço nu para Jerusalém sitiada, profetizando contra ela.
+
+[[v33-4-8]]
+
+^<<v33-4-8,8>>^ Eu te ligarei com cordas, para que não possas volver-te de um lado para o outro, até que tenhas chegado ao termo dos dias de tua reclusão.
+
+[[v33-4-9]]
+
+^<<v33-4-9,9>>^ Tomarás trigo, cevada, favas, lentilhas, milho e aveia, que guardarás em um mesmo recipiente para fazeres o teu pão. É isso que comerás durante todo o tempo que estiveres deitado, ou seja, por trezentos e noventa dias.
+
+[[v33-4-10]]
+
+^<<v33-4-10,10>>^ O peso desse alimento que comerás por dia de vinte e quatro horas será de vinte siclos.^&#42;1^
+
+[[v33-4-11]]
+
+^<<v33-4-11,11>>^ A ração de água que irás beber será reduzida a um sexto de hin por vinte e quatro horas.
+
+[[v33-4-12]]
+
+^<<v33-4-12,12>>^ Tomarás esse alimento sob a forma de torta de cevada, cozida em fogo de excrementos humanos, e à sua vista.^&#42;1^
+
+[[v33-4-13]]
+
+^<<v33-4-13,13>>^ É assim” – falou-me o Senhor – “que comerão os israelitas os alimentos impuros por entre as nações onde eu os dispersar.”
+
+[[v33-4-14]]
+
+^<<v33-4-14,14>>^ “Ah! Senhor Javé” – respondi –, “nunca estive manchado. Desde minha infância até hoje, jamais comi animal morto ou despedaçado; nenhuma carne impura entrou-me em minha boca.”^&#42;1^
+
+[[v33-4-15]]
+
+^<<v33-4-15,15>>^ “Pois bem” – disse-me –, “eu te permito trocar os excrementos humanos por esterco de vaca, sobre o qual farás cozer o teu pão.”
+
+[[v33-4-16]]
+
+^<<v33-4-16,16>>^ Em seguida ajuntou: “Filho do homem, vou desesperar Jerusalém de fome. Aí se comerá, na angústia, um pão rigorosamente pesado, se beberá, no meio do assombro, uma água racionada,^&#42;1^
+
+[[v33-4-17]]
+
+^<<v33-4-17,17>>^ e, na penúria de pão e água, virão a esmorecer uns e outros e perecerão por causa da sua iniquidade”.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-003.adoc#v33-3-0[&#60; Capítulo Anterior] | <<v33-4-0,Topo>> | xref:033-ezequiel/033-ezequiel-005.adoc#v33-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v1-13-0]]
+=== Gênesis, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 13 conta a história de Abrão e Ló se separando, depois de terem se tornado muito ricos em gado e bens. Abrão ofereceu a Ló a escolha do lugar onde eles se estabeleceriam, e Ló escolheu a terra fértil do vale do Jordão. Aqui estão cinco versículos relacionados com os temas abordados em Gênesis 13:
+* Gênesis 12:7: "O Senhor apareceu a Abrão e disse: 'À sua descendência darei esta terra.' Ali Abrão construiu um altar dedicado ao Senhor, que lhe havia aparecido." Este versículo fala da promessa de Deus a Abrão de dar-lhe a terra em que ele vivia. A promessa é cumprida mais tarde quando seus descendentes conquistam a Terra Prometida.
+* Gênesis 15:1: "Depois disso, a palavra do Senhor veio a Abrão numa visão: 'Não tenha medo, Abrão! Eu sou o seu escudo; grande será a sua recompensa!'" Este versículo fala de Deus encorajando Abrão e prometendo protegê-lo. Essa promessa de proteção é importante, especialmente depois que Abrão se separa de Ló e está sozinho.
+* Salmos 37:4: "Deleite-se no Senhor, e ele atenderá aos desejos do seu coração." Este versículo fala da importância de confiar em Deus e encontrar alegria nele. Isso é relevante para a história de Abrão, que confiou em Deus para guiar seu caminho e protegê-lo.
+* Provérbios 18:24: "Há amigos que levam à ruína, e há amigos mais chegados do que um irmão." Este versículo fala da importância de escolher bons amigos. Na história de Abrão e Ló, vemos que a escolha de Ló de se estabelecer no vale do Jordão acabou sendo ruim para ele e sua família.
+* Mateus 6:33: "Buscai em primeiro lugar o Reino de Deus e a sua justiça, e todas estas coisas vos serão acrescentadas." Este versículo fala da importância de colocar Deus em primeiro lugar em nossas vidas. Isso é relevante para a história de Abrão e Ló, pois Abrão colocou sua confiança em Deus ao deixar a escolha da terra para Ló.
+****
+
+[[v1-13-1]]
+
+^<<v1-13-1,1>>^ Abrão voltou do Egito para Negueb com sua mulher e tudo o que lhe pertencia. Ló o acompanhava.
+
+[[v1-13-2]]
+
+^<<v1-13-2,2>>^ Abrão era muito rico em rebanhos, prata e ouro.
+
+[[v1-13-3]]
+
+^<<v1-13-3,3>>^ Ele foi de acampamento em acampamento de Negueb até Betel, ao lugar onde já uma vez armara sua tenda, entre Betel e Hai,
+
+[[v1-13-4]]
+
+^<<v1-13-4,4>>^ no lugar onde se encontrava o altar que havia edificado antes. Ali invocou o nome do Senhor.
+
+[[v1-13-5]]
+
+^<<v1-13-5,5>>^ Ló, que acompanhava Abrão, possuía também ovelhas, bois e tendas,
+
+[[v1-13-6]]
+
+^<<v1-13-6,6>>^ e a região não lhes bastava para aí se estabelecerem juntos.
+
+[[v1-13-7]]
+
+^<<v1-13-7,7>>^ Por isso, houve uma contenda entre os pastores dos rebanhos de Abrão e os dos rebanhos de Ló. Os cananeus e os ferezeus habitavam então naquela terra.
+
+[[v1-13-8]]
+
+^<<v1-13-8,8>>^ Abrão disse a Ló: “Rogo-te que não haja discórdia entre mim e ti, nem entre nossos pastores, pois somos irmãos.
+
+[[v1-13-9]]
+
+^<<v1-13-9,9>>^ Eis aí toda a terra diante de ti; separemo-nos. Se fores para a esquerda, eu irei para a direita; se fores para a direita, eu irei para a esquerda”.
+
+[[v1-13-10]]
+
+^<<v1-13-10,10>>^ Ló, levantando os olhos, viu que toda a planície do Jordão era regada de água (o Senhor não tinha ainda destruído Sodoma e Gomorra) como o jardim do Senhor, como a terra do Egito ao lado de Tsoar.
+
+[[v1-13-11]]
+
+^<<v1-13-11,11>>^ Ló escolheu toda a planície do Jordão e foi para o oriente. Foi assim que se separaram um do outro.
+
+[[v1-13-12]]
+
+^<<v1-13-12,12>>^ Abrão fixou-se na terra de Canaã, e Ló nas cidades da planície, onde levantou suas tendas até Sodoma.
+
+[[v1-13-13]]
+
+^<<v1-13-13,13>>^ Ora, os habitantes de Sodoma eram perversos e grandes pecadores diante do Senhor.
+
+[[v1-13-14]]
+
+^<<v1-13-14,14>>^ O Senhor disse a Abrão depois que Ló o deixou: “Levanta os olhos, e do lugar onde estás, olha para o norte e para o sul, para o oriente e para o ocidente.
+
+[[v1-13-15]]
+
+^<<v1-13-15,15>>^ Toda a terra que vês, eu a darei a ti e aos teus descendentes para sempre.
+
+[[v1-13-16]]
+
+^<<v1-13-16,16>>^ Tornarei tua posteridade tão numerosa como o pó da terra: se alguém puder contar os grãos do pó da terra, então poderá contar a tua posteridade.
+
+[[v1-13-17]]
+
+^<<v1-13-17,17>>^ Levanta-te, percorre a terra em toda a sua extensão, porque eu te hei de dar”.
+
+[[v1-13-18]]
+
+^<<v1-13-18,18>>^ Abrão levantou as suas tendas e veio fixar-se no vale dos carvalhos de Mambré, que estão em Hebron; e ali edificou um altar ao Senhor.
+
+'''
+
+xref:001-genesis/001-genesis-012.adoc#v1-12-0[&#60; Capítulo Anterior] | <<v1-13-0,Topo>> | xref:001-genesis/001-genesis-014.adoc#v1-14-0[Próximo Capítulo &#62;]

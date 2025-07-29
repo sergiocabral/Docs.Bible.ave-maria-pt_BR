@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v11-9-0]]
+=== I Reis, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Reis 9 narra a resposta do Senhor a Salomão após a conclusão da construção do templo e do palácio. O capítulo trata principalmente da aliança entre Deus e Salomão, bem como do cumprimento das promessas que Deus fez a Davi. Além disso, também menciona a relação comercial entre Salomão e Hirão, rei de Tiro.
+* 2 Crônicas 7:14: "Se o meu povo, que se chama pelo meu nome, se humilhar, orar e buscar a minha face e se afastar dos seus maus caminhos, dos céus o ouvirei, perdoarei o seu pecado e curarei a sua terra." Este versículo fala da aliança entre Deus e Salomão, e destaca que, se o povo se humilhar, orar e buscar a face de Deus, Ele ouvirá e perdoará seus pecados.
+* Salmos 72:10: "Que os reis de Társis e das regiões litorâneas tragam-lhe tributo; que os reis de Sabá e de Sebá lhe ofereçam presentes." Este versículo se relaciona com a relação comercial entre Salomão e Hirão, e destaca que outros reis deveriam oferecer tributos e presentes a Salomão como forma de respeito e admiração.
+* Isaías 2:4: "Ele julgará entre as nações e resolverá contendas de muitos povos. De suas espadas farão arados, e de suas lanças, foices. Uma nação não levantará a espada contra outra, nem mais se dedicarão à guerra." Este versículo se relaciona com a aliança entre Deus e Salomão, que garantiu paz e prosperidade para Israel durante seu reinado.
+* 1 Reis 3:11: "E Deus lhe disse: "Já que me pediste isso e não uma vida longa nem riqueza, nem pediste a morte dos seus inimigos, mas discernimento para governar com justiça, farei o que pediu, dando-lhe um coração sábio e capaz de discernir entre o bem e o mal." Este versículo destaca a sabedoria que Salomão recebeu de Deus para governar com justiça.
+* 2 Samuel 7:12-13: "Quando seus dias terminarem e você repousar com os seus antepassados, estabelecerei o seu descendente para sucedê-lo, o qual sairá do seu próprio corpo, e firmarei o seu reino. Ele construirá um templo em honra ao meu nome, e eu firmarei para sempre o trono do seu reino." Este versículo destaca o cumprimento das promessas de Deus a Davi, que foram cumpridas durante o reinado de Salomão.
+****
+
+[[v11-9-1]]
+
+^<<v11-9-1,1>>^ Quando Salomão acabou de construir o Templo do Senhor, o palácio real e tudo o que desejou fazer,
+
+[[v11-9-2]]
+
+^<<v11-9-2,2>>^ o Senhor apareceu-lhe pela segunda vez, como tinha aparecido em Gabaon.
+
+[[v11-9-3]]
+
+^<<v11-9-3,3>>^ O Senhor disse-lhe: “Ouvi a tua oração e a súplica que me dirigiste; consagrei esta casa que me construíste, a fim de nela fixar o meu nome para sempre. Meus olhos e meu coração aí estarão perpetuamente.
+
+[[v11-9-4]]
+
+^<<v11-9-4,4>>^ E tu, se andares diante de mim como o fez Davi, na sinceridade e retidão de teu coração, pondo em prática tudo o que te ordenei, observando os meus preceitos e minhas leis,
+
+[[v11-9-5]]
+
+^<<v11-9-5,5>>^ eu firmarei para sempre o trono de teu reino sobre Israel, como o declarei a Davi, teu pai, nestes termos: ‘Não te faltará jamais um descendente sobre o trono de Israel’.
+
+[[v11-9-6]]
+
+^<<v11-9-6,6>>^ Mas se vos desviardes de mim, vós e vossos filhos e não observardes os preceitos e ordens que vos prescrevi, se vos retirardes e prestardes culto a deuses estranhos, prostrando-vos diante deles,
+
+[[v11-9-7]]
+
+^<<v11-9-7,7>>^ eu exterminarei Israel da terra que lhe dei, lançarei de minha presença o templo que consagrei ao meu nome e Israel será objeto de sarcasmo e zombaria para todos os povos.
+
+[[v11-9-8]]
+
+^<<v11-9-8,8>>^ Embora seja tão alto esse templo, todo o que passar diante dele ficará pasmo e assobiará, dizendo: ‘Por que tratou o Senhor assim esta terra e este templo?’.
+
+[[v11-9-9]]
+
+^<<v11-9-9,9>>^ E lhe responderão: ‘Porque abandonaram o Senhor, seu Deus, que tirou os seus pais do Egito e seguiram a outros deuses, prostrando-se diante deles e adorando-os. Foi por isso que o Senhor mandou sobre eles todos esses males”.
+
+[[v11-9-10]]
+
+^<<v11-9-10,10>>^ Quando, passados vinte anos, Salomão acabou de construir os dois edifícios, o Templo do Senhor e o palácio real, –
+
+[[v11-9-11]]
+
+^<<v11-9-11,11>>^ tendo-lhe Hiram, rei de Tiro, fornecido madeira de cedro e de cipreste e também ouro, quanto ele quis, – Salomão deu a Hiram vinte cidades da Galileia.
+
+[[v11-9-12]]
+
+^<<v11-9-12,12>>^ Hiram veio de Tiro para ver as cidades que Salomão lhe tinha dado, mas elas não lhe agradaram.
+
+[[v11-9-13]]
+
+^<<v11-9-13,13>>^ Disse, pois: “Que cidades são estas que me deste, meu irmão?”. E chamou-as terra de Cabul, nome que conservam até o dia de hoje.
+
+[[v11-9-14]]
+
+^<<v11-9-14,14>>^ (Hiram tinha também mandado ao rei cento e vinte talentos de ouro).
+
+[[v11-9-15]]
+
+^<<v11-9-15,15>>^ Eis o que se refere aos trabalhos organizados pelo rei Salomão para a construção do Templo do Senhor e de seu próprio palácio, de Milo, do muro de Jerusalém, de Hasor, de Meguido e de Gazer.
+
+[[v11-9-16]]
+
+^<<v11-9-16,16>>^ O faraó, rei do Egito, subiu, tomou Gazer e queimou-a, depois de ter matado os cananeus que habitavam nela; em seguida, deu-a como dote à sua filha, mulher de Salomão.
+
+[[v11-9-17]]
+
+^<<v11-9-17,17>>^ Assim, Salomão reconstruiu Gazer, Bet-Horon de Baixo,
+
+[[v11-9-18]]
+
+^<<v11-9-18,18>>^ Baalat e Tadmor, na terra do deserto;
+
+[[v11-9-19]]
+
+^<<v11-9-19,19>>^ e, enfim, todas as cidades-entrepostos de Salomão, cidades para os carros, para a cavalaria e tudo o que lhe aprouve edificar em Jerusalém, no Líbano e em toda a terra de seu domínio.
+
+[[v11-9-20]]
+
+^<<v11-9-20,20>>^ Tudo o que subsistia dos amorreus, dos hiteus, dos ferezeus, dos heveus e dos jebuseus, que não faziam parte dos israelitas,
+
+[[v11-9-21]]
+
+^<<v11-9-21,21>>^ todos os seus descendentes que tinham ficado na terra e que os israelitas não tinham exterminado, Salomão os empregou como escravos de trabalhos pesados, o que são ainda hoje.
+
+[[v11-9-22]]
+
+^<<v11-9-22,22>>^ Quanto aos filhos de Israel, determinou que nenhum servisse como escravo, mas que fossem seus guerreiros, servos, chefes, oficiais, comandantes de seus carros e de sua cavalaria.
+
+[[v11-9-23]]
+
+^<<v11-9-23,23>>^ Havia quinhentos e cinquenta contramestres nos trabalhos de Salomão, os quais dirigiam a multidão dos operários.
+
+[[v11-9-24]]
+
+^<<v11-9-24,24>>^ Subiu a filha do faraó da Cidade de Davi e veio para a casa que lhe tinha construído Salomão; foi então que ele edificou Milo.
+
+[[v11-9-25]]
+
+^<<v11-9-25,25>>^ Três vezes por ano, Salomão oferecia holocaustos e sacrifícios pacíficos sobre o altar que tinha levantado ao Senhor e queimava perfumes sobre o altar que estava diante do Senhor. E assim acabou ele a construção do templo.
+
+[[v11-9-26]]
+
+^<<v11-9-26,26>>^ O rei Salomão equipou também uma frota em Asiongaber, perto de Elat, na praia do mar Vermelho, na terra de Edom.
+
+[[v11-9-27]]
+
+^<<v11-9-27,27>>^ Hiram mandou seus próprios servos nessa frota, marinheiros experimentados em náutica, para ajudar os homens de Salomão.
+
+[[v11-9-28]]
+
+^<<v11-9-28,28>>^ Foram a Ofir, de onde trouxeram quatrocentos e vinte talentos de ouro e os apresentaram ao rei Salomão.
+
+'''
+
+xref:011-i-reis/011-i-reis-008.adoc#v11-8-0[&#60; Capítulo Anterior] | <<v11-9-0,Topo>> | xref:011-i-reis/011-i-reis-010.adoc#v11-10-0[Próximo Capítulo &#62;]

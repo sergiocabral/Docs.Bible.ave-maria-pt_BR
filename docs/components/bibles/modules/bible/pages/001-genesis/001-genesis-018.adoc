@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v1-18-0]]
+=== Gênesis, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 18 descreve a visita de três homens a Abraão e Sara, que anunciam que Sara terá um filho. O capítulo aborda temas como a fidelidade de Deus em cumprir suas promessas, a importância da hospitalidade e a misericórdia de Deus. Abaixo seguem cinco versículos relacionados com esses temas, em ordem de proximidade com o capítulo:
+* Hebreus 13:2: "Não se esqueçam da hospitalidade; foi praticando-a que, sem o saber, alguns acolheram anjos." Este versículo destaca a importância da hospitalidade, que é exemplificada por Abraão em Gênesis 18 ao acolher os três homens e oferecer-lhes alimento e abrigo.
+* 2 Pedro 3:9: "O Senhor não demora em cumprir a sua promessa, como julgam alguns. Ao contrário, ele é paciente com vocês, não querendo que ninguém pereça, mas que todos cheguem ao arrependimento." Este versículo destaca a fidelidade de Deus em cumprir suas promessas, mesmo que possam parecer demoradas, o que é evidenciado em Gênesis 18 quando Deus cumpre sua promessa a Abraão de que terá um filho com Sara.
+* Salmos 103:8: "O Senhor é misericordioso e compassivo, mui paciente e cheio de amor." Este versículo destaca a misericórdia de Deus, que é demonstrada em Gênesis 18 quando Deus poupa Sodoma e Gomorra se Abraão encontrar um número suficiente de pessoas justas na cidade.
+* Gênesis 18:25: "Longe de ti fazeres tal coisa: matar o justo com o ímpio, tratando o justo e o ímpio da mesma maneira. Longe de ti! Não agirá com justiça o Juiz de toda a terra?" Este versículo destaca a justiça de Deus em não tratar o justo e o ímpio da mesma maneira, o que é discutido em Gênesis 18 quando Abraão questiona se Deus destruirá a cidade justa junto com a cidade ímpia.
+* Lucas 1:37: "Pois para Deus nada é impossível." Este versículo destaca a onipotência de Deus, que é evidenciada em Gênesis 18 quando Deus anuncia a Abraão que Sara terá um filho, mesmo que ela seja idosa e estéril.
+****
+
+[[v1-18-1]]
+
+^<<v1-18-1,1>>^ O Senhor apareceu a Abraão nos carvalhos de Mambré, quando ele estava assentado à entrada de sua tenda, no maior calor do dia.
+
+[[v1-18-2]]
+
+^<<v1-18-2,2>>^ Abraão levantou os olhos e viu três homens de pé diante dele. Levantou-se no mesmo instante da entrada de sua tenda, veio-lhes ao encontro e prostrou-se por terra.^&#42;1^
+
+[[v1-18-3]]
+
+^<<v1-18-3,3>>^ “Meu Senhor – disse ele – se encontrei graça diante de vossos olhos, não passeis avante sem vos deterdes em casa de vosso servo.
+
+[[v1-18-4]]
+
+^<<v1-18-4,4>>^ Vou buscar um pouco de água para vos lavar os pés.
+
+[[v1-18-5]]
+
+^<<v1-18-5,5>>^ Descansai um pouco sob esta árvore. Eu vos trarei um pouco de pão, e assim restaurareis as vossas forças para prosseguirdes o vosso caminho; porque é para isso que passastes perto de vosso servo.” Eles responderam: “Faze como disseste”.
+
+[[v1-18-6]]
+
+^<<v1-18-6,6>>^ Abraão foi depressa à tenda de Sara: “Depressa – disse ele – amassa três medidas de farinha e coze pães”.
+
+[[v1-18-7]]
+
+^<<v1-18-7,7>>^ Correu em seguida ao rebanho, escolheu um novilho tenro e bom, e deu-o a um criado que o preparou logo.
+
+[[v1-18-8]]
+
+^<<v1-18-8,8>>^ Tomou manteiga e leite e serviu aos peregrinos juntamente com o novilho preparado, conservando-se de pé junto deles, sob a árvore, enquanto comiam.
+
+[[v1-18-9]]
+
+^<<v1-18-9,9>>^ E disseram-lhe: “Onde está Sara, tua mulher?”. “Ela está na tenda” – respondeu ele.
+
+[[v1-18-10]]
+
+^<<v1-18-10,10>>^ E ele disse-lhe: “Voltarei à tua casa dentro de um ano, a esta época; e Sara, tua mulher, terá um filho”. Ora, Sara ouvia por detrás, à entrada da tenda.^&#42;1^
+
+[[v1-18-11]]
+
+^<<v1-18-11,11>>^ (Abraão e Sara eram velhos, de idade avançada, e Sara tinha já passado da idade.)
+
+[[v1-18-12]]
+
+^<<v1-18-12,12>>^ Ela pôs-se a rir secretamente: “Velha como sou – disse ela consigo – conhecerei ainda o amor? E o meu senhor também é já entrado em anos”.
+
+[[v1-18-13]]
+
+^<<v1-18-13,13>>^ O Senhor disse a Abraão: “Por que se riu Sara, dizendo: ‘Será verdade que eu teria um filho, velha como sou?’.
+
+[[v1-18-14]]
+
+^<<v1-18-14,14>>^ Será isso porventura uma coisa muito difícil para o Senhor? Em um ano, a esta época, voltarei à tua casa e Sara terá um filho”.
+
+[[v1-18-15]]
+
+^<<v1-18-15,15>>^ Sara protestou: “Eu não ri” – disse ela – pois tinha medo. Mas o Senhor disse-lhe: “Sim, tu riste”.
+
+[[v1-18-16]]
+
+^<<v1-18-16,16>>^ Os homens levantaram-se e partiram em direção de Sodoma, e Abraão os ia acompanhando.
+
+[[v1-18-17]]
+
+^<<v1-18-17,17>>^ O Senhor disse então: “Acaso poderei ocultar a Abraão o que vou fazer?
+
+[[v1-18-18]]
+
+^<<v1-18-18,18>>^ Pois que Abraão deve tornar-se uma nação grande e poderosa, e todos os povos da terra serão benditos nele.
+
+[[v1-18-19]]
+
+^<<v1-18-19,19>>^ Eu o escolhi para que ele ordene aos seus filhos e à sua casa depois dele, que guardem os caminhos do Senhor, praticando a justiça e a retidão, para que o Senhor cumpra em seu favor as promessas que lhe fez”.
+
+[[v1-18-20]]
+
+^<<v1-18-20,20>>^ O Senhor ajuntou: “É imenso o clamor que se eleva de Sodoma e Gomorra, e o seu pecado é muito grande.
+
+[[v1-18-21]]
+
+^<<v1-18-21,21>>^ Eu vou descer para ver se as suas obras correspondem realmente ao clamor que chega até mim; se assim não for, eu o saberei”.
+
+[[v1-18-22]]
+
+^<<v1-18-22,22>>^ Os homens partiram, pois, na direção de Sodoma, enquanto Abraão ficou em presença do Senhor.
+
+[[v1-18-23]]
+
+^<<v1-18-23,23>>^ Abraão aproximou-se e disse: “Fareis o justo perecer com o ímpio?
+
+[[v1-18-24]]
+
+^<<v1-18-24,24>>^ Talvez haja cinquenta justos na cidade: os farão perecer? Não perdoaríeis antes a cidade, em atenção aos cinquenta justos que nela se poderiam encontrar?
+
+[[v1-18-25]]
+
+^<<v1-18-25,25>>^ Não, vós não poderíeis agir assim, matando o justo com o ímpio, e tratando o justo como o ímpio! Longe de vós tal pensamento! Não exerceria o juiz de toda a terra a justiça?”.
+
+[[v1-18-26]]
+
+^<<v1-18-26,26>>^ O Senhor disse: “Se eu encontrar em Sodoma cinquenta justos, perdoarei a toda a cidade em atenção a eles”.
+
+[[v1-18-27]]
+
+^<<v1-18-27,27>>^ Abraão continuou: “Não leveis a mal, se ainda ouso falar ao meu Senhor, embora seja eu pó e cinza.^&#42;1^
+
+[[v1-18-28]]
+
+^<<v1-18-28,28>>^ Se, porventura, faltarem cinco aos cinquenta justos, fareis perecer toda a cidade por causa desses cinco?”. “Não a destruirei – respondeu o Senhor – se nela eu encontrar quarenta e cinco justos.”
+
+[[v1-18-29]]
+
+^<<v1-18-29,29>>^ Abraão insistiu ainda e disse: “Talvez só haja aí quarenta”. “Não destruirei a cidade por causa desses quarenta.”
+
+[[v1-18-30]]
+
+^<<v1-18-30,30>>^ Abraão disse de novo: “Rogo-vos, Senhor, que não vos irriteis se eu insisto ainda! Talvez só se encontrem trinta!”. “Se eu encontrar trinta – disse o Senhor – não o farei.”
+
+[[v1-18-31]]
+
+^<<v1-18-31,31>>^ Abraão continuou: “Desculpai, se ouso ainda falar ao Senhor: pode ser que só se encontre vinte”. “Em atenção aos vinte, não a destruirei.”
+
+[[v1-18-32]]
+
+^<<v1-18-32,32>>^ Abraão replicou: “Que o Senhor não se irrite se falo ainda uma última vez! Que será, se lá forem achados dez?”. E Deus respondeu: “Não a destruirei por causa desses dez”.
+
+[[v1-18-33]]
+
+^<<v1-18-33,33>>^ E o Senhor retirou-se, depois de ter falado com Abraão, e este voltou para sua casa.
+
+'''
+
+xref:001-genesis/001-genesis-017.adoc#v1-17-0[&#60; Capítulo Anterior] | <<v1-18-0,Topo>> | xref:001-genesis/001-genesis-019.adoc#v1-19-0[Próximo Capítulo &#62;]

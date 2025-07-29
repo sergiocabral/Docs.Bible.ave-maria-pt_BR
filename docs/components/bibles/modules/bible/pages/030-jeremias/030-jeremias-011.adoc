@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v30-11-0]]
+=== Jeremias, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 11 trata da aliança que Deus fez com o povo de Israel e da infidelidade deles em cumprir os termos dessa aliança. Abaixo estão cinco versículos relacionados com os temas abordados nesse capítulo, em ordem de proximidade com os temas:
+* Deuteronômio 28:9: "O Senhor te confirmará para si como povo santo, como te jurou, se guardares os mandamentos do Senhor teu Deus e andares nos seus caminhos." Este versículo fala da promessa de Deus de abençoar e proteger seu povo se eles guardassem seus mandamentos e seguissem seus caminhos.
+* Levítico 26:15-16: "E se não me ouvirdes e não cumprirdes todos estes mandamentos, se desprezardes os meus estatutos e a vossa alma se cansar dos meus juízos, de modo que não queirais cumprir todos os meus mandamentos, anulando assim a minha aliança, farei convosco isto: porei sobre vós o terror, a tísica e a febre ardente, que consumirão os olhos e definharão a alma; e semeareis em vão a vossa semente, porque os vossos inimigos a comerão." Este versículo fala das consequências da desobediência à aliança com Deus, incluindo doenças e fracasso nas colheitas.
+* Deuteronômio 28:15: "Será que, se não deres ouvidos à voz do Senhor teu Deus, para guardar todos os seus mandamentos e estatutos que eu te ordeno hoje, sobre ti virão todas estas maldições, e te alcançarão." Este versículo fala das maldições que Deus traria sobre seu povo se eles não obedecessem à sua aliança.
+* Ezequiel 16:59-60: "Pois assim diz o Senhor Deus: Eu te farei conforme fizeste, que desprezaste o juramento, violando a aliança. Contudo, me lembrarei da minha aliança contigo nos dias da tua mocidade, e estabelecerei contigo uma aliança eterna." Este versículo fala da fidelidade de Deus à sua aliança, mesmo quando seu povo não a cumpre, e de sua promessa de uma aliança eterna com eles.
+* Salmos 25:10: "Todos os caminhos do Senhor são misericórdia e verdade para os que guardam a sua aliança e os seus testemunhos." Este versículo fala da importância da obediência à aliança com Deus e da promessa de misericórdia e verdade para aqueles que a guardam.
+****
+
+[[v30-11-1]]
+
+^<<v30-11-1,1>>^ Eis a palavra que foi dirigida a Jeremias da parte do Senhor:^&#42;1^
+
+[[v30-11-2]]
+
+^<<v30-11-2,2>>^ “Ouvi o texto desta aliança e o transmiti ao povo de Judá e aos habitantes de Jerusalém.^&#42;1^
+
+[[v30-11-3]]
+
+^<<v30-11-3,3>>^ Dize-lhes: Eis o que proclama o Senhor, Deus de Israel: maldito seja aquele que não obedecer às prescrições desta Lei
+
+[[v30-11-4]]
+
+^<<v30-11-4,4>>^ que, no dia em que os tirei do Egito, daquela fornalha de ferro, eu impus a vossos pais, nestes termos: ouvi minha voz e executai minhas ordens, mediante o que sereis meu povo e eu o vosso Deus.
+
+[[v30-11-5]]
+
+^<<v30-11-5,5>>^ Então, ratificarei o juramento que fiz a vossos pais de lhes dar uma terra onde mana leite e mel, qual hoje é a vossa”. “Assim seja, Senhor” – respondi-lhe.
+
+[[v30-11-6]]
+
+^<<v30-11-6,6>>^ Em seguida, disse-me o Senhor: “Difunde este texto por todas as cidades de Judá e pelas ruas de Jerusalém, dizendo-lhes: Ouvi as palavras desta Lei e executai-a.
+
+[[v30-11-7]]
+
+^<<v30-11-7,7>>^ Desde o dia em que os fiz sair do Egito até hoje, adverti com instância vossos pais, falando-lhes assim: ouvi minha voz!
+
+[[v30-11-8]]
+
+^<<v30-11-8,8>>^ Não ouviram, porém, e nenhuma atenção prestaram, seguindo, obstinadamente, os pendores maus de seus corações. Assim, contra eles executei todas as ameaças contidas no pacto que lhes havia ordenado, mas que não observavam”.
+
+[[v30-11-9]]
+
+^<<v30-11-9,9>>^ Disse-me em seguida o Senhor: “Há uma conspiração entre os habitantes de Judá e de Jerusalém;
+
+[[v30-11-10]]
+
+^<<v30-11-10,10>>^ volveram às iniquidades dos antepassados que se haviam recusado a ouvir minhas palavras, indo, eles também, atrás de outros deuses, a fim de cultuá-los. A casa de Israel e a casa de Judá violaram a aliança que haviam firmado com seus pais”.
+
+[[v30-11-11]]
+
+^<<v30-11-11,11>>^ Por tal culpa, assim declara o Senhor: “Vou descarregar sobre eles uma calamidade, da qual não poderão escapar. E, quando gritarem por mim, eu não os escutarei.
+
+[[v30-11-12]]
+
+^<<v30-11-12,12>>^ Então, as cidades de Judá e os habitantes de Jerusalém irão apelar para os deuses ante os quais queimaram incenso. Esses deuses, porém, não os salvarão no momento da catástrofe,
+
+[[v30-11-13]]
+
+^<<v30-11-13,13>>^ porque, ó Judá, possuis tantos deuses quantas são tuas cidades; e quantas ruas tens em Jerusalém, tantos altares de infâmia ergueste para neles queimar oferendas em honra de Baal.
+
+[[v30-11-14]]
+
+^<<v30-11-14,14>>^ Quanto a ti, não intercedas por esse povo, nem ores por ele, nem supliques, porque ao tempo de sua desgraça, quando clamarem por mim, não os escutarei”.
+
+[[v30-11-15]]
+
+^<<v30-11-15,15>>^ Por que cometeu minha bem-amada tanta maldade em minha casa? Porventura teus votos e as carnes imoladas apartarão de ti teus males, para que possas exultar?^&#42;1^
+
+[[v30-11-16]]
+
+^<<v30-11-16,16>>^ “Verdejante oliveira de belos frutos” – tal o nome que te dera o Senhor. Ao estrépito, porém, de imenso ruído ateou-lhe fogo, e se queimaram seus galhos.
+
+[[v30-11-17]]
+
+^<<v30-11-17,17>>^ O Senhor dos exércitos, que te plantara, decretou a calamidade contra ti por causa dos crimes cometidos pela casa de Israel e pela casa de Judá, causando-me revolta os sacrifícios que fizeram em honra de Baal. Conspiração contra Jeremias
+
+[[v30-11-18]]
+
+^<<v30-11-18,18>>^ Instruído pelo Senhor, eu o desvendei. Vós me fizestes conhecer seus intentos.
+
+[[v30-11-19]]
+
+^<<v30-11-19,19>>^ E eu, qual manso cordeiro conduzido à matança, ignorava as maquinações tramadas contra mim: “Destruamos a árvore em seu vigor. Arranquemo-la da terra dos vivos, e que seu nome caia no esquecimento”.
+
+[[v30-11-20]]
+
+^<<v30-11-20,20>>^ Vós sois, porém, Senhor dos exércitos, justo juiz que sondais os rins e os corações. Serei testemunha da vingança que tomarei deles e a vós confio minha causa.
+
+[[v30-11-21]]
+
+^<<v30-11-21,21>>^ Eis por que assim se pronunciou o Senhor contra os habitantes de Anatot que conspiram contra a minha vida, dizendo: “Cessa de proclamar oráculos em nome do Senhor, se não queres perecer em nossas mãos”.
+
+[[v30-11-22]]
+
+^<<v30-11-22,22>>^ Por isso, assim falou o Senhor dos exércitos: “Vou castigá-los. Vão tombar os jovens sob a espada, e seus filhos e filhas perecerão de fome.
+
+[[v30-11-23]]
+
+^<<v30-11-23,23>>^ Ninguém escapará, porquanto, assim que chegar o ano do castigo, mandarei desabar a tormenta sobre os habitantes de Anatot”.
+
+'''
+
+xref:030-jeremias/030-jeremias-010.adoc#v30-10-0[&#60; Capítulo Anterior] | <<v30-11-0,Topo>> | xref:030-jeremias/030-jeremias-012.adoc#v30-12-0[Próximo Capítulo &#62;]

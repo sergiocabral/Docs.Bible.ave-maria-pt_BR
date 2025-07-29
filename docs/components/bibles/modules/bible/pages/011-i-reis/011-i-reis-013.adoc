@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v11-13-0]]
+=== I Reis, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 13 de 1 Reis narra a história de um profeta que é enviado por Deus para repreender o rei Jeroboão por sua idolatria. O profeta realiza um milagre diante do rei, mas é enganado por um homem idoso que se faz passar por profeta e o convence a desobedecer às instruções de Deus. Como resultado, o profeta é morto por um leão. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em 1 Reis 13.
+* Deuteronômio 13:1-4: "Se surgir no meio de vocês um profeta ou alguém que tenha sonhos e lhe apresentar um sinal ou maravilha, e se esse sinal ou maravilha que ele lhe anunciou se cumprir, e se ele disser: 'Vamos seguir outros deuses' - deuses que vocês não conhecem - 'e vamos adorá-los', não dê ouvidos às palavras desse profeta ou sonhador. O Senhor, o seu Deus, está testando vocês para saber se o amam de todo o coração e de toda a alma." Este versículo destaca a importância de obedecer às instruções de Deus, mesmo quando isso pode parecer difícil ou contrário às opiniões de outras pessoas.
+* Jeremias 23:16: "Assim diz o Senhor dos Exércitos: 'Não escutem o que os profetas dizem. Eles os estão fazendo de tolos. Eles falam visões de suas próprias mentes, não da boca do Senhor.'" Este versículo adverte contra acreditar em falsos profetas que falam em nome de Deus, mas cujas palavras não são realmente inspiradas por Ele.
+* 2 Pedro 2:1: "Houve também falsos profetas entre o povo, assim como haverá entre vocês falsos mestres. Eles introduzirão secretamente heresias destruidoras, chegando a negar o Soberano que os resgatou, trazendo sobre si mesmos repentina destruição." Este versículo adverte que ainda existem pessoas que se fazem passar por líderes espirituais, mas que na verdade estão pregando mensagens enganosas que podem levar as pessoas para longe de Deus.
+* Salmos 119:105: "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho." Este versículo destaca a importância da Palavra de Deus como guia para a vida cristã. O profeta em 1 Reis 13 teria evitado a morte se tivesse seguido fielmente as instruções de Deus.
+* Provérbios 3:5-6: "Confie no Senhor de todo o coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo encoraja os cristãos a confiar em Deus em vez de confiar em si mesmos ou nas opiniões de outras pessoas. Isso é especialmente importante em situações onde as escolhas que fazemos podem ter consequências sérias.
+****
+
+[[v11-13-1]]
+
+^<<v11-13-1,1>>^ Ora, estando ele de pé diante do altar para queimar o incenso, eis que sobreveio um homem de Deus, vindo de Judá por ordem do Senhor.
+
+[[v11-13-2]]
+
+^<<v11-13-2,2>>^ Este se pôs a clamar contra o altar da parte do Senhor, nestes termos: “Altar! Altar! Eis o que diz o Senhor: Na casa de Davi nascerá um filho que se chamará Josias. Ele imolará sobre ti os sacerdotes dos lugares altos, que agora queimam ofertas sobre ti, e os ossos humanos serão queimados sobre ti”.
+
+[[v11-13-3]]
+
+^<<v11-13-3,3>>^ Ao mesmo tempo anunciou o homem de Deus um prodígio, dizendo: “Eis a prova de que é o Senhor quem fala: o altar vai se fender e a cinza que está por cima se derramará por terra”.
+
+[[v11-13-4]]
+
+^<<v11-13-4,4>>^ Ao ouvir a ameaça que o homem de Deus proferia contra o altar de Betel, o rei Jeroboão levantou a mão do altar e disse: “Prendei-o”. Secou-se-lhe, porém, a mão que estendera contra o homem, de modo que não a pôde trazer a si.
+
+[[v11-13-5]]
+
+^<<v11-13-5,5>>^ O altar fendeu-se e espalhou-se a cinza que estava sobre ele, assim como o dissera o homem de Deus por ordem do Senhor.
+
+[[v11-13-6]]
+
+^<<v11-13-6,6>>^ Então disse o rei ao homem de Deus: “Aplaca o Senhor, teu Deus, e roga por mim para que me seja restituída a mão”. O homem de Deus aplacou o Senhor e o rei pôde trazer de novo a si a mão, que se tornou tal como era antes.
+
+[[v11-13-7]]
+
+^<<v11-13-7,7>>^ O rei disse ao homem de Deus: “Vem comigo à minha casa para restaurar as tuas forças e te darei um presente”.
+
+[[v11-13-8]]
+
+^<<v11-13-8,8>>^ Mas o homem de Deus respondeu ao rei: “Ainda que me desses a metade de tua casa, eu não iria contigo. Não comerei pão, nem beberei água nesse lugar,
+
+[[v11-13-9]]
+
+^<<v11-13-9,9>>^ porque o Senhor me ordenou que não comesse pão, nem bebesse água e tampouco voltasse pelo mesmo caminho por onde vim”.^&#42;1^
+
+[[v11-13-10]]
+
+^<<v11-13-10,10>>^ Partiu, pois, de Betel por outro caminho e não tomou aquele por onde viera.
+
+[[v11-13-11]]
+
+^<<v11-13-11,11>>^ Ora, habitava em Betel um profeta já idoso, a quem seus filhos contaram tudo o que o homem de Deus fizera naquele dia em Betel e o que ele falara ao rei. O pai disse-lhes: “Por onde se foi ele?”.
+
+[[v11-13-12]]
+
+^<<v11-13-12,12>>^ Seus filhos mostraram-lhe o caminho que tomara o homem de Deus vindo de Judá, ao partir.
+
+[[v11-13-13]]
+
+^<<v11-13-13,13>>^ Ele disse aos seus filhos: “Selai o meu jumento”. Tendo-o eles selado, montou nele o profeta,
+
+[[v11-13-14]]
+
+^<<v11-13-14,14>>^ e partiu em busca do homem de Deus. Encontrou-o sentado ao pé de um terebinto e disse-lhe: “És tu o homem de Deus que veio de Judá?”.
+
+[[v11-13-15]]
+
+^<<v11-13-15,15>>^ “Sim” – respondeu ele. O velho profeta continuou: “Vem comigo para comeres em minha casa”.
+
+[[v11-13-16]]
+
+^<<v11-13-16,16>>^ “Não posso voltar – respondeu ele – nem ir contigo à tua casa. Não comerei pão, nem beberei água contigo nesse lugar,
+
+[[v11-13-17]]
+
+^<<v11-13-17,17>>^ porque recebi do Senhor a ordem de não comer pão, nem beber água, nem tampouco voltar pelo mesmo caminho por onde vim.”
+
+[[v11-13-18]]
+
+^<<v11-13-18,18>>^ “Mas eu sou também profeta como tu, insistiu o outro. Ora, um anjo me falou da parte do Senhor: ‘Leva-o contigo à tua casa e dá-lhe de comer e de beber’.” Era mentira.
+
+[[v11-13-19]]
+
+^<<v11-13-19,19>>^ O homem de Deus voltou com ele e comeu em sua casa.
+
+[[v11-13-20]]
+
+^<<v11-13-20,20>>^ Enquanto estavam à mesa, o Senhor falou ao profeta que o tinha feito voltar,
+
+[[v11-13-21]]
+
+^<<v11-13-21,21>>^ e este interpelou o homem de Deus, vindo de Judá, nestes termos: “Eis o que diz o Senhor: Desobedeceste à palavra do Senhor e não cumpriste a ordem que o Senhor, teu Deus, te havia dado:
+
+[[v11-13-22]]
+
+^<<v11-13-22,22>>^ voltaste e comeste em um lugar do qual Deus te dissera: Não comerás pão ali, nem beberás água. Por isso, teu cadáver não será levado ao sepulcro de teus pais”.
+
+[[v11-13-23]]
+
+^<<v11-13-23,23>>^ Depois de ter comido, o velho profeta mandou selar um jumento para o seu hóspede e este partiu.
+
+[[v11-13-24]]
+
+^<<v11-13-24,24>>^ Enquanto caminhava, o homem de Deus encontrou no caminho um leão, que o matou. Seu cadáver ficou estendido na estrada, tendo ao seu lado o jumento e o leão.
+
+[[v11-13-25]]
+
+^<<v11-13-25,25>>^ Alguns que passavam por ali, vendo o cadáver estendido por terra e junto dele o leão, foram e divulgaram a notícia na cidade onde morava aquele velho profeta.
+
+[[v11-13-26]]
+
+^<<v11-13-26,26>>^ Ouvindo isso, o velho profeta, que tinha levado à sua casa o homem de Deus, exclamou: “É o homem de Deus que foi desobediente à ordem do Senhor; e o Senhor o entregou a um leão que o despedaçou e matou, conforme a palavra que o Senhor lhe tenha dirigido”.
+
+[[v11-13-27]]
+
+^<<v11-13-27,27>>^ E disse em seguida aos seus filhos: “Selai o meu jumento”. Eles selaram o animal.
+
+[[v11-13-28]]
+
+^<<v11-13-28,28>>^ O profeta partiu e encontrou o cadáver estendido no caminho, tendo ao seu lado o jumento e o leão. O leão não tinha devorado o cadáver, nem dilacerado o jumento.
+
+[[v11-13-29]]
+
+^<<v11-13-29,29>>^ Tomou então o profeta o cadáver do homem de Deus, colocou-o em cima do seu jumento e levou-o para a cidade, a fim de pranteá-lo e dar-lhe sepultura.
+
+[[v11-13-30]]
+
+^<<v11-13-30,30>>^ Depositou-o em seu próprio túmulo e pranteou-o, dizendo: “Ai, meu irmão!”.
+
+[[v11-13-31]]
+
+^<<v11-13-31,31>>^ Depois do enterro, disse o ancião aos seus filhos: “Quando eu morrer, sepultai-me no túmulo onde repousa o homem de Deus. Depositareis os meus ossos junto dos seus.
+
+[[v11-13-32]]
+
+^<<v11-13-32,32>>^ Porque se cumprirá a ameaça que ele fez da parte do Senhor contra o altar de Betel e contra todos os templos dos lugares altos das cidades da Samaria”.
+
+[[v11-13-33]]
+
+^<<v11-13-33,33>>^ Depois dessas coisas, Jeroboão não se converteu de sua péssima vida, mas continuou a tomar homens do meio do povo e constituí-los sacerdotes dos lugares altos. A todo aquele que desejasse, investia no cargo sacerdotal e o estabelecia nos lugares altos.
+
+[[v11-13-34]]
+
+^<<v11-13-34,34>>^ Esse procedimento tornou-se para a casa de Jeroboão uma ocasião de pecado, que causou a sua perda e o seu extermínio da face da terra.
+
+'''
+
+xref:011-i-reis/011-i-reis-012.adoc#v11-12-0[&#60; Capítulo Anterior] | <<v11-13-0,Topo>> | xref:011-i-reis/011-i-reis-014.adoc#v11-14-0[Próximo Capítulo &#62;]

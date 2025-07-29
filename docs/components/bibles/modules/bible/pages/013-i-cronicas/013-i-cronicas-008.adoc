@@ -1,0 +1,184 @@
+include::./index.adoc[]
+
+[[v13-8-0]]
+=== I Crônicas, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 8 de 1 Crônicas lista as genealogias da tribo de Benjamim. Este capítulo também apresenta alguns personagens importantes, como o primeiro rei de Israel, Saul, que era da tribo de Benjamim, e seu filho Jônatas. Os versículos selecionados são:
+* 1 Samuel 9:1-2: "Havia um homem de Benjamim, chamado Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afias, benjaminita, homem de bens. Tinha ele um filho chamado Saul, moço e tão belo que entre os filhos de Israel não havia outro mais belo do que ele; desde os ombros para cima, sobressaía a todo o povo."
+Este versículo menciona a origem de Saul, o primeiro rei de Israel, que era da tribo de Benjamim, cuja genealogia é apresentada em 1 Crônicas 8.
+* 1 Crônicas 8:33: "Ner foi pai de Quis; Quis, de Saul; Saul, de Jônatas, Malquisua, Abinadabe e Esbaal."
+Este versículo mostra a conexão entre a genealogia de Benjamim apresentada em 1 Crônicas 8 e a história de Saul e Jônatas.
+* 1 Samuel 13:16: "E Saul, e Jônatas, seu filho, e o povo que se achava com eles, estavam em Gibeá de Benjamim; porém os filisteus tinham-se acampado em Micmás."
+Este versículo descreve a localização de Saul e seu filho Jônatas na cidade de Gibeá, que pertencia à tribo de Benjamim.
+* 1 Samuel 14:1: "Sucedeu, pois, que um dia disse Jônatas, filho de Saul, ao seu moço de armas: Vem, passemos à guarnição dos filisteus que está além; porém não o fez saber a seu pai."
+Este versículo destaca Jônatas, filho de Saul e da tribo de Benjamim, que se destaca como um guerreiro corajoso em várias passagens da Bíblia.
+* 1 Samuel 31:1: "E aconteceu, no dia seguinte, que, vindo os filisteus a despojar os mortos, acharam a Saul e a seus filhos caídos no monte Gilboa."
+Este versículo relata a morte de Saul e seus filhos em batalha contra os filisteus, que ocorreu na região montanhosa de Gilboa, que fica na tribo de Benjamim.
+****
+
+[[v13-8-1]]
+
+^<<v13-8-1,1>>^ Benjamim gerou Bela, o seu primogênito, Asbel, o segundo, Airam, o terceiro,
+
+[[v13-8-2]]
+
+^<<v13-8-2,2>>^ Noaá, o quarto e Rafa, o quinto.
+
+[[v13-8-3]]
+
+^<<v13-8-3,3>>^ Filhos de Bela: Adar, Gera, pai de Aod, Abiud, Abisue, Naamã, Aoe,
+
+[[v13-8-4]]
+
+^<<v13-8-4,4>>^ Gera, Sefufan,
+
+[[v13-8-5]]
+
+^<<v13-8-5,5>>^ Huram.
+
+[[v13-8-6]]
+
+^<<v13-8-6,6>>^ Filhos de Aod: eram os chefes das famílias que habitavam Gaba, transportados para Manaat:
+
+[[v13-8-7]]
+
+^<<v13-8-7,7>>^ Naamã, Aías e Gera, que os transportou, o qual gerou Oza e Aiud.
+
+[[v13-8-8]]
+
+^<<v13-8-8,8>>^ Saaraim teve filhos na terra de Moab, depois de ter repudiado suas mulheres Husim e Baara.
+
+[[v13-8-9]]
+
+^<<v13-8-9,9>>^ Nasceram de Hodes, sua mulher: Jobab, Sebias, Mesa, Melcam, Jeús, Sequias e Marma,
+
+[[v13-8-10]]
+
+^<<v13-8-10,10>>^ que são seus filhos, chefes de famílias.
+
+[[v13-8-11]]
+
+^<<v13-8-11,11>>^ De Husim teve Abitob e Elfaal.
+
+[[v13-8-12]]
+
+^<<v13-8-12,12>>^ Filhos de Elfaal: Héber, Misaam e Samad, que construiu Ono e Lod com as cidades que dela dependem.
+
+[[v13-8-13]]
+
+^<<v13-8-13,13>>^ Beria e Sama, chefes das famílias que habitavam Aialon, puseram em fuga os habitantes de Gat.
+
+[[v13-8-14]]
+
+^<<v13-8-14,14>>^ Aío, Sesac, Jarmut,
+
+[[v13-8-15]]
+
+^<<v13-8-15,15>>^ Zabadias, Arod, Éder,
+
+[[v13-8-16]]
+
+^<<v13-8-16,16>>^ Miguel, Jesfa e Joá eram filhos de Beria.
+
+[[v13-8-17]]
+
+^<<v13-8-17,17>>^ Zabadias, Mesolam, Hezeci, Héber,
+
+[[v13-8-18]]
+
+^<<v13-8-18,18>>^ Jesamari, Jeslias e Jobab eram filhos de Elfaal.
+
+[[v13-8-19]]
+
+^<<v13-8-19,19>>^ Jacim, Zecri, Zabdi,
+
+[[v13-8-20]]
+
+^<<v13-8-20,20>>^ Elioenai, Seletai, Eliel,
+
+[[v13-8-21]]
+
+^<<v13-8-21,21>>^ Adaías, Baraías e Samarat eram filhos de Semei.
+
+[[v13-8-22]]
+
+^<<v13-8-22,22>>^ Jesfã, Héber, Eliel,
+
+[[v13-8-23]]
+
+^<<v13-8-23,23>>^ Abdon, Zecri, Hanã,
+
+[[v13-8-24]]
+
+^<<v13-8-24,24>>^ Hananias, Elam, Anatotias,
+
+[[v13-8-25]]
+
+^<<v13-8-25,25>>^ Jefdaías e Fanuel eram filhos de Sesac.
+
+[[v13-8-26]]
+
+^<<v13-8-26,26>>^ Semsari, Soorias, Otolias,
+
+[[v13-8-27]]
+
+^<<v13-8-27,27>>^ Jersias, Elias e Zecri eram filhos de Jeroam.
+
+[[v13-8-28]]
+
+^<<v13-8-28,28>>^ São estes os chefes de famílias, chefes segundo suas genealogias. Habitavam em Jerusalém.
+
+[[v13-8-29]]
+
+^<<v13-8-29,29>>^ Jeiel, pai de Gabaon morava em Gabaon; sua mulher se chamava Maaca.
+
+[[v13-8-30]]
+
+^<<v13-8-30,30>>^ Seu filho mais velho: Abdon; em seguida, Sur, Cis, Baal, Ner, Nadab,
+
+[[v13-8-31]]
+
+^<<v13-8-31,31>>^ Gedor, Aio, Zaquer e Macelot.
+
+[[v13-8-32]]
+
+^<<v13-8-32,32>>^ Macelot gerou Samaá. Eles habitavam também em Jerusalém com seus irmãos.
+
+[[v13-8-33]]
+
+^<<v13-8-33,33>>^ Ner gerou Cis, Cis gerou Saul, Saul gerou Jônatas, Melquisua, Abinadab e Isbaal.
+
+[[v13-8-34]]
+
+^<<v13-8-34,34>>^ Filho de Jônatas: Meribaal. Meribaal gerou Micas.
+
+[[v13-8-35]]
+
+^<<v13-8-35,35>>^ Filhos de Micas: Fiton, Melec, Taraá e Aaz.
+
+[[v13-8-36]]
+
+^<<v13-8-36,36>>^ Aaz gerou Joada, Joada gerou Almat e Almat gerou Azmot e Zambri. Zambri gerou Mosa.
+
+[[v13-8-37]]
+
+^<<v13-8-37,37>>^ Mosa gerou Banaá, Rafa, seu filho, Elasa, seu filho, Asel, seu filho.
+
+[[v13-8-38]]
+
+^<<v13-8-38,38>>^ Asel teve seis filhos, cujos nomes são: Ezricam, Bocru, Ismael, Sarias, Abdias e Hanã, todos filhos de Asel.
+
+[[v13-8-39]]
+
+^<<v13-8-39,39>>^ Filhos de Esec, seu irmão: Ulam, seu filho mais velho, Jeús, o segundo, e Elifalet, o terceiro.
+
+[[v13-8-40]]
+
+^<<v13-8-40,40>>^ Os filhos de Ulam eram homens valentes, bons arqueiros; tiveram numerosos filhos e netos: cento e cinquenta. Todos esses são descendentes de Benjamim.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-007.adoc#v13-7-0[&#60; Capítulo Anterior] | <<v13-8-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-009.adoc#v13-9-0[Próximo Capítulo &#62;]

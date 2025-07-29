@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v28-5-0]]
+=== Eclesiástico, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiástico 5 fala sobre a importância de cumprir as promessas feitas a Deus, de evitar fazer votos precipitados e de ter cautela em relação aos ricos e poderosos. Os versículos selecionados são:
+* Salmos 50:14-15: "Oferece a Deus sacrifício de ações de graças e cumpre os teus votos para com o Altíssimo; invoca-me no dia da angústia; eu te livrarei, e tu me glorificarás." Esse versículo ressalta a importância de cumprir os votos feitos a Deus, como é abordado no capítulo 5 de Eclesiástico.
+* Eclesiastes 5:4-5: "Quando a Deus fizeres algum voto, não tardes em cumpri-lo; porque não se agrada de tolos; o que votares, paga-o. Melhor é que não votes do que votes e não pagues." Esse versículo reforça a ideia de que é melhor não fazer votos precipitados, mas caso seja feito, é importante cumpri-los prontamente.
+* Salmos 62:10: "Não confieis na opressão, nem vos iludais com o roubo; se as vossas riquezas aumentam, não ponhais nelas o coração." Esse versículo destaca a importância de ter cautela em relação aos ricos e poderosos, como é mencionado no capítulo 5 de Eclesiástico.
+* Provérbios 20:25: "Laço é para o homem fazer uma promessa precipitadamente e só depois pensar no que prometeu." Esse versículo adverte contra fazer votos precipitados, lembrando-nos de que é melhor pensar antes de prometer algo.
+* Provérbios 22:16: "Aquele que oprime o pobre para se engrandecer a si mesmo e o que dá ao rico, certamente empobrecerá." Esse versículo enfatiza que aqueles que se aproveitam dos pobres para benefício próprio, acabam por sofrer consequências. Esse ensinamento relaciona-se com a ideia de cautela em relação aos ricos e poderosos, como mencionado no capítulo 5 de Eclesiástico.
+****
+
+[[v28-5-1]]
+
+^<<v28-5-1,1>>^ Não contes com riquezas injustas. Não digas: “Tenho o suficiente para viver”, pois no dia do castigo e da escuridão, isso de nada te servirá.
+
+[[v28-5-2]]
+
+^<<v28-5-2,2>>^ Quando te sentires forte, não te entregues às cobiças de teu coração.
+
+[[v28-5-3]]
+
+^<<v28-5-3,3>>^ Não digas: “Como sou forte!”. ou: “Quem me obrigará a prestar contas dos meus atos?”,^&#42;1^
+
+[[v28-5-4]]
+
+^<<v28-5-4,4>>^ pois Deus tomará sua vingança. Não digas: “Pequei, e o que me aconteceu de mal?”, pois o Senhor é lento para castigar os crimes.
+
+[[v28-5-5]]
+
+^<<v28-5-5,5>>^ A propósito de um pecado perdoado, não estejas sem temor, e não acrescentes pecado sobre pecado.
+
+[[v28-5-6]]
+
+^<<v28-5-6,6>>^ Não digas: “A misericórdia do Senhor é grande, ele terá piedade da multidão dos meus pecados”,
+
+[[v28-5-7]]
+
+^<<v28-5-7,7>>^ pois piedade e cólera são nele igualmente rápidas, e o seu furor visa aos pecadores.
+
+[[v28-5-8]]
+
+^<<v28-5-8,8>>^ Não demores em te converteres ao Senhor, não adies de dia em dia,
+
+[[v28-5-9]]
+
+^<<v28-5-9,9>>^ pois sua cólera virá de repente, e ele te perderá no dia do castigo.
+
+[[v28-5-10]]
+
+^<<v28-5-10,10>>^ Não te inquietes à procura de riquezas injustas, de nada te servirão no dia do castigo e da escuridão.
+
+[[v28-5-11]]
+
+^<<v28-5-11,11>>^ Não joeires a todos os ventos, não andes por qualquer caminho, pois é assim que se revela o pecador de linguagem dúbia.
+
+[[v28-5-12]]
+
+^<<v28-5-12,12>>^ Firma-te no caminho do Senhor, na sinceridade de teus sentimentos e teus conhecimentos, nunca te afastes de uma linguagem pacífica e equitativa.^&#42;1^
+
+[[v28-5-13]]
+
+^<<v28-5-13,13>>^ Escuta com doçura o que te dizem, a fim de compreenderes, darás então uma resposta sábia e apropriada.^&#42;1^
+
+[[v28-5-14]]
+
+^<<v28-5-14,14>>^ Se tiveres inteligência, responde a outrem, senão, põe a mão sobre a tua boca, para que não sejas surpreendido a dizer uma palavra indiscreta, e venhas a te envergonhar dela.^&#42;1^
+
+[[v28-5-15]]
+
+^<<v28-5-15,15>>^ A honra e a consideração acompanham a linguagem do sábio, mas a língua do imprudente é a sua própria ruína.
+
+[[v28-5-16]]
+
+^<<v28-5-16,16>>^ Não passes por delator, não caias com embaraço nas armadilhas de tua língua,^&#42;1^
+
+[[v28-5-17]]
+
+^<<v28-5-17,17>>^ pois ao ladrão estão reservados a confusão e o arrependimento, à língua dúbia, uma censura severa; ao delator, ódio, inimizade e infâmia.
+
+[[v28-5-18]]
+
+^<<v28-5-18,18>>^ Faze justiça tanto para o pequeno como para o grande.^&#42;1^
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-004.adoc#v28-4-0[&#60; Capítulo Anterior] | <<v28-5-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-006.adoc#v28-6-0[Próximo Capítulo &#62;]

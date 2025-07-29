@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v66-5-0]]
+=== São Tiago, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 5 de São Tiago trata sobre a justiça e a paciência dos fiéis em meio às dificuldades, incentivando-os a orar, a ter fé e a ajudar uns aos outros. Abaixo estão cinco versículos de diferentes livros da Bíblia que se relacionam com os temas abordados em São Tiago 5:
+* Salmos 37:7: "Descansa no SENHOR, e espera nele; não te indignes por causa daquele que prospera em seu caminho, por causa do homem que executa astutos intentos." Este versículo enfatiza a importância da paciência e da confiança em Deus em momentos de dificuldade e adversidade.
+* Romanos 12:12: "Alegrai-vos na esperança, sede pacientes na tribulação, perseverai na oração." Paulo, em sua carta aos Romanos, exorta os cristãos a manterem a esperança, a paciência e a oração mesmo diante das dificuldades.
+* Efésios 6:18: "Com toda oração e súplica, orando em todo tempo no Espírito e para isto vigiando com toda perseverança e súplica por todos os santos." O apóstolo Paulo incentiva os fiéis a orar continuamente, tanto por si mesmos quanto pelos outros, demonstrando a importância da oração em momentos de dificuldade.
+* 1 Pedro 4:8: "Antes de tudo, porém, tende ardente amor uns para com os outros; porque o amor cobre uma multidão de pecados." O amor e a solidariedade são fundamentais em momentos de dificuldade, como os descritos em São Tiago 5, e Pedro ressalta a importância de amar uns aos outros e ajudar uns aos outros.
+* Filipenses 4:6: "Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças." Paulo encoraja os cristãos a não se preocuparem excessivamente com as dificuldades da vida, mas a orar a Deus em todas as situações e agradecer por suas bênçãos.
+****
+
+[[v66-5-1]]
+
+^<<v66-5-1,1>>^ Vós, ricos, chorai e gemei por causa das desgraças que sobre vós virão.
+
+[[v66-5-2]]
+
+^<<v66-5-2,2>>^ Vossas riquezas apodreceram e vossas roupas foram comidas pela traça.
+
+[[v66-5-3]]
+
+^<<v66-5-3,3>>^ Vosso ouro e vossa prata enferrujaram-se e a sua ferrugem dará testemunho contra vós e devorará vossas carnes como fogo. Entesourastes nos últimos dias!
+
+[[v66-5-4]]
+
+^<<v66-5-4,4>>^ Eis que o salário, que defraudastes aos trabalhadores que ceifavam os vossos campos, clama, e seus gritos de ceifadores chegaram aos ouvidos do Senhor dos exércitos.
+
+[[v66-5-5]]
+
+^<<v66-5-5,5>>^ Tendes vivido em delícias e em dissoluções sobre a terra, e saciastes os vossos corações para o dia da matança!
+
+[[v66-5-6]]
+
+^<<v66-5-6,6>>^ Condenastes e matastes o justo, e ele não vos resistiu.
+
+[[v66-5-7]]
+
+^<<v66-5-7,7>>^ Tende, pois, paciência, meus irmãos, até a vinda do Senhor. Vede o lavrador: ele aguarda o precioso fruto da terra e tem paciência até receber a chuva do outono e a da primavera.^&#42;1^
+
+[[v66-5-8]]
+
+^<<v66-5-8,8>>^ Tende também vós paciência e fortalecei os vossos corações, porque a vinda do Senhor está próxima.
+
+[[v66-5-9]]
+
+^<<v66-5-9,9>>^ Não vos queixeis uns dos outros, para que não sejais julgados. Eis que o juiz está à porta.
+
+[[v66-5-10]]
+
+^<<v66-5-10,10>>^ Tomai, irmãos, por modelo de paciência e de coragem os profetas, que falaram em nome do Senhor.
+
+[[v66-5-11]]
+
+^<<v66-5-11,11>>^ Vós sabeis que felicitamos os que suportam os sofrimentos de Jó. Vós conheceis o fim em que o Senhor o colocou, porque o Senhor é misericordioso e compassivo.
+
+[[v66-5-12]]
+
+^<<v66-5-12,12>>^ Antes de mais nada, meus irmãos, abstende-vos de jurar. Não jureis nem pelo céu nem pela terra, nem empregueis qualquer outra fórmula de juramento. Que vosso sim, seja sim; que vosso não, seja não. Assim não caireis no golpe do julgamento.
+
+[[v66-5-13]]
+
+^<<v66-5-13,13>>^ Alguém entre vós está triste? Reze! Está alegre? Cante.
+
+[[v66-5-14]]
+
+^<<v66-5-14,14>>^ Está alguém enfermo? Chame os sacerdotes da Igreja, e estes façam oração sobre ele, ungindo-o com óleo em nome do Senhor.^&#42;1^
+
+[[v66-5-15]]
+
+^<<v66-5-15,15>>^ A oração da fé salvará o enfermo e o Senhor o restabelecerá. Se ele cometeu pecados, lhe serão perdoados.
+
+[[v66-5-16]]
+
+^<<v66-5-16,16>>^ Confessai os vossos pecados uns aos outros, e orai uns pelos outros para serdes curados. A oração do justo tem grande eficácia.
+
+[[v66-5-17]]
+
+^<<v66-5-17,17>>^ Elias era um homem pobre como nós e orou com fervor para que não chovesse sobre a terra, e por três anos e seis meses não choveu.
+
+[[v66-5-18]]
+
+^<<v66-5-18,18>>^ Orou de novo, e o céu deu chuva, e a terra deu o seu fruto.
+
+[[v66-5-19]]
+
+^<<v66-5-19,19>>^ Meus irmãos, se alguém fizer voltar ao bom caminho algum de vós que se afastou para longe da verdade,
+
+[[v66-5-20]]
+
+^<<v66-5-20,20>>^ saiba: aquele que fizer um pecador retroceder do seu erro, salvará sua alma da morte e fará desaparecer uma multidão de pecados.
+
+'''
+
+xref:066-sao-tiago/066-sao-tiago-004.adoc#v66-4-0[&#60; Capítulo Anterior] | <<v66-5-0,Topo>> | xref:067-i-sao-pedro/067-i-sao-pedro-001.adoc#v67-1-0[Próximo Capítulo &#62;]

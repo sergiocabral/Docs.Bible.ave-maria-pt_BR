@@ -1,0 +1,207 @@
+include::./index.adoc[]
+
+[[v3-11-0]]
+=== Levítico, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Levítico 11 trata das leis alimentares e da distinção entre animais considerados puros e impuros para o consumo. As regras para a alimentação eram importantes para garantir a santidade do povo de Israel e agradar a Deus. Aqui estão cinco versículos relacionados a esses temas:
+* Deuteronômio 14:3-4: "Não comam nada detestável. São estes os animais que vocês poderão comer: o boi, a ovelha, a cabra..." Este versículo se relaciona diretamente com Levítico 11, pois também fala sobre as leis alimentares e a distinção entre animais puros e impuros.
+* Mateus 15:11: "O que contamina o homem não é o que entra na boca, mas o que sai da boca, isso é o que contamina o homem." Este versículo é interessante porque Jesus parece estar contradizendo as leis alimentares de Levítico 11. Ele está enfatizando que a santidade vem do coração e não de seguir regras externas.
+* Atos 10:13-15: "Então uma voz lhe disse: 'Levante-se, Pedro, mate e coma!' 'De modo nenhum, Senhor! Eu nunca comi nada impuro ou imundo', respondeu Pedro. A voz lhe falou pela segunda vez: 'Não chame impuro ao que Deus purificou'". Este episódio de Pedro em Jope mostra que a distinção entre animais puros e impuros não é mais necessária depois da vinda de Jesus.
+* Marcos 7:19: "Porque não entra em seu coração, mas em seu estômago, e é eliminado?" Ao dizer isso, Jesus estava explicando que os alimentos não afetam a relação do homem com Deus. Isso sugere que as leis alimentares de Levítico 11 eram mais para manter a ordem social do que para garantir a santidade.
+* Colossenses 2:16-17: "Portanto, que ninguém os julgue pelo que vocês comem ou bebem, ou com relação a alguma festividade religiosa ou à celebração das luas novas ou dos dias de sábado. Estas coisas são sombras do que haveria de vir; a realidade, porém, encontra-se em Cristo." Esse versículo sugere que a santidade não depende de seguir as leis alimentares de Levítico 11 ou de observar as festividades religiosas, mas sim de ter uma relação pessoal com Cristo.
+****
+
+[[v3-11-1]]
+
+^<<v3-11-1,1>>^ O Senhor disse a Moisés e a Aarão: “Dize aos israelitas o seguinte:
+
+[[v3-11-2]]
+
+^<<v3-11-2,2>>^ Entre todos os animais da terra, podereis comer:
+
+[[v3-11-3]]
+
+^<<v3-11-3,3>>^ todo animal que tem a unha fendida e o casco dividido, e que rumina.
+
+[[v3-11-4]]
+
+^<<v3-11-4,4>>^ Mas não comereis aqueles que só ruminam ou só têm a unha fendida. A estes, os tereis por impuros: tal como o camelo, que rumina mas não tem o casco fendido.
+
+[[v3-11-5]]
+
+^<<v3-11-5,5>>^ E como o coelho igualmente, que rumina mas não tem a unha fendida; os tereis por impuros.
+
+[[v3-11-6]]
+
+^<<v3-11-6,6>>^ E como a lebre também, que rumina, mas não tem a unha fendida; a tereis por impura;
+
+[[v3-11-7]]
+
+^<<v3-11-7,7>>^ e, enfim, como o porco, que tem a unha fendida e o pé dividido, mas não rumina; o tereis por impuro.
+
+[[v3-11-8]]
+
+^<<v3-11-8,8>>^ Não comereis da sua carne e não tocareis nos seus cadáveres: vós os tereis por impuros.
+
+[[v3-11-9]]
+
+^<<v3-11-9,9>>^ Estes são os animais que vivem na água, que podereis comer: os que têm barbatanas e escamas, nas águas, no mar e nos rios.
+
+[[v3-11-10]]
+
+^<<v3-11-10,10>>^ Mas tereis em abominação todos os que não têm barbatanas nem escama, nos mares e nos rios, entre todos os animais que vivem nas águas e entre todos os seres vivos que nelas se encontram.
+
+[[v3-11-11]]
+
+^<<v3-11-11,11>>^ A esses, os tereis em abominação: não comereis de sua carne e tereis em abominação os seus cadáveres.
+
+[[v3-11-12]]
+
+^<<v3-11-12,12>>^ Todos os que nas águas não têm barbatanas nem escamas, os tereis em abominação.
+
+[[v3-11-13]]
+
+^<<v3-11-13,13>>^ Entre as aves, eis as que tereis abominação e de cuja carne não comereis, porque é uma abominação: a águia, o falcão e o abutre, o milhafre e toda variedade
+
+[[v3-11-14]]
+
+^<<v3-11-14,14>>^ dos falcões, em toda sociedade de
+
+[[v3-11-15]]
+
+^<<v3-11-15,15>>^ corvo,
+
+[[v3-11-16]]
+
+^<<v3-11-16,16>>^ a avestruz, a andorinha, a gaivota e toda a espécie de gavião,
+
+[[v3-11-17]]
+
+^<<v3-11-17,17>>^ o mocho, a coruja e o íbis,
+
+[[v3-11-18]]
+
+^<<v3-11-18,18>>^ o cisne, o pelicano, o alcatraz e a cegonha,
+
+[[v3-11-19]]
+
+^<<v3-11-19,19>>^ toda a variedade de garça, a poupa e o morcego.
+
+[[v3-11-20]]
+
+^<<v3-11-20,20>>^ Todo volátil que anda sobre quatro pés vos será uma abominação.
+
+[[v3-11-21]]
+
+^<<v3-11-21,21>>^ Todavia, entre os insetos voláteis que andam sobre quatro pés podereis comer aqueles que, além de seus quatro pés, têm pernas para saltar em cima da terra.
+
+[[v3-11-22]]
+
+^<<v3-11-22,22>>^ Eis, pois, os que podereis comer: toda a espécie de gafanhotos, assim como as variedades de solam, de hargol e de hagab.^&#42;1^
+
+[[v3-11-23]]
+
+^<<v3-11-23,23>>^ Qualquer outro volátil que tenha quatro pés vos será uma abominação.
+
+[[v3-11-24]]
+
+^<<v3-11-24,24>>^ Tornarei-vos imundos se os tocardes: se alguém tocar os seus cadáveres será impuro até a tarde,
+
+[[v3-11-25]]
+
+^<<v3-11-25,25>>^ e aquele que levar os seus cadáveres lavará suas vestes e será impuro até a tarde.
+
+[[v3-11-26]]
+
+^<<v3-11-26,26>>^ Tereis por impuro todo animal que tenha a unha fendida, mas que não tem o pé dividido e não rumina; se alguém o tocar será imundo.
+
+[[v3-11-27]]
+
+^<<v3-11-27,27>>^ Tereis também por impuros todos os quadrúpedes que andam nas plantas dos pés; se alguém tocar seus cadáveres será impuro até a tarde;
+
+[[v3-11-28]]
+
+^<<v3-11-28,28>>^ e aquele que levar os seus cadáveres lavará suas vestes e será impuro até a tarde. Tereis esses animais por impuros.
+
+[[v3-11-29]]
+
+^<<v3-11-29,29>>^ Entre os animais que se movem em cima da terra, eis os que tereis por impuros: a toupeira, o rato e toda a variedade de lagartos,^&#42;1^
+
+[[v3-11-30]]
+
+^<<v3-11-30,30>>^ o musaranho, a rã, a tartaruga, a lagartixa e o camaleão.
+
+[[v3-11-31]]
+
+^<<v3-11-31,31>>^ Tais são os répteis que tereis por impuros; quem tocar neles, quando mortos, ficará impuro até a tarde.
+
+[[v3-11-32]]
+
+^<<v3-11-32,32>>^ Todo objeto sobre o qual caírem os seus cadáveres será impuro: vasos de madeira, vestes, peles, sacos e qualquer outro utensílio. Deve-se passar esse objeto na água e ele ficará imundo até a tarde; depois disso, estará puro.
+
+[[v3-11-33]]
+
+^<<v3-11-33,33>>^ Se cair uma parte desses cadáveres num vaso de terra, tudo o que se encontrar nele será impuro, e devereis quebrar esse vaso.
+
+[[v3-11-34]]
+
+^<<v3-11-34,34>>^ Todo alimento preparado com água (desse vaso) será impuro como também toda bebida, seja qual for o recipiente que a contenha, será impura.
+
+[[v3-11-35]]
+
+^<<v3-11-35,35>>^ Todo objeto sobre o qual cair alguma coisa dos seus cadáveres será impuro; se for um forno ou fogão serão destruídos: serão impuros, e vós os tereis como tais.
+
+[[v3-11-36]]
+
+^<<v3-11-36,36>>^ Contudo, as fontes e as cisternas em que há depósito de água ficarão puras, mas aquele que tocar os cadáveres será impuro.
+
+[[v3-11-37]]
+
+^<<v3-11-37,37>>^ Se cair alguma coisa dos seus cadáveres sobre uma semente qualquer, esta ficará pura.
+
+[[v3-11-38]]
+
+^<<v3-11-38,38>>^ Mas se se derramar água sobre a semente e alguma coisa dos seus cadáveres cair sobre ela, vós a tratareis como por impura.
+
+[[v3-11-39]]
+
+^<<v3-11-39,39>>^ Se morrer algum animal que vos é lícito comer, aquele que tocar o seu cadáver será impuro até a tarde.
+
+[[v3-11-40]]
+
+^<<v3-11-40,40>>^ Quem comer de sua carne lavará suas vestes e será impuro até a tarde; e aquele que levar esse cadáver lavará suas vestes e ficará impuro até a tarde.
+
+[[v3-11-41]]
+
+^<<v3-11-41,41>>^ Todo animal que se arrasta sobre a terra vos será uma coisa abominável: não se comerá dele.
+
+[[v3-11-42]]
+
+^<<v3-11-42,42>>^ Não comereis animal algum que se arrasta sobre a terra, tanto aqueles que se arrastam sobre o ventre como aqueles que andam sobre quatro ou mais pés, pois são abomináveis.
+
+[[v3-11-43]]
+
+^<<v3-11-43,43>>^ Não vos torneis abomináveis, comendo um desses répteis, e não vos façais impuros por eles, porque vos tornaríeis imundos.
+
+[[v3-11-44]]
+
+^<<v3-11-44,44>>^ Pois eu sou o Senhor, vosso Deus. Vós vos santificareis e sereis santos, porque eu sou santo. Não vos contaminareis com esses animais que se arrastam sobre a terra,^&#42;1^
+
+[[v3-11-45]]
+
+^<<v3-11-45,45>>^ porque eu sou o Senhor que vos tirou da terra do Egito para ser o vosso Deus. Sereis santos porque eu sou santo.
+
+[[v3-11-46]]
+
+^<<v3-11-46,46>>^ Tal é a lei relativa aos quadrúpedes, às aves, a todos os seres vivos que se movem nas águas e a todos aqueles que se arrastam sobre a terra.
+
+[[v3-11-47]]
+
+^<<v3-11-47,47>>^ Essa lei vos fará discernir o que é puro do que é impuro, o animal que pode ser comido do que não pode”.
+
+'''
+
+xref:003-levitico/003-levitico-010.adoc#v3-10-0[&#60; Capítulo Anterior] | <<v3-11-0,Topo>> | xref:003-levitico/003-levitico-012.adoc#v3-12-0[Próximo Capítulo &#62;]

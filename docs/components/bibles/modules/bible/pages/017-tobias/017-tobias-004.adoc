@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v17-4-0]]
+=== Tobias, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* No capítulo 4 de Tobias, o personagem Tobias dá conselhos a seu filho Tobias sobre como viver uma vida justa e virtuosa. Ele enfatiza a importância de seguir os mandamentos de Deus, ajudar os pobres e evitar o pecado. Aqui estão cinco versículos relacionados com esses temas:
+* Provérbios 19:17: "Quem se compadece do pobre ao Senhor empresta, e este lhe paga o seu benefício." Este versículo destaca a importância de ajudar os pobres e mostra que Deus abençoará aqueles que são generosos com os necessitados.
+* Tiago 1:27: "A religião pura e imaculada para com Deus, o Pai, é esta: visitar os órfãos e as viúvas nas suas tribulações e guardar-se da corrupção do mundo." Este versículo mostra que seguir a religião verdadeira envolve ajudar aqueles que estão em necessidade e manter-se longe da influência do mundo pecaminoso.
+* Provérbios 28:13: "O que encobre as suas transgressões nunca prosperará; mas o que as confessa e deixa, alcançará misericórdia." Este versículo destaca a importância de confessar e se arrepender dos pecados, e mostra que aqueles que o fazem encontrarão misericórdia.
+* 1 Timóteo 6:10: "Porque o amor do dinheiro é a raiz de toda espécie de males; e nessa cobiça alguns se desviaram da fé e se traspassaram a si mesmos com muitas dores." Este versículo adverte sobre os perigos da ganância e da cobiça, e mostra que elas podem levar as pessoas a se afastarem da fé.
+* Isaías 1:16-17: "Lavai-vos, purificai-vos, tirai a maldade de vossos atos de diante dos meus olhos; cessai de fazer o mal; aprendei a fazer o bem; buscai a justiça, acabai com a opressão; defendei o direito do órfão, pleiteai a causa das viúvas." Este versículo enfatiza a importância de viver uma vida justa e virtuosa, e mostra que isso envolve fazer o bem, buscar a justiça e ajudar aqueles que são oprimidos e vulneráveis.
+****
+
+[[v17-4-1]]
+
+^<<v17-4-1,1>>^ Tobit, julgando que sua prece tinha sido atendida e que ia morrer, chamou junto de si o seu filho
+
+[[v17-4-2]]
+
+^<<v17-4-2,2>>^ e disse-lhe: “Ouve, meu filho, as palavras que te vou dizer e faze que elas sejam em teu coração um sólido fundamento.
+
+[[v17-4-3]]
+
+^<<v17-4-3,3>>^ Quando Deus tiver recebido a minha alma, darás sepultura ao meu corpo. Honrarás tua mãe todos os dias de tua vida,
+
+[[v17-4-4]]
+
+^<<v17-4-4,4>>^ porque te deves lembrar de quantos perigos ela passou por tua causa (quando te trazia em seu seio).
+
+[[v17-4-5]]
+
+^<<v17-4-5,5>>^ Quando ela morrer, tu a enterrarás junto de mim.
+
+[[v17-4-6]]
+
+^<<v17-4-6,6>>^ Quanto a ti, conserva sempre em teu coração o pensamento de Deus; guarda-te de consentir jamais no pecado e de negligenciar os preceitos do Senhor, nosso Deus.^&#42;1^
+
+[[v17-4-7]]
+
+^<<v17-4-7,7>>^ Dá esmola dos teus bens e não te desvies de nenhum pobre, pois, assim fazendo, Deus tampouco se desviará de ti.
+
+[[v17-4-8]]
+
+^<<v17-4-8,8>>^ Sê misericordioso segundo as tuas posses.
+
+[[v17-4-9]]
+
+^<<v17-4-9,9>>^ Se tiveres muito, dá abundantemente; se tiveres pouco, dá desse pouco de bom coração.
+
+[[v17-4-10]]
+
+^<<v17-4-10,10>>^ Assim acumularás uma boa recompensa para o dia da necessidade.
+
+[[v17-4-11]]
+
+^<<v17-4-11,11>>^ Porque a esmola livra do pecado e da morte e preserva a alma de cair nas trevas.
+
+[[v17-4-12]]
+
+^<<v17-4-12,12>>^ A esmola será para todos os que a praticam um motivo de grande confiança diante do Deus Altíssimo.
+
+[[v17-4-13]]
+
+^<<v17-4-13,13>>^ Guarda-te, meu filho, de toda a fornicação. Fora de tua mulher, não te autorizes jamais um comércio criminoso.^&#42;1^
+
+[[v17-4-14]]
+
+^<<v17-4-14,14>>^ Nunca permitas que o orgulho domine o teu espírito ou as tuas palavras, porque ele é a origem de todo mal.
+
+[[v17-4-15]]
+
+^<<v17-4-15,15>>^ A todo o que fizer para ti um trabalho, paga o seu salário na mesma hora. Que o pagamento de teu operário não fique um instante em teu poder.^&#42;1^
+
+[[v17-4-16]]
+
+^<<v17-4-16,16>>^ Guarda-te de jamais fazer a outrem o que não quererias que te fosse feito.
+
+[[v17-4-17]]
+
+^<<v17-4-17,17>>^ Come o teu pão em companhia dos pobres e dos indigentes. Cobre com as tuas próprias vestes os que estiverem desprovidos delas.
+
+[[v17-4-18]]
+
+^<<v17-4-18,18>>^ Põe o teu pão e o teu vinho sobre a sepultura do justo, mas não o comas, nem o bebas em companhia dos pecadores.^&#42;1^
+
+[[v17-4-19]]
+
+^<<v17-4-19,19>>^ Busca sempre conselho junto ao sábio.
+
+[[v17-4-20]]
+
+^<<v17-4-20,20>>^ Bendize a Deus em todo o tempo e pede-lhe que dirija os teus passos, de modo que os teus planos estejam sempre de acordo com a sua vontade.^&#42;1^
+
+[[v17-4-21]]
+
+^<<v17-4-21,21>>^ Faço-te saber também, meu filho, que quando eras ainda pequenino, emprestei a Gabael de Ragés, cidade da Média, uma soma de dez talentos de prata, cujo recibo tenho guardado comigo.
+
+[[v17-4-22]]
+
+^<<v17-4-22,22>>^ Procura, pois, um meio de ir até lá para receber o sobredito peso de prata, restituindo-lhe o recibo.
+
+[[v17-4-23]]
+
+^<<v17-4-23,23>>^ Procura viver sem cuidados, meu filho. Levamos, é certo, uma vida pobre, mas se temermos a Deus, se evitarmos todo pecado e vivermos honestamente, grande será a nossa riqueza”.
+
+'''
+
+xref:017-tobias/017-tobias-003.adoc#v17-3-0[&#60; Capítulo Anterior] | <<v17-4-0,Topo>> | xref:017-tobias/017-tobias-005.adoc#v17-5-0[Próximo Capítulo &#62;]

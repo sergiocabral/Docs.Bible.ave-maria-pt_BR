@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-147-0]]
+=== Salmos, 147
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 147 é um cântico de louvor a Deus por sua grandeza e poder, bem como por sua bondade para com seu povo. O salmista começa louvando a Deus por sua restauração de Jerusalém e seu cuidado com os oprimidos, e depois passa a exaltar a grandeza de Deus na criação e em seu controle sobre o universo.
+* Isaías 40:26: "Levantai ao alto os olhos e vede. Quem criou estas coisas? Aquele que faz sair o seu exército de estrelas, chamando-as pelo seu nome; por ser ele grande em força e forte em poder, nenhuma faltará." Esse verso destaca a grandeza de Deus na criação e seu poder sobre o universo, temas que também são abordados no Salmo 147.
+* Salmos 104:14-15: "Faz crescer a relva para os animais e as ervas para o serviço do homem, para que tire da terra o alimento, e o vinho que alegra o coração do homem, e o azeite que faz reluzir o seu rosto, e o pão que fortalece o coração do homem." Este verso fala sobre a provisão de Deus para as necessidades do homem, um tema que também é abordado no Salmo 147.
+* Salmos 139:2: "Tu conheces o meu sentar e o meu levantar; de longe entendes o meu pensamento." Este verso destaca o conhecimento de Deus sobre o homem, um tema que é enfatizado no Salmo 147 quando o salmista louva a Deus por sua atenção aos necessitados.
+* Salmos 33:13-14: "O Senhor contempla desde o seu santuário; dos céus observa a todos os filhos dos homens; da sua morada contempla todos os habitantes da terra." Este verso destaca o controle de Deus sobre o universo e sua capacidade de ver tudo o que acontece, um tema que é abordado no Salmo 147 quando o salmista louva a Deus por seu poder e controle.
+* Jeremias 31:35: "Assim diz o Senhor, que dá o sol para luz do dia e as leis fixas à lua e às estrelas para luz da noite, que agita o mar para que bramem as suas ondas; o Senhor dos Exércitos é o seu nome." Este verso enfatiza a criação e controle de Deus sobre o universo, um tema que também é abordado no Salmo 147.
+****
+
+[[v21-147-1]]
+
+^<<v21-147-1,1>>^ (12) Salmo. Louva, ó Jerusalém, o Senhor; louva o teu Deus, ó Sião,
+
+[[v21-147-2]]
+
+^<<v21-147-2,2>>^ (13) porque ele reforçou os ferrolhos de tuas portas, e abençoou teus filhos em teu seio.
+
+[[v21-147-3]]
+
+^<<v21-147-3,3>>^ (14) Estabeleceu a paz em tuas fronteiras, e te nutre com a flor do trigo.
+
+[[v21-147-4]]
+
+^<<v21-147-4,4>>^ (15) Ele envia a sua palavra sobre a terra, e aí ela corre velozmente.
+
+[[v21-147-5]]
+
+^<<v21-147-5,5>>^ (16) Ele faz cair a neve como lã, espalha a geada como cinza.
+
+[[v21-147-6]]
+
+^<<v21-147-6,6>>^ (17) Atira o seu granizo como migalhas de pão, diante de seu frio as águas se congelam.
+
+[[v21-147-7]]
+
+^<<v21-147-7,7>>^ (18) À sua ordem, porém, elas se derretem; faz soprar o vento e as águas correm de novo.
+
+[[v21-147-8]]
+
+^<<v21-147-8,8>>^ (19) Ele revelou sua palavra a Jacó, sua Lei e seus preceitos a Israel.
+
+[[v21-147-9]]
+
+^<<v21-147-9,9>>^ (20) Com nenhum outro povo agiu assim, a nenhum deles manifestou seus mandamentos.
+
+'''
+
+xref:021-salmos/021-salmos-146.adoc#v21-146-0[&#60; Capítulo Anterior] | <<v21-147-0,Topo>> | xref:021-salmos/021-salmos-148.adoc#v21-148-0[Próximo Capítulo &#62;]

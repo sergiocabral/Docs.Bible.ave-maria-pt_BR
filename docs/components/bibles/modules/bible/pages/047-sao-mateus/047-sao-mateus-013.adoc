@@ -1,0 +1,251 @@
+include::./index.adoc[]
+
+[[v47-13-0]]
+=== São Mateus, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 13 de São Mateus contém uma série de parábolas contadas por Jesus sobre o Reino dos Céus. Essas parábolas usam imagens da vida cotidiana para explicar conceitos espirituais, como a importância de ouvir a Palavra de Deus e os perigos da incredulidade. Aqui estão cinco versículos relacionados aos temas abordados em São Mateus 13:
+* João 15:5: "Eu sou a videira; vocês são os ramos. Se alguém permanecer em mim e eu nele, esse dará muito fruto; pois sem mim vocês não podem fazer coisa alguma." Essa metáfora de Jesus fala sobre a importância de permanecer em Cristo para produzir frutos espirituais.
+* Marcos 4:20: "Outros, como a semente lançada em solo bom, ouvem a palavra, a aceitam e dão uma colheita: trinta, sessenta e até cem vezes mais do que foi semeado." Esse versículo fala sobre a importância de ouvir e aceitar a Palavra de Deus para produzir uma colheita abundante.
+* Mateus 7:24-27: "Portanto, quem ouve estas minhas palavras e as põe em prática é como um homem prudente que construiu a sua casa sobre a rocha. Caiu a chuva, transbordaram os rios, sopraram os ventos e deram contra aquela casa, e ela não caiu, porque tinha seus alicerces na rocha. Mas quem ouve estas minhas palavras e não as põe em prática é como um insensato que construiu a sua casa sobre a areia. Caiu a chuva, transbordaram os rios, sopraram os ventos e deram contra aquela casa, e ela caiu. E foi grande a sua queda." Este versículo fala sobre a importância de construir nossa vida sobre a Palavra de Deus.
+* Lucas 8:18: "Portanto, considerem com cuidado como vocês estão ouvindo. A quem tiver, mais lhe será dado; de quem não tiver, até o que pensa que tem lhe será tirado." Esse versículo fala sobre a importância de ouvir com atenção a Palavra de Deus e estar aberto para receber mais revelação.
+* 2 Coríntios 4:3-4: "Mas, se o nosso evangelho está encoberto, para os que estão perecendo é que está encoberto. O deus deste século cegou o entendimento dos descrentes, para que não vejam a luz do evangelho da glória de Cristo, que é a imagem de Deus." Esse versículo fala sobre a realidade espiritual da incredulidade e o papel do diabo em cegar as mentes dos incrédulos para que não vejam a verdade do evangelho.
+****
+
+[[v47-13-1]]
+
+^<<v47-13-1,1>>^ Naquele dia, saiu Jesus e sentou-se à beira do lago.
+
+[[v47-13-2]]
+
+^<<v47-13-2,2>>^ Acercou-se dele, porém, uma tal multidão, que precisou entrar numa barca. Nela se assentou, enquanto a multidão ficava à margem.
+
+[[v47-13-3]]
+
+^<<v47-13-3,3>>^ E seus discursos foram uma série de parábolas.
+
+[[v47-13-4]]
+
+^<<v47-13-4,4>>^ Disse ele: “Um semeador saiu a semear. E, semeando, parte da semente caiu ao longo do caminho; os pássaros vieram e a comeram.
+
+[[v47-13-5]]
+
+^<<v47-13-5,5>>^ Outra parte caiu em solo pedregoso, onde não havia muita terra, e nasceu logo, porque a terra era pouco profunda.
+
+[[v47-13-6]]
+
+^<<v47-13-6,6>>^ Logo, porém, que o sol nasceu, queimou-se, por falta de raízes.
+
+[[v47-13-7]]
+
+^<<v47-13-7,7>>^ Outras sementes caíram entre os espinhos: os espinhos cresceram e as sufocaram.
+
+[[v47-13-8]]
+
+^<<v47-13-8,8>>^ Outras, enfim, caíram em terra boa: deram frutos, cem por um, sessenta por um, trinta por um.
+
+[[v47-13-9]]
+
+^<<v47-13-9,9>>^ Aquele que tem ouvidos, ouça”.
+
+[[v47-13-10]]
+
+^<<v47-13-10,10>>^ Os discípulos aproximaram-se dele, então, para dizer-lhe: “Por que lhes falas em parábolas?”
+
+[[v47-13-11]]
+
+^<<v47-13-11,11>>^ Respondeu Jesus: “Porque a vós é dado compreender os mistérios do Reino dos Céus, mas a eles não.^&#42;1^
+
+[[v47-13-12]]
+
+^<<v47-13-12,12>>^ Ao que tem se lhe dará e terá em abundância, mas ao que não tem, será tirado até mesmo o que tem.
+
+[[v47-13-13]]
+
+^<<v47-13-13,13>>^ Eis por que lhes falo em parábolas: para que, vendo, não vejam e, ouvindo, não ouçam nem compreendam.
+
+[[v47-13-14]]
+
+^<<v47-13-14,14>>^ Assim se cumpre para eles o que foi dito pelo profeta Isaías: Ouvireis com vossos ouvidos e não entendereis, olhareis com vossos olhos e não vereis,
+
+[[v47-13-15]]
+
+^<<v47-13-15,15>>^ porque o coração deste povo se endureceu: taparam os seus ouvidos e fecharam os seus olhos, para que seus olhos não vejam e seus ouvidos não ouçam, nem seu coração compreenda; para que não se convertam e eu os sare (Is 6,9s).
+
+[[v47-13-16]]
+
+^<<v47-13-16,16>>^ Mas, quanto a vós, bem-aventurados os vossos olhos, porque veem! Ditosos os vossos ouvidos, porque ouvem!
+
+[[v47-13-17]]
+
+^<<v47-13-17,17>>^ Eu vos declaro, em verdade: muitos profetas e justos desejaram ver o que vedes e não o viram, ouvir o que ouvis e não ouviram”.
+
+[[v47-13-18]]
+
+^<<v47-13-18,18>>^ “Ouvi, pois, o sentido da parábola do semeador:
+
+[[v47-13-19]]
+
+^<<v47-13-19,19>>^ quando um homem ouve a palavra do Reino e não a entende, o Maligno vem e arranca o que foi semeado no seu coração. Este é aquele que recebeu a semente à beira do caminho.
+
+[[v47-13-20]]
+
+^<<v47-13-20,20>>^ O solo pedregoso em que ela caiu é aquele que acolhe com alegria a palavra ouvida,
+
+[[v47-13-21]]
+
+^<<v47-13-21,21>>^ mas não tem raízes, é inconstante: sobrevindo uma tribulação ou uma perseguição por causa da palavra, logo encontra uma ocasião de queda.
+
+[[v47-13-22]]
+
+^<<v47-13-22,22>>^ O terreno que recebeu a semente entre os espinhos representa aquele que ouviu bem a palavra, mas nele os cuidados do mundo e a sedução das riquezas a sufocam e a tornam infrutuosa.
+
+[[v47-13-23]]
+
+^<<v47-13-23,23>>^ A terra boa semeada é aquele que ouve a palavra e a compreende, e produz fruto: cem por um, sessenta por um, trinta por um.”
+
+[[v47-13-24]]
+
+^<<v47-13-24,24>>^ Jesus propôs-lhes outra parábola: “O Reino dos Céus é semelhante a um homem que tinha semeado boa semente em seu campo.
+
+[[v47-13-25]]
+
+^<<v47-13-25,25>>^ Na hora, porém, em que os homens repousavam, veio o seu inimigo, semeou joio no meio do trigo e partiu.
+
+[[v47-13-26]]
+
+^<<v47-13-26,26>>^ O trigo cresceu e deu fruto, mas apareceu também o joio.
+
+[[v47-13-27]]
+
+^<<v47-13-27,27>>^ Os servidores do pai de família vieram e disseram-lhe: ‘Senhor, não semeaste bom trigo em teu campo? Donde vem, pois, o joio?’.
+
+[[v47-13-28]]
+
+^<<v47-13-28,28>>^ Disse-lhes ele: ‘Foi um inimigo que fez isto!’. Replicaram-lhe: ‘Queres que vamos e o arranquemos?’.
+
+[[v47-13-29]]
+
+^<<v47-13-29,29>>^ ‘Não’ – disse ele –; arrancando o joio, arriscais tirar também o trigo.
+
+[[v47-13-30]]
+
+^<<v47-13-30,30>>^ Deixai-os crescer juntos até a colheita. No tempo da colheita, direi aos ceifadores: arrancai primeiro o joio e atai-o em feixes para o queimar. Recolhei depois o trigo no meu celeiro’.”
+
+[[v47-13-31]]
+
+^<<v47-13-31,31>>^ Em seguida, propôs-lhes outra parábola: “O Reino dos Céus é comparado a um grão de mostarda que um homem toma e semeia em seu campo.
+
+[[v47-13-32]]
+
+^<<v47-13-32,32>>^ É esta a menor de todas as sementes, mas, quando cresce, torna-se um arbusto maior que todas as hortaliças, de sorte que os pássaros vêm aninhar-se em seus ramos”.^&#42;1^
+
+[[v47-13-33]]
+
+^<<v47-13-33,33>>^ Disse-lhes, por fim, esta outra parábola: “O Reino dos Céus é comparado ao fermento que uma mulher toma e mistura em três medidas de farinha e que faz fermentar toda a massa”.^&#42;1^
+
+[[v47-13-34]]
+
+^<<v47-13-34,34>>^ Tudo isso disse Jesus à multidão em forma de parábola. De outro modo não lhe falava,
+
+[[v47-13-35]]
+
+^<<v47-13-35,35>>^ para que se cumprisse a profecia: Abrirei a boca para ensinar em parábolas; revelarei coisas ocultas desde a criação (Sl 77,2).
+
+[[v47-13-36]]
+
+^<<v47-13-36,36>>^ Então despediu a multidão. Em seguida, entrou de novo na casa e seus discípulos agruparam-se ao redor dele para perguntar-lhe: “Explica-nos a parábola do joio no campo”.
+
+[[v47-13-37]]
+
+^<<v47-13-37,37>>^ Jesus respondeu: “O que semeia a boa semente é o Filho do Homem.
+
+[[v47-13-38]]
+
+^<<v47-13-38,38>>^ O campo é o mundo. A boa semente são os filhos do Reino. O joio são os filhos do Maligno.
+
+[[v47-13-39]]
+
+^<<v47-13-39,39>>^ O inimigo, que o semeia, é o demônio. A colheita é o fim do mundo. Os ceifadores são os anjos.
+
+[[v47-13-40]]
+
+^<<v47-13-40,40>>^ E assim como se recolhe o joio para jogá-lo no fogo, assim será no fim do mundo.
+
+[[v47-13-41]]
+
+^<<v47-13-41,41>>^ O Filho do Homem enviará seus anjos, que retirarão de seu Reino todos os escândalos e todos os que fazem o mal
+
+[[v47-13-42]]
+
+^<<v47-13-42,42>>^ e os lançarão na fornalha ardente, onde haverá choro e ranger de dentes.
+
+[[v47-13-43]]
+
+^<<v47-13-43,43>>^ Então, no Reino de seu Pai, os justos resplandecerão como o sol. Aquele que tem ouvidos, ouça”.
+
+[[v47-13-44]]
+
+^<<v47-13-44,44>>^ “O Reino dos Céus é também semelhante a um tesouro escondido num campo. Um homem o encontra, mas o esconde de novo. E, cheio de alegria, vai, vende tudo o que tem para comprar aquele campo.
+
+[[v47-13-45]]
+
+^<<v47-13-45,45>>^ O Reino dos Céus é ainda semelhante a um negociante que procura pérolas preciosas.^&#42;1^
+
+[[v47-13-46]]
+
+^<<v47-13-46,46>>^ Encontrando uma de grande valor, vai, vende tudo o que possui e a compra.
+
+[[v47-13-47]]
+
+^<<v47-13-47,47>>^ O Reino dos Céus é semelhante ainda a uma rede que, jogada ao mar, recolhe peixes de toda espécie.
+
+[[v47-13-48]]
+
+^<<v47-13-48,48>>^ Quando está repleta, os pescadores puxam-na para a praia, sentam-se e separam nos cestos o que é bom e jogam fora o que não presta.
+
+[[v47-13-49]]
+
+^<<v47-13-49,49>>^ Assim será no fim do mundo: os anjos virão separar os maus do meio dos justos
+
+[[v47-13-50]]
+
+^<<v47-13-50,50>>^ e os arrojarão na fornalha, onde haverá choro e ranger de dentes.
+
+[[v47-13-51]]
+
+^<<v47-13-51,51>>^ Compreendestes tudo isso? – Sim, Senhor – responderam eles.
+
+[[v47-13-52]]
+
+^<<v47-13-52,52>>^ Por isso, todo escriba instruído nas coisas do Reino dos Céus é comparado a um pai de família que tira de seu tesouro coisas novas e velhas.”
+
+[[v47-13-53]]
+
+^<<v47-13-53,53>>^ Após ter exposto as parábolas, Jesus partiu.
+
+[[v47-13-54]]
+
+^<<v47-13-54,54>>^ Foi para a sua cidade e ensinava na sinagoga, de modo que todos diziam admirados: “Donde lhe vem esta sabedoria e esta força miraculosa?
+
+[[v47-13-55]]
+
+^<<v47-13-55,55>>^ Não é este o filho do carpinteiro? Não é Maria sua mãe? Não são seus irmãos Tiago, José, Simão e Judas?
+
+[[v47-13-56]]
+
+^<<v47-13-56,56>>^ E suas irmãs, não vivem todas entre nós? Donde lhe vem, pois, tudo isso?”.
+
+[[v47-13-57]]
+
+^<<v47-13-57,57>>^ E não sabiam o que dizer dele. Disse-lhes, porém, Jesus: “É só em sua pátria e em sua família que um profeta é menosprezado”.
+
+[[v47-13-58]]
+
+^<<v47-13-58,58>>^ E, por causa da falta de confiança deles, operou ali poucos milagres.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-012.adoc#v47-12-0[&#60; Capítulo Anterior] | <<v47-13-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-014.adoc#v47-14-0[Próximo Capítulo &#62;]

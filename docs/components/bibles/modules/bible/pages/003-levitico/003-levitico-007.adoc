@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v3-7-0]]
+=== Levítico, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Levítico 7 aborda as leis referentes aos sacrifícios de paz e como a carne desses animais deve ser consumida. A seguir estão cinco versículos relacionados com os temas abordados nesse capítulo, em ordem de proximidade com os assuntos tratados:
+* Deuteronômio 12:20-21: "Quando o Senhor, teu Deus, ampliar o teu território, como te prometeu, e tu disseres: Vou comer carne, porque estou com desejo de carne, segundo o teu desejo, poderás comer carne, conforme a tua alma desejar. Se o lugar que o Senhor, teu Deus, escolher para fazer habitar o seu nome for longe de ti, então, matarás do teu gado e do teu rebanho que o Senhor te houver dado, como te ordenei, e comerás dentro das tuas portas, segundo o teu desejo e segundo a tua alma."
+* Atos 15:29: "Que vos abstenhais das coisas sacrificadas a ídolos, e do sangue, e da carne sufocada, e da prostituição; e destas coisas fareis bem de vos guardar. Bem vos vá."
+* 1 Coríntios 10:25-26: "Comei de tudo quanto se vende no açougue, sem nada perguntar, por causa da consciência. Porque do Senhor é a terra e a sua plenitude."
+* 1 Timóteo 4:3-5: "Que proíbem o casamento, e ordenam a abstinência de alimentos que Deus criou para serem recebidos com ações de graças pelos fiéis, e por quantos conhecem plenamente a verdade. Porque toda criatura de Deus é boa, e não há nada que rejeitar, sendo recebido com ações de graças. Porque pela palavra de Deus e pela oração é santificada."
+* Romanos 14:6-7: "Aquele que faz caso do dia, para o Senhor o faz; e quem não faz caso do dia, para o Senhor o não faz. Quem come, para o Senhor come, porque dá graças a Deus; e quem não come, para o Senhor não come, e dá graças a Deus."
+* Esses versículos tratam de temas relacionados com o consumo de carne e sua procedência, bem como a liberdade que os cristãos têm em relação a isso. Enquanto Deuteronômio 12:20-21 trata da permissão dada por Deus para comer carne dentro de suas próprias portas, Atos 15:29 instrui os cristãos a se absterem de carne sufocada e oferecida a ídolos. 1 Coríntios 10:25-26 e 1 Timóteo 4:3-5 indicam que toda criatura de Deus é boa para consumo e que a palavra de Deus e a oração podem santificar o alimento. Finalmente, Romanos 14:6-7 indica que o que importa é a atitude de gratidão para com Deus, independentemente de se comer ou não carne.
+****
+
+[[v3-7-1]]
+
+^<<v3-7-1,1>>^ “Eis a lei do sacrifício de reparação; essa é uma coisa santíssima.
+
+[[v3-7-2]]
+
+^<<v3-7-2,2>>^ A vítima do sacrifício de reparação será imolada no lugar onde se imola o holocausto: e se derramará o seu sangue em toda a volta do altar.
+
+[[v3-7-3]]
+
+^<<v3-7-3,3>>^ Dela se oferecerá toda a gordura, a cauda, a gordura que envolve as entranhas,
+
+[[v3-7-4]]
+
+^<<v3-7-4,4>>^ os dois rins com a gordura que os recobre na região lombar e a pele que recobre o fígado, a qual será desprendida de junto dos rins.
+
+[[v3-7-5]]
+
+^<<v3-7-5,5>>^ O sacerdote as queimará sobre o altar, em sacrifício pelo fogo ao Senhor; esse é um sacrifício de reparação.
+
+[[v3-7-6]]
+
+^<<v3-7-6,6>>^ Todo varão entre os sacerdotes comerá dela em um lugar santo: essa é uma coisa santíssima.
+
+[[v3-7-7]]
+
+^<<v3-7-7,7>>^ O sacrifício de reparação será feito exatamente como o sacrifício pelo pecado. Será uma só lei para os dois. A vítima pertencerá ao sacerdote que faz a expiação.
+
+[[v3-7-8]]
+
+^<<v3-7-8,8>>^ O sacerdote que oferecer o holocausto por alguém terá a pele da vítima oferecida.
+
+[[v3-7-9]]
+
+^<<v3-7-9,9>>^ Toda oblação cozida no forno, na caçarola ou na assadeira será do sacerdote que a tiver oferecido.
+
+[[v3-7-10]]
+
+^<<v3-7-10,10>>^ Toda oblação amassada com óleo, ou seca, pertencerá aos filhos de Aarão, sem distinção.
+
+[[v3-7-11]]
+
+^<<v3-7-11,11>>^ Eis a lei do sacrifício pacífico que se oferece ao Senhor:
+
+[[v3-7-12]]
+
+^<<v3-7-12,12>>^ Se a oferta for em ação de graças, serão oferecidos com a vítima de ação de graças bolos sem fermento, amassados com óleo, bolachas sem fermento untadas de óleo e farinha frita em fôrma de bolos amassados com óleo.
+
+[[v3-7-13]]
+
+^<<v3-7-13,13>>^ Serão oferecidos também bolos fermentados com a oblação do sacrifício pacífico oferecido em ação de graças.
+
+[[v3-7-14]]
+
+^<<v3-7-14,14>>^ Será apresentado um pedaço de cada uma dessas ofertas em oblação reservada para o Senhor. Ela será para o sacerdote que tiver derramado o sangue da vítima pacífica.
+
+[[v3-7-15]]
+
+^<<v3-7-15,15>>^ A carne da vítima de ação de graças oferecida em sacrifício pacífico será comida no dia da oblação; não se deixará nada para o dia seguinte.
+
+[[v3-7-16]]
+
+^<<v3-7-16,16>>^ Se a vítima for oferecida por voto ou como oferta voluntária, deverá ser comida no dia da oblação. O que sobrar poderá ser comido no dia seguinte.
+
+[[v3-7-17]]
+
+^<<v3-7-17,17>>^ O que restar ainda da carne da vítima no terceiro dia deverá ser queimado.
+
+[[v3-7-18]]
+
+^<<v3-7-18,18>>^ Se alguém comer da carne de seu sacrifício pacífico no terceiro dia, esse sacrifício não deverá ser aceito; ele não lhe será levado em conta; essa será uma coisa abominável, e quem dele tiver comido levará o peso de sua falta.
+
+[[v3-7-19]]
+
+^<<v3-7-19,19>>^ A carne que tiver tocado alguma coisa impura não deverá ser comida. Será queimada no fogo. Todo homem puro poderá comer da carne do sacrifício pacífico.
+
+[[v3-7-20]]
+
+^<<v3-7-20,20>>^ Mas aquele que a comer em estado de impureza será cortado do seu povo.
+
+[[v3-7-21]]
+
+^<<v3-7-21,21>>^ Quem tocar alguma coisa impura, imundície humana ou animal impuro, ou qualquer outro objeto abominável, e comer, em seguida, da carne do sacrifício pacífico pertencente ao Senhor, será cortado de seu povo.”
+
+[[v3-7-22]]
+
+^<<v3-7-22,22>>^ O Senhor disse a Moisés:
+
+[[v3-7-23]]
+
+^<<v3-7-23,23>>^ “Dizes isto aos israelitas: Não comereis gordura de boi, de ovelha ou de cabra.
+
+[[v3-7-24]]
+
+^<<v3-7-24,24>>^ A gordura de um animal morto ou dilacerado por uma fera selvagem poderá servir a qualquer outro uso, mas não comereis dela.
+
+[[v3-7-25]]
+
+^<<v3-7-25,25>>^ Todo aquele que comer da gordura de animais oferecidos ao Senhor em sacrifícios feitos pelo fogo será cortado do seu povo.
+
+[[v3-7-26]]
+
+^<<v3-7-26,26>>^ Onde quer que habiteis, não comereis sangue, nem de ave, nem de animais.
+
+[[v3-7-27]]
+
+^<<v3-7-27,27>>^ Todo aquele que comer qualquer espécie de sangue será eliminado de seu povo”.
+
+[[v3-7-28]]
+
+^<<v3-7-28,28>>^ O Senhor disse a Moisés: “Dize isto aos israelitas:
+
+[[v3-7-29]]
+
+^<<v3-7-29,29>>^ Aquele que oferecer ao Senhor uma vítima pacífica, levará ao Senhor a oferta tirada do dito sacrifício.
+
+[[v3-7-30]]
+
+^<<v3-7-30,30>>^ E trará em suas mãos o que deve ser oferecido pelo fogo ao Senhor: a gordura com o peito, para agitá-la como oferta diante do Senhor.
+
+[[v3-7-31]]
+
+^<<v3-7-31,31>>^ O sacerdote queimará a gordura no altar, e o peito será para Aarão e seus filhos.
+
+[[v3-7-32]]
+
+^<<v3-7-32,32>>^ Dareis também ao sacerdote a coxa direita como oferta tomada dos vossos sacrifícios pacíficos.
+
+[[v3-7-33]]
+
+^<<v3-7-33,33>>^ Aquele dentre os filhos de Aarão que oferecer o sangue e a gordura dos sacrifícios pacíficos, esse terá como sua porção a coxa direita.
+
+[[v3-7-34]]
+
+^<<v3-7-34,34>>^ Eu tomei, com efeito, dos sacrifícios pacíficos dos israelitas, o peito que se deve agitar diante de mim e a coxa que se deve pôr à parte, e os dou ao sacerdote Aarão e seus filhos, como direito perpétuo que têm sobre os israelitas.
+
+[[v3-7-35]]
+
+^<<v3-7-35,35>>^ Essa é a parte que tocará a Aarão e seus filhos, dentre os sacrifícios pelo fogo ao Senhor, a partir do dia em que forem apresentados como sacerdotes a serviço do Senhor.
+
+[[v3-7-36]]
+
+^<<v3-7-36,36>>^ Foi o que o Senhor ordenou aos israelitas que dessem aos sacerdotes desde o dia de sua unção. É o direito perpétuo que têm para todos os seus descendentes”.
+
+[[v3-7-37]]
+
+^<<v3-7-37,37>>^ Tal é a lei do holocausto, da oblação, do sacrifício pelo pecado, do sacrifício de reparação e de empossamento e do sacrifício pacífico.
+
+[[v3-7-38]]
+
+^<<v3-7-38,38>>^ O Senhor deu-a a Moisés no monte Sinai, no dia em que prescreveu aos israelitas apresentarem suas ofertas ao Senhor, no deserto do Sinai.
+
+'''
+
+xref:003-levitico/003-levitico-006.adoc#v3-6-0[&#60; Capítulo Anterior] | <<v3-7-0,Topo>> | xref:003-levitico/003-levitico-008.adoc#v3-8-0[Próximo Capítulo &#62;]

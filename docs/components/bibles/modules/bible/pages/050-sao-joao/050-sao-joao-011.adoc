@@ -1,0 +1,247 @@
+include::./index.adoc[]
+
+[[v50-11-0]]
+=== São João, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 11 do Evangelho de João narra a ressurreição de Lázaro por Jesus. É um capítulo que traz muitas reflexões sobre a vida, a morte e a fé. Selecionamos cinco versículos que tratam desses temas:
+* E Jesus lhe disse: "Eu sou a ressurreição e a vida. Aquele que crê em mim, mesmo que morra, viverá." (João 11:25) Neste versículo, Jesus afirma sua divindade e traz uma mensagem de esperança e vida eterna para aqueles que creem nele.
+* "Disse-lhe Marta: Eu sei que ele ressuscitará na ressurreição, no último dia. Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá." (João 11:24-25) Aqui, Marta expressa sua crença na ressurreição futura, mas Jesus lhe revela que ele é a própria ressurreição e a vida, e que a vida eterna começa agora para aqueles que creem nele.
+* "Disse Jesus: Tirai a pedra. Disse-lhe Marta, irmã do defunto: Senhor, já cheira mal, porque é de quatro dias. Disse-lhe Jesus: Não te hei dito que, se creres, verás a glória de Deus?" (João 11:39-40) Neste versículo, Jesus pede para que tirem a pedra do sepulcro, apesar do corpo estar em decomposição, e pede para que Marta creia em sua palavra e veja a glória de Deus.
+* "Jesus chorou. Disseram então os judeus: Vede como o amava." (João 11:35-36) Este versículo mostra a humanidade de Jesus, que se compadece da dor de seus amigos pela perda de Lázaro. Seu choro também evidencia a realidade da morte e sua tristeza diante dela.
+* "E muitos dos judeus que tinham vindo a Maria e, vendo o que Jesus fizera, creram nele." (João 11:45) O capítulo termina com o resultado da ressurreição de Lázaro, que leva muitos a crerem em Jesus. Este versículo mostra como a ressurreição é um sinal poderoso da divindade de Jesus e da verdade de sua mensagem.
+****
+
+[[v50-11-1]]
+
+^<<v50-11-1,1>>^ Lázaro caiu doente em Betânia, onde estavam Maria e sua irmã Marta.
+
+[[v50-11-2]]
+
+^<<v50-11-2,2>>^ Maria era quem ungira o Senhor com o óleo perfumado e lhe enxugara os pés com os seus cabelos. E Lázaro, que estava enfermo, era seu irmão.
+
+[[v50-11-3]]
+
+^<<v50-11-3,3>>^ Suas irmãs mandaram, pois, dizer a Jesus: “Senhor, aquele que tu amas está enfermo”.
+
+[[v50-11-4]]
+
+^<<v50-11-4,4>>^ A essas palavras, disse-lhes Jesus: “Esta enfermidade não causará a morte, mas tem por finalidade a glória de Deus. Por ela será glorificado o Filho de Deus”.
+
+[[v50-11-5]]
+
+^<<v50-11-5,5>>^ Ora, Jesus amava Marta, Maria, sua irmã, e Lázaro.
+
+[[v50-11-6]]
+
+^<<v50-11-6,6>>^ Mas, embora tivesse ouvido que ele estava enfermo, demorou-se ainda dois dias no mesmo lugar.
+
+[[v50-11-7]]
+
+^<<v50-11-7,7>>^ Depois, disse a seus discípulos: “Voltemos para a Judeia”.
+
+[[v50-11-8]]
+
+^<<v50-11-8,8>>^ “Mestre” – responderam eles –, “há pouco os judeus te queriam apedrejar, e voltas para lá?”.
+
+[[v50-11-9]]
+
+^<<v50-11-9,9>>^ Jesus respondeu: “Não são doze as horas do dia? Quem caminha de dia não tropeça, porque vê a luz deste mundo.
+
+[[v50-11-10]]
+
+^<<v50-11-10,10>>^ Mas quem anda de noite tropeça, porque lhe falta a luz”.
+
+[[v50-11-11]]
+
+^<<v50-11-11,11>>^ Depois dessas palavras, ele acrescentou: “Lázaro, nosso amigo, dorme, mas vou despertá-lo.”
+
+[[v50-11-12]]
+
+^<<v50-11-12,12>>^ Disseram-lhe os seus discípulos: “Senhor, se ele dorme, há de sarar”.
+
+[[v50-11-13]]
+
+^<<v50-11-13,13>>^ Jesus, entretanto, falara da sua morte, mas eles pensavam que falasse do sono como tal.
+
+[[v50-11-14]]
+
+^<<v50-11-14,14>>^ Então, Jesus lhes declarou abertamente: “Lázaro morreu.
+
+[[v50-11-15]]
+
+^<<v50-11-15,15>>^ Alegro-me por vossa causa, por não ter estado lá, para que creiais. Mas vamos a ele.”
+
+[[v50-11-16]]
+
+^<<v50-11-16,16>>^ A isso Tomé, chamado Dídimo, disse aos seus condiscípulos: “Vamos também nós, para morrermos com ele”.^&#42;1^
+
+[[v50-11-17]]
+
+^<<v50-11-17,17>>^ À chegada de Jesus, já havia quatro dias que Lázaro estava no sepulcro.
+
+[[v50-11-18]]
+
+^<<v50-11-18,18>>^ Ora, Betânia distava de Jerusalém cerca de quinze estádios.^&#42;1^
+
+[[v50-11-19]]
+
+^<<v50-11-19,19>>^ Muitos judeus tinham vindo a Marta e a Maria, para lhes apresentar condolências pela morte de seu irmão.
+
+[[v50-11-20]]
+
+^<<v50-11-20,20>>^ Mal soube Marta da vinda de Jesus, saiu-lhe ao encontro. Maria, porém, estava sentada em casa.
+
+[[v50-11-21]]
+
+^<<v50-11-21,21>>^ Marta disse a Jesus: “Senhor, se tivesses estado aqui, meu irmão não teria morrido!
+
+[[v50-11-22]]
+
+^<<v50-11-22,22>>^ Mas sei também, agora, que tudo o que pedires a Deus, Deus te concederá”.
+
+[[v50-11-23]]
+
+^<<v50-11-23,23>>^ Disse-lhe Jesus: “Teu irmão ressurgirá”.
+
+[[v50-11-24]]
+
+^<<v50-11-24,24>>^ Respondeu-lhe Marta: “Sei que há de ressurgir na ressurreição no último dia”.
+
+[[v50-11-25]]
+
+^<<v50-11-25,25>>^ Disse-lhe Jesus: “Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que esteja morto, viverá.
+
+[[v50-11-26]]
+
+^<<v50-11-26,26>>^ E todo aquele que vive e crê em mim, jamais morrerá. Crês nisso?”.^&#42;1^
+
+[[v50-11-27]]
+
+^<<v50-11-27,27>>^ Respondeu ela: “Sim, Senhor. Eu creio que tu és o Cristo, o Filho de Deus, aquele que devia vir ao mundo”.^&#42;1^
+
+[[v50-11-28]]
+
+^<<v50-11-28,28>>^ A essas palavras, ela foi chamar sua irmã Maria, dizendo-lhe baixinho: “O Mestre está aí e te chama”.
+
+[[v50-11-29]]
+
+^<<v50-11-29,29>>^ Apenas ela o ouviu, levantou-se imediatamente e foi ao encontro dele.
+
+[[v50-11-30]]
+
+^<<v50-11-30,30>>^ (Pois Jesus não tinha chegado à aldeia, mas estava ainda naquele lugar onde Marta o tinha encontrado.)
+
+[[v50-11-31]]
+
+^<<v50-11-31,31>>^ Os judeus que estavam com ela em casa, em visita de pêsames, ao verem Maria levantar-se depressa e sair, seguiram-na, crendo que ela ia ao sepulcro para ali chorar.
+
+[[v50-11-32]]
+
+^<<v50-11-32,32>>^ Quando, porém, Maria chegou onde Jesus estava e o viu, lançou-se aos seus pés e disse-lhe: “Senhor, se tivesses estado aqui, meu irmão não teria morrido!”.
+
+[[v50-11-33]]
+
+^<<v50-11-33,33>>^ Ao vê-la chorar assim, como também todos os judeus que a acompanhavam, Jesus ficou intensamente comovido em espírito. E, sob o impulso de profunda emoção,
+
+[[v50-11-34]]
+
+^<<v50-11-34,34>>^ perguntou: “Onde o pusestes?”. Responderam-lhe: “Senhor, vinde ver.”
+
+[[v50-11-35]]
+
+^<<v50-11-35,35>>^ Jesus pôs-se a chorar.
+
+[[v50-11-36]]
+
+^<<v50-11-36,36>>^ Observaram por isso os judeus: “Vede como ele o amava!”.
+
+[[v50-11-37]]
+
+^<<v50-11-37,37>>^ Mas alguns deles disseram: “Não podia ele, que abriu os olhos do cego de nascença, fazer com que este não morresse.
+
+[[v50-11-38]]
+
+^<<v50-11-38,38>>^ Tomado, novamente, de profunda emoção, Jesus foi ao sepulcro. Era uma gruta, coberta por uma pedra.
+
+[[v50-11-39]]
+
+^<<v50-11-39,39>>^ Jesus ordenou: “Tirai a pedra”. Disse-lhe Marta, irmã do morto: “Senhor, já cheira mal, pois há quatro dias que ele está aí...”.
+
+[[v50-11-40]]
+
+^<<v50-11-40,40>>^ Respondeu-lhe Jesus: “Não te disse eu: Se creres, verás a glória de Deus?”. Tiraram, pois, a pedra.
+
+[[v50-11-41]]
+
+^<<v50-11-41,41>>^ Levantando Jesus os olhos ao alto, disse: “Pai, rendo-te graças, porque me ouviste.
+
+[[v50-11-42]]
+
+^<<v50-11-42,42>>^ Eu bem sei que sempre me ouves, mas falo assim por causa do povo que está em roda, para que creiam que tu me enviaste”.
+
+[[v50-11-43]]
+
+^<<v50-11-43,43>>^ Depois dessas palavras, exclamou em alta voz: “Lázaro, vem para fora!”.
+
+[[v50-11-44]]
+
+^<<v50-11-44,44>>^ E o morto saiu, tendo os pés e as mãos ligados com faixas, e o rosto coberto por um sudário. Ordenou então Jesus: “Desatai-o e deixai-o ir”.
+
+[[v50-11-45]]
+
+^<<v50-11-45,45>>^ Muitos dos judeus, que tinham vindo a Marta e Maria e viram o que Jesus fizera, creram nele.
+
+[[v50-11-46]]
+
+^<<v50-11-46,46>>^ Alguns deles, porém, foram aos fariseus e lhes contaram o que Jesus realizara.
+
+[[v50-11-47]]
+
+^<<v50-11-47,47>>^ Os pontífices e os fariseus convocaram o conselho e disseram: “Que faremos? Esse homem multiplica os milagres.
+
+[[v50-11-48]]
+
+^<<v50-11-48,48>>^ Se o deixarmos proceder assim, todos crerão nele, e os romanos virão e arruinarão a nossa cidade e toda a nação”.^&#42;1^
+
+[[v50-11-49]]
+
+^<<v50-11-49,49>>^ Um deles, chamado Caifás, que era o sumo sacerdote daquele ano, disse-lhes: “Vós não entendeis nada!
+
+[[v50-11-50]]
+
+^<<v50-11-50,50>>^ Nem considerais que vos convém que morra um só homem pelo povo, e que não pereça toda a nação”.
+
+[[v50-11-51]]
+
+^<<v50-11-51,51>>^ E ele não disse isso por si mesmo, mas, como era o sumo sacerdote daquele ano, profetizava que Jesus havia de morrer pela nação,^&#42;1^
+
+[[v50-11-52]]
+
+^<<v50-11-52,52>>^ e não somente pela nação, mas também para que fossem reconduzidos à unidade os filhos de Deus dispersos.^&#42;1^
+
+[[v50-11-53]]
+
+^<<v50-11-53,53>>^ E desde aquele momento resolveram tirar-lhe a vida.
+
+[[v50-11-54]]
+
+^<<v50-11-54,54>>^ Em consequência disso, Jesus já não andava em público entre os judeus. Retirou-se para uma região vizinha do deserto, a uma cidade chamada Efraim, e ali se detinha com seus discípulos.
+
+[[v50-11-55]]
+
+^<<v50-11-55,55>>^ Estava próxima a Páscoa dos judeus, e muita gente de todo o país subia a Jerusalém antes da Páscoa para se purificar.^&#42;1^
+
+[[v50-11-56]]
+
+^<<v50-11-56,56>>^ Procuravam Jesus e falavam uns com os outros no templo: “Que vos parece? Achais que ele não virá à festa?”.
+
+[[v50-11-57]]
+
+^<<v50-11-57,57>>^ Mas os sumos sacerdotes e os fariseus tinham dado ordem para que todo aquele que soubesse onde ele estava o denunciasse, para o prenderem. (= Mt 26,6-13 = Mc 14,3-9)
+
+'''
+
+xref:050-sao-joao/050-sao-joao-010.adoc#v50-10-0[&#60; Capítulo Anterior] | <<v50-11-0,Topo>> | xref:050-sao-joao/050-sao-joao-012.adoc#v50-12-0[Próximo Capítulo &#62;]

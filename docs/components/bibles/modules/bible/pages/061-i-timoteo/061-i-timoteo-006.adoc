@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v61-6-0]]
+=== I Timóteo, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 6 de 1 Timóteo trata principalmente de temas relacionados ao dinheiro e à riqueza, enfatizando a importância de não colocar nossa confiança em bens materiais, mas em Deus. Além disso, o capítulo aborda a importância de se evitar contendas e conflitos desnecessários, e de se manter uma vida de retidão e santidade.
+* Provérbios 23:4-5: "Não se preocupe em ficar rico, pare de pensar em como você pode ganhar dinheiro. Porque o dinheiro certamente desaparecerá com o tempo. Pode voar como uma águia e desaparecer no céu". Este verso destaca a importância de não se preocupar em ficar rico e acumular riquezas, em linha com o ensinamento de 1 Timóteo 6 sobre a necessidade de não colocar nossa confiança na riqueza material.
+* 1 Timóteo 6:10 (outro capítulo): "Porque o amor ao dinheiro é a raiz de todos os males. Algumas pessoas, ansiosas por dinheiro, se desviaram da fé e se atormentaram com muitos sofrimentos". Esse verso, embora seja do mesmo livro, está em um capítulo diferente e reforça a mensagem principal de 1 Timóteo 6 sobre a perigosa obsessão pela riqueza.
+* Provérbios 15:27: "Aquele que é ganancioso perturba a sua própria casa, mas quem odeia o suborno viverá". Este verso enfatiza os perigos de se colocar o dinheiro acima de tudo e da importância de viver uma vida justa e honesta, sem ceder à ganância e corrupção.
+* 2 Timóteo 2:22: "Foge, porém, das paixões da mocidade. Segue a justiça, a fé, o amor e a paz com os que, de coração puro, invocam o Senhor". Esse verso destaca a importância de buscar a justiça e a santidade, em vez de se deixar levar pelas paixões e desejos carnais.
+* 1 Pedro 2:11: "Amados, insisto em que, como estrangeiros e peregrinos no mundo, vocês se abstenham dos desejos carnais que guerreiam contra a alma". Esse verso reforça a mensagem de 2 Timóteo 2:22 e destaca a importância de manter uma vida de retidão e santidade, em vez de se deixar levar pelos desejos carnais.
+****
+
+[[v61-6-1]]
+
+^<<v61-6-1,1>>^ Todos os que vivem sob o jugo da servidão considerem seus senhores dignos de toda honra, para que não sejam caluniados o nome de Deus e sua doutrina.
+
+[[v61-6-2]]
+
+^<<v61-6-2,2>>^ E os que têm patrões que abraçaram a fé, nem por isso os menosprezem, sob pretexto de serem irmãos. Ao contrário, deverão servi-los ainda melhor, pelo fato de que eles são fiéis amados de Deus e participantes de seus benefícios. Tal deve ser o tema de teus ensinamentos e de tuas exortações.
+
+[[v61-6-3]]
+
+^<<v61-6-3,3>>^ Quem ensina de outra forma e discorda das salutares palavras de nosso Senhor Jesus Cristo, bem como da doutrina conforme à piedade,
+
+[[v61-6-4]]
+
+^<<v61-6-4,4>>^ é um obcecado pelo orgulho, um ignorante, doentio por questões ociosas e contendas de palavras. Daí se originam a inveja, a discórdia, os insultos, as suspeitas injustas,
+
+[[v61-6-5]]
+
+^<<v61-6-5,5>>^ os vãos conflitos entre homens de coração corrompido e privados da verdade, que só veem na piedade uma fonte de lucro.
+
+[[v61-6-6]]
+
+^<<v61-6-6,6>>^ Sem dúvida, grande fonte de lucro é a piedade, porém quando acompanhada de espírito de desprendimento.
+
+[[v61-6-7]]
+
+^<<v61-6-7,7>>^ Porque nada trouxemos ao mundo, como tampouco nada poderemos levar.
+
+[[v61-6-8]]
+
+^<<v61-6-8,8>>^ Tendo alimento e vestuário, contentemo-nos com isso.
+
+[[v61-6-9]]
+
+^<<v61-6-9,9>>^ Aqueles que ambicionam tornar-se ricos caem nas armadilhas do demônio e em muitos desejos insensatos e nocivos, que precipitam os homens no abismo da ruína e da perdição.
+
+[[v61-6-10]]
+
+^<<v61-6-10,10>>^ Porque a raiz de todos os males é o amor ao dinheiro. Acossados pela cobiça, alguns se desviaram da fé e se enredaram em muitas aflições.
+
+[[v61-6-11]]
+
+^<<v61-6-11,11>>^ Mas tu, ó homem de Deus, foge desses vícios e procura com todo empenho a piedade, a fé, a caridade, a paciência, a mansidão.
+
+[[v61-6-12]]
+
+^<<v61-6-12,12>>^ Combate o bom combate da fé. Conquista a vida eterna, para a qual foste chamado e fizeste aquela nobre profissão de fé perante muitas testemunhas.^&#42;1^
+
+[[v61-6-13]]
+
+^<<v61-6-13,13>>^ Em presença de Deus, que dá a vida a todas as coisas, e de Cristo Jesus, que ante Pôncio Pilatos abertamente testemunhou a verdade,^&#42;1^
+
+[[v61-6-14]]
+
+^<<v61-6-14,14>>^ recomendo-te que guardes o mandamento sem mácula, irrepreensível, até a aparição de nosso Senhor Jesus Cristo,
+
+[[v61-6-15]]
+
+^<<v61-6-15,15>>^ a qual a seu tempo será realizada pelo bem-aventurado e único Soberano, Rei dos reis e Senhor dos senhores,
+
+[[v61-6-16]]
+
+^<<v61-6-16,16>>^ o único que possui a imortalidade e habita em luz inacessível, a quem nenhum homem viu, nem pode ver. A ele, honra e poder eterno! Amém.^&#42;1^
+
+[[v61-6-17]]
+
+^<<v61-6-17,17>>^ Exorta os ricos deste mundo a que não sejam orgulhosos nem ponham sua esperança nas riquezas volúveis, mas em Deus, que nos dá abundantemente todas as coisas para delas fruirmos.
+
+[[v61-6-18]]
+
+^<<v61-6-18,18>>^ Que pratiquem o bem, se enriqueçam de boas obras, sejam generosos, comunicativos,
+
+[[v61-6-19]]
+
+^<<v61-6-19,19>>^ ajuntem um tesouro sólido e excelente para seu futuro, a fim de conquistarem a verdadeira vida.
+
+[[v61-6-20]]
+
+^<<v61-6-20,20>>^ Ó Timóteo, guarda o bem que te foi confiado! Evita as conversas frívolas e mundanas, assim como as contradições de pretensa ciência.^&#42;1^
+
+[[v61-6-21]]
+
+^<<v61-6-21,21>>^ Alguns, por segui-las, se transviaram da fé. A graça esteja convosco.
+
+'''
+
+xref:061-i-timoteo/061-i-timoteo-005.adoc#v61-5-0[&#60; Capítulo Anterior] | <<v61-6-0,Topo>> | xref:062-ii-timoteo/062-ii-timoteo-001.adoc#v62-1-0[Próximo Capítulo &#62;]

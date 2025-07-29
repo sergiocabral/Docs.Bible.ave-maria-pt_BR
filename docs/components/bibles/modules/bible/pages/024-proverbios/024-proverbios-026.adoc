@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v24-26-0]]
+=== Provérbios, 26
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Provérbios 26 é um capítulo que fala sobre a tolice e a insensatez dos insensatos, bem como sobre a importância da prudência e da sabedoria. Abaixo estão cinco versículos que se relacionam com os temas abordados nesse capítulo:
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento, mas os insensatos desprezam a sabedoria e a disciplina." Este versículo destaca a importância da sabedoria e do conhecimento que vem do temor do Senhor, que é um tema central em Provérbios 26.
+* Salmos 14:1: "Diz o tolo em seu coração: 'Deus não existe'. Corromperam-se e cometeram atos detestáveis; não há ninguém que faça o bem." Este verso mostra a tolice dos insensatos e como eles agem de maneira imprudente e ímpia.
+* Provérbios 12:15: "O caminho do tolo parece-lhe certo, mas o sábio ouve os conselhos." Este versículo enfatiza a importância da prudência e da busca por conselhos sábios, em vez de seguir nossos próprios instintos tolos.
+* 1 Coríntios 1:20: "Onde está o sábio? Onde está o erudito? Onde está o questionador desta era? Acaso não tornou Deus louca a sabedoria deste mundo?" Este versículo destaca a diferença entre a sabedoria deste mundo e a sabedoria divina, que é o tema central de Provérbios 26.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo ressalta a importância de confiar em Deus e de buscar sua sabedoria, em vez de confiar em nossa própria sabedoria limitada e insuficiente.
+****
+
+[[v24-26-1]]
+
+^<<v24-26-1,1>>^ Assim como a neve é imprópria no estio e a chuva na ceifa, do mesmo modo não convém ao insensato a consideração.
+
+[[v24-26-2]]
+
+^<<v24-26-2,2>>^ Como um pássaro que foge, uma andorinha que voa: uma maldição injustificada permanece sem efeito.
+
+[[v24-26-3]]
+
+^<<v24-26-3,3>>^ O açoite para o cavalo, o freio para o asno: a vara para as costas do tolo.
+
+[[v24-26-4]]
+
+^<<v24-26-4,4>>^ Não respondas ao néscio segundo sua insensatez, para não seres semelhante a ele.
+
+[[v24-26-5]]
+
+^<<v24-26-5,5>>^ Responde ao tolo segundo sua loucura, para que ele não se julgue sábio aos seus olhos.^&#42;1^
+
+[[v24-26-6]]
+
+^<<v24-26-6,6>>^ Corta os pés, bebe aflições quem confia uma mensagem a um tolo.
+
+[[v24-26-7]]
+
+^<<v24-26-7,7>>^ As pernas de um coxo não têm força: do mesmo modo uma sentença na boca de um tolo.
+
+[[v24-26-8]]
+
+^<<v24-26-8,8>>^ É colocar pedra na funda cumprimentar um tolo.
+
+[[v24-26-9]]
+
+^<<v24-26-9,9>>^ Um espinho que cai na mão de um embriagado: tal é uma sentença na boca dos insensatos.
+
+[[v24-26-10]]
+
+^<<v24-26-10,10>>^ Um arqueiro que fere a todos: tal é aquele que emprega um tolo ou um embriagado.
+
+[[v24-26-11]]
+
+^<<v24-26-11,11>>^ Um cão que volta ao seu vômito: tal é o louco que reitera suas loucuras.^&#42;1^
+
+[[v24-26-12]]
+
+^<<v24-26-12,12>>^ Tu tens visto um homem que se julga sábio? Há mais a esperar de um tolo do que dele.
+
+[[v24-26-13]]
+
+^<<v24-26-13,13>>^ “Há um leão no caminho – diz o preguiçoso –, um leão na estrada!”
+
+[[v24-26-14]]
+
+^<<v24-26-14,14>>^ A porta gira sobre seus gonzos: assim o preguiçoso no seu leito.
+
+[[v24-26-15]]
+
+^<<v24-26-15,15>>^ O preguiçoso põe sua mão no prato e custa-lhe muito levá-la à boca.
+
+[[v24-26-16]]
+
+^<<v24-26-16,16>>^ O preguiçoso julga-se mais sábio do que sete homens que respondem com prudência.
+
+[[v24-26-17]]
+
+^<<v24-26-17,17>>^ É pegar pelas orelhas um cão que passa envolver-se num debate que não interessa.
+
+[[v24-26-18]]
+
+^<<v24-26-18,18>>^ Um louco furioso que lança chamas, flechas e morte:
+
+[[v24-26-19]]
+
+^<<v24-26-19,19>>^ tal é o homem que engana seu próximo e diz em seguida: “mas era para brincar”.
+
+[[v24-26-20]]
+
+^<<v24-26-20,20>>^ Sem lenha o fogo se apaga: desaparecido o relator, acaba-se a questão.
+
+[[v24-26-21]]
+
+^<<v24-26-21,21>>^ Carvão sobre a brasa, lenha sobre o fogo: tal é um intrigante para atiçar uma disputa.
+
+[[v24-26-22]]
+
+^<<v24-26-22,22>>^ As palavras do mexeriqueiro são como guloseimas: penetram até o fundo das entranhas.
+
+[[v24-26-23]]
+
+^<<v24-26-23,23>>^ Uma liga de prata sobre o pote de argila: tais são as palavras ardentes com um coração malévolo.
+
+[[v24-26-24]]
+
+^<<v24-26-24,24>>^ O que odeia, fala com dissimulação; no seu interior maquina a fraude;
+
+[[v24-26-25]]
+
+^<<v24-26-25,25>>^ quando ele falar com amabilidade, não te fies nele porque há sete abominações em seu coração;
+
+[[v24-26-26]]
+
+^<<v24-26-26,26>>^ pode dissimular seu ódio sob aparências, e sua malícia acabará por ser revelada ao público.
+
+[[v24-26-27]]
+
+^<<v24-26-27,27>>^ Quem cava uma fossa, ali cai; quem rola uma pedra, cairá debaixo dela.
+
+[[v24-26-28]]
+
+^<<v24-26-28,28>>^ A língua mendaz odeia aqueles que ela atinge, a boca enganosa conduz à ruína.
+
+'''
+
+xref:024-proverbios/024-proverbios-025.adoc#v24-25-0[&#60; Capítulo Anterior] | <<v24-26-0,Topo>> | xref:024-proverbios/024-proverbios-027.adoc#v24-27-0[Próximo Capítulo &#62;]

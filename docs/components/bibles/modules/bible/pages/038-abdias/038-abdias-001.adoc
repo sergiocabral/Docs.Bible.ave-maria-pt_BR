@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v38-1-0]]
+=== Abdias, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O livro de Abdias é composto por apenas um capítulo e trata-se de uma mensagem de julgamento contra Edom por causa de sua hostilidade e violência contra o povo de Israel. Aqui estão cinco versículos relacionados aos temas abordados em Abdias 1:
+* Êxodo 17:16: "Porque disse: Porquanto jurou o SENHOR que haverá guerra do SENHOR contra Amaleque de geração em geração." A guerra entre os descendentes de Jacó e Esaú (de onde veio Edom) remonta aos tempos bíblicos. O versículo de Êxodo mostra que essa guerra foi iniciada pelo próprio Senhor e que seria travada de geração em geração.
+* Jeremias 49:14: "Ouve-se uma mensagem do Senhor contra Edom, e uma notícia é ouvida em Seir." Jeremias profetiza contra Edom, anunciando que seria destruída como uma das nações vizinhas de Israel que haviam se oposto a Deus e a Seu povo.
+* Ezequiel 35:5: "Porque eterna inimizade tens, e entregaste os filhos de Israel ao fio da espada no tempo da calamidade, no tempo da iniquidade final." Ezequiel também profetiza contra Edom, dizendo que ela foi um inimigo implacável de Israel e que seria punida por isso.
+* Salmos 137:7: "Lembra-te, Senhor, dos filhos de Edom no dia de Jerusalém, que diziam: Descobri-a, descobri-a até aos seus alicerces." Este Salmo recorda o sofrimento do povo judeu no exílio babilônico e alega que os edomitas se alegraram com a queda de Jerusalém e incentivaram sua destruição.
+* Obadias 1:21: "E subirão salvadores ao monte Sião, para julgarem o monte de Esaú, e o reino será do Senhor." O último versículo do livro de Obadias profetiza a vitória final de Israel sobre Edom e a ascensão do Senhor como Rei sobre toda a terra.
+****
+
+[[v38-1-1]]
+
+^<<v38-1-1,1>>^ Visão de Abdias. Eis o que diz o Senhor a respeito de Edom. Eis a mensagem que recebemos do Senhor, e que um mensageiro foi encarregado de levar às nações: De pé! Levantemo-nos contra esse povo! Para o combate!^&#42;1^
+
+[[v38-1-2]]
+
+^<<v38-1-2,2>>^ Eis que te faço pequeno entre as nações, estarás na extrema abjeção.^&#42;1^
+
+[[v38-1-3]]
+
+^<<v38-1-3,3>>^ A soberba do teu coração transviou-te: tu que habitas nas fendas dos rochedos, em uma morada inacessível, e dizes no teu coração: “Quem me faria cair por terra?”.^&#42;1^
+
+[[v38-1-4]]
+
+^<<v38-1-4,4>>^ Ainda que tivesses colocado o teu ninho tão alto como a águia, ou o tivesses posto entre os astros, eu te precipitaria dali – oráculo do Senhor.
+
+[[v38-1-5]]
+
+^<<v38-1-5,5>>^ Se ladrões entrassem em tua casa, ou salteadores noturnos como foste devastado!, eles só levariam aquilo de que necessitam; se vindimadores entrassem em tua vinha, deixariam ainda a respigar.^&#42;1^
+
+[[v38-1-6]]
+
+^<<v38-1-6,6>>^ Como foste revistado, Esaú! Como foram roubados teus tesouros ocultos!
+
+[[v38-1-7]]
+
+^<<v38-1-7,7>>^ Foste expulso até a fronteira por todos os teus aliados; foste enganado, foste dominado por teus amigos. Teus comensais puseram armadilhas sob teus passos; e não o percebeste!
+
+[[v38-1-8]]
+
+^<<v38-1-8,8>>^ Sim, naquele dia – oráculo do Senhor – farei perecer os sábios de Edom, os homens inteligentes da montanha de Esaú.
+
+[[v38-1-9]]
+
+^<<v38-1-9,9>>^ Também os teus valentes, ó Temã, serão tomados de medo, a fim de que todo homem, no dia da carnificina, seja exterminado da montanha de Esaú.
+
+[[v38-1-10]]
+
+^<<v38-1-10,10>>^ Por causa da violência feita ao teu irmão Jacó, estarás coberto de vergonha, e serás aniquilado para sempre.^&#42;1^
+
+[[v38-1-11]]
+
+^<<v38-1-11,11>>^ No dia em que lhe fizeste face, quando bárbaros levavam cativo o seu exército, estrangeiros entravam pelas suas portas e lançavam sortes sobre Jerusalém, tu também eras como um deles.
+
+[[v38-1-12]]
+
+^<<v38-1-12,12>>^ Não te alegres com o dia (do castigo) de teu irmão, no dia do seu infortúnio! Não te alegres com os males dos filhos de Judá, no dia de sua ruína! Não abras a tua boca (para insultar) no dia de seu desastre!^&#42;1^
+
+[[v38-1-13]]
+
+^<<v38-1-13,13>>^ Não entres pelas portas (das cidades) de meu povo, no dia da catástrofe! Não contemples com alegria os seus males no dia da calamidade! Não deites a mão às suas riquezas no dia da sua desventura!
+
+[[v38-1-14]]
+
+^<<v38-1-14,14>>^ Não te ponhas nas encruzilhadas para matar os fugitivos, e não entregues os sobreviventes no dia da tribulação.
+
+[[v38-1-15]]
+
+^<<v38-1-15,15>>^ Porque o dia do Senhor está próximo para todas as nações: como tiveres feito, assim se fará contigo; carregarás sobre a cabeça o peso de teus atos.
+
+[[v38-1-16]]
+
+^<<v38-1-16,16>>^ Assim como bebestes no meu monte santo, assim beberão as nações sem cessar; beberão, sorverão e virão a ser como se nunca tivessem sido.^&#42;1^
+
+[[v38-1-17]]
+
+^<<v38-1-17,17>>^ Mas sobre o monte Sião estarão os sobreviventes; será um lugar santo, e a casa de Jacó recuperará suas possessões.
+
+[[v38-1-18]]
+
+^<<v38-1-18,18>>^ A casa de Jacó será um fogo e a casa de José uma chama, enquanto a casa de Esaú servirá de restolho que será consumido e devorado por aquelas. Nada ficará da casa de Esaú, é o Senhor quem o declara.^&#42;1^
+
+[[v38-1-19]]
+
+^<<v38-1-19,19>>^ Os que habitam o Sul tomarão a montanha de Esaú, os que habitam a planície conquistarão a terra dos filisteus; possuirão o território de Efraim e da Samaria, e Benjamim tomará Galaad.
+
+[[v38-1-20]]
+
+^<<v38-1-20,20>>^ Os exércitos de Israel deportados ocuparão as terras dos cananeus até Sarepta. Os deportados de Jerusalém em Safarad possuirão as cidades do Sul.
+
+[[v38-1-21]]
+
+^<<v38-1-21,21>>^ Subirão, vitoriosos, o monte Sião para julgarem a montanha de Esaú; e ao Senhor pertencerá a realeza.
+
+'''
+
+xref:037-amos/037-amos-009.adoc#v37-9-0[&#60; Capítulo Anterior] | <<v38-1-0,Topo>> | xref:039-jonas/039-jonas-001.adoc#v39-1-0[Próximo Capítulo &#62;]

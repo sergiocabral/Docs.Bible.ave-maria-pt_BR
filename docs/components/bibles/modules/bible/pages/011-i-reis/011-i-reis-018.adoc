@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v11-18-0]]
+=== I Reis, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Reis 18 narra o confronto entre o profeta Elias e os profetas de Baal no Monte Carmelo. Elias desafia os profetas de Baal a fazerem um sacrifício a seu deus e invocá-lo para que este acenda o fogo do sacrifício. Os profetas de Baal tentam, mas sem sucesso. Então, Elias faz um sacrifício a Deus e pede que este acenda o fogo, o que acontece. Depois disso, Elias mata os profetas de Baal. Abaixo, seguem cinco versículos da Bíblia que abordam temas semelhantes aos de 1 Reis 18:
+* Isaías 44:6: "Assim diz o Senhor, o Rei de Israel, e o seu Redentor, o Senhor dos Exércitos: Eu sou o primeiro, e eu sou o último, e fora de mim não há Deus." Este versículo destaca a supremacia de Deus sobre todos os outros deuses, e como Ele é o único Deus verdadeiro.
+* Salmos 86:10: "Porque tu és grande e fazes maravilhas; só tu és Deus." Este versículo destaca a grandeza e a capacidade de Deus de realizar maravilhas e milagres, como o que aconteceu no Monte Carmelo.
+* Jeremias 32:17: "Ah! Senhor Deus, eis que tu fizeste os céus e a terra com o teu grande poder e com o teu braço estendido; nada é demasiadamente difícil para ti." Este versículo destaca o poder e a capacidade ilimitada de Deus de realizar milagres e coisas impossíveis aos olhos humanos.
+* Êxodo 20:3: "Não terás outros deuses diante de mim." Este é o primeiro mandamento da lei dada por Deus a Moisés, e destaca a exclusividade e a importância de se adorar somente a Deus, e não outros deuses.
+* 1 Coríntios 8:6: "Para nós, porém, há um só Deus, o Pai, de quem são todas as coisas e para quem nós vivemos; e um só Senhor, Jesus Cristo, pelo qual são todas as coisas, e nós por ele." Este versículo destaca a unidade de Deus, e como Ele é o Pai de todas as coisas e como todas as coisas foram criadas por meio de Jesus Cristo, o Filho de Deus.
+****
+
+[[v11-18-1]]
+
+^<<v11-18-1,1>>^ Passado muito tempo, foi a palavra de Deus dirigida a Elias no terceiro ano, nestes termos: “Vai apresentar-te diante de Acab, eu vou fazer chover sobre a terra”.
+
+[[v11-18-2]]
+
+^<<v11-18-2,2>>^ Elias partiu e foi apresentar-se a Acab. A fome devastava violentamente a Samaria.
+
+[[v11-18-3]]
+
+^<<v11-18-3,3>>^ Acab mandou chamar Abdias, seu intendente. Abdias era um homem que temia o Senhor.
+
+[[v11-18-4]]
+
+^<<v11-18-4,4>>^ Quando Jezabel massacrou os profetas do Senhor, Abdias tomou cem profetas e escondeu-os em duas cavernas, cinquenta numa e cinquenta noutra, onde lhes tinha providenciado o que comer e beber.
+
+[[v11-18-5]]
+
+^<<v11-18-5,5>>^ Acab disse-lhe: “Percorre a terra; vai a todas as fontes e a todas as torrentes; talvez encontremos erva para conservar a vida aos cavalos e aos burros, evitando assim abater uma parte de nossos animais”.
+
+[[v11-18-6]]
+
+^<<v11-18-6,6>>^ E repartiram entre si a terra para percorrê-la. Acab foi por um lado, sozinho e Abdias tomou uma direção contrária.
+
+[[v11-18-7]]
+
+^<<v11-18-7,7>>^ Enquanto Abdias caminhava, eis que veio Elias ao seu encontro. Abdias reconheceu-o e prostrou-se com o rosto por terra, dizendo: “És tu, meu senhor Elias?”.
+
+[[v11-18-8]]
+
+^<<v11-18-8,8>>^ “Sim, sou eu. Vai dizer ao teu amo: ‘Elias está aí’.”
+
+[[v11-18-9]]
+
+^<<v11-18-9,9>>^ Abdias replicou: “Que pecado cometi eu para que entregues assim o teu servo nas mãos de Acab, para ele me matar?
+
+[[v11-18-10]]
+
+^<<v11-18-10,10>>^ Pela vida de Deus, não há nação nem reino onde meu amo não te tenha mandado buscar. E diziam: Elias não está aqui; e ele fazia jurar reino e povo que não te haviam achado.
+
+[[v11-18-11]]
+
+^<<v11-18-11,11>>^ E agora tu me dizes: Vai dizer ao teu amo: Elias está aí.
+
+[[v11-18-12]]
+
+^<<v11-18-12,12>>^ Mas quando eu me apartar de ti, o Espírito do Senhor te levará para não sei onde e Acab, informado por mim, não te encontrando, me matará. Ora, o teu servo teme o Senhor desde a sua juventude.
+
+[[v11-18-13]]
+
+^<<v11-18-13,13>>^ Porventura não foi dito ao meu senhor o que eu fiz quando Jezabel massacrava os profetas do Senhor? Escondi cem deles, cinquenta numa caverna e cinquenta noutra e os sustentei ali.
+
+[[v11-18-14]]
+
+^<<v11-18-14,14>>^ E agora tu me dizes: Vai dizer ao teu amo: Elias está aí! Ele me matará!”.
+
+[[v11-18-15]]
+
+^<<v11-18-15,15>>^ Elias respondeu-lhe: “Pela vida do Senhor dos exércitos a quem sirvo, hoje mesmo me apresentarei diante de Acab”.
+
+[[v11-18-16]]
+
+^<<v11-18-16,16>>^ Abdias correu para junto de Acab e deu-lhe a nova. Acab saiu ao encontro de Elias.
+
+[[v11-18-17]]
+
+^<<v11-18-17,17>>^ Ao vê-lo, Acab lhe disse: “Eis-te aqui, o perturbador de Israel!”.
+
+[[v11-18-18]]
+
+^<<v11-18-18,18>>^ “Não sou eu o perturbador de Israel”, respondeu Elias, “mas tu, sim e a casa de teu pai, porque abandonastes os preceitos do Senhor e tu seguiste aos Baal.
+
+[[v11-18-19]]
+
+^<<v11-18-19,19>>^ Convoca, pois, à montanha do Carmelo, junto de mim, todo o Israel com os quatrocentos e cinquenta profetas de Baal e os quatrocentos profetas de Aserá, que comem à mesa de Jezabel”.
+
+[[v11-18-20]]
+
+^<<v11-18-20,20>>^ Mandou Acab avisar a todos os israelitas e reuniu os profetas no monte Carmelo.
+
+[[v11-18-21]]
+
+^<<v11-18-21,21>>^ Elias, aproximando-se de todo o povo, disse: “Até quando claudicareis dos dois pés? Se o Senhor é Deus, segui-o, mas se é Baal, segui a Baal!”. O povo nada respondeu.^&#42;1^
+
+[[v11-18-22]]
+
+^<<v11-18-22,22>>^ Elias continuou: “Eu sou o único dos profetas do Senhor que fiquei, enquanto os de Baal são quatrocentos e cinquenta.
+
+[[v11-18-23]]
+
+^<<v11-18-23,23>>^ Deem-nos, portanto, um par de novilhos; eles escolherão um, o farão em pedaços e o colocarão sobre a lenha, mas sem acender o fogo por baixo. Eu tomarei o outro novilho e o colocarei sobre a lenha, sem acender fogo por baixo.
+
+[[v11-18-24]]
+
+^<<v11-18-24,24>>^ Depois disso, invocareis o nome de vosso deus e eu invocarei o nome do Senhor. Aquele que responder pelo fogo, esse será reconhecido como o verdadeiro Deus”. Todo o povo respondeu: “É boa a proposta”.
+
+[[v11-18-25]]
+
+^<<v11-18-25,25>>^ Então disse Elias aos profetas de Baal: “Escolhei vós primeiro um novilho e preparai-o, porque sois mais numerosos e invocai o vosso deus, mas não ponhais fogo”.
+
+[[v11-18-26]]
+
+^<<v11-18-26,26>>^ Eles tomaram o novilho que lhes foi dado e fizeram-no em pedaços. Em seguida, puseram-se a invocar o nome de Baal desde a manhã até o meio-dia, gritando: “Baal, responde-nos!”. Mas não houve voz, nem resposta. E dançavam ao redor do altar que tinham levantado.
+
+[[v11-18-27]]
+
+^<<v11-18-27,27>>^ Sendo já meio-dia, Elias escarnecia-os, dizendo: “Gritai com mais força, pois (seguramente!) ele é deus; mas estará entretido em alguma conversa, ou ocupado, ou em viagem, ou estará dormindo... e isso o acordará”.
+
+[[v11-18-28]]
+
+^<<v11-18-28,28>>^ Eles gritavam, com efeito, em alta voz e retalhavam-se segundo o seu costume, com espadas e lanças, até se cobrirem de sangue.
+
+[[v11-18-29]]
+
+^<<v11-18-29,29>>^ Passado o meio-dia, enquanto continuavam em seus transes proféticos, chegou a hora da oblação. Mas não houve voz, nem resposta, nem sinal algum de atenção.
+
+[[v11-18-30]]
+
+^<<v11-18-30,30>>^ Então, Elias disse ao povo: “Aproximai-vos de mim!”. E todos se aproximaram. Elias reparou o altar demolido do Senhor.
+
+[[v11-18-31]]
+
+^<<v11-18-31,31>>^ Tomou doze pedras, segundo o número das doze tribos saídas dos filhos de Jacó, a quem o Senhor dissera: “Tu te chamarás Israel”.
+
+[[v11-18-32]]
+
+^<<v11-18-32,32>>^ E erigiu com essas pedras um altar ao Senhor. Fez em volta do altar uma valeta, com a capacidade de duas medidas de semente.
+
+[[v11-18-33]]
+
+^<<v11-18-33,33>>^ Dispôs a lenha e colocou sobre ela o boi feito em pedaços.
+
+[[v11-18-34]]
+
+^<<v11-18-34,34>>^ E disse: “Enchei quatro talhas de água e derramai-a em cima do holocausto e da lenha”. Depois disse: “Fazei isso pela segunda vez”. Tendo-o eles feito, disse: “Ainda uma terceira vez”. Eles obedeceram.
+
+[[v11-18-35]]
+
+^<<v11-18-35,35>>^ A água correu em volta do altar e a valeta ficou cheia.
+
+[[v11-18-36]]
+
+^<<v11-18-36,36>>^ Chegou a hora da oblação. O profeta Elias adiantou-se e disse: “Senhor, Deus de Abraão, de Isaac e de Israel, saibam todos hoje que sois o Deus de Israel, que eu sou vosso servo e que por vossa ordem fiz todas estas coisas.
+
+[[v11-18-37]]
+
+^<<v11-18-37,37>>^ Ouvi-me, Senhor, ouvi-me, para que este povo reconheça que vós, Senhor, sois Deus e que sois vós que converteis os seus corações!”.
+
+[[v11-18-38]]
+
+^<<v11-18-38,38>>^ Então, subitamente, o fogo do Senhor baixou do céu e consumiu o holocausto, a lenha, as pedras, a poeira e até mesmo a água da valeta.
+
+[[v11-18-39]]
+
+^<<v11-18-39,39>>^ Vendo isso, o povo prostrou-se com o rosto por terra e exclamou: “O Senhor é Deus! O Senhor é Deus!”.
+
+[[v11-18-40]]
+
+^<<v11-18-40,40>>^ Elias disse-lhes: “Tomai agora os profetas de Baal. Não deixeis escapar um só deles!”. E eles os agarraram. Elias levou-os ao vale de Quison e ali os matou.
+
+[[v11-18-41]]
+
+^<<v11-18-41,41>>^ Então, Elias disse a Acab: “Vai, come e bebe, porque já ouço o ruído de uma grande chuva”.
+
+[[v11-18-42]]
+
+^<<v11-18-42,42>>^ Voltou Acab para comer e beber, enquanto Elias subiu ao cimo do monte Carmelo, onde se encurvou por terra, pondo a cabeça entre os joelhos.
+
+[[v11-18-43]]
+
+^<<v11-18-43,43>>^ Disse ao seu servo: “Sobe um pouco e olha para as bandas do mar”. Ele subiu, olhou o horizonte e disse: “Nada”. Por sete vezes, Elias disse-lhe: “Volta e olha”.
+
+[[v11-18-44]]
+
+^<<v11-18-44,44>>^ Na sétima vez, o servo respondeu: “Eis que sobe do mar uma pequena nuvem, do tamanho da palma da mão”. Elias disse-lhe: “Vai dizer a Acab que prepare o seu carro e desça para que a chuva não o detenha”.
+
+[[v11-18-45]]
+
+^<<v11-18-45,45>>^ Num instante, o céu se cobriu de nuvens negras, soprou o vento e a chuva caiu torrencialmente. Acab pulou na carruagem e partiu para Jezrael.
+
+[[v11-18-46]]
+
+^<<v11-18-46,46>>^ A mão do Senhor veio sobre Elias, o qual, tendo cingido os rins, passou adiante de Acab e chegou à entrada de Jezrael.
+
+'''
+
+xref:011-i-reis/011-i-reis-017.adoc#v11-17-0[&#60; Capítulo Anterior] | <<v11-18-0,Topo>> | xref:011-i-reis/011-i-reis-019.adoc#v11-19-0[Próximo Capítulo &#62;]

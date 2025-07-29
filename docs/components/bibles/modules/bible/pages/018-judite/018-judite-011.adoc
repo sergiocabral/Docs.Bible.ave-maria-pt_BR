@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v18-11-0]]
+=== Judite, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Judite 11 conta a história de quando Judite se apresenta diante de Holofernes, o comandante do exército assírio, e o persuade a permitir que ela vá à noite buscar mantimentos para o seu povo. Enquanto ela está fora, Holofernes começa a cair em sono profundo, e Judite aproveita a oportunidade para decapitá-lo. Os temas principais do capítulo são astúcia, coragem e justiça divina.
+* Provérbios 21:30: "Não há sabedoria, nem inteligência, nem conselho que possam opor-se ao Senhor." Este versículo destaca a superioridade da sabedoria divina sobre a sabedoria humana, o que é ilustrado pela astúcia e estratégia de Judite para derrotar Holofernes.
+* Provérbios 2:6: "Porque o Senhor dá a sabedoria, e da sua boca vem o conhecimento e o entendimento." Este versículo mostra que a sabedoria e a inteligência de Judite foram um dom divino, permitindo que ela agisse com astúcia e determinação.
+* Provérbios 11:3: "A integridade dos justos os guia, mas a perversidade dos infiéis os destrói." A integridade de Judite é um tema central em Judite 11, pois ela age de maneira justa e corajosa, seguindo seus próprios princípios éticos e religiosos em vez de ser manipulada pelas expectativas dos outros.
+* Salmos 34:19: "Muitas são as aflições do justo, mas o Senhor o livra de todas." Este versículo mostra como a coragem e a justiça de Judite são recompensadas por Deus, que a protege de seus inimigos e a ajuda a realizar sua missão.
+* Provérbios 29:23: "O orgulho do homem o abate, mas o humilde de espírito obterá honra." Judite é uma personagem humilde e corajosa, que não se vangloria de sua astúcia ou habilidade, mas reconhece que é um instrumento nas mãos de Deus. Esse versículo destaca a importância da humildade e da modéstia em contraste com a arrogância e o orgulho.
+****
+
+[[v18-11-1]]
+
+^<<v18-11-1,1>>^ Então, Holofernes disse-lhe: “Tranquiliza-te! Não temas em teu coração, pois nunca fiz mal algum a quem estivesse pronto a servir o rei Nabucodonosor.
+
+[[v18-11-2]]
+
+^<<v18-11-2,2>>^ Se teu povo não me tivesse desprezado, eu não teria levantado a minha lança contra ele.
+
+[[v18-11-3]]
+
+^<<v18-11-3,3>>^ Mas dize-me, agora, por que os deixaste e vieste para o meio de nós?”.
+
+[[v18-11-4]]
+
+^<<v18-11-4,4>>^ Judite respondeu-lhe: “Ouve as palavras de tua serva, porque se seguires as palavras que te vou dizer, o Senhor chegará aos seus fins por ti.
+
+[[v18-11-5]]
+
+^<<v18-11-5,5>>^ Juro-o por Nabucodonosor, rei da terra, e por seu poder que está nas tuas mãos para castigo daqueles que se desviam, porque não somente contribuis para que os homens o sirvam, mas até os animais do campo lhe obedecem.
+
+[[v18-11-6]]
+
+^<<v18-11-6,6>>^ A sabedoria de teu espírito é, com efeito, célebre em todas as nações, todo o mundo sabe que és o único bom e poderoso em seu reino e tua administração é louvada em todas as províncias.
+
+[[v18-11-7]]
+
+^<<v18-11-7,7>>^ O que disse Aquior não é um segredo e ninguém ignora o que ordenaste que lhe fosse feito.
+
+[[v18-11-8]]
+
+^<<v18-11-8,8>>^ Porque é manifesto que nosso Deus está de tal forma ofendido pelos pecados do povo, que lhe mandou dizer por meio de seus profetas, que o entregaria por causa de seus pecados.
+
+[[v18-11-9]]
+
+^<<v18-11-9,9>>^ E como os israelitas sabem que ofenderam o seu Deus, tu te tornaste um objeto de terror.
+
+[[v18-11-10]]
+
+^<<v18-11-10,10>>^ Além disso, a fome aperta-os e pela falta de água estão já como mortos.
+
+[[v18-11-11]]
+
+^<<v18-11-11,11>>^ Chegam até a matar os seus animais para beberem o seu sangue.
+
+[[v18-11-12]]
+
+^<<v18-11-12,12>>^ E mesmo as primícias consagradas ao Senhor, seu Deus, que o Senhor lhes proibiu tocar – trigo, vinho e azeite – eles pensam empregá-las e querem assim comer aquilo que não lhes é permitido nem tocar com as mãos. Procedendo assim, é certo que serão entregues à ruína.
+
+[[v18-11-13]]
+
+^<<v18-11-13,13>>^ E eu, tua serva, que sei de tudo isso, fugi do meio deles e o Senhor mandou-me a ti para dizer-te essas coisas.
+
+[[v18-11-14]]
+
+^<<v18-11-14,14>>^ Porque tua serva teme a Deus, mesmo junto de ti e ela sairá do acampamento para orar a Deus.
+
+[[v18-11-15]]
+
+^<<v18-11-15,15>>^ Ele me dirá quando vai puni-los pelos seus pecados e eu virei dizer-te. Então, vou te levar até o coração de Jerusalém e encontrarás todo o povo de Israel como um rebanho de ovelhas sem pastor e não haverá sequer um cão para ladrar contra ti.
+
+[[v18-11-16]]
+
+^<<v18-11-16,16>>^ Isto me foi dito pela providência divina;
+
+[[v18-11-17]]
+
+^<<v18-11-17,17>>^ e como Deus está irritado contra eles, fui enviada para te anunciar”.
+
+[[v18-11-18]]
+
+^<<v18-11-18,18>>^ Holofernes e seus servos alegraram-se com esse discurso e admiraram a sabedoria de Judite, dizendo uns aos outros:
+
+[[v18-11-19]]
+
+^<<v18-11-19,19>>^ “Não há sobre a terra mulher semelhante a esta no valor, na beleza e na sabedoria de suas palavras”.
+
+[[v18-11-20]]
+
+^<<v18-11-20,20>>^ Holofernes disse-lhe: “Deus fez muito bem em te mandar antes do povo, a fim de que possas entregá-lo nas nossas mãos.
+
+[[v18-11-21]]
+
+^<<v18-11-21,21>>^ Teu plano é bom: se teu Deus fizer isso por mim, ele será também o meu Deus e tu serás grande na casa de Nabucodonosor e o teu nome será célebre em toda a terra”.
+
+'''
+
+xref:018-judite/018-judite-010.adoc#v18-10-0[&#60; Capítulo Anterior] | <<v18-11-0,Topo>> | xref:018-judite/018-judite-012.adoc#v18-12-0[Próximo Capítulo &#62;]

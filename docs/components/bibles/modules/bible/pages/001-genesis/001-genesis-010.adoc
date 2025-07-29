@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v1-10-0]]
+=== Gênesis, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 10 é conhecido como a "Tabela das Nações", pois apresenta a genealogia dos filhos de Noé e suas respectivas nações. O capítulo também descreve a distribuição geográfica dessas nações.
+* 1 Crônicas 1:5 - "Os filhos de Jafé: Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tiras." Este versículo se relaciona com Gênesis 10 porque Jafé é um dos filhos de Noé e sua descendência é listada na tabela das nações.
+* Isaías 11:10 - "Naquele dia a raiz de Jessé surgirá como estandarte dos povos; as nações se voltarão para ele, e o lugar de descanso dele será glorioso." Este versículo se relaciona com Gênesis 10 porque descreve a esperança de que todas as nações, incluindo as que foram listadas na tabela das nações, se voltarão para o Messias.
+* Atos dos Apóstolos 2:9-11 - "Partos, medos, elamitas; habitantes da Mesopotâmia, Judéia e Capadócia, do Ponto e da Ásia, da Frígia e da Panfília, do Egito e das regiões da Líbia próximas a Cirene; visitantes de Roma (tanto judeus como convertidos ao judaísmo); cretenses e árabes - ouvimos estes homens falando em nossas próprias línguas sobre as maravilhas de Deus." Este versículo se relaciona com Gênesis 10 porque menciona muitos dos lugares que foram listados na tabela das nações.
+* Ezequiel 27:13 - "Javã, Tubal e Meseque negociaram com você; eles trocaram escravos e objetos de bronze trabalhados por você." Este versículo se relaciona com Gênesis 10 porque menciona Javã, Tubal e Meseque, que são listados como filhos de Jafé na tabela das nações.
+* Apocalipse 7:9 - "Depois disso olhei, e diante de mim estava uma grande multidão que ninguém podia contar, de todas as nações, tribos, povos e línguas, em pé diante do trono e do Cordeiro, vestidos de vestes brancas, com palmas nas mãos." Este versículo se relaciona com Gênesis 10 porque descreve uma visão futura da adoração a Deus, que incluirá pessoas de todas as nações, tribos e línguas, incluindo as que foram listadas na tabela das nações.
+****
+
+[[v1-10-1]]
+
+^<<v1-10-1,1>>^ Eis a posteridade dos filhos de Noé: Sem, Cam e Jafé. Estes tiveram filhos depois do dilúvio.
+
+[[v1-10-2]]
+
+^<<v1-10-2,2>>^ Filhos de Jafé: Gomer, Magog, Madai, Javã, Tubal, Mosoc e Tiras.
+
+[[v1-10-3]]
+
+^<<v1-10-3,3>>^ Filhos de Gomer: Asquenez, Rifat e Togorma.
+
+[[v1-10-4]]
+
+^<<v1-10-4,4>>^ Filhos de Javã: Elisa e Társis, Cetim e Rodanim.
+
+[[v1-10-5]]
+
+^<<v1-10-5,5>>^ Destes saíram os povos dispersos nas ilhas das nações, em seus diversos países, cada um segundo sua língua e segundo suas famílias e suas nações.
+
+[[v1-10-6]]
+
+^<<v1-10-6,6>>^ Filhos de Cam: Cuch, Mesraim, Fut e Canaã.
+
+[[v1-10-7]]
+
+^<<v1-10-7,7>>^ Filhos de Cuch: Sabá, Hévila, Sabata, Regma e Sabataca. Filhos de Regma: Sabá e Dadã.
+
+[[v1-10-8]]
+
+^<<v1-10-8,8>>^ Cuch gerou Nemrod, que foi o primeiro homem poderoso da terra.
+
+[[v1-10-9]]
+
+^<<v1-10-9,9>>^ Ele foi um grande caçador diante do Senhor. Donde a expressão: “Como Nemrod, grande caçador diante do Eterno”.
+
+[[v1-10-10]]
+
+^<<v1-10-10,10>>^ Ele estabeleceu o seu reino primeiramente em Babilônia, Arac, Acad e Calane, na terra de Senaar.
+
+[[v1-10-11]]
+
+^<<v1-10-11,11>>^ Daí foi para Assur e construiu Nínive, Reobot-Ir, Cale
+
+[[v1-10-12]]
+
+^<<v1-10-12,12>>^ e Resen, a grande cidade entre Nínive e Cale.
+
+[[v1-10-13]]
+
+^<<v1-10-13,13>>^ Mesraim gerou os ludim, os anamim, os laabim, os neftuim,
+
+[[v1-10-14]]
+
+^<<v1-10-14,14>>^ os fetrusim, os casluim e os caftorim, donde saíram os filisteus.^&#42;1^
+
+[[v1-10-15]]
+
+^<<v1-10-15,15>>^ Canaã gerou Sidon, seu primogênito, e Het,
+
+[[v1-10-16]]
+
+^<<v1-10-16,16>>^ assim como os jebuseus, os amorreus, os gergeseus,
+
+[[v1-10-17]]
+
+^<<v1-10-17,17>>^ os heveus, os araceus, os sineus,
+
+[[v1-10-18]]
+
+^<<v1-10-18,18>>^ os aradeus, os samareus e os hamateus. Em seguida, as famílias dos cananeus se dispersaram,
+
+[[v1-10-19]]
+
+^<<v1-10-19,19>>^ e o território dos cananeus era desde Sidon, na direção de Gerara, até Gaza; e na direção de Sodoma, Gomorra, Adama e Seboim, até Lesa.
+
+[[v1-10-20]]
+
+^<<v1-10-20,20>>^ Estes são os filhos de Cam segundo suas famílias, suas línguas, em seus diversos países e suas nações.
+
+[[v1-10-21]]
+
+^<<v1-10-21,21>>^ Nasceram também filhos a Sem, pai de todos os filhos de Héber, e irmão mais velho de Jafé.
+
+[[v1-10-22]]
+
+^<<v1-10-22,22>>^ Filhos de Sem: Elam, Assur, Arfaxad, Lud e Aram.
+
+[[v1-10-23]]
+
+^<<v1-10-23,23>>^ Filhos de Aram: Hus, Hul, Geter e Mes.
+
+[[v1-10-24]]
+
+^<<v1-10-24,24>>^ Arfaxad gerou Salé, Salé gerou Héber.
+
+[[v1-10-25]]
+
+^<<v1-10-25,25>>^ Héber teve dois filhos: um se chamava Faleg, porque no seu tempo a terra foi dividida, e o outro se chamava Jectã.^&#42;1^
+
+[[v1-10-26]]
+
+^<<v1-10-26,26>>^ Jectã gerou Elmodad, Salef, Asarmot, Jaré,
+
+[[v1-10-27]]
+
+^<<v1-10-27,27>>^ Aduram, Uzal, Decla,
+
+[[v1-10-28]]
+
+^<<v1-10-28,28>>^ Ebal, Abimael, Sabá,
+
+[[v1-10-29]]
+
+^<<v1-10-29,29>>^ Ofir, Hévila e Jobab. Estes são os filhos de Jetã.
+
+[[v1-10-30]]
+
+^<<v1-10-30,30>>^ A terra que eles habitavam se estendia desde Mesa, na direção de Sefar, até a montanha do oriente.
+
+[[v1-10-31]]
+
+^<<v1-10-31,31>>^ Estes são os filhos de Sem, segundo suas famílias, segundo suas línguas, em seus diversos países e suas nações.
+
+[[v1-10-32]]
+
+^<<v1-10-32,32>>^ Tais são as famílias dos filhos de Noé, segundo suas gerações e suas nações. É deles que descendem as nações que se espalharam sobre a terra depois do dilúvio.
+
+'''
+
+xref:001-genesis/001-genesis-009.adoc#v1-9-0[&#60; Capítulo Anterior] | <<v1-10-0,Topo>> | xref:001-genesis/001-genesis-011.adoc#v1-11-0[Próximo Capítulo &#62;]

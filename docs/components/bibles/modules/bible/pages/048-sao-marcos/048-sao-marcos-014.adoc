@@ -1,0 +1,307 @@
+include::./index.adoc[]
+
+[[v48-14-0]]
+=== São Marcos, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Marcos 14 narra os eventos que antecedem a crucificação de Jesus, incluindo a conspiração dos líderes religiosos para matá-lo, a unção em Betânia, a última ceia de Jesus com seus discípulos e sua prisão no Getsêmani. Abaixo estão cinco versículos relacionados aos temas abordados nesse capítulo:
+* Salmo 41:9 - "Até o meu melhor amigo, em quem eu confiava e que partilhava do meu pão, levantou contra mim o calcanhar." Esse versículo é citado por Jesus na Última Ceia, quando Ele prediz a traição de Judas.
+Isaías 53:3 - "Era desprezado e o mais rejeitado entre os homens, homem de dores e experimentado no sofrimento; e, como um de quem os homens escondiam o rosto, era desprezado, e não fizemos dele caso algum." Esse verso é frequentemente citado em relação à crucificação de Jesus e seu sofrimento como o Servo Sofredor.
+Salmo 27:12 - "Não me entregues à vontade dos meus adversários, pois testemunhas falsas se levantaram contra mim, e os que respiram crueldade tramam contra mim." Esse verso pode ser aplicado à conspiração dos líderes religiosos contra Jesus e sua prisão.
+Isaías 53:5 - "Mas ele foi traspassado por causa das nossas transgressões, foi esmagado por causa das nossas iniquidades; o castigo que nos trouxe a paz estava sobre ele, e pelas suas feridas fomos sarados." Esse verso é outro que é frequentemente associado à crucificação de Jesus e ao motivo pelo qual Ele se entregou à morte.
+Salmo 22:16 - "Perfuraram as minhas mãos e os meus pés." Esse verso é mais uma profecia do Antigo Testamento sobre a crucificação de Jesus, que foi perfurado nas mãos e nos pés pelos cravos.
+****
+
+[[v48-14-1]]
+
+^<<v48-14-1,1>>^ Ora, dali a dois dias seria a festa da Páscoa e dos (pães) ázimos; e os sumos sacerdotes e os escribas buscavam algum meio de prender Jesus à traição para matá-lo.
+
+[[v48-14-2]]
+
+^<<v48-14-2,2>>^ “Mas não durante a festa” – diziam eles – “para não haver talvez algum tumulto entre o povo.” (= Mt 26,6-13 = Jo 12,1-8)
+
+[[v48-14-3]]
+
+^<<v48-14-3,3>>^ Jesus se achava em Betânia, em casa de Simão, o leproso. Quando ele se pôs à mesa, entrou uma mulher trazendo um vaso de alabastro cheio de um perfume de nardo puro, de grande preço, e, quebrando o vaso, derramou-lho sobre a cabeça.
+
+[[v48-14-4]]
+
+^<<v48-14-4,4>>^ Alguns, porém, ficaram indignados e disseram entre si: “Por que esse desperdício de bálsamo?
+
+[[v48-14-5]]
+
+^<<v48-14-5,5>>^ Poderia ter sido vendido por mais de trezentos denários, e serem dados aos pobres”. E irritavam-se contra ela.
+
+[[v48-14-6]]
+
+^<<v48-14-6,6>>^ Mas Jesus disse-lhes: “Deixai-a. Por que a molestais? Ela me fez uma boa obra.
+
+[[v48-14-7]]
+
+^<<v48-14-7,7>>^ Vós sempre tendes convosco os pobres e, quando quiserdes, podeis fazer-lhes bem; mas a mim não me tendes sempre.
+
+[[v48-14-8]]
+
+^<<v48-14-8,8>>^ Ela fez o que pode: embalsamou-me antecipadamente o corpo para a sepultura.
+
+[[v48-14-9]]
+
+^<<v48-14-9,9>>^ Em verdade vos digo: onde quer que for pregado em todo o mundo o Evangelho, será contado para sua memória o que ela fez”. (= Mt 26,14ss = Lc 22,3-6)
+
+[[v48-14-10]]
+
+^<<v48-14-10,10>>^ Judas Iscariotes, um dos Doze, foi avistar-se com os sumos sacerdotes para lhes entregar Jesus.
+
+[[v48-14-11]]
+
+^<<v48-14-11,11>>^ A essa notícia, eles alegraram-se e prometeram dar-lhe dinheiro. E ele buscava ocasião oportuna para o entregar. (= Mt 26,17-29 = Lc 22,7-23)
+
+[[v48-14-12]]
+
+^<<v48-14-12,12>>^ No primeiro dia dos Ázimos, em que se imolava a Páscoa, perguntaram-lhe os discípulos: “Onde queres que preparemos a refeição da Páscoa?”.^&#42;1^
+
+[[v48-14-13]]
+
+^<<v48-14-13,13>>^ Ele enviou dois de seus discípulos, dizendo: “Ide à cidade, e vos sairá ao encontro um homem, carregando um cântaro de água.
+
+[[v48-14-14]]
+
+^<<v48-14-14,14>>^ Segui-o e, onde ele entrar, dizei ao dono da casa: O Mestre pergunta: Onde está a sala em que devo comer a Páscoa com os meus discípulos?
+
+[[v48-14-15]]
+
+^<<v48-14-15,15>>^ E ele vos mostrará uma grande sala no andar superior, mobiliada e pronta. Fazei ali os preparativos”.
+
+[[v48-14-16]]
+
+^<<v48-14-16,16>>^ Partiram os discípulos para a cidade e acharam tudo como Jesus lhes havia dito, e prepararam a Páscoa.
+
+[[v48-14-17]]
+
+^<<v48-14-17,17>>^ Chegando a tarde, dirigiu-se ele para lá com os Doze.
+
+[[v48-14-18]]
+
+^<<v48-14-18,18>>^ E enquanto estavam sentados à mesa e comiam, Jesus disse: “Em verdade vos digo: um de vós que come comigo me há de entregar”.
+
+[[v48-14-19]]
+
+^<<v48-14-19,19>>^ Começaram a entristecer-se e a perguntar-lhe, um após outro: “Porventura sou eu?”.
+
+[[v48-14-20]]
+
+^<<v48-14-20,20>>^ Respondeu-lhes ele: “É um dos Doze, que se serve comigo do mesmo prato.
+
+[[v48-14-21]]
+
+^<<v48-14-21,21>>^ O Filho do Homem vai, segundo o que dele está escrito, mas ai daquele homem por quem o Filho do Homem for traído! Melhor lhe seria que nunca tivesse nascido...”.
+
+[[v48-14-22]]
+
+^<<v48-14-22,22>>^ Durante a refeição, Jesus tomou o pão e, depois de o benzer, partiu-o e deu-lho, dizendo: “Tomai, isto é o meu corpo”.
+
+[[v48-14-23]]
+
+^<<v48-14-23,23>>^ Em seguida, tomou o cálice, deu graças e apresentou-lho, e todos dele beberam.
+
+[[v48-14-24]]
+
+^<<v48-14-24,24>>^ E disse-lhes: “Isto é o meu sangue, o sangue da aliança, que é derramado por muitos.
+
+[[v48-14-25]]
+
+^<<v48-14-25,25>>^ Em verdade vos digo: já não beberei do fruto da videira até aquele dia em que o beberei de novo no Reino de Deus”.^&#42;1^ (= Mt 26,30-35 = Lc 22,31-34.39 = Jo 13,36ss)
+
+[[v48-14-26]]
+
+^<<v48-14-26,26>>^ Terminado o canto dos Salmos, saíram para o monte das Oliveiras.
+
+[[v48-14-27]]
+
+^<<v48-14-27,27>>^ E Jesus disse-lhes: “Vós todos vos escandalizareis, pois está escrito: Ferirei o pastor, e as ovelhas serão dispersas (Zc 13,7).
+
+[[v48-14-28]]
+
+^<<v48-14-28,28>>^ Mas depois que eu ressurgir, eu vos precederei na Galileia”.
+
+[[v48-14-29]]
+
+^<<v48-14-29,29>>^ Entretanto, Pedro lhe respondeu: “Ainda que todos se escandalizem de ti, eu, porém, nunca!”.
+
+[[v48-14-30]]
+
+^<<v48-14-30,30>>^ Jesus disse-lhe: “Em verdade te digo: hoje, nesta mesma noite, antes que o galo cante duas vezes, três vezes me terás negado”.
+
+[[v48-14-31]]
+
+^<<v48-14-31,31>>^ Mas Pedro repetia com maior ardor: “Ainda que seja preciso morrer contigo, não te renegarei”. E todos disseram o mesmo. (= Mt 26,36-46 = Lc 22,39-46)
+
+[[v48-14-32]]
+
+^<<v48-14-32,32>>^ Foram em seguida para o lugar chamado Getsêmani, e Jesus disse a seus discípulos: “Sentai-vos aqui, enquanto vou orar”.
+
+[[v48-14-33]]
+
+^<<v48-14-33,33>>^ Levou consigo Pedro, Tiago e João; e começou a ter pavor e a angustiar-se.
+
+[[v48-14-34]]
+
+^<<v48-14-34,34>>^ Disse-lhes: “A minha alma está numa tristeza mortal; ficai aqui e vigiai”.
+
+[[v48-14-35]]
+
+^<<v48-14-35,35>>^ Adiantando-se alguns passos, prostrou-se com a face por terra e orava que, se fosse possível, passasse dele aquela hora.
+
+[[v48-14-36]]
+
+^<<v48-14-36,36>>^ “Aba! (Pai!), suplicava ele. Tudo te é possível; afasta de mim este cálice! Contudo, não se faça o que eu quero, senão o que tu queres.”
+
+[[v48-14-37]]
+
+^<<v48-14-37,37>>^ Em seguida, foi ter com seus discípulos e achou-os dormindo. Disse a Pedro: “Simão, dormes? Não pudeste vigiar uma hora!
+
+[[v48-14-38]]
+
+^<<v48-14-38,38>>^ Vigiai e orai, para que não entreis em tentação. Pois o espírito está pronto, mas a carne é fraca”.
+
+[[v48-14-39]]
+
+^<<v48-14-39,39>>^ Afastou-se outra vez e orou, dizendo as mesmas palavras.
+
+[[v48-14-40]]
+
+^<<v48-14-40,40>>^ Voltando, achou-os de novo dormindo, porque seus olhos estavam pesados; e não sabiam o que lhe responder.
+
+[[v48-14-41]]
+
+^<<v48-14-41,41>>^ Voltando pela terceira vez, disse-lhes: “Dormi e descansai. Basta! Veio a hora! O Filho do Homem vai ser entregue nas mãos dos pecadores.
+
+[[v48-14-42]]
+
+^<<v48-14-42,42>>^ Levantai-vos e vamos! Aproxima-se o que me há de entregar”. (= Mt 26,47-56 = Lc 22,47-54 = Jo 18,2-12)
+
+[[v48-14-43]]
+
+^<<v48-14-43,43>>^ Ainda falava, quando chegou Judas Iscariotes, um dos Doze, e com ele um bando armado de espadas e cacetes, enviado pelos sumos sacerdotes, escribas e anciãos.
+
+[[v48-14-44]]
+
+^<<v48-14-44,44>>^ Ora, o traidor tinha-lhes dado o seguinte sinal: “Aquele a quem eu beijar é ele. Prendei-o e levai-o com cuidado”.
+
+[[v48-14-45]]
+
+^<<v48-14-45,45>>^ Assim que ele se aproximou de Jesus, disse: “Rabi!” –, e o beijou.
+
+[[v48-14-46]]
+
+^<<v48-14-46,46>>^ Lançaram-lhe as mãos e o prenderam.
+
+[[v48-14-47]]
+
+^<<v48-14-47,47>>^ Um dos circunstantes tirou da espada, feriu o servo do sumo sacerdote e decepou-lhe a orelha.
+
+[[v48-14-48]]
+
+^<<v48-14-48,48>>^ Mas Jesus tomou a palavra e disse-lhes: “Como a um bandido, saístes com espadas e cacetes para prender-me!
+
+[[v48-14-49]]
+
+^<<v48-14-49,49>>^ Entretanto, todos os dias estava convosco, ensinando no templo, e não me prendestes. Mas isso acontece para que se cumpram as Escrituras”.
+
+[[v48-14-50]]
+
+^<<v48-14-50,50>>^ Então, todos o abandonaram e fugiram.
+
+[[v48-14-51]]
+
+^<<v48-14-51,51>>^ Seguia-o um jovem coberto somente de um pano de linho; e prenderam-no.
+
+[[v48-14-52]]
+
+^<<v48-14-52,52>>^ Mas, lançando ele de si o pano de linho, escapou-lhes despido.^&#42;1^ (= Mt 26,57-68 = Lc 22,63-71)
+
+[[v48-14-53]]
+
+^<<v48-14-53,53>>^ Conduziram Jesus à casa do sumo sacerdote, onde se reuniram todos os sacerdotes, escribas e anciãos.
+
+[[v48-14-54]]
+
+^<<v48-14-54,54>>^ Pedro o foi seguindo de longe até dentro do pátio. Sentou-se junto do fogo com os servos e aquecia-se.
+
+[[v48-14-55]]
+
+^<<v48-14-55,55>>^ Os sumos sacerdotes e todo o conselho buscavam algum testemunho contra Jesus, para o condenar à morte, mas não o achavam.
+
+[[v48-14-56]]
+
+^<<v48-14-56,56>>^ Muitos diziam falsos testemunhos contra ele, mas seus depoimentos não concordavam.
+
+[[v48-14-57]]
+
+^<<v48-14-57,57>>^ Levantaram-se, então, alguns e deram este falso testemunho contra ele:
+
+[[v48-14-58]]
+
+^<<v48-14-58,58>>^ “Ouvimo-lo dizer: Eu destruirei este templo, feito por mãos de homens, e em três dias edificarei outro, que não será feito por mãos de homens”.^&#42;1^
+
+[[v48-14-59]]
+
+^<<v48-14-59,59>>^ Mas nem neste ponto eram coerentes os seus testemunhos.
+
+[[v48-14-60]]
+
+^<<v48-14-60,60>>^ O sumo sacerdote levantou-se no meio da assembleia e perguntou a Jesus: “Não respondes nada? O que é isto que dizem contra ti?”.
+
+[[v48-14-61]]
+
+^<<v48-14-61,61>>^ Mas Jesus se calava e nada respondia. O sumo sacerdote tornou a perguntar-lhe: “És tu o Cristo, o Filho de Deus bendito?”.
+
+[[v48-14-62]]
+
+^<<v48-14-62,62>>^ Jesus respondeu: “Eu o sou. E vereis o Filho do Homem sentado à direita do poder de Deus, vindo sobre as nuvens do céu”.
+
+[[v48-14-63]]
+
+^<<v48-14-63,63>>^ O sumo sacerdote rasgou então as suas vestes. “Para que desejamos ainda testemunhas?!” – exclamou ele –.
+
+[[v48-14-64]]
+
+^<<v48-14-64,64>>^ “Ouvistes a blasfêmia! Que vos parece?” E unanimemente o julgaram merecedor da morte.
+
+[[v48-14-65]]
+
+^<<v48-14-65,65>>^ Alguns começaram a cuspir nele, a tapar-lhe o rosto, a dar-lhe socos e a dizer-lhe: “Adivinha!”. Os servos igualmente davam-lhe bofetadas. (= Mt 26,69-75 = Lc 22,55-62 = Jo 18,15-27)
+
+[[v48-14-66]]
+
+^<<v48-14-66,66>>^ Estando Pedro embaixo, no pátio, veio uma das criadas do sumo sacerdote.
+
+[[v48-14-67]]
+
+^<<v48-14-67,67>>^ Ela fixou os olhos em Pedro, que se aquecia, e disse: “Também tu estavas com Jesus de Nazaré”.
+
+[[v48-14-68]]
+
+^<<v48-14-68,68>>^ Ele negou: “Não sei, nem compreendo o que dizes”. E saiu para a entrada do pátio; e o galo cantou.
+
+[[v48-14-69]]
+
+^<<v48-14-69,69>>^ A criada, que o vira, começou a dizer aos circunstantes: “Este faz parte do grupo deles”.
+
+[[v48-14-70]]
+
+^<<v48-14-70,70>>^ Mas Pedro negou outra vez. Pouco depois, os que ali estavam diziam de novo a Pedro: “Certamente tu és daqueles, pois és galileu.”
+
+[[v48-14-71]]
+
+^<<v48-14-71,71>>^ Então, ele começou a praguejar e a jurar: “Não conheço esse homem de quem falais.”
+
+[[v48-14-72]]
+
+^<<v48-14-72,72>>^ E imediatamente cantou o galo pela segunda vez. Pedro lembrou-se da palavra que Jesus lhe havia dito: “Antes que o galo cante duas vezes, três vezes me negarás”. E, lembrando-se disso, rompeu em soluços. (= Mt 27,1s.11-26 = Lc 23,1-5.13-25 = Jo 18,28–19,16)
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-013.adoc#v48-13-0[&#60; Capítulo Anterior] | <<v48-14-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-015.adoc#v48-15-0[Próximo Capítulo &#62;]

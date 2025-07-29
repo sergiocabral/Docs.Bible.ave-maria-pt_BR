@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v30-15-0]]
+=== Jeremias, 15
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 15 apresenta as lamentações de Jeremias por causa da rejeição e perseguição que ele sofreu por parte do povo de Judá e de Deus. Abaixo estão cinco versículos relacionados com os temas abordados nesse capítulo, em ordem de proximidade com os temas:
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado, e salva os contritos de espírito." Este versículo fala da proximidade e da salvação de Deus para aqueles que reconhecem sua necessidade e clamam por ele em meio à dor e ao sofrimento.
+* Romanos 8:28: "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito." Este versículo fala da promessa de Deus de usar todas as coisas para o bem daqueles que o amam e são chamados por ele, mesmo em meio a dificuldades e provações.
+* 2 Coríntios 1:3-4: "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda a consolação, que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, pela consolação com que nós mesmos somos consolados por Deus." Este versículo fala da consolação e do conforto que Deus nos dá em meio às tribulações, para que possamos ser uma fonte de conforto para os outros.
+* Filipenses 4:6-7: "Não andeis ansiosos por coisa alguma; antes em tudo sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças; e a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus." Este versículo fala da importância de confiar em Deus e de buscar a sua paz em meio à ansiedade e preocupação.
+* 1 Pedro 5:7: "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós." Este versículo fala da promessa de Deus de cuidar de nós e de tomar nossas preocupações e ansiedades em suas mãos.
+****
+
+[[v30-15-1]]
+
+^<<v30-15-1,1>>^ Disse-me, então, o Senhor: “Mesmo que Moisés e Samuel se apresentassem diante de mim, meu coração não se voltaria para esse povo. Expulsai-o para longe de minha presença! Que se afaste de mim!
+
+[[v30-15-2]]
+
+^<<v30-15-2,2>>^ E se te perguntarem: Para onde iremos? Tu lhes dirás: oráculo do Senhor: Para a peste, os que são para a peste! Para a espada, os que são para a espada! Para a fome, os que são para a fome! Ao cativeiro, os que são para o cativeiro.
+
+[[v30-15-3]]
+
+^<<v30-15-3,3>>^ Eu lhes destinarei – oráculo do Senhor – quatro flagelos: a espada para degolá-los, os cães para arrastá-los, e as aves do céu e os animais da terra para devorá-los e destruí-los.
+
+[[v30-15-4]]
+
+^<<v30-15-4,4>>^ Farei deles objeto de horror para todos os reinos da terra, por causa de Manassés, filho de Ezequias, rei de Judá, por tudo o que ele fez em Jerusalém”.^&#42;1^
+
+[[v30-15-5]]
+
+^<<v30-15-5,5>>^ Quem de ti se apiedará, Jerusalém? Quem te lastimará? Quem se afastará de sua rota para perguntar por ti?
+
+[[v30-15-6]]
+
+^<<v30-15-6,6>>^ Abandonaste-me – oráculo do Senhor –, voltaste-me as costas. Por isso, sobre ti estendi a mão para perder-te, cansado como estou de perdoar.
+
+[[v30-15-7]]
+
+^<<v30-15-7,7>>^ Eu os joeirei com o crivo às portas da terra; privei de filhos o meu povo, e o deixei perecer. Seu proceder, porém, não mudou.
+
+[[v30-15-8]]
+
+^<<v30-15-8,8>>^ Mais numerosas serão as viúvas do que a areia do mar. Conduzirei contra a mãe do jovem guerreiro, em pleno meio-dia, o devastador. E sobre eles, de súbito, deixarei cair a agonia e o terror.
+
+[[v30-15-9]]
+
+^<<v30-15-9,9>>^ Desfalece aquela que deu à luz sete filhos, pronta a entregar a alma. Antes que findasse o dia, deitou-se-lhe o sol, e de vergonha e consternação se cobriu. O que deles restar, entregarei à espada de seus inimigos – oráculo do Senhor.
+
+[[v30-15-10]]
+
+^<<v30-15-10,10>>^ Ai de mim, ó minha mãe, que me geraste, para tornar-se objeto de disputa e de discórdia em toda a terra! Não sou credor nem devedor, e, no entanto, todos me maldizem.
+
+[[v30-15-11]]
+
+^<<v30-15-11,11>>^ Na verdade, diz o Senhor, eu te livrarei para o teu bem. O inimigo virá implorar-te no dia da desgraça e da aflição.^&#42;1^
+
+[[v30-15-12]]
+
+^<<v30-15-12,12>>^ Poderá o ferro quebrar o ferro do norte e o bronze?^&#42;1^
+
+[[v30-15-13]]
+
+^<<v30-15-13,13>>^ Entrego gratuitamente à pilhagem teus bens e tesouros, por todos os teus pecados, na terra inteira.
+
+[[v30-15-14]]
+
+^<<v30-15-14,14>>^ Eu os farei passar com seus inimigos para um país que não conheces, porquanto inflamou-se um fogo em minhas narinas, que arderá para vos consumir.
+
+[[v30-15-15]]
+
+^<<v30-15-15,15>>^ E vós que tudo sabeis, Senhor, lembrai-vos de mim, amparai-me, e vingai-me de meus perseguidores. Não deixeis que eu pereça por vossa paciência para com eles.
+
+[[v30-15-16]]
+
+^<<v30-15-16,16>>^ Vede: é por vós que sofro ultrajes da parte daqueles que desprezam vossas palavras. Aniquilai-os. Vossa palavra constitui minha alegria e as delícias do meu coração, porque trago o vosso nome, ó Senhor, Deus dos exércitos!^&#42;1^
+
+[[v30-15-17]]
+
+^<<v30-15-17,17>>^ Não me assentei entre os escarnecedores, para entre eles encontrar o meu prazer. Apoiado em vossa mão, assentei-me à parte, porque me havíeis enchido de indignação.
+
+[[v30-15-18]]
+
+^<<v30-15-18,18>>^ Por que não tem fim a minha dor, e não cicatriza a minha chaga, rebelde ao tratamento? Ai! Sereis para mim qual riacho enganador, fonte de água com que não se pode contar?
+
+[[v30-15-19]]
+
+^<<v30-15-19,19>>^ Eis a razão pela qual diz o Senhor: “Se voltares, farei de ti o servo que está a meu serviço. Se apartares o precioso do que é vil serás como a minha boca. Serão eles, então, que virão a ti, e não tu que irás a eles.^&#42;1^
+
+[[v30-15-20]]
+
+^<<v30-15-20,20>>^ Então, erguerei ante esse povo sólida muralha como o bronze. Será atacada, mas não conseguirão vencê-la, pois estarei a teu lado para proteger-te e te livrar – oráculo do Senhor.
+
+[[v30-15-21]]
+
+^<<v30-15-21,21>>^ Eu te arrebatarei da mão dos maus e te libertarei do poder dos violentos”.
+
+'''
+
+xref:030-jeremias/030-jeremias-014.adoc#v30-14-0[&#60; Capítulo Anterior] | <<v30-15-0,Topo>> | xref:030-jeremias/030-jeremias-016.adoc#v30-16-0[Próximo Capítulo &#62;]

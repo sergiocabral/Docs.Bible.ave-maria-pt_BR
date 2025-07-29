@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v1-9-0]]
+=== Gênesis, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 9 de Gênesis descreve a aliança de Deus com Noé e seus filhos após o dilúvio, incluindo a proibição do assassinato e o estabelecimento do arco-íris como um sinal do pacto. Abaixo estão cinco versículos relacionados com os temas abordados nesse capítulo:
+* Gênesis 9:5-6: "Certamente pedirei contas do sangue de vocês. Pedirei contas a todos os animais e a cada ser humano; pedirei contas da vida do homem por parte do seu semelhante. Quem derramar o sangue do homem, pelo homem o seu sangue será derramado; porque à imagem de Deus foi o homem criado." Este versículo estabelece a proibição do assassinato e a importância da vida humana como um reflexo da imagem de Deus.
+* Gênesis 9:11-13: "Eu estabeleço a minha aliança com vocês: Nunca mais serão mortas todas as criaturas pelos dilúvios, nem haverá outro dilúvio para destruir a terra. E Deus disse: Este é o sinal da aliança que estou estabelecendo entre mim e vocês e todos os seres vivos que estão com vocês, por todas as gerações futuras." Este versículo apresenta a aliança de Deus com Noé e seus filhos após o dilúvio, incluindo o sinal do arco-íris.
+* Gênesis 9:7: "E vocês, sejam férteis e multipliquem-se; espalhem-se pela terra e proliferem nela." Este versículo reitera a importância da multiplicação e da propagação da humanidade após o dilúvio.
+* Gênesis 9:20-21: "Noé, que era agricultor, foi o primeiro a plantar uma vinha. Bebeu do vinho, embriagou-se e ficou nu dentro da sua tenda." Este versículo descreve a embriaguez de Noé após o dilúvio e as consequências que isso teve em sua família.
+* Gênesis 9:25-27: "Disse então: 'Maldito seja Canaã! Escravo dos escravos será para seus irmãos'. E acrescentou: 'Bendito seja o Senhor, o Deus de Sem! Que Canaã seja seu escravo. Que Deus amplie o território de Jafé; habite ele nas tendas de Sem, e Canaã seja seu escravo'." Este versículo descreve a maldição e a bênção de Noé para seus filhos, que tiveram consequências significativas na história posterior da humanidade.
+****
+
+[[v1-9-1]]
+
+^<<v1-9-1,1>>^ Deus abençoou Noé e seus filhos: “Sede fecundos – disse-lhes ele – multiplicai-vos e enchei a terra.
+
+[[v1-9-2]]
+
+^<<v1-9-2,2>>^ Vós sereis objeto de temor e de espanto para todo animal da terra, toda ave do céu, tudo o que se arrasta sobre o solo e todos os peixes do mar: eles vos são entregues nas mãos.
+
+[[v1-9-3]]
+
+^<<v1-9-3,3>>^ Tudo o que se move e vive vos servirá de alimento; eu vos dou tudo isto, como vos dei a erva verde.
+
+[[v1-9-4]]
+
+^<<v1-9-4,4>>^ Somente não comereis carne com a sua alma, com sangue.
+
+[[v1-9-5]]
+
+^<<v1-9-5,5>>^ Eu pedirei conta de vosso sangue, por causa de vossas almas, a todo animal; e ao homem (que matar) o seu irmão, pedirei conta da alma do homem.
+
+[[v1-9-6]]
+
+^<<v1-9-6,6>>^ Todo aquele que derramar o sangue humano terá seu próprio sangue derramado pelo homem, porque Deus fez o homem à sua imagem.
+
+[[v1-9-7]]
+
+^<<v1-9-7,7>>^ Sede, pois, fecundos e multiplicai-vos, e espalhai-vos sobre a terra abundantemente”.
+
+[[v1-9-8]]
+
+^<<v1-9-8,8>>^ Disse também Deus a Noé e a seus filhos:
+
+[[v1-9-9]]
+
+^<<v1-9-9,9>>^ “Vou fazer uma aliança convosco e com vossa posteridade,
+
+[[v1-9-10]]
+
+^<<v1-9-10,10>>^ assim como com todos os seres vivos que estão convosco: as aves, os animais domésticos, todos os animais selvagens que estão convosco, desde todos aqueles que saíram da arca até todo animal da terra.
+
+[[v1-9-11]]
+
+^<<v1-9-11,11>>^ Faço esta aliança convosco: nenhuma criatura será destruída pelas águas do dilúvio, e não haverá mais dilúvio para devastar a terra”.
+
+[[v1-9-12]]
+
+^<<v1-9-12,12>>^ Deus disse: “Eis o sinal da aliança que eu faço convosco e com todos os seres vivos que vos cercam, por todas as gerações futuras.
+
+[[v1-9-13]]
+
+^<<v1-9-13,13>>^ Ponho o meu arco nas nuvens, para que ele seja o sinal da aliança entre mim e a terra.
+
+[[v1-9-14]]
+
+^<<v1-9-14,14>>^ Quando eu tiver coberto o céu de nuvens por cima da terra, o meu arco aparecerá nas nuvens,
+
+[[v1-9-15]]
+
+^<<v1-9-15,15>>^ e me lembrarei da aliança que fiz convosco e com todo ser vivo de toda a espécie, e as águas não causarão mais dilúvio que extermine toda criatura.
+
+[[v1-9-16]]
+
+^<<v1-9-16,16>>^ Quando eu vir o arco nas nuvens, eu me lembrarei da aliança eterna estabelecida entre Deus e todos os seres vivos de toda a espécie que estão sobre a terra”.
+
+[[v1-9-17]]
+
+^<<v1-9-17,17>>^ Dirigindo-se a Noé, Deus acrescentou: “Este é o sinal da aliança que faço entre mim e todas as criaturas que estão na terra”.
+
+[[v1-9-18]]
+
+^<<v1-9-18,18>>^ Os filhos de Noé que saíram da arca eram Sem, Cam e Jafé. Cam era o pai de Canaã.
+
+[[v1-9-19]]
+
+^<<v1-9-19,19>>^ Estes eram os três filhos de Noé. É por eles que foi povoada toda a terra.
+
+[[v1-9-20]]
+
+^<<v1-9-20,20>>^ Noé, que era agricultor, plantou uma vinha.
+
+[[v1-9-21]]
+
+^<<v1-9-21,21>>^ Tendo bebido vinho, embriagou-se, e apareceu nu no meio de sua tenda.
+
+[[v1-9-22]]
+
+^<<v1-9-22,22>>^ Cam, o pai de Canaã vendo a nudez de seu pai, saiu e foi contá-lo aos seus irmãos.
+
+[[v1-9-23]]
+
+^<<v1-9-23,23>>^ Mas, Sem e Jafé, tomando uma capa, puseram-na sobre os seus ombros e foram cobrir a nudez de seu pai, andando de costas; e não viram a nudez de seu pai, pois que tinham os seus rostos voltados.
+
+[[v1-9-24]]
+
+^<<v1-9-24,24>>^ Quando Noé despertou de sua embriaguez, soube o que lhe tinha feito o seu filho mais novo.
+
+[[v1-9-25]]
+
+^<<v1-9-25,25>>^ “Maldito seja Canaã – disse ele –; que ele seja o último dos escravos de seus irmãos!”^&#42;1^
+
+[[v1-9-26]]
+
+^<<v1-9-26,26>>^ E acrescentou : “Bendito seja o Senhor Deus de Sem, e Canaã seja seu escravo!
+
+[[v1-9-27]]
+
+^<<v1-9-27,27>>^ Que Deus prospere a Jafé; e este habite nas tendas de Sem, e Canaã seja seu escravo!”.
+
+[[v1-9-28]]
+
+^<<v1-9-28,28>>^ Noé viveu ainda depois do dilúvio trezentos e cinquenta anos.
+
+[[v1-9-29]]
+
+^<<v1-9-29,29>>^ A duração total da vida de Noé foi de novecentos e cinquenta anos; e morreu.
+
+'''
+
+xref:001-genesis/001-genesis-008.adoc#v1-8-0[&#60; Capítulo Anterior] | <<v1-9-0,Topo>> | xref:001-genesis/001-genesis-010.adoc#v1-10-0[Próximo Capítulo &#62;]

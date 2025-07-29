@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v21-70-0]]
+=== Salmos, 70
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 70 é um salmo de súplica, em que o salmista clama a Deus por ajuda e livramento diante dos seus inimigos. Ele começa pedindo a Deus que o salve e o ajude rapidamente, e expressa sua confiança de que Deus é o seu auxílio e libertador. Em seguida, ele roga a Deus para que envergonhe e confunda aqueles que buscam prejudicá-lo. Abaixo estão cinco versículos relacionados com os temas abordados neste salmo:
+* Salmos 35:4: "Sejam confundidos e humilhados os que buscam tirar-me a vida; voltem atrás e confundam-se os que tramam contra mim." Assim como o salmista de Salmo 70, o salmista deste versículo pede a Deus que confunda e humilhe aqueles que buscam prejudicá-lo.
+* Salmos 71:12: "Ó Deus, não te alongues de mim; meu Deus, apressa-te em socorrer-me." Este versículo expressa a mesma urgência e súplica do salmista de Salmo 70, que pede a Deus que o ajude rapidamente.
+* Salmos 83:16: "Cobre-os de vergonha, para que busquem o teu nome, SENHOR." O salmista de Salmo 70 pede a Deus que envergonhe seus inimigos para que eles percebam a superioridade de Deus e busquem o seu nome.
+* Salmos 86:17: "Mostra-me um sinal para o bem, para que o vejam e se confundam os que me odeiam; porque tu, SENHOR, me ajudaste e me consolaste." O salmista deste versículo também pede a Deus por um sinal de ajuda e livramento, e expressa sua confiança na ajuda e consolo de Deus.
+* Salmos 143:7: "Responde-me depressa, SENHOR, porque desfalece o meu espírito; não escondas de mim a tua face, para que eu não seja semelhante aos que descem à cova." Assim como o salmista de Salmo 70, o salmista deste versículo clama a Deus por ajuda rápida e expressa o seu desespero diante das dificuldades que enfrenta.
+****
+
+[[v21-70-1]]
+
+^<<v21-70-1,1>>^ É em vós, Senhor, que procuro meu refúgio; que minha esperança não seja para sempre confundida.^&#42;1^
+
+[[v21-70-2]]
+
+^<<v21-70-2,2>>^ Por vossa justiça, livrai-me, libertai-me; inclinai para mim vossos ouvidos e salvai-me.
+
+[[v21-70-3]]
+
+^<<v21-70-3,3>>^ Sede-me uma rocha protetora, uma cidadela forte para me abrigar: e vós me salvareis, porque sois meu rochedo e minha fortaleza.
+
+[[v21-70-4]]
+
+^<<v21-70-4,4>>^ Meu Deus, livrai-me das mãos do iníquo, das garras do inimigo e do opressor,
+
+[[v21-70-5]]
+
+^<<v21-70-5,5>>^ porque vós sois, ó meu Deus, minha esperança. Senhor, desde a juventude vós sois minha confiança.
+
+[[v21-70-6]]
+
+^<<v21-70-6,6>>^ Em vós eu me apoiei desde que nasci, desde o seio materno sois meu protetor; em vós eu sempre esperei.
+
+[[v21-70-7]]
+
+^<<v21-70-7,7>>^ Tornei-me para a turba um objeto de admiração, mas vós tendes sido meu poderoso apoio.
+
+[[v21-70-8]]
+
+^<<v21-70-8,8>>^ Minha boca andava cheia de vossos louvores, cantando continuamente vossa glória.
+
+[[v21-70-9]]
+
+^<<v21-70-9,9>>^ Na minha velhice não me rejeiteis, ao declinar de minhas forças não me abandoneis.
+
+[[v21-70-10]]
+
+^<<v21-70-10,10>>^ Porque falam de mim meus inimigos e os que me observam conspiram contra mim,
+
+[[v21-70-11]]
+
+^<<v21-70-11,11>>^ dizendo: “Deus o abandonou; persegui-o e prendei-o, porque não há ninguém para livrá-lo”.
+
+[[v21-70-12]]
+
+^<<v21-70-12,12>>^ Ó Deus, não vos afasteis de mim. Meu Deus, apressai-vos em me socorrer.
+
+[[v21-70-13]]
+
+^<<v21-70-13,13>>^ Sejam confundidos e pereçam os que atentam contra minha vida, sejam cobertos de vergonha e confusão os que procuram minha desgraça.
+
+[[v21-70-14]]
+
+^<<v21-70-14,14>>^ Eu, porém, hei de esperar sempre, e, dia após dia, vos louvarei mais.
+
+[[v21-70-15]]
+
+^<<v21-70-15,15>>^ Minha boca proclamará vossa justiça e vossos auxílios de todos os dias, sem poder enumerá-los todos.
+
+[[v21-70-16]]
+
+^<<v21-70-16,16>>^ Os portentos de Deus eu narrarei, só a vossa justiça hei de proclamar, Senhor.
+
+[[v21-70-17]]
+
+^<<v21-70-17,17>>^ Vós me tendes instruído, ó Deus, desde minha juventude, e até hoje publico as vossas maravilhas.
+
+[[v21-70-18]]
+
+^<<v21-70-18,18>>^ Na velhice e até os cabelos brancos, ó Deus, não me abandoneis, a fim de que eu anuncie à geração presente a força de vosso braço, e vosso poder à geração vindoura,
+
+[[v21-70-19]]
+
+^<<v21-70-19,19>>^ e vossa justiça, ó Deus, que se eleva à altura do céu, pela qual vós fizestes coisas grandiosas. Senhor, quem vos é comparável?
+
+[[v21-70-20]]
+
+^<<v21-70-20,20>>^ Vós me fizestes passar por numerosas e amargas tribulações para, de novo, me fazer viver e dos abismos da terra novamente me tirar.
+
+[[v21-70-21]]
+
+^<<v21-70-21,21>>^ Aumentai minha grandeza, e de novo consolai-me.
+
+[[v21-70-22]]
+
+^<<v21-70-22,22>>^ Celebrarei então vossa fidelidade nas cordas da lira, eu vos cantarei na harpa, ó Santo de Israel.^&#42;1^
+
+[[v21-70-23]]
+
+^<<v21-70-23,23>>^ Meus lábios e minha alma que resgatastes exultarão de alegria quando eu cantar a vossa glória.
+
+[[v21-70-24]]
+
+^<<v21-70-24,24>>^ E, dia após dia, também minha língua exaltará vossa justiça, porque ficaram cobertos de vergonha e confusão aqueles que buscavam minha perdição.
+
+'''
+
+xref:021-salmos/021-salmos-069.adoc#v21-69-0[&#60; Capítulo Anterior] | <<v21-70-0,Topo>> | xref:021-salmos/021-salmos-071.adoc#v21-71-0[Próximo Capítulo &#62;]

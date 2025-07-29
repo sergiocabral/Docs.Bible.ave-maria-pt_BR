@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v4-22-0]]
+=== Números, 22
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 22 narra a história de Balaão, um adivinho que foi contratado pelo rei Balaque para amaldiçoar os filhos de Israel. No entanto, Deus impede Balaão de amaldiçoar o povo e, em vez disso, faz com que ele abençoe os israelitas. Abaixo estão cinco versículos relacionados aos temas abordados em Números 22:
+* Deuteronômio 23:5: "Contudo, o Senhor, o seu Deus, não quis ouvir Balaão, e transformou a maldição em bênção para vocês, porque o Senhor, o seu Deus, os ama." Este versículo refere-se à história de Balaão e como Deus transformou sua maldição em uma bênção para os filhos de Israel.
+* 2 Pedro 2:15: "Eles seguiram o caminho de Balaão, filho de Beor, que amou o ganho desonesto" Este versículo destaca a ganância de Balaão ao aceitar o dinheiro de Balaque para amaldiçoar os israelitas e adverte contra seguir o exemplo de Balaão.
+* Judas 1:11: "Ai deles! Pois seguiram o caminho de Caim, buscando o lucro em Balaão, e se rebelaram como Corá se rebelou no deserto." Este versículo também adverte contra seguir o exemplo de Balaão e destaca sua busca pelo lucro desonesto.
+* Números 24:9: "Que viva quem Deus abençoa, e morra quem ele amaldiçoa!" Este é um dos versos da bênção de Balaão, na qual ele abençoa os filhos de Israel em vez de amaldiçoá-los, como originalmente pretendido.
+* Números 22:35: "Disse o anjo do Senhor a Balaão: Vá com esses homens, mas fale apenas o que eu lhe disser". Este versículo destaca como Deus controlou a situação de Balaão, fazendo com que ele abençoasse os filhos de Israel em vez de amaldiçoá-los, mostrando a vontade soberana de Deus.
+****
+
+[[v4-22-1]]
+
+^<<v4-22-1,1>>^ Partiram os filhos de Israel e acamparam nas planícies de Moab, além do Jordão, defronte de Jericó.
+
+[[v4-22-2]]
+
+^<<v4-22-2,2>>^ Balac, filho de Sefor, tinha visto tudo o que Israel tinha feito aos amorreus.
+
+[[v4-22-3]]
+
+^<<v4-22-3,3>>^ Moab teve grande medo desse povo, porque era muito numeroso e ficou aterrorizado diante dos israelitas.
+
+[[v4-22-4]]
+
+^<<v4-22-4,4>>^ E Moab disse aos anciãos de Madiã: “Essa multidão vai devorar todos os nossos arredores como os bois devoram a erva do campo”. Balac, filho de Sefor, era então o rei de Moab.
+
+[[v4-22-5]]
+
+^<<v4-22-5,5>>^ Mandou, pois, mensageiros a Balaão, filho de Beor, em Petor, sobre o rio, na terra dos filhos de Amon, para que o chamassem e lhe dissessem: “Há aqui um povo que saiu do Egito, o qual cobre a face da terra, e estabeleceu-se diante de mim.^&#42;1^
+
+[[v4-22-6]]
+
+^<<v4-22-6,6>>^ Rogo-te que venhas e amaldiçoes esse povo, pois é muito mais poderoso do que eu. Talvez assim eu possa batê-lo e expulsá-lo de minha terra. Eu sei que será bendito o que abençoares e maldito o que amaldiçoares”.
+
+[[v4-22-7]]
+
+^<<v4-22-7,7>>^ Os anciãos de Moab e de Madiã partiram levando consigo o preço da adivinhação. Chegando junto de Balaão, referiram-lhe as palavras de Balac.
+
+[[v4-22-8]]
+
+^<<v4-22-8,8>>^ Balaão respondeu: “Passai a noite aqui, e vos darei a resposta que o Senhor me indicar”. Ficaram, pois, os chefes de Moab em casa de Balaão.
+
+[[v4-22-9]]
+
+^<<v4-22-9,9>>^ Deus veio a Balaão e disse-lhe: “Quem é essa gente que tens em tua casa?”.
+
+[[v4-22-10]]
+
+^<<v4-22-10,10>>^ Balaão respondeu a Deus: “É Balac, filho de Sefor, rei de Moab, que me manda dizer:
+
+[[v4-22-11]]
+
+^<<v4-22-11,11>>^ Há aqui um povo que saiu do Egito, o qual cobre a superfície da terra. Vem, pois, e amaldiçoa-o. Talvez assim possa eu batê-lo e expulsá-lo da terra”.
+
+[[v4-22-12]]
+
+^<<v4-22-12,12>>^ Disse Deus a Balaão: “Não irás com eles, e não amaldiçoarás esse povo, porque é bendito”.
+
+[[v4-22-13]]
+
+^<<v4-22-13,13>>^ Levantando-se Balaão pela manhã, disse aos chefes enviados por Balac: “Voltai para a vossa terra, pois o Senhor me proibiu de ir convosco”.
+
+[[v4-22-14]]
+
+^<<v4-22-14,14>>^ Os chefes de Moab retomaram o caminho e voltaram para junto de Balac: “Balaão – disseram-lhe eles – recusou vir conosco”.
+
+[[v4-22-15]]
+
+^<<v4-22-15,15>>^ Balac mandou-lhe de novo outros chefes, mais numerosos e mais importantes que os primeiros.
+
+[[v4-22-16]]
+
+^<<v4-22-16,16>>^ Chegados junto a Balaão, disseram-lhe: “Eis a mensagem de Balac, filho de Sefor: Rogo-te que não recuses vir ter comigo.
+
+[[v4-22-17]]
+
+^<<v4-22-17,17>>^ Eu te cumularei de honras e farei tudo o que me disseres. Vem amaldiçoar esse povo”.
+
+[[v4-22-18]]
+
+^<<v4-22-18,18>>^ “Ainda que o vosso senhor me desse a sua casa cheia de prata e de ouro – respondeu Balaão aos servos de Balac – eu não poderia transgredir a ordem do Senhor, meu Deus, nem pouco nem muito, no que quer que seja.
+
+[[v4-22-19]]
+
+^<<v4-22-19,19>>^ Todavia, passai ainda esta noite aqui, para que eu saiba o que o Senhor me responderá ainda desta vez.”
+
+[[v4-22-20]]
+
+^<<v4-22-20,20>>^ Deus veio a Balaão durante a noite e disse-lhe: “Já que essa gente te veio chamar, levanta-te e vai com eles. Mas só farás o que eu te disser”.
+
+[[v4-22-21]]
+
+^<<v4-22-21,21>>^ Balaão levantou-se de manhã, selou sua jumenta e partiu com os chefes de Moab.
+
+[[v4-22-22]]
+
+^<<v4-22-22,22>>^ O Senhor irritou-se com sua partida, e o anjo do Senhor pôs-se-lhe no caminho como obstáculo. Balaão cavalgava em sua jumenta, acompanhado de seus dois servos.^&#42;1^
+
+[[v4-22-23]]
+
+^<<v4-22-23,23>>^ A jumenta, vendo o anjo do Senhor postado no caminho, com uma espada desembainhada na mão, desviou-se e seguiu pelo campo; o adivinho a fustigava para fazê-la voltar ao caminho.
+
+[[v4-22-24]]
+
+^<<v4-22-24,24>>^ Então o anjo do Senhor pôs-se em um caminho estreito que passava por entre as vinhas, com um muro de cada lado.
+
+[[v4-22-25]]
+
+^<<v4-22-25,25>>^ Vendo-o, a jumenta coseu-se com o muro, ferindo contra ele o pé de Balaão, que a fustigou de novo.
+
+[[v4-22-26]]
+
+^<<v4-22-26,26>>^ O anjo do Senhor deteve-se de novo mais adiante em uma passagem estreita, onde não havia espaço para se desviar nem para a direita nem para a esquerda.
+
+[[v4-22-27]]
+
+^<<v4-22-27,27>>^ A jumenta, ao vê-lo, deitou-se debaixo de Balaão, o qual, encolerizado, a fustigava mais fortemente com seu bastão.
+
+[[v4-22-28]]
+
+^<<v4-22-28,28>>^ Então o Senhor abriu a boca da jumenta, que disse a Balaão: “Que te fiz eu? Por que me bateste já três vezes?”.^&#42;1^
+
+[[v4-22-29]]
+
+^<<v4-22-29,29>>^ “Porque zombaste de mim – respondeu ele –. “Ah, se eu tivesse uma espada na mão! Já o teria matado!”
+
+[[v4-22-30]]
+
+^<<v4-22-30,30>>^ A jumenta replicou: “Acaso não sou eu a tua jumenta, a qual montaste até o dia de hoje? Tenho eu porventura o costume de proceder assim contigo?”. “Não” – respondeu ele.
+
+[[v4-22-31]]
+
+^<<v4-22-31,31>>^ Então o Senhor abriu os olhos de Balaão, e ele viu o anjo do Senhor que estava no caminho com a espada desembainhada na mão. Inclinou-se e prostrou-se com a face por terra.
+
+[[v4-22-32]]
+
+^<<v4-22-32,32>>^ “Por que – disse-lhe o anjo do Senhor – feriste três vezes a tua jumenta? Eu vim opor-me a ti, porque segues um caminho que te leva ao precipício.
+
+[[v4-22-33]]
+
+^<<v4-22-33,33>>^ Vendo-me, a tua jumenta desviou-se por três vezes diante de mim. Se ela não o tivesse feito, eu te haveria matado, e ela ficaria viva.”
+
+[[v4-22-34]]
+
+^<<v4-22-34,34>>^ Balaão disse ao anjo do Senhor: “Pequei. Eu não sabia que estavas postado no caminho para deter-me. Se minha viagem te desagrada, voltarei”.
+
+[[v4-22-35]]
+
+^<<v4-22-35,35>>^ “Segue esses homens – respondeu-lhe o anjo do Senhor – mas cuida de só proferir as palavras que eu te disser.” E Balaão partiu com os chefes de Balac.
+
+[[v4-22-36]]
+
+^<<v4-22-36,36>>^ Quando Balac soube de sua chegada, subiu-lhe ao encontro até a cidade de Moab, na fronteira do Arnon, na extremidade daquela terra,
+
+[[v4-22-37]]
+
+^<<v4-22-37,37>>^ e disse-lhe: “Mandei mensageiros chamar-te. Por que não vieste logo? Não posso eu tratar-te com honras?”.
+
+[[v4-22-38]]
+
+^<<v4-22-38,38>>^ “Eis-me aqui – respondeu Balaão – mas poderei eu agora dizer algo de mim mesmo? Só direi o que Deus me puser na boca, nada mais.”
+
+[[v4-22-39]]
+
+^<<v4-22-39,39>>^ E partiram os dois para Cariat-Husot.
+
+[[v4-22-40]]
+
+^<<v4-22-40,40>>^ Balac imolou em sacrifício bois e ovelhas, dos quais mandou algumas porções a Balaão e aos chefes que o acompanhavam.
+
+[[v4-22-41]]
+
+^<<v4-22-41,41>>^ No dia seguinte pela manhã, Balac tomou consigo o adivinho e levou-o a Bamot-Baal, de onde se podiam ver as últimas linhas do acampamento de Israel.^&#42;1^
+
+'''
+
+xref:004-numeros/004-numeros-021.adoc#v4-21-0[&#60; Capítulo Anterior] | <<v4-22-0,Topo>> | xref:004-numeros/004-numeros-023.adoc#v4-23-0[Próximo Capítulo &#62;]

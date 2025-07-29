@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v30-29-0]]
+=== Jeremias, 29
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 29 contém uma carta do profeta Jeremias aos exilados em Babilônia, na qual ele instrui o povo a buscar a paz e a prosperidade da cidade em que foram levados, mesmo que isso signifique viver lá por muitos anos. Ele também adverte os exilados contra os falsos profetas que lhes prometem um retorno imediato a Jerusalém. Os versículos relacionados aos temas abordados em Jeremias 29 são:
+* Ezequiel 11:16: "Portanto, dize: Assim diz o Senhor DEUS: Embora os tenha lançado para longe entre as nações, e embora os tenha espalhado pelas terras, contudo lhes servirei de santuário por um pouco de tempo, nos países para onde foram." Este versículo demonstra que Deus continua a cuidar do Seu povo, mesmo quando eles estão espalhados pelo mundo.
+* 1 Timóteo 2:1-2: "Antes de tudo, pois, exorto que se use a prática de súplicas, orações, intercessões, ações de graças, em favor de todos os homens, em favor dos reis e de todos os que se acham investidos de autoridade, para que vivamos vida tranqüila e mansa, com toda a piedade e respeito." Jeremias instruiu os exilados a orar pela paz da cidade em que viviam, e este versículo reforça essa ideia.
+* Mateus 5:44: "Eu, porém, vos digo: amai os vossos inimigos e orai pelos que vos perseguem." O povo de Deus em Babilônia provavelmente se sentia ameaçado e perseguido, mas Jeremias os instruiu a buscar a paz e a prosperidade da cidade. Este versículo mostra que amar e orar pelos inimigos é uma atitude cristã.
+* 1 Pedro 2:17: "Honrai a todos. Amai os irmãos. Temei a Deus. Honrai o rei." Este versículo exorta os cristãos a honrarem aqueles que estão em autoridade, mesmo que eles não sejam perfeitos. Os exilados em Babilônia foram instruídos a buscar a paz e a prosperidade da cidade, e isso incluía honrar as autoridades babilônicas.
+* 1 Coríntios 7:20-24: "Cada um fique na vocação em que foi chamado. Foste chamado sendo escravo? Não te dê cuidado; mas, ainda que possas tornar-te livre, prefere antes usar bem a condição de escravo. Porque o que foi chamado no Senhor, sendo escravo, é liberto do Senhor; e da mesma forma o que foi chamado sendo livre, é escravo de Cristo. Fostes comprados por preço; não vos torneis escravos dos homens. Irmãos, cada um fique diante de Deus na condição em que foi chamado." Jeremias instruiu os exilados a se estabelecerem na Babilônia e a procurarem a paz e a prosperidade da cidade. Este versículo ensina que devemos permanecer onde Deus nos colocou e buscar honrá-Lo em nossa condição atual.
+****
+
+[[v30-29-1]]
+
+^<<v30-29-1,1>>^ Eis o teor da carta que o profeta Jeremias endereçou de Jerusalém aos demais anciãos cativos, aos sacerdotes e profetas, e a todo o povo deportado por Nabucodonosor para a Babilônia,
+
+[[v30-29-2]]
+
+^<<v30-29-2,2>>^ depois que deixaram Jerusalém, o rei Jeconias, a rainha-mãe, os eunucos, os chefes de Judá e Jerusalém e os carpinteiros e serralheiros.
+
+[[v30-29-3]]
+
+^<<v30-29-3,3>>^ Foi esta carta levada por Elasa, filho de Safã, e Gemarias, filho de Helcias, os quais Sedecias, rei de Judá, enviara para a Babilônia, junto ao rei Nabucodonosor, e assim dizia:
+
+[[v30-29-4]]
+
+^<<v30-29-4,4>>^ “Eis o que diz o Senhor dos exércitos, Deus de Israel, a todos os cativos que deportei de Jerusalém para a Babilônia:
+
+[[v30-29-5]]
+
+^<<v30-29-5,5>>^ Construí casas e nelas morai, plantai pomares e comei seus frutos.
+
+[[v30-29-6]]
+
+^<<v30-29-6,6>>^ Procurai mulher e gerai filhos e filhas, procurai mulheres para vossos filhos, e dai vossas filhas a maridos para que deem ao mundo rapazes e moças. Multiplicai-vos em lugar de diminuir.
+
+[[v30-29-7]]
+
+^<<v30-29-7,7>>^ Tomai a peito o bem da cidade para onde vos exilei e rogai por ela ao Senhor, porque só tereis que lucrar com a sua prosperidade.
+
+[[v30-29-8]]
+
+^<<v30-29-8,8>>^ Pois assim disse o Senhor dos exércitos, Deus de Israel: Não vos deixeis engodar pelos profetas que se acham entre vós, nem pelos adivinhos. Não escuteis os sonhos que anunciam.
+
+[[v30-29-9]]
+
+^<<v30-29-9,9>>^ Porquanto esses homens mentem, pretendendo pronunciar oráculos em meu nome. Não lhes outorguei tal encargo – oráculo do Senhor.^&#42;1^
+
+[[v30-29-10]]
+
+^<<v30-29-10,10>>^ Eis o que diz o Senhor: Quando setenta anos tiverem decorrido para a Babilônia, eu vos visitarei a fim de realizar a promessa que vos fiz de aqui vos reconduzir.
+
+[[v30-29-11]]
+
+^<<v30-29-11,11>>^ Bem conheço os desígnios que mantenho para convosco – oráculo do Senhor –, desígnios de prosperidade e não de calamidade, de vos garantir um futuro e uma esperança.
+
+[[v30-29-12]]
+
+^<<v30-29-12,12>>^ Vós me invocareis e vireis suplicar-me, e eu vos atenderei.
+
+[[v30-29-13]]
+
+^<<v30-29-13,13>>^ Vós me procurareis e me haveis de encontrar, porque de todo o coração me fostes buscar.
+
+[[v30-29-14]]
+
+^<<v30-29-14,14>>^ Permitirei que me encontreis – oráculo do Senhor; e vos trarei do cativeiro e vos irei buscar em todas as nações e em todos os lugares por onde vos dispersei – oráculo do Senhor – para reintegrar-vos no lugar de onde vos exilei.
+
+[[v30-29-15]]
+
+^<<v30-29-15,15>>^ Objetareis, porém, que o Senhor vos suscitou profetas na Babilônia.
+
+[[v30-29-16]]
+
+^<<v30-29-16,16>>^ Eis o que diz o Senhor a propósito do rei que ocupa o trono de Davi, do povo que permaneceu na cidade, e de todos os vossos irmãos que não partiram convosco para o exílio:
+
+[[v30-29-17]]
+
+^<<v30-29-17,17>>^ Eis o que diz o Senhor dos exércitos: Vou enviar contra eles a espada, a fome e a peste, e os tratarei como figos deteriorados, tão maus que não se podem mais comer.
+
+[[v30-29-18]]
+
+^<<v30-29-18,18>>^ Eu os perseguirei com a espada, a fome e a peste, e deles farei objeto de horror ante todos os reinos da terra, exemplo a ser citado entre as maldições, assunto de espanto que fará pasmar, e vergonha aos olhos das nações para onde eu os dispersar;
+
+[[v30-29-19]]
+
+^<<v30-29-19,19>>^ porque não escutaram minhas palavras – oráculo do Senhor – quando, sem cessar, lhes enviava os profetas, meus servos, aos quais também não ouviram – oráculo do Senhor.
+
+[[v30-29-20]]
+
+^<<v30-29-20,20>>^ Mas vós todos, exilados que deportei de Jerusalém para a Babilônia, escutai a palavra do Senhor:
+
+[[v30-29-21]]
+
+^<<v30-29-21,21>>^ Eis o que diz o Senhor dos exércitos, Deus de Israel, a respeito de Acab, filho de Colias, e de Sedecias, filho de Maasias, que vos transmitem em meu nome falsos oráculos: Vou entregá-los nas mãos de Nabucodonosor, rei da Babilônia, que os mandará matar ante vossos olhos.
+
+[[v30-29-22]]
+
+^<<v30-29-22,22>>^ Servirão eles de maldição entre os judeus cativos que se acham na Babilônia. E se dirá: ‘Que Deus faça contigo como a Sedecias e Acab, os quais o rei da Babilônia mandou frigir no fogo!’.
+
+[[v30-29-23]]
+
+^<<v30-29-23,23>>^ E isso porque cometeram uma infâmia em Israel; por consumarem o adultério com as mulheres de seus vizinhos, e ainda por haverem proferido falsos oráculos em meu nome e contra minha vontade. Tudo isso eu sei por havê-lo testemunhado – oráculo do Senhor.
+
+[[v30-29-24]]
+
+^<<v30-29-24,24>>^ E a Semeías de Naalam dirás:^&#42;1^
+
+[[v30-29-25]]
+
+^<<v30-29-25,25>>^ Eis o que diz o Senhor dos exércitos, Deus de Israel: Já que enviaste uma carta em teu nome a todo o povo de Jerusalém, ao sacerdote Sofonias, filho de Maasias, e a todos os sacerdotes, na qual lhes dizes:^&#42;1^
+
+[[v30-29-26]]
+
+^<<v30-29-26,26>>^ Fez-te o Senhor sacerdote em lugar do sacerdote Joiada, a fim de que vigies no templo todo fanático que se intitular profeta e o metas no cepo ou no cárcere;
+
+[[v30-29-27]]
+
+^<<v30-29-27,27>>^ por que, então, não fizeste voltar à razão Jeremias de Anatot que profetiza entre vós?
+
+[[v30-29-28]]
+
+^<<v30-29-28,28>>^ Eis que nos escreve para a Babilônia, a fim de nos dizer: isso durará longo tempo. Construí casas e habitai-as; plantai pomares e deles comei os frutos”.
+
+[[v30-29-29]]
+
+^<<v30-29-29,29>>^ Leu esta carta o sacerdote Sofonias ao profeta Jeremias,
+
+[[v30-29-30]]
+
+^<<v30-29-30,30>>^ ao qual falou o Senhor, nestes termos:
+
+[[v30-29-31]]
+
+^<<v30-29-31,31>>^ “Eis o que mandarás dizer a todos os deportados: oráculo do Senhor a respeito de Semeías de Naalam: porque Semeías vos proferiu oráculos, sem que eu lhos houvesse delegado, e vos levou a crer em mentiras,
+
+[[v30-29-32]]
+
+^<<v30-29-32,32>>^ eis o que diz o Senhor: Vou usar de severidade com Semeías de Naalam e sua descendência. Nenhum dos seus subsistirá entre vós para desfrutar a felicidade que concederei a meu povo – oráculo do Senhor –, pois que pregou a revolta contra o Senhor”.
+
+'''
+
+xref:030-jeremias/030-jeremias-028.adoc#v30-28-0[&#60; Capítulo Anterior] | <<v30-29-0,Topo>> | xref:030-jeremias/030-jeremias-030.adoc#v30-30-0[Próximo Capítulo &#62;]

@@ -1,0 +1,211 @@
+include::./index.adoc[]
+
+[[v51-10-0]]
+=== Atos dos Apóstolos, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Atos dos Apóstolos 10 relata a história de Cornélio, um centurião romano que teve uma visão e enviou mensageiros a Pedro para que ele viesse até ele. Pedro teve sua própria visão, que o levou a compreender que Deus não faz acepção de pessoas, e pregou o evangelho para Cornélio e sua família. Os versículos relacionados com os temas abordados em Atos dos Apóstolos 10 são:
+* Atos dos Apóstolos 10:34-35: "Então Pedro começou a falar: 'Agora percebo verdadeiramente que Deus não trata as pessoas com parcialidade, mas de todas as nações aceita todo aquele que o teme e faz o que é justo.'" Neste versículo, Pedro compreende a mensagem de sua visão e percebe que Deus não faz distinção entre as pessoas com base em sua nacionalidade ou origem étnica.
+* Atos dos Apóstolos 10:44-45: "Enquanto Pedro ainda falava estas palavras, o Espírito Santo desceu sobre todos os que ouviam a mensagem. Os fiéis circuncisos que haviam vindo com Pedro ficaram admirados, porque o dom do Espírito Santo tinha sido derramado até mesmo sobre os gentios." Este versículo mostra que, apesar das expectativas dos judeus convertidos de que apenas os circuncisos seriam agraciados com o Espírito Santo, este foi derramado sobre todos os que ouviam a mensagem de Pedro, incluindo os gentios.
+* Atos dos Apóstolos 10:38: "Como Deus ungiu a Jesus de Nazaré com o Espírito Santo e poder, e como ele andou por toda parte fazendo o bem e curando todos os oprimidos pelo Diabo, porque Deus estava com ele." Neste versículo, Pedro resume o ministério de Jesus e enfatiza que Deus estava com ele.
+* Atos dos Apóstolos 10:43: "Todos os profetas dão testemunho dele, de que todo aquele que nele crê recebe o perdão dos pecados mediante o seu nome." Aqui, Pedro proclama que o perdão dos pecados está disponível para todos aqueles que creem em Jesus.
+* Atos dos Apóstolos 10:47-48: "Então Pedro disse: 'Será que alguém pode recusar a água do batismo a estas pessoas que receberam o Espírito Santo da mesma forma que nós?' E ordenou que fossem batizados em nome de Jesus Cristo. Então pediram a Pedro que ficasse com eles por alguns dias." Este versículo mostra que Pedro reconheceu a validade da fé de Cornélio e de sua família e os batizou em nome de Jesus Cristo.
+****
+
+[[v51-10-1]]
+
+^<<v51-10-1,1>>^ Havia em Cesareia um homem, por nome Cornélio, centurião da coorte que se chamava Itálica.
+
+[[v51-10-2]]
+
+^<<v51-10-2,2>>^ Era religioso; ele e todos os de sua casa eram tementes a Deus. Dava muitas esmolas ao povo e orava constantemente.^&#42;1^
+
+[[v51-10-3]]
+
+^<<v51-10-3,3>>^ Este homem viu claramente numa visão, pela hora nona do dia, aproximar-se dele um anjo de Deus e o chamar: “Cornélio!”.
+
+[[v51-10-4]]
+
+^<<v51-10-4,4>>^ Cornélio fixou nele os olhos e, possuído de temor, perguntou: “Que há, Senhor?”. O anjo replicou: “As tuas orações e as tuas esmolas subiram à presença de Deus como uma oferta de lembrança.^&#42;1^
+
+[[v51-10-5]]
+
+^<<v51-10-5,5>>^ Agora envia homens a Jope e faze vir aqui um certo Simão, que tem por sobrenome Pedro.
+
+[[v51-10-6]]
+
+^<<v51-10-6,6>>^ Ele se acha hospedado em casa de Simão, um curtidor, cuja casa fica junto ao mar”.
+
+[[v51-10-7]]
+
+^<<v51-10-7,7>>^ Quando se retirou, o anjo que lhe falara, chamou dois dos seus criados e um soldado temente ao Senhor, daqueles que estavam às suas ordens.
+
+[[v51-10-8]]
+
+^<<v51-10-8,8>>^ Contou-lhes tudo e enviou-os a Jope.
+
+[[v51-10-9]]
+
+^<<v51-10-9,9>>^ No dia seguinte, enquanto estavam em viagem e se aproximavam da cidade – pelo meio-dia –, Pedro subiu ao terraço da casa para fazer oração.
+
+[[v51-10-10]]
+
+^<<v51-10-10,10>>^ Então, como sentisse fome, quis comer. Mas, enquanto lho preparavam, caiu em êxtase.
+
+[[v51-10-11]]
+
+^<<v51-10-11,11>>^ Viu o céu aberto e descer uma coisa parecida com uma grande toalha que baixava do céu à terra, segura pelas quatro pontas.
+
+[[v51-10-12]]
+
+^<<v51-10-12,12>>^ Nela havia de todos os quadrúpedes, dos répteis da terra e das aves do céu.
+
+[[v51-10-13]]
+
+^<<v51-10-13,13>>^ Uma voz lhe falou: “Levanta-te, Pedro! Mata e come”.
+
+[[v51-10-14]]
+
+^<<v51-10-14,14>>^ Disse Pedro: “De modo algum, Senhor, porque nunca comi coisa alguma profana e impura”.^&#42;1^
+
+[[v51-10-15]]
+
+^<<v51-10-15,15>>^ Esta voz lhe falou pela segunda vez: “O que Deus purificou não chames tu de impuro”.
+
+[[v51-10-16]]
+
+^<<v51-10-16,16>>^ Isto se repetiu três vezes e logo a toalha foi recolhida ao céu.
+
+[[v51-10-17]]
+
+^<<v51-10-17,17>>^ Desconcertado, Pedro refletia consigo mesmo sobre o que significava a visão que tivera, quando os homens, enviados por Cornélio, se apresentaram à porta, perguntando pela casa de Simão.
+
+[[v51-10-18]]
+
+^<<v51-10-18,18>>^ Eles chamaram e indagaram se ali estava hospedado Simão, com o sobrenome Pedro.
+
+[[v51-10-19]]
+
+^<<v51-10-19,19>>^ Enquanto Pedro refletia na visão, disse o Espírito: “Eis aí três homens que te procuram.
+
+[[v51-10-20]]
+
+^<<v51-10-20,20>>^ Levanta-te! Desce e vai com eles sem hesitar, porque sou eu quem os enviou”.
+
+[[v51-10-21]]
+
+^<<v51-10-21,21>>^ Pedro desceu ao encontro dos homens e disse-lhes: “Aqui me tendes, sou eu a quem buscais. Qual é o motivo por que viestes aqui?.
+
+[[v51-10-22]]
+
+^<<v51-10-22,22>>^ Responderam: “O centurião Cornélio, homem justo e temente a Deus, o qual goza de excelente reputação entre todos os judeus, recebeu de um santo anjo o aviso de te mandar chamar à sua casa e de ouvir as tuas palavras”.
+
+[[v51-10-23]]
+
+^<<v51-10-23,23>>^ Então, Pedro os mandou entrar e hospedou-os. No dia seguinte, levantou-se e partiu com eles, e alguns dos irmãos de Jope o acompanharam.
+
+[[v51-10-24]]
+
+^<<v51-10-24,24>>^ No outro, chegaram a Cesareia. Cornélio os estava esperando, tendo convidado os seus parentes e amigos mais íntimos.
+
+[[v51-10-25]]
+
+^<<v51-10-25,25>>^ Quando Pedro estava para entrar, Cornélio saiu a recebê-lo e prostrou-se aos seus pés para adorá-lo.
+
+[[v51-10-26]]
+
+^<<v51-10-26,26>>^ Pedro, porém, o ergueu, dizendo: “Levanta-te! Também eu sou um homem!”.
+
+[[v51-10-27]]
+
+^<<v51-10-27,27>>^ E, falando com ele, entrou e achou ali muitas pessoas que se tinham reunido e disse:
+
+[[v51-10-28]]
+
+^<<v51-10-28,28>>^ “Vós sabeis que é proibido a um judeu aproximar-se de um estrangeiro ou ir à sua casa. Todavia, Deus me mostrou que nenhum homem deve ser considerado profano ou impuro.^&#42;1^
+
+[[v51-10-29]]
+
+^<<v51-10-29,29>>^ Por isso, vim sem hesitar, logo que fui chamado. Pergunto, pois, por que motivo me chamastes”.
+
+[[v51-10-30]]
+
+^<<v51-10-30,30>>^ Disse Cornélio: “Faz hoje quatro dias que estava eu a orar em minha casa, à hora nona, quando se pôs diante de mim um homem com vestes resplandecentes, que disse:
+
+[[v51-10-31]]
+
+^<<v51-10-31,31>>^ Cornélio, a tua oração foi atendida e Deus se lembrou de tuas esmolas.
+
+[[v51-10-32]]
+
+^<<v51-10-32,32>>^ Envia alguém a Jope e manda vir Simão, que tem por sobrenome Pedro. Está hospedado perto do mar, em casa do curtidor Simão.
+
+[[v51-10-33]]
+
+^<<v51-10-33,33>>^ Por isso, mandei chamar-te logo e felicito-te por teres vindo. Agora, pois, eis-nos todos reunidos na presença de Deus para ouvir tudo o que Deus te ordenou de nos dizer”.^&#42;1^
+
+[[v51-10-34]]
+
+^<<v51-10-34,34>>^ Então, Pedro tomou a palavra e disse: “Em verdade, reconheço que Deus não faz distinção de pessoas,
+
+[[v51-10-35]]
+
+^<<v51-10-35,35>>^ mas em toda nação lhe é agradável aquele que o temer e fizer o que é justo.
+
+[[v51-10-36]]
+
+^<<v51-10-36,36>>^ Deus enviou a sua palavra aos filhos de Israel, anunciando-lhes a Boa-Nova da paz, por meio de Jesus Cristo. Este é o Senhor de todos.
+
+[[v51-10-37]]
+
+^<<v51-10-37,37>>^ Vós sabeis como tudo isso aconteceu na Judeia, depois de ter começado na Galileia, após o batismo que João pregou.
+
+[[v51-10-38]]
+
+^<<v51-10-38,38>>^ Vós sabeis como Deus ungiu a Jesus de Nazaré com o Espírito Santo e com o poder, como ele andou fazendo o bem e curando todos os oprimidos do demônio, porque Deus estava com ele.
+
+[[v51-10-39]]
+
+^<<v51-10-39,39>>^ E nós somos testemunhas de tudo o que fez na terra dos judeus e em Jerusalém. Eles o mataram, suspendendo-o em um madeiro.
+
+[[v51-10-40]]
+
+^<<v51-10-40,40>>^ Mas Deus o ressuscitou ao terceiro dia e permitiu que aparecesse,
+
+[[v51-10-41]]
+
+^<<v51-10-41,41>>^ não a todo o povo, mas às testemunhas que Deus havia predestinado, a nós que comemos e bebemos com ele, depois que ressuscitou.
+
+[[v51-10-42]]
+
+^<<v51-10-42,42>>^ Ele nos mandou pregar ao povo e testemunhar que é ele quem foi constituído por Deus juiz dos vivos e dos mortos.
+
+[[v51-10-43]]
+
+^<<v51-10-43,43>>^ Dele todos os profetas dão testemunho, anunciando que todos os que nele creem recebem o perdão dos pecados por meio de seu nome”.
+
+[[v51-10-44]]
+
+^<<v51-10-44,44>>^ Estando Pedro ainda a falar, o Espírito Santo desceu sobre todos os que ouviam a (santa) palavra.
+
+[[v51-10-45]]
+
+^<<v51-10-45,45>>^ Os fiéis da circuncisão, que tinham vindo com Pedro, profundamente se admiraram, vendo que o dom do Espírito Santo era derramado também sobre os pagãos;
+
+[[v51-10-46]]
+
+^<<v51-10-46,46>>^ pois eles os ouviam falar em outras línguas e glorificar a Deus.
+
+[[v51-10-47]]
+
+^<<v51-10-47,47>>^ Então, Pedro tomou a palavra: “Porventura pode-se negar a água do batismo a estes que receberam o Espírito Santo como nós?”.
+
+[[v51-10-48]]
+
+^<<v51-10-48,48>>^ E mandou que fossem batizados em nome de Jesus Cristo. Rogaram-lhe então que ficasse com eles por alguns dias.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-009.adoc#v51-9-0[&#60; Capítulo Anterior] | <<v51-10-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-011.adoc#v51-11-0[Próximo Capítulo &#62;]

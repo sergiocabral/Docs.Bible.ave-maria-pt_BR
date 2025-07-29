@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v5-33-0]]
+=== Deuteronômio, 33
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Deuteronômio 33 é uma bênção final de Moisés sobre as tribos de Israel, antes de sua morte. Cada tribo recebe uma bênção e Moisés destaca a grandeza de Deus e a fidelidade Dele em cumprir Suas promessas. O capítulo também enfatiza a importância da obediência e da proteção de Deus para Israel, e termina com a exaltação de Deus como o único Deus verdadeiro e poderoso.
+* 1 Reis 8:56: "Bendito seja o Senhor, que deu repouso ao seu povo Israel, segundo tudo o que Ele prometera; nem uma só palavra falhou de todas as suas boas promessas que Ele fez por intermédio de Moisés, seu servo." Este versículo destaca a fidelidade de Deus em cumprir Suas promessas, que é um tema importante em Deuteronômio 33. Moisés abençoa as tribos de Israel, lembrando-lhes da importância de confiar em Deus, que sempre cumpre Suas promessas.
+* Salmos 18:2: "O Senhor é o meu rochedo, a minha fortaleza, e o meu libertador; o meu Deus, o meu rochedo em que me refugio; o meu escudo, e a força da minha salvação, o meu alto refúgio." Este versículo destaca a proteção de Deus para Seu povo, que é um tema importante em Deuteronômio 33. Moisés abençoa as tribos de Israel, lembrando-lhes da importância de confiar em Deus, que sempre protege e salva Seu povo.
+* Isaías 43:11: "Eu, eu sou o Senhor, e fora de mim não há salvador." Este versículo enfatiza a exaltação de Deus como o único Deus verdadeiro e poderoso, que é um tema importante em Deuteronômio 33. Moisés abençoa as tribos de Israel, lembrando-lhes da importância de adorar a Deus e confiar Nele, como o único Deus verdadeiro.
+* Salmo 68:4: "Cantai a Deus, cantai louvores ao seu nome; louvai aquele que vai sobre os céus, pois o seu nome é o Senhor, exultai diante dele." Este versículo também enfatiza a exaltação de Deus como o único Deus verdadeiro e poderoso. Moisés abençoa as tribos de Israel, lembrando-lhes da importância de adorar a Deus e confiar Nele, como o único Deus verdadeiro.
+* Romanos 11:26: "E assim todo o Israel será salvo, como está escrito: 'Virá de Sião o Libertador, e ele apartará de Jacó as impiedades.'" Este versículo destaca a importância de Israel como povo escolhido por Deus e como Ele cumprirá Suas promessas em relação a eles. Moisés abençoa as tribos de Israel, lembrando-lhes da importância de confiar em Deus e cumprir Seus mandamentos para que eles possam receber as bênçãos prometidas por Ele.
+****
+
+[[v5-33-1]]
+
+^<<v5-33-1,1>>^ Eis a bênção que Moisés, o homem de Deus, pronunciou sobre os israelitas antes de morrer:
+
+[[v5-33-2]]
+
+^<<v5-33-2,2>>^ ‘‘O Senhor veio do Sinai e levantou-se para eles de Seir; resplandeceu do monte Farã, e chegou de Meriba de Cades, do sul às encostas das montanhas.
+
+[[v5-33-3]]
+
+^<<v5-33-3,3>>^ Sim, ele ama os povos. Todos os seus santos estão ao abrigo da sua mão, estão sentados a seus pés para receber as suas palavras.
+
+[[v5-33-4]]
+
+^<<v5-33-4,4>>^ Moisés nos prescreveu uma lei – herança da assembleia de Jacó.
+
+[[v5-33-5]]
+
+^<<v5-33-5,5>>^ Houve um rei em Jesurun, quando se reuniram os chefes do povo com as tribos de Israel.^&#42;1^
+
+[[v5-33-6]]
+
+^<<v5-33-6,6>>^ Que Rúben viva, e não morra jamais! E não seja reduzido a um punhado de homens.
+
+[[v5-33-7]]
+
+^<<v5-33-7,7>>^ Para Judá eis o que disse: ‘Ouvi, Senhor, a voz de Judá, guiai-o ao seu povo’. Enquanto suas mãos combatem por ele, vinde protegê-lo contra os inimigos.
+
+[[v5-33-8]]
+
+^<<v5-33-8,8>>^ Para Levi disse: ‘Dai vossos tumim e vossos urim ao homem que vos é fiel,^&#42;1^ a quem provastes em Massa, com quem questionastes junto às águas de Meriba’.
+
+[[v5-33-9]]
+
+^<<v5-33-9,9>>^ Que diz de seu pai e sua mãe: ‘Não os tenho em consideração’; que não reconhece seus irmãos e ignora seus filhos. Eles observam a vossa palavra e guardam a vossa aliança;^&#42;1^
+
+[[v5-33-10]]
+
+^<<v5-33-10,10>>^ ensinam vossos preceitos a Jacó e vossa lei a Israel; apresentam o incenso ao vosso olfato e o holocausto sobre o vosso altar.
+
+[[v5-33-11]]
+
+^<<v5-33-11,11>>^ Abençoai, Senhor, sua obra e aceitai o trabalho de suas mãos. Fere as costas dos seus agressores e seus inimigos, para que não mais consigam levantar-se.
+
+[[v5-33-12]]
+
+^<<v5-33-12,12>>^ Para Benjamim disse: ‘Querido do Senhor, habita junto dele com segurança. O Altíssimo o protege sempre; repousa entre os seus ombros’.^&#42;1^
+
+[[v5-33-13]]
+
+^<<v5-33-13,13>>^ Para José disse: ‘Sua terra é abençoada pelo Senhor com os dons do céu e do orvalho, com os dons das fontes que brotam das profundezas,
+
+[[v5-33-14]]
+
+^<<v5-33-14,14>>^ com os melhores frutos do sol, os melhores frutos de cada mês,
+
+[[v5-33-15]]
+
+^<<v5-33-15,15>>^ as primícias dos montes antigos, o que há de melhor nas colinas eternas,
+
+[[v5-33-16]]
+
+^<<v5-33-16,16>>^ os frutos excelentes da terra, e tudo o que ela contém! Possa o favor daquele que habitou na sarça repousar sobre a cabeça de José, sobre a fronte do eleito entre os irmãos!
+
+[[v5-33-17]]
+
+^<<v5-33-17,17>>^ Glória a esse touro primogênito! São chifres de búfalo os seus chifres; com eles agride todos os povos até os confins da terra! Tais são as miríades de Efraim, tais os milhares de Manassés’.
+
+[[v5-33-18]]
+
+^<<v5-33-18,18>>^ Para Zabulon disse: ‘Sê feliz, Zabulon, nas tuas caminhadas, e tu, Issacar, nas tuas tendas!
+
+[[v5-33-19]]
+
+^<<v5-33-19,19>>^ Convocarão os povos à montanha para aí oferecerem sacrifícios justos, porque sorverão as riquezas do mar e os tesouros ocultos na areia’.
+
+[[v5-33-20]]
+
+^<<v5-33-20,20>>^ Para Gad disse: ‘Bendito seja quem dilatar Gad! Ele se agacha como uma leoa, e despedaça braço e cabeça;
+
+[[v5-33-21]]
+
+^<<v5-33-21,21>>^ escolheu para si as primícias da terra, porque ali estava a porção do chefe. Avança à frente do povo, cumprindo a justiça do Senhor e os seus juízos com Israel’.
+
+[[v5-33-22]]
+
+^<<v5-33-22,22>>^ Para Dã disse: ‘Dã é um leãozinho, que salta de Basã’.
+
+[[v5-33-23]]
+
+^<<v5-33-23,23>>^ Para Neftali disse: ‘Neftali, saciado de delícias, cumulado das bênçãos do Senhor, toma possessão do mar e do sul’.^&#42;1^
+
+[[v5-33-24]]
+
+^<<v5-33-24,24>>^ Para Aser disse: ‘Bendito seja Aser entre todos os filhos! Seja o favorito de seus irmãos e mergulhe os pés no óleo.^&#42;1^
+
+[[v5-33-25]]
+
+^<<v5-33-25,25>>^ Teus ferrolhos serão de ferro e bronze, e tua segurança durará toda a tua existência.
+
+[[v5-33-26]]
+
+^<<v5-33-26,26>>^ Ninguém como o Deus de Jesurun,
+
+[[v5-33-27]]
+
+^<<v5-33-27,27>>^ o Deus dos tempos antigos que é o teu refúgio e teu apoio os seus braços eternos, que, para te socorrer, cavalga o céu e as nuvens majestosamente. Expulsa o inimigo de diante de ti e te diz: Extermina!^&#42;1^
+
+[[v5-33-28]]
+
+^<<v5-33-28,28>>^ Israel habita em segurança, a fonte de Jacó corre, na solidão, numa terra de trigo e de vinho, o céu destila-lhe o orvalho.
+
+[[v5-33-29]]
+
+^<<v5-33-29,29>>^ Tu és feliz, ó Israel! Quem é, como tu, povo salvo pelo Senhor, escudo que te protege, espada que te engrandece? Teus inimigos virão adular-te, mas tu pisarás por cima deles’.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-032.adoc#v5-32-0[&#60; Capítulo Anterior] | <<v5-33-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-034.adoc#v5-34-0[Próximo Capítulo &#62;]

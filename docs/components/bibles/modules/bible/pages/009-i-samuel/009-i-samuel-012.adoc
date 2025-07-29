@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v9-12-0]]
+=== I Samuel, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Samuel 12 começa com Samuel se despedindo do povo de Israel e fazendo uma retrospectiva da liderança do povo desde a época dos juízes até o presente momento, quando o povo clamou por um rei. Ele exorta o povo a temer a Deus e a seguir os seus mandamentos, lembrando-lhes de que se eles se rebelarem, serão punidos. Samuel também faz uma demonstração do poder de Deus, trazendo uma tempestade que assusta o povo. A seguir estão cinco versículos relacionados com os temas abordados em 1 Samuel 12, em ordem de proximidade com o capítulo:
+* Deuteronômio 6:4-5: "Ouve, Israel, o SENHOR nosso Deus é o único SENHOR. Amarás, pois, o SENHOR teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu poder." Esse versículo fala da importância de temer a Deus e de amá-lo com todo o coração, alma e força, como Samuel exortou o povo de Israel a fazer.
+* Deuteronômio 11:16: "Guardai-vos que o vosso coração não seja enganado, e vos desvieis, e sirvais a outros deuses, e vos prostreis perante eles." Este versículo adverte o povo de Israel para não se desviar dos mandamentos de Deus e adorar outros deuses, assim como Samuel os alertou que, se eles se rebelassem, seriam castigados.
+* 1 Reis 8:35: "Quando os céus se cerrarem, e não houver chuva, por terem pecado contra ti, e orarem neste lugar, e confessarem o teu nome, e se converterem dos seus pecados, havendo-os tu afligido." Este versículo fala da demonstração do poder de Deus na natureza, como Samuel demonstrou trazendo a tempestade, e também fala da importância da confissão e da conversão dos pecados.
+* 2 Crônicas 7:14: "E se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se converter dos seus maus caminhos, então eu ouvirei dos céus, e perdoarei os seus pecados, e sararei a sua terra." Esse versículo reforça a importância da humildade, da oração e da conversão dos pecados, como Samuel exortou o povo de Israel a fazer.
+* Salmos 51:17: "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus." Este versículo fala da importância da humildade e da contrição diante de Deus, como Samuel exortou o povo de Israel a fazer. Ele também fala da importância da adoração verdadeira e do arrependimento.
+****
+
+[[v9-12-1]]
+
+^<<v9-12-1,1>>^ Samuel disse a todo o Israel: “Obedeci à vossa voz em tudo o que me pedistes e estabeleci um rei sobre vós.
+
+[[v9-12-2]]
+
+^<<v9-12-2,2>>^ Agora tendes o rei que vos governará doravante. Quanto a mim, estou velho e grisalho e meus filhos estão no meio de vós. Estive à vossa frente desde a minha juventude até este dia.
+
+[[v9-12-3]]
+
+^<<v9-12-3,3>>^ Agora, aqui me tendes! Dai testemunho de mim em presença do Senhor e do seu ungido: tomei o boi ou o jumento de alguém? Oprimi ou prejudiquei alguém? Recebi presentes de alguém para fechar os olhos ao seu proceder? Restituirei”.
+
+[[v9-12-4]]
+
+^<<v9-12-4,4>>^ Responderam-lhe: “Tu não nos prejudicaste, nem nos oprimiste, nem recebeste coisa alguma da mão de ninguém”.
+
+[[v9-12-5]]
+
+^<<v9-12-5,5>>^ Samuel replicou: “O Senhor é testemunha contra vós e também o seu ungido, de que vós não encontrastes coisa alguma nas minhas mãos”. “Sim, eles são testemunhas”– responderam eles.
+
+[[v9-12-6]]
+
+^<<v9-12-6,6>>^ Samuel disse ao povo: “É, pois, testemunha o Senhor que estabeleceu Moisés e Aarão e tirou os vossos pais do Egito.
+
+[[v9-12-7]]
+
+^<<v9-12-7,7>>^ Agora, apresentai-vos. Vou pleitear convosco diante do Senhor a respeito de todos os benefícios que ele vos concedeu a vós e a vossos pais.
+
+[[v9-12-8]]
+
+^<<v9-12-8,8>>^ Depois que Jacó entrou no Egito, vossos pais invocaram o Senhor e ele enviou Moisés e Aarão para tirá-los do Egito e colocá-los neste lugar.
+
+[[v9-12-9]]
+
+^<<v9-12-9,9>>^ Mas esqueceram-se do Senhor, seu Deus, e ele os entregou nas mãos de Sísara, general do exército de Hasor, nas mãos dos filisteus e na mão do rei de Moab, os quais combateram contra eles.
+
+[[v9-12-10]]
+
+^<<v9-12-10,10>>^ Depois clamaram ao Senhor, dizendo: ‘Pecamos, porque abandonamos o Senhor para servir aos baals e às Astartes: agora livrai-nos das mãos de nossos inimigos e nós vos serviremos.
+
+[[v9-12-11]]
+
+^<<v9-12-11,11>>^ O Senhor enviou Jerobaal, Badã, Jefté e Samuel, para salvar-vos das mãos dos inimigos que vos cercavam, a fim de habitardes em segurança nas vossas casas.
+
+[[v9-12-12]]
+
+^<<v9-12-12,12>>^ Mas quando vistes Naás, rei dos amonitas, marchar contra vós, dissestes-me: ‘Não! Um rei nos governará!’, quando o Senhor, nosso Deus, era o vosso rei.
+
+[[v9-12-13]]
+
+^<<v9-12-13,13>>^ Eis, pois, o rei que escolhestes e pedistes. O Senhor estabeleceu-o sobre vós.
+
+[[v9-12-14]]
+
+^<<v9-12-14,14>>^ Esteja em vós o temor ao Senhor, para o servirdes e obedecerdes à sua voz e não vos rebelardes contra as suas vontades! Que vós sejais, vós e o vosso rei, dóceis ao Senhor, vosso Deus.
+
+[[v9-12-15]]
+
+^<<v9-12-15,15>>^ Mas se não ouvirdes a sua voz e vos revoltardes contra as suas ordens, a mão do Senhor pesará sobre vós como pesou sobre vossos pais.
+
+[[v9-12-16]]
+
+^<<v9-12-16,16>>^ Agora, ficai ainda um pouco aqui para assistirdes ao prodígio que o Senhor vai realizar aos vossos olhos.
+
+[[v9-12-17]]
+
+^<<v9-12-17,17>>^ Não é, porventura, agora a colheita do trigo? Vou invocar o Senhor e ele fará trovejar e chover. Compreendereis então que fizestes mal aos seus olhos pedindo um rei”.
+
+[[v9-12-18]]
+
+^<<v9-12-18,18>>^ Samuel pôs-se em oração e o Senhor mandou no mesmo instante trovões e chuva, de modo que todo o povo temeu grandemente ao Senhor e a Samuel.
+
+[[v9-12-19]]
+
+^<<v9-12-19,19>>^ E disseram todos a Samuel: “Roga pelos teus servos ao Senhor, teu Deus, para que não morramos, porque a todos nossos pecados ajuntamos o mal de pedirmos um rei”.
+
+[[v9-12-20]]
+
+^<<v9-12-20,20>>^ “Não temais – respondeu Samuel –. O mal está feito. Agora não vos desvieis do Senhor e servi-o de todo o vosso coração.
+
+[[v9-12-21]]
+
+^<<v9-12-21,21>>^ Não vos afasteis dele para seguirdes coisas vãs, que não salvam nem livram, porque são vãs.
+
+[[v9-12-22]]
+
+^<<v9-12-22,22>>^ O Senhor, por causa do seu grande nome, não abandonará o seu povo, porque foi do seu agrado fazer de vós uma nação.
+
+[[v9-12-23]]
+
+^<<v9-12-23,23>>^ Longe de mim também esse pecado contra o Senhor de cessar de orar por vós! Eu vos mostrarei o caminho bom e reto.
+
+[[v9-12-24]]
+
+^<<v9-12-24,24>>^ Temei, pois, ao Senhor e servi-o em verdade e de todo o vosso coração, considerando as maravilhas que ele fez por vós.
+
+[[v9-12-25]]
+
+^<<v9-12-25,25>>^ Se, porém, fizerdes o mal, perecereis vós e o vosso rei”.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-011.adoc#v9-11-0[&#60; Capítulo Anterior] | <<v9-12-0,Topo>> | xref:009-i-samuel/009-i-samuel-013.adoc#v9-13-0[Próximo Capítulo &#62;]

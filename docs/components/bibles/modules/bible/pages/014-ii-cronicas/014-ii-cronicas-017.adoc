@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v14-17-0]]
+=== II Crônicas, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 17 de 2 Crônicas fala sobre o reinado de Josafá, que andou nos caminhos de Deus e fortaleceu Judá espiritualmente e militarmente. A seguir estão cinco versículos relacionados com os temas abordados em 2 Crônicas 17:
+* 2 Crônicas 16:9a: "Porque, quanto ao Senhor, seus olhos passam por toda a terra, para mostrar-se forte para com aqueles cujo coração é perfeito para com ele..." O capítulo 17 de 2 Crônicas destaca a fidelidade de Josafá em seguir os caminhos de Deus, e esse versículo destaca a importância de ter um coração perfeito para com Deus.
+* Josué 1:8: "Não se aparte da tua boca o livro desta lei, antes medita nele dia e noite, para que tenhas cuidado de fazer conforme tudo quanto nele está escrito; porque então farás prosperar o teu caminho, e serás bem sucedido." Josafá fortaleceu Judá espiritualmente, incentivando o povo a meditar na Lei de Deus e a fazer conforme tudo o que nela está escrito. Esse versículo de Josué destaca a importância de meditar na Palavra de Deus e obedecer aos Seus mandamentos.
+* Salmos 1:1-3: "Bem-aventurado o homem que não anda no conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores. Antes tem o seu prazer na lei do Senhor, e na sua lei medita de dia e de noite. Pois será como a árvore plantada junto a ribeiros de águas, a qual dá o seu fruto na estação própria, e cujas folhas não caem; e tudo quanto fizer prosperará." Esse salmo destaca a importância de não seguir o conselho dos ímpios e meditar na Lei do Senhor dia e noite, para que tudo o que se fizer seja bem sucedido. Isso se relaciona com o reinado de Josafá, que fortaleceu Judá espiritualmente através da Lei de Deus.
+* 2 Crônicas 20:12b: "Porque em nós não há força perante esta grande multidão que vem contra nós, e não sabemos nós o que faremos; porém os nossos olhos estão postos em ti." Esse versículo se refere a uma oração de Josafá quando Judá foi ameaçada por uma grande multidão de inimigos. Ele reconheceu que não tinha forças para lutar sozinho, mas colocou a sua confiança em Deus. Isso mostra a confiança que Josafá tinha em Deus, que fortaleceu Judá não apenas espiritualmente, mas também militarmente.
+* Salmos 121:2: "O meu socorro vem do Senhor que fez o céu e a terra." Esse salmo destaca a confiança no Senhor como fonte de socorro e proteção. Josafá também confiou em Deus como a sua fonte de ajuda e fortalecimento, mostrando que a sua confiança não estava apenas nas suas próprias habilidades ou no exército de Judá.
+****
+
+[[v14-17-1]]
+
+^<<v14-17-1,1>>^ Seu filho Josafá sucedeu-lhe no trono. Ele se fortificou contra Israel.
+
+[[v14-17-2]]
+
+^<<v14-17-2,2>>^ Colocou tropas em todas as cidades fortes de Judá, guarnições em toda a terra e nas cidades de Efraim das quais se tinha apoderado seu pai Asa.
+
+[[v14-17-3]]
+
+^<<v14-17-3,3>>^ O Senhor estava com Josafá, porque este seguia os exemplos que, a princípio, dera seu pai e não corria atrás de Baal,^&#42;1^
+
+[[v14-17-4]]
+
+^<<v14-17-4,4>>^ mas só procurava o Deus de seus pais, observando seus mandamentos, sem fazer nada de semelhante ao que fazia Israel.
+
+[[v14-17-5]]
+
+^<<v14-17-5,5>>^ Por isso, o Senhor confirmou o poder em suas mãos. Todo o Judá lhe trazia presentes, e assim Josafá teve riqueza em abundância e glória.
+
+[[v14-17-6]]
+
+^<<v14-17-6,6>>^ Cheio de confiança na obra do Senhor, fez desaparecer de Judá os lugares altos e os ídolos asserás.
+
+[[v14-17-7]]
+
+^<<v14-17-7,7>>^ No terceiro ano de seu reinado, enviou seus chefes, Ben-Hail, Abdias, Zacarias, Natanael e Miqueias, para que ensinassem nas cidades de Judá.
+
+[[v14-17-8]]
+
+^<<v14-17-8,8>>^ Ele os fez acompanhar pelos levitas Semeías, Natanias, Zabadias, Asael, Semiramot, Jônatas, Adonias, Tobias, Tobadonias e pelos sacerdotes Elisama e Jorão.
+
+[[v14-17-9]]
+
+^<<v14-17-9,9>>^ Ensinaram em Judá, levando consigo o livro da Lei do Senhor e percorreram todas as cidades de Judá, instruindo o povo.
+
+[[v14-17-10]]
+
+^<<v14-17-10,10>>^ O terror do Senhor difundiu-se em todos os reinos que cercavam Judá, os quais se abstiveram de fazer guerra a Josafá.
+
+[[v14-17-11]]
+
+^<<v14-17-11,11>>^ Mesmo os filisteus vieram trazer a Josafá presentes e um tributo em prata. Os árabes também lhe trouxeram gado miúdo: sete mil e setecentos carneiros e sete mil e setecentos bodes.
+
+[[v14-17-12]]
+
+^<<v14-17-12,12>>^ Josafá aumentava seu poder. Construiu em Judá fortalezas e cidades de entrepostos.
+
+[[v14-17-13]]
+
+^<<v14-17-13,13>>^ Realizou grandes trabalhos nas cidades de Judá. Havia em Jerusalém um exército bem treinado.
+
+[[v14-17-14]]
+
+^<<v14-17-14,14>>^ Eis a sua distribuição segundo suas famílias: de Judá, os chefes de milhares eram: o chefe Ednas, com trezentos mil valentes guerreiros;
+
+[[v14-17-15]]
+
+^<<v14-17-15,15>>^ ao seu lado, o chefe Joanã, com duzentos e oitenta mil valentes guerreiros;
+
+[[v14-17-16]]
+
+^<<v14-17-16,16>>^ ao seu lado, Amasias, filho de Zecri, voluntariamente consagrado ao Senhor, com duzentos mil valentes guerreiros.
+
+[[v14-17-17]]
+
+^<<v14-17-17,17>>^ De Benjamim: o valoroso Eliada, com duzentos mil homens providos de arcos e de escudos;
+
+[[v14-17-18]]
+
+^<<v14-17-18,18>>^ ao seu lado, Jozabad, com cento e oitenta mil homens equipados para a guerra.
+
+[[v14-17-19]]
+
+^<<v14-17-19,19>>^ Essas eram as pessoas a serviço do rei, além das guarnições colocadas por ele nas fortalezas da terra de Judá.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-016.adoc#v14-16-0[&#60; Capítulo Anterior] | <<v14-17-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-018.adoc#v14-18-0[Próximo Capítulo &#62;]

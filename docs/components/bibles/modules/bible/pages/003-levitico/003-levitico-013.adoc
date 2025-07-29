@@ -1,0 +1,255 @@
+include::./index.adoc[]
+
+[[v3-13-0]]
+=== Levítico, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Levítico 13 trata de como identificar e lidar com a lepra, uma doença contagiosa que era temida e considerada impura na época. O capítulo detalha os sintomas e características da lepra, bem como as medidas a serem tomadas para lidar com ela. Abaixo estão cinco versículos relacionados aos temas abordados em Levítico 13:
+* Números 12:10: "E a nuvem se retirou de sobre a tenda, e eis que Miriã ficou leprosa, branca como a neve; e olhou Arão para Miriã, e eis que estava leprosa." Este versículo descreve o momento em que Miriã, irmã de Moisés, foi afligida com lepra como punição por falar mal de Moisés. Isso mostra como a lepra era temida e vista como uma punição divina na época.
+* 2 Reis 5:1: "Naamã, comandante do exército do rei da Síria, era um homem importante aos olhos do seu senhor e muito respeitado, porque por meio dele o Senhor dera vitória à Síria. Era valente, mas leproso." Este versículo destaca a importância social e militar de Naamã, apesar de sua lepra, e como a doença não discriminava entre as pessoas.
+* Lucas 17:12-13: "Ao entrar num povoado, dez leprosos dirigiram-se a ele, gritando: 'Jesus, Mestre, tem misericórdia de nós!'". Este versículo narra o encontro de Jesus com um grupo de leprosos que imploram por sua cura, mostrando que a doença era considerada incurável na época e que a cura era vista como um milagre.
+* Marcos 1:40-42: "Veio um leproso a Jesus, suplicando-lhe de joelhos: 'Se quiseres, podes purificar-me!' Jesus compadeceu-se dele, estendeu a mão, tocou nele e disse: 'Quero. Seja purificado!' No mesmo instante a lepra o deixou, e ele foi purificado." Este versículo também destaca a capacidade de Jesus de curar a lepra, que era considerada incurável na época.
+* João 9:1-3: "Caminhando, Jesus viu um cego de nascença. Seus discípulos perguntaram: 'Mestre, quem pecou, este homem ou seus pais, para que nascesse cego?' 'Nem ele nem seus pais pecaram', disse Jesus, 'mas isto aconteceu para que a obra de Deus se manifestasse na vida dele.'" Embora este versículo não se refira diretamente à lepra, ele sugere que a doença não era necessariamente um castigo divino por pecados cometidos, mas podia ter outras causas e propósitos.
+****
+
+[[v3-13-1]]
+
+^<<v3-13-1,1>>^ O Senhor disse a Moisés e a Aarão:
+
+[[v3-13-2]]
+
+^<<v3-13-2,2>>^ “Quando um homem tiver um tumor, uma inflamação ou uma mancha branca na pele de seu corpo, e esta se tornar em sua pele uma chaga de lepra, ele será levado a Aarão, o sacerdote, ou a um dos seus filhos sacerdotes.
+
+[[v3-13-3]]
+
+^<<v3-13-3,3>>^ O sacerdote examinará o mal que houver na pele do corpo. Se o pêlo se tornou branco naquele lugar, e a chaga parecer mais funda que a pele, será uma chaga de lepra. Após examiná-lo, o sacerdote verificará o fato e declarará impuro o homem.
+
+[[v3-13-4]]
+
+^<<v3-13-4,4>>^ Se houver na pele de seu corpo uma mancha branca que não parecer mais funda que a pele sã, e o cabelo não se tiver tornado branco, o sacerdote isolará o doente durante sete dias.
+
+[[v3-13-5]]
+
+^<<v3-13-5,5>>^ No sétimo dia, o sacerdote o examinará: se a chaga parecer não ter progredido e não se tiver estendido pela pele, ele o isolará uma segunda vez durante sete dias.
+
+[[v3-13-6]]
+
+^<<v3-13-6,6>>^ No sétimo dia, o sacerdote o examinará novamente: se a parte afetada perdeu a sua cor e não se tiver estendido por sobre a pele, o declarará puro. É uma simples inflamação. O homem lavará suas vestes e será puro.
+
+[[v3-13-7]]
+
+^<<v3-13-7,7>>^ Mas se a inflamação se estender por sobre a pele, depois de se ter mostrado ao sacerdote para ser declarado puro, se lhe mostrará uma segunda vez.
+
+[[v3-13-8]]
+
+^<<v3-13-8,8>>^ Se o sacerdote verificar a extensão da inflamação por sobre a pele, o declarará impuro: é lepra.
+
+[[v3-13-9]]
+
+^<<v3-13-9,9>>^ Quando um homem for atingido pela lepra, será conduzido ao sacerdote, que o examinará.
+
+[[v3-13-10]]
+
+^<<v3-13-10,10>>^ Se houver na sua pele um tumor branco, e este tiver branqueado o cabelo, e aparecer a carne viva no tumor,
+
+[[v3-13-11]]
+
+^<<v3-13-11,11>>^ é lepra inveterada na pele de seu corpo; o sacerdote o declarará impuro; não o isolará, porque é imundo.
+
+[[v3-13-12]]
+
+^<<v3-13-12,12>>^ Se a chaga se estendeu por toda a pele do doente, da cabeça aos pés, o sacerdote que o examinar, verificando, segundo o que viu,
+
+[[v3-13-13]]
+
+^<<v3-13-13,13>>^ que a lepra cobre toda a pele, o declarará puro. Como se tornou completamente branco, é puro.
+
+[[v3-13-14]]
+
+^<<v3-13-14,14>>^ Mas no dia em que se perceber nele a carne viva, será impuro;
+
+[[v3-13-15]]
+
+^<<v3-13-15,15>>^ o sacerdote, vendo a carne viva, o declarará impuro; a carne viva é impura; é a lepra.
+
+[[v3-13-16]]
+
+^<<v3-13-16,16>>^ Se a carne viva mudar e ficar de novo branca, o homem irá ao sacerdote, que o examinará;
+
+[[v3-13-17]]
+
+^<<v3-13-17,17>>^ se a chaga se tornou verdadeiramente branca, o sacerdote o declarará puro: ele está puro.
+
+[[v3-13-18]]
+
+^<<v3-13-18,18>>^ Quando um homem tiver tido na pele de seu corpo uma úlcera que foi curada,
+
+[[v3-13-19]]
+
+^<<v3-13-19,19>>^ e no lugar da úlcera aparecer um tumor branco ou uma mancha de um branco-avermelhado, esse homem se apresentará ao sacerdote para ser examinado.
+
+[[v3-13-20]]
+
+^<<v3-13-20,20>>^ Se a mancha parecer mais funda que a pele, e o cabelo se tiver tornado branco, o sacerdote o declarará impuro: é uma chaga de lepra, fornada na úlcera.
+
+[[v3-13-21]]
+
+^<<v3-13-21,21>>^ Mas, se o sacerdote verificar que não há cabelo branco na mancha, e ela não parecer mais funda que a pele, e se tiver tornado de uma cor pálida, isolará esse homem durante sete dias.
+
+[[v3-13-22]]
+
+^<<v3-13-22,22>>^ Se a mancha se estender por sobre a pele, o sacerdote declarará o homem impuro: é uma chaga de lepra.
+
+[[v3-13-23]]
+
+^<<v3-13-23,23>>^ Mas, se a mancha ficou no seu lugar sem se estender, é a cicatriz da úlcera; o sacerdote o declarará puro.
+
+[[v3-13-24]]
+
+^<<v3-13-24,24>>^ Quando um homem tiver na pele uma queimadura de fogo, e a cicatriz dessa queimadura apresentar uma mancha branca ou de um branco-avermelhado, o sacerdote o examinará.
+
+[[v3-13-25]]
+
+^<<v3-13-25,25>>^ Se o cabelo se tornou branco na mancha, e essa parecer mais funda que a pele, é a lepra que se formou na queimadura; o sacerdote o declarará impuro: é uma chaga de lepra.
+
+[[v3-13-26]]
+
+^<<v3-13-26,26>>^ Se o sacerdote verificar que não há cabelo branco na mancha, e que ela não parece mais funda que a pele, e se tiver tornado de uma cor pálida, isolará esse homem durante sete dias.
+
+[[v3-13-27]]
+
+^<<v3-13-27,27>>^ Depois disso, o examinará. Se a mancha tiver se estendido por sobre a pele, o sacerdote o declarará impuro: é uma chaga de lepra.
+
+[[v3-13-28]]
+
+^<<v3-13-28,28>>^ Mas, se a mancha ficou no mesmo lugar sem se estender por sobre a pele, e se tiver tornado de uma cor pálida, é o tumor da queimadura. O sacerdote o declarará puro, pois é a cicatriz da queimadura.
+
+[[v3-13-29]]
+
+^<<v3-13-29,29>>^ Quando um homem ou uma mulher tiver uma chaga na cabeça ou no queixo, o sacerdote examinará a chaga.
+
+[[v3-13-30]]
+
+^<<v3-13-30,30>>^ Se ela parecer mais funda que a pele, e nela houver os cabelos finos e amarelados, o sacerdote declarará impuro o enfermo: esta é a tinha, a lepra da cabeça ou do queixo.
+
+[[v3-13-31]]
+
+^<<v3-13-31,31>>^ Se o sacerdote averiguar que a chaga da tinha não parece mais funda que a pele, e nela não houver cabelos pretos, o sacerdote isolará durante sete dias aquele que tem a chaga da tinha.
+
+[[v3-13-32]]
+
+^<<v3-13-32,32>>^ No sétimo dia, o examinará. Se a tinha não se espalhou, nela não houver cabelo amarelado, e a chaga não parecer mais funda do que a pele,
+
+[[v3-13-33]]
+
+^<<v3-13-33,33>>^ o enfermo fará a barba, exceto no lugar da chaga, e o sacerdote o isolará de novo durante sete dias.
+
+[[v3-13-34]]
+
+^<<v3-13-34,34>>^ No sétimo dia, o examinará. Se a tinha não se espalhou por sobre a pele, e a chaga não parecer mais funda que a pele, o sacerdote o declarará puro; ele lavará suas vestes e será puro.
+
+[[v3-13-35]]
+
+^<<v3-13-35,35>>^ Se, entretanto, depois que o tiver declarado puro, a tinha se estender por sobre a pele, o sacerdote o examinará.
+
+[[v3-13-36]]
+
+^<<v3-13-36,36>>^ Se a tinha se tiver espalhado na pele, o sacerdote não procurará o cabelo amarelo, porque o homem é impuro.
+
+[[v3-13-37]]
+
+^<<v3-13-37,37>>^ Se a tinha lhe parece estacionária, e nela houver crescido cabelos pretos, ele sarou; o homem está puro e o sacerdote o declarará como tal.
+
+[[v3-13-38]]
+
+^<<v3-13-38,38>>^ Quando o homem ou mulher tiver na pele manchas brancas, o sacerdote as examinará.
+
+[[v3-13-39]]
+
+^<<v3-13-39,39>>^ Se essas manchas na pele são de um branco pálido, são manchas superficiais: ele é puro.
+
+[[v3-13-40]]
+
+^<<v3-13-40,40>>^ Quando um homem perder os seus cabelos, ele será simplesmente calvo, mas será puro.
+
+[[v3-13-41]]
+
+^<<v3-13-41,41>>^ Se lhe caírem os cabelos da fronte, ele terá a fronte calva, mas será puro.
+
+[[v3-13-42]]
+
+^<<v3-13-42,42>>^ Mas se na parte calva, posterior ou dianteira, se encontrar uma chaga de um branco-avermelhado, é a lepra que se declarou na parte calva posterior ou dianteira.
+
+[[v3-13-43]]
+
+^<<v3-13-43,43>>^ O sacerdote o examinará. Se o tumor da chaga for de um branco-avermelhado na parte calva posterior ou dianteira, tendo o aspecto da lepra da pele do corpo, esse homem é leproso,
+
+[[v3-13-44]]
+
+^<<v3-13-44,44>>^ é impuro; a sua lepra está na cabeça.
+
+[[v3-13-45]]
+
+^<<v3-13-45,45>>^ Todo homem atingido pela lepra terá suas vestes rasgadas e a cabeça descoberta. Cobrirá a barba e clamará: Impuro! Impuro!
+
+[[v3-13-46]]
+
+^<<v3-13-46,46>>^ Enquanto durar o seu mal, ele será impuro. É impuro; habitará só, e a sua habitação será fora do acampamento”.
+
+[[v3-13-47]]
+
+^<<v3-13-47,47>>^ “Quando a lepra aparecer numa veste de lã ou de linho,
+
+[[v3-13-48]]
+
+^<<v3-13-48,48>>^ num tecido de tela ou de trama, de lã ou de linho, numa pele ou num objeto qualquer de pele,
+
+[[v3-13-49]]
+
+^<<v3-13-49,49>>^ se a mancha na veste, na pele, no tecido de tela ou de trama ou no objeto de pele, for esverdeada ou avermelhada, é uma lepra: será mostrada ao sacerdote.
+
+[[v3-13-50]]
+
+^<<v3-13-50,50>>^ O sacerdote examinará a mancha e isolará durante sete dias o objeto atingido pelo mal.
+
+[[v3-13-51]]
+
+^<<v3-13-51,51>>^ No sétimo dia, examinará a chaga. Se ela se tiver espalhado pela veste, pelo tecido de tela ou de trama, pela pele ou pelo objeto de pele, seja qual for, é uma lepra roedora; o objeto é impuro.
+
+[[v3-13-52]]
+
+^<<v3-13-52,52>>^ Queimará a veste, o tecido de tela ou de trama de linho ou de lã, o objeto de pele, seja qual for, em que se encontre a mancha, porque é uma lepra roedora; o objeto será queimado no fogo.
+
+[[v3-13-53]]
+
+^<<v3-13-53,53>>^ Mas se o sacerdote verificar que a mancha não se espalhou pela veste, pelo tecido de tela ou de trama, ou pelo objeto de pele,
+
+[[v3-13-54]]
+
+^<<v3-13-54,54>>^ mandará lavar o objeto afetado e o isolará uma segunda vez durante sete dias.
+
+[[v3-13-55]]
+
+^<<v3-13-55,55>>^ Em seguida examinará a mancha, depois que ela tiver sido lavada. Se não mudou de aspecto nem se espalhou, o objeto é impuro. Tu o queimarás no fogo: a mancha roeu o objeto de um lado a outro.
+
+[[v3-13-56]]
+
+^<<v3-13-56,56>>^ Mas se o sacerdote verificar que a mancha lavada tomou uma cor pálida, arrancará da veste, da pele ou do tecido de tela ou de trama.
+
+[[v3-13-57]]
+
+^<<v3-13-57,57>>^ Se ela voltar novamente à veste, ao tecido de tela ou de trama ou ao objeto de pele, é uma erupção de lepra. Tu queimarás no fogo o objeto atingido pela mancha.
+
+[[v3-13-58]]
+
+^<<v3-13-58,58>>^ Mas a veste, o tecido de tela ou de trama, o objeto de pele, seja o que for, que tiveres lavado e do qual a mancha tiver desaparecido, será lavado uma segunda vez e será puro.
+
+[[v3-13-59]]
+
+^<<v3-13-59,59>>^ Tal é a lei relativa à mancha de lepra que atacar as vestes de lã ou de linho, os tecidos de tela ou de trama, ou qualquer objeto de pele; é segundo ela que se declararão esses objetos puros ou impuros.”
+
+'''
+
+xref:003-levitico/003-levitico-012.adoc#v3-12-0[&#60; Capítulo Anterior] | <<v3-13-0,Topo>> | xref:003-levitico/003-levitico-014.adoc#v3-14-0[Próximo Capítulo &#62;]

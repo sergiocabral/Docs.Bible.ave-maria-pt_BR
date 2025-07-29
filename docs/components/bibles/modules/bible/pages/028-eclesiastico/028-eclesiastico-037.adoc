@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v28-37-0]]
+=== Eclesiástico, 37
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 37 de Eclesiástico aborda principalmente a importância da amizade e do conselho de pessoas sábias. O autor destaca a necessidade de escolhermos cuidadosamente nossos amigos e de buscar conselhos sábios quando estamos enfrentando dificuldades na vida. A seguir estão cinco versículos relacionados com esses temas:
+* Provérbios 13:20: "Anda com os sábios e tornar-te-ás sábio; mas o companheiro dos insensatos sofre aflição." Este versículo destaca a importância de escolhermos nossos amigos sabiamente, pois isso pode influenciar em nosso próprio comportamento e atitudes.
+* Provérbios 11:14: "Onde não há conselho fracassam os projetos, mas com a multidão de conselheiros se realizam." Este versículo enfatiza a importância de buscarmos conselhos de pessoas sábias quando estamos tomando decisões importantes na vida.
+* Provérbios 27:9: "O azeite e o perfume alegram o coração; assim é o doce conselho do amigo." Este versículo destaca o valor de um amigo que pode oferecer um conselho sincero e reconfortante em momentos difíceis.
+* Provérbios 22:24-25: "Não te associes com o homem colérico, nem andes com o homem violento; para que não aprendas as suas veredas, e tomes um laço para a tua alma." Este versículo destaca a importância de escolhermos amigos que tenham um bom caráter e comportamento, e de evitarmos aqueles que são coléricos ou violentos.
+* Provérbios 18:24: "O homem que tem muitos amigos pode congratular-se, mas há amigo mais chegado do que um irmão." Este versículo enfatiza a importância da amizade e da proximidade entre amigos, que podem ser ainda mais importantes do que os laços de sangue.
+****
+
+[[v28-37-1]]
+
+^<<v28-37-1,1>>^ Todo amigo diz: “Eu também contraí amizade”. Há porém um amigo que só o é de nome. Não é uma dor que dura até a morte
+
+[[v28-37-2]]
+
+^<<v28-37-2,2>>^ ver um amigo e um companheiro mudarem-se em inimigos?
+
+[[v28-37-3]]
+
+^<<v28-37-3,3>>^ Ó presunção criminosa, onde tiveste origem, para cobrir a terra com tua malícia e tua perfídia?
+
+[[v28-37-4]]
+
+^<<v28-37-4,4>>^ O amigo distrai-se com seu amigo nas suas alegrias; no dia da tribulação, ele se tornará seu adversário.
+
+[[v28-37-5]]
+
+^<<v28-37-5,5>>^ O amigo compartilha da desventura do seu amigo no interesse de seu ventre; ao ver o inimigo, tomará do escudo.
+
+[[v28-37-6]]
+
+^<<v28-37-6,6>>^ Não te esqueças de teu amigo nos teus pensamentos; no meio da riqueza, não percas a sua lembrança.
+
+[[v28-37-7]]
+
+^<<v28-37-7,7>>^ Não te aconselhes com aquele que te arma um laço. Esconde tuas intenções àqueles que te têm inveja.
+
+[[v28-37-8]]
+
+^<<v28-37-8,8>>^ Todo conselheiro dá sua opinião, mas há conselheiros que só têm em vista o próprio interesse.
+
+[[v28-37-9]]
+
+^<<v28-37-9,9>>^ Estejas prevenido quando tratar-se de um conselheiro; informa-te primeiro quais são os seus interesses, pois ele pensa em si mesmo antes de tudo.
+
+[[v28-37-10]]
+
+^<<v28-37-10,10>>^ Teme que ele plante uma estaca no solo e te diga:^&#42;1^
+
+[[v28-37-11]]
+
+^<<v28-37-11,11>>^ “Estás no bom caminho”, enquanto se põe defronte para ver o que te acontecerá.
+
+[[v28-37-12]]
+
+^<<v28-37-12,12>>^ Vai consultar um homem sem religião sobre as coisas santas; um injusto sobre a justiça; uma mulher sobre sua rival; um tímido sobre a guerra; um mercador sobre o negócio; um comprador sobre uma coisa para vender; um invejoso sobre a gratidão;^&#42;1^
+
+[[v28-37-13]]
+
+^<<v28-37-13,13>>^ um ímpio sobre a piedade; um homem desonrado sobre a honestidade; um lavrador sobre o seu trabalho;
+
+[[v28-37-14]]
+
+^<<v28-37-14,14>>^ um operário, contratado por um ano, sobre o término de seu contrato; um criado preguiçoso sobre uma grande tarefa! Não confies neles e em nenhum de seus conselhos.
+
+[[v28-37-15]]
+
+^<<v28-37-15,15>>^ Sê, porém, assíduo junto a um santo homem, quando conheceres um que seja fiel ao temor a Deus,
+
+[[v28-37-16]]
+
+^<<v28-37-16,16>>^ cuja alma se irmana à tua, e que compartilhará da tua dor quando titubeares nas trevas.
+
+[[v28-37-17]]
+
+^<<v28-37-17,17>>^ Fortalece em ti um coração prudente, pois nada tem mais valor para ti.
+
+[[v28-37-18]]
+
+^<<v28-37-18,18>>^ A alma de um santo homem descobre às vezes melhor a verdade que sete sentinelas postas em observação numa colina.
+
+[[v28-37-19]]
+
+^<<v28-37-19,19>>^ Mas em todas as coisas ora ao Altíssimo, para que ele dirija teus passos na verdade.
+
+[[v28-37-20]]
+
+^<<v28-37-20,20>>^ Que uma palavra de verdade preceda todos os teus atos, e um conselho firme preceda toda a tua diligência.
+
+[[v28-37-21]]
+
+^<<v28-37-21,21>>^ Uma palavra má transtorna o coração; dela vêm quatro coisas: o bem e o mal, a vida e a morte; sobre estas quem domina de contínuo é a língua.^&#42;1^
+
+[[v28-37-22]]
+
+^<<v28-37-22,22>>^ Há homem hábil que ensina a muita gente, mas que é inútil para si mesmo.
+
+[[v28-37-23]]
+
+^<<v28-37-23,23>>^ Outro é esclarecido e instrui a muitos, e é agradável a si próprio.
+
+[[v28-37-24]]
+
+^<<v28-37-24,24>>^ Aquele que afeta sabedoria nas palavras é odioso; ficará desprovido de tudo.
+
+[[v28-37-25]]
+
+^<<v28-37-25,25>>^ Não recebeu o favor do Senhor, pois é desprovido de toda sabedoria.
+
+[[v28-37-26]]
+
+^<<v28-37-26,26>>^ Há um sábio que é sábio para si mesmo, e os frutos de sua sabedoria são verdadeiramente louváveis.
+
+[[v28-37-27]]
+
+^<<v28-37-27,27>>^ O sábio ensina o seu povo, e os frutos de sua sabedoria são duradouros.
+
+[[v28-37-28]]
+
+^<<v28-37-28,28>>^ O homem sábio será cumulado de bênçãos. Aqueles que o virem o louvarão.
+
+[[v28-37-29]]
+
+^<<v28-37-29,29>>^ A vida do homem conta poucos dias, mas os dias de Israel são inúmeros.
+
+[[v28-37-30]]
+
+^<<v28-37-30,30>>^ O sábio herdará a honra no meio do povo, e o seu nome viverá eternamente.
+
+[[v28-37-31]]
+
+^<<v28-37-31,31>>^ Meu filho, experimenta tua alma durante tua vida; se o poder lhe for nefasto, não lho dês,
+
+[[v28-37-32]]
+
+^<<v28-37-32,32>>^ pois nem tudo é vantajoso para todos, e todos não se comprazem nas mesmas coisas.
+
+[[v28-37-33]]
+
+^<<v28-37-33,33>>^ Nunca sejas guloso em banquete algum; não te lances sobre tudo o que se serve,
+
+[[v28-37-34]]
+
+^<<v28-37-34,34>>^ pois o excesso no alimento é causa de doença, e a intemperança leva à cólica.
+
+[[v28-37-35]]
+
+^<<v28-37-35,35>>^ Muitos morreram por causa de sua intemperança, o homem sóbrio, porém, prolonga sua vida.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-036.adoc#v28-36-0[&#60; Capítulo Anterior] | <<v28-37-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-038.adoc#v28-38-0[Próximo Capítulo &#62;]

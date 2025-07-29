@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v35-14-0]]
+=== Oséias, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 14 de Oséias é um convite ao arrependimento e à restauração do relacionamento entre Deus e o povo de Israel. É um chamado para que eles voltem ao Senhor e reconheçam a sua dependência dele, e não de ídolos ou de outros deuses. Os versículos selecionados abaixo estão relacionados com a temática principal do capítulo, o arrependimento e a busca por Deus.
+* Salmos 51:17: "Sacrifícios agradáveis a ti são o espírito quebrantado; coração compungido e contrito, não o desprezarás, ó Deus." Este verso enfatiza que o arrependimento verdadeiro é o que agrada a Deus, mais do que qualquer sacrifício ou oferenda que possamos oferecer.
+* Isaías 55:6-7: "Buscai o Senhor enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos; volte-se ao Senhor, que se compadecerá dele; e para o nosso Deus, porque é rico em perdoar." Este verso reforça a mensagem central do capítulo 14 de Oséias, que é a busca por Deus e o arrependimento dos nossos pecados.
+* Jeremias 31:18-19: "Certamente ouvi Efraim lamentando-se: Castigaste-me, e fui castigado como novilho ainda não domesticado; faze-me voltar para que eu volte, porque tu és o Senhor, meu Deus. Porque, depois que me desviei, arrependi-me; e depois que compreendi, bati na minha coxa; envergonhado estou e confundido, porque suportei o opróbrio da minha mocidade." Este verso mostra o arrependimento genuíno de Efraim (um dos nomes dados a Israel) e o desejo de voltar para o Senhor.
+* Lucas 15:11-32: A parábola do filho pródigo é um exemplo vivo de arrependimento e reconciliação. O filho mais novo desperdiça a sua herança e acaba vivendo em extrema pobreza, até que decide voltar para a casa do seu pai. Ele reconhece os seus erros, pede perdão e é recebido com alegria pelo pai. Esta parábola ilustra o amor de Deus pelo seu povo e a sua disposição em perdoar aqueles que se arrependem verdadeiramente.
+* Apocalipse 2:4-5: "Tenho, porém, contra ti que deixaste o teu primeiro amor. Lembra-te, pois, de onde caíste, e arrepende-te, e pratica as primeiras obras; e se não, brevemente virei a ti, e removerei do seu lugar o teu candeeiro, se não te arrependeres." Este verso destaca a importância do arrependimento contínuo e da busca constante por Deus, para que não percamos o nosso primeiro amor e a nossa comunhão com Ele.
+****
+
+[[v35-14-1]]
+
+^<<v35-14-1,1>>^ Volta, Israel, ao Senhor, teu Deus, porque foi teu pecado que te fez cair.
+
+[[v35-14-2]]
+
+^<<v35-14-2,2>>^ Muni-vos de palavras de súplicas e voltai ao Senhor. Dizei-lhe: “Perdoai todos os nossos pecados, acolhei-nos favoravelmente. Queremos oferecer em sacrifício a homenagem de nossos lábios.^&#42;1^
+
+[[v35-14-3]]
+
+^<<v35-14-3,3>>^ O assírio não nos salvará, não mais montaremos nossos cavalos, e não mais teremos como Deus obra alguma de nossas mãos, porque só junto de vós encontra o órfão compaixão”.
+
+[[v35-14-4]]
+
+^<<v35-14-4,4>>^ Curarei a sua infidelidade, eu os amarei de todo o coração, porque minha cólera apartou-se deles.
+
+[[v35-14-5]]
+
+^<<v35-14-5,5>>^ Serei para Israel como o orvalho; ele florescerá como o lírio, e lançará raízes como o álamo.
+
+[[v35-14-6]]
+
+^<<v35-14-6,6>>^ Seus galhos se estenderão ao longe, sua opulência igualará à da oliveira e seu perfume será como o odor do Líbano.
+
+[[v35-14-7]]
+
+^<<v35-14-7,7>>^ Os de Efraim virão sentar-se à sua sombra. Cultivarão o trigo. Crescerão com a vinha. E serão famosos como o vinho do Líbano.
+
+[[v35-14-8]]
+
+^<<v35-14-8,8>>^ Que terá ainda Efraim de comum com os ídolos? Eu mesmo, que o afligi, o tornarei feliz. Eu sou como o cipreste sempre verde: graças a mim é que produzes fruto.
+
+[[v35-14-9]]
+
+^<<v35-14-9,9>>^ Quem é sábio atenda a estas coisas! Que o homem inteligente reflita nelas, porque os caminhos do Senhor são retos. Os justos andam por eles, mas os pecadores neles tropeçam.
+
+'''
+
+xref:035-oseias/035-oseias-013.adoc#v35-13-0[&#60; Capítulo Anterior] | <<v35-14-0,Topo>> | xref:036-joel/036-joel-001.adoc#v36-1-0[Próximo Capítulo &#62;]

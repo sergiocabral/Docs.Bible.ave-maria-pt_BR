@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v9-20-0]]
+=== I Samuel, 20
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 20 de 1 Samuel narra a continuação do relacionamento entre Davi e Jônatas, filho do rei Saul. Neste capítulo, Jônatas se compromete a ajudar Davi a escapar da ira de seu pai e eles fazem um pacto de amizade. No entanto, o capítulo também trata da crescente hostilidade de Saul em relação a Davi e de sua determinação em matá-lo. A seguir, cinco versículos relacionados com os temas abordados em 1 Samuel 20:
+* Provérbios 17:17: "Em todo tempo ama o amigo, e na angústia se faz o irmão." Este verso destaca a importância da amizade verdadeira, que é capaz de superar as adversidades e se tornar uma relação de irmãos.
+* João 15:13: "Ninguém tem maior amor do que este, de dar alguém a sua vida pelos seus amigos." Jônatas arrisca sua vida para ajudar Davi, mostrando um amor sacrificial e incondicional, que é um exemplo do amor de Cristo pelos seus amigos.
+* Salmo 119:63: "Sou amigo de todos os que te temem e guardam os teus preceitos." Davi e Jônatas eram amigos porque compartilhavam uma fé em Deus e um compromisso com a obediência aos seus mandamentos.
+* Provérbios 27:6: "Feridas feitas pelo amigo são fiéis, mas beijos do inimigo são enganosos." Saul demonstra ser um amigo infiel, ao mesmo tempo que finge amizade e mostra-se amigável para com Davi, ele secretamente deseja sua morte.
+* Salmo 27:1: "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a fortaleza da minha vida; de quem me recearei?" Davi confia em Deus para protegê-lo contra as ameaças de Saul e mantém sua fé inabalável, mesmo em meio à perseguição e ao perigo.
+****
+
+[[v9-20-1]]
+
+^<<v9-20-1,1>>^ Partiu Davi de Naiot, perto de Ramá, e veio ter com Jônatas. Disse-lhe: “Que fiz eu? Qual é o meu crime e que mal fiz ao teu pai, para que ele queira matar-me?”.
+
+[[v9-20-2]]
+
+^<<v9-20-2,2>>^ “Não – respondeu Jônatas –, tu não morrerás! Meu pai não faz coisa alguma, grande ou pequena, sem me dizer. Por que me ocultaria isso? Não é possível!”
+
+[[v9-20-3]]
+
+^<<v9-20-3,3>>^ Mas Davi insistiu com juramento: “Teu pai bem sabe que eu te sou simpático e por isso deve ter pensado: ‘Jônatas não o saiba para que não se entristeça demasiado’. Por Deus e pela tua vida, há apenas um passo entre mim e a morte!”.
+
+[[v9-20-4]]
+
+^<<v9-20-4,4>>^ Jônatas perguntou a Davi: “Que queres que eu faça por ti?”.
+
+[[v9-20-5]]
+
+^<<v9-20-5,5>>^ “Amanhã – disse Davi – é lua nova e eu deveria jantar à mesa do rei. Deixa-me partir para me ocultar no campo até a tarde do terceiro dia.
+
+[[v9-20-6]]
+
+^<<v9-20-6,6>>^ Se teu pai notar minha ausência, podes dizer-lhe que te pedi licença para ir até Belém, minha cidade natal, onde toda a minha família oferece um sacrifício anual.
+
+[[v9-20-7]]
+
+^<<v9-20-7,7>>^ Se ele disser que está bem, o teu servo nada terá a temer; mas se ele, ao contrário, se irritar, fica sabendo que ele decretou a minha perda.
+
+[[v9-20-8]]
+
+^<<v9-20-8,8>>^ Mostra-te amigo para com teu servo, pois que fizeste um pacto comigo em nome do Senhor. Se eu tenho alguma culpa, mata-me tu mesmo; por que fazer-me comparecer diante de teu pai?”
+
+[[v9-20-9]]
+
+^<<v9-20-9,9>>^ Jônatas disse-lhe: “Longe de ti tal coisa! Se eu souber que de fato meu pai resolveu perder-te, juro que te avisarei”.
+
+[[v9-20-10]]
+
+^<<v9-20-10,10>>^ “Mas quem me informará – perguntou Davi – se teu pai te responder duramente?”
+
+[[v9-20-11]]
+
+^<<v9-20-11,11>>^ “Vamos ao campo” – disse-lhe Jônatas. E foram ambos ao campo.
+
+[[v9-20-12]]
+
+^<<v9-20-12,12>>^ Então Jônatas falou: “Por Javé, Deus de Israel! Amanhã ou depois de amanhã sondarei meu pai. Se tudo for favorável a ti e eu não te avisar,
+
+[[v9-20-13]]
+
+^<<v9-20-13,13>>^ então o Senhor me trate com todo o seu rigor! E se meu pai te quiser fazer mal, te avisarei da mesma forma; e te deixarei então partir e poderás estar tranquilo. Que o Senhor esteja contigo, como esteve com meu pai!
+
+[[v9-20-14]]
+
+^<<v9-20-14,14>>^ Mais tarde, se eu estiver ainda vivo, me conservarás tua amizade em nome do Senhor. Mas, se eu morrer,
+
+[[v9-20-15]]
+
+^<<v9-20-15,15>>^ não retires jamais tua benevolência de minha casa, nem mesmo quando o Senhor exterminar da face da terra todos os inimigos de Davi!”.
+
+[[v9-20-16]]
+
+^<<v9-20-16,16>>^ Foi assim que Jônatas fez aliança com a casa de Davi e o Senhor vingou-se dos inimigos de Davi.
+
+[[v9-20-17]]
+
+^<<v9-20-17,17>>^ Jônatas conjurou ainda uma vez a Davi, em nome da amizade que lhe consagrava, pois o amava de toda a sua alma.
+
+[[v9-20-18]]
+
+^<<v9-20-18,18>>^ “Amanhã – continuou Jônatas – é lua nova e notarão tua ausência.
+
+[[v9-20-19]]
+
+^<<v9-20-19,19>>^ Descerás, pois, sem falta, depois de amanhã ao lugar onde te escondeste no dia do ajuste e ficarás junto à pedra de Ezel.
+
+[[v9-20-20]]
+
+^<<v9-20-20,20>>^ Atirarei três flechas para o lado da pedra como se visasse a um alvo.
+
+[[v9-20-21]]
+
+^<<v9-20-21,21>>^ Depois mandarei meu servo buscar as flechas. Se eu lhe gritar: ‘Olha! Estão atrás de ti, apanha-as!’. Então poderás vir, porque tudo te é favorável e não há mal algum a temer, por Deus!
+
+[[v9-20-22]]
+
+^<<v9-20-22,22>>^ Se, porém, eu disser ao rapaz: ‘Olha! As flechas estão diante de ti, um pouco mais longe. Então foge, porque essa é a vontade de Deus.’
+
+[[v9-20-23]]
+
+^<<v9-20-23,23>>^ Quanto à palavra que nos demos um ao outro, o Senhor seja testemunha entre nós para sempre.”
+
+[[v9-20-24]]
+
+^<<v9-20-24,24>>^ Davi escondeu-se no campo. No dia da lua nova, o rei pôs-se à mesa para comer,
+
+[[v9-20-25]]
+
+^<<v9-20-25,25>>^ sentando-se, como de costume, numa cadeira junto à parede. Jônatas levantou-se para que Abner pudesse sentar-se ao lado de Saul e o lugar de Davi ficou desocupado.
+
+[[v9-20-26]]
+
+^<<v9-20-26,26>>^ Naquele dia, Saul não disse nada. “Algo aconteceu-lhe – pensou ele –; provavelmente não esteja puro; deve ter contraído alguma impureza.”
+
+[[v9-20-27]]
+
+^<<v9-20-27,27>>^ No dia seguinte, segundo dia da lua, o lugar de Davi continuava vazio. Saul disse ao seu filho Jônatas: “Por que o filho de Jessé não veio comer, nem ontem nem hoje?”.
+
+[[v9-20-28]]
+
+^<<v9-20-28,28>>^ “Davi pediu-me com instâncias – respondeu Jônatas – para ir a Belém.
+
+[[v9-20-29]]
+
+^<<v9-20-29,29>>^ Disse-me: ‘Deixa-me ir, rogo-te, porque temos na cidade um sacrifício de família, ao qual meu irmão me convidou. Se me queres dar um prazer, permite-me que vá rever meus irmãos’. Por isso não veio ele à mesa do rei.”
+
+[[v9-20-30]]
+
+^<<v9-20-30,30>>^ Então Saul encolerizou-se contra Jônatas: “Filho de prostituta – disse-lhe –, não sei eu porventura que és amigo do filho de Jessé, o que é uma vergonha para ti e para tua mãe?
+
+[[v9-20-31]]
+
+^<<v9-20-31,31>>^ Enquanto viver esse homem na terra, não estarás seguro, nem tu nem o teu trono. Vamos! Vai buscá-lo e traze-mo; ele merece a morte!”.^&#42;1^
+
+[[v9-20-32]]
+
+^<<v9-20-32,32>>^ Jônatas respondeu ao seu pai: “Por que deverá ele morrer? Que fez ele?”.
+
+[[v9-20-33]]
+
+^<<v9-20-33,33>>^ Saul brandiu sua lança para feri-lo e Jônatas viu que a morte de Davi era coisa decidida pelo seu pai.
+
+[[v9-20-34]]
+
+^<<v9-20-34,34>>^ Furioso, deixou a mesa sem comer naquele segundo dia da lua. As injúrias que seu pai tinha proferido contra Davi tinham-no afligido profundamente.
+
+[[v9-20-35]]
+
+^<<v9-20-35,35>>^ Na manhã seguinte, Jônatas saiu ao campo e foi ao lugar combinado com Davi, acompanhado de um jovem servo.
+
+[[v9-20-36]]
+
+^<<v9-20-36,36>>^ “Vai – disse ele – e traze-me as setas que vou atirar.” Mas, enquanto o rapaz corria, Jônatas atirou outra flecha mais para além dele.
+
+[[v9-20-37]]
+
+^<<v9-20-37,37>>^ Quando chegou ao lugar da flecha, Jônatas gritou-lhe: “Não está a flecha mais para lá de ti?”.
+
+[[v9-20-38]]
+
+^<<v9-20-38,38>>^ E ajuntou: “Vamos, apressa-te, não te demores”. O servo apanhou a flecha e voltou ao seu senhor; e de nada suspeitou,
+
+[[v9-20-39]]
+
+^<<v9-20-39,39>>^ porque só Jônatas e Davi conheciam o ajuste.
+
+[[v9-20-40]]
+
+^<<v9-20-40,40>>^ Depois disso, entregou Jônatas suas armas ao rapaz, dizendo-lhe: “Vai, leva-as para a cidade”.
+
+[[v9-20-41]]
+
+^<<v9-20-41,41>>^ Logo que ele partiu, deixou Davi o seu esconderijo e curvou-se até a terra, prostrando-se três vezes; beijaram-se mutuamente, chorando, e Davi estava ainda mais comovido que o seu amigo.
+
+[[v9-20-42]]
+
+^<<v9-20-42,42>>^ Jônatas disse-lhe: “Vai em paz, agora que demos um ao outro nossa palavra com este juramento: ‘O Senhor seja para sempre testemunha entre ti e mim, entre a tua posteridade e a minha!’.”
+
+[[v9-20-43]]
+
+^<<v9-20-43,43>>^ Davi partiu e Jônatas voltou para a cidade.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-019.adoc#v9-19-0[&#60; Capítulo Anterior] | <<v9-20-0,Topo>> | xref:009-i-samuel/009-i-samuel-021.adoc#v9-21-0[Próximo Capítulo &#62;]

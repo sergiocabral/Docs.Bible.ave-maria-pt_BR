@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v29-37-0]]
+=== Isaías, 37
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 37 é um capítulo que narra a história do Rei Ezequias em meio a um grande conflito com Senaqueribe, rei da Assíria. Nesse capítulo, Ezequias busca a Deus em oração, pedindo ajuda e proteção contra os inimigos. Deus, então, responde a essa oração e protege Jerusalém, destruindo o exército assírio. Abaixo, seguem cinco versículos relacionados com os temas abordados em Isaías 37, em ordem de proximidade com o capítulo.
+* Salmos 34:4: "Busquei o Senhor, e ele me respondeu; livrou-me de todos os meus temores." Este versículo fala sobre a busca por Deus em meio às dificuldades e como Ele pode nos libertar do medo. Isso se relaciona com Isaías 37, onde Ezequias busca a ajuda divina para enfrentar o exército assírio.
+* 2 Crônicas 20:12: "Ah! Deus nosso, porventura não julgarás tu? Porque em nós não há força perante esta grande multidão que vem contra nós, e não sabemos nós o que faremos; porém os nossos olhos estão postos em ti." Esse versículo mostra a dependência de Deus em momentos de fraqueza e incerteza, o que também pode ser visto em Isaías 37, onde Ezequias se volta para Deus em busca de orientação e proteção.
+* Salmos 46:1: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia." Esse versículo mostra a proteção de Deus em tempos difíceis, o que é evidente em Isaías 37, onde Deus protege Jerusalém do exército assírio.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo fala sobre a importância da confiança em Deus em todas as situações, o que é evidente na atitude de Ezequias em Isaías 37, quando ele confia em Deus em meio a uma situação difícil.
+* Salmos 118:8-9: "É melhor confiar no Senhor do que confiar no homem. É melhor confiar no Senhor do que confiar nos príncipes." Este versículo fala sobre a importância de confiar em Deus acima de tudo, o que é evidente em Isaías 37, onde Ezequias confia em Deus em vez de confiar nas suas próprias habilidades ou na ajuda de outros líderes.
+****
+
+[[v29-37-1]]
+
+^<<v29-37-1,1>>^ A este relato, o rei Ezequias rasgou suas vestes e, envolvendo-se num saco, dirigiu-se ao Templo do Senhor.
+
+[[v29-37-2]]
+
+^<<v29-37-2,2>>^ Depois enviou Eliacim, prefeito do palácio, o escriba Sobna e os decanos dos sacerdotes, cobertos de sacos, ao profeta Isaías, filho de Amós,
+
+[[v29-37-3]]
+
+^<<v29-37-3,3>>^ para dizer-lhe: “Eis o que diz Ezequias: este dia é um dia de tribulação, de castigo e de opróbrio. Os filhos estão prestes a nascer, mas falta força para pô-los no mundo.
+
+[[v29-37-4]]
+
+^<<v29-37-4,4>>^ O Senhor, teu Deus, talvez tenha ouvido as palavras do general enviado pelo rei da Assíria, seu soberano, para insultar o Deus vivo, e irá castigá-lo pelas palavras que ouviu. Intercede, pois, em favor do resto que subsiste ainda!”.
+
+[[v29-37-5]]
+
+^<<v29-37-5,5>>^ E os servos do rei Ezequias foram ter com Isaías,
+
+[[v29-37-6]]
+
+^<<v29-37-6,6>>^ o qual lhes deu esta resposta: “Eis o que diz o Senhor: não te espantes com as palavras que ouviste e com os ultrajes que proferiram contra mim os servos do rei da Assíria.
+
+[[v29-37-7]]
+
+^<<v29-37-7,7>>^ Vou insuflar-lhe um espírito que, ao receber uma certa notícia, o fará retornar à sua terra, onde eu o farei morrer pela espada”.
+
+[[v29-37-8]]
+
+^<<v29-37-8,8>>^ O general, que soubera que o rei da Assíria tinha deixado Laquis, voltou para junto do seu soberano, que encontrou ocupado com o cerco de Lebna.
+
+[[v29-37-9]]
+
+^<<v29-37-9,9>>^ O rei recebeu a seguinte informação a respeito de Taraca, rei da Etiópia: “Ele acaba de pôr-se em marcha para fazer-te guerra”. Senaquerib enviou então mensageiros a Ezequias dizendo-lhes:
+
+[[v29-37-10]]
+
+^<<v29-37-10,10>>^ “Eis o que direis a Ezequias, rei de Judá: não te deixes enganar pelo Deus em que tu confias, pensando que Jerusalém não será entregue às mãos do rei da Assíria.
+
+[[v29-37-11]]
+
+^<<v29-37-11,11>>^ Tu ouviste contar como os reis da Assíria trataram todas as terras que devastaram. E tu escaparias?
+
+[[v29-37-12]]
+
+^<<v29-37-12,12>>^ As nações que meus ancestrais aniquilaram: Goza, Hara, Resef e os filhos de Éden que estavam em Telbasar, porventura, foram salvos pelos seus deuses?
+
+[[v29-37-13]]
+
+^<<v29-37-13,13>>^ Onde está o rei de Emat, o de Arfad e o de Lais e o de Sefarvaim, de Ana e de Ava?”.
+
+[[v29-37-14]]
+
+^<<v29-37-14,14>>^ Ezequias, tomando a carta das mãos dos mensageiros, leu-a; depois, subiu ao templo e a desdobrou diante do Senhor,
+
+[[v29-37-15]]
+
+^<<v29-37-15,15>>^ dirigindo-lhe esta súplica:
+
+[[v29-37-16]]
+
+^<<v29-37-16,16>>^ “Ó Senhor dos exércitos, Deus de Israel, vós que estais sentado sobre os querubins, não há outro Deus, senão vós, por todos os reinos da terra. Vós, que fizestes os céus e a terra,
+
+[[v29-37-17]]
+
+^<<v29-37-17,17>>^ inclinai o ouvido, Senhor, e escutai! Abri os olhos, Senhor, e vede! Ouvi a mensagem que Senaquerib fez trazer para ultrajar o Deus vivo!
+
+[[v29-37-18]]
+
+^<<v29-37-18,18>>^ É verdade, Senhor, que os reis da Assíria despovoaram as nações, devastaram seus territórios
+
+[[v29-37-19]]
+
+^<<v29-37-19,19>>^ e entregaram seus deuses às chamas; é porque não eram deuses, eram objetos feitos pela mão do homem, de pau e de pedra, e eles os aniquilaram.
+
+[[v29-37-20]]
+
+^<<v29-37-20,20>>^ Mas vós, Senhor, nosso Deus, livrai-nos da mão de Senaquerib, a fim de que todos os povos da terra saibam que vós, Senhor, sois o único Deus”.
+
+[[v29-37-21]]
+
+^<<v29-37-21,21>>^ Então Isaías, filho de Amós, mandou dizer a Ezequias: “Eis o que disse o Senhor, Deus de Israel: eu ouvi a súplica que tu me dirigiste por causa de Senaquerib, rei da Assíria.
+
+[[v29-37-22]]
+
+^<<v29-37-22,22>>^ Eis o oráculo que o Senhor pronuncia contra ele: A virgem, filha de Sião, despreza-te e zomba de ti. A filha de Jerusalém meneia a cabeça por trás de ti.
+
+[[v29-37-23]]
+
+^<<v29-37-23,23>>^ A quem insultaste e ultrajaste? Contra quem elevaste a voz e olhaste por cima dos ombros? Ao Santo de Israel!
+
+[[v29-37-24]]
+
+^<<v29-37-24,24>>^ Por meio de teus servos insultaste o Senhor e disseste: ‘Com a multidão dos meus carros galgarei ao cimo dos montes, aos confins do Líbano. Abaterei os seus cedros mais altos, seus ciprestes mais belos; penetrarei até os últimos limites do meu bosque mais espesso;
+
+[[v29-37-25]]
+
+^<<v29-37-25,25>>^ Cavarei e beberei água estrangeira; com a planta de meus pés ressecarei todos os canais do Egito’.
+
+[[v29-37-26]]
+
+^<<v29-37-26,26>>^ Ignoras que desde o princípio preparei o que acontecerá, desde remotos tempos decidi o que agora realizarei: reduzirei a ruínas e escombros cidades fortificadas.
+
+[[v29-37-27]]
+
+^<<v29-37-27,27>>^ Seus habitantes ficarão sem forças, serão tomados de pavor e confusão, semelhantes à erva das pastagens, ao capim dos telhados, aos frutos atingidos pela longa estiagem.
+
+[[v29-37-28]]
+
+^<<v29-37-28,28>>^ Eu sei quando te levantas e te sentas, quando sais e quando entras, e conheço teus furores contra mim.
+
+[[v29-37-29]]
+
+^<<v29-37-29,29>>^ Porque ficaste furioso contra mim e subiram aos meus ouvidos as tuas insolências, porei argola em teu nariz e freio em tua boca, e te forçarei a voltar pelo caminho por onde vieste.
+
+[[v29-37-30]]
+
+^<<v29-37-30,30>>^ E eis o que te servirá de sinal: este ano se comem restolhos; o ano que vem, aquilo que nascer sozinho; no terceiro ano, porém, semeareis e colhereis; plantareis vinhas e comereis os seus frutos.
+
+[[v29-37-31]]
+
+^<<v29-37-31,31>>^ O resto, que subsistir da casa de Judá, lançará novas raízes no solo e produzirá frutos no alto.
+
+[[v29-37-32]]
+
+^<<v29-37-32,32>>^ Pois de Jerusalém surgirá um resto, e do monte Sião, sobreviventes. Eis o que fará o zelo do Senhor dos exércitos.
+
+[[v29-37-33]]
+
+^<<v29-37-33,33>>^ Por isso, eis o oráculo do Senhor ao rei da Assíria: não entrará nesta cidade nem atirará flechas contra ela, não lhe oporá escudo nem a cercará de trincheiras.
+
+[[v29-37-34]]
+
+^<<v29-37-34,34>>^ Mas voltará pelo caminho por onde veio, sem entrar na cidade – oráculo do Senhor.
+
+[[v29-37-35]]
+
+^<<v29-37-35,35>>^ Protegerei esta cidade para salvá-la, por minha causa e de Davi, meu servo”.
+
+[[v29-37-36]]
+
+^<<v29-37-36,36>>^ O anjo do Senhor apareceu no campo dos assírios e feriu cento e oitenta e cinco mil homens. No dia seguinte, de manhã, ao despertar, só havia lá cadáveres.
+
+[[v29-37-37]]
+
+^<<v29-37-37,37>>^ Senaquerib, rei da Assíria, levantou acampamento; retomou o caminho de sua terra e ficou em Nínive.
+
+[[v29-37-38]]
+
+^<<v29-37-38,38>>^ Certo dia, em que ele estava prostrado no templo de Nesroc, seu deus, seus filhos, Adramelec e Sarasar, o assassinaram a golpes de espada. E fugiram para a terra de Ararat. Seu filho Assaradon o sucedeu no trono.
+
+'''
+
+xref:029-isaias/029-isaias-036.adoc#v29-36-0[&#60; Capítulo Anterior] | <<v29-37-0,Topo>> | xref:029-isaias/029-isaias-038.adoc#v29-38-0[Próximo Capítulo &#62;]

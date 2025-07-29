@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v40-2-0]]
+=== Miquéias, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Miquéias 2 é um capítulo que denuncia a injustiça e a opressão dos líderes e governantes de Judá e Israel. O profeta acusa essas autoridades de acumularem riquezas e bens à custa do povo e de oprimirem os pobres e necessitados. Abaixo, seguem cinco versículos relacionados com esses temas:
+* Isaías 10:1-2: "Ai dos que decretam leis injustas, dos que escrevem leis opressivas para privar os pobres dos seus direitos e roubar dos necessitados do meu povo, fazendo das viúvas a sua presa e dos órfãos a sua presa fácil!" Este versículo é uma condenação àqueles que criam leis injustas que favorecem os ricos e poderosos em detrimento dos pobres e necessitados.
+* Ezequiel 22:29: "O povo da terra tem usado de opressão, cometido roubo e oprimido o pobre e necessitado, maltratando o estrangeiro sem justiça." Este versículo mostra como a opressão e a injustiça eram práticas comuns na época de Ezequiel e como isso desagradava a Deus.
+* Isaías 3:14-15: "O Senhor entra em julgamento, e coloca-se para julgar os anciãos do seu povo e seus líderes. Vocês destruíram a vinha; o despojo dos pobres está em suas casas." Este versículo retrata a ação de Deus contra aqueles que exploram o povo e destroem sua economia.
+* Provérbios 14:31: "Aquele que oprime o pobre insulta aquele que o criou, mas quem tem compaixão dos pobres honra-o." Este versículo destaca a importância de tratar o povo com justiça e compaixão, como uma forma de honrar a Deus.
+* Amós 8:4-6: "Ouçam isto, vocês que pisam os pobres e destroem os necessitados da terra, dizendo: Quando vai passar a lua nova para que possamos vender trigo, e o sábado para que possamos oferecer trigo à venda? Diminuiremos a medida, aumentaremos o preço, e usaremos balanças falsas para enganar." Este versículo expõe a ganância e a exploração dos ricos em relação aos pobres e mostra como isso é abominável diante de Deus.
+****
+
+[[v40-2-1]]
+
+^<<v40-2-1,1>>^ Ai dos maquinadores de iniquidade, dos que tramam o mal nos seus leitos, e o executam logo ao amanhecer do dia, porque têm o poder na mão!
+
+[[v40-2-2]]
+
+^<<v40-2-2,2>>^ Cobiçam as terras e apoderam-se delas, cobiçam as casas e roubam-nas; fazem violência ao homem e à sua família, ao dono e à sua herança.
+
+[[v40-2-3]]
+
+^<<v40-2-3,3>>^ Por isso, eis o que diz o Senhor: medito um mal contra essa raça, do qual não livrareis o vosso pescoço. Não andareis mais com a cabeça erguida, porque será um tempo de calamidades;^&#42;1^
+
+[[v40-2-4]]
+
+^<<v40-2-4,4>>^ naquele dia irão compor canções a vosso respeito, e será cantada uma elegia: Estamos perdidos, se dirá; fizeram passar a outros parte de meu povo. Como a arrebataram de mim? Nossas terras foram divididas entre os rebeldes.^&#42;1^
+
+[[v40-2-5]]
+
+^<<v40-2-5,5>>^ Por isso, não haverá ninguém que estenda o cordel para ti sobre uma parte na assembleia do Senhor.^&#42;1^
+
+[[v40-2-6]]
+
+^<<v40-2-6,6>>^ “Não profetizeis” – dizem eles –, “não se profetize mais assim; isso não afastará o opróbrio.^&#42;1^
+
+[[v40-2-7]]
+
+^<<v40-2-7,7>>^ Ó tu, a quem chamam casa de Jacó, acaso está o Senhor pronto a irritar-se? Será essa sua maneira de agir?” Não são minhas palavras cheias de bondade para com quem anda na retidão?
+
+[[v40-2-8]]
+
+^<<v40-2-8,8>>^ Mas vós assistis contra o meu povo o inimigo, arrancais o manto de sobre a veste. Aqueles que seguem o seu caminho, vós os tratais como inimigos.^&#42;1^
+
+[[v40-2-9]]
+
+^<<v40-2-9,9>>^ Expulsais as mulheres de meu povo dos seus estimados lares; tirais para sempre de seus filhos a honra que lhes dei.^&#42;1^
+
+[[v40-2-10]]
+
+^<<v40-2-10,10>>^ De pé! Parti! Porque esta terra não é um lugar de descanso. Por causa de vossa imundície, um cruel tormento vos será infligido.^&#42;1^
+
+[[v40-2-11]]
+
+^<<v40-2-11,11>>^ Se houvesse um homem que atirasse palavras ao vento e espalhasse mentiras: “Vou falar-vos de vinho e de cerveja!”. Tal é o profeta que convém ao meu povo.^&#42;1^
+
+[[v40-2-12]]
+
+^<<v40-2-12,12>>^ Reunirei Jacó todo, recolherei o resto de Israel. Porei tudo junto como ovelhas no aprisco, como um rebanho no seu redil: será uma ruidosa multidão de homens.
+
+[[v40-2-13]]
+
+^<<v40-2-13,13>>^ Irá à sua frente aquele que fez a brecha, eles se lançarão para passar pela porta e sairão. Seu rei passará diante deles, e o Senhor irá à sua frente.^&#42;1^
+
+'''
+
+xref:040-miqueias/040-miqueias-001.adoc#v40-1-0[&#60; Capítulo Anterior] | <<v40-2-0,Topo>> | xref:040-miqueias/040-miqueias-003.adoc#v40-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v30-42-0]]
+=== Jeremias, 42
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em Jeremias 42, o remanescente de Judá, liderado por Joanan, consulta Jeremias para saber se devem ou não ir para o Egito em busca de segurança. Jeremias busca a vontade de Deus e responde que, se permanecerem em Judá, serão abençoados, mas se forem para o Egito, serão castigados. No entanto, eles se recusam a ouvir e decidem ir para o Egito. Seguem abaixo cinco versículos relacionados com os temas abordados em Jeremias 42:
+* Jeremias 7:3: "Assim diz o Senhor dos Exércitos, o Deus de Israel: Melhorem os seus caminhos e as suas ações, e eu os farei habitar neste lugar." Este versículo mostra a mensagem de Deus para o povo de Judá, incentivando-os a se arrependerem e melhorarem suas ações para que possam permanecer em sua terra.
+* Jeremias 26:13: "Agora, mudem de vida e de conduta, e obedeçam à voz do Senhor, o seu Deus, para que ele se arrependa do mal que anunciou contra vocês." Este versículo mostra como Jeremias insta o povo a se arrepender e mudar de vida para evitar a punição divina.
+* Jeremias 37:17: "Então o rei Zedequias mandou buscá-lo e o interrogou em particular em seu palácio, perguntando: Existe alguma palavra do Senhor?" Este versículo mostra como Zedequias busca a palavra de Deus através de Jeremias.
+* Ezequiel 3:18: "Quando eu disser a um ímpio: Certamente você morrerá, e você não o advertir nem falar para dissuadi-lo dos seus maus caminhos a fim de que ele viva, aquele ímpio morrerá por causa do seu pecado, mas eu pedirei contas do sangue dele a você." Este versículo mostra como Deus cobra responsabilidade de Jeremias em relação à mensagem que ele deve transmitir ao povo.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo ensina a confiar em Deus e buscar a vontade dele em todas as situações, em vez de confiar em nossa própria compreensão limitada.
+****
+
+[[v30-42-1]]
+
+^<<v30-42-1,1>>^ Foram, então, todos os oficiais, Joanã, filho de Carea, e Azarias, filho de Osaías, bem como o povo, desde os grandes até os pequenos,
+
+[[v30-42-2]]
+
+^<<v30-42-2,2>>^ dizer ao profeta Jeremias: “Ouve a nossa súplica, e intercede por nós, junto ao Senhor, em favor do que resta de nós. De muitos que éramos, bem podes ver a quão poucos fomos reduzidos.
+
+[[v30-42-3]]
+
+^<<v30-42-3,3>>^ Que o Senhor, teu Deus, nos indique o caminho que devemos seguir e o que devemos fazer”.
+
+[[v30-42-4]]
+
+^<<v30-42-4,4>>^ “Ouço o que me dizeis” – respondeu Jeremias – “e o que desejais vou solicitar ao Senhor, vosso Deus. O que me disser o Senhor vo-lo transmitirei fielmente.”
+
+[[v30-42-5]]
+
+^<<v30-42-5,5>>^ Clamaram então: “Que o Senhor seja testemunha fiel e verdadeira contra nós se não fizermos o que o Senhor, teu Deus, te encarregar de nos transmitir!
+
+[[v30-42-6]]
+
+^<<v30-42-6,6>>^ Seja-nos favorável ou adverso, obedeceremos à ordem do Senhor, nosso Deus, junto ao qual te delegamos, a fim de que nos seja propícia a submissão às ordens do Senhor, nosso Deus”.
+
+[[v30-42-7]]
+
+^<<v30-42-7,7>>^ Decorridos dez dias, a palavra do Senhor foi dirigida a Jeremias.
+
+[[v30-42-8]]
+
+^<<v30-42-8,8>>^ Convocou este então Joanã, filho de Carea, todos os oficiais e o povo, grandes e pequenos.
+
+[[v30-42-9]]
+
+^<<v30-42-9,9>>^ “Eis” – disse-lhes Jeremias – “o que me falou o Senhor, Deus de Israel, junto ao qual me delegastes, a fim de apresentar-lhe a vossa súplica:
+
+[[v30-42-10]]
+
+^<<v30-42-10,10>>^ Se quiserdes permanecer nesta terra, nela vos restaurarei, e não vos destruirei. Eu vos plantarei e dela não vos arrancarei. Pesa-me o mal que vos fiz.
+
+[[v30-42-11]]
+
+^<<v30-42-11,11>>^ Não tenhais receio do rei da Babilônia que tanto temeis! Não o temais – oráculo do Senhor –, porque estou convosco para salvar-vos e livrar-vos de suas mãos.
+
+[[v30-42-12]]
+
+^<<v30-42-12,12>>^ Eu vos conseguirei as suas graças, e ele terá piedade de vós, devolvendo-vos a posse de vossa terra.
+
+[[v30-42-13]]
+
+^<<v30-42-13,13>>^ Se, porém, desobedecendo à voz do Senhor, disserdes: Não permaneceremos aqui;
+
+[[v30-42-14]]
+
+^<<v30-42-14,14>>^ iremos para o Egito, onde não teremos mais guerras, nem ouviremos mais o som da trombeta e onde o pão não nos faltará mais, e lá nos instalaremos –,
+
+[[v30-42-15]]
+
+^<<v30-42-15,15>>^ então, escutai a palavra do Senhor, sobreviventes de Judá. Eis o que disse o Senhor dos exércitos, Deus de Israel: Obstinando-vos em partir para o Egito, a fim de lá habitar,
+
+[[v30-42-16]]
+
+^<<v30-42-16,16>>^ sereis atingidos no Egito pela espada que temeis, pela fome que vos aterroriza, e lá morrereis.
+
+[[v30-42-17]]
+
+^<<v30-42-17,17>>^ Quantos se obstinarem em ir para o Egito perecerão pela espada, fome e peste, e nenhum escapará ao flagelo que contra eles lançarei.
+
+[[v30-42-18]]
+
+^<<v30-42-18,18>>^ Porquanto, eis o que diz o Senhor dos exércitos, Deus de Israel: Assim como o furor de minha cólera se lançou sobre os habitantes de Jerusalém, também contra vós se lançará, se fordes para o Egito. Servireis de exemplo de execração, sereis objeto de horror, de maldição e vergonha, e jamais tornareis a ver esses lugares.
+
+[[v30-42-19]]
+
+^<<v30-42-19,19>>^ Eis o que vos diz o Senhor, sobreviventes de Judá: Não entreis no Egito, e sabei que hoje vos dou solene aviso.
+
+[[v30-42-20]]
+
+^<<v30-42-20,20>>^ Seria enganar-vos a vós mesmos o delegar-me junto ao Senhor, vosso Deus, dizendo: Intercedei por nós junto ao Senhor, nosso Deus. Faremos quanto disserdes que nos foi ordenado pelo Senhor, nosso Deus.
+
+[[v30-42-21]]
+
+^<<v30-42-21,21>>^ Hoje eu vo-lo digo: não escutastes a voz do Senhor, vosso Deus, nem coisa alguma do que me encarregou de transmitir-vos.
+
+[[v30-42-22]]
+
+^<<v30-42-22,22>>^ Sabei, pois, que morrereis pela espada, fome e peste nessa terra onde quereis ir estabelecer-vos”.
+
+'''
+
+xref:030-jeremias/030-jeremias-041.adoc#v30-41-0[&#60; Capítulo Anterior] | <<v30-42-0,Topo>> | xref:030-jeremias/030-jeremias-043.adoc#v30-43-0[Próximo Capítulo &#62;]

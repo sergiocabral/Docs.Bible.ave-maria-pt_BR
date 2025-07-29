@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v20-32-0]]
+=== Jó, 32
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jó 32 apresenta Eliú, um jovem que havia estado presente nas discussões de Jó e seus amigos, mas ainda não havia falado. Ele é descrito como um homem de grande sabedoria e zelo pela justiça. Eliú se apresenta como um novo interlocutor e se prepara para expor seus pensamentos sobre o sofrimento de Jó. Para fornecer cinco versículos relacionados com os temas abordados em Jó 32, os versículos de Jó 32 serão excluídos dos resultados.
+* Provérbios 2:6: "Pois o Senhor dá a sabedoria; da sua boca procedem o conhecimento e o discernimento." Este versículo de Provérbios destaca que a sabedoria vem de Deus e é uma dádiva que pode ser buscada e recebida.
+* Tiago 1:5: "Se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá livremente, de boa vontade; e lhe será concedida." Este versículo de Tiago incentiva os crentes a pedirem sabedoria a Deus quando sentirem falta dela, pois ele a concede livremente.
+* Colossenses 4:5-6: "Comportem-se sabiamente para com os que são de fora; aproveitem ao máximo todas as oportunidades. O seu falar seja sempre agradável e temperado com sal, para que saibam como responder a cada um." Este versículo de Colossenses destaca a importância de agir e falar sabiamente diante de outros, a fim de ser um bom testemunho.
+* Provérbios 4:7: "A sabedoria é a principal coisa; adquire pois a sabedoria, emprega tudo o que possuis na aquisição de entendimento." Este versículo de Provérbios enfatiza a importância da sabedoria e incentiva a busca constante pelo entendimento.
+* Efésios 5:15-16: "Portanto, tenham cuidado com a maneira como vocês vivem, não como insensatos, mas como sábios, aproveitando ao máximo cada oportunidade, porque os dias são maus." Este versículo de Efésios destaca a importância de viver com sabedoria e aproveitar as oportunidades que surgem.
+****
+
+[[v20-32-1]]
+
+^<<v20-32-1,1>>^ Como Jó persistisse em conside-rar-se como um justo, estes três homens desistiram de lhe responder.
+
+[[v20-32-2]]
+
+^<<v20-32-2,2>>^ Então, se inflamou a cólera de Eliú, filho de Baraquel, de Buz, da família de Ram. Sua cólera inflamou-se contra Jó, por este pretender justificar-se perante Deus.
+
+[[v20-32-3]]
+
+^<<v20-32-3,3>>^ Inflamou-se também contra seus três amigos, por não terem achado resposta conveniente, dando assim culpa a Deus.^&#42;1^
+
+[[v20-32-4]]
+
+^<<v20-32-4,4>>^ Como fossem mais velhos do que ele, Eliú esperou enquanto falavam com Jó.
+
+[[v20-32-5]]
+
+^<<v20-32-5,5>>^ Mas, quando viu que não tinham mais nada para responder, encolerizou-se.
+
+[[v20-32-6]]
+
+^<<v20-32-6,6>>^ Então Eliú, filho de Baraquel, de Buz, tomou a palavra nestes termos: “Sou jovem em anos, e vós sois anciãos, por isso minha timidez me impediu de manifestar-vos o meu saber.
+
+[[v20-32-7]]
+
+^<<v20-32-7,7>>^ Dizia comigo: ‘A idade vai falar, os muitos anos farão conhecer a sabedoria’.
+
+[[v20-32-8]]
+
+^<<v20-32-8,8>>^ Mas é o espírito de Deus no homem, e um sopro do Todo-poderoso que dá a inteligência.
+
+[[v20-32-9]]
+
+^<<v20-32-9,9>>^ Não são os mais velhos que são sábios, nem os anciãos que discernem o que é justo.
+
+[[v20-32-10]]
+
+^<<v20-32-10,10>>^ Por isso, é que digo: ‘Escutai-me, vou mostrar-vos o que sei’.
+
+[[v20-32-11]]
+
+^<<v20-32-11,11>>^ Esperei enquanto faláveis, prestei atenção em vossos raciocínios. Enquanto discutíeis,
+
+[[v20-32-12]]
+
+^<<v20-32-12,12>>^ segui-vos atentamente. Mas ninguém refutou a Jó, nem respondeu aos seus argumentos.
+
+[[v20-32-13]]
+
+^<<v20-32-13,13>>^ E não digais: ‘Encontramos a sabedoria; foi Deus e não um homem quem nos instrui’.
+
+[[v20-32-14]]
+
+^<<v20-32-14,14>>^ Não foi a mim que dirigiu seus discursos, mas encontrarei outras respostas diferentes das vossas.
+
+[[v20-32-15]]
+
+^<<v20-32-15,15>>^ Ei-los calados, já não dizem mais nada; faltam-lhes as palavras.
+
+[[v20-32-16]]
+
+^<<v20-32-16,16>>^ Esperei que se calassem e cessassem de responder.
+
+[[v20-32-17]]
+
+^<<v20-32-17,17>>^ É a minha vez de responder e vou também mostrar o que sei.
+
+[[v20-32-18]]
+
+^<<v20-32-18,18>>^ Pois estou cheio de palavras, o espírito que está em meu peito me oprime.
+
+[[v20-32-19]]
+
+^<<v20-32-19,19>>^ Meu peito é como vinho arrolhado, como um barril pronto para estourar.
+
+[[v20-32-20]]
+
+^<<v20-32-20,20>>^ Tenho de falar, isso me aliviará. Abrirei meus lábios para responder.
+
+[[v20-32-21]]
+
+^<<v20-32-21,21>>^ Não farei acepção de ninguém, nem adularei este ou aquele.
+
+[[v20-32-22]]
+
+^<<v20-32-22,22>>^ Pois não sei bajular, do contrário, meu Criador logo me levaria.
+
+'''
+
+xref:020-jo/020-jo-031.adoc#v20-31-0[&#60; Capítulo Anterior] | <<v20-32-0,Topo>> | xref:020-jo/020-jo-033.adoc#v20-33-0[Próximo Capítulo &#62;]

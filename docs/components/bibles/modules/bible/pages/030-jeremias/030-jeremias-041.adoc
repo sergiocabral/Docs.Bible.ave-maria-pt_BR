@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v30-41-0]]
+=== Jeremias, 41
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 41 descreve o assassinato de Gedalias, o governador nomeado pelos babilônios para governar o remanescente de Judá após a queda de Jerusalém. Ismael, um descendente real, mata Gedalias e muitos outros judeus e babilônios que estavam com ele. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* 2 Reis 25:25: "Mas sucedeu que, no sétimo mês, veio Ismael, filho de Netanias, filho de Elisama, da descendência real, e dez homens com ele, e feriram a Gedalias, e ele morreu, juntamente com os judeus e os caldeus que estavam com ele em Mizpá." Este verso descreve o mesmo evento descrito em Jeremias 41: Ismael mata Gedalias e aqueles que estavam com ele em Mizpá.
+* 2 Reis 25:26: "Então todo o povo se levantou, desde o menor até ao maior, juntamente com os capitães do exército, e foram para o Egito, porque temiam os caldeus." Depois do assassinato de Gedalias, o povo que estava com ele foge para o Egito por medo das represálias babilônicas. Esse verso se relaciona com Jeremias 41, pois ambos os capítulos falam da fuga do povo.
+* Jeremias 42:14: "Não temas o rei de Babilônia, a quem tu temes; não o temas, diz o Senhor, porque eu sou contigo para te salvar, e para te livrar da sua mão." Este verso é falado por Jeremias aos judeus que queriam fugir para o Egito depois do assassinato de Gedalias. Ele se relaciona com Jeremias 41 porque ambos os capítulos falam sobre o medo do povo e suas tentativas de se protegerem.
+* 2 Reis 25:23: "Mas quando todos os capitães do exército e os seus homens ouviram que o rei de Babilônia havia nomeado a Gedalias por governador, vieram a Gedalias, a Mizpá; eram, porém, Ismael, filho de Netanias, e Joanã, filho de Careá, e Seraías, filho de Tanumete, de Netofa, e Jaazanias, filho do maacatita, eles e os seus homens." Este verso se relaciona com Jeremias 41, pois descreve alguns dos personagens que aparecem em ambos os capítulos: Ismael e Joanã.
+* Jeremias 42:11: "Não temas o rei de Babilônia, a quem tu temes; não o temas, diz o Senhor, porque eu sou contigo para te salvar, e para te livrar da sua mão." Este verso é uma repetição do verso 3 e também se relaciona com Jeremias 41 porque ambos os capítulos falam sobre o medo do povo e suas tentativas de se protegerem.
+****
+
+[[v30-41-1]]
+
+^<<v30-41-1,1>>^ Decorria o sétimo mês. Ismael, filho de Natanias, filho de Elisama, de linhagem real e um dos grandes do rei, apresentou-se, acompanhado de dez homens, diante de Godolias, filho de Aicam, em Masfa, e juntos comeram.
+
+[[v30-41-2]]
+
+^<<v30-41-2,2>>^ Então Ismael, filho de Natanias, e seus dez companheiros, a golpes de espada, atentaram contra a vida de Godolias, filho de Aicam, filho de Safã. E assim mataram aquele que o rei da Babilônia nomeara governador da terra,
+
+[[v30-41-3]]
+
+^<<v30-41-3,3>>^ bem como todos os judeus que estavam com ele. Ismael matou, igualmente, todos os guerreiros caldeus que lá se encontravam.
+
+[[v30-41-4]]
+
+^<<v30-41-4,4>>^ Dois dias depois da morte de Godolias, quando ainda todos a ignoravam,
+
+[[v30-41-5]]
+
+^<<v30-41-5,5>>^ chegou a Siquém, de Silo e de Samaria um grupo de oitenta homens, de barba raspada, vestes rasgadas e o rosto desfigurado. Traziam oferendas e incenso para a casa do Senhor.^&#42;1^
+
+[[v30-41-6]]
+
+^<<v30-41-6,6>>^ Ismael, filho de Natanias, saiu de Masfa ao encontro deles, banhado em lágrimas. Quando, afinal, os encontrou, disse-lhes: “Vinde a Godolias, filho de Aicam”.
+
+[[v30-41-7]]
+
+^<<v30-41-7,7>>^ Apenas, porém, chegaram ao meio da cidade, mandou Ismael decapitá-los, e lançar seus corpos em uma cisterna.
+
+[[v30-41-8]]
+
+^<<v30-41-8,8>>^ Entre as vítimas, contudo, encontravam-se dez homens que disseram a Ismael: “Não nos mates. Temos no campo provisões escondidas de trigo, cevada, azeite e mel”. Diante disso, suspendeu Ismael o massacre e não os matou como os demais, seus irmãos.
+
+[[v30-41-9]]
+
+^<<v30-41-9,9>>^ A cisterna em que Ismael lançara os cadáveres dos homens que matara era imensa e fora perfurada pelo rei Asa, quando se defendia contra Baasa, rei de Israel. Foi essa cisterna que Ismael encheu de cadáveres.
+
+[[v30-41-10]]
+
+^<<v30-41-10,10>>^ Em seguida, aprisionou quantos ainda restavam em Masfa, as princesas reais e toda a população que lá ficara, entregue por Nebuzardã, chefe dos guardas, aos cuidados de Godolias, filho de Aicam. Conduzindo seus cativos, pôs-se Ismael a caminho das terras dos filhos de Amon.
+
+[[v30-41-11]]
+
+^<<v30-41-11,11>>^ Ante a notícia de todo o mal que cometera Ismael, filho de Natanias, Joanã, filho de Carea, e os oficiais de guerra que o acompanhavam
+
+[[v30-41-12]]
+
+^<<v30-41-12,12>>^ reuniram todos os seus homens, a fim de atacar Ismael, filho de Natanias. Alcançaram-no perto da piscina de Gabaon.
+
+[[v30-41-13]]
+
+^<<v30-41-13,13>>^ Quando todo o povo que estava com Ismael avistou Joanã, filho de Carea, e todos os oficiais de guerra que vinham com ele, encheu-se de alegria.
+
+[[v30-41-14]]
+
+^<<v30-41-14,14>>^ E a multidão que Ismael trouxera de Masfa abandonou-o e foi unir-se a Joanã, filho de Carea.
+
+[[v30-41-15]]
+
+^<<v30-41-15,15>>^ Entretanto, Ismael, filho de Natanias, conseguiu escapar de Joanã, com mais oito homens, fugindo para a terra dos filhos de Amon.
+
+[[v30-41-16]]
+
+^<<v30-41-16,16>>^ Então, Joanã, filho de Carea, e os oficiais que o acompanhavam, puseram-se à testa da tropa de sobreviventes de que Ismael, filho de Natanias, se apoderara em Masfa, após o assassínio de Godolias, filho de Aicam. Guerreiros, mulheres, crianças e eunucos, fê-los todos regressar de Gabaon.
+
+[[v30-41-17]]
+
+^<<v30-41-17,17>>^ Puseram-se então a caminho, detendo-se em Caamã, nas proximidades de Belém, para de lá se retirarem para o Egito.
+
+[[v30-41-18]]
+
+^<<v30-41-18,18>>^ Queriam assim furtar-se aos caldeus, dos quais receavam represálias, dado que Ismael, filho de Natanias, assassinara Godolias, filho de Aicam, nomeado para governar a terra pelo rei da Babilônia.
+
+'''
+
+xref:030-jeremias/030-jeremias-040.adoc#v30-40-0[&#60; Capítulo Anterior] | <<v30-41-0,Topo>> | xref:030-jeremias/030-jeremias-042.adoc#v30-42-0[Próximo Capítulo &#62;]

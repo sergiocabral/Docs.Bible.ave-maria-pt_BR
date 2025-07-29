@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v48-16-0]]
+=== São Marcos, 16
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 16 do livro de Marcos conta a ressurreição de Jesus Cristo, assim como a aparição do Ressuscitado aos discípulos e sua ascensão aos céus. Abaixo seguem cinco versículos relacionados com os temas abordados nesse capítulo:
+* Lucas 24:5-6: "Então, as mulheres ficaram atemorizadas e abaixaram o rosto para o chão. Mas os homens lhes disseram: Por que buscais entre os mortos aquele que vive? Ele não está aqui, mas ressuscitou. Lembrai-vos de como vos falou, estando ainda na Galileia." Esse versículo se relaciona com a ressurreição de Jesus, que é o principal tema do capítulo 16 de Marcos.
+* João 20:19: "Ao cair da tarde daquele primeiro dia da semana, estando trancados os discípulos onde se encontravam, por medo dos judeus, Jesus entrou, pôs-se no meio deles e disse: 'A paz esteja convosco'". Esse versículo relata uma das aparições de Jesus aos seus discípulos após a sua ressurreição, tema abordado em Marcos 16.
+* Atos dos Apóstolos 1:9-11: "Ditas estas palavras, foi elevado à vista deles, e uma nuvem o encobriu dos seus olhos. Eles continuavam com os olhos fixos no céu, enquanto Jesus subia, quando apareceram dois homens vestidos de branco, que lhes disseram: 'Homens da Galileia, por que ficais aqui, olhando para o céu? Esse Jesus que dentre vós foi elevado ao céu, virá do modo como o vistes subir.'" Esse versículo se relaciona com a ascensão de Jesus aos céus, que é descrita em Marcos 16:19.
+* Lucas 24:50-51: "Em seguida, levou-os para fora até Betânia. Ali, erguendo as mãos, abençoou-os. E aconteceu que, enquanto os abençoava, afastou-se deles e foi elevado ao céu." Esse versículo também se relaciona com a ascensão de Jesus aos céus, tema abordado em Marcos 16:19.
+* Atos dos Apóstolos 2:32-33: "A esse Jesus Deus ressuscitou, do que todos nós somos testemunhas. Exaltado, pois, à direita de Deus, tendo recebido do Pai a promessa do Espírito Santo, derramou isto que vedes e ouvis." Esse versículo se relaciona com a ressurreição e a ascensão de Jesus, temas abordados em Marcos 16.
+****
+
+[[v48-16-1]]
+
+^<<v48-16-1,1>>^ Passado o sábado, Maria Madalena, Maria, mãe de Tiago, e Salomé compraram aromas para ungir Jesus.
+
+[[v48-16-2]]
+
+^<<v48-16-2,2>>^ E no primeiro dia da semana, foram muito cedo ao sepulcro, mal o sol havia despontado.^&#42;1^
+
+[[v48-16-3]]
+
+^<<v48-16-3,3>>^ E diziam entre si: “Quem removerá a pedra do sepulcro para nós?”.
+
+[[v48-16-4]]
+
+^<<v48-16-4,4>>^ Levantando os olhos, elas viram removida a pedra, que era muito grande.
+
+[[v48-16-5]]
+
+^<<v48-16-5,5>>^ Entrando no sepulcro, viram, sentado do lado direito, um jovem, vestido de roupas brancas, e assustaram-se.
+
+[[v48-16-6]]
+
+^<<v48-16-6,6>>^ Ele lhes falou: “Não tenhais medo. Buscais Jesus de Nazaré, que foi crucificado. Ele ressuscitou, já não está aqui. Eis o lugar onde o depositaram.
+
+[[v48-16-7]]
+
+^<<v48-16-7,7>>^ Mas ide, dizei a seus discípulos e a Pedro que ele vos precede na Galileia. Lá o vereis como vos disse”.
+
+[[v48-16-8]]
+
+^<<v48-16-8,8>>^ Elas saíram do sepulcro e fugiram trêmulas e amedrontadas. E a ninguém disseram coisa alguma por causa do medo.
+
+[[v48-16-9]]
+
+^<<v48-16-9,9>>^ Tendo Jesus ressuscitado de manhã, no primeiro dia da semana apareceu primeiramente a Maria de Magdala, de quem tinha expulsado sete demônios.^&#42;1^
+
+[[v48-16-10]]
+
+^<<v48-16-10,10>>^ Foi ela noticiá-lo aos que estiveram com ele, os quais estavam aflitos e chorosos.
+
+[[v48-16-11]]
+
+^<<v48-16-11,11>>^ Quando souberam que Jesus vivia e que ela o tinha visto, não quiseram acreditar. (= Mt 28,16-20 = Lc 24,13-49 = Jo 20,19-23)
+
+[[v48-16-12]]
+
+^<<v48-16-12,12>>^ Mais tarde, ele apareceu sob outra forma a dois entre eles que iam para o campo.^&#42;1^
+
+[[v48-16-13]]
+
+^<<v48-16-13,13>>^ Eles foram anunciá-lo aos demais. Mas estes tampouco acreditaram.
+
+[[v48-16-14]]
+
+^<<v48-16-14,14>>^ Por fim, apareceu aos Onze, quando estavam sentados à mesa, e censurou-lhes a incredulidade e dureza de coração, por não acreditarem nos que o tinham visto ressuscitado.
+
+[[v48-16-15]]
+
+^<<v48-16-15,15>>^ E disse-lhes: “Ide por todo o mundo e pregai o Evangelho a toda criatura.
+
+[[v48-16-16]]
+
+^<<v48-16-16,16>>^ Quem crer e for batizado será salvo, mas quem não crer será condenado.
+
+[[v48-16-17]]
+
+^<<v48-16-17,17>>^ Estes milagres acompanharão os que crerem: expulsarão os demônios em meu nome, falarão novas línguas,
+
+[[v48-16-18]]
+
+^<<v48-16-18,18>>^ manusearão serpentes e, se beberem algum veneno mortal, não lhes fará mal; imporão as mãos aos enfermos e eles ficarão curados”.
+
+[[v48-16-19]]
+
+^<<v48-16-19,19>>^ Depois que o Senhor Jesus lhes falou, foi levado ao céu e está sentado à direita de Deus.
+
+[[v48-16-20]]
+
+^<<v48-16-20,20>>^ Os discípulos partiram e pregaram por toda parte. O Senhor cooperava com eles e confirmava a sua palavra com os milagres que a acompanhavam.
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-015.adoc#v48-15-0[&#60; Capítulo Anterior] | <<v48-16-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-001.adoc#v49-1-0[Próximo Capítulo &#62;]

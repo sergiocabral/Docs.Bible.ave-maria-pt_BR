@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v47-8-0]]
+=== São Mateus, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Mateus 8 começa com Jesus realizando diversos milagres, incluindo a cura de um leproso e a cura do servo de um centurião. Em seguida, Ele acalma uma tempestade no mar e liberta dois homens possuídos por demônios. Os temas abordados nesse capítulo incluem a fé, o poder de Jesus sobre as doenças e as forças espirituais malignas e a importância de seguir a Jesus.
+* Tiago 5:15: "A oração da fé salvará o enfermo, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados." A cura das doenças é um tema recorrente nos evangelhos, e aqui Tiago também fala da oração da fé como algo poderoso para salvar o enfermo.
+* Efésios 6:12: "Porque não temos que lutar contra a carne e o sangue, mas, sim, contra os principados, contra as potestades, contra os príncipes das trevas deste século, contra as hostes espirituais da maldade, nos lugares celestiais." Essa passagem fala da batalha espiritual que está acontecendo em nosso mundo, e que é vencida pelo poder de Jesus.
+* Hebreus 11:6: "Ora, sem fé é impossível agradar-lhe; porque é necessário que aquele que se aproxima de Deus creia que ele existe, e que é galardoador dos que o buscam." A fé é um tema central em todo o capítulo de São Mateus 8, e essa passagem em Hebreus destaca a importância da fé em nossa vida espiritual.
+* Marcos 5:19: "Jesus, porém, não lho permitiu, mas disse-lhe: Vai para tua casa, para os teus, e anuncia-lhes quão grandes coisas o Senhor te fez, e como teve misericórdia de ti." Esse versículo fala da importância de testemunhar as grandes coisas que Jesus fez em nossa vida, assim como o homem curado de demônios em São Mateus 8 é instruído a fazer.
+* João 14:6: "Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai, senão por mim." Jesus é o caminho para a salvação e para uma vida plena e abundante. Esse tema é enfatizado em todo o capítulo de São Mateus 8, onde as pessoas vêm a Jesus para receber cura e libertação.
+****
+
+[[v47-8-1]]
+
+^<<v47-8-1,1>>^ Tendo Jesus descido da montanha, uma grande multidão o seguiu.
+
+[[v47-8-2]]
+
+^<<v47-8-2,2>>^ Eis que um leproso aproximou-se e prostrou-se diante dele, dizendo: “Senhor, se queres, podes curar-me”.
+
+[[v47-8-3]]
+
+^<<v47-8-3,3>>^ Jesus estendeu a mão, tocou-o e disse: “Eu quero, sê curado”. No mesmo instante, a lepra desapareceu.
+
+[[v47-8-4]]
+
+^<<v47-8-4,4>>^ Jesus então lhe disse: “Vê que não o digas a ninguém. Vai, porém, mostrar-te ao sacerdote e oferece o dom prescrito por Moisés em testemunho de tua cura”.^&#42;1^
+
+[[v47-8-5]]
+
+^<<v47-8-5,5>>^ Entrou Jesus em Cafarnaum. Um centurião veio a ele e lhe fez esta súplica:
+
+[[v47-8-6]]
+
+^<<v47-8-6,6>>^ “Senhor, meu servo está em casa, de cama, paralítico, e sofre muito”.
+
+[[v47-8-7]]
+
+^<<v47-8-7,7>>^ Disse-lhe Jesus: “Eu irei e o curarei”.
+
+[[v47-8-8]]
+
+^<<v47-8-8,8>>^ Respondeu o centurião: “Senhor, eu não sou digno de que entreis em minha casa. Dizei uma só palavra e meu servo será curado.
+
+[[v47-8-9]]
+
+^<<v47-8-9,9>>^ Pois eu também sou um subordinado e tenho soldados às minhas ordens. Eu digo a um: “Vai, e ele vai; a outro: Vem, e ele vem; e a meu servo: Faze isto, e ele o faz...”.^&#42;1^
+
+[[v47-8-10]]
+
+^<<v47-8-10,10>>^ Ouvindo isto, cheio de admiração, disse Jesus aos presentes: “Em verdade vos digo: não encontrei semelhante fé em ninguém de Israel.
+
+[[v47-8-11]]
+
+^<<v47-8-11,11>>^ Por isso, eu vos declaro que multidões virão do Oriente e do Ocidente e se assentarão no Reino dos Céus com Abraão, Isaac e Jacó,
+
+[[v47-8-12]]
+
+^<<v47-8-12,12>>^ enquanto os filhos do Reino serão lançados nas trevas exteriores, onde haverá choro e ranger de dentes”.^&#42;1^
+
+[[v47-8-13]]
+
+^<<v47-8-13,13>>^ Depois, dirigindo-se ao centurião, disse: “Vai, seja-te feito conforme a tua fé”. Na mesma hora o servo ficou curado.
+
+[[v47-8-14]]
+
+^<<v47-8-14,14>>^ Foi então Jesus à casa de Pedro, cuja sogra estava de cama, com febre.
+
+[[v47-8-15]]
+
+^<<v47-8-15,15>>^ Tomou-lhe a mão, e a febre a deixou. Ela levantou-se e pôs-se a servi-los.
+
+[[v47-8-16]]
+
+^<<v47-8-16,16>>^ Pela tarde, apresentaram-lhe muitos possessos de demônios. Com uma palavra expulsou ele os espíritos e curou todos os enfermos.
+
+[[v47-8-17]]
+
+^<<v47-8-17,17>>^ Assim se cumpriu a predição do profeta Isaías: Tomou as nossas enfermidades e sobrecarregou-se dos nossos males (Is 53,4).
+
+[[v47-8-18]]
+
+^<<v47-8-18,18>>^ Certo dia, vendo-se no meio de grande multidão, ordenou Jesus que o levassem para a outra margem do lago.
+
+[[v47-8-19]]
+
+^<<v47-8-19,19>>^ Nisso aproximou-se dele um escriba e lhe disse: “Mestre, eu te seguirei para onde quer que fores”.
+
+[[v47-8-20]]
+
+^<<v47-8-20,20>>^ Respondeu Jesus: “As raposas têm suas tocas e as aves do céu, seus ninhos, mas o Filho do Homem não tem onde repousar a cabeça”.
+
+[[v47-8-21]]
+
+^<<v47-8-21,21>>^ Outra vez um dos seus discípulos lhe disse: “Senhor, deixa-me ir primeiro enterrar meu pai”.^&#42;1^
+
+[[v47-8-22]]
+
+^<<v47-8-22,22>>^ Jesus, porém, lhe respondeu: “Segue-me e deixa que os mortos enterrem seus mortos”.
+
+[[v47-8-23]]
+
+^<<v47-8-23,23>>^ Subiu ele a uma barca com seus discípulos.
+
+[[v47-8-24]]
+
+^<<v47-8-24,24>>^ De repente, desencadeou-se sobre o mar uma tempestade tão grande, que as ondas cobriam a barca. Ele, no entanto, dormia.
+
+[[v47-8-25]]
+
+^<<v47-8-25,25>>^ Os discípulos achegaram-se a ele e o acordaram, dizendo: “Senhor, salva-nos, nós perecemos!”.
+
+[[v47-8-26]]
+
+^<<v47-8-26,26>>^ E Jesus perguntou: “Por que este medo, gente de pouca fé?” Então, levantando-se, deu ordens aos ventos e ao mar, e fez-se uma grande calmaria.
+
+[[v47-8-27]]
+
+^<<v47-8-27,27>>^ Admirados, diziam: “Quem é este homem a quem até os ventos e o mar obedecem?”.
+
+[[v47-8-28]]
+
+^<<v47-8-28,28>>^ No outro lado do lago, na terra dos gadarenos, dois possessos de demônios saíram de um cemitério e vieram-lhe ao encontro. Eram tão furiosos que pessoa alguma ousava passar por ali.
+
+[[v47-8-29]]
+
+^<<v47-8-29,29>>^ Eis que se puseram a gritar: “Que tens a ver conosco, Filho de Deus? Vieste aqui para nos atormentar antes do tempo?”.
+
+[[v47-8-30]]
+
+^<<v47-8-30,30>>^ Havia, não longe dali, uma grande manada de porcos que pastava.
+
+[[v47-8-31]]
+
+^<<v47-8-31,31>>^ Os demônios imploraram a Jesus: “Se nos expulsas, envia-nos para aquela manada de porcos.” –
+
+[[v47-8-32]]
+
+^<<v47-8-32,32>>^ “Ide” – disse-lhes. Eles saíram e entraram nos porcos. Nesse instante, toda a manada se precipitou pelo declive escarpado para o lago, e morreu nas águas.
+
+[[v47-8-33]]
+
+^<<v47-8-33,33>>^ Os guardas fugiram e foram contar na cidade o que se tinha passado e o sucedido com os endemoninhados.
+
+[[v47-8-34]]
+
+^<<v47-8-34,34>>^ Então, a população saiu ao encontro de Jesus. Quando o viu, suplicou-lhe que deixasse aquela região.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-007.adoc#v47-7-0[&#60; Capítulo Anterior] | <<v47-8-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-009.adoc#v47-9-0[Próximo Capítulo &#62;]

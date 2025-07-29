@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v33-31-0]]
+=== Ezequiel, 31
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 31 descreve a queda do faraó do Egito e sua grandeza comparada à majestade de uma árvore gigante que foi cortada e caiu. Os temas abordados incluem a soberania de Deus sobre as nações e o perigo da arrogância e orgulho.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez do espírito precede a queda." Este versículo destaca a conexão entre a arrogância e a queda, um tema presente em Ezequiel 31.
+* Ezequiel 28:2: "Filho do homem, dize ao príncipe de Tiro: Assim diz o Senhor DEUS: Porquanto o teu coração se elevou e disseste: Eu sou um deus, assento-me em cima do trono de Deus, no coração dos mares, sendo que tu és um homem e não Deus; e contudo tens posto o teu coração como se fosse o coração de Deus." Este versículo mostra outra situação em que a arrogância leva à queda.
+* Daniel 4:30-32: "Falou o rei, e disse: Não é esta a grande Babilônia que eu edifiquei para a casa real, com a força do meu poder e para glória da minha majestade? Ainda estava a palavra na boca do rei, quando caiu uma voz do céu: A ti se diz, ó rei Nabucodonosor: O reino passou de ti. E serás tirado dentre os homens, e a tua morada será com os animais do campo; far-te-ão comer erva como aos bois, e passar-se-ão sobre ti sete tempos, até que conheças que o Altíssimo tem domínio sobre o reino dos homens, e o dá a quem quer." Este versículo mostra a queda de Nabucodonosor por causa de sua arrogância e orgulho.
+* Isaías 14:13-14: "E tu dizias no teu coração: Eu subirei ao céu, acima das estrelas de Deus exaltarei o meu trono, e no monte da congregação me assentarei, da banda dos lados do norte. Subirei sobre as alturas das nuvens, e serei semelhante ao Altíssimo." Este versículo mostra a queda de Lúcifer por causa de sua arrogância e desejo de ser como Deus.
+* Obadias 1:3-4: "A tua soberba te enganou, e a arrogância do teu coração, que habitas nas fendas das rochas, na tua alta morada; que dizes no teu coração: Quem me derrubará em terra? Ainda que te elevasses como águia, e pusesse a tua morada entre as estrelas, de lá te derrubarei, diz o SENHOR." Este versículo mostra que a arrogância pode levar a queda, não importa quão alto uma pessoa possa parecer estar.
+****
+
+[[v33-31-1]]
+
+^<<v33-31-1,1>>^ No décimo primeiro ano, no primeiro dia do terceiro mês, a palavra do Senhor foi-me dirigida nestes termos:
+
+[[v33-31-2]]
+
+^<<v33-31-2,2>>^ “Filho do homem, dize ao faraó, rei do Egito, e a seu povo numeroso: a quem te assemelhas, em tua grandeza?
+
+[[v33-31-3]]
+
+^<<v33-31-3,3>>^ Eis a Assíria, é um cedro do Líbano, de magníficas ramagens, com espessa ramagem e elevada estatura, cujo cimo se alteia em meio às nuvens.
+
+[[v33-31-4]]
+
+^<<v33-31-4,4>>^ As águas fizeram-no crescer; o abismo fê-lo altear-se, dirigindo suas águas para onde ele estava plantado, e enviando seus regatos a todas as árvores da região.
+
+[[v33-31-5]]
+
+^<<v33-31-5,5>>^ Dessa forma dominava ele todas as árvores dos campos; seus galhos se alongavam, sua ramagem se desenvolvia, graças à abundância das águas que o tinham feito crescer.
+
+[[v33-31-6]]
+
+^<<v33-31-6,6>>^ Em seus galhos se aninhavam todas as aves do céu. Sob seus ramos davam cria todos os animais dos campos à sua sombra descansava toda espécie de gente!
+
+[[v33-31-7]]
+
+^<<v33-31-7,7>>^ Era belo por sua grandeza, pela extensão de seus galhos, porque suas raízes mergulhavam nas águas abundantes.
+
+[[v33-31-8]]
+
+^<<v33-31-8,8>>^ Nenhum cedro do jardim de Deus rivalizava com ele, os ciprestes não atingiam o talhe de seus ramos, e os plátanos não igualavam suas ramagens; nenhuma árvore do jardim de Deus se equiparava a ele em esplendor.
+
+[[v33-31-9]]
+
+^<<v33-31-9,9>>^ Eu o havia dotado de tão luxuriante ramagem, que todas as árvores do Éden, jardim de Deus, dele tinham inveja.
+
+[[v33-31-10]]
+
+^<<v33-31-10,10>>^ Por isso, eis o que diz o Senhor Javé: porque ele foi tão orgulhoso de seu porte, e ergueu o seu cimo até as nuvens, e o seu coração se ensoberbeceu devido à sua altitude,
+
+[[v33-31-11]]
+
+^<<v33-31-11,11>>^ entreguei-o nas mãos de um poderoso das nações, que o tratará como merece a sua malignidade, e o destruirá.^&#42;1^
+
+[[v33-31-12]]
+
+^<<v33-31-12,12>>^ Bárbaros, nação brutal entre todas, cortaram-no e o atiraram sobre as montanhas; seus ramos caíram em todos os vales, seus galhos quebrados juncam todas as torrentes da terra; todas as gentes da terra deixaram sua sombra e o abandonaram.
+
+[[v33-31-13]]
+
+^<<v33-31-13,13>>^ Sobre seu tronco mutilado se abatem todas as aves do céu, e em seus ramos se acolhem todos os animais dos campos.
+
+[[v33-31-14]]
+
+^<<v33-31-14,14>>^ Tudo isso a fim de que nenhuma árvore que cresce à borda das águas tenha orgulho de sua altura, e não eleve o cimo até as nuvens, e que nenhuma árvore bem regada pelas águas confie em sua estatura. Porque todas serão entregues à morte, às moradas subterrâneas, em companhia do comum dos mortais que desce à fossa.
+
+[[v33-31-15]]
+
+^<<v33-31-15,15>>^ Eis o que diz o Senhor Javé: no dia em que o cedro desceu à morada dos mortos, ordenei um luto; por causa dele fechei o abismo das águas, parei os regatos e as grandes águas foram imobilizadas. Por causa dele denegri o Líbano, por causa dele todas as árvores do campo murcharam e secaram.
+
+[[v33-31-16]]
+
+^<<v33-31-16,16>>^ Ao ruído de sua queda abalei as nações, quando o precipitei na região dos mortos, com aqueles que descem à fossa. Todas as árvores do Éden, as mais belas, as mais esplendorosas do Líbano, todas aquelas que estavam banhadas pelas águas foram consoladas nas moradas infernais.^&#42;1^
+
+[[v33-31-17]]
+
+^<<v33-31-17,17>>^ E, juntamente com ele, desceram à morada dos mortos, para junto das vítimas da espada, aqueles que eram seu braço e se mantinham debaixo de sua sombra entre as nações.^&#42;1^
+
+[[v33-31-18]]
+
+^<<v33-31-18,18>>^ A quem eras igual, em glória e grandeza, entre as árvores do Éden? Com elas te precipitaste nas moradas subterrâneas: jazes no meio dos incircuncisos, com os trespassados pelo gládio. Tal é o destino do faraó e do seu povo numeroso – oráculo do Senhor Javé”.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-030.adoc#v33-30-0[&#60; Capítulo Anterior] | <<v33-31-0,Topo>> | xref:033-ezequiel/033-ezequiel-032.adoc#v33-32-0[Próximo Capítulo &#62;]

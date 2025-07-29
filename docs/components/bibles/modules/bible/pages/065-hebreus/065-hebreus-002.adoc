@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v65-2-0]]
+=== Hebreus, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 2 de Hebreus discute a importância da salvação através de Jesus Cristo, enfatizando a sua humanidade e a sua obra redentora. Para fornecer cinco versículos relacionados com os temas abordados em Hebreus 2, busquei por passagens que falam sobre a humanidade de Jesus e a sua obra salvífica.
+* Mateus 1:21: "Ela dará à luz um filho, e você deverá dar-lhe o nome de Jesus, porque ele salvará o seu povo dos seus pecados". Este versículo fala sobre o nome de Jesus e a sua missão de salvar as pessoas dos seus pecados, enfatizando a obra salvífica que é discutida em Hebreus 2.
+* Romanos 5:8: "Mas Deus demonstra seu amor por nós: Cristo morreu em nosso favor quando ainda éramos pecadores". Este versículo destaca o amor de Deus por nós, o que é refletido na obra salvífica de Jesus, mencionada em Hebreus 2.
+* João 1:14: "O Verbo se tornou carne e viveu entre nós. Vimos a sua glória, a glória como do Unigênito vindo do Pai, cheio de graça e de verdade". Este versículo fala sobre a humanidade de Jesus, o que é discutido em Hebreus 2, enfatizando que Jesus se tornou carne para cumprir a sua missão salvífica.
+* 2 Coríntios 5:21: "Deus tornou pecado por nós aquele que não tinha pecado, para que nele nos tornássemos justiça de Deus". Este versículo destaca a obra redentora de Jesus, enfatizando que Ele se tornou pecado por nós para que pudéssemos nos tornar justiça de Deus.
+* 1 Pedro 3:18: "Pois também Cristo sofreu pelos pecados uma vez por todas, o justo pelos injustos, para conduzir-nos a Deus. Ele foi morto no corpo, mas vivificado pelo Espírito". Este versículo destaca a obra salvífica de Jesus, mencionando que Ele sofreu pelos nossos pecados para nos conduzir a Deus, o que é enfatizado em Hebreus 2.
+****
+
+[[v65-2-1]]
+
+^<<v65-2-1,1>>^ Por isso, é necessário prestarmos a maior atenção à mensagem que temos recebido, para não acontecer que nos desviemos do caminho reto.
+
+[[v65-2-2]]
+
+^<<v65-2-2,2>>^ A palavra anunciada por intermédio dos anjos era a tal ponto válida, que toda transgressão ou desobediência recebeu o justo castigo.^&#42;1^
+
+[[v65-2-3]]
+
+^<<v65-2-3,3>>^ Como, então, escaparemos nós se agora desprezarmos a mensagem da salvação, tão sublime, anunciada primeiramente pelo Senhor e depois confirmada pelos que a ouviram,
+
+[[v65-2-4]]
+
+^<<v65-2-4,4>>^ comprovando-a o próprio Deus por sinais, prodígios, milagres e pelos dons do Espírito Santo, repartidos segundo a sua vontade?
+
+[[v65-2-5]]
+
+^<<v65-2-5,5>>^ Não foi tampouco aos anjos que Deus submeteu o mundo vindouro, de que falamos.^&#42;1^
+
+[[v65-2-6]]
+
+^<<v65-2-6,6>>^ Alguém em certa passagem afirmou: Que é o homem para que dele te lembres, ou o filho do homem, para que o visites?
+
+[[v65-2-7]]
+
+^<<v65-2-7,7>>^ Por pouco tempo o colocaste inferior aos anjos; de glória e de honra o coroaste,^&#42;1^
+
+[[v65-2-8]]
+
+^<<v65-2-8,8>>^ e sujeitaste a seus pés todas as coisas (Sl 8,5s). Ora, se lhe sujeitou todas as coisas, nada deixou que não lhe ficasse sujeito. Atualmente, é verdade, não vemos que tudo lhe esteja sujeito.
+
+[[v65-2-9]]
+
+^<<v65-2-9,9>>^ Mas aquele que fora colocado por pouco tempo abaixo dos anjos, Jesus, nós o vemos, por sua Paixão e morte, coroado de glória e de honra. Assim, pela graça de Deus, a sua morte aproveita a todos os homens.
+
+[[v65-2-10]]
+
+^<<v65-2-10,10>>^ Aquele para quem e por quem todas as coisas existem, desejando conduzir à glória numerosos filhos, deliberou elevar à perfeição, pelo sofrimento, o autor da salvação deles,
+
+[[v65-2-11]]
+
+^<<v65-2-11,11>>^ para que santificador e santificados formem um só todo. Por isso, (Jesus) não hesita em chamá-los seus irmãos,^&#42;1^
+
+[[v65-2-12]]
+
+^<<v65-2-12,12>>^ dizendo: Anunciarei teu nome a meus irmãos, no meio da assembleia cantarei os teus louvores (Sl 21,23).
+
+[[v65-2-13]]
+
+^<<v65-2-13,13>>^ E outra vez: Quanto a mim, ponho nele a minha confiança (Is 8,17); e: Eis-me aqui, eu e os filhos que Deus me deu (Is 8,18).
+
+[[v65-2-14]]
+
+^<<v65-2-14,14>>^ Porquanto os filhos participam da mesma natureza, da mesma carne e do sangue, também ele participou, a fim de destruir pela morte aquele que tinha o império da morte, isto é, o demônio,^&#42;1^
+
+[[v65-2-15]]
+
+^<<v65-2-15,15>>^ e libertar aqueles que, pelo medo da morte, estavam toda a vida sujeitos a uma verdadeira escravidão.
+
+[[v65-2-16]]
+
+^<<v65-2-16,16>>^ Veio em socorro, não dos anjos, e sim da raça de Abraão;
+
+[[v65-2-17]]
+
+^<<v65-2-17,17>>^ e por isso convinha que ele se tornasse em tudo semelhante aos seus irmãos, para ser um pontífice compassivo e fiel no serviço de Deus, capaz de expiar os pecados do povo.
+
+[[v65-2-18]]
+
+^<<v65-2-18,18>>^ De fato, por ter ele mesmo suportado tribulações, está em condição de vir em auxílio dos que são atribulados.
+
+'''
+
+xref:065-hebreus/065-hebreus-001.adoc#v65-1-0[&#60; Capítulo Anterior] | <<v65-2-0,Topo>> | xref:065-hebreus/065-hebreus-003.adoc#v65-3-0[Próximo Capítulo &#62;]

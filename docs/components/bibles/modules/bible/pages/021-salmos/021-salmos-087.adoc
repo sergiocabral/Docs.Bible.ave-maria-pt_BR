@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v21-87-0]]
+=== Salmos, 87
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 87 é um poema que exalta a cidade de Sião, que é vista como a cidade escolhida por Deus e a mais amada por Ele. O Salmo destaca a importância e a honra de ser um cidadão de Sião, que é visto como uma cidade onde todos os povos se reúnem para adorar a Deus. Abaixo estão cinco versículos que se relacionam com os temas abordados em Salmo 87:
+* Isaías 2:2: "Nos últimos dias o monte do templo do Senhor será estabelecido como o mais importante; será elevado acima das colinas, e todos os povos correrão para ele." Este versículo destaca a importância do templo do Senhor em Sião e como ele atrairá pessoas de todas as nações para adorar a Deus.
+* Salmos 2:6: "Eu consagrei o meu Rei em Sião, meu santo monte." Esse versículo destaca o papel de Sião como o lugar onde Deus estabeleceu seu reino e onde o rei escolhido por Ele seria entronizado.
+* Salmos 48:2: "É belo em sua elevação, a alegria de toda a terra é o monte Sião, no extremo norte, a cidade do grande Rei." Este versículo exalta a beleza e a importância de Sião, que é vista como a cidade do grande Rei.
+* Isaías 60:14: "Os filhos dos teus opressores virão a ti curvados; todos os que te desprezaram se prostrarão aos teus pés e te chamarão cidade do Senhor, Sião do Santo de Israel." Este versículo destaca como os inimigos de Sião serão humilhados e como a cidade será honrada e reconhecida como a cidade do Senhor.
+* Salmos 122:3-4: "Jerusalém está construída como cidade firmemente estabelecida. É para lá que sobem as tribos do Senhor, as tribos de Israel, para renderem graças ao nome do Senhor." Este versículo destaca como as tribos de Israel se reuniriam em Sião para adorar o Senhor e render graças ao Seu nome.
+****
+
+[[v21-87-1]]
+
+^<<v21-87-1,1>>^ Cântico. Salmo dos filhos de Coré. Ao mestre de canto. Em melodia triste. Poema de Emã, ezraíta.^&#42;1^
+
+[[v21-87-2]]
+
+^<<v21-87-2,2>>^ Senhor, meu Deus, de dia clamo a vós, e de noite vos dirijo o meu lamento.
+
+[[v21-87-3]]
+
+^<<v21-87-3,3>>^ Chegue até vós a minha prece, inclinai vossos ouvidos à minha súplica.
+
+[[v21-87-4]]
+
+^<<v21-87-4,4>>^ Minha alma está saturada de males, e próxima da região dos mortos a minha vida.
+
+[[v21-87-5]]
+
+^<<v21-87-5,5>>^ Já sou contado entre os que descem à tumba, tal qual um homem inválido e sem forças.
+
+[[v21-87-6]]
+
+^<<v21-87-6,6>>^ Meu leito se encontra entre os cadáveres, como o dos mortos que jazem no sepulcro, dos quais vós já não vos lembrais, e não vos causam mais cuidados.
+
+[[v21-87-7]]
+
+^<<v21-87-7,7>>^ Vós me lançastes em profunda fossa, nas trevas de um abismo.
+
+[[v21-87-8]]
+
+^<<v21-87-8,8>>^ Sobre mim pesa a vossa indignação, vós me oprimis com o peso das vossas ondas.
+
+[[v21-87-9]]
+
+^<<v21-87-9,9>>^ Afastastes de mim os meus amigos, objeto de horror me tornastes para eles; estou aprisionado sem poder sair,
+
+[[v21-87-10]]
+
+^<<v21-87-10,10>>^ meus olhos se consomem de aflição. Todos os dias eu clamo para vós, Senhor; estendo para vós as minhas mãos.
+
+[[v21-87-11]]
+
+^<<v21-87-11,11>>^ Será que fareis milagres pelos mortos? Ressurgirão eles para vos louvar?
+
+[[v21-87-12]]
+
+^<<v21-87-12,12>>^ Acaso vossa bondade é exaltada no sepulcro, ou vossa fidelidade na região dos mortos?
+
+[[v21-87-13]]
+
+^<<v21-87-13,13>>^ Serão nas trevas manifestadas as vossas maravilhas, e vossa bondade na terra do esquecimento?^&#42;1^
+
+[[v21-87-14]]
+
+^<<v21-87-14,14>>^ Eu, porém, Senhor, vos rogo, desde a aurora a vós se eleva a minha prece.
+
+[[v21-87-15]]
+
+^<<v21-87-15,15>>^ Por que, Senhor, repelis a minha alma? Por que me ocultais a vossa face?
+
+[[v21-87-16]]
+
+^<<v21-87-16,16>>^ Sou miserável e desde jovem agonizo, o peso de vossos castigos me abateu.
+
+[[v21-87-17]]
+
+^<<v21-87-17,17>>^ Sobre mim tombaram vossas iras, vossos temores me aniquilaram.
+
+[[v21-87-18]]
+
+^<<v21-87-18,18>>^ Circundam-me como vagas que se renovam sempre, e todas, juntas, me assaltam.
+
+[[v21-87-19]]
+
+^<<v21-87-19,19>>^ Afastastes de mim amigo e companheiro; só as trevas me fazem companhia...
+
+'''
+
+xref:021-salmos/021-salmos-086.adoc#v21-86-0[&#60; Capítulo Anterior] | <<v21-87-0,Topo>> | xref:021-salmos/021-salmos-088.adoc#v21-88-0[Próximo Capítulo &#62;]

@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v35-12-0]]
+=== Oséias, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 12 de Oséias começa com uma retrospectiva da história de Jacó, enfatizando sua natureza enganosa e suas lutas com Deus, e depois se volta para a situação presente de Israel, exortando-os a se arrependerem e voltarem ao Senhor. Os versículos relacionados com os temas abordados em Oséias 12 são:
+* Gênesis 32:28: "Então disse o homem: 'Não te chamarás mais Jacó, mas Israel; porque lutaste com Deus e com os homens e venceste.'" Este versículo faz referência à história de Jacó mencionada no início do capítulo 12 de Oséias, onde ele lutou com Deus e foi renomeado para Israel, significando "aquele que luta com Deus".
+* Êxodo 3:14: "Disse Deus a Moisés: 'Eu Sou o que Sou'. E acrescentou: 'Assim dirás aos israelitas: Eu Sou me enviou a vós.'" Esse versículo se relaciona com a mensagem de Oséias 12:9, onde Deus acusa Israel de ter se esquecido do seu nome e da sua soberania.
+* Isaías 44:22: "Apaguei as suas transgressões como a névoa, e os seus pecados, como a nuvem. Volte-se para mim, pois eu o resgatei." Este versículo expressa o convite de Deus para o arrependimento e a promessa de perdão, que é um tema central do capítulo 12 de Oséias.
+* Jeremias 31:9: "Com choro virão, mas com consolação os guiarei. Eu os levarei aos ribeiros de águas, por um caminho direito em que não tropeçarão, porque sou um pai para Israel, e Efraim é o meu primogênito." Neste versículo, Deus se compadece de Israel, prometendo consolo e guia, assim como em Oséias 12:6, onde Deus exorta Israel a se voltar para Ele e aguardar o seu juízo e consolo.
+* Zacarias 10:12: "Eu os fortalecerei no Senhor, e andarão no seu nome", Este versículo expressa a confiança que Israel deve depositar em Deus, que é a mensagem final do capítulo 12 de Oséias.
+****
+
+[[v35-12-1]]
+
+^<<v35-12-1,1>>^ Efraim cerca-me de mentira, e a casa de Israel, de hipocrisia; Judá é um testemunho traidor de Deus, que tem comércio com as hieródulas.^&#42;1^
+
+[[v35-12-2]]
+
+^<<v35-12-2,2>>^ Efraim se alimenta de vento, persegue o vento do Oriente, multiplica dia a dia a mentira e a violência; fazem aliança com a Assíria, e transportam óleo em homenagem ao Egito.^&#42;1^
+
+[[v35-12-3]]
+
+^<<v35-12-3,3>>^ O Senhor está em processo com Judá; vai castigar Jacó pelos seus atos e tratá-lo segundo as suas obras.
+
+[[v35-12-4]]
+
+^<<v35-12-4,4>>^ Desde o nascimento, Jacó suplantou o irmão, e, quando se tornou adulto, lutou com Deus. ^&#42;1^
+
+[[v35-12-5]]
+
+^<<v35-12-5,5>>^ Lutou com o anjo e o venceu, chorou e lhe pediu graça. Encontrou-o em Betel, onde Deus nos falou,^&#42;1^
+
+[[v35-12-6]]
+
+^<<v35-12-6,6>>^ o Senhor, Deus dos exércitos, cujo nome é Javé.
+
+[[v35-12-7]]
+
+^<<v35-12-7,7>>^ Quanto a ti, volta ao teu Deus, conserva a piedade e a justiça, e espera sempre no teu Deus.^&#42;1^
+
+[[v35-12-8]]
+
+^<<v35-12-8,8>>^ Esse mercador tem uma balança falsa e ama a fraude!^&#42;1^
+
+[[v35-12-9]]
+
+^<<v35-12-9,9>>^ Efraim disse: “Em verdade, tornei-me rico, amontoei fortuna”. Mas todos os seus ganhos não poderiam compensar os pecados que ele cometeu.
+
+[[v35-12-10]]
+
+^<<v35-12-10,10>>^ Eu sou o Senhor, teu Deus, desde a saída do Egito; farei com que habites de novo sob tendas, como nos dias de festa.^&#42;1^
+
+[[v35-12-11]]
+
+^<<v35-12-11,11>>^ Falei aos profetas e multipliquei as visões; pela boca dos profetas falei em comparações.
+
+[[v35-12-12]]
+
+^<<v35-12-12,12>>^ Se Galaad não passa de um ídolo vão, eles se tornaram em Guilgal um puro nada; ofereceram sacrifícios aos ídolos, por isso, seus altares serão transformados em montões de pedras nos sulcos dos campos.^&#42;1^
+
+[[v35-12-13]]
+
+^<<v35-12-13,13>>^ Jacó fugiu para os campos de Arão, Israel trabalhou como servo para obter esposa, e por uma mulher guardou os rebanhos.^&#42;1^
+
+[[v35-12-14]]
+
+^<<v35-12-14,14>>^ O Senhor fez sair Israel do Egito por um profeta, por um profeta foi guardado o povo.
+
+[[v35-12-15]]
+
+^<<v35-12-15,15>>^ Efraim causou amargos desgostos: por isso, o sangue que ele derramou recairá sobre ele, e seu Senhor lhe pagará seus ultrajes.
+
+'''
+
+xref:035-oseias/035-oseias-011.adoc#v35-11-0[&#60; Capítulo Anterior] | <<v35-12-0,Topo>> | xref:035-oseias/035-oseias-013.adoc#v35-13-0[Próximo Capítulo &#62;]

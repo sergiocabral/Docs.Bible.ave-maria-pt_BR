@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v45-9-0]]
+=== Zacarias, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Zacarias 9 fala sobre a profecia da vinda do Messias e a restauração de Jerusalém. É um capítulo que retrata uma visão futura para a cidade e para o povo de Deus. Abaixo estão cinco versículos relacionados aos temas abordados em Zacarias 9:
+* Isaías 62:6: "Ó Jerusalém, pus sentinelas sobre teus muros, que jamais ficarão em silêncio, nem de dia nem de noite; vós, que deveis lembrar-vos do Senhor, não descanseis," Este versículo retrata a importância de manter a vigilância e a oração constante em Jerusalém. Isso se relaciona com a visão de Zacarias 9 de uma Jerusalém restaurada e fortalecida.
+* Salmos 118:26-27: "Bendito o que vem em nome do Senhor! Nós vos bendizemos desde a casa do Senhor. O Senhor é Deus, e ele nos ilumina." Esses versículos são frequentemente associados à entrada triunfal de Jesus em Jerusalém, o que está em linha com a visão de Zacarias 9 de um rei vindo para a cidade.
+* Jeremias 30:18: "Assim diz o Senhor: Eis que mudarei a sorte das tendas de Jacó, e compadecer-me-ei das suas habitações; a cidade será reedificada sobre o seu próprio monte, e o palácio real voltará a ser habitado como antigamente." Este versículo fala sobre a restauração da cidade de Jerusalém e a habitação do palácio real, o que é semelhante à visão de Zacarias 9 de uma Jerusalém fortalecida.
+* Isaías 9:6: "Porque um menino nos nasceu, um filho se nos deu; o governo está sobre os seus ombros; e o seu nome será Maravilhoso Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz." Este versículo é frequentemente associado à vinda do Messias, que é um tema central em Zacarias 9.
+* Isaías 52:7: "Como são formosos sobre os montes os pés do que anuncia as boas novas, que faz ouvir a paz, que anuncia coisas boas, que faz ouvir a salvação, que diz a Sião: O teu Deus reina!" Este versículo fala sobre a pregação das boas novas da salvação, o que é semelhante ao tema central de Zacarias 9 - a vinda do Messias e a restauração de Jerusalém.
+****
+
+[[v45-9-1]]
+
+^<<v45-9-1,1>>^ Oráculo. A palavra do Senhor repousa na terra de Hadrac e de Damasco. Porque ao Senhor pertencem as cidades de Aram, assim como todas as tribos de Israel,^&#42;1^
+
+[[v45-9-2]]
+
+^<<v45-9-2,2>>^ e também em Emat, vizinha de Damasco, e em Tiro e Sidônia, apesar de sua sabedoria.
+
+[[v45-9-3]]
+
+^<<v45-9-3,3>>^ Tiro levantou suas muralhas, amontoou prata como o pó, e ouro como a lama dos caminhos.
+
+[[v45-9-4]]
+
+^<<v45-9-4,4>>^ Eis que o Senhor vai apoderar-se dela: ele destruirá suas fortificações, o fogo a devorará.
+
+[[v45-9-5]]
+
+^<<v45-9-5,5>>^ Ao saber disso, Ascalon se apavorará, Gaza ficará tremendo, e Acaron igualmente, vendo a sua esperança frustrada; o rei desaparecerá de Gaza, Ascalon ficará desabitada!
+
+[[v45-9-6]]
+
+^<<v45-9-6,6>>^ Estranhos se instalarão em Azoto, destruirei a soberba do filisteu.
+
+[[v45-9-7]]
+
+^<<v45-9-7,7>>^ Tirarei de sua boca o sangue que comia e dos seus dentes as carnes abomináveis e também ele será um resto para o nosso Deus. Ele viverá como uma família de Judá, Acaron será tratada como o jebuseu.^&#42;1^
+
+[[v45-9-8]]
+
+^<<v45-9-8,8>>^ Montarei guarda junto de minha casa, para protegê-la contra as idas e vindas; o inimigo não oprimirá mais o meu povo, porque doravante terei meus olhos sobre ele.
+
+[[v45-9-9]]
+
+^<<v45-9-9,9>>^ Exulta de alegria, filha de Sião, solta gritos de júbilo, filha de Jerusalém; eis que vem a ti o teu rei, justo e vitorioso; ele é simples e vem montado num jumento, no potro de uma jumenta.^&#42;1^
+
+[[v45-9-10]]
+
+^<<v45-9-10,10>>^ Ele suprimirá os carros de guerra na terra de Efraim, e os cavalos de Jerusalém. O arco de guerra será quebrado. Ele proclamará a paz entre as nações, seu império se estenderá de um mar ao outro, desde o rio até as extremidades da terra.^&#42;1^
+
+[[v45-9-11]]
+
+^<<v45-9-11,11>>^ Quanto a ti, por causa de tua aliança de sangue, libertarei os teus cativos da fossa sem água.
+
+[[v45-9-12]]
+
+^<<v45-9-12,12>>^ Voltai, pois, para a vossa terra, vós que viveis de esperança. Desde agora vos anuncio que vos indenizarei em dobro.
+
+[[v45-9-13]]
+
+^<<v45-9-13,13>>^ Eis que estiro Judá como um arco, tomo Efraim como flecha. Suscitarei os teus filhos, ó Sião, contra os filhos da Grécia, eu te tornarei como a espada de um valente.
+
+[[v45-9-14]]
+
+^<<v45-9-14,14>>^ O Senhor vai aparecer sobre eles; sua flecha fuzilará como o relâmpago; ele vai tocar a trombeta e em meio à borrasca do sul aparecerá.
+
+[[v45-9-15]]
+
+^<<v45-9-15,15>>^ O Senhor dos exércitos protegerá Israel; eles devorarão os atiradores de funda e os pisarão aos pés, e beberão o seu sangue como vinho; ficarão fartos como a taça dos sacrifícios, e saturados como os chifres do altar.
+
+[[v45-9-16]]
+
+^<<v45-9-16,16>>^ O Senhor, seu Deus, lhes assegurará a vitória. Naquele dia, o rebanho de seu povo brilhará sobre a terra como as pedras de um diadema.^&#42;1^
+
+[[v45-9-17]]
+
+^<<v45-9-17,17>>^ Que felicidade! Que beleza será a sua! O trigo dará vigor aos jovens, e o vinho, (saúde) às donzelas.
+
+'''
+
+xref:045-zacarias/045-zacarias-008.adoc#v45-8-0[&#60; Capítulo Anterior] | <<v45-9-0,Topo>> | xref:045-zacarias/045-zacarias-010.adoc#v45-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v19-6-0]]
+=== Ester, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ester 6 relata o momento em que o rei Assuero não conseguia dormir e mandou buscar o livro das crônicas para que lhe fossem lidas. Nesse livro, ele descobriu que Mardoqueu, que havia salvado sua vida, ainda não havia recebido nenhuma honra ou reconhecimento. O capítulo então segue com o relato do que o rei fez para honrar Mardoqueu. Abaixo estão cinco versículos relacionados com os temas abordados em Ester 6:
+* Provérbios 3:35: "Os sábios herdarão honra, mas os tolos tomam sobre si ignomínia." O rei Assuero reconhece que Mardoqueu é um homem sábio e digno de honra, e decide honrá-lo publicamente.
+* 1 Samuel 2:30: "Por isso, diz o SENHOR, o Deus de Israel: Na verdade, tinha dito que a tua casa e a casa de teu pai andariam diante de mim perpetuamente; porém agora diz o SENHOR: Longe de mim tal coisa, porque aos que me honram honrarei, porém os que me desprezam serão desprezados." O rei Assuero decide honrar Mardoqueu por ter salvo sua vida, e assim cumprir o princípio divino de honrar aqueles que o honram.
+* Filipenses 2:9: "Pelo que também Deus o exaltou soberanamente e lhe deu um nome que é sobre todo nome." Assim como Deus exaltou Jesus por sua obediência e humildade, o rei Assuero exalta Mardoqueu por sua fidelidade e coragem.
+* Colossenses 3:23-24: "E tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor e não aos homens, sabendo que recebereis do Senhor o galardão da herança, porque a Cristo, o Senhor, servis." Mardoqueu serviu ao rei Assuero fielmente, e mesmo que o rei não o tivesse honrado, ele sabia que sua verdadeira recompensa viria do Senhor.
+* 2 Timóteo 2:20-21: "Ora, numa grande casa não somente há utensílios de ouro e de prata, mas também de madeira e de barro; uns, para honra; outros, porém, para desonra. Assim, pois, se alguém a si mesmo se purificar destes erros, será utensílio para honra, santificado e útil ao seu possuidor, estando preparado para toda boa obra." Mardoqueu é um utensílio para honra nas mãos de Deus, e o rei Assuero reconheceu isso e o honrou publicamente.
+****
+
+[[v19-6-1]]
+
+^<<v19-6-1,1>>^ Naquela noite, o rei não conseguiu dormir. Mandou que lhe trouxessem o livro dos Anais, as Crônicas, que lhe foram lidas.
+
+[[v19-6-2]]
+
+^<<v19-6-2,2>>^ Achava-se aí consignada a narração da denúncia que tinha feito Mardoqueu (da conjuração) de Gabata e Tares, os dois eunucos do rei que tinham querido levantar sua mão contra o rei.
+
+[[v19-6-3]]
+
+^<<v19-6-3,3>>^ “Que honras – disse então o rei – e que distinções recebeu Mardoqueu por isso?” “Nenhuma” – responderam os servos do rei.
+
+[[v19-6-4]]
+
+^<<v19-6-4,4>>^ E o rei perguntou: “Quem está no pátio?”. Ora, nesse mesmo instante, entrava Amã no pátio exterior do palácio para pedir ao rei que mandasse suspender Mardoqueu na forca que tinha feito levantar.
+
+[[v19-6-5]]
+
+^<<v19-6-5,5>>^ Os servos do rei responderam: “É Amã que está no pátio”. “Que entre!” – retornou o rei.
+
+[[v19-6-6]]
+
+^<<v19-6-6,6>>^ Entrou, pois, Amã e o rei lhe disse: “Que se deveria fazer para um homem que o rei quer honrar?”. “A quem, senão a mim, quererá o rei honrar?” – pensou Amã.
+
+[[v19-6-7]]
+
+^<<v19-6-7,7>>^ Por isso, respondeu ao rei: “Para um homem a quem o rei deseja honrar
+
+[[v19-6-8]]
+
+^<<v19-6-8,8>>^ convém que lhe tragam as vestes com que se adorna o rei, o cavalo que o rei monta e sobre sua cabeça se coloque a coroa real.
+
+[[v19-6-9]]
+
+^<<v19-6-9,9>>^ As vestes e o cavalo se darão a um dos senhores da corte e este revestirá o homem a quem o rei quer honrar e o passeará a cavalo pela praça da cidade, dizendo em altas vozes diante dele: É assim que é tratado o homem a quem o rei quer honrar”.^&#42;1^
+
+[[v19-6-10]]
+
+^<<v19-6-10,10>>^ O rei replicou: “Toma, pois, depressa as vestes e o cavalo, como disseste e faze tudo isso para Mardoqueu, o judeu que está assentado em minha antecâmara. E que nada se omita de tudo o que disseste”.
+
+[[v19-6-11]]
+
+^<<v19-6-11,11>>^ Amã tomou as vestes e o cavalo, revestiu Mardoqueu e o conduziu a cavalo pela praça da cidade, clamando diante dele: “É assim que é tratado o homem a quem o rei quer honrar”.
+
+[[v19-6-12]]
+
+^<<v19-6-12,12>>^ Depois Mardoqueu voltou à porta do palácio enquanto Amã se retirava precipitadamente para casa, consternado e de cabeça coberta,^&#42;1^
+
+[[v19-6-13]]
+
+^<<v19-6-13,13>>^ para contar a Zares, sua mulher, e a todos os seus amigos o que lhe tinha acontecido. Seus conselheiros e sua mulher, Zares, lhe responderam: “Se Mardoqueu, diante do qual começou tua queda, pertence ao povo judeu, não o vencerás, mas sucumbirás diante dele”.
+
+[[v19-6-14]]
+
+^<<v19-6-14,14>>^ Eles falavam ainda, quando sobrevieram os eunucos do rei para levá-lo imediatamente ao banquete que Ester tinha preparado.
+
+'''
+
+xref:019-ester/019-ester-005.adoc#v19-5-0[&#60; Capítulo Anterior] | <<v19-6-0,Topo>> | xref:019-ester/019-ester-007.adoc#v19-7-0[Próximo Capítulo &#62;]

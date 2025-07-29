@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v52-7-0]]
+=== Romanos, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Romanos 7 aborda a luta interna do cristão entre a carne e o Espírito. O capítulo destaca a natureza pecaminosa da carne e a incapacidade do homem em alcançar a justiça por suas próprias forças. Paulo expressa sua própria batalha contra o pecado e a sua necessidade de um Salvador para libertá-lo da escravidão do pecado.
+* Salmos 51:5: "Eis que em iniquidade fui formado, e em pecado me concebeu minha mãe." Este versículo destaca a natureza pecaminosa do homem desde o seu nascimento e se relaciona com a ideia apresentada em Romanos 7:18-20, em que Paulo reconhece a sua natureza pecaminosa.
+* Romanos 6:23: "Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus nosso Senhor." Este versículo destaca a necessidade de salvação pela fé em Jesus Cristo, tema que é enfatizado em Romanos 7:24-25.
+* Gálatas 5:16-17: "Digo, porém: Andai no Espírito, e jamais satisfareis à concupiscência da carne. Porque a carne cobiça contra o Espírito, e o Espírito contra a carne; e estes opõem-se um ao outro, para que não façais o que quereis." Este versículo se relaciona com a luta entre a carne e o Espírito que é abordada em Romanos 7:14-23.
+* Romanos 8:2: "Porque a lei do Espírito da vida, em Cristo Jesus, te livrou da lei do pecado e da morte." Este versículo destaca a libertação do homem da escravidão do pecado por meio de Jesus Cristo, tema que é apresentado em Romanos 7:24-25.
+* 1 João 1:8-10: "Se dissermos que não temos pecado nenhum, a nós mesmos nos enganamos, e a verdade não está em nós. Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda injustiça. Se dissermos que não temos cometido pecado, fazemo-lo mentiroso, e a sua palavra não está em nós." Este versículo destaca a necessidade de reconhecer a própria natureza pecaminosa e de buscar a salvação em Jesus Cristo, temas que são abordados em Romanos 7:14-25.
+****
+
+[[v52-7-1]]
+
+^<<v52-7-1,1>>^ Ignorais, irmãos (falo aos que têm conhecimentos jurídicos), que a Lei só tem domínio sobre o homem durante o tempo que vive?^&#42;1^
+
+[[v52-7-2]]
+
+^<<v52-7-2,2>>^ Assim, a mulher casada está sujeita ao marido pela Lei enquanto ele vive; mas, se o marido morrer, fica desobrigada da Lei que a ligava ao marido.
+
+[[v52-7-3]]
+
+^<<v52-7-3,3>>^ Por isso, enquanto viver o marido, se se tornar mulher de outro homem, será chamada adúltera. Porém, morrendo o marido, fica desligada da Lei, de maneira que, sem se tornar adúltera, poderá casar-se com outro homem.
+
+[[v52-7-4]]
+
+^<<v52-7-4,4>>^ Assim, meus irmãos, também vós estais mortos para a Lei, pelo sacrifício do corpo de Cristo, para pertencerdes a outrem, àquele que ressuscitou dentre os mortos, a fim de que demos frutos para Deus.^&#42;1^
+
+[[v52-7-5]]
+
+^<<v52-7-5,5>>^ De fato, quando estávamos na carne, as paixões pecaminosas despertadas pela Lei operavam em nossos membros, a fim de frutificarmos para a morte.
+
+[[v52-7-6]]
+
+^<<v52-7-6,6>>^ Agora, mortos para essa Lei que nos mantinha sujeitos, dela nos temos libertado, e nosso serviço realiza-se conforme a renovação do Espírito e não mais sob a autoridade envelhecida da letra.
+
+[[v52-7-7]]
+
+^<<v52-7-7,7>>^ Que diremos, então? Que a Lei é pecado? De modo algum. Mas eu não conheci o pecado senão pela Lei. Porque não teria ideia da concupiscência, se a Lei não dissesse: Não cobiçarás (Ex 20,17).
+
+[[v52-7-8]]
+
+^<<v52-7-8,8>>^ Foi o pecado, portanto, que, aproveitando-se da ocasião que lhe foi dada pelo preceito, excitou em mim todas as concupiscências; porque, sem a Lei, o pecado estava morto.
+
+[[v52-7-9]]
+
+^<<v52-7-9,9>>^ Quando eu estava sem a Lei, eu vivia; mas, sobrevindo o preceito, o pecado recobrou vida,
+
+[[v52-7-10]]
+
+^<<v52-7-10,10>>^ e eu morri. Assim o mandamento, que me devia dar a vida, conduziu-me à morte.
+
+[[v52-7-11]]
+
+^<<v52-7-11,11>>^ Porque o pecado, aproveitando da ocasião do mandamento, seduziu-me, e por ele me levou à morte.
+
+[[v52-7-12]]
+
+^<<v52-7-12,12>>^ Por conseguinte, a Lei é santa e o mandamento é santo, e justo, e bom...
+
+[[v52-7-13]]
+
+^<<v52-7-13,13>>^ Então, o que é bom tornou-se causa de morte para mim? Decerto que não. Foi o pecado que, para se mostrar realmente pecado, acarretou para mim a morte por meio do que é bom, a fim de que, pelo mandamento, o pecado se fizesse excessivamente pecaminoso.
+
+[[v52-7-14]]
+
+^<<v52-7-14,14>>^ Sabemos, de fato, que a Lei é espiritual, mas eu sou carnal, vendido ao pecado.
+
+[[v52-7-15]]
+
+^<<v52-7-15,15>>^ Não entendo, absolutamente, o que faço, pois não faço o que quero; faço o que aborreço.
+
+[[v52-7-16]]
+
+^<<v52-7-16,16>>^ E, se faço o que não quero, reconheço que a Lei é boa.
+
+[[v52-7-17]]
+
+^<<v52-7-17,17>>^ Mas, então, não sou eu que o faço, mas o pecado que em mim habita.
+
+[[v52-7-18]]
+
+^<<v52-7-18,18>>^ Eu sei que em mim, isto é, na minha carne, não habita o bem, porque o querer o bem está em mim, mas não sou capaz de efetuá-lo.
+
+[[v52-7-19]]
+
+^<<v52-7-19,19>>^ Não faço o bem que quereria, mas o mal que não quero.
+
+[[v52-7-20]]
+
+^<<v52-7-20,20>>^ Ora, se faço o que não quero, já não sou eu que faço, mas sim o pecado que em mim habita.
+
+[[v52-7-21]]
+
+^<<v52-7-21,21>>^ Encontro, pois, em mim esta Lei: quando quero fazer o bem, o que se me depara é o mal.^&#42;1^
+
+[[v52-7-22]]
+
+^<<v52-7-22,22>>^ Deleito-me na Lei de Deus, no íntimo do meu ser.
+
+[[v52-7-23]]
+
+^<<v52-7-23,23>>^ Sinto, porém, nos meus membros outra Lei, que luta contra a Lei do meu espírito e me prende à Lei do pecado, que está nos meus membros.
+
+[[v52-7-24]]
+
+^<<v52-7-24,24>>^ Homem infeliz que sou! Quem me livrará deste corpo que me acarreta a morte?...
+
+[[v52-7-25]]
+
+^<<v52-7-25,25>>^ Graças sejam dadas a Deus por Jesus Cristo, nosso Senhor!
+
+[[v52-7-26]]
+
+^<<v52-7-26,26>>^ Assim, pois, de um lado, pelo meu espírito, sou submisso à Lei de Deus; de outro lado, por minha carne, sou escravo da Lei do pecado.
+
+'''
+
+xref:052-romanos/052-romanos-006.adoc#v52-6-0[&#60; Capítulo Anterior] | <<v52-7-0,Topo>> | xref:052-romanos/052-romanos-008.adoc#v52-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,275 @@
+include::./index.adoc[]
+
+[[v34-13-0]]
+=== Daniel, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 13 de Daniel é comumente conhecido como "A história de Susana" e narra a história de uma mulher judia acusada falsamente de adultério. Os versículos relacionados com o tema abordado nesse capítulo são:
+* Provérbios 18:17: "O primeiro que apresenta a sua causa parece ter razão; até que vem outro e o questiona." Esse versículo fala sobre a importância de ouvir ambos os lados de uma história antes de chegar a uma conclusão.
+* Deuteronômio 19:15: "Uma só testemunha não será bastante para acusar alguém de um crime, ou falta grave de qualquer espécie; só pelo depoimento de duas ou três testemunhas poderá a acusação ser comprovada." Esse versículo destaca a importância de ter evidências confiáveis para acusar alguém de um crime.
+* 2 Coríntios 13:1: "Esta é a terceira vez que vou ter convosco. Por boca de duas ou três testemunhas será decidido todo caso." Esse versículo destaca a importância de ter testemunhas confiáveis para tomar decisões justas.
+* Mateus 18:16: "Mas, se ele não te ouvir, toma contigo uma ou duas pessoas, para que, pelo depoimento de duas ou três testemunhas, toda palavra seja confirmada." Esse versículo fala sobre o processo de confrontar alguém que errou, destacando a importância de ter testemunhas confiáveis para confirmar a veracidade dos fatos.
+* Provérbios 11:1: "O Senhor detesta balança desonestas, mas os pesos exatos lhe dão prazer." Esse versículo destaca a importância da justiça e honestidade em todas as situações.
+****
+
+[[v34-13-1]]
+
+^<<v34-13-1,1>>^ Havia um homem chamado Joaquin, que habitava na Babilônia.
+
+[[v34-13-2]]
+
+^<<v34-13-2,2>>^ Tinha desposado uma mulher chamada Suzana, filha de Helcias, de grande beleza, e piedosa,
+
+[[v34-13-3]]
+
+^<<v34-13-3,3>>^ porque havia sido educada segundo a Lei de Moisés por pais honestos.
+
+[[v34-13-4]]
+
+^<<v34-13-4,4>>^ Joaquin era sumamente rico. Junto à sua casa havia um pomar. Os judeus reuniam-se frequentemente em casa dele, porque gozava de uma particular consideração entre seus compatriotas.
+
+[[v34-13-5]]
+
+^<<v34-13-5,5>>^ Haviam sido nomeados juízes, naquele ano, dois anciãos do povo, aos quais se aplicava bem a palavra do Senhor: “A iniquidade surgiu, na Babilônia, de anciãos juízes que passavam por dirigentes do povo”.
+
+[[v34-13-6]]
+
+^<<v34-13-6,6>>^ Esses dois personagens frequentavam a casa de Joaquin, aonde vinham consultá-los todos aqueles que tinham litígio.
+
+[[v34-13-7]]
+
+^<<v34-13-7,7>>^ Lá pelo meio-dia, quando toda essa gente tinha ido embora, Suzana vinha passear no jardim de seu marido.
+
+[[v34-13-8]]
+
+^<<v34-13-8,8>>^ Os dois anciãos viam-na, portanto, todos os dias durante seu passeio, tanto que se apaixonaram por ela e,
+
+[[v34-13-9]]
+
+^<<v34-13-9,9>>^ perdendo a justa noção das coisas, desviaram os olhos para não ver mais o céu e não ter mais presente no espírito a verdadeira regra de comportamento.
+
+[[v34-13-10]]
+
+^<<v34-13-10,10>>^ Ambos foram atingidos pelo amor a Suzana, mas sem se confiarem mutuamente sua emoção.
+
+[[v34-13-11]]
+
+^<<v34-13-11,11>>^ Tinham vergonha de declarar um ao outro o desejo que sentiam de possuí-la.
+
+[[v34-13-12]]
+
+^<<v34-13-12,12>>^ Todos os dias, inquietos, procuravam avistá-la.
+
+[[v34-13-13]]
+
+^<<v34-13-13,13>>^ Uma vez disseram um ao outro: “Vamos para casa; está na hora do almoço”. Saíram cada um para seu lado.
+
+[[v34-13-14]]
+
+^<<v34-13-14,14>>^ Mas, havendo ambos retrocedido, encontraram-se novamente no mesmo lugar. Perguntando um ao outro qual o motivo de sua volta, confessaram-se sua concupiscência. Combinaram, então, um encontro onde a pudessem surpreender sozinha.
+
+[[v34-13-15]]
+
+^<<v34-13-15,15>>^ Enquanto calculavam qual seria o momento propício, eis que Suzana chegou como de costume, com duas empregadas, e tomou a resolução de banhar-se, pois fazia calor.
+
+[[v34-13-16]]
+
+^<<v34-13-16,16>>^ Lá não havia ninguém, salvo os dois anciãos escondidos, que a espreitavam.
+
+[[v34-13-17]]
+
+^<<v34-13-17,17>>^ “Trazei-me” – disse ela às duas empregadas – “óleo e unguentos, e fechai as portas do jardim, para eu me banhar.”
+
+[[v34-13-18]]
+
+^<<v34-13-18,18>>^ O que elas fizeram por sua ordem. As portas do jardim estando fechadas, saíram pela porta do fundo para ir buscar os objetos pedidos, ignorando que os anciãos lá se achavam escondidos.
+
+[[v34-13-19]]
+
+^<<v34-13-19,19>>^ Apenas saíram, os dois homens precipitaram-se em direção de Suzana.
+
+[[v34-13-20]]
+
+^<<v34-13-20,20>>^ “As portas do jardim estão fechadas” – disseram-lhe –, “ninguém nos vê. Ardemos de amor por ti. Aceita e entrega-te a nós.
+
+[[v34-13-21]]
+
+^<<v34-13-21,21>>^ Se recusares, iremos denunciar-te: diremos que havia um jovem contigo, e que foi por isso que fizeste sair tuas servas.”
+
+[[v34-13-22]]
+
+^<<v34-13-22,22>>^ Suzana exclamou tristemente: “Que angústias me envolvem por todos os lados! Consentir? Eu seria condenada à morte! Recusar? Nem assim eu escaparia de vossas mãos!
+
+[[v34-13-23]]
+
+^<<v34-13-23,23>>^ Não! Prefiro cair, sem culpa alguma, em vossas mãos, do que pecar contra o Senhor”.
+
+[[v34-13-24]]
+
+^<<v34-13-24,24>>^ Suzana soltou grandes gritos, e os dois anciãos gritavam também contra ela.
+
+[[v34-13-25]]
+
+^<<v34-13-25,25>>^ E um deles, correndo às portas do jardim, abriu-as.
+
+[[v34-13-26]]
+
+^<<v34-13-26,26>>^ Com essa balbúrdia, os criados precipitaram-se pela porta do fundo para ver o que havia acontecido.
+
+[[v34-13-27]]
+
+^<<v34-13-27,27>>^ Os anciãos se puseram a falar, e os criados enrubesceram, pois jamais nada de semelhante fora dito de Suzana.
+
+[[v34-13-28]]
+
+^<<v34-13-28,28>>^ No dia seguinte, os dois anciãos, cheios de criminosas intenções contra a vida de Suzana, vieram à reunião que se realizava em casa de Joaquin, marido dela.
+
+[[v34-13-29]]
+
+^<<v34-13-29,29>>^ Disseram, diante da assembleia: “Mandem buscar Suzana, filha de Helcias, a mulher de Joaquin!”. Foram-na buscar,
+
+[[v34-13-30]]
+
+^<<v34-13-30,30>>^ e ela chegou com seus pais, seus filhos e os membros de sua família.
+
+[[v34-13-31]]
+
+^<<v34-13-31,31>>^ Era delicada e bela de rosto.
+
+[[v34-13-32]]
+
+^<<v34-13-32,32>>^ Aqueles homens perversos exigiam que ela retirasse seu véu – pois estava velada –, a fim de poderem (pelo menos) fartar-se de sua beleza.
+
+[[v34-13-33]]
+
+^<<v34-13-33,33>>^ Os seus choravam, assim como seus amigos.
+
+[[v34-13-34]]
+
+^<<v34-13-34,34>>^ Os dois anciãos levantaram-se à vista de todos, e pousaram a mão sobre sua cabeça,
+
+[[v34-13-35]]
+
+^<<v34-13-35,35>>^ enquanto ela, debulhada em lágrimas, mas com o coração cheio de confiança no Senhor, olhava para o céu.
+
+[[v34-13-36]]
+
+^<<v34-13-36,36>>^ Os anciãos disseram então: “Quando passeávamos pelo jardim, ela entrou com duas servas; depois fechou a porta e mandou embora suas acompanhantes.
+
+[[v34-13-37]]
+
+^<<v34-13-37,37>>^ Então, um jovem que se achava escondido ali, aproximou-se e pecou com ela.
+
+[[v34-13-38]]
+
+^<<v34-13-38,38>>^ Nós nos encontrávamos em um recanto do jardim. Diante de tal desvergonhamento, corremos para eles e os surpreendemos em flagrante delito.
+
+[[v34-13-39]]
+
+^<<v34-13-39,39>>^ Não pudemos agarrar o homem, porque era mais forte do que nós, e fugiu pela porta aberta.
+
+[[v34-13-40]]
+
+^<<v34-13-40,40>>^ Ela, nós a apanhamos; mas quando a interrogamos para saber quem era o jovem, recusou-se a responder. Somos testemunhas do fato”.
+
+[[v34-13-41]]
+
+^<<v34-13-41,41>>^ Confiando nesses homens, que eram anciãos e juízes do povo, condenaram Suzana à morte.
+
+[[v34-13-42]]
+
+^<<v34-13-42,42>>^ Então, ela exclamou bem alto: “Deus eterno, vós que penetrais os segredos, que conheceis os acontecimentos antes que aconteçam,
+
+[[v34-13-43]]
+
+^<<v34-13-43,43>>^ sabeis que isso é um falso testemunho que levantaram contra mim. Vou morrer, sem nada ter feito do que maldosamente inventaram de mim”.
+
+[[v34-13-44]]
+
+^<<v34-13-44,44>>^ Deus ouviu sua oração.
+
+[[v34-13-45]]
+
+^<<v34-13-45,45>>^ Como a levassem para a morte, o Senhor suscitou o espírito íntegro de um adolescente chamado Daniel,
+
+[[v34-13-46]]
+
+^<<v34-13-46,46>>^ que proclamou com vigor: “Sou inocente da morte dessa mulher!”.
+
+[[v34-13-47]]
+
+^<<v34-13-47,47>>^ Todo mundo virou-se para ele: “O que significa isso?” – perguntaram-lhe.
+
+[[v34-13-48]]
+
+^<<v34-13-48,48>>^ Então, no meio de um círculo que se formava, disse: “Israelitas, estais loucos! Eis que condenais uma israelita sem interrogatório, sem conhecer a verdade!
+
+[[v34-13-49]]
+
+^<<v34-13-49,49>>^ Recomeçai o julgamento, porque é um falso testemunho a declaração desses dois homens contra ela”.
+
+[[v34-13-50]]
+
+^<<v34-13-50,50>>^ O povo apressou-se em voltar. Os anciãos disseram a Daniel: “Vem sentar conosco e esclarece-nos, pois Deus te deu o privilégio da velhice!”.
+
+[[v34-13-51]]
+
+^<<v34-13-51,51>>^ “Separai-os um do outro” – exclamou Daniel –, “e eu os julgarei.” Foram separados.
+
+[[v34-13-52]]
+
+^<<v34-13-52,52>>^ Então, Daniel chamou o primeiro e disse-lhe: “Velho perverso! Eis que agora aparecem os pecados que cometeste outrora em julgamentos injustos,
+
+[[v34-13-53]]
+
+^<<v34-13-53,53>>^ condenando os inocentes e absolvendo os culpados; no entanto, é Deus quem diz: não farás morrer o inocente e o íntegro.
+
+[[v34-13-54]]
+
+^<<v34-13-54,54>>^ Vamos! Se realmente a viste, dize-nos debaixo de qual árvore os viste juntos”. “Debaixo de um lentisco” – respondeu.
+
+[[v34-13-55]]
+
+^<<v34-13-55,55>>^ “Ótimo!” – continuou Daniel –, “eis a mentira, que pagarás com tua cabeça. Eis aqui o anjo do Senhor que, segundo a sentença divina, vai dividir teu corpo pelo meio.”^&#42;1^
+
+[[v34-13-56]]
+
+^<<v34-13-56,56>>^ Afastaram o homem. Daniel mandou vir o outro e disse-lhe: “Filho de Canaã! Tu não és judeu: foi a beleza que te seduziu, e a concupiscência que te perverteu.
+
+[[v34-13-57]]
+
+^<<v34-13-57,57>>^ Foi assim que sempre fizeste com as filhas de Israel, as quais, por medo, entravam em relação convosco. Mas eis uma filha de Judá que não consentiu no vosso crime.^&#42;1^
+
+[[v34-13-58]]
+
+^<<v34-13-58,58>>^ Vamos, dize-me sob qual árvore os surpreendeste em intimidade”. “Sob um carvalho.”
+
+[[v34-13-59]]
+
+^<<v34-13-59,59>>^ “Ótimo!” – respondeu Daniel – “Tu também proferiste uma mentira que vai te custar a vida. Eis aqui o anjo do Senhor, que empunha a espada, prestes a serrar-te pelo meio para te fazer perecer.”^&#42;1^
+
+[[v34-13-60]]
+
+^<<v34-13-60,60>>^ Logo a assembleia se pôs a clamar ruidosamente e a bendizer a Deus por salvar aqueles que nele põem sua esperança.
+
+[[v34-13-61]]
+
+^<<v34-13-61,61>>^ Toda a multidão revoltou-se então contra os dois anciãos os quais, por suas próprias declarações, Daniel provou terem dado falso testemunho.^&#42;1^
+
+[[v34-13-62]]
+
+^<<v34-13-62,62>>^ De acordo com a Lei de Moisés, aplicaram o tratamento que tinham querido infligir ao seu próximo: foram mortos. Assim, naquele dia, foi poupada uma vida inocente.
+
+[[v34-13-63]]
+
+^<<v34-13-63,63>>^ Helcias e sua mulher louvaram a Deus por sua filha Suzana, com Joaquin, seu marido, e todos os seus parentes, pois nada de desonesto havia sido encontrado em seu proceder.
+
+[[v34-13-64]]
+
+^<<v34-13-64,64>>^ E Daniel gozou, desde então, de uma alta consideração entre seus concidadãos.
+
+'''
+
+xref:034-daniel/034-daniel-012.adoc#v34-12-0[&#60; Capítulo Anterior] | <<v34-13-0,Topo>> | xref:034-daniel/034-daniel-014.adoc#v34-14-0[Próximo Capítulo &#62;]

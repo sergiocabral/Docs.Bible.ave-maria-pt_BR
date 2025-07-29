@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v21-48-0]]
+=== Salmos, 48
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 48 é um cântico de louvor a Deus, que é exaltado como o grande Rei sobre a Terra. O salmista descreve a grandeza de Sião, a cidade de Deus, e a forma como Deus a protege e a fortalece. Ele conclui com um apelo para que as pessoas contem aos seus filhos sobre a grandeza de Deus e o que Ele fez por Sião. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 48:
+* Salmo 47:8 - "Deus é Rei sobre as nações; Deus está sentado em seu santo trono." Este verso também enfatiza a soberania e a realeza de Deus, como o salmista de Salmo 48 faz.
+* Salmo 50:2 - "De Sião, perfeita em beleza, Deus resplandece." Este verso se relaciona com a descrição de Sião como uma cidade bela e forte em Salmo 48.
+* Isaías 2:2 - "Nos últimos dias o monte do templo do Senhor será estabelecido como o mais alto dos montes; será exaltado acima das colinas, e todas as nações virão a ele." Este verso se relaciona com a ideia de Sião como a cidade de Deus e com a profecia de que todas as nações se voltarão para o Senhor.
+* Isaías 12:6 - "Clamem em alta voz e exultem, ó habitantes de Sião, pois grande é o Santo de Israel no meio de vocês." Este verso destaca a importância de Sião como um lugar de adoração e louvor a Deus.
+* Isaías 33:20-21 - "Olhe para Sião, cidade das nossas festas; seus olhos verão Jerusalém, morada tranquila, tenda que não será removida; seus estacas nunca serão arrancadas, nem suas cordas quebradas." Este verso se relaciona com a ideia de que Sião é uma cidade fortificada, protegida por Deus, como é descrito em Salmo 48.
+****
+
+[[v21-48-1]]
+
+^<<v21-48-1,1>>^ Ao mestre de canto. Salmo dos filhos de Coré.^&#42;1^
+
+[[v21-48-2]]
+
+^<<v21-48-2,2>>^ Escutai, povos todos; atendei, todos vós que habitais a terra,
+
+[[v21-48-3]]
+
+^<<v21-48-3,3>>^ humildes e poderosos, tanto ricos como pobres.
+
+[[v21-48-4]]
+
+^<<v21-48-4,4>>^ Dirão os meus lábios palavras de sabedoria, e o meu coração meditará pensamentos profundos.
+
+[[v21-48-5]]
+
+^<<v21-48-5,5>>^ Ouvirei, atento, as sentenças inspiradas por Deus; depois, ao som da lira, explicarei meu oráculo.^&#42;1^
+
+[[v21-48-6]]
+
+^<<v21-48-6,6>>^ Por que ter medo nos dias de infortúnio, quando me cerca a malícia dos meus inimigos?
+
+[[v21-48-7]]
+
+^<<v21-48-7,7>>^ Eles confiam em seus bens, e se vangloriam das grandes riquezas.
+
+[[v21-48-8]]
+
+^<<v21-48-8,8>>^ Mas nenhum homem a si mesmo pode salvar-se, nem pagar a Deus o seu resgate.
+
+[[v21-48-9]]
+
+^<<v21-48-9,9>>^ Caríssimo é o preço da sua alma, jamais conseguirá
+
+[[v21-48-10]]
+
+^<<v21-48-10,10>>^ prolongar indefinidamente a vida e escapar da morte,
+
+[[v21-48-11]]
+
+^<<v21-48-11,11>>^ porque ele verá morrer o sábio, assim como o néscio e o insensato, deixando a outrem os seus bens.
+
+[[v21-48-12]]
+
+^<<v21-48-12,12>>^ O túmulo será sua eterna morada, sua perpétua habitação, ainda que tenha dado a regiões inteiras o seu nome,
+
+[[v21-48-13]]
+
+^<<v21-48-13,13>>^ pois não permanecerá o homem que vive na opulência: ele é semelhante ao gado que se abate.
+
+[[v21-48-14]]
+
+^<<v21-48-14,14>>^ Este é o destino dos que estultamente em si confiam, tal é o fim dos que só vivem em delícias.^&#42;1^
+
+[[v21-48-15]]
+
+^<<v21-48-15,15>>^ Como um rebanho serão postos no lugar dos mortos; a morte é seu pastor e os justos dominarão sobre eles. Depressa desaparecerão suas figuras, a região dos mortos será sua morada.
+
+[[v21-48-16]]
+
+^<<v21-48-16,16>>^ Deus, porém, livrará minha alma da habitação dos mortos, tomando-me consigo.
+
+[[v21-48-17]]
+
+^<<v21-48-17,17>>^ Não temas quando alguém se torna rico, quando aumenta o luxo de sua casa.
+
+[[v21-48-18]]
+
+^<<v21-48-18,18>>^ Em morrendo, nada levará consigo, nem sua fortuna descerá com ele aos infernos.
+
+[[v21-48-19]]
+
+^<<v21-48-19,19>>^ Ainda que em vida a si se felicitasse: “Hão de te aplaudir pelos bens que granjeaste”.
+
+[[v21-48-20]]
+
+^<<v21-48-20,20>>^ Ele irá para a companhia de seus pais, que nunca mais verão a luz.
+
+[[v21-48-21]]
+
+^<<v21-48-21,21>>^ O homem que vive na opulência e não reflete é semelhante ao gado que se abate.
+
+'''
+
+xref:021-salmos/021-salmos-047.adoc#v21-47-0[&#60; Capítulo Anterior] | <<v21-48-0,Topo>> | xref:021-salmos/021-salmos-049.adoc#v21-49-0[Próximo Capítulo &#62;]

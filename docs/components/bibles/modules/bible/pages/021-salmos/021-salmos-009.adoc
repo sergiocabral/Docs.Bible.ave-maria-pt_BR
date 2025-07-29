@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v21-9-0]]
+=== Salmos, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 9 é um salmo de ação de graças no qual o salmista expressa sua gratidão a Deus por sua proteção e salvação em tempos difíceis. Ele também clama por justiça contra seus inimigos. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 9:
+* Salmo 10:17-18: "O Senhor ouve os desamparados e os conforta; ele protege os estrangeiros e os ajuda a sobreviver. Ele defende os órfãos e as viúvas, mas frustra os planos dos ímpios." Este versículo destaca o cuidado de Deus pelos desamparados e sua justiça contra os ímpios, temas presentes em Salmo 9.
+* Salmo 18:2: "O Senhor é minha rocha, minha fortaleza e meu libertador; meu Deus é minha rocha, em quem encontro proteção. Ele é meu escudo, o poder que me salva e meu lugar seguro." O salmista de Salmo 9 também reconhece a proteção de Deus contra seus inimigos, o que é enfatizado neste versículo.
+* Salmo 31:7: "Eu confio em ti, Senhor; digo: 'Tu és o meu Deus'." Salmo 9 é uma expressão de confiança no Senhor, e este versículo destaca a importância da confiança em Deus para a salvação e a proteção.
+* Salmo 34:17: "Os justos clamam por ajuda, e o Senhor os ouve; ele os livra de todas as suas tribulações." O salmista de Salmo 9 também clama por ajuda e é salvo pelo Senhor, assim como os justos mencionados neste versículo.
+* Salmo 106:1: "Aleluia! Deem graças ao Senhor, pois ele é bom; seu amor dura para sempre." O Salmo 9 é um salmo de ação de graças no qual o salmista expressa sua gratidão a Deus por sua proteção e salvação. Este versículo enfatiza a importância de dar graças a Deus por suas bênçãos.
+****
+
+[[v21-9-1]]
+
+^<<v21-9-1,1>>^ Ao mestre de canto. Segundo a melodia “A morte para o filho”. Salmo de Davi.^&#42;1^
+
+[[v21-9-2]]
+
+^<<v21-9-2,2>>^ Eu vos louvarei, Senhor, de todo o coração, todas as vossas maravilhas narrarei.
+
+[[v21-9-3]]
+
+^<<v21-9-3,3>>^ Em vós eu estremeço de alegria, cantarei vosso nome, ó Altíssimo!
+
+[[v21-9-4]]
+
+^<<v21-9-4,4>>^ Porque meus inimigos recuaram, fraquejaram, pereceram ante a vossa face.
+
+[[v21-9-5]]
+
+^<<v21-9-5,5>>^ Pois tomastes a vós meu direito e minha causa; assentastes, ó justo Juiz, em vosso tribunal.
+
+[[v21-9-6]]
+
+^<<v21-9-6,6>>^ Com efeito, perseguistes as nações, destruístes o ímpio; apagastes, para sempre, o seu nome.
+
+[[v21-9-7]]
+
+^<<v21-9-7,7>>^ Meus inimigos pereceram, consumou-se sua ruína eterna; demolistes suas cidades, sua própria lembrança se acabou.
+
+[[v21-9-8]]
+
+^<<v21-9-8,8>>^ O Senhor, porém, domina eternamente; num trono sólido, ele pronuncia seus julgamentos.
+
+[[v21-9-9]]
+
+^<<v21-9-9,9>>^ Ele mesmo julgará o universo com justiça, com equidade pronunciará sentença sobre os povos.
+
+[[v21-9-10]]
+
+^<<v21-9-10,10>>^ O Senhor torna-se refúgio para o oprimido, uma defesa oportuna para os tempos de perigo.
+
+[[v21-9-11]]
+
+^<<v21-9-11,11>>^ Aqueles que conheceram vosso nome confiarão em vós, porque, Senhor, jamais abandonais quem vos procura.
+
+[[v21-9-12]]
+
+^<<v21-9-12,12>>^ Salmodiai ao Senhor, que habita em Sião; proclamai seus altos feitos entre os povos.
+
+[[v21-9-13]]
+
+^<<v21-9-13,13>>^ Porque, vingador do sangue derramado, ele se lembra deles e não esqueceu o clamor dos infelizes.
+
+[[v21-9-14]]
+
+^<<v21-9-14,14>>^ Tende piedade de mim, Senhor, vede a miséria a que me reduziram os inimigos; arrancai-me das portas da morte,
+
+[[v21-9-15]]
+
+^<<v21-9-15,15>>^ para que nas portas da filha de Sião eu publique vossos louvores, e me regozije de vosso auxílio.^&#42;1^
+
+[[v21-9-16]]
+
+^<<v21-9-16,16>>^ Caíram as nações no fosso que cavaram; prenderam-se seus pés na armadilha que armaram.
+
+[[v21-9-17]]
+
+^<<v21-9-17,17>>^ O Senhor se manifestou e fez justiça, capturando o ímpio em suas próprias redes.
+
+[[v21-9-18]]
+
+^<<v21-9-18,18>>^ Que os pecadores caiam na região dos mortos, todos esses povos que olvidaram a Deus.
+
+[[v21-9-19]]
+
+^<<v21-9-19,19>>^ O pobre, porém, não ficará no eterno esquecimento; nem a esperança dos aflitos será frustrada para sempre.
+
+[[v21-9-20]]
+
+^<<v21-9-20,20>>^ Levantai-vos, Senhor! Não seja o homem quem tenha a última palavra! Que diante de vós sejam julgadas as nações.
+
+[[v21-9-21]]
+
+^<<v21-9-21,21>>^ Enchei-as de pavor, Senhor, para que saibam que não passam de simples homens.
+
+[[v21-9-22]]
+
+^<<v21-9-22,22>>^ (l) Senhor, por que ficais tão longe? Por que vos ocultais nas horas de angústia?
+
+[[v21-9-23]]
+
+^<<v21-9-23,23>>^ (2) Enquanto o ímpio se enche de orgulho, é vexado o infeliz com as tribulações que aquele tramou.
+
+[[v21-9-24]]
+
+^<<v21-9-24,24>>^ (3) O pecador se gloria até de sua cupidez, o cobiçoso blasfema e despreza a Deus.
+
+[[v21-9-25]]
+
+^<<v21-9-25,25>>^ (4) Em sua arrogância, o ímpio diz: “Não há castigo, Deus não existe”. É tudo e só o que ele pensa.
+
+[[v21-9-26]]
+
+^<<v21-9-26,26>>^ (5) Em todos os tempos, próspero é o curso de sua vida; vossos juízos estão acima de seu alcance; quanto a seus adversários, os despreza a todos.
+
+[[v21-9-27]]
+
+^<<v21-9-27,27>>^ (6) Diz no coração: “Nada me abalará, jamais terei má sorte”.
+
+[[v21-9-28]]
+
+^<<v21-9-28,28>>^ (7) De maledicência, astúcia e dolo sua boca está cheia;^&#42;1^ em sua língua só existem palavras injuriosas e ofensivas.
+
+[[v21-9-29]]
+
+^<<v21-9-29,29>>^ (8) Põe-se de emboscada na vizinhança dos povoados, mata o inocente em lugares ocultos; seus olhos vigiam o infeliz.
+
+[[v21-9-30]]
+
+^<<v21-9-30,30>>^ (9) Como um leão no covil, espreita, no escuro; arma ciladas para surpreender o infeliz, colhe-o, na sua rede, e o arrebata.
+
+[[v21-9-31]]
+
+^<<v21-9-31,31>>^ (10) Curva-se, agacha-se no chão, e os infortunados caem em suas garras.
+
+[[v21-9-32]]
+
+^<<v21-9-32,32>>^ (11) Depois diz em seu coração: “Deus depressa se esquecerá, ele voltará a cabeça, nunca vê nada”.
+
+[[v21-9-33]]
+
+^<<v21-9-33,33>>^ (12) Levantai-vos, Senhor! Estendei a mão, e não vos esqueçais dos pobres.
+
+[[v21-9-34]]
+
+^<<v21-9-34,34>>^ (13) Por que razão o ímpio despreza Deus e diz em seu coração “Não haverá castigo?”
+
+[[v21-9-35]]
+
+^<<v21-9-35,35>>^ (14) Entretanto, vós vedes tudo: observais os que penam e sofrem, a fim de tomar a causa deles em vossas mãos. É a vós que se abandona o infortunado, sois vós o amparo do órfão.
+
+[[v21-9-36]]
+
+^<<v21-9-36,36>>^ (15) Esmagai, pois, o braço do pecador perverso; persegui sua malícia, para que não subsista.
+
+[[v21-9-37]]
+
+^<<v21-9-37,37>>^ (16) O Senhor é rei eterno, as nações pagãs desaparecerão de seu domínio.
+
+[[v21-9-38]]
+
+^<<v21-9-38,38>>^ (17) Senhor, ouvistes os desejos dos humildes, confortastes-lhes o coração e os atendestes.
+
+[[v21-9-39]]
+
+^<<v21-9-39,39>>^ (18) Para que justiça seja feita ao órfão e ao oprimido, nem mais incuta terror o homem tirado do pó.
+
+'''
+
+xref:021-salmos/021-salmos-008.adoc#v21-8-0[&#60; Capítulo Anterior] | <<v21-9-0,Topo>> | xref:021-salmos/021-salmos-010.adoc#v21-10-0[Próximo Capítulo &#62;]

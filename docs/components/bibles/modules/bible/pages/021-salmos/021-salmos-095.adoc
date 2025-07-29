@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v21-95-0]]
+=== Salmos, 95
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 95 é um convite à adoração e louvor a Deus por sua grandeza, poder e cuidado pelo seu povo. Os versículos abaixo foram selecionados por tratar dos mesmos temas de adoração, louvor e reconhecimento da soberania de Deus.
+* Isaías 25:1: "Ó Senhor, tu és o meu Deus; exaltar-te-ei e louvarei o teu nome, porque fizeste maravilhas; os teus conselhos antigos são verdade e firmeza." Este verso é uma expressão de adoração e louvor a Deus por suas maravilhas e pela verdade e firmeza de seus conselhos antigos, assim como o Salmo 95.
+* Apocalipse 5:13: "E ouvi a toda criatura que está no céu, e na terra, e debaixo da terra, e que estão no mar, e a todas as coisas que neles há, dizer: Ao que está assentado sobre o trono, e ao Cordeiro, seja o louvor, e a honra, e a glória, e o domínio pelos séculos dos séculos." Esse verso também é uma expressão de adoração e louvor a Deus e ao Cordeiro (Jesus Cristo) por sua soberania e domínio.
+* 1 Crônicas 16:29: "Tributai ao Senhor a glória devida ao seu nome; trazei oferendas e entrai nos seus átrios." Esse verso exorta as pessoas a dar ao Senhor a glória que lhe é devida e a oferecer oferendas em sua casa de adoração, como no Salmo 95.
+* Isaías 12:4: "E direis naquele dia: Dai graças ao Senhor, invocai o seu nome, tornai manifestos os seus feitos entre os povos, proclamai que o seu nome é exaltado." Este verso é uma exortação para proclamar o nome de Deus e seus feitos a todos os povos, assim como no Salmo 95.
+* Hebreus 4:7: "de novo determina um certo dia, Hoje, dizendo por Davi, depois de tanto tempo, como antes fora dito: Hoje, se ouvirdes a sua voz, não endureçais os vossos corações." Este verso faz referência ao chamado de Deus para adorá-lo hoje, em um convite similar ao do Salmo 95 para ouvir sua voz e não endurecer o coração.
+****
+
+[[v21-95-1]]
+
+^<<v21-95-1,1>>^ Cantai ao Senhor um cântico novo. Cantai ao Senhor, terra inteira.^&#42;1^
+
+[[v21-95-2]]
+
+^<<v21-95-2,2>>^ Cantai ao Senhor e bendizei o seu nome, anunciai cada dia a salvação que ele nos trouxe.
+
+[[v21-95-3]]
+
+^<<v21-95-3,3>>^ Proclamai às nações a sua glória, a todos os povos as suas maravilhas.
+
+[[v21-95-4]]
+
+^<<v21-95-4,4>>^ Porque o Senhor é grande e digno de todo o louvor, o único temível de todos os deuses.
+
+[[v21-95-5]]
+
+^<<v21-95-5,5>>^ Porque os deuses dos pagãos, sejam quais forem, não passam de ídolos. Mas foi o Senhor quem criou os céus.
+
+[[v21-95-6]]
+
+^<<v21-95-6,6>>^ Em seu semblante, a majestade e a beleza; em seu santuário, o poder e o esplendor.
+
+[[v21-95-7]]
+
+^<<v21-95-7,7>>^ Tributai ao Senhor, famílias dos povos, tributai ao Senhor a glória e a honra,
+
+[[v21-95-8]]
+
+^<<v21-95-8,8>>^ tributai ao Senhor a glória devida ao seu nome. Trazei oferendas e entrai nos seus átrios.
+
+[[v21-95-9]]
+
+^<<v21-95-9,9>>^ Adorai o Senhor, com ornamentos sagrados. Diante dele estremece a terra inteira.
+
+[[v21-95-10]]
+
+^<<v21-95-10,10>>^ Dizei às nações: “O Senhor é rei”. E (a terra) não vacila, porque ele a sustém. Governa os povos com justiça.
+
+[[v21-95-11]]
+
+^<<v21-95-11,11>>^ Alegrem-se os céus e exulte a terra, retumbe o oceano e o que ele contém,
+
+[[v21-95-12]]
+
+^<<v21-95-12,12>>^ regozijem-se os campos e tudo o que existe neles. Jubilem todas as árvores das florestas
+
+[[v21-95-13]]
+
+^<<v21-95-13,13>>^ com a presença do Senhor, que vem, pois ele vem para governar a terra: julgará o mundo com justiça, e os povos segundo, a sua verdade.
+
+'''
+
+xref:021-salmos/021-salmos-094.adoc#v21-94-0[&#60; Capítulo Anterior] | <<v21-95-0,Topo>> | xref:021-salmos/021-salmos-096.adoc#v21-96-0[Próximo Capítulo &#62;]

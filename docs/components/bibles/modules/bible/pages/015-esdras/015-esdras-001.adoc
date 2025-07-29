@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v15-1-0]]
+=== Esdras, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Esdras 1 relata a restauração do templo em Jerusalém após a captividade babilônica. O capítulo descreve como Ciro, rei da Pérsia, emitiu um decreto permitindo que os judeus retornassem a Jerusalém e reconstruíssem o templo. O capítulo também descreve como Ciro devolveu os utensílios sagrados do templo que haviam sido saqueados pelos babilônios.
+* 2 Crônicas 36:23: "Assim diz Ciro, rei da Pérsia: O SENHOR Deus dos céus me deu todos os reinos da terra, e me encarregou de lhe edificar uma casa em Jerusalém, que está em Judá. Quem há entre vós de todo o seu povo? O SENHOR seu Deus seja com ele, e suba." Este versículo descreve como Ciro, como instrumento de Deus, permitiu que os judeus reconstruíssem o templo em Jerusalém.
+* Isaías 44:28: "Que diz de Ciro: É meu pastor, e cumprirá tudo o que me apraz, dizendo também a Jerusalém: Tu serás edificada; e ao templo: Tu serás fundado." Este versículo profetiza a restauração de Jerusalém e a reconstrução do templo pelo rei Ciro, que é chamado de pastor do povo de Deus.
+* Esdras 6:14: "E os anciãos dos judeus iam edificando e prosperando, segundo a profecia do profeta Ageu e de Zacarias, filho de Ido. Edificaram e terminaram, por ordem do Deus de Israel, e por ordem de Ciro, e de Dario, e de Artaxerxes, reis da Pérsia." Esse versículo destaca a importância das profecias dos profetas Ageu e Zacarias, que encorajaram os judeus a reconstruírem o templo em Jerusalém.
+* Ageu 1:8: "Subi ao monte, e trazei madeira, e edificai a casa; e dela me agradarei, e serei glorificado, diz o SENHOR." Esse versículo é uma mensagem de Ageu ao povo de Judá, exortando-os a reconstruir o templo em Jerusalém e prometendo a aprovação de Deus se eles fizerem isso.
+* Ageu 2:9: "A glória desta última casa será maior do que a da primeira, diz o SENHOR dos Exércitos, e neste lugar darei a paz, diz o SENHOR dos Exércitos." Este versículo profetiza que a glória do templo reconstruído será maior do que a do templo original e que Deus concederá paz ao povo que o adora.
+****
+
+[[v15-1-1]]
+
+^<<v15-1-1,1>>^ No primeiro ano de Ciro, rei da Pérsia, para que se cumprisse a profecia posta pelo Senhor na boca de Jeremias, o Senhor suscitou o espírito de Ciro, rei da Pérsia, o qual mandou fazer em todo o seu reino, de viva voz e por escrito, a seguinte proclamação:
+
+[[v15-1-2]]
+
+^<<v15-1-2,2>>^ “Assim fala Ciro, rei da Pérsia: O Senhor, Deus do céu, deu-me todos os reinos da terra e encarregou-me de construir-lhe um templo em Jerusalém, que fica na terra de Judá.
+
+[[v15-1-3]]
+
+^<<v15-1-3,3>>^ Quem é dentre vós pertencente ao seu povo, que seu Deus o acompanhe, suba a Jerusalém que fica na terra de Judá e construa o Templo do Senhor, Deus de Israel, o Deus que reside em Jerusalém.
+
+[[v15-1-4]]
+
+^<<v15-1-4,4>>^ Que todos os sobreviventes de Judá onde quer que residam, sejam providos pelos habitantes da localidade onde se encontrarem, de prata, ouro, cereais e gado, bem como de oferendas voluntárias para o templo do Deus que reside em Jerusalém”.
+
+[[v15-1-5]]
+
+^<<v15-1-5,5>>^ Então, os chefes de família de Judá e de Benjamim, bem como todos os sacerdotes e os levitas, principalmente todos aqueles cujo espírito Deus havia tocado, prepararam-se para ir reedificar o Templo do Senhor em Jerusalém.
+
+[[v15-1-6]]
+
+^<<v15-1-6,6>>^ Todos os que habitavam pelas redondezas ajudaram-nos, dando-lhes prata, ouro, bens diversos, gado, cereais e coisas preciosas, além das outras ofertas voluntárias.
+
+[[v15-1-7]]
+
+^<<v15-1-7,7>>^ O rei Ciro entregou também os utensílios que Nabucodonosor tinha trazido do Templo do Senhor em Jerusalém e tinha colocado no templo de seu deus.
+
+[[v15-1-8]]
+
+^<<v15-1-8,8>>^ Ciro, rei da Pérsia, mandou-os entregar pelas mãos de Mitridates, o tesoureiro, o qual os entregou a Sasabassar, príncipe de Judá.
+
+[[v15-1-9]]
+
+^<<v15-1-9,9>>^ Eis o número deles: trinta bacias de ouro, mil bacias de prata, vinte e nove facas, trinta taças de ouro,
+
+[[v15-1-10]]
+
+^<<v15-1-10,10>>^ quatrocentas e dez taças de prata e mil outros utensílios.
+
+[[v15-1-11]]
+
+^<<v15-1-11,11>>^ Todos os utensílios de ouro e de prata eram em número de cinco mil e quatrocentos. Tudo levou Sasabassar quando os exilados voltaram da Babilônia para Jerusalém.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-036.adoc#v14-36-0[&#60; Capítulo Anterior] | <<v15-1-0,Topo>> | xref:015-esdras/015-esdras-002.adoc#v15-2-0[Próximo Capítulo &#62;]

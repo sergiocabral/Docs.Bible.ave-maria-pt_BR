@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v50-15-0]]
+=== São João, 15
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 15 de João contém as palavras de Jesus sobre a videira verdadeira e seus ramos. Ele ensina a importância de permanecer nele e nos seus mandamentos para produzir frutos. Além disso, ele fala sobre o amor que deve existir entre seus discípulos e que o mundo os odiará por causa dele. Abaixo estão cinco versículos relacionados aos temas abordados em João 15:
+* Filipenses 4:13: "Tudo posso naquele que me fortalece." Este versículo fala sobre a importância de confiar em Deus para nos dar força em todas as situações, assim como Jesus enfatiza a importância de permanecer nele para dar frutos.
+* Colossenses 1:10: "De modo que possais andar dignamente diante do Senhor, agradando-lhe em tudo, frutificando em toda boa obra, e crescendo no conhecimento de Deus." Assim como Jesus instrui seus discípulos a permanecerem nele para dar frutos, Paulo também enfatiza a importância de frutificar em boas obras e crescer no conhecimento de Deus.
+* 1 João 2:6: "Aquele que diz que permanece nele, esse deve também andar assim como ele andou." Este versículo destaca a importância de seguir o exemplo de Jesus e andar em seus caminhos para permanecer nele.
+* João 17:14: "Eu lhes dei a tua palavra, e o mundo os odiou, porque não são do mundo, assim como eu não sou do mundo." Assim como Jesus ensina que o mundo odiará seus discípulos por causa do amor que têm uns pelos outros, este versículo destaca a separação entre os seguidores de Cristo e o mundo.
+* 1 João 4:7: "Amados, amemo-nos uns aos outros, porque o amor é de Deus; e todo o que ama é nascido de Deus e conhece a Deus." Este versículo enfatiza a importância do amor entre os seguidores de Cristo, assim como Jesus ensina em João 15:12-13 que eles devem amar uns aos outros como ele os amou.
+****
+
+[[v50-15-1]]
+
+^<<v50-15-1,1>>^ “Eu sou a videira verdadeira, e meu Pai é o agricultor. Todo ramo que não der fruto em mim, ele o cortará;
+
+[[v50-15-2]]
+
+^<<v50-15-2,2>>^ e podará todo o que der fruto, para que produza mais fruto.
+
+[[v50-15-3]]
+
+^<<v50-15-3,3>>^ Vós já estais puros pela palavra que vos tenho anunciado.
+
+[[v50-15-4]]
+
+^<<v50-15-4,4>>^ Permanecei em mim e eu permanecerei em vós. O ramo não pode dar fruto por si mesmo, se não permanecer na videira. Assim também vós: não podeis tampouco dar fruto, se não permanecerdes em mim.
+
+[[v50-15-5]]
+
+^<<v50-15-5,5>>^ Eu sou a videira; vós, os ramos. Quem permanecer em mim e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer.
+
+[[v50-15-6]]
+
+^<<v50-15-6,6>>^ Se alguém não permanecer em mim será lançado fora, como o ramo. Ele secará e hão de ajuntá-lo e lançá-lo ao fogo, e será queimado.
+
+[[v50-15-7]]
+
+^<<v50-15-7,7>>^ Se permanecerdes em mim, e as minhas palavras permanecerem em vós, pedireis tudo o que quiserdes e vos será feito.
+
+[[v50-15-8]]
+
+^<<v50-15-8,8>>^ Nisso é glorificado meu Pai, para que deis muito fruto e vos torneis meus discípulos.”
+
+[[v50-15-9]]
+
+^<<v50-15-9,9>>^ “Como o Pai me ama, assim também eu vos amo. Perseverai no meu amor.
+
+[[v50-15-10]]
+
+^<<v50-15-10,10>>^ Se guardardes os meus mandamentos, sereis constantes no meu amor, como também eu guardei os mandamentos de meu Pai e persisto no seu amor.
+
+[[v50-15-11]]
+
+^<<v50-15-11,11>>^ Disse-vos essas coisas para que a minha alegria esteja em vós, e a vossa alegria seja completa.”
+
+[[v50-15-12]]
+
+^<<v50-15-12,12>>^ “Este é o meu mandamento: amai-vos uns aos outros, como eu vos amo.
+
+[[v50-15-13]]
+
+^<<v50-15-13,13>>^ Ninguém tem maior amor do que aquele que dá a sua vida por seus amigos.
+
+[[v50-15-14]]
+
+^<<v50-15-14,14>>^ Vós sois meus amigos, se fazeis o que vos mando.
+
+[[v50-15-15]]
+
+^<<v50-15-15,15>>^ Já não vos chamo servos, porque o servo não sabe o que faz seu senhor. Mas chamei-vos amigos, pois vos dei a conhecer tudo quanto ouvi de meu Pai.
+
+[[v50-15-16]]
+
+^<<v50-15-16,16>>^ Não fostes vós que me escolhestes, mas eu vos escolhi e vos constituí para que vades e produzais fruto, e o vosso fruto permaneça. Eu assim vos constituí, a fim de que tudo quanto pedirdes ao Pai em meu nome, ele vos conceda.
+
+[[v50-15-17]]
+
+^<<v50-15-17,17>>^ O que vos mando é que vos ameis uns aos outros.”
+
+[[v50-15-18]]
+
+^<<v50-15-18,18>>^ “Se o mundo vos odeia, sabei que me odiou a mim antes que a vós.
+
+[[v50-15-19]]
+
+^<<v50-15-19,19>>^ Se fôsseis do mundo, o mundo vos amaria como sendo seus. Como, porém, não sois do mundo, mas do mundo vos escolhi, por isso o mundo vos odeia.
+
+[[v50-15-20]]
+
+^<<v50-15-20,20>>^ Lembrai-vos da palavra que vos disse: O servo não é maior do que o seu senhor. Se me perseguiram, também vos hão de perseguir. Se guardaram a minha palavra, hão de guardar também a vossa.
+
+[[v50-15-21]]
+
+^<<v50-15-21,21>>^ Mas vos farão tudo isso por causa do meu nome, porque não conhecem aquele que me enviou.
+
+[[v50-15-22]]
+
+^<<v50-15-22,22>>^ Se eu não viesse e não lhes tivesse falado, não teriam pecado; mas agora não há desculpa para o seu pecado.
+
+[[v50-15-23]]
+
+^<<v50-15-23,23>>^ Aquele que me odeia odeia também a meu Pai.
+
+[[v50-15-24]]
+
+^<<v50-15-24,24>>^ Se eu não tivesse feito entre eles obras, como nenhum outro fez, não teriam pecado; mas agora as viram e odiaram a mim e a meu Pai.
+
+[[v50-15-25]]
+
+^<<v50-15-25,25>>^ Mas foi para que se cumpra a palavra que está escrita na sua Lei: Odiaram-me sem motivo (Sl 34,19; 68,5).
+
+[[v50-15-26]]
+
+^<<v50-15-26,26>>^ Quando vier o Paráclito, que vos enviarei da parte do Pai, o Espírito da Verdade, que procede do Pai, ele dará testemunho de mim.
+
+[[v50-15-27]]
+
+^<<v50-15-27,27>>^ Também vós dareis testemunho, porque estais comigo desde o princípio.”
+
+'''
+
+xref:050-sao-joao/050-sao-joao-014.adoc#v50-14-0[&#60; Capítulo Anterior] | <<v50-15-0,Topo>> | xref:050-sao-joao/050-sao-joao-016.adoc#v50-16-0[Próximo Capítulo &#62;]

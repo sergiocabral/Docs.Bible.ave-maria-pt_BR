@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v7-17-0]]
+=== Juízes, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 17 de Juízes relata a história de um homem chamado Mica que fez para si mesmo um ídolo e uma casa de deuses. Ele também contratou um levita para ser seu sacerdote particular. Essa história ilustra a falta de liderança espiritual na época dos juízes, quando cada um fazia o que achava certo aos seus próprios olhos.
+* Provérbios 14:12: "Há caminho que ao homem parece direito, mas ao cabo dá em caminhos de morte." Este versículo alerta sobre a ilusão de seguir nossas próprias vontades e desejos, o que pode levar a consequências desastrosas.
+* Provérbios 3:5-6: "Confia no SENHOR de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo enfatiza a importância de confiar em Deus e de buscar Sua vontade em nossas vidas, em vez de seguir nossos próprios caminhos.
+* Jeremias 10:14: "Todo homem é estúpido, sem conhecimento; todo ourives é envergonhado pela imagem esculpida; porque as suas imagens são falsas, e nelas não há espírito." Este versículo condena a adoração de ídolos e enfatiza a importância de reconhecer a verdadeira natureza de Deus.
+* Atos 17:24-25: "O Deus que fez o mundo e tudo o que nele há, sendo Senhor do céu e da terra, não habita em templos feitos por mãos de homens; nem é servido por mãos humanas, como se de alguma coisa precisasse; pois ele mesmo é quem a todos dá vida, respiração e tudo mais;" Este versículo destaca a natureza transcendente de Deus e a inutilidade de tentar limitá-Lo a objetos ou locais físicos.
+* Salmos 81:9: "Não terás outros deuses diante de mim. Não farás para ti imagem de escultura, nem semelhança alguma do que há em cima no céu, nem embaixo na terra, nem nas águas debaixo da terra." Este versículo é um lembrete da proibição da adoração de ídolos e da importância de colocar Deus em primeiro lugar em nossas vidas.
+****
+
+[[v7-17-1]]
+
+^<<v7-17-1,1>>^ Havia na montanha de Efraim um homem chamado Micas.
+
+[[v7-17-2]]
+
+^<<v7-17-2,2>>^ Ele disse um dia à sua mãe: “Os mil e cem siclos de prata que te roubaram e pelos quais lançaste uma maldição aos meus ouvidos, esse dinheiro está em meu poder; fui eu que os roubei”. Sua mãe respondeu: “Abençoado seja o meu filho pelo Senhor!”.
+
+[[v7-17-3]]
+
+^<<v7-17-3,3>>^ Devolveu, pois, os mil e cem siclos de prata à sua mãe, que lhe disse: “Da minha mão eu os consagro ao Senhor a favor de meu filho, para que se faça deles um ídolo fundido. Toma: ei-los aqui”.
+
+[[v7-17-4]]
+
+^<<v7-17-4,4>>^ Micas entregou o dinheiro à sua mãe e ela tomou duzentos siclos de prata que mandou entregar ao fundidor. Fez o ourives com essa prata um ídolo fundido, que foi colocado na casa de Micas.
+
+[[v7-17-5]]
+
+^<<v7-17-5,5>>^ E Micas teve, assim, uma capela. Mandou fazer um efod e um terafim e consagrou um de seus filhos para servir-lhe de sacerdote.
+
+[[v7-17-6]]
+
+^<<v7-17-6,6>>^ Naquele tempo não havia rei em Israel, e cada um fazia o que lhe parecia melhor.
+
+[[v7-17-7]]
+
+^<<v7-17-7,7>>^ Ora, aconteceu que um adolescente de Belém de Judá, da tribo de Judá o qual era levita e morava ali,
+
+[[v7-17-8]]
+
+^<<v7-17-8,8>>^ partiu da cidade de Belém de Judá para procurar uma morada. Seguindo o seu caminho, chegou à montanha de Efraim, à casa de Micas.
+
+[[v7-17-9]]
+
+^<<v7-17-9,9>>^ “De onde vens?” – perguntou-lhe este –. “De Belém de Judá – respondeu o levita – e viajo em busca de um lugar onde me fixar.”
+
+[[v7-17-10]]
+
+^<<v7-17-10,10>>^ Micas disse-lhe: “Fica comigo. Serás para mim um pai e um sacerdote; te darei dez siclos de prata por ano, vestes suficientes e alimento”.
+
+[[v7-17-11]]
+
+^<<v7-17-11,11>>^ O jovem levita condescendeu em habitar na casa daquele homem, que o tratou como um de seus filhos.
+
+[[v7-17-12]]
+
+^<<v7-17-12,12>>^ Micas pô-lo em suas funções e o jovem serviu-lhe de sacerdote, residindo em sua própria casa.
+
+[[v7-17-13]]
+
+^<<v7-17-13,13>>^ “Agora – disse Micas – estou seguro de que o Senhor me abençoará, tendo eu esse levita por sacerdote.”
+
+'''
+
+xref:007-juizes/007-juizes-016.adoc#v7-16-0[&#60; Capítulo Anterior] | <<v7-17-0,Topo>> | xref:007-juizes/007-juizes-018.adoc#v7-18-0[Próximo Capítulo &#62;]

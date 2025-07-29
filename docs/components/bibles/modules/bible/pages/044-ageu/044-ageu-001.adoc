@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v44-1-0]]
+=== Ageu, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 1 de Ageu começa com uma repreensão de Deus ao povo de Judá por terem negligenciado a reconstrução do templo, enquanto trabalhavam em suas próprias casas e negócios. O profeta exorta o povo a voltar a sua atenção para o templo e para o serviço de Deus, prometendo que a bênção de Deus virá sobre eles. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Ageu 1:
+* Malaquias 3:10: "Tragam o dízimo todo ao depósito do templo, para que haja comida em minha casa. Ponham-me à prova", diz o Senhor dos Exércitos, "e vejam se não vou abrir as comportas dos céus e derramar sobre vocês tantas bênçãos que nem terão onde guardá-las." Este verso fala da importância de trazer o dízimo e as ofertas para o templo de Deus, assim como Ageu exorta o povo a reconstruir o templo.
+* Esdras 6:14: "E os líderes dos judeus continuaram a construir e tiveram sucesso, encorajados pela mensagem dos profetas Ageu e Zacarias, filho de Ido. Terminaram a construção conforme a ordem do Deus de Israel e conforme o decreto de Ciro, Dario e Artaxerxes, reis da Pérsia." Este verso fala sobre a reconstrução do templo que Ageu está exortando o povo a realizar.
+* 1 Crônicas 29:3: "Além disso, porque tenho o meu coração no templo do meu Deus, dou do meu próprio tesouro ouro e prata para a construção do templo do meu Deus, além de tudo o que preparei para o santuário." Este verso fala sobre a dedicação pessoal que é necessária para a construção do templo, assim como Ageu exorta o povo a voltar sua atenção para o templo de Deus.
+* Neemias 13:10: "Eu descobri que os quinhões dos levitas não estavam sendo entregues, de modo que os levitas e os cantores que realizavam o trabalho tinham fugido cada um para sua terra." Este verso fala sobre a negligência do povo em cuidar das necessidades do templo e dos servos de Deus, assim como Ageu exorta o povo a se arrepender da sua negligência.
+* Isaías 55:2: "Por que gastar dinheiro naquilo que não é pão, e o seu trabalho árduo naquilo que não satisfaz? Escutem-me com atenção e comam o que é bom, e vocês terão prazer na mais fina das comidas." Este verso fala sobre a importância de colocar as prioridades corretas e se concentrar nas coisas que realmente importam, assim como Ageu exorta o povo a priorizar a reconstrução do templo e o serviço a Deus.
+****
+
+[[v44-1-1]]
+
+^<<v44-1-1,1>>^ No segundo ano do reinado de Dario, no primeiro dia do sexto mês, a palavra do Senhor foi dirigida pelo profeta Ageu ao governador de Judá, Zorobabel, filho de Salatiel, e ao sumo sacerdote Josué, filho de Josedec, nestes termos:^&#42;1^
+
+[[v44-1-2]]
+
+^<<v44-1-2,2>>^ “Eis o que diz o Senhor dos exércitos: este povo diz: não é ainda chegado o momento de reconstruir a casa do Senhor”.
+
+[[v44-1-3]]
+
+^<<v44-1-3,3>>^ E a palavra do Senhor foi transmitida pelo profeta Ageu:^&#42;1^
+
+[[v44-1-4]]
+
+^<<v44-1-4,4>>^ “É então o momento de habitardes em casas confortáveis, estando esta casa em ruínas? Eis o que declara o Senhor dos exércitos:^&#42;1^
+
+[[v44-1-5]]
+
+^<<v44-1-5,5>>^ considerai o que fazeis!
+
+[[v44-1-6]]
+
+^<<v44-1-6,6>>^ Semeais muito e recolheis pouco; comeis e não vos saciais; bebeis e não chegais a apagar a vossa sede; vestis, mas não vos aqueceis; e o operário guarda o seu salário em saco roto!
+
+[[v44-1-7]]
+
+^<<v44-1-7,7>>^ Assim fala o Senhor dos exércitos: refleti no que fazeis!^&#42;1^
+
+[[v44-1-8]]
+
+^<<v44-1-8,8>>^ Subi à montanha, trazei madeira e reconstruí a minha casa; ela me será agradável e nela serei glorificado, – oráculo do Senhor.
+
+[[v44-1-9]]
+
+^<<v44-1-9,9>>^ Esperastes uma abundante colheita e esta foi magra; dissipei com um sopro o que queríeis armazenar. Por quê? – oráculo do Senhor. Porque minha casa está em ruínas, enquanto cada um de vós só tem cuidado da sua.
+
+[[v44-1-10]]
+
+^<<v44-1-10,10>>^ Por isso, o céu negou o seu orvalho e a terra, os seus frutos.
+
+[[v44-1-11]]
+
+^<<v44-1-11,11>>^ Sequei terras e colinas, trigo, mosto e óleo, todo o fruto da terra, homens e animais, tudo o que produz o trabalho de vossas mãos”.
+
+[[v44-1-12]]
+
+^<<v44-1-12,12>>^ Zorobabel, filho de Salatiel, com o sumo sacerdote Josué, filho de Josedec, e todo o resto do povo, ouviram a voz do Senhor, seu Deus, e as palavras que lhes dirigiu o profeta Ageu da parte do Senhor. E todo o povo temeu o Senhor.
+
+[[v44-1-13]]
+
+^<<v44-1-13,13>>^ Ageu, enviado do Senhor, falou ao povo segundo o mandato que ele tinha recebido do Senhor: “Estou convosco – oráculo do Senhor”.
+
+[[v44-1-14]]
+
+^<<v44-1-14,14>>^ Então, o Senhor inspirou coragem a Zorobabel, filho de Salatiel, governador de Judá, e ao sumo sacerdote Josué, filho de Josedec, bem como a todo o resto do povo: todos puseram-se a trabalhar na construção da casa do Senhor dos exércitos, seu Deus,
+
+[[v44-1-15]]
+
+^<<v44-1-15,15>>^ aos vinte e quatro dias do sexto mês.
+
+'''
+
+xref:043-sofonias/043-sofonias-003.adoc#v43-3-0[&#60; Capítulo Anterior] | <<v44-1-0,Topo>> | xref:044-ageu/044-ageu-002.adoc#v44-2-0[Próximo Capítulo &#62;]

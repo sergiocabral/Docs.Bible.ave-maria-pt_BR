@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v50-9-0]]
+=== São João, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 9 do Evangelho de João narra a cura de um homem cego de nascença por Jesus e como isso desencadeia um grande conflito com os fariseus, que questionam a autoridade de Jesus. Além disso, o capítulo também aborda a questão do pecado e da cegueira espiritual. Seguem abaixo cinco versículos relacionados com esses temas:
+* Salmos 146:8 - "O Senhor dá vista aos cegos; o Senhor levanta os abatidos; o Senhor ama os justos."
+Este versículo mostra que Deus é capaz de curar a cegueira e que Ele se preocupa com os que são oprimidos e necessitados.
+* Isaías 42:7 - "Para abrir os olhos dos cegos, para tirar da prisão os cativos, e do cárcere os que jazem em trevas."
+Neste versículo, Isaías profetiza que o Messias irá curar os cegos e libertar os cativos.
+* Mateus 23:24 - "Guias cegos, que coais o mosquito e engolis o camelo!"
+Jesus usa essa frase para criticar os fariseus que se preocupavam com as pequenas coisas, mas ignoravam os grandes problemas de sua época, como a opressão dos pobres.
+* João 3:19 - "E a condenação é esta: a luz veio ao mundo, e os homens amaram mais as trevas do que a luz, porque as suas obras eram más."
+Este versículo mostra que a razão pela qual as pessoas permanecem em sua cegueira espiritual é porque preferem o pecado e rejeitam a verdade.
+* João 12:40 - "Cegou-lhes os olhos, e endureceu-lhes o coração, para que não vejam com os olhos, nem entendam com o coração, nem se convertam, e eu os cure."
+Este versículo é uma citação de Isaías 6:10 e mostra como a cegueira espiritual pode ser um julgamento divino sobre aqueles que rejeitam a mensagem de Deus.
+****
+
+[[v50-9-1]]
+
+^<<v50-9-1,1>>^ Caminhando, viu Jesus um cego de nascença.
+
+[[v50-9-2]]
+
+^<<v50-9-2,2>>^ Os seus discípulos indagaram dele: “Mestre, quem pecou, este homem ou seus pais, para que nascesse cego?”.
+
+[[v50-9-3]]
+
+^<<v50-9-3,3>>^ Jesus respondeu: “Nem este pecou nem seus pais, mas é necessário que nele se manifestem as obras de Deus.^&#42;1^
+
+[[v50-9-4]]
+
+^<<v50-9-4,4>>^ Enquanto for dia, cumpre-me terminar as obras daquele que me enviou. Virá a noite, na qual já ninguém pode trabalhar.
+
+[[v50-9-5]]
+
+^<<v50-9-5,5>>^ Por isso, enquanto estou no mundo, sou a luz do mundo”.
+
+[[v50-9-6]]
+
+^<<v50-9-6,6>>^ Dito isso, cuspiu no chão, fez um pouco de lodo com a saliva e com o lodo ungiu os olhos do cego.
+
+[[v50-9-7]]
+
+^<<v50-9-7,7>>^ Depois lhe disse: “Vai, lava-te na piscina de Siloé” (esta palavra significa emissário). O cego foi, lavou-se e voltou vendo.
+
+[[v50-9-8]]
+
+^<<v50-9-8,8>>^ Então, os vizinhos e aqueles que antes o tinham visto mendigar, perguntavam: “Não é este aquele que, sentado, mendigava?”.
+
+[[v50-9-9]]
+
+^<<v50-9-9,9>>^ Respondiam alguns: “É ele”. Outros contestavam: “De nenhum modo, é um parecido com ele”. Ele, porém, dizia: “Sou eu mesmo”.
+
+[[v50-9-10]]
+
+^<<v50-9-10,10>>^ Perguntaram-lhe, então: “Como te foram abertos os olhos?”.
+
+[[v50-9-11]]
+
+^<<v50-9-11,11>>^ Respondeu ele: “Aquele homem que se chama Jesus fez lodo, ungiu-me os olhos e disse-me: Vai à piscina de Siloé e lava-te. Fui, lavei-me e vejo”.
+
+[[v50-9-12]]
+
+^<<v50-9-12,12>>^ Interrogaram-no: “Onde está esse homem?”. Respondeu: “Não o sei”.
+
+[[v50-9-13]]
+
+^<<v50-9-13,13>>^ Levaram então o que fora cego aos fariseus.
+
+[[v50-9-14]]
+
+^<<v50-9-14,14>>^ Ora, era sábado quando Jesus fez o lodo e lhe abriu os olhos.
+
+[[v50-9-15]]
+
+^<<v50-9-15,15>>^ Os fariseus indagaram dele novamente de que modo ficara vendo. Respondeu-lhes: “Pôs-me lodo nos olhos, lavei-me e vejo”.
+
+[[v50-9-16]]
+
+^<<v50-9-16,16>>^ Diziam alguns dos fariseus: “Este homem não é o enviado de Deus, pois não guarda o sábado.” Outros replicavam: “Como pode um pecador fazer tais prodígios?”. E havia desacordo entre eles.
+
+[[v50-9-17]]
+
+^<<v50-9-17,17>>^ Perguntaram ainda ao cego: “Que dizes tu daquele que te abriu os olhos?” – “É um profeta” – respondeu ele.^&#42;1^
+
+[[v50-9-18]]
+
+^<<v50-9-18,18>>^ Mas os judeus não quiseram admitir que aquele homem tivesse sido cego e que tivesse recobrado a vista, até que chamaram seus pais.
+
+[[v50-9-19]]
+
+^<<v50-9-19,19>>^ E os interrogaram: “É este o vosso filho? Afirmais que ele nasceu cego? Pois como é que agora vê?”.
+
+[[v50-9-20]]
+
+^<<v50-9-20,20>>^ Seus pais responderam: “Sabemos que este é o nosso filho e que nasceu cego.
+
+[[v50-9-21]]
+
+^<<v50-9-21,21>>^ Mas não sabemos como agora ficou vendo, nem quem lhe abriu os olhos. Perguntai-o a ele. Tem idade. Que ele mesmo explique.”
+
+[[v50-9-22]]
+
+^<<v50-9-22,22>>^ Seus pais disseram isso porque temiam os judeus, pois os judeus tinham ameaçado expulsar da sinagoga todo aquele que reconhecesse Jesus como o Cristo.
+
+[[v50-9-23]]
+
+^<<v50-9-23,23>>^ Por isso é que seus pais responderam: “Ele tem idade, perguntai-lho”.
+
+[[v50-9-24]]
+
+^<<v50-9-24,24>>^ Tornaram a chamar o homem que fora cego, dizendo-lhe: “Dá glória a Deus! Nós sabemos que este homem é pecador”.
+
+[[v50-9-25]]
+
+^<<v50-9-25,25>>^ Disse-lhes ele: “Se esse homem é pecador, não o sei... Sei apenas isto: sendo eu antes cego, agora vejo”.
+
+[[v50-9-26]]
+
+^<<v50-9-26,26>>^ Perguntaram-lhe ainda uma vez: “Que foi que ele te fez? Como te abriu os olhos?”.
+
+[[v50-9-27]]
+
+^<<v50-9-27,27>>^ Respondeu-lhes: “Eu já vo-lo disse e não me destes ouvidos. Por que quereis tornar a ouvir? Quereis vós, porventura, tornar-vos também seus discípulos?...”.
+
+[[v50-9-28]]
+
+^<<v50-9-28,28>>^ Então, eles o cobriram de injúrias e lhe disseram: “Tu que és discípulo dele! Nós somos discípulos de Moisés.
+
+[[v50-9-29]]
+
+^<<v50-9-29,29>>^ Sabemos que Deus falou a Moisés, mas deste não sabemos de onde ele é”.
+
+[[v50-9-30]]
+
+^<<v50-9-30,30>>^ Respondeu aquele homem: “O que é de admirar em tudo isso é que não saibais de onde ele é, e entretanto ele me abriu os olhos.
+
+[[v50-9-31]]
+
+^<<v50-9-31,31>>^ Sabemos, porém, que Deus não ouve a pecadores, mas atende a quem lhe presta culto e faz a sua vontade.
+
+[[v50-9-32]]
+
+^<<v50-9-32,32>>^ Jamais se ouviu dizer que alguém tenha aberto os olhos a um cego de nascença.
+
+[[v50-9-33]]
+
+^<<v50-9-33,33>>^ Se esse homem não fosse de Deus, não poderia fazer nada”.
+
+[[v50-9-34]]
+
+^<<v50-9-34,34>>^ Responderam-lhe eles: “Tu nasceste todo em pecado e nos ensinas?...”. E expulsaram-no.
+
+[[v50-9-35]]
+
+^<<v50-9-35,35>>^ Jesus soube que o tinham expulsado e, havendo-o encontrado, perguntou-lhe: “Crês no Filho do Homem?”.
+
+[[v50-9-36]]
+
+^<<v50-9-36,36>>^ Respondeu ele: “Quem é ele, Senhor, para que eu creia nele?”.
+
+[[v50-9-37]]
+
+^<<v50-9-37,37>>^ Disse-lhe Jesus: “Tu o vês, é o mesmo que fala contigo!”.
+
+[[v50-9-38]]
+
+^<<v50-9-38,38>>^ “Creio, Senhor” – disse ele. E, prostrando-se, o adorou.
+
+[[v50-9-39]]
+
+^<<v50-9-39,39>>^ Jesus então disse: “Vim a este mundo para fazer uma discriminação: os que não veem vejam, e os que veem se tornem cegos”.
+
+[[v50-9-40]]
+
+^<<v50-9-40,40>>^ Alguns dos fariseus, que estavam com ele, ouviram-no e perguntaram-lhe: “Também nós somos, acaso, cegos?...”.
+
+[[v50-9-41]]
+
+^<<v50-9-41,41>>^ Respondeu-lhes Jesus: “Se fôsseis cegos, não teríeis pecado, mas agora pretendeis ver, e o vosso pecado subsiste”.
+
+'''
+
+xref:050-sao-joao/050-sao-joao-008.adoc#v50-8-0[&#60; Capítulo Anterior] | <<v50-9-0,Topo>> | xref:050-sao-joao/050-sao-joao-010.adoc#v50-10-0[Próximo Capítulo &#62;]

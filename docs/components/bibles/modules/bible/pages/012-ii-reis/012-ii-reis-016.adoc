@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v12-16-0]]
+=== II Reis, 16
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 16 de 2 Reis trata da história de Acaz, rei de Judá, e sua relação com Tiglate-Pileser, rei da Assíria. Acaz se recusa a se unir a uma coalizão de reinos contra a Assíria, e em vez disso pede ajuda a Tiglate-Pileser. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Reis 16.
+* 2 Reis 15:29: "Nos dias de Peca, rei de Israel, Tiglate-Pileser, rei da Assíria, veio e tomou Ijom, Abel-Bete-Maaca, Janoa, Quedes, Hazor, Gileade, Galiléia, toda a terra de Naftali; e os levou cativos para a Assíria." Este versículo mostra a presença da Assíria na região e sua capacidade de conquistar territórios próximos a Israel e Judá.
+* 2 Reis 15:19: "Então Pul, rei da Assíria, veio contra a terra; e Menaém deu a Pul mil talentos de prata, para que a sua mão fosse com ele e fortalecesse o seu reino em sua mão." Este versículo mostra a política de suborno que Menaém, rei de Israel, adotou em relação à Assíria para se proteger.
+* Isaías 7:2: "Foi dito à casa de Davi: 'A Síria se aliou a Efraim.' Então o coração de Acaz e o coração do seu povo se abalaram como as árvores do bosque são abaladas pelo vento." Este versículo mostra a preocupação de Acaz com a ameaça de uma aliança entre a Síria e Efraim, que poderia representar uma ameaça para Judá.
+* Isaías 7:6: "Vamos subir contra Judá, assediá-lo, e abriremos uma brecha nele, e estabeleceremos um rei no meio dele, sim, o filho de Tabeel." Este versículo mostra a intenção da Síria e de Efraim de invadir Judá e estabelecer um rei de sua escolha.
+* Isaías 7:17: "Mas o Senhor trará sobre ti, sobre o teu povo e sobre a casa de teu pai, dias como nunca houve desde o dia em que Efraim se separou de Judá - até que no final dos dias tu não serás destruído, mas serás salvo." Este versículo mostra a promessa de Deus a Acaz de que ele e seu reino não seriam completamente destruídos, apesar da ameaça de invasão por parte da Síria e de Efraim.
+****
+
+[[v12-16-1]]
+
+^<<v12-16-1,1>>^ No ano dezessete do reinado de Pecá, filho de Romelias, Acaz, filho de Joatão, rei de Judá, começou a reinar.
+
+[[v12-16-2]]
+
+^<<v12-16-2,2>>^ Tinha vinte anos quando começou a reinar e reinou durante dezesseis anos em Jerusalém. Não praticou o que era bom aos olhos do Senhor, seu Deus, como Davi, seu pai, mas seguiu as pegadas dos reis de Israel.
+
+[[v12-16-3]]
+
+^<<v12-16-3,3>>^ Chegou até a passar seu filho pelo fogo, segundo o abominável costume dos povos que o Senhor tinha expulsado de diante dos filhos de Israel.
+
+[[v12-16-4]]
+
+^<<v12-16-4,4>>^ Oferecia sacrifícios e incenso nos lugares altos, nas colinas e debaixo de toda árvore frondosa.
+
+[[v12-16-5]]
+
+^<<v12-16-5,5>>^ Então Rasin, rei da Síria e Pecá, filho de Romelias, rei de Israel, subiram e atacaram Jerusalém; cercaram Acaz, mas não o puderam vencer.
+
+[[v12-16-6]]
+
+^<<v12-16-6,6>>^ Por aquele mesmo tempo, Rasin, rei da Síria, restituiu Elat aos edomitas, depois de ter expulsado dela os filhos de Judá e os edomitas voltaram a Elat, onde estão até o dia de hoje.
+
+[[v12-16-7]]
+
+^<<v12-16-7,7>>^ Acaz tinha enviado delegados a Teglat-Falasar, rei da Assíria, para dizer-lhe: “Eu sou teu servo e teu filho. Vem e livra-me das mãos do rei da Síria e do rei de Israel, que se coligaram contra mim”.
+
+[[v12-16-8]]
+
+^<<v12-16-8,8>>^ Acaz tomou a prata e o ouro que se encontravam no Templo do Senhor e nas reservas do palácio real e mandou-os de presente ao rei da Assíria.
+
+[[v12-16-9]]
+
+^<<v12-16-9,9>>^ Este aquiesceu ao seu pedido: atacou Damasco e apoderou-se dela. Deportou a sua população para Quir e mandou matar Rason.
+
+[[v12-16-10]]
+
+^<<v12-16-10,10>>^ O rei Acaz foi a Damasco para entrevistar-se com Teglat-Falasar, rei da Assíria. Vendo o altar que se encontrava em Damasco, o rei Acaz mandou ao sacerdote Urias um modelo detalhado do mesmo com todas as suas dimensões.
+
+[[v12-16-11]]
+
+^<<v12-16-11,11>>^ Urias construiu um altar exatamente conforme o desenho que o rei Acaz lhe enviara de Damasco e terminou-o antes que o rei voltasse.
+
+[[v12-16-12]]
+
+^<<v12-16-12,12>>^ Quando o rei chegou de Damasco e viu o altar, aproximou-se e subiu a ele.
+
+[[v12-16-13]]
+
+^<<v12-16-13,13>>^ Queimou nele o seu holocausto e sua oblação, derramou libações e aspergiu o sangue de seus sacrifícios pacíficos.
+
+[[v12-16-14]]
+
+^<<v12-16-14,14>>^ Quanto ao altar de bronze que estava diante do Senhor, tirou-o de diante do templo, entre o altar novo e o templo e mandou colocá-lo ao norte do novo altar.
+
+[[v12-16-15]]
+
+^<<v12-16-15,15>>^ Depois ordenou ao sacerdote Urias: “Queimarás no grande altar o holocausto da manhã e a oblação da tarde, o holocausto do rei e a sua oblação, o holocausto do povo e a sua oblação e derramarás sobre ele todo o sangue dos holocaustos e dos sacrifícios. Quanto ao altar de bronze, deliberarei eu depois”.
+
+[[v12-16-16]]
+
+^<<v12-16-16,16>>^ O sacerdote Urias fez tudo o que lhe ordenara o rei Acaz.
+
+[[v12-16-17]]
+
+^<<v12-16-17,17>>^ Além disso, desmontou o rei Acaz os quadros e os pedestais e tirou de cima as bacias; desceu o mar de bronze de cima dos bois de bronze que o suportavam e o colocou sobre um suporte de pedra.
+
+[[v12-16-18]]
+
+^<<v12-16-18,18>>^ Tirou também do Templo do Senhor, por causa do rei da Assíria, o pórtico do sábado que fora construído no edifício e a entrada externa para o rei.^&#42;1^
+
+[[v12-16-19]]
+
+^<<v12-16-19,19>>^ O restante da história de Acaz, seus atos e grandes feitos, tudo se acha consignado no Livro das Crônicas dos reis de Judá.
+
+[[v12-16-20]]
+
+^<<v12-16-20,20>>^ Acaz adormeceu com seus pais e foi sepultado com eles na Cidade de Davi. Seu filho Ezequias sucedeu-lhe no trono.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-015.adoc#v12-15-0[&#60; Capítulo Anterior] | <<v12-16-0,Topo>> | xref:012-ii-reis/012-ii-reis-017.adoc#v12-17-0[Próximo Capítulo &#62;]

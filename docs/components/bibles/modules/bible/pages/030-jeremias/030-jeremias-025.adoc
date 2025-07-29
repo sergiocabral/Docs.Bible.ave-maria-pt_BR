@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v30-25-0]]
+=== Jeremias, 25
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 25 apresenta a profecia do cálice da ira de Deus que será derramado sobre as nações. Deus está cansado do pecado e da idolatria do povo e envia Jeremias para adverti-los sobre a iminente destruição. Abaixo estão cinco versículos relacionados aos temas abordados nesse capítulo:
+* Isaías 51:17: "Desperta, desperta-te! Levanta-te, ó Jerusalém, que bebeste da mão do Senhor o cálice da sua ira; bebeste, sugaste, e deixaste esgotar." Esse versículo apresenta uma imagem semelhante à do cálice da ira de Deus, mostrando que a ideia não é exclusiva de Jeremias.
+* Apocalipse 14:10: "ele também beberá do vinho da cólera de Deus, que foi preparado sem mistura, no cálice da sua ira; e será atormentado com fogo e enxofre diante dos santos anjos e diante do Cordeiro." Esse versículo apresenta uma visão futura da ira de Deus sendo derramada sobre aqueles que o rejeitam.
+* Salmos 75:8: "Porque na mão do Senhor há um cálice, cujo vinho espuma, cheio de mistura; dele dá a beber; mas todos os ímpios da terra sorverão e beberão até as fezes." Esse versículo mostra que a ideia do cálice da ira de Deus é uma imagem poderosa que atravessa todo o Antigo e Novo Testamento.
+* Isaías 24:19: "A terra está totalmente quebrantada, a terra está de todo fendida, a terra está abalada de um modo extremo." Esse versículo apresenta uma descrição da destruição que virá como resultado da ira de Deus.
+* Mateus 26:39: "E, adiantando-se um pouco, prostrou-se sobre o seu rosto, orando e dizendo: Meu Pai, se é possível, passa de mim este cálice; todavia, não seja como eu quero, mas como tu queres." Esse versículo apresenta uma imagem de Jesus usando a metáfora do cálice para descrever o sofrimento que estava prestes a enfrentar.
+****
+
+[[v30-25-1]]
+
+^<<v30-25-1,1>>^ Eis o que foi dito a Jeremias, a respeito de todo o povo de Judá, no quarto ano do reinado de Joaquin, filho de Josias, rei de Judá era no primeiro ano de Nabucodonosor, rei da Babilônia^&#42;1^
+
+[[v30-25-2]]
+
+^<<v30-25-2,2>>^ e que o profeta Jeremias tornou conhecido de todo o povo de Judá e dos habitantes de Jerusalém:
+
+[[v30-25-3]]
+
+^<<v30-25-3,3>>^ “Desde o décimo terceiro ano de Josias, filho de Amon, rei de Judá, até este dia, eis que vinte e três anos são decorridos desde que a palavra do Senhor me foi dirigida e que vo-la transmiti com assiduidade, sem a terdes, entretanto, escutado.
+
+[[v30-25-4]]
+
+^<<v30-25-4,4>>^ Continuamente, o Senhor enviou-vos os profetas, seus servos, mas nenhuma atenção lhes prestastes, e não destes ouvidos às suas mensagens.
+
+[[v30-25-5]]
+
+^<<v30-25-5,5>>^ Assim falava ele: renuncie cada um de vós à vida perversa e à maldade do procedimento, e ficareis para sempre na terra que o Senhor vos havia concedido, assim como a vossos pais desde sempre.
+
+[[v30-25-6]]
+
+^<<v30-25-6,6>>^ Não andeis à procura de outros deuses, para ante eles vos prostrardes e lhes renderdes culto. Não me provoqueis à cólera, para vossa própria desgraça, com esses ídolos que vossas mãos fabricaram.
+
+[[v30-25-7]]
+
+^<<v30-25-7,7>>^ Mas não me escutastes – oráculo do Senhor –, o que provocou minha cólera, para a vossa desgraça, por causa dos ídolos feitos por vossas mãos.
+
+[[v30-25-8]]
+
+^<<v30-25-8,8>>^ Por isso, assim disse o Senhor dos exércitos: Porque não me escutastes as palavras,
+
+[[v30-25-9]]
+
+^<<v30-25-9,9>>^ vou conclamar todas as tribos do norte – oráculo do Senhor –, assim como o meu servo, Nabucodonosor, rei da Babilônia, a fim de lançá-los contra esta terra e seus habitantes, e todas essas nações que a cercam. Eu os votarei ao interdito e deles farei objeto de assombro, de assobio e de eterna ruína.
+
+[[v30-25-10]]
+
+^<<v30-25-10,10>>^ Abafarei seus gritos de alegria e os cânticos de júbilo, a voz do esposo e da esposa, e amortecerei o ruído da mó e o brilho da lâmpada.
+
+[[v30-25-11]]
+
+^<<v30-25-11,11>>^ Esta terra se converterá em angústia e solidão, e por setenta anos lhe há de perdurar a servidão ao rei da Babilônia.^&#42;1^
+
+[[v30-25-12]]
+
+^<<v30-25-12,12>>^ Decorridos esses setenta anos, castigarei o rei da Babilônia e seu povo por causa de seus pecados – oráculo do Senhor –, assim como a terra dos caldeus, que transformarei definitivamente num deserto.
+
+[[v30-25-13]]
+
+^<<v30-25-13,13>>^ Contra essa terra executarei todas as ameaças que proferi contra ela, e que neste livro se acham consignadas. O que Jeremias profetizou contra todas as nações pagãs.^&#42;1^
+
+[[v30-25-14]]
+
+^<<v30-25-14,14>>^ Porquanto, eles serão, por sua vez, subjugados por numerosas nações e grandes reis, e lhes retribuirei segundo os atos e feitos de suas mãos!
+
+[[v30-25-15]]
+
+^<<v30-25-15,15>>^ Eis o que me disse o Senhor, Deus de Israel: “Toma de minhas mãos esta taça cheia do vinho de minha ira, e faze com que dele bebam todos os povos, aos quais te enviarei.
+
+[[v30-25-16]]
+
+^<<v30-25-16,16>>^ Quando o tiverem bebido, ficarão e enlouquecerão à vista da espada que contra eles enviarei”.
+
+[[v30-25-17]]
+
+^<<v30-25-17,17>>^ Tomei, então, a taça das mãos do Senhor e dela fiz beber todos os povos aos quais me enviou o Senhor:
+
+[[v30-25-18]]
+
+^<<v30-25-18,18>>^ Jerusalém e as cidades de Judá, seus reis e chefes, para transformar tudo em um deserto, em uma desolação ante a qual se há de escarnecer, exemplo que será citado entre as maldições, como hoje se vê;
+
+[[v30-25-19]]
+
+^<<v30-25-19,19>>^ ao faraó, rei do Egito, aos seus servos, oficiais e povo,
+
+[[v30-25-20]]
+
+^<<v30-25-20,20>>^ assim como à mistura das populações, a todos os reis de terra de Us, a todos os reis da terra dos filisteus e a Ascalon, Gaza, Acaron, ao que resta de Azoto,
+
+[[v30-25-21]]
+
+^<<v30-25-21,21>>^ à Edom, a Moab e aos filhos de Amon;
+
+[[v30-25-22]]
+
+^<<v30-25-22,22>>^ a todos os reis de Tiro, aos de Sidônia e aos das ilhas que estão além do mar,
+
+[[v30-25-23]]
+
+^<<v30-25-23,23>>^ e a Dadã, Temã e Buz; a todos os que se fazem cortar os cabelos nas têmporas;
+
+[[v30-25-24]]
+
+^<<v30-25-24,24>>^ aos reis da Arábia e aos da mistura de populações que habita o deserto;
+
+[[v30-25-25]]
+
+^<<v30-25-25,25>>^ a todos os reis de Zambri, aos de Elam e aos reis da Média;
+
+[[v30-25-26]]
+
+^<<v30-25-26,26>>^ a todos os reis do norte, próximos ou longínquos, uns após outros; a todos os reinos do mundo que habitam na superfície da terra. E depois deles beberá o rei de Ainolibab.
+
+[[v30-25-27]]
+
+^<<v30-25-27,27>>^ “Tu lhes dirás, então: assim disse o Senhor, Deus de Israel: Bebei, embriagai-vos, vomitai e caí para não mais vos levantardes sob o gládio que envio contra vós. –
+
+[[v30-25-28]]
+
+^<<v30-25-28,28>>^ Se se recusarem a tomar a taça de tuas mãos para beber, isto lhes dirás: eis o que me disse o Senhor dos exércitos: Haveis de bebê-la.
+
+[[v30-25-29]]
+
+^<<v30-25-29,29>>^ É pela cidade, onde meu nome foi invocado, que começo a punir; e vós, estaríeis isentos do meu castigo? Não, não sereis poupados, pois que farei vir a espada sobre todos os habitantes da terra – oráculo do Senhor dos exércitos.
+
+[[v30-25-30]]
+
+^<<v30-25-30,30>>^ E assim profetizarás: Ruge o Senhor do alto do céu, e de sua morada santa faz ouvir a sua voz. Ruge contra o seu rebanho, e lança o grito do pisador contra todos os habitantes da terra.
+
+[[v30-25-31]]
+
+^<<v30-25-31,31>>^ Estende-se o tumulto até os confins do mundo, pois que o Senhor está em litígio com as nações. Entra em processo contra toda carne, entregando à espada os maus – oráculo do Senhor.
+
+[[v30-25-32]]
+
+^<<v30-25-32,32>>^ Eis o que diz o Senhor dos exércitos: eis que o flagelo vai estender-se de nação em nação. E dos confins da terra vai desencadear-se violenta tempestade.
+
+[[v30-25-33]]
+
+^<<v30-25-33,33>>^ Aqueles que o Senhor nesse dia tiver atingido, de uma a outra extremidade da terra, não serão chorados, nem recolhidos e sepultados, jazendo no solo qual esterco.
+
+[[v30-25-34]]
+
+^<<v30-25-34,34>>^ Brami, pastores, gritai! Rolai na poeira, chefes do rebanho! Pois que chegou o dia de vossa destruição, e caireis como carneiros escolhidos.^&#42;1^
+
+[[v30-25-35]]
+
+^<<v30-25-35,35>>^ Não haverá mais refúgio para os pastores, nem salvação para os chefes do rebanho!
+
+[[v30-25-36]]
+
+^<<v30-25-36,36>>^ Ouvi os gritos dos pastores, e os bramidos dos chefes do rebanho, porque o Senhor lhes devasta os pastos.
+
+[[v30-25-37]]
+
+^<<v30-25-37,37>>^ A placidez dos campos é devastada pela cólera fervente do Senhor.
+
+[[v30-25-38]]
+
+^<<v30-25-38,38>>^ Partiu qual leão ao safar-se da rede; a terra vai transformar-se em deserto, sob os golpes do gládio destruidor, e da ardente cólera do Senhor.”
+
+'''
+
+xref:030-jeremias/030-jeremias-024.adoc#v30-24-0[&#60; Capítulo Anterior] | <<v30-25-0,Topo>> | xref:030-jeremias/030-jeremias-026.adoc#v30-26-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v34-8-0]]
+=== Daniel, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Daniel 8 é um capítulo da Bíblia que relata uma visão que Daniel teve sobre um carneiro e um bode que lutavam entre si. Essa visão era uma representação da luta entre o império Medo-Persa e o império Grego. Abaixo estão cinco versículos relacionados com os temas abordados em Daniel 8:
+* Daniel 7:6: "Depois disto, eu continuava olhando, e eis aqui outro, semelhante a um leopardo, e tinha quatro asas de ave nas suas costas; tinha também este animal quatro cabeças, e foi-lhe dado domínio." Este versículo fala sobre um animal que se assemelha ao bode com chifres mencionado em Daniel 8:5, que representa o império Grego.
+* Isaías 14:13-14: "E tu dizias no teu coração: Eu subirei ao céu, acima das estrelas de Deus exaltarei o meu trono, e no monte da congregação me assentarei, aos lados do norte. Subirei sobre as alturas das nuvens, e serei semelhante ao Altíssimo." Esse versículo faz referência à arrogância do rei da Babilônia, que é mencionado em Daniel 8:10-11.
+* Apocalipse 12:7-9: "E houve batalha no céu; Miguel e os seus anjos batalhavam contra o dragão, e batalhavam o dragão e os seus anjos; mas não prevaleceram; nem mais o seu lugar se achou nos céus. E foi precipitado o grande dragão, a antiga serpente, chamada o diabo, e Satanás, que engana todo o mundo; ele foi precipitado na terra, e os seus anjos foram lançados com ele." Este versículo faz referência à luta entre o carneiro e o bode em Daniel 8:7-8, que simbolizam a luta entre o bem e o mal.
+* Isaías 44:28-45:1: "Assim diz Ciro, rei da Pérsia: Todas as nações do mundo me entregou o Senhor Deus dos exércitos, e ele me deu ordem para que lhe edificasse uma casa em Jerusalém, que está em Judá. Assim diz o Senhor ao seu ungido, a Ciro, a quem tomo pela mão direita, para abater as nações diante de sua face, e descingir os lombos dos reis, e para abrir diante dele as portas, que não se fecharão." Este versículo se relaciona com Daniel 8:20-22, que menciona a ascensão do império Persa e do seu grande rei.
+* Mateus 24:15-16: "Quando, pois, virdes que a abominação da desolação, de que falou o profeta Daniel, está no lugar santo; quem lê, entenda; então, os que estiverem na Judeia fujam para os montes." Este versículo se relaciona com Daniel 8:13-14, que fala sobre a profanação do templo e a necessidade de sua purificação. Jesus faz referência a essa profecia de Daniel e alerta sobre a necessidade de fugir quando a abominação da desolação for colocada no lugar santo. Esse versículo também aponta para a importância da compreensão das profecias bíblicas e da sua aplicação na vida diária dos cristãos.
+****
+
+[[v34-8-1]]
+
+^<<v34-8-1,1>>^ No terceiro ano do reinado de Baltazar, eu, Daniel, tive uma visão, continuação daquela que eu tinha tido anteriormente.
+
+[[v34-8-2]]
+
+^<<v34-8-2,2>>^ Nessa visão, eu me achava na fortaleza de Susa, na província de Elam, e eu me vi, sempre em visão, às margens do Ulai.
+
+[[v34-8-3]]
+
+^<<v34-8-3,3>>^ Erguendo os olhos, eis que vi um carneiro, o qual se achava em frente ao rio. Tinha dois chifres, dois longos chifres, um dos quais era mais alto do que o outro. Esse chifre mais alto apareceu por último.
+
+[[v34-8-4]]
+
+^<<v34-8-4,4>>^ Vi o carneiro dar chifradas em direção do oeste, do norte e do sul. Nenhum animal resistia diante dele, e ninguém conseguia escapar de seu poder. Fazia o que queria, e crescia.^&#42;1^
+
+[[v34-8-5]]
+
+^<<v34-8-5,5>>^ Enquanto observava com atenção, eis que um bode robusto veio do Ocidente e percorreu a terra inteira sem tocar o solo; tinha entre os dois olhos um chifre muito saliente.
+
+[[v34-8-6]]
+
+^<<v34-8-6,6>>^ Foi até o carneiro de dois chifres, que eu tinha visto em frente ao rio, e avançou contra ele em um excesso de fúria.
+
+[[v34-8-7]]
+
+^<<v34-8-7,7>>^ Eu o vi aproximar-se do carneiro e atirando-se com fúria sobre ele, espancá-lo e quebrar-lhe os dois chifres, sem que o carneiro tivesse força para sustentar o assalto. O bode jogou por terra o carneiro e o calcou aos pés, sem que alguém interviesse para subtraí-lo ao ataque de seu adversário.
+
+[[v34-8-8]]
+
+^<<v34-8-8,8>>^ Então, o bode tornou-se muito grande. Mas, assim que se tornou poderoso, seu grande chifre quebrou-se e foi substituído por quatro chifres que cresciam em direção dos quatro ventos do céu.
+
+[[v34-8-9]]
+
+^<<v34-8-9,9>>^ De um deles saiu um pequeno chifre que se desenvolveu consideravelmente para o Sul, para o Oriente e para a joia dos países.^&#42;1^
+
+[[v34-8-10]]
+
+^<<v34-8-10,10>>^ Cresceu até alcançar os astros do céu, do qual fez cair por terra diversas estrelas e as calcou aos pés.^&#42;1^
+
+[[v34-8-11]]
+
+^<<v34-8-11,11>>^ Cresceu até o chefe desse exército de astros, cujo holocausto perpétuo aboliu e cujo santuário destruiu.^&#42;1^
+
+[[v34-8-12]]
+
+^<<v34-8-12,12>>^ Por causa da infidelidade, além do holocausto perpétuo, foi-lhe entregue um exército! A verdade foi jogada por terra. O pequeno chifre teve êxito na sua empreitada.
+
+[[v34-8-13]]
+
+^<<v34-8-13,13>>^ Ouvi um santo que falava, a quem outro santo respondeu: “Quanto tempo durará o anunciado pela visão a respeito do holocausto perpétuo, da infidelidade destruidora e do abandono do santuário e do exército calcado aos pés?”.
+
+[[v34-8-14]]
+
+^<<v34-8-14,14>>^ Respondeu: “Duas mil e trezentas noites e manhãs. Depois disso, o santuário será restabelecido”.^&#42;1^
+
+[[v34-8-15]]
+
+^<<v34-8-15,15>>^ Ora, enquanto eu contemplava essa visão e procurava o significado, vi, de pé diante de mim, um ser em forma humana,
+
+[[v34-8-16]]
+
+^<<v34-8-16,16>>^ e ouvi uma voz humana vinda do meio do Ulai: “Gabriel” – gritava –, “explica-lhe a visão”.^&#42;1^
+
+[[v34-8-17]]
+
+^<<v34-8-17,17>>^ Dirigiu-se então em direção ao lugar onde eu me achava. À sua aproximação, fiquei apavorado e caí com a face em terra. “Filho do homem” – disse-me ele –, “compreende bem que essa visão simboliza o tempo final.”
+
+[[v34-8-18]]
+
+^<<v34-8-18,18>>^ Enquanto falava comigo, desmaiei, com o rosto em terra. Mas, ele tocou-me e me fez ficar de pé.
+
+[[v34-8-19]]
+
+^<<v34-8-19,19>>^ “Eis” – disse –, “vou revelar-te o que acontecerá nos últimos tempos da cólera, porque isso diz respeito ao tempo final.
+
+[[v34-8-20]]
+
+^<<v34-8-20,20>>^ O carneiro de dois chifres, que viste, simboliza os reis da Média e da Pérsia.
+
+[[v34-8-21]]
+
+^<<v34-8-21,21>>^ O bode valente é o rei de Javã; o grande chifre que ele tem entre os olhos é o primeiro rei.^&#42;1^
+
+[[v34-8-22]]
+
+^<<v34-8-22,22>>^ Sua ruptura e o nascimento de quatro chifres em seu lugar significam quatro reinos saindo dessa nação, mas sem terem o mesmo poder.^&#42;1^
+
+[[v34-8-23]]
+
+^<<v34-8-23,23>>^ No fim do reinado deles, quando estiver cheia a medida dos infiéis, um rei surgirá, cheio de crueldade e fingimento.
+
+[[v34-8-24]]
+
+^<<v34-8-24,24>>^ Seu poder aumentará, nunca porém por si mesmo. Fará monstruosas devastações, terá êxito nas suas empresas, exterminará os poderosos e o povo dos santos.
+
+[[v34-8-25]]
+
+^<<v34-8-25,25>>^ Graças à sua habilidade, fará triunfar sua perfídia, seu coração se inchará de orgulho; mandará matar muita gente que não espera por isso, se levantará contra o príncipe dos príncipes, mas será aniquilado sem a intervenção de mão humana.^&#42;1^
+
+[[v34-8-26]]
+
+^<<v34-8-26,26>>^ A visão que te foi apresentada sobre as noites e as manhãs é perfeitamente verídica. Mas tu, guarda esta visão em segredo, pois ela se refere a dias longínquos.”
+
+[[v34-8-27]]
+
+^<<v34-8-27,27>>^ Então, eu, Daniel, desfaleci. Estive doente durante muitos dias. Depois disso, recomecei a trabalhar nos serviços do rei. Fiquei atônito com a visão que tive, completamente incompreensível para mim.
+
+'''
+
+xref:034-daniel/034-daniel-007.adoc#v34-7-0[&#60; Capítulo Anterior] | <<v34-8-0,Topo>> | xref:034-daniel/034-daniel-009.adoc#v34-9-0[Próximo Capítulo &#62;]

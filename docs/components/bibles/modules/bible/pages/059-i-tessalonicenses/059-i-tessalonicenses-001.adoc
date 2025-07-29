@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v59-1-0]]
+=== I Tessalonicenses, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Tessalonicenses 1 é o primeiro capítulo da primeira carta de Paulo aos Tessalonicenses. Nesse capítulo, Paulo expressa gratidão a Deus pela fé e pelo testemunho dos tessalonicenses e descreve como a Palavra de Deus foi pregada a eles com poder e com o Espírito Santo. Também é enfatizado como eles se tornaram exemplos para os crentes em outras regiões. Abaixo estão cinco versículos relacionados com os temas abordados em 1 Tessalonicenses 1:
+* Romanos 1:8: "Em primeiro lugar, dou graças ao meu Deus por meio de Jesus Cristo por todos vocês, porque em todo o mundo está sendo anunciada a fé que vocês têm." Este versículo apresenta uma ideia semelhante à de 1 Tessalonicenses 1, na qual Paulo expressa gratidão a Deus pela fé dos tessalonicenses.
+* Colossenses 1:6: "que chegou até vocês, como de fato está chegando a todo o mundo. Ele está frutificando e crescendo entre vocês, como também ocorre em todo o mundo, desde o dia em que o ouviram e entenderam a graça de Deus em toda a sua verdade." Aqui, Paulo fala sobre como a Palavra de Deus está sendo pregada e frutificando entre os colossenses, assim como entre os tessalonicenses.
+* Atos 17:6: "Eles começaram a procurar por Paulo e Silas para levá-los ao meio da multidão. Mas, quando não os encontraram, arrastaram Jasom e alguns irmãos perante as autoridades da cidade, gritando: "Esses homens que têm causado problemas por todo o mundo chegaram também aqui!" Este versículo destaca como o testemunho dos crentes pode ser tão poderoso que é reconhecido em todo o mundo.
+* 2 Timóteo 1:8: "Portanto, não se envergonhe do testemunho sobre nosso Senhor, nem de mim, que sou prisioneiro dele. Pelo contrário, participe comigo dos sofrimentos pelo evangelho, segundo o poder de Deus." Aqui, Paulo encoraja Timóteo a não ter vergonha do evangelho e do testemunho que ele carrega, enfatizando a importância de ser um exemplo para outros crentes.
+* Efésios 1:13-14: "E, quando vocês ouviram a palavra da verdade, o evangelho da salvação, e nele creram, foram selados com o Espírito Santo da promessa, que é a garantia da nossa herança até a redenção daqueles que pertencem a Deus, para o louvor da sua glória." Aqui, Paulo fala sobre como o Espírito Santo é um sinal de que alguém é um crente verdadeiro, e como essa fé é uma garantia de nossa herança eterna em Deus.
+****
+
+[[v59-1-1]]
+
+^<<v59-1-1,1>>^ Paulo, Silvano e Timóteo à igreja dos tessalonicenses, reunida em Deus Pai e no Senhor Jesus Cristo. A vós, graça e paz!^&#42;1^
+
+[[v59-1-2]]
+
+^<<v59-1-2,2>>^ Não cessamos de dar graças a Deus por todos vós, e de lembrar-vos em nossas orações.
+
+[[v59-1-3]]
+
+^<<v59-1-3,3>>^ Com efeito, diante de Deus, nosso Pai, pensamos continuamente nas obras da vossa fé, nos sacrifícios da vossa caridade e na firmeza da vossa esperança em nosso Senhor Jesus Cristo, sob o olhar de Deus, nosso Pai.
+
+[[v59-1-4]]
+
+^<<v59-1-4,4>>^ Sabemos, irmãos amados de Deus, que sois eleitos.^&#42;1^
+
+[[v59-1-5]]
+
+^<<v59-1-5,5>>^ O nosso Evangelho vos foi pregado não somente por palavra, mas também com poder, com o Espírito Santo e com plena convicção. Sabeis o que temos sido entre vós para a vossa salvação.^&#42;1^
+
+[[v59-1-6]]
+
+^<<v59-1-6,6>>^ E vós vos fizestes imitadores nossos e do Senhor, ao receberdes a palavra, apesar das muitas tribulações, com a alegria do Espírito Santo,^&#42;1^
+
+[[v59-1-7]]
+
+^<<v59-1-7,7>>^ de sorte que vos tornastes modelo para todos os fiéis da Macedônia e da Acaia.
+
+[[v59-1-8]]
+
+^<<v59-1-8,8>>^ Em verdade, partindo de vós, não só ressoou a palavra do Senhor pela Macedônia e Acaia, mas também se propagou a fama de vossa fé em Deus por toda parte, de maneira que não temos necessidade de dizer coisa alguma.
+
+[[v59-1-9]]
+
+^<<v59-1-9,9>>^ De fato, a nosso respeito, conta-se por toda parte qual foi o acolhimento que da vossa parte tivemos, e como abandonastes os ídolos e vos convertestes a Deus, para servirdes ao Deus vivo e verdadeiro,
+
+[[v59-1-10]]
+
+^<<v59-1-10,10>>^ e aguardardes dos céus seu Filho que Deus ressuscitou dos mortos, Jesus, que nos livra da ira iminente.^&#42;1^
+
+'''
+
+xref:058-colossenses/058-colossenses-004.adoc#v58-4-0[&#60; Capítulo Anterior] | <<v59-1-0,Topo>> | xref:059-i-tessalonicenses/059-i-tessalonicenses-002.adoc#v59-2-0[Próximo Capítulo &#62;]

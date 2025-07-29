@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v49-3-0]]
+=== São Lucas, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Lucas 3 apresenta a pregação de João Batista e seu batismo de arrependimento para a remissão de pecados. Além disso, o capítulo também traz a genealogia de Jesus e sua apresentação pública no batismo por João. Abaixo seguem cinco versículos relacionados com os temas abordados em São Lucas 3:
+* Mateus 3:2: "Arrependam-se, pois o Reino dos céus está próximo". Assim como João Batista pregou o arrependimento para o perdão dos pecados em São Lucas 3, aqui Jesus também prega a mesma mensagem.
+* Atos 2:38: "Respondeu Pedro: ‘Arrependam-se, e cada um de vocês seja batizado em nome de Jesus Cristo para perdão dos seus pecados, e receberão o dom do Espírito Santo’". O batismo de arrependimento pregado por João Batista em São Lucas 3 é continuado pelos apóstolos após a morte e ressurreição de Jesus.
+* João 1:33: "Eu não o conhecia, mas aquele que me enviou para batizar com água me disse: ‘Aquele sobre quem você vir o Espírito descer e permanecer, esse é o que batiza com o Espírito Santo’". João Batista afirmou que seu batismo era apenas com água, mas que aquele que viria depois dele, mencionado em São Lucas 3, batizaria com o Espírito Santo.
+* Colossenses 1:15-16: "Ele é a imagem do Deus invisível, o primogênito de toda a criação, pois nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos ou soberanias, poderes ou autoridades; todas as coisas foram criadas por ele e para ele". A genealogia de Jesus apresentada em São Lucas 3 mostra sua descendência de Adão e a continuação da linhagem de Abraão até Davi.
+* Hebreus 7:14: "Pois é evidente que nosso Senhor procedeu de Judá, tribo da qual Moisés nunca falou, dizendo: Nela não há sacerdote". A genealogia de Jesus em São Lucas 3 também mostra sua conexão com a tribo de Judá, cumprindo assim a profecia do Antigo Testamento sobre o Messias ser um descendente de Judá.
+****
+
+[[v49-3-1]]
+
+^<<v49-3-1,1>>^ No ano décimo quinto do reinado do imperador Tibério, sendo Pôncio Pilatos governador da Judeia, Herodes, tetrarca da Galileia, seu irmão Filipe, tetrarca da Itureia e da província de Traconites, e Lisânias, tetrarca da Abilina,
+
+[[v49-3-2]]
+
+^<<v49-3-2,2>>^ sendo sumos sacerdotes Anás e Caifás, veio a palavra do Senhor no deserto a João, filho de Zacarias.
+
+[[v49-3-3]]
+
+^<<v49-3-3,3>>^ Ele percorria toda a região do Jordão, pregando o batismo de arrependimento para a remissão dos pecados,
+
+[[v49-3-4]]
+
+^<<v49-3-4,4>>^ como está escrito no livro das palavras do profeta Isaías (40,3ss): Uma voz clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas.
+
+[[v49-3-5]]
+
+^<<v49-3-5,5>>^ Todo vale será aterrado, e todo monte e outeiro serão arrasados; se tornará direito o que estiver torto, e os caminhos escabrosos serão aplainados.
+
+[[v49-3-6]]
+
+^<<v49-3-6,6>>^ Todo homem verá a salvação de Deus.
+
+[[v49-3-7]]
+
+^<<v49-3-7,7>>^ Dizia, pois, ao povo que vinha para ser batizado por ele: “Raça de víboras! Quem vos ensinou a fugir da ira iminente?
+
+[[v49-3-8]]
+
+^<<v49-3-8,8>>^ Fazei, pois, uma conversão realmente frutuosa e não comeceis a dizer: Temos Abraão por pai. Pois vos digo: Deus tem poder para destas pedras suscitar filhos a Abraão.
+
+[[v49-3-9]]
+
+^<<v49-3-9,9>>^ O machado já está posto à raiz das árvores. E toda árvore que não der fruto bom será cortada e lançada ao fogo”.
+
+[[v49-3-10]]
+
+^<<v49-3-10,10>>^ Perguntava-lhe a multidão: “Que devemos fazer?”.
+
+[[v49-3-11]]
+
+^<<v49-3-11,11>>^ Ele respondia: “Quem tem duas túnicas dê uma ao que não tem; e quem tem o que comer, faça o mesmo”.
+
+[[v49-3-12]]
+
+^<<v49-3-12,12>>^ Também publicanos vieram para ser batizados, e perguntaram-lhe: “Mestre, que devemos fazer?”.^&#42;1^
+
+[[v49-3-13]]
+
+^<<v49-3-13,13>>^ Ele lhes respondeu: “Não exijais mais do que vos foi ordenado”.
+
+[[v49-3-14]]
+
+^<<v49-3-14,14>>^ Do mesmo modo, os soldados lhe perguntavam: “E nós, que devemos fazer?”.Respondeu-lhes: “Não pratiqueis violência nem defraudeis a ninguém, e contentai-vos com o vosso soldo”.
+
+[[v49-3-15]]
+
+^<<v49-3-15,15>>^ Ora, como o povo estivesse na expectativa, e como todos perguntassem em seus corações se talvez João fosse o Cristo,
+
+[[v49-3-16]]
+
+^<<v49-3-16,16>>^ ele tomou a palavra, dizendo a todos: “Eu vos batizo na água, mas eis que vem outro mais poderoso do que eu, a quem não sou digno de lhe desatar a correia das sandálias; ele vos batizará no Espírito Santo e no fogo.
+
+[[v49-3-17]]
+
+^<<v49-3-17,17>>^ Ele tem a pá na mão e limpará a sua eira, e recolherá o trigo ao seu celeiro, mas queimará as palhas num fogo inextinguível”.
+
+[[v49-3-18]]
+
+^<<v49-3-18,18>>^ É assim que ele anunciava ao povo a Boa-Nova, e dirigia-lhe ainda muitas outras exortações.
+
+[[v49-3-19]]
+
+^<<v49-3-19,19>>^ Mas Herodes, o tetrarca, repreendido por ele por causa de Herodíades, mulher de seu irmão, e por causa de todos os crimes que praticara,
+
+[[v49-3-20]]
+
+^<<v49-3-20,20>>^ acrescentou a todos eles também este: encerrou João no cárcere. (= Mt 3,13-17 = Mc 1,9ss = Jo 1,31-34)
+
+[[v49-3-21]]
+
+^<<v49-3-21,21>>^ Quando todo o povo ia sendo batizado, também Jesus o foi. E estando ele a orar, o céu se abriu
+
+[[v49-3-22]]
+
+^<<v49-3-22,22>>^ e o Espírito Santo desceu sobre ele em forma corpórea, como uma pomba; e veio do céu uma voz: “Tu és o meu Filho bem-amado; em ti ponho minha afeição”. (= Mt 1,1-17)
+
+[[v49-3-23]]
+
+^<<v49-3-23,23>>^ Quando Jesus começou o seu ministério, tinha cerca de trinta anos, e era tido por filho de José, filho de Heli, filho de Matat,
+
+[[v49-3-24]]
+
+^<<v49-3-24,24>>^ filho de Levi, filho de Melqui, filho de Jané, filho de José,
+
+[[v49-3-25]]
+
+^<<v49-3-25,25>>^ filho de Matatias, filho de Amós, filho de Naum, filho de Hesli, filho de Nagé,
+
+[[v49-3-26]]
+
+^<<v49-3-26,26>>^ filho de Maat, filho de Matatias, filho de Semei, filho de José, filho de Judá,
+
+[[v49-3-27]]
+
+^<<v49-3-27,27>>^ filho de Joanã, filho de Resa, filho de Zorobabel, filho de Salatiel, filho de Neri,
+
+[[v49-3-28]]
+
+^<<v49-3-28,28>>^ filho de Melqui, filho de Adi, filho de Cosã, filho de Elmadão, filho de Her,
+
+[[v49-3-29]]
+
+^<<v49-3-29,29>>^ filho de Jesus, filho de Eliezer, filho de Jorim, filho de Matat, filho de Levi,
+
+[[v49-3-30]]
+
+^<<v49-3-30,30>>^ filho de Simeão, filho de Judá, filho de José, filho de Jonão, filho de Eliacim,
+
+[[v49-3-31]]
+
+^<<v49-3-31,31>>^ filho de Meleia, filho de Mena, filho de Matata, filho de Natã, filho de Davi,
+
+[[v49-3-32]]
+
+^<<v49-3-32,32>>^ filho de Jessé, filho de Obed, filho de Booz, filho de Salmon, filho de Naason,
+
+[[v49-3-33]]
+
+^<<v49-3-33,33>>^ filho de Aminadab, filho de Arão, filho de Esron, filho de Farés, filho de Judá,
+
+[[v49-3-34]]
+
+^<<v49-3-34,34>>^ filho de Jacó, filho de Isaac, filho de Abraão, filho de Taré, filho de Nacor,
+
+[[v49-3-35]]
+
+^<<v49-3-35,35>>^ filho de Sarug, filho de Ragau, filho de Faleg, filho de Eber, filho de Salé,
+
+[[v49-3-36]]
+
+^<<v49-3-36,36>>^ filho de Cainã, filho de Arfaxad, filho de Sem, filho de Noé, filho de Lamec,
+
+[[v49-3-37]]
+
+^<<v49-3-37,37>>^ filho de Matusalém, filho de Henoc, filho de Jared, filho de Malaleel, filho de Cainã,
+
+[[v49-3-38]]
+
+^<<v49-3-38,38>>^ filho de Henós, filho de Set, filho de Adão, filho de Deus.^&#42;1^ (= Mt 4,1-11 = Mc 1,12s)
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-002.adoc#v49-2-0[&#60; Capítulo Anterior] | <<v49-3-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-004.adoc#v49-4-0[Próximo Capítulo &#62;]

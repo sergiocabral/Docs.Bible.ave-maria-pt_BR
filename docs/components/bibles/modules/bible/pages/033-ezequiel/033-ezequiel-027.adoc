@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v33-27-0]]
+=== Ezequiel, 27
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 27 descreve a cidade de Tiro e sua grandeza, mas também prediz sua queda. O capítulo menciona a riqueza e o comércio da cidade, mas destaca a arrogância e a confiança em sua própria força, em vez de reconhecer a Deus como soberano. Aqui estão cinco versículos relacionados com os temas abordados em Ezequiel 27:
+* Isaías 23:8 - "Quem é que decretou isto a respeito de Tiro, que distribuía coroas, cujos comerciantes eram príncipes e cujos negociantes eram os mais nobres da terra?" Este verso descreve a riqueza e a posição de Tiro como um centro comercial importante.
+* Provérbios 16:18 - "A arrogância precede a destruição; o orgulho precede a queda." Este verso destaca o problema central de Tiro, que se tornou arrogante e confiante em sua própria força em vez de reconhecer Deus como soberano.
+* Jeremias 25:22 - "todas as cidades dos reis de Tiro, todas as cidades dos reis de Sidom e as cidades da costa além do mar." Este verso menciona Tiro como uma das cidades da costa, juntamente com Sidom, que também era conhecida por seu comércio.
+* Apocalipse 18:11-13 - "os negociantes da terra choram e lamentam por ela, porque ninguém mais compra suas mercadorias: mercadorias de ouro, prata, pedras preciosas e pérolas; linho fino, púrpura, seda e tecidos escarlates; toda espécie de madeira odorífera, todos os objetos de marfim e madeira preciosas, de bronze, ferro e mármore." Este verso se relaciona com a queda de Tiro, quando o comércio que trouxe riqueza à cidade acabou e ninguém mais comprava suas mercadorias.
+* Ezequiel 28:2 - "Filho do homem, dize ao príncipe de Tiro: Assim diz o Soberano, o Senhor: No orgulho do seu coração você disse: 'Sou um deus; eu habito num trono de deuses, no coração dos mares.' Mas você é um homem, e não um deus; por mais que se considere igual a um deus." Este verso é um exemplo da arrogância de Tiro e como a cidade se considerava superior aos outros, até mesmo aos deuses. A profecia de Ezequiel 27 alerta sobre as consequências desastrosas desse tipo de pensamento.
+****
+
+[[v33-27-1]]
+
+^<<v33-27-1,1>>^ A palavra do Senhor foi-me dirigida nestes termos:
+
+[[v33-27-2]]
+
+^<<v33-27-2,2>>^ “Tu, filho do homem, entoa um cântico fúnebre sobre Tiro.
+
+[[v33-27-3]]
+
+^<<v33-27-3,3>>^ Dize à cidade de Tiro, assentada à borda do mar, comerciando com os povos de inumeráveis ilhas: Eis o que diz o Senhor Javé: Tiro, tu dizias: sou um navio de perfeita beleza.^&#42;1^
+
+[[v33-27-4]]
+
+^<<v33-27-4,4>>^ No coração do mar está o teu domínio, teus construtores acabaram o teu esplendor.
+
+[[v33-27-5]]
+
+^<<v33-27-5,5>>^ Fizeram a tua quilha com cipreste de Sanir, tomaram um cedro do Líbano para te fazerem um mastro;
+
+[[v33-27-6]]
+
+^<<v33-27-6,6>>^ com carvalhos de Basã te fizeram os remos. Teus bancos eram de marfim, incrustados em madeira das ilhas de Cetim.^&#42;1^
+
+[[v33-27-7]]
+
+^<<v33-27-7,7>>^ Teu velame era de linho do Egito, tecido para te servir de pavilhão: a púrpura violeta e o escarlate das ilhas de Elisa formavam a tua tenda.
+
+[[v33-27-8]]
+
+^<<v33-27-8,8>>^ As gentes de Sidônia e de Arvad eram teus remadores, os mais hábeis de Sêmer te serviam de pilotos.
+
+[[v33-27-9]]
+
+^<<v33-27-9,9>>^ Os velhos de Gebal, experientes, lá estavam, para consertar as tuas fendas. Todos os navios do mar, com seus marujos, vinham a ti para fazer o tráfico.^&#42;1^
+
+[[v33-27-10]]
+
+^<<v33-27-10,10>>^ As gentes da Pérsia, da Lídia e da Líbia serviam em teu exército, suspendiam em ti o escudo e o capacete, davam-te prestígio.
+
+[[v33-27-11]]
+
+^<<v33-27-11,11>>^ Os filhos de Arvad e teu exército guarneciam tuas muralhas e os gamadianos estavam de prontidão sobre tuas torres; penduravam os seus escudos em toda a extensão dos teus muros e completavam a tua beleza.
+
+[[v33-27-12]]
+
+^<<v33-27-12,12>>^ Társis negociava contigo toda espécie de riqueza, pagando as tuas mercadorias com prata, ferro, estanho e chumbo.
+
+[[v33-27-13]]
+
+^<<v33-27-13,13>>^ Javã, Tubal e Mosoc traficavam contigo e te traziam, à guisa de moedas de câmbio, escravos e objetos de bronze.^&#42;1^
+
+[[v33-27-14]]
+
+^<<v33-27-14,14>>^ As gentes de Bet-Togorma pagavam com cavalos de raça, cavalos de sela e mulas.^&#42;1^
+
+[[v33-27-15]]
+
+^<<v33-27-15,15>>^ As de Dadã traficavam contigo, teu mercado se estendia a inúmeras praias, e te davam em pagamento presas de marfim e de ébano.^&#42;1^
+
+[[v33-27-16]]
+
+^<<v33-27-16,16>>^ Edom fazia contigo comércio de uma multidão de víveres, e te pagava com rubis, púrpura, bordados, linho fino, corais e rubis.
+
+[[v33-27-17]]
+
+^<<v33-27-17,17>>^ Judá e Israel também traficavam contigo e te forneciam trigo de Minit, cera, mel, azeite e bálsamo.
+
+[[v33-27-18]]
+
+^<<v33-27-18,18>>^ Damasco era teu cliente devido à multidão dos teus produtos e de tuas variadas riquezas, e pagava em vinho de Helbon e lã de Saar.
+
+[[v33-27-19]]
+
+^<<v33-27-19,19>>^ Dã e Javã, de Uzal, te forneciam ferro polido, cássia e cana aromática, como mercadoria de troca.
+
+[[v33-27-20]]
+
+^<<v33-27-20,20>>^ As gentes de Dadã faziam contigo comércio de mantas para cavalo.
+
+[[v33-27-21]]
+
+^<<v33-27-21,21>>^ A Arábia e todos os príncipes de Cedar traficavam contigo com cordeiros, carneiros e bodes.
+
+[[v33-27-22]]
+
+^<<v33-27-22,22>>^ Os mercadores de Sabá e de Reema faziam negócios contigo e te pagavam com perfumes de primeira qualidade, com gemas de todo gênero e com ouro.^&#42;1^
+
+[[v33-27-23]]
+
+^<<v33-27-23,23>>^ Harã, Quene, Éden, os mercadores de Sabá, da Assíria e Quelmad faziam negociação contigo,^&#42;1^
+
+[[v33-27-24]]
+
+^<<v33-27-24,24>>^ de objetos de luxo, mantos de púrpura ou bordados, tecidos de variegadas cores, sólidas cordas trançadas, que serviam de objeto de troca.
+
+[[v33-27-25]]
+
+^<<v33-27-25,25>>^ Navios de Társis vogavam a serviço de teus negócios.^&#42;1^ Ficaste cheia, ficaste por demais pesada, no seio dos mares!
+
+[[v33-27-26]]
+
+^<<v33-27-26,26>>^ Conduziram-te os teus remeiros até as grandes águas... O vento do Oriente quebrou-te no coração do mar.^&#42;1^
+
+[[v33-27-27]]
+
+^<<v33-27-27,27>>^ Tuas riquezas, teus víveres, teus produtos, teus marinheiros e pilotos e consertadores de navios e corretores, todos os guerreiros que possuías contigo, e a multidão que tinhas a bordo foram tragados pelo mar no dia do teu naufrágio.
+
+[[v33-27-28]]
+
+^<<v33-27-28,28>>^ Aos gritos dos teus marujos tremeram as plagas;
+
+[[v33-27-29]]
+
+^<<v33-27-29,29>>^ então desceram do navio todos os remadores. Os marinheiros, os pilotos do mar ficaram em terra.
+
+[[v33-27-30]]
+
+^<<v33-27-30,30>>^ Eles fazem ouvir sobre ti o seu pranto com gritos amargos. Cobrem sua cabeça com poeira e rolam na cinza;
+
+[[v33-27-31]]
+
+^<<v33-27-31,31>>^ rapam a cabeça por tua causa, vestem sacos; eles te choram, com o coração angustiado, em amarga lamentação!
+
+[[v33-27-32]]
+
+^<<v33-27-32,32>>^ Em sua aflição, entoarão uma ode fúnebre sobre teus males, e a seguinte elegia: “Quem era semelhante a Tiro, agora emudecida no meio do mar?
+
+[[v33-27-33]]
+
+^<<v33-27-33,33>>^ Quando os teus comerciantes saíam das ondas, abastecias os povos. Pela multidão das tuas riquezas e de teus víveres tu enriquecias os reis da terra.
+
+[[v33-27-34]]
+
+^<<v33-27-34,34>>^ Agora, que naufragaste no mar, sepultada no fundo das ondas, tua carga e teu equipamento estão sepultados contigo.
+
+[[v33-27-35]]
+
+^<<v33-27-35,35>>^ Todos os habitantes das ilhas estão apavorados com o que te aconteceu. Seus reis estão tomados de terror, sua fronte está abatida.
+
+[[v33-27-36]]
+
+^<<v33-27-36,36>>^ Os mercadores dos povos estrangeiros assobiam ao ver-te; és objeto de terror, aniquilada para sempre!
+
+'''
+
+xref:033-ezequiel/033-ezequiel-026.adoc#v33-26-0[&#60; Capítulo Anterior] | <<v33-27-0,Topo>> | xref:033-ezequiel/033-ezequiel-028.adoc#v33-28-0[Próximo Capítulo &#62;]

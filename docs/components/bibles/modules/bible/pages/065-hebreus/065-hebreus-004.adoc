@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v65-4-0]]
+=== Hebreus, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Hebreus 4 fala sobre a importância de entrarmos no descanso de Deus por meio da fé em Jesus Cristo, mostrando que aqueles que não entraram no descanso de Deus por meio da incredulidade de seus corações não experimentaram a promessa de Deus. O capítulo também destaca a natureza da Palavra de Deus como viva e poderosa, capaz de discernir os pensamentos e intenções do coração. Além disso, exorta os crentes a se achegarem com confiança ao trono da graça para obterem misericórdia e graça em tempo de necessidade.
+* Deuteronômio 1:32-33: "No entanto, vocês não quiseram ir, mas se rebelaram contra o mandamento do Senhor, o seu Deus. Vocês murmuraram em suas tendas e disseram: ‘O Senhor nos odeia; por isso nos trouxe do Egito para nos entregar nas mãos dos amorreus e nos destruir". Este versículo mostra como a incredulidade pode impedir as pessoas de entrar no descanso de Deus, como aconteceu com os israelitas que se recusaram a confiar em Deus e rebelaram-se contra Ele, mesmo depois de terem visto todos os milagres que Ele fez por eles no Egito.
+* Salmo 95:7-8: "pois ele é o nosso Deus, e nós somos o povo do seu pastoreio, o rebanho que ele conduz. Se tão somente vocês ouvirem hoje a sua voz, não endureçam o coração como em Meribá, como em Massá, no deserto". Este verso destaca a importância de ouvirmos a voz de Deus e obedecermos a Ele, para que possamos entrar no descanso de Deus e não endurecer nossos corações pela incredulidade.
+* Jeremias 23:29: "Não é a minha palavra como fogo, declara o Senhor, e como um martelo que quebra uma rocha?". Este versículo mostra a natureza poderosa e penetrante da Palavra de Deus, que é capaz de discernir os pensamentos e intenções do coração e nos guiar para a verdadeira fé em Jesus Cristo.
+* Tiago 4:16: "Como é que vocês sabem o que acontecerá amanhã? A vida de vocês é como a neblina ao amanhecer: é passageira". Este versículo lembra-nos da brevidade da vida e da importância de buscarmos a Deus enquanto ainda temos tempo, para que possamos entrar no descanso de Deus por meio da fé em Jesus Cristo.
+* Hebreus 11:6: "Sem fé é impossível agradar a Deus, porque quem dele se aproxima precisa crer que ele existe e que recompensa aqueles que o buscam". Este versículo destaca a importância da fé em Deus para que possamos nos aproximar do trono da graça com confiança e receber misericórdia e graça em tempo de necessidade.
+****
+
+[[v65-4-1]]
+
+^<<v65-4-1,1>>^ Enquanto, pois, subsiste a promessa de entrar no seu descanso, tenhamos cuidado em que ninguém de nós corra o risco de ser excluído.
+
+[[v65-4-2]]
+
+^<<v65-4-2,2>>^ A Boa-Nova nos foi trazida a nós, como o foi a eles. Mas a eles de nada aproveitou, porque caíram na descrença.^&#42;1^
+
+[[v65-4-3]]
+
+^<<v65-4-3,3>>^ Nós, porém, se tivermos fé, haveremos de entrar no descanso. Ele disse: Eu jurei na minha ira: não entrarão no lugar do meu descanso. Ora, as obras de Deus estão concluídas desde a criação do mundo;
+
+[[v65-4-4]]
+
+^<<v65-4-4,4>>^ pois, em certa passagem, falou do sétimo dia o seguinte: E, terminado o seu trabalho, descansou Deus no sétimo dia (Gn 2,2).
+
+[[v65-4-5]]
+
+^<<v65-4-5,5>>^ Se, pois, ele repete: Não entrarão no lugar do meu descanso,
+
+[[v65-4-6]]
+
+^<<v65-4-6,6>>^ é sinal de que outros são chamados a entrar nele. E como aqueles a quem primeiro foi anunciada a promessa não entraram por não ter tido a fé,
+
+[[v65-4-7]]
+
+^<<v65-4-7,7>>^ Deus, após muitos anos, por meio de Davi, estabelece um novo dia, um hoje, ao pronunciar as palavras mencionadas: Hoje, se ouvirdes a sua voz, não endureçais os vossos corações.
+
+[[v65-4-8]]
+
+^<<v65-4-8,8>>^ Se Josué lhes houvesse dado repouso, não teria depois disso falado dum outro dia.
+
+[[v65-4-9]]
+
+^<<v65-4-9,9>>^ Por isso, resta um repouso sabático para o povo de Deus.^&#42;1^
+
+[[v65-4-10]]
+
+^<<v65-4-10,10>>^ E quem entrar nesse repouso descansará das suas obras, assim como descansou Deus das suas.
+
+[[v65-4-11]]
+
+^<<v65-4-11,11>>^ Assim, apressemo-nos a entrar neste descanso para não cairmos por nossa vez na mesma incredulidade.
+
+[[v65-4-12]]
+
+^<<v65-4-12,12>>^ Porque a Palavra de Deus é viva, eficaz, mais penetrante do que uma espada de dois gumes e atinge até a divisão da alma e do corpo, das juntas e medulas, e discerne os pensamentos e intenções do coração.
+
+[[v65-4-13]]
+
+^<<v65-4-13,13>>^ Nenhuma criatura lhe é invisível. Tudo é nu e descoberto aos olhos daquele a quem havemos de prestar contas.
+
+[[v65-4-14]]
+
+^<<v65-4-14,14>>^ Temos, portanto, um grande Sumo Sacerdote que penetrou nos céus, Jesus, Filho de Deus. Conservemos firme a nossa fé.^&#42;1^
+
+[[v65-4-15]]
+
+^<<v65-4-15,15>>^ Porque não temos nele um pontífice incapaz de compadecer-se das nossas fraquezas. Ao contrário, passou pelas mesmas provações que nós, com exceção do pecado.
+
+[[v65-4-16]]
+
+^<<v65-4-16,16>>^ Aproximemo-nos, pois, confiadamente do trono da graça, a fim de alcançar misericórdia e achar a graça de um auxílio oportuno.
+
+'''
+
+xref:065-hebreus/065-hebreus-003.adoc#v65-3-0[&#60; Capítulo Anterior] | <<v65-4-0,Topo>> | xref:065-hebreus/065-hebreus-005.adoc#v65-5-0[Próximo Capítulo &#62;]

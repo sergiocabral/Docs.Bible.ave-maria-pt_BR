@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v35-4-0]]
+=== Oséias, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 4 de Oséias aborda a questão da idolatria e da falta de conhecimento de Deus por parte do povo de Israel e de seus líderes. O profeta Oséias condena a adoração de ídolos e a corrupção dos líderes, apontando o comportamento errado como a causa dos problemas do povo. Abaixo estão cinco versículos relacionados com os temas abordados em Oséias 4, em ordem de proximidade com o capítulo:
+* Isaías 1:2-3: "Ouvi, ó céus, e dá ouvidos, ó terra; porque o Senhor falou: Criei filhos, e os engrandeci; mas eles se rebelaram contra mim. O boi conhece o seu possuidor, e o jumento o dono da sua manjedoura; mas Israel não tem conhecimento, o meu povo não entende." Este versículo fala sobre a falta de conhecimento de Deus por parte do povo de Israel, que se relaciona com o tema central de Oséias 4.
+* Isaías 44:9-10: "Os que fazem imagens de escultura, todos eles são vaidade; e as suas coisas mais desejáveis não lucram nada. E eles mesmos são testemunhas de que não veem, nem entendem; para que sejam confundidos." Este versículo fala sobre a condenação da idolatria, que é um tema importante em Oséias 4.
+* Jeremias 5:25: "As vossas iniqüidades desviaram estas coisas, e os vossos pecados apartaram de vós o bem." Este versículo fala sobre o comportamento errado que leva à desgraça, o que é uma mensagem semelhante à de Oséias 4.
+* Jeremias 10:14: "Todo homem se embrutece, e não tem conhecimento; todo ourives é confundido pela imagem esculpida; porque as suas imagens fundidas são mentira, e nelas não há espírito." Este versículo condena a adoração de ídolos, que é um tema importante em Oséias 4.
+* Jeremias 14:10: "Assim diz o Senhor acerca deste povo: Amaram de coração a vagabundagem; por isso o Senhor não os aceita; agora se lembrará da iniqüidade deles, e visitará os seus pecados." Este versículo fala sobre a condenação de Deus por causa do comportamento errado do povo, que é um tema presente em Oséias 4.
+****
+
+[[v35-4-1]]
+
+^<<v35-4-1,1>>^ Ouvi a palavra do Senhor, filhos de Israel! Porque o Senhor está em litígio com os habitantes da terra. Não há sinceridade nem bondade, nem conhecimento de Deus na terra.^&#42;1^
+
+[[v35-4-2]]
+
+^<<v35-4-2,2>>^ Juram falso, assassinam, roubam, cometem adultério, usam de violência e acumulam homicídio sobre homicídio.
+
+[[v35-4-3]]
+
+^<<v35-4-3,3>>^ Por isso, a terra está de luto e todos os seus habitantes perecem; os animais selvagens, as aves do céu, e até mesmo os peixes do mar desaparecem.
+
+[[v35-4-4]]
+
+^<<v35-4-4,4>>^ Entretanto, ninguém poderá acusar o povo, nem o repreender, mas eu censuro a ti, ó sacerdote.
+
+[[v35-4-5]]
+
+^<<v35-4-5,5>>^ Tu tropeçarás em pleno dia, assim como o profeta durante a noite. Eu te farei perecer,^&#42;1^
+
+[[v35-4-6]]
+
+^<<v35-4-6,6>>^ porque meu povo se perde por falta de conhecimento; por teres rejeitado a instrução, te excluirei de meu sacerdócio; já que esqueceste a Lei de teu Deus, também eu me esquecerei dos teus filhos.^&#42;1^
+
+[[v35-4-7]]
+
+^<<v35-4-7,7>>^ Quanto mais se multiplicaram, mais pecaram contra mim, transformaram em infâmia o que era a sua glória.
+
+[[v35-4-8]]
+
+^<<v35-4-8,8>>^ Eles se nutrem do pecado de meu povo, e são ávidos de suas iniquidades.
+
+[[v35-4-9]]
+
+^<<v35-4-9,9>>^ O sacerdote será tratado como o povo. Eu o castigarei pelo seu comportamento. Irei tratá-lo segundo as suas obras.
+
+[[v35-4-10]]
+
+^<<v35-4-10,10>>^ Comerão, mas não hão de saciar-se; irão se prostituir, mas não hão de multiplicar-se, porque abandonaram o culto do Senhor.
+
+[[v35-4-11]]
+
+^<<v35-4-11,11>>^ O mau proceder, o vinho e o mosto abafam a razão.
+
+[[v35-4-12]]
+
+^<<v35-4-12,12>>^ Meu povo consulta o seu pedaço de pau, e o seu cajado lhe faz revelações, porque o espírito de infidelidade o perde e eles se prostituem, afastando-se de seu Deus.
+
+[[v35-4-13]]
+
+^<<v35-4-13,13>>^ Sacrificam nos cimos das montanhas, queimam ofertas nas colinas, debaixo dos carvalhos, dos álamos e dos terebintos, sentindo-se bem à sua sombra. Assim, quando vossas filhas se prostituem e vossas noras adulteram,
+
+[[v35-4-14]]
+
+^<<v35-4-14,14>>^ não castigarei as vossas filhas prostitutas, nem vossas noras adúlteras, porque eles mesmos coabitam com meretrizes e sacrificam com hieródulas. O povo insensato lança-se à perdição!
+
+[[v35-4-15]]
+
+^<<v35-4-15,15>>^ Se procederes mal, Israel, que ao menos Judá não se torne culpado! Não vades a Guilgal, não subais a Bet-Áven, e não jureis “pela vida de Deus!”
+
+[[v35-4-16]]
+
+^<<v35-4-16,16>>^ Porque Israel se rebela como uma novilha insubmissa, o Senhor vai conduzi-lo agora a pastar como um cordeiro em uma planície aberta.^&#42;1^
+
+[[v35-4-17]]
+
+^<<v35-4-17,17>>^ Efraim aliou-se aos ídolos: deixa-o!
+
+[[v35-4-18]]
+
+^<<v35-4-18,18>>^ Logo que cessam de beber, entregam-se à prostituição;^&#42;1^ seus chefes preferem a ignomínia.
+
+[[v35-4-19]]
+
+^<<v35-4-19,19>>^ O vento os envolverá nas suas asas, e serão cobertos de vergonha por causa de seus altares.
+
+'''
+
+xref:035-oseias/035-oseias-003.adoc#v35-3-0[&#60; Capítulo Anterior] | <<v35-4-0,Topo>> | xref:035-oseias/035-oseias-005.adoc#v35-5-0[Próximo Capítulo &#62;]

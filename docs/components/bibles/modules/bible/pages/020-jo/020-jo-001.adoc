@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v20-1-0]]
+=== Jó, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 1 de Jó descreve a história de um homem chamado Jó que era rico, justo e temia a Deus. Satanás argumentou com Deus que Jó era justo apenas por causa da prosperidade que tinha, e que, se tudo lhe fosse tirado, ele iria amaldiçoar a Deus. Deus permitiu que Satanás afligisse Jó, tirando tudo o que ele tinha, desde seus bens até seus filhos. Mesmo assim, Jó não amaldiçoou a Deus, mas adorou e bendisse o nome do Senhor.
+* Salmos 34:19: "Muitas são as aflições do justo, mas o Senhor o livra de todas." Este verso reflete a ideia central do capítulo 1 de Jó, de que, embora o justo possa passar por muitas aflições, Deus ainda está com ele e o livrará de todas elas.
+* 2 Coríntios 4:17: "Pois a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente." Este verso fala sobre como as aflições e tribulações que passamos nesta vida são temporárias e nos preparam para a glória eterna que está por vir, assim como Jó permaneceu fiel a Deus, apesar de suas perdas.
+* Romanos 8:28: "E sabemos que todas as coisas concorrem para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito." Este verso fala sobre como todas as coisas, inclusive as aflições, trabalham juntas para o bem daqueles que amam a Deus, assim como Jó permaneceu fiel, mesmo em meio à aflição.
+* 1 Pedro 5:10: "O Deus de toda graça, que em Cristo vos chamou à sua eterna glória, depois de terdes sofrido por um pouco, ele mesmo vos há de aperfeiçoar, firmar, fortificar e fundamentar." Este verso fala sobre como Deus é o Deus de toda graça e como ele pode fortalecer e aperfeiçoar aqueles que sofrem por um pouco, assim como Jó permaneceu firme em meio à aflição.
+****
+
+[[v20-1-1]]
+
+^<<v20-1-1,1>>^ Havia, na terra de Hus, um homem chamado Jó. Era homem íntegro e reto, que temia a Deus e mantinha-se afastado do mal.
+
+[[v20-1-2]]
+
+^<<v20-1-2,2>>^ Nasceram-lhe sete filhos e três filhas.
+
+[[v20-1-3]]
+
+^<<v20-1-3,3>>^ Possuía sete mil ovelhas, três mil camelos, quinhentas juntas de bois, quinhentas jumentas e uma grande quantidade de escravos. Este homem era o mais rico dentre todos os habitantes do Oriente.
+
+[[v20-1-4]]
+
+^<<v20-1-4,4>>^ Seus filhos tinham o costume de ir à casa uns dos outros, alternadamente, para se banquetearem, e convidavam suas três irmãs para comer e beber com eles.
+
+[[v20-1-5]]
+
+^<<v20-1-5,5>>^ Quando acabava a série dos dias de banquetes, Jó mandava chamar seus filhos para purificá-los e, na manhã do dia seguinte, oferecia holocaustos por intenção de cada um deles: “porque – dizia ele –, talvez meus filhos tenham pecado e amaldiçoado a Deus em seu coração”. Assim fazia Jó sempre.^&#42;1^
+
+[[v20-1-6]]
+
+^<<v20-1-6,6>>^ Um dia em que os filhos de Deus se apresentaram diante do Senhor, veio também Satanás entre eles.^&#42;1^
+
+[[v20-1-7]]
+
+^<<v20-1-7,7>>^ O Senhor disse-lhe: “De onde vens tu?”. “Andei dando volta pelo mundo – disse Satanás – e passeando por ele”.
+
+[[v20-1-8]]
+
+^<<v20-1-8,8>>^ O Senhor disse-lhe: “Notaste o meu servo Jó? Não há outro igual a ele na terra. É um homem íntegro e reto, temente a Deus e se mantém longe do mal”.
+
+[[v20-1-9]]
+
+^<<v20-1-9,9>>^ Mas o Satanás respondeu ao Senhor: “É a troco de nada que Jó teme a Deus?
+
+[[v20-1-10]]
+
+^<<v20-1-10,10>>^ Não cercaste, qual uma muralha, a sua pessoa, a sua casa e todos os seus bens? Abençoaste tudo quanto ele fez e seus rebanhos cobriram toda a região.
+
+[[v20-1-11]]
+
+^<<v20-1-11,11>>^ Mas estende a tua mão e toca em tudo o que ele possui. Juro-te que te amaldiçoará na tua face”.
+
+[[v20-1-12]]
+
+^<<v20-1-12,12>>^ “Pois bem!” – respondeu o Senhor. “Tudo o que ele possui está em teu poder. Mas não estendas a tua mão contra a sua pessoa.” E o Satanás saiu da presença do Senhor.
+
+[[v20-1-13]]
+
+^<<v20-1-13,13>>^ Ora, um dia em que os filhos e filhas de Jó estavam à mesa e bebiam vinho em casa do irmão mais velho,
+
+[[v20-1-14]]
+
+^<<v20-1-14,14>>^ um mensageiro veio dizer a Jó: “Os bois lavravam e as jumentas pastavam perto deles.
+
+[[v20-1-15]]
+
+^<<v20-1-15,15>>^ De repente, apareceram os sabeus e roubaram tudo, passando a fio de espada seus escravos. Só eu escapei para trazer-te a notícia”.
+
+[[v20-1-16]]
+
+^<<v20-1-16,16>>^ Estando ele ainda a falar, veio outro e disse: “O fogo de Deus caiu do céu; queimou, consumiu as ovelhas e também os escravos. Só eu escapei para trazer-te a notícia”.
+
+[[v20-1-17]]
+
+^<<v20-1-17,17>>^ Ainda este falava, e eis que chegou outro e disse: “Os caldeus, divididos em três bandos, lançaram-se sobre os camelos e os levaram embora, depois de passarem a fio de espada os escravos. Só eu escapei para trazer-te a notícia!”.
+
+[[v20-1-18]]
+
+^<<v20-1-18,18>>^ Ainda este estava falando, e eis que entrou outro e disse: “Teus filhos e filhas estavam comendo e bebendo vinho na casa do irmão mais velho,
+
+[[v20-1-19]]
+
+^<<v20-1-19,19>>^ quando um furacão se levantou de repente do deserto, abalou os quatro cantos da casa e esta desabou sobre os jovens. Morreram todos. Só eu escapei para trazer-te a notícia”.
+
+[[v20-1-20]]
+
+^<<v20-1-20,20>>^ Jó então se levantou. Rasgou seu manto e rapou a cabeça. Depois, caindo prostrado por terra,
+
+[[v20-1-21]]
+
+^<<v20-1-21,21>>^ disse: “Nu saí do ventre de minha mãe, nu voltarei. O Senhor deu, o Senhor tirou: bendito seja o nome do Senhor!”.^&#42;1^
+
+[[v20-1-22]]
+
+^<<v20-1-22,22>>^ Em tudo isso, Jó não cometeu pecado algum, nem proferiu contra Deus blasfêmia alguma.
+
+'''
+
+xref:019-ester/019-ester-016.adoc#v19-16-0[&#60; Capítulo Anterior] | <<v20-1-0,Topo>> | xref:020-jo/020-jo-002.adoc#v20-2-0[Próximo Capítulo &#62;]

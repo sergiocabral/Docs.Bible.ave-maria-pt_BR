@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v9-27-0]]
+=== I Samuel, 27
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Samuel 27 narra a continuação da história de Davi, que, fugindo da perseguição do rei Saul, decide se refugiar entre os filisteus. Ele recebe a cidade de Ziclague do rei filisteu Aquis, e a utiliza como base para saques a outras cidades. Davi engana Aquis, fazendo-o acreditar que está lutando contra Israel, quando na verdade está atacando outros povos inimigos. Os temas presentes nesse capítulo incluem a fuga de Davi, a sua vida entre os filisteus, e a sua astúcia para enganar Aquis e manter-se seguro.
+* 1 Crônicas 12:1-2: "Ora, estes são os que vieram ter com Davi em Ziclague, quando ele ainda se mantinha oculto por causa de Saul, filho de Quis; e eram dos mais valentes, ajudando-o na guerra, armados de escudos e lanças, e cujo rosto era como rosto de leão, e que eram tão ligeiros como os corços nos montes". Esses versículos mencionam a cidade de Ziclague, onde Davi se refugia em 1 Samuel 27, e falam dos homens valentes que se juntam a ele ali.
+* 1 Samuel 29:6-7: "Então Aquis chamou Davi e disse-lhe: Tão certo como vive o Senhor, tu foste reto, e saíste comigo e entraste comigo no arraial, e nem achei em ti mal algum, desde o dia em que vieste ter comigo, até hoje; porém aos olhos dos príncipes não és bom. Volta, pois, e vai em paz, para que não faças nada que desagrade aos filhos de Amom". Nesses versículos, Aquis elogia Davi e o manda embora de sua corte, temendo que os outros líderes filisteus não confiem em Davi. Isso mostra como Davi conseguiu enganar Aquis e manter-se seguro entre os filisteus.
+* Salmos 56:3-4: "Em qualquer tempo em que eu temer, confiarei em ti. Em Deus louvarei a sua palavra, em Deus pus a minha confiança; não temerei o que me possa fazer a carne". Davi escreveu esse Salmo durante sua fuga de Saul, e expressa a sua confiança em Deus, mesmo em meio à adversidade e ao medo. Esse sentimento pode ser aplicado a 1 Samuel 27, onde Davi busca refúgio entre os filisteus.
+* Provérbios 21:30: "Não há sabedoria, nem inteligência, nem conselho contra o Senhor". Esse verso enfatiza a supremacia de Deus sobre todas as coisas, e pode ser aplicado a Davi em 1 Samuel 27. Embora ele esteja usando sua astúcia para enganar Aquis e se manter seguro entre os filisteus, no final das contas é a vontade de Deus que prevalece.
+* Isaías 32:8: "Mas o nobre faz planos nobres, e em coisas nobres persistirá." Este versículo fala sobre a importância de ter boas intenções e agir de forma justa e nobre. Isso é algo que pode ser aplicado ao personagem de Davi em 1 Samuel 27, que apesar de estar agindo de forma questionável, ainda tinha a intenção de proteger a si mesmo e a seus homens.
+****
+
+[[v9-27-1]]
+
+^<<v9-27-1,1>>^ “Dia virá – pensava Davi –, em que perecerei pelas mãos de Saul! O melhor que posso fazer é refugiar-me na terra dos filisteus. Saul renunciará então a buscar-me por todo o território de Israel e eu lhe escaparei.”
+
+[[v9-27-2]]
+
+^<<v9-27-2,2>>^ Partiu, pois, Davi com seus seiscentos homens e foi para junto de Aquis, filho de Maoc, rei de Gat.
+
+[[v9-27-3]]
+
+^<<v9-27-3,3>>^ Permaneceu junto de Aquis em Gat, ele e sua gente, cada um com sua família. Levou consigo suas duas mulheres, Aquinoam, de Jezrael e Abigail, de Carmelo, viúva de Nabal.
+
+[[v9-27-4]]
+
+^<<v9-27-4,4>>^ Saul, tendo sabido que Davi se refugiara em Gat, desistiu de persegui-lo.
+
+[[v9-27-5]]
+
+^<<v9-27-5,5>>^ Davi disse a Aquis: “Se achei graça aos teus olhos, dá-me um lugar nas cidades do campo, onde eu possa morar. Por que haveria o teu servo de morar contigo na cidade real?”.
+
+[[v9-27-6]]
+
+^<<v9-27-6,6>>^ Aquis deu-lhe Siceleg. Por isso, Siceleg ficou pertencendo aos reis de Judá até o presente.
+
+[[v9-27-7]]
+
+^<<v9-27-7,7>>^ O tempo que Davi passou na terra dos filisteus foi um ano e quatro meses.
+
+[[v9-27-8]]
+
+^<<v9-27-8,8>>^ Davi e os seus homens saíam e faziam incursões entre os gessureus, os gerezeus e os amalecitas, populações que habitavam de longa data a região de Sur até a terra do Egito.
+
+[[v9-27-9]]
+
+^<<v9-27-9,9>>^ Davi assolava a região, sem deixar com vida homem ou mulher. Tomava as ovelhas, os bois, os jumentos, os camelos, as vestes e voltava para Aquis.
+
+[[v9-27-10]]
+
+^<<v9-27-10,10>>^ “Onde fizestes hoje incursão?” – perguntava Aquis. E Davi respondia: “Para o leste de Judá, ou para o sul dos jerameelitas, ou para o sul dos cineus”.
+
+[[v9-27-11]]
+
+^<<v9-27-11,11>>^ Mas não deixava com vida homem ou mulher, para não ter de levá-los a Gat, temendo que o denunciassem, contando a verdade do que ele fazia. Assim o fez durante todo o tempo que passou entre os filisteus.
+
+[[v9-27-12]]
+
+^<<v9-27-12,12>>^ Aquis confiava em Davi: “Ele se torna odioso ao seu povo de Israel – pensava ele – e será para sempre o meu servo”.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-026.adoc#v9-26-0[&#60; Capítulo Anterior] | <<v9-27-0,Topo>> | xref:009-i-samuel/009-i-samuel-028.adoc#v9-28-0[Próximo Capítulo &#62;]

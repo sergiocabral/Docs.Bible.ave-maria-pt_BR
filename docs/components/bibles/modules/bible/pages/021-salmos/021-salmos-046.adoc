@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v21-46-0]]
+=== Salmos, 46
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 46 é um hino de confiança em Deus, que é o nosso refúgio e fortaleza em meio às adversidades e aos conflitos da vida. Ele afirma a certeza de que Deus está presente e atuante, mesmo quando tudo parece estar desmoronando ao nosso redor. Abaixo estão cinco versículos relacionados aos temas abordados nesse Salmo:
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Essa passagem enfatiza a presença de Deus em meio às dificuldades e a sua capacidade de nos fortalecer e sustentar.
+* Filipenses 4:6-7: "Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus, pela oração e súplicas, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus." Esses versículos nos exortam a confiar em Deus em vez de nos preocuparmos com as circunstâncias adversas e a buscar a sua paz por meio da oração e da gratidão.
+* João 14:27: "Deixo-vos a paz, a minha paz vos dou; eu não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize." Jesus nos promete a sua paz, que é diferente da paz que o mundo oferece, e nos encoraja a não ficarmos ansiosos ou assustados.
+* Salmos 91:1-2: "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará. Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei." Esses versículos ressaltam que Deus é o nosso refúgio seguro e a nossa fortaleza inabalável, onde podemos descansar confiantes.
+* Romanos 8:38-39: "Porque estou certo de que, nem a morte, nem a vida, nem anjos, nem principados, nem coisas presentes, nem futuras, nem potestades, nem a altura, nem a profundidade, nem qualquer outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus, nosso Senhor." Esses versículos nos asseguram que nada pode nos separar do amor de Deus, nem mesmo as adversidades ou as forças malignas deste mundo.
+****
+
+[[v21-46-1]]
+
+^<<v21-46-1,1>>^ Ao mestre de canto. Salmo dos filhos de Coré.^&#42;1^
+
+[[v21-46-2]]
+
+^<<v21-46-2,2>>^ Povos, aplaudi com as mãos, aclamai a Deus com vozes alegres,
+
+[[v21-46-3]]
+
+^<<v21-46-3,3>>^ porque o Senhor é o Altíssimo, o temível, o grande rei do universo.
+
+[[v21-46-4]]
+
+^<<v21-46-4,4>>^ Ele submeteu a nós as nações, colocou os povos sob nossos pés,
+
+[[v21-46-5]]
+
+^<<v21-46-5,5>>^ escolheu uma terra para nossa herança, a glória de Jacó, seu amado.
+
+[[v21-46-6]]
+
+^<<v21-46-6,6>>^ Subiu Deus por entre aclamações, o Senhor, ao som das trombetas.
+
+[[v21-46-7]]
+
+^<<v21-46-7,7>>^ Cantai à glória de Deus, cantai; cantai à glória de nosso rei, cantai.
+
+[[v21-46-8]]
+
+^<<v21-46-8,8>>^ Porque Deus é o rei do universo, entoai-lhe, pois, um hino!
+
+[[v21-46-9]]
+
+^<<v21-46-9,9>>^ Deus reina sobre as nações, Deus está em seu trono sagrado.
+
+[[v21-46-10]]
+
+^<<v21-46-10,10>>^ Reuniram-se os príncipes dos povos ao povo do Deus de Abraão, pois a Deus pertencem os grandes da terra, a ele, o soberanamente grande.
+
+'''
+
+xref:021-salmos/021-salmos-045.adoc#v21-45-0[&#60; Capítulo Anterior] | <<v21-46-0,Topo>> | xref:021-salmos/021-salmos-047.adoc#v21-47-0[Próximo Capítulo &#62;]

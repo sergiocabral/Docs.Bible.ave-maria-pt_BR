@@ -1,0 +1,226 @@
+include::./index.adoc[]
+
+[[v5-32-0]]
+=== Deuteronômio, 32
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Deuteronômio 32 é um cântico que Moisés canta ao povo de Israel para lembrá-los da fidelidade de Deus e dos castigos que podem vir sobre eles caso abandonem a aliança com Ele. Esse capítulo enfatiza a importância da obediência e da justiça, bem como o cuidado divino por Seu povo e a ira divina contra aqueles que O rejeitam.
+* Jeremias 21:12: "Ó casa de Davi, assim diz o Senhor: Praticai a justiça pela manhã, e livrai o oprimido da mão do opressor, para que não saia fogo da vossa ira, que arda e ninguém o apague, por causa da maldade das vossas obras." A prática da justiça é um tema central em Deuteronômio 32, e esse versículo enfatiza a importância de agir com justiça para evitar a ira de Deus.
+* Salmos 81:11-13: "Mas o meu povo não quis ouvir a minha voz, e Israel não me quis obedecer. Então eu os entreguei aos desejos dos seus corações, para que andassem nos seus próprios conselhos. Ah, se o meu povo me tivesse ouvido! Se Israel tivesse andado nos meus caminhos!" Esses versículos refletem a preocupação de Deuteronômio 32 com a obediência a Deus e as consequências da desobediência.
+* Isaías 49:15-16: "Pode uma mulher esquecer-se do filho que ainda mama, de sorte que não se compadeça do filho do seu ventre? Mas ainda que esta se esquecesse, eu, todavia, não me esquecerei de ti. Eis que nas palmas das minhas mãos eu te gravei; os teus muros estão continuamente diante de mim." Deuteronômio 32 enfatiza a fidelidade de Deus ao Seu povo, e esse versículo de Isaías reflete a mesma ideia.
+* Romanos 12:19: "Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: ‘Minha é a vingança; eu retribuirei’, diz o Senhor." A ira de Deus contra aqueles que O rejeitam é um tema importante em Deuteronômio 32, e esse versículo em Romanos enfatiza que é Deus quem deve lidar com a vingança, não os seres humanos.
+****
+
+[[v5-32-1]]
+
+^<<v5-32-1,1>>^ “Estai atentos, ó céus, eu vou falar. E a terra ouça as palavras de minha boca.
+
+[[v5-32-2]]
+
+^<<v5-32-2,2>>^ Derrame-se como chuva a minha doutrina, espalhe-se como orvalho a minha palavra, como aguaceiro sobre os campos verdejantes, como chuvarada sobre a relva.
+
+[[v5-32-3]]
+
+^<<v5-32-3,3>>^ Porque vou proclamar o nome do Senhor, dar glória ao nosso Deus!
+
+[[v5-32-4]]
+
+^<<v5-32-4,4>>^ Ele é o Rochedo, perfeita é a sua obra, justos, todos os seus caminhos; é Deus de lealdade, não de iniquidade, ele é justo, ele é reto.^&#42;1^
+
+[[v5-32-5]]
+
+^<<v5-32-5,5>>^ Pecaram contra ele; já não são seus filhos, mas raça degenerada, geração perversa, depravada.
+
+[[v5-32-6]]
+
+^<<v5-32-6,6>>^ É assim que agradeceis ao Senhor, povo frívolo e insensato? Não é ele teu Pai, teu Criador, que te fez e te estabeleceu?
+
+[[v5-32-7]]
+
+^<<v5-32-7,7>>^ Lembra-te dos dias antigos, considera os anos das gerações passadas. Interroga teu pai e ele te contará; teus anciãos e eles te dirão.
+
+[[v5-32-8]]
+
+^<<v5-32-8,8>>^ Quando o Altíssimo dividia os povos e dispersava os filhos dos homens, fixou limites aos povos, segundo o número dos filhos de Deus.
+
+[[v5-32-9]]
+
+^<<v5-32-9,9>>^ Entretanto, a parte do Senhor era o seu povo, Jacó, a porção de sua herança.
+
+[[v5-32-10]]
+
+^<<v5-32-10,10>>^ Em terra deserta o encontrou, entre bramidos de regiões desoladas, e o cercou de cuidados e o acalentou, e o guardou como a menina dos olhos!
+
+[[v5-32-11]]
+
+^<<v5-32-11,11>>^ Tal qual águia vigilante sobre o ninho, voando sobre os filhotes, ele estendeu as asas e o tomou e o transportou sobre sua plumagem.
+
+[[v5-32-12]]
+
+^<<v5-32-12,12>>^ Só o Senhor foi o seu guia; nenhum outro deus estava com ele.
+
+[[v5-32-13]]
+
+^<<v5-32-13,13>>^ Fê-lo galgar às alturas da terra, alimentou-o com os frutos do campo, deu-lhe a beber mel da rocha, óleo de pedra duríssima.
+
+[[v5-32-14]]
+
+^<<v5-32-14,14>>^ A manteiga das vacas, o leite das ovelhas, a carne gorda dos cordeiros, dos carneiros de Basã e dos cabritos, com a fina flor do trigo. E bebeste como vinho puro o sangue das uvas.
+
+[[v5-32-15]]
+
+^<<v5-32-15,15>>^ Todavia, Jesurun engordou e recalcitrou. Estás gordo, robusto, vigoroso! E abandonou Deus que o criou, e desprezou o Rochedo de sua salvação.^&#42;1^
+
+[[v5-32-16]]
+
+^<<v5-32-16,16>>^ Provocaram-lhe o ciúme com deuses estranhos, irritaram-no com abominações.
+
+[[v5-32-17]]
+
+^<<v5-32-17,17>>^ Sacrificaram a gênios que não são Deus, a divindades desconhecidas, novas, recém-chegadas, que vossos pais não veneraram.
+
+[[v5-32-18]]
+
+^<<v5-32-18,18>>^ Abandonaste o Rochedo que te gerou e esqueceste Deus que te formou!
+
+[[v5-32-19]]
+
+^<<v5-32-19,19>>^ Ao ver tais coisas, o Senhor indignou-se com seus filhos e suas filhas,
+
+[[v5-32-20]]
+
+^<<v5-32-20,20>>^ e disse: ‘Vou ocultar-lhes o meu rosto e ver o que lhes sucederá... Pois são uma geração perversa, filhos sem lealdade.
+
+[[v5-32-21]]
+
+^<<v5-32-21,21>>^ Excitaram o meu ciúme com coisas que não são deus, magoaram-me com suas idolatrias; também eu excitarei o seu ciúme com gente que não constitui um povo e os magoarei com uma nação insensata.^&#42;1^
+
+[[v5-32-22]]
+
+^<<v5-32-22,22>>^ Sim, acendeu-se o fogo da minha cólera, que arde até o mais profundo da habitação dos mortos; devora a terra e os seus produtos, e consome os fundamentos das montanhas.
+
+[[v5-32-23]]
+
+^<<v5-32-23,23>>^ Acumularei desgraças sobre eles, contra eles esgotarei minhas flechas.
+
+[[v5-32-24]]
+
+^<<v5-32-24,24>>^ Serão extenuados pela fome, devorados pela febre e pela peste mortal. Incitarei contra eles o dente das feras e o veneno dos animais que rastejam pelo chão.
+
+[[v5-32-25]]
+
+^<<v5-32-25,25>>^ Fora, a espada a semear a orfandade; dentro, um pavor de estarrecer tanto o adolescente como a jovem, tanto o menino de peito como o ancião.
+
+[[v5-32-26]]
+
+^<<v5-32-26,26>>^ Eu teria prometido reduzi-los a pó, apagar sua lembrança do meio dos homens,
+
+[[v5-32-27]]
+
+^<<v5-32-27,27>>^ caso não temesse (favorecer) os insultos do inimigo, e que seus adversários, iludindo-se, viessem a exclamar: ‘Poderosa é nossa mão; não foi o Senhor quem fez tudo isso!’.
+
+[[v5-32-28]]
+
+^<<v5-32-28,28>>^ Porque é uma nação insensata, desprovida de inteligência.
+
+[[v5-32-29]]
+
+^<<v5-32-29,29>>^ Se fossem sábios, compreenderiam, e discerniriam aquilo que os espera.
+
+[[v5-32-30]]
+
+^<<v5-32-30,30>>^ Como poderia um só homem perseguir mil, e dois pôr em fuga dois mil, se seu Rochedo não os tivesse vendido, se o Senhor não os tivesse entregado?
+
+[[v5-32-31]]
+
+^<<v5-32-31,31>>^ Porque o rochedo deles não é como o nosso Rochedo; disso os nossos inimigos são testemunhas.
+
+[[v5-32-32]]
+
+^<<v5-32-32,32>>^ Suas videiras são das plantações de Sodoma e dos terrenos de Gomorra; suas uvas são venenosas, seus cachos, amargosos.
+
+[[v5-32-33]]
+
+^<<v5-32-33,33>>^ O seu vinho é veneno de serpente, o mais terrível veneno de cobra!
+
+[[v5-32-34]]
+
+^<<v5-32-34,34>>^ Eis uma coisa que está guardada comigo, consignada nos meus segredos:
+
+[[v5-32-35]]
+
+^<<v5-32-35,35>>^ a mim me pertencem a vingança e as represálias, para o instante em que o seu pé resvalar. Porque está próximo o dia da sua ruína e o seu destino se precipita.^&#42;1^
+
+[[v5-32-36]]
+
+^<<v5-32-36,36>>^ O Senhor fará justiça ao seu povo e terá compaixão dos seus servos, ao vê-los extenuados, desfeitos tanto o escravo como o homem livre.
+
+[[v5-32-37]]
+
+^<<v5-32-37,37>>^ Dirá: ‘Onde estão os seus deuses – o rochedo em que confiavam –,
+
+[[v5-32-38]]
+
+^<<v5-32-38,38>>^ que comiam a gordura dos seus sacrifícios e bebiam o vinho das suas libações? Levantem-se para vos socorrer; sejam eles vosso abrigo!
+
+[[v5-32-39]]
+
+^<<v5-32-39,39>>^ Reconhecei agora: eu só, somente eu sou Deus, e não há outro além de mim. Eu extermino e chamo à vida, eu firo e curo, e não há quem o arranque de minha mão.
+
+[[v5-32-40]]
+
+^<<v5-32-40,40>>^ Levanto a minha mão para o céu e digo: tão certo como eu vivo eternamente,
+
+[[v5-32-41]]
+
+^<<v5-32-41,41>>^ quando afiar a minha espada reluzente e tomar a minha aljava, me vingarei dos meus inimigos e darei a paga aos que me odeiam;
+
+[[v5-32-42]]
+
+^<<v5-32-42,42>>^ embriagarei de sangue as minhas flechas, minha espada se saciará de carne, do sangue das vítimas e dos prisioneiros, das cabeças dos chefes inimigos’.
+
+[[v5-32-43]]
+
+^<<v5-32-43,43>>^ Louvai, ó nações, o seu povo, porque vingará o sangue dos seus servos; tomará vingança dos seus adversários e purificará a sua terra e o seu povo.”^&#42;1^
+
+[[v5-32-44]]
+
+^<<v5-32-44,44>>^ Moisés, juntamente com Josué, filho de Nun, veio e proferiu todas as palavras desse cântico aos ouvidos do povo.
+
+[[v5-32-45]]
+
+^<<v5-32-45,45>>^ Quando acabou de proferir todas as palavras a todo o Israel,
+
+[[v5-32-46]]
+
+^<<v5-32-46,46>>^ disse-lhes: “Aplicai os vossos corações a todos os preceitos que hoje vos dou, prescrevei-os a vossos filhos, a fim de que pratiquem cuidadosamente todas as palavras desta lei.
+
+[[v5-32-47]]
+
+^<<v5-32-47,47>>^ Ela não é para vós coisa de somenos importância, mas é vossa própria vida. É por ela que prolongareis os vossos dias na terra que ides possuir, depois de passardes o Jordão”.
+
+[[v5-32-48]]
+
+^<<v5-32-48,48>>^ Nesse mesmo dia, o Senhor disse a Moisés:
+
+[[v5-32-49]]
+
+^<<v5-32-49,49>>^ “Sobe à montanha de Abarim, o monte Nebo, que está na terra de Moab, defronte de Jericó, e contempla a terra de Canaã, cuja posse dou aos filhos de Israel.
+
+[[v5-32-50]]
+
+^<<v5-32-50,50>>^ Morrerás sobre essa montanha em que vais subir, e serás reunido aos teus, como o teu irmão Aarão morreu sobre o monte Hor e foi reunido aos seus,
+
+[[v5-32-51]]
+
+^<<v5-32-51,51>>^ porque pecastes contra mim no meio dos israelitas, nas águas de Meriba, em Cades, no deserto de Sin, e não me santificastes no meio dos filhos de Israel.
+
+[[v5-32-52]]
+
+^<<v5-32-52,52>>^ Verás, pois, defronte de ti a terra que darei aos israelitas, mas não entrarás nela”.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-031.adoc#v5-31-0[&#60; Capítulo Anterior] | <<v5-32-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-033.adoc#v5-33-0[Próximo Capítulo &#62;]

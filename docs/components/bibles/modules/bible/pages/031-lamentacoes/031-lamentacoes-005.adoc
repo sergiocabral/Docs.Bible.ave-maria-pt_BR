@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v31-5-0]]
+=== Lamentações, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 5 de Lamentações é uma oração do povo de Judá a Deus, pedindo misericórdia e ajuda em meio à destruição e exílio que eles estão enfrentando. Os versículos relacionados com os temas abordados no capítulo são:
+* Salmos 79:8-9: "Não te lembres das nossas iniquidades passadas; olha para nós, pois estamos mergulhados em grandes dificuldades. Ajuda-nos, ó Deus, salvador nosso, por causa da glória do teu nome. Livra-nos e perdoa os nossos pecados, por amor do teu nome." Assim como no salmo, o povo de Judá reconhece que seus sofrimentos são consequência de seus próprios pecados, e pedem a Deus que os perdoe e os ajude em sua aflição.
+* Salmos 102:1-2: "Senhor, ouve a minha oração! Que chegue a ti o meu clamor! Não escondas de mim o teu rosto no dia da minha angústia! Inclina para mim os teus ouvidos; quando eu clamar, responde-me depressa." Nesse salmo, o salmista implora a Deus que ouça sua oração em um momento de grande aflição, assim como o povo de Judá em Lamentações 5.
+* Salmos 74:1-3: "Por que, ó Deus, nos rejeitaste para sempre? Por que se acende a tua ira contra as ovelhas do teu pasto? Lembra-te da tua congregação, que adquiriste desde a antiguidade, e que remiste para ser a tribo da tua herança; e do monte Sião, onde habitaste. Levanta os teus passos para os lugares eternos assolados, para todo o mal que o inimigo tem feito no santuário." O salmo 74 é uma lamentação pelo templo de Jerusalém destruído pelos inimigos, assim como a cidade de Judá foi destruída e saqueada. O povo de Judá em Lamentações 5 pede a Deus que se lembre deles e restaure sua terra.
+* Salmos 80:14-15: "Volta-te, ó Deus dos exércitos! Olha dos céus e vê, e visita esta vinha; e protege-a, pois está sendo destruída pelo fogo; cortam-na, arrasam-na, pelo teu rosto repreendem o teu povo." Assim como o salmista pede que Deus proteja e restaure a vinha em perigo, o povo de Judá em Lamentações 5 pede que Deus restaure sua terra e proteja seu povo.
+* Isaías 63:15-16: "Olha desde os céus, e vê desde a tua santa e gloriosa habitação. Onde estão o teu zelo e as tuas obras poderosas? A ternura das tuas entranhas e das tuas misericórdias detêm-se para comigo. Mas tu és nosso Pai, ainda que Abraão não nos conhece, e Israel não nos reconhece; tu, ó Senhor, és o nosso Pai; o teu nome é desde a eternidade." Estes versículos expressam um apelo de súplica ao Senhor para que Ele intervenha e mostre Sua ternura e misericórdia para com o povo. Através do lamento, os autores de Lamentações reconhecem sua necessidade de Deus e sua confiança em Sua fidelidade. Da mesma forma, este versículo pede a Deus para mostrar Seu amor e cuidado pelo Seu povo, mesmo que eles possam ter se afastado Dele ou não ter uma compreensão completa de Sua vontade.
+****
+
+[[v31-5-1]]
+
+^<<v31-5-1,1>>^ Lembrai-vos, Senhor, do que nos aconteceu. Olhai, considerai nossa humilhação.^&#42;1^
+
+[[v31-5-2]]
+
+^<<v31-5-2,2>>^ Nossa herança passou a mãos estranhas, e nossas casas foram entregues a desconhecidos.
+
+[[v31-5-3]]
+
+^<<v31-5-3,3>>^ Órfãos, fomos privados de nossos pais, e nossas mães são como viúvas.
+
+[[v31-5-4]]
+
+^<<v31-5-4,4>>^ Somente a preço de dinheiro nos é dado beber; a nossa lenha, devemos pagá-la.
+
+[[v31-5-5]]
+
+^<<v31-5-5,5>>^ Carregando o jugo ao pescoço, somos perseguidos, extenuamo-nos, não há trégua para nós!
+
+[[v31-5-6]]
+
+^<<v31-5-6,6>>^ Estendemos a mão ao Egito e à Assíria para obtermos o pão para comer.
+
+[[v31-5-7]]
+
+^<<v31-5-7,7>>^ Pecaram nossos pais, e já não existem, e sobre nós caíram os castigos de suas iniquidades.
+
+[[v31-5-8]]
+
+^<<v31-5-8,8>>^ Um povo de escravos domina sobre nós. Ninguém nos arrebata de suas mãos.
+
+[[v31-5-9]]
+
+^<<v31-5-9,9>>^ Se comemos o pão, é com perigo de nossa vida, por causa da espada que ataca no deserto.^&#42;1^
+
+[[v31-5-10]]
+
+^<<v31-5-10,10>>^ Nossa pele esbraseou-se como ao forno, sob os ardores da fome.
+
+[[v31-5-11]]
+
+^<<v31-5-11,11>>^ Foram violadas as mulheres de Sião e as jovens nas cidades de Judá;
+
+[[v31-5-12]]
+
+^<<v31-5-12,12>>^ chefes foram executados pelas mãos dos inimigos que nenhum respeito tiveram pelos anciãos.
+
+[[v31-5-13]]
+
+^<<v31-5-13,13>>^ Jovens tiveram que girar a mó, e adolescentes vergaram sob o peso dos fardos de lenha.
+
+[[v31-5-14]]
+
+^<<v31-5-14,14>>^ Não se assentam mais às portas os anciãos, deixaram os jovens de dedilhar as cordas da lira.^&#42;1^
+
+[[v31-5-15]]
+
+^<<v31-5-15,15>>^ Fugiu-nos a alegria dos corações; nossas danças se converteram em luto.
+
+[[v31-5-16]]
+
+^<<v31-5-16,16>>^ Caiu-nos da cabeça a coroa; desgraçados de nós, porque pecamos.
+
+[[v31-5-17]]
+
+^<<v31-5-17,17>>^ Nosso coração ficou amargurado, e nossos olhos toldaram-se de lágrimas,
+
+[[v31-5-18]]
+
+^<<v31-5-18,18>>^ porque o monte Sião foi assolado, e nele andam à solta os chacais.
+
+[[v31-5-19]]
+
+^<<v31-5-19,19>>^ Vós, porém, Senhor, sois eterno, e vosso trono subsistirá através dos tempos.
+
+[[v31-5-20]]
+
+^<<v31-5-20,20>>^ Por que persistir em esquecer-nos? Por que abandonar-nos para sempre?
+
+[[v31-5-21]]
+
+^<<v31-5-21,21>>^ Reconduzi-nos a vós, Senhor, e voltaremos. Fazei-nos reviver os dias de outrora.^&#42;1^
+
+[[v31-5-22]]
+
+^<<v31-5-22,22>>^ A menos que nos tenhais abandonado, e que contra nós demasiadamente vos tenhais irritado.
+
+'''
+
+xref:031-lamentacoes/031-lamentacoes-004.adoc#v31-4-0[&#60; Capítulo Anterior] | <<v31-5-0,Topo>> | xref:032-baruc/032-baruc-001.adoc#v32-1-0[Próximo Capítulo &#62;]

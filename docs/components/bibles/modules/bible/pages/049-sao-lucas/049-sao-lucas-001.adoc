@@ -1,0 +1,339 @@
+include::./index.adoc[]
+
+[[v49-1-0]]
+=== São Lucas, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Lucas 1 descreve a concepção e nascimento de João Batista e de Jesus, além de relatar o encontro entre Maria e Isabel, e o cântico do Magnificat de Maria. Também é apresentada a história de Zacarias, pai de João Batista, e o anúncio do anjo Gabriel a ele. A seguir, estão cinco versículos relacionados com os temas abordados em São Lucas 1:
+* Gênesis 18:14: "Acaso, para o SENHOR há coisa demasiadamente difícil? No tempo determinado, voltarei a ti, porventura, e Sara terá um filho." Este versículo apresenta um exemplo da fidelidade de Deus em cumprir suas promessas, mesmo que pareçam impossíveis.
+* Isaías 40:3: "Uma voz clama: No deserto preparem o caminho do Senhor; na terra árida abram uma estrada para o nosso Deus." Este versículo profetiza a vinda de João Batista, que prepararia o caminho para Jesus.
+* Miquéias 5:2: "Mas tu, Belém-Efrata, embora pequena demais para figurar como grupo de milhares de Judá, de ti me sairá o que há de reinar em Israel, e cujas origens são desde os tempos antigos, desde os dias da eternidade." Este versículo profetiza o nascimento de Jesus em Belém.
+* 1 Samuel 1:11: "E fez um voto, dizendo: SENHOR dos Exércitos! Se benignamente atentares para a aflição da tua serva, e de mim te lembrares, e da tua serva não te esqueceres, mas lhe deres um filho varão, ao SENHOR o darei todos os dias da sua vida, e sobre a sua cabeça não passará navalha." Este versículo apresenta um exemplo de uma mulher estéril que ora a Deus por um filho, assim como Isabel e Ana, mãe de Samuel.
+* Malaquias 4:5: "Eis que vos enviarei o profeta Elias, antes que venha o grande e terrível Dia do SENHOR." Este versículo é citado por Jesus ao falar sobre João Batista em Mateus 17:10-13, mostrando como as profecias do Antigo Testamento se cumpriram com o nascimento de João e de Jesus.
+****
+
+[[v49-1-1]]
+
+^<<v49-1-1,1>>^ Muitos empreenderam compor uma história dos acontecimentos que se realizaram entre nós,
+
+[[v49-1-2]]
+
+^<<v49-1-2,2>>^ como no-los transmitiram aqueles que foram desde o princípio testemunhas oculares e que se tornaram ministros da palavra.
+
+[[v49-1-3]]
+
+^<<v49-1-3,3>>^ Também a mim me pareceu bem, depois de haver diligentemente investigado tudo desde o princípio, escrevê-los para ti segundo a ordem, excelentíssimo Teófilo,^&#42;1^
+
+[[v49-1-4]]
+
+^<<v49-1-4,4>>^ para que conheças a solidez daqueles ensinamentos que tens recebido.
+
+[[v49-1-5]]
+
+^<<v49-1-5,5>>^ Nos tempos de Herodes, rei da Judeia, houve um sacerdote por nome Zacarias, da classe de Abias; sua mulher, descendente de Aarão, chamava-se Isabel.
+
+[[v49-1-6]]
+
+^<<v49-1-6,6>>^ Ambos eram justos diante de Deus e observavam irrepreensivelmente todos os mandamentos e preceitos do Senhor.
+
+[[v49-1-7]]
+
+^<<v49-1-7,7>>^ Mas não tinham filhos, porque Isabel era estéril e ambos de idade avançada.
+
+[[v49-1-8]]
+
+^<<v49-1-8,8>>^ Ora, exercendo Zacarias diante de Deus as funções de sacerdote, na ordem da sua classe,
+
+[[v49-1-9]]
+
+^<<v49-1-9,9>>^ coube-lhe por sorte, segundo o costume em uso entre os sacerdotes, entrar no santuário do Senhor e aí oferecer o perfume.
+
+[[v49-1-10]]
+
+^<<v49-1-10,10>>^ Todo o povo estava de fora, à hora da oferenda do perfume.
+
+[[v49-1-11]]
+
+^<<v49-1-11,11>>^ Apareceu-lhe então um anjo do Senhor, em pé, à direita do altar do perfume.^&#42;1^
+
+[[v49-1-12]]
+
+^<<v49-1-12,12>>^ Vendo-o, Zacarias ficou perturbado, e o temor assaltou-o.
+
+[[v49-1-13]]
+
+^<<v49-1-13,13>>^ Mas o anjo disse-lhe: “Não temas, Zacarias, porque foi ouvida a tua oração: Isabel, tua mulher, vai dar-te um filho, e tu o chamarás João.
+
+[[v49-1-14]]
+
+^<<v49-1-14,14>>^ Ele será para ti motivo de gozo e alegria, e muitos se alegrarão com o seu nascimento;
+
+[[v49-1-15]]
+
+^<<v49-1-15,15>>^ porque será grande diante do Senhor e não beberá vinho nem licor, e desde o ventre de sua mãe será cheio do Espírito Santo;
+
+[[v49-1-16]]
+
+^<<v49-1-16,16>>^ ele converterá muitos dos filhos de Israel ao Senhor, seu Deus,
+
+[[v49-1-17]]
+
+^<<v49-1-17,17>>^ e irá adiante de Deus com o espírito e poder de Elias para reconduzir os corações dos pais aos filhos e os rebeldes à sabedoria dos justos, para preparar ao Senhor um povo bem disposto”.
+
+[[v49-1-18]]
+
+^<<v49-1-18,18>>^ Zacarias perguntou ao anjo: “Como terei certeza disso? Pois sou velho e minha mulher é de idade avançada”.
+
+[[v49-1-19]]
+
+^<<v49-1-19,19>>^ O anjo respondeu-lhe: “Eu sou Gabriel, que assisto diante de Deus, e fui enviado para te falar e te trazer esta feliz nova.
+
+[[v49-1-20]]
+
+^<<v49-1-20,20>>^ Eis que ficarás mudo e não poderás falar até o dia em que estas coisas acontecerem, visto que não deste crédito às minhas palavras, que se hão de cumprir a seu tempo”.
+
+[[v49-1-21]]
+
+^<<v49-1-21,21>>^ No entanto, o povo estava esperando Zacarias; e admirava-se de que ele se demorasse tanto tempo no santuário.
+
+[[v49-1-22]]
+
+^<<v49-1-22,22>>^ Ao sair, não lhes podia falar, e compreenderam que tivera no santuário uma visão. Ele lhes explicava isto por acenos; e permaneceu mudo.
+
+[[v49-1-23]]
+
+^<<v49-1-23,23>>^ Decorridos os dias do seu ministério, retirou-se para sua casa.
+
+[[v49-1-24]]
+
+^<<v49-1-24,24>>^ Algum tempo depois Isabel, sua mulher, concebeu; e por cinco meses se ocultava, dizendo:
+
+[[v49-1-25]]
+
+^<<v49-1-25,25>>^ “Eis a graça que o Senhor me fez, quando lançou os olhos sobre mim para tirar o meu opróbrio dentre os homens”.
+
+[[v49-1-26]]
+
+^<<v49-1-26,26>>^ No sexto mês, o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré,
+
+[[v49-1-27]]
+
+^<<v49-1-27,27>>^ a uma virgem desposada com um homem que se chamava José, da casa de Davi e o nome da virgem era Maria.
+
+[[v49-1-28]]
+
+^<<v49-1-28,28>>^ Entrando, o anjo disse-lhe: “Ave, cheia de graça, o Senhor é contigo”.
+
+[[v49-1-29]]
+
+^<<v49-1-29,29>>^ Perturbou-se ela com essas palavras e pôs-se a pensar no que significaria semelhante saudação.
+
+[[v49-1-30]]
+
+^<<v49-1-30,30>>^ O anjo disse-lhe: “Não temas, Maria, pois encontraste graça diante de Deus.
+
+[[v49-1-31]]
+
+^<<v49-1-31,31>>^ Eis que conceberás e darás à luz um filho, e lhe porás o nome de Jesus.
+
+[[v49-1-32]]
+
+^<<v49-1-32,32>>^ Ele será grande e será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi; e reinará eternamente na casa de Jacó,^&#42;1^
+
+[[v49-1-33]]
+
+^<<v49-1-33,33>>^ e o seu reino não terá fim”.
+
+[[v49-1-34]]
+
+^<<v49-1-34,34>>^ Maria perguntou ao anjo: “Como se fará isso, pois não conheço homem?”
+
+[[v49-1-35]]
+
+^<<v49-1-35,35>>^ Respondeu-lhe o anjo: “O Espírito Santo descerá sobre ti, e a força do Altíssimo te envolverá com a sua sombra. Por isso, o ente santo que nascer de ti será chamado Filho de Deus.
+
+[[v49-1-36]]
+
+^<<v49-1-36,36>>^ Também Isabel, tua parenta, até ela concebeu um filho na sua velhice; e já está no sexto mês aquela que é tida por estéril,
+
+[[v49-1-37]]
+
+^<<v49-1-37,37>>^ porque a Deus nenhuma coisa é impossível”.
+
+[[v49-1-38]]
+
+^<<v49-1-38,38>>^ Então disse Maria: “Eis aqui a serva do Senhor. Faça-se em mim segundo a tua palavra”. E o anjo afastou-se dela.
+
+[[v49-1-39]]
+
+^<<v49-1-39,39>>^ Naqueles dias, Maria se levantou e foi às pressas às montanhas, a uma cidade de Judá.
+
+[[v49-1-40]]
+
+^<<v49-1-40,40>>^ Entrou em casa de Zacarias e saudou Isabel.
+
+[[v49-1-41]]
+
+^<<v49-1-41,41>>^ Ora, apenas Isabel ouviu a saudação de Maria, a criança estremeceu no seu seio; e Isabel ficou cheia do Espírito Santo.
+
+[[v49-1-42]]
+
+^<<v49-1-42,42>>^ E exclamou em alta voz: “Bendita és tu entre as mulheres e bendito é o fruto do teu ventre.
+
+[[v49-1-43]]
+
+^<<v49-1-43,43>>^ Donde me vem esta honra de vir a mim a mãe de meu Senhor?
+
+[[v49-1-44]]
+
+^<<v49-1-44,44>>^ Pois assim que a voz de tua saudação chegou aos meus ouvidos, a criança estremeceu de alegria no meu seio.
+
+[[v49-1-45]]
+
+^<<v49-1-45,45>>^ Bem-aventurada és tu que creste, pois se hão de cumprir as coisas que da parte do Senhor te foram ditas!”.
+
+[[v49-1-46]]
+
+^<<v49-1-46,46>>^ E Maria disse: “Minha alma glorifica ao Senhor,^&#42;1^
+
+[[v49-1-47]]
+
+^<<v49-1-47,47>>^ meu espírito exulta de alegria em Deus, meu Salvador,
+
+[[v49-1-48]]
+
+^<<v49-1-48,48>>^ porque olhou para sua pobre serva. Por isso, desde agora, me proclamarão bem-aventurada todas as gerações,
+
+[[v49-1-49]]
+
+^<<v49-1-49,49>>^ porque realizou em mim maravilhas aquele que é poderoso e cujo nome é Santo.
+
+[[v49-1-50]]
+
+^<<v49-1-50,50>>^ Sua misericórdia se estende, de geração em geração, sobre os que o temem.
+
+[[v49-1-51]]
+
+^<<v49-1-51,51>>^ Manifestou o poder do seu braço: desconcertou os corações dos soberbos.
+
+[[v49-1-52]]
+
+^<<v49-1-52,52>>^ Derrubou do trono os poderosos e exaltou os humildes.
+
+[[v49-1-53]]
+
+^<<v49-1-53,53>>^ Saciou de bens os indigentes e despediu de mãos vazias os ricos.
+
+[[v49-1-54]]
+
+^<<v49-1-54,54>>^ Acolheu a Israel, seu servo, lembrado da sua misericórdia,
+
+[[v49-1-55]]
+
+^<<v49-1-55,55>>^ conforme prometera a nossos pais, em favor de Abraão e sua posteridade, para sempre”.
+
+[[v49-1-56]]
+
+^<<v49-1-56,56>>^ Maria ficou com Isabel cerca de três meses. Depois voltou para casa.
+
+[[v49-1-57]]
+
+^<<v49-1-57,57>>^ Completando-se para Isabel o tempo de dar à luz, teve um filho.
+
+[[v49-1-58]]
+
+^<<v49-1-58,58>>^ Os seus vizinhos e parentes souberam que o Senhor lhe manifestara a sua misericórdia, e congratulavam-se com ela.
+
+[[v49-1-59]]
+
+^<<v49-1-59,59>>^ No oitavo dia, foram circuncidar o menino e o queriam chamar pelo nome de seu pai, Zacarias.
+
+[[v49-1-60]]
+
+^<<v49-1-60,60>>^ Mas sua mãe interveio: “Não” – disse ela – “ele se chamará João.”
+
+[[v49-1-61]]
+
+^<<v49-1-61,61>>^ Replicaram-lhe: “Não há ninguém na tua família que se chame por este nome”.
+
+[[v49-1-62]]
+
+^<<v49-1-62,62>>^ E perguntavam por acenos ao seu pai como queria que se chamasse.
+
+[[v49-1-63]]
+
+^<<v49-1-63,63>>^ Ele, pedindo uma tabuinha, escreveu nela as palavras: “João é o seu nome”. Todos ficaram pasmados.
+
+[[v49-1-64]]
+
+^<<v49-1-64,64>>^ E logo se lhe abriu a boca e soltou-se sua língua e ele falou, bendizendo a Deus.
+
+[[v49-1-65]]
+
+^<<v49-1-65,65>>^ O temor apoderou-se de todos os seus vizinhos; o fato divulgou-se por todas as montanhas da Judeia.
+
+[[v49-1-66]]
+
+^<<v49-1-66,66>>^ Todos os que o ouviam conservavam-no no coração, dizendo: “Que será este menino?”. Porque a mão do Senhor estava com ele.
+
+[[v49-1-67]]
+
+^<<v49-1-67,67>>^ Zacarias, seu pai, ficou cheio do Espírito Santo e profetizou, nestes termos:^&#42;1^
+
+[[v49-1-68]]
+
+^<<v49-1-68,68>>^ “Bendito seja o Senhor, Deus de Israel, porque visitou e resgatou o seu povo,
+
+[[v49-1-69]]
+
+^<<v49-1-69,69>>^ e suscitou-nos um poderoso Salvador, na casa de Davi, seu servo
+
+[[v49-1-70]]
+
+^<<v49-1-70,70>>^ (como havia anunciado, desde os primeiros tempos, mediante os seus santos profetas),
+
+[[v49-1-71]]
+
+^<<v49-1-71,71>>^ para nos livrar dos nossos inimigos e das mãos de todos os que nos odeiam.
+
+[[v49-1-72]]
+
+^<<v49-1-72,72>>^ Assim exerce a sua misericórdia com nossos pais, e se recorda de sua santa aliança,
+
+[[v49-1-73]]
+
+^<<v49-1-73,73>>^ segundo o juramento que fez a nosso pai Abraão: de nos conceder que, sem temor,
+
+[[v49-1-74]]
+
+^<<v49-1-74,74>>^ libertados de mãos inimigas, possamos servi-lo
+
+[[v49-1-75]]
+
+^<<v49-1-75,75>>^ em santidade e justiça, em sua presença, todos os dias da nossa vida.
+
+[[v49-1-76]]
+
+^<<v49-1-76,76>>^ E tu, menino, serás chamado profeta do Altíssimo, porque precederás o Senhor e lhe prepararás o caminho,
+
+[[v49-1-77]]
+
+^<<v49-1-77,77>>^ para dar ao seu povo conhecer a salvação, pelo perdão dos pecados.
+
+[[v49-1-78]]
+
+^<<v49-1-78,78>>^ Graças à ternura e misericórdia de nosso Deus, que nos vai trazer do alto a visita do Sol nascente,^&#42;1^
+
+[[v49-1-79]]
+
+^<<v49-1-79,79>>^ que há de iluminar os que jazem nas trevas e na sombra da morte e dirigir os nossos passos no caminho da paz.”
+
+[[v49-1-80]]
+
+^<<v49-1-80,80>>^ O menino foi crescendo e fortificava-se em espírito, e viveu nos desertos até o dia em que se apresentou diante de Israel.
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-016.adoc#v48-16-0[&#60; Capítulo Anterior] | <<v49-1-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-002.adoc#v49-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v30-22-0]]
+=== Jeremias, 22
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 22 trata do julgamento de Deus sobre os reis de Judá, especialmente sobre Joaquim, que é condenado por sua má conduta e desobediência. Além disso, o capítulo também fala sobre a importância da justiça social e da misericórdia. Seguem abaixo cinco versículos relacionados com esses temas:
+* Salmos 72:1-2: "Dá ao rei a tua justiça, ó Deus, e a tua justiça ao filho do rei. Ele julgará o teu povo com justiça e os teus pobres com equidade." Este salmo é uma oração pelo rei justo e piedoso, que governa com justiça e misericórdia. O versículo se relaciona com Jeremias 22 ao enfatizar a importância da justiça no governo, em contraste com a conduta opressiva de alguns reis.
+* Isaías 1:17: "Aprendam a fazer o bem; busquem a justiça, acabem com a opressão. Lutem pelos direitos do órfão e defendam a causa da viúva." Este versículo do livro de Isaías exorta o povo de Deus a buscar a justiça e a combater a opressão, especialmente em favor dos mais vulneráveis da sociedade. O tema da justiça social é um elemento importante em Jeremias 22.
+* Jeremias 21:12: "Ó descendência de Davi, assim diz o Senhor: 'Pratiquem a justiça de manhã; libertem os oprimidos da mão dos opressores, para que o meu furor não saia como fogo e não possa ser apagado, por causa da maldade de vocês.'" Este versículo é semelhante em conteúdo e mensagem ao capítulo 22, enfatizando a importância da justiça e da libertação dos oprimidos. Ambos os textos também trazem a figura do rei como um agente importante para a realização da justiça.
+* Tiago 1:27: "A religião pura e sem mácula diante de Deus, o Pai, é esta: visitar os órfãos e as viúvas nas suas tribulações e guardar-se isento da corrupção do mundo." O autor de Tiago também destaca a importância da misericórdia e do cuidado com os mais vulneráveis da sociedade. O versículo se relaciona com Jeremias 22, que destaca a necessidade de reis justos e piedosos que governem com compaixão e misericórdia.
+* Provérbios 29:14: "Se um rei julga os pobres com retidão, seu trono será estabelecido para sempre." Este provérbio destaca a importância da justiça social para a estabilidade do governo. O versículo se relaciona com Jeremias 22, que condena os reis opressores e injustos, e exalta a figura do rei justo e piedoso como aquele que traz bênçãos para o seu povo.
+****
+
+[[v30-22-1]]
+
+^<<v30-22-1,1>>^ Eis o que me diz o Senhor: “Desce ao palácio do rei de Judá, e lá pronunciarás este oráculo:
+
+[[v30-22-2]]
+
+^<<v30-22-2,2>>^ Ouve a palavra do Senhor, rei de Judá, que ocupas o trono de Davi, tu, teus servos e teu povo que entrais por essas portas.
+
+[[v30-22-3]]
+
+^<<v30-22-3,3>>^ Eis o que diz o Senhor: Praticai o direito e a justiça, e livrai o oprimido das mãos do opressor. Não deixeis o estrangeiro sofrer vexames e violências, nem o órfão e a viúva, nem derrameis neste lugar sangue inocente.
+
+[[v30-22-4]]
+
+^<<v30-22-4,4>>^ Se obedecerdes fielmente a esta ordem, continuarão a passar pelas portas deste palácio os reis herdeiros do trono de Davi, montados em carros e cavalos, com seus servos e seu povo.
+
+[[v30-22-5]]
+
+^<<v30-22-5,5>>^ Se, porém, não escutardes estas palavras, juro-o por mim mesmo – palavra do Senhor –, será reduzido a escombros este palácio.
+
+[[v30-22-6]]
+
+^<<v30-22-6,6>>^ Porque eis o oráculo do Senhor sobre o palácio do rei de Judá:^&#42;1^ Eras a meus olhos como os montes de Galaad, qual o cimo do Líbano. Juro, porém, que te vou transformar em solidão, em um deserto.
+
+[[v30-22-7]]
+
+^<<v30-22-7,7>>^ Preparo contra ti destruidores, munidos de seus instrumentos, que abaterão teus cedros mais formosos, e os lançarão ao fogo”.
+
+[[v30-22-8]]
+
+^<<v30-22-8,8>>^ Muitos pagãos, ao passarem perto desta cidade, uns aos outros hão de dizer: “Por que assim tratou o Senhor esta grande cidade?”.
+
+[[v30-22-9]]
+
+^<<v30-22-9,9>>^ E lhes será respondido: “Porque seus habitantes abandonaram a aliança com o Senhor, seu Deus, prosternando-se ante outros deuses e a eles rendendo culto”.
+
+[[v30-22-10]]
+
+^<<v30-22-10,10>>^ Não choreis o morto, nem por ele vos lamenteis. Chorai, chorai antes sobre aquele que parte, e que não voltará mais, nem tornará a ver o país natal.^&#42;1^
+
+[[v30-22-11]]
+
+^<<v30-22-11,11>>^ Porque assim fala o Senhor a respeito de Selum, filho de Josias, rei de Judá, que reinava em lugar do pai, e partiu desse lugar: “Não voltará mais para ali.
+
+[[v30-22-12]]
+
+^<<v30-22-12,12>>^ Morrerá no local do seu exílio, sem jamais rever a pátria.”
+
+[[v30-22-13]]
+
+^<<v30-22-13,13>>^ Ai daquele que para si construiu esse palácio por meios desonestos, e seus salões, violando a equidade. Ai daquele que faz seu próximo trabalhar sem paga, e lhe recusa o salário!^&#42;1^
+
+[[v30-22-14]]
+
+^<<v30-22-14,14>>^ E daquele que diz: “Vou mandar construir suntuosa morada, salões espaçosos, com largas janelas e revestimento de cedro, e pinturas de vermelho”.
+
+[[v30-22-15]]
+
+^<<v30-22-15,15>>^ Julgas ter o posto de rei porque rivalizas no emprego do cedro? Também teu pai comia e bebia, praticava a justiça e a equidade, e tudo lhe era próspero.
+
+[[v30-22-16]]
+
+^<<v30-22-16,16>>^ Julgava a causa do pobre e do infeliz, e tudo lhe era próspero. Não é isso conhecer-me? – oráculo do Senhor.
+
+[[v30-22-17]]
+
+^<<v30-22-17,17>>^ Mas teus olhos e teu coração não procuraram senão satisfazer tua cobiça, derramar o sangue do inocente e exercer a opressão e a violência.
+
+[[v30-22-18]]
+
+^<<v30-22-18,18>>^ Eis, portanto, o oráculo do Senhor sobre Joaquin, filho de Josias, rei de Judá: não haverá lamentações por ele: “Ai, meu irmão! Ai, minha irmã!”. Nem o chorarão, dizendo: “Ai, Senhor! Ai, majestade!”.
+
+[[v30-22-19]]
+
+^<<v30-22-19,19>>^ Sua pompa fúnebre será qual a do asno, e o arrastarão, jogando-o para fora das portas de Jerusalém.
+
+[[v30-22-20]]
+
+^<<v30-22-20,20>>^ Sobe ao Líbano e clama em altas vozes, fazendo-as ressoar por Basã. Clama do alto do monte Abarim, porque teus amantes foram esmagados.
+
+[[v30-22-21]]
+
+^<<v30-22-21,21>>^ Falei-te no tempo de tua prosperidade, disseste-me, porém: “Não te ouvirei”. Pois é este teu costume desde a juventude, não escutas a minha voz.
+
+[[v30-22-22]]
+
+^<<v30-22-22,22>>^ Serão teus pastores pasto dos ventos, e teus amantes serão levados ao cativeiro. A vergonha e a confusão serão tua partilha, por causa de tua malícia.
+
+[[v30-22-23]]
+
+^<<v30-22-23,23>>^ Tu que moras no Líbano e fazes teu ninho nos cedros, quanto haverás de gemer, presa das dores, e das convulsões semelhantes às da mulher ao dar à luz!
+
+[[v30-22-24]]
+
+^<<v30-22-24,24>>^ Pela minha vida! – oráculo do Senhor –, ainda que Jeconias, filho de Joaquin, rei de Judá, fosse um anel em minha mão direita, eu o arrancaria!
+
+[[v30-22-25]]
+
+^<<v30-22-25,25>>^ Eu te entregarei aos que odeiam a tua vida, àqueles que temes, a Nabucodonosor, rei da Babilônia, e aos caldeus.
+
+[[v30-22-26]]
+
+^<<v30-22-26,26>>^ Eu te lançarei, a ti e à tua mãe que te pôs no mundo, em terra que não é a vossa terra natal, e onde morrereis.
+
+[[v30-22-27]]
+
+^<<v30-22-27,27>>^ E à terra a que aspiram, não tornarão a voltar.
+
+[[v30-22-28]]
+
+^<<v30-22-28,28>>^ Acaso será Jeconias algum traste desprezível, que ninguém mais tem em conta? Por que são repelidos, ele e sua raça, e atirados a uma terra que não conhecem?
+
+[[v30-22-29]]
+
+^<<v30-22-29,29>>^ Terra, terra, terra, escuta a palavra do Senhor. Eis o que diz o Senhor:
+
+[[v30-22-30]]
+
+^<<v30-22-30,30>>^ “Inscrevei este homem entre os que não deixaram descendência, entre aqueles que coisa alguma lograram em vida! Pois que ninguém de sua raça conseguirá ocupar o trono de Davi e reinar sobre Judá”.
+
+'''
+
+xref:030-jeremias/030-jeremias-021.adoc#v30-21-0[&#60; Capítulo Anterior] | <<v30-22-0,Topo>> | xref:030-jeremias/030-jeremias-023.adoc#v30-23-0[Próximo Capítulo &#62;]

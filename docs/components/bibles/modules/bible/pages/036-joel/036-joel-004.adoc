@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v36-4-0]]
+=== Joel, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 4 do livro de Joel trata da promessa de restauração de Israel e do julgamento final sobre as nações que se opuseram a Deus e a seu povo. Os versículos a seguir se relacionam com esses temas:
+* Isaías 2:4: "Ele julgará entre as nações e resolverá contendas de muitos povos; e transformarão suas espadas em arados e suas lanças em podadeiras. Nenhuma nação levantará a espada contra outra, nem aprenderão mais a guerra." Este versículo fala sobre o julgamento final de Deus e a promessa de paz eterna para todas as nações, incluindo Israel.
+* Sofonias 3:20: "Naquele dia eu os reunirei; naquele dia trarei a vocês fama e louvor entre todos os povos da terra, quando eu restaurar a sorte de vocês diante dos seus olhos", diz o SENHOR. Este versículo fala sobre a restauração de Israel e sua posição de honra entre as nações.
+* Jeremias 50:34: "Mas a redenção deles é forte; o SENHOR dos Exércitos é seu nome. Ele defenderá a causa deles, para dar descanso à terra e agitar os moradores de Babilônia." Este versículo se refere à proteção de Deus sobre seu povo e sua promessa de justiça para as nações que os oprimem.
+* Zacarias 14:3-4: "O SENHOR sairá e lutará contra aquelas nações, como luta no dia da batalha. Naquele dia, ele ficará em pé no monte das Oliveiras, a leste de Jerusalém. O monte das Oliveiras se partirá ao meio, do leste ao oeste, e formará um grande vale." Este versículo fala sobre o julgamento final de Deus sobre as nações e sua proteção sobre Israel.
+* Apocalipse 20:11-12: "Então vi um grande trono branco e aquele que estava sentado nele. A terra e o céu fugiram da sua presença, e não foi encontrado lugar para eles. Vi também os mortos, grandes e pequenos, em pé diante do trono, e os livros foram abertos. Outro livro foi aberto, que é o livro da vida. Os mortos foram julgados de acordo com o que tinham feito, conforme o que estava escrito nos livros." Este versículo se refere ao julgamento final de Deus sobre todas as nações e pessoas, quando serão recompensados de acordo com suas ações.
+****
+
+[[v36-4-1]]
+
+^<<v36-4-1,1>>^ Porquanto eis que, naqueles dias, no tempo em que eu realizar a restauração de Judá e de Jerusalém,^&#42;1^
+
+[[v36-4-2]]
+
+^<<v36-4-2,2>>^ reunirei todas as nações e as farei descer ao vale de Josafá. Ali entrarei com elas em juízo acerca de Israel, meu povo e minha herança, o qual dispersaram pelas nações pagãs, depois de dividir minha terra.^&#42;1^
+
+[[v36-4-3]]
+
+^<<v36-4-3,3>>^ Rifaram o meu povo; davam um menino para pagar uma cortesã, e vendiam uma jovem em troca de vinho para beberem!^&#42;1^
+
+[[v36-4-4]]
+
+^<<v36-4-4,4>>^ E vós, que quereis de mim, Tiro e Sidônia? E vós, distritos da Filisteia? Quereis, por acaso, tirar vingança de mim? Mas se é uma provocação, farei cair imediatamente sobre vossa cabeça a vossa provocação,
+
+[[v36-4-5]]
+
+^<<v36-4-5,5>>^ porque roubastes minha prata e meu ouro, levastes para os vossos templos minhas joias mais preciosas;
+
+[[v36-4-6]]
+
+^<<v36-4-6,6>>^ vendestes aos gregos os filhos de Judá e os filhos de Jerusalém, que foram assim deportados para longe de sua pátria.^&#42;1^
+
+[[v36-4-7]]
+
+^<<v36-4-7,7>>^ Eis que vou reconduzi-los do lugar em que vós os vendestes, e farei recair sobre vossas cabeças vossos próprios atos.
+
+[[v36-4-8]]
+
+^<<v36-4-8,8>>^ Venderei vossos filhos e vossas filhas aos judeus, e estes os venderão aos sabeus, povo longínquo; é o Senhor quem o declara.^&#42;1^
+
+[[v36-4-9]]
+
+^<<v36-4-9,9>>^ Proclamai isto entre as nações: Declarai a guerra! Chamai os valentes! Aproximem-se, subam todos os guerreiros!
+
+[[v36-4-10]]
+
+^<<v36-4-10,10>>^ Os vossos arados, transformai-os em espadas, e as vossas foices, em lanças! Mesmo o enfermo diga: “Eu sou guerreiro!”.^&#42;1^
+
+[[v36-4-11]]
+
+^<<v36-4-11,11>>^ Depressa, nações! Vinde todas: reuni-vos de toda parte! Ó Senhor, fazei descer ali os vossos valentes!
+
+[[v36-4-12]]
+
+^<<v36-4-12,12>>^ De pé, nações! Subi ao vale de Josafá, porque é ali que vou sentar-me para julgar todos os povos ao redor!
+
+[[v36-4-13]]
+
+^<<v36-4-13,13>>^ Metei a foice, a messe está madura; vinde pisar, o lagar está cheio; as cubas transbordam – porque é imensa a maldade dos povos!^&#42;1^
+
+[[v36-4-14]]
+
+^<<v36-4-14,14>>^ Que multidão, que multidão no vale do Julgamento, porque chegou o dia do Senhor (no vale do Julgamento)!
+
+[[v36-4-15]]
+
+^<<v36-4-15,15>>^ O sol e a lua se obscurecem, as estrelas empalidecem.
+
+[[v36-4-16]]
+
+^<<v36-4-16,16>>^ O Senhor rugirá de Sião, trovejará de Jerusalém; os céus e a terra serão abalados. Mas o Senhor será um refúgio para o seu povo, uma fortaleza para os israelitas.
+
+[[v36-4-17]]
+
+^<<v36-4-17,17>>^ Sabereis então que eu sou o Senhor, vosso Deus, que habita em Sião, minha montanha santa. Jerusalém será um lugar sagrado onde os estrangeiros não tornarão a passar.
+
+[[v36-4-18]]
+
+^<<v36-4-18,18>>^ Naquele dia, as montanhas destilarão vinho, o leite manará das colinas; todas as torrentes de Judá jorrarão; uma fonte sairá do Templo do Senhor para irrigar o vale das Acácias.^&#42;1^
+
+[[v36-4-19]]
+
+^<<v36-4-19,19>>^ O Egito será todo assolado, Edom será um deserto devastado, por causa das violências cometidas contra os judeus, e por causa do sangue inocente derramado em seu solo;
+
+[[v36-4-20]]
+
+^<<v36-4-20,20>>^ mas Judá será habitado perpetuamente, e Jerusalém, de idade em idade.
+
+[[v36-4-21]]
+
+^<<v36-4-21,21>>^ Vingarei o seu sangue, que eu não tinha ainda vingado, e o Senhor habitará em Sião.
+
+'''
+
+xref:036-joel/036-joel-003.adoc#v36-3-0[&#60; Capítulo Anterior] | <<v36-4-0,Topo>> | xref:037-amos/037-amos-001.adoc#v37-1-0[Próximo Capítulo &#62;]

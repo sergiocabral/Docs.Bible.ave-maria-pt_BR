@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v20-20-0]]
+=== Jó, 20
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jó 20 apresenta um discurso de Zofar, o terceiro amigo de Jó, que tenta convencê-lo a reconhecer a justiça de Deus em suas aflições e confessar seus pecados. Zofar faz uma descrição vívida do destino dos ímpios, argumentando que a punição divina sempre recai sobre eles. Os versículos a seguir abordam temas semelhantes aos tratados por Zofar:
+* Provérbios 10:27: "O temor do Senhor prolonga os dias, mas a vida dos ímpios é abreviada." Este versículo fala sobre o destino dos ímpios, que segundo Zofar em Jó 20, é marcado por sofrimento e morte prematura.
+* Salmos 37:35-36: "Vi um ímpio prepotente e a espalhar-se como frondosa árvore em solo nativo. Mas passou e já não existe; procurei-o, porém não pôde ser encontrado." Este Salmo também fala sobre o destino dos ímpios, que é comparado a uma árvore que seca e morre.
+* Provérbios 1:33: "Mas quem me ouvir viverá em segurança e estará tranquilo, sem temer nenhum mal". Este versículo destaca a importância de ouvir a sabedoria divina, que Zofar acredita que Jó está rejeitando.
+* Salmos 11:6: "Ele fará chover sobre os ímpios brasas e enxofre incandescente; um vento ressequido será o quinhão deles." Este Salmo também fala sobre o destino dos ímpios, que é descrito como uma chuva de fogo e enxofre, semelhante à descrição de Zofar em Jó 20.
+* Provérbios 13:9: "A luz dos justos brilha intensamente, mas a lâmpada dos ímpios se apaga." Este versículo destaca a diferença entre os justos e os ímpios, reforçando a ideia de que a punição divina sempre recai sobre os segundos.
+****
+
+[[v20-20-1]]
+
+^<<v20-20-1,1>>^ Sofar de Naamat falou nestes termos:
+
+[[v20-20-2]]
+
+^<<v20-20-2,2>>^ “É por isso que meus pensamentos me sugerem uma resposta, e estou impaciente por falar.
+
+[[v20-20-3]]
+
+^<<v20-20-3,3>>^ Ouvi queixas injuriosas, foram palavras vãs que responderam a meu espírito.
+
+[[v20-20-4]]
+
+^<<v20-20-4,4>>^ Não sabes bem que, em todos os tempos, desde que o homem foi posto na terra,
+
+[[v20-20-5]]
+
+^<<v20-20-5,5>>^ o triunfo dos ímpios é breve e a alegria do perverso só dura um instante?
+
+[[v20-20-6]]
+
+^<<v20-20-6,6>>^ Ainda mesmo que sua estatura chegasse até o céu e sua cabeça tocasse as nuvens,
+
+[[v20-20-7]]
+
+^<<v20-20-7,7>>^ como o seu próprio esterco, ele perecerá para sempre. Aqueles que tinham visto indagarão: ‘Onde ele está?’.
+
+[[v20-20-8]]
+
+^<<v20-20-8,8>>^ Como um sonho, ele voará e ninguém mais o encontrará. Ele desaparecerá como uma visão noturna.
+
+[[v20-20-9]]
+
+^<<v20-20-9,9>>^ O olho que o viu já não mais o verá e não o verá mais a sua morada.
+
+[[v20-20-10]]
+
+^<<v20-20-10,10>>^ Seus filhos deverão indenizar os pobres e suas mãos restituir suas riquezas.^&#42;1^
+
+[[v20-20-11]]
+
+^<<v20-20-11,11>>^ Seus ossos que estavam cheios de vigor juvenil deitam-se com ele no pó.
+
+[[v20-20-12]]
+
+^<<v20-20-12,12>>^ Se o mal lhe foi doce na boca, ele a escondeu debaixo da língua.
+
+[[v20-20-13]]
+
+^<<v20-20-13,13>>^ Se o saboreou e não o abandonou, mas o conservou na sua garganta,
+
+[[v20-20-14]]
+
+^<<v20-20-14,14>>^ esse alimento se transformará em suas entranhas e se converterá interiormente em fel de áspides.
+
+[[v20-20-15]]
+
+^<<v20-20-15,15>>^ Ele vomitará as riquezas que engoliu; Deus as fará sair-lhe do seu ventre.
+
+[[v20-20-16]]
+
+^<<v20-20-16,16>>^ Sugava veneno de áspides e a língua da víbora o matará.
+
+[[v20-20-17]]
+
+^<<v20-20-17,17>>^ Não mais verá correr os riachos de óleo, nem as torrentes de mel e de manteiga.
+
+[[v20-20-18]]
+
+^<<v20-20-18,18>>^ Vomitará seu ganho sem poder engoli-lo e não gozará o lucro de seu comércio.
+
+[[v20-20-19]]
+
+^<<v20-20-19,19>>^ Porque maltratou, desamparou os pobres e roubou uma casa que não tinha construído.
+
+[[v20-20-20]]
+
+^<<v20-20-20,20>>^ Porque sua avidez é insaciável, não salvará o que lhe era mais caro.
+
+[[v20-20-21]]
+
+^<<v20-20-21,21>>^ Nada escapava à sua voracidade, por isso que sua felicidade não há de durar.
+
+[[v20-20-22]]
+
+^<<v20-20-22,22>>^ Em plena abundância sentirá escassez e todos os golpes da infelicidade caem sobre ele.
+
+[[v20-20-23]]
+
+^<<v20-20-23,23>>^ Para encher-lhe o ventre Deus desencadeia o fogo de sua cólera, fazendo chover a dor sobre ele.
+
+[[v20-20-24]]
+
+^<<v20-20-24,24>>^ Se escapa diante da arma de ferro, o arco de bronze o traspassa.
+
+[[v20-20-25]]
+
+^<<v20-20-25,25>>^ Um dardo sai-lhe das costas, um aço fulgurante sai-lhe do fígado. O terror desaba sobre ele.
+
+[[v20-20-26]]
+
+^<<v20-20-26,26>>^ Todas as trevas ocultas lhe serão reservadas. Um fogo, que o homem não acendeu, o devora^&#42;1^ e consome o que sobra em sua tenda.
+
+[[v20-20-27]]
+
+^<<v20-20-27,27>>^ Os céus revelarão sua culpa e a terra se levantará contra ele.
+
+[[v20-20-28]]
+
+^<<v20-20-28,28>>^ Uma torrente arrastará sua casa, será levada no dia da cólera divina.
+
+[[v20-20-29]]
+
+^<<v20-20-29,29>>^ Tal é a sorte que Deus reserva ao ímpio, tal é a herança que Deus lhe destina”.
+
+'''
+
+xref:020-jo/020-jo-019.adoc#v20-19-0[&#60; Capítulo Anterior] | <<v20-20-0,Topo>> | xref:020-jo/020-jo-021.adoc#v20-21-0[Próximo Capítulo &#62;]

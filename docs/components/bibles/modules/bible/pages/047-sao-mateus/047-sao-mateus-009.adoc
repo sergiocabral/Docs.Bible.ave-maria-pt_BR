@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v47-9-0]]
+=== São Mateus, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Mateus 9 narra diversos milagres realizados por Jesus, incluindo a cura de um paralítico, a ressurreição de uma menina e a cura de uma mulher com hemorragia. O capítulo também inclui a chamada de Mateus para seguir a Jesus e o ensinamento de Jesus sobre a colheita. Abaixo estão cinco versículos relacionados aos temas abordados em São Mateus 9:
+* João 14:12: "Em verdade, em verdade vos digo: aquele que crê em mim fará também as obras que eu faço e as fará maiores do que estas, porque eu vou para junto do Pai." Este versículo fala sobre a capacidade que os discípulos de Jesus terão de realizar milagres em seu nome, como aqueles realizados por ele em São Mateus 9.
+* Tiago 5:15: "E a oração da fé salvará o doente, e o Senhor o levantará; e se houver cometido pecados, ser-lhe-ão perdoados." Este versículo destaca a importância da oração e da fé na cura de doenças, como a cura do paralítico em São Mateus 9.
+* Lucas 10:2: "E dizia-lhes: A seara é grande, mas os trabalhadores são poucos. Rogai, pois, ao Senhor da seara que mande trabalhadores para a sua seara." Este versículo se relaciona com o ensinamento de Jesus sobre a colheita em São Mateus 9, enfatizando a necessidade de trabalhadores para a obra de Deus.
+* Marcos 2:17: "E Jesus, ouvindo isso, disse-lhes: Os sãos não precisam de médico, mas sim os doentes; eu não vim chamar justos, mas pecadores." Esse versículo se relaciona com a chamada de Mateus em São Mateus 9, quando Jesus chama um publicano para segui-lo, demonstrando que ele veio para salvar aqueles que estão perdidos.
+* João 11:43-44: "E, tendo dito isso, clamou com grande voz: Lázaro, vem para fora! O que havia morrido saiu, atadas as mãos e os pés com faixas, e o seu rosto envolto num lenço. Disse-lhes Jesus: Desatai-o e deixai-o ir." Esse versículo se relaciona com a ressurreição da menina em São Mateus 9, enfatizando o poder de Jesus sobre a morte e a vida.
+****
+
+[[v47-9-1]]
+
+^<<v47-9-1,1>>^ Jesus tomou de novo a barca, passou o lago e veio para a sua cidade.^&#42;1^
+
+[[v47-9-2]]
+
+^<<v47-9-2,2>>^ Eis que lhe apresentaram um paralítico estendido numa padiola. Jesus, vendo a fé daquela gente, disse ao paralítico: “Meu filho, coragem! Teus pecados te são perdoados”.
+
+[[v47-9-3]]
+
+^<<v47-9-3,3>>^ Ouvindo isso, alguns escribas murmuraram entre si: “Este homem blasfema”.
+
+[[v47-9-4]]
+
+^<<v47-9-4,4>>^ Jesus, penetrando-lhes os pensamentos, perguntou-lhes: “Por que pensais mal em vossos corações?
+
+[[v47-9-5]]
+
+^<<v47-9-5,5>>^ Que é mais fácil dizer: Teus pecados te são perdoados, ou: Levanta-te e anda?
+
+[[v47-9-6]]
+
+^<<v47-9-6,6>>^ Ora, para que saibais que o Filho do Homem tem na terra o poder de perdoar os pecados: Levanta-te – disse ele ao paralítico –, toma a tua maca e volta para tua casa”.
+
+[[v47-9-7]]
+
+^<<v47-9-7,7>>^ Levantou-se aquele homem e foi para sua casa.
+
+[[v47-9-8]]
+
+^<<v47-9-8,8>>^ Vendo isso, a multidão encheu-se de medo e glorificou a Deus por ter dado tal poder aos homens.
+
+[[v47-9-9]]
+
+^<<v47-9-9,9>>^ Partindo dali, Jesus viu um homem chamado Mateus, que estava sentado no posto do pagamento das taxas. Disse-lhe: “Segue-me”. O homem levantou-se e o seguiu.^&#42;1^
+
+[[v47-9-10]]
+
+^<<v47-9-10,10>>^ Como Jesus estivesse à mesa na casa desse homem, numerosos publicanos e pecadores vieram e sentaram-se com ele e seus discípulos.
+
+[[v47-9-11]]
+
+^<<v47-9-11,11>>^ Vendo isso, os fariseus disseram aos discípulos: “Por que come vosso mestre com os publicanos e com os pecadores?”.
+
+[[v47-9-12]]
+
+^<<v47-9-12,12>>^ Jesus, ouvindo isso, respondeu-lhes: “Não são os que estão bem que precisam de médico, mas sim os doentes.
+
+[[v47-9-13]]
+
+^<<v47-9-13,13>>^ Ide e aprendei o que significam estas palavras: Eu quero a misericórdia e não o sacrifício (Os 6,6). Eu não vim chamar os justos, mas os pecadores”.^&#42;1^
+
+[[v47-9-14]]
+
+^<<v47-9-14,14>>^ Então, os discípulos de João, dirigindo-se a ele, perguntaram: “Por que jejuamos nós e os fariseus, e os teus discípulos não?”.
+
+[[v47-9-15]]
+
+^<<v47-9-15,15>>^ Jesus respondeu: “Podem os amigos do esposo 'estar triste', enquanto o esposo está com eles? Dias virão em que lhes será tirado o esposo. Então, eles jejuarão”.^&#42;1^
+
+[[v47-9-16]]
+
+^<<v47-9-16,16>>^ “Ninguém põe um remendo de pano novo numa veste velha, porque arrancaria uma parte da veste e o rasgão ficaria pior.
+
+[[v47-9-17]]
+
+^<<v47-9-17,17>>^ Não se coloca tampouco vinho novo em odres velhos; do contrário, os odres se rompem, o vinho se derrama e os odres se perdem. Coloca-se, porém, o vinho novo em odres novos, e assim tanto um como outro se conservam.”^&#42;1^
+
+[[v47-9-18]]
+
+^<<v47-9-18,18>>^ Falava ele ainda, quando se apresentou um chefe da sinagoga. Prostrou-se diante dele e lhe disse: “Senhor, minha filha acaba de morrer. Mas vem, impõe-lhe as mãos e ela viverá”.^&#42;1^
+
+[[v47-9-19]]
+
+^<<v47-9-19,19>>^ Jesus levantou-se e o foi seguindo com seus discípulos.
+
+[[v47-9-20]]
+
+^<<v47-9-20,20>>^ Ora, uma mulher atormentada por um fluxo de sangue, havia doze anos, aproximou-se dele por trás e tocou-lhe a orla do manto.
+
+[[v47-9-21]]
+
+^<<v47-9-21,21>>^ Dizia consigo: “Se eu somente tocar na sua vestimenta, serei curada”.
+
+[[v47-9-22]]
+
+^<<v47-9-22,22>>^ Jesus virou-se, viu-a e disse-lhe: “Tem confiança, minha filha, tua fé te salvou”. E a mulher ficou curada instantaneamente.
+
+[[v47-9-23]]
+
+^<<v47-9-23,23>>^ Chegando à casa do chefe da sinagoga, viu Jesus os tocadores de flauta e uma multidão alvoroçada. Disse-lhes:^&#42;1^
+
+[[v47-9-24]]
+
+^<<v47-9-24,24>>^ “Retirai-vos, porque a menina não está morta; ela dorme”. Eles, porém, zombavam dele.
+
+[[v47-9-25]]
+
+^<<v47-9-25,25>>^ Tendo saído a multidão, ele entrou, tomou a menina pela mão e ela levantou-se.
+
+[[v47-9-26]]
+
+^<<v47-9-26,26>>^ Essa notícia espalhou-se por toda a região.
+
+[[v47-9-27]]
+
+^<<v47-9-27,27>>^ Partindo Jesus dali, dois cegos o seguiram, gritando: “Filho de Davi, tem piedade de nós!”.
+
+[[v47-9-28]]
+
+^<<v47-9-28,28>>^ Jesus entrou numa casa e os cegos aproximaram-se dele. Disse-lhes: “Credes que eu posso fazer isso?” – “Sim, Senhor” –, responderam eles.
+
+[[v47-9-29]]
+
+^<<v47-9-29,29>>^ Então, ele tocou-lhes nos olhos, dizendo: “Seja-vos feito segundo vossa fé”.
+
+[[v47-9-30]]
+
+^<<v47-9-30,30>>^ No mesmo instante, os seus olhos se abriram. Recomendou-lhes Jesus em tom severo: “Vede que ninguém o saiba”.
+
+[[v47-9-31]]
+
+^<<v47-9-31,31>>^ Mas apenas haviam saído, espalharam a sua fama por toda a região.
+
+[[v47-9-32]]
+
+^<<v47-9-32,32>>^ Logo que se foram, apresentaram-lhe um mudo, possuído do demônio.
+
+[[v47-9-33]]
+
+^<<v47-9-33,33>>^ O demônio foi expulso, o mudo falou e a multidão exclamava com admiração: “Jamais se viu algo semelhante em Israel”.
+
+[[v47-9-34]]
+
+^<<v47-9-34,34>>^ Os fariseus, porém, diziam: “É pelo príncipe dos demônios que ele expulsa os demônios”.
+
+[[v47-9-35]]
+
+^<<v47-9-35,35>>^ Jesus percorria todas as cidades e aldeias. Ensinava nas sinagogas, pregando o Evangelho do Reino e curando todo mal e toda enfermidade.^&#42;1^
+
+[[v47-9-36]]
+
+^<<v47-9-36,36>>^ Vendo a multidão, ficou tomado de compaixão, porque estava enfraquecida e abatida como ovelhas sem pastor.
+
+[[v47-9-37]]
+
+^<<v47-9-37,37>>^ Disse, então, aos seus discípulos: “A messe é grande, mas os operários são poucos.
+
+[[v47-9-38]]
+
+^<<v47-9-38,38>>^ Pedi, pois, ao Senhor da messe que envie operários para sua messe”.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-008.adoc#v47-8-0[&#60; Capítulo Anterior] | <<v47-9-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-010.adoc#v47-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,215 @@
+include::./index.adoc[]
+
+[[v5-4-0]]
+=== Deuteronômio, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Deuteronômio 4 é um capítulo em que Moisés exorta o povo de Israel a seguir fielmente as leis e mandamentos de Deus. Ele reforça a importância de obedecer a Deus e não se desviar de Seus caminhos. Moisés também lembra a Israel de sua história e da forma como Deus os libertou do Egito. Abaixo estão cinco versículos relacionados com os temas abordados em Deuteronômio 4.
+* Êxodo 20:3 - "Não terás outros deuses diante de mim." Este versículo é um dos Dez Mandamentos e enfatiza a importância de adorar somente a Deus e não se envolver em idolatria, um pecado que Moisés alerta o povo de Israel a evitar em Deuteronômio 4.
+* Josué 1:7 - "Tão somente sê forte e mui corajoso para teres o cuidado de fazer conforme toda a lei que meu servo Moisés te ordenou; dela não te desvies, nem para a direita nem para a esquerda, para que prudentemente te conduzas por onde quer que andares." Este versículo encoraja a Israel a seguir fielmente as leis e mandamentos de Deus, um tema central em Deuteronômio 4.
+* Deuteronômio 6:4-5 - "Ouve, Israel, o Senhor nosso Deus é o único Senhor. Amarás, pois, o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todas as tuas forças." Moisés enfatiza a importância de amar a Deus com todo o coração e alma em Deuteronômio 4 e este versículo é uma expressão clássica deste mandamento.
+* Deuteronômio 10:12-13 - "E agora, Israel, que é que o Senhor teu Deus pede de ti, senão que temas o Senhor teu Deus, que andes em todos os seus caminhos, e o ames, e sirvas ao Senhor teu Deus de todo o teu coração e de toda a tua alma; que guardes os mandamentos do Senhor, e os seus estatutos, que hoje te ordeno para o teu bem?" Este versículo destaca a importância de temer a Deus, amá-Lo e segui-Lo, e também a importância de obedecer às Suas leis e estatutos.
+* Deuteronômio 11:26-28 - "Eis que hoje eu ponho diante de vós a bênção e a maldição: a bênção, quando cumprirdes os mandamentos do Senhor vosso Deus, que hoje vos mando; porém a maldição, se não cumprirdes os mandamentos do Senhor vosso Deus, mas vos desviardes do caminho que hoje vos ordeno, para seguirdes outros deuses que não conhecestes." Este versículo destaca a importância de escolher obedecer a Deus e seguir Seus caminhos, a fim de receber bênçãos em vez de maldições. É uma advertência que Moisés faz a Israel em Deuteronômio 4.
+****
+
+[[v5-4-1]]
+
+^<<v5-4-1,1>>^ “E agora, ó Israel, ouve as leis e os preceitos que hoje vou ensinar-vos. Coloque-os em prática para que vivais e entreis na posse da terra que o Senhor, Deus de vossos pais, vos dá.
+
+[[v5-4-2]]
+
+^<<v5-4-2,2>>^ Não ajuntareis nada a tudo o que vos prescrevo, nem tirareis nada daí, mas guardareis os mandamentos do Senhor, vosso Deus, exatamente como vos prescrevi.
+
+[[v5-4-3]]
+
+^<<v5-4-3,3>>^ Os vossos olhos viram o que o Senhor fez a Baal-Fegor, como exterminou todos aqueles dentre vós que tinham seguido o Baal-Fegor.
+
+[[v5-4-4]]
+
+^<<v5-4-4,4>>^ Mas vós, que estais unidos ao Senhor, vosso Deus, estais hoje todos vivos.
+
+[[v5-4-5]]
+
+^<<v5-4-5,5>>^ Vede, eu vos ensinei leis e ordenações, conforme o Senhor, meu Deus, me ordenou, a fim de as praticardes na terra que ides possuir.
+
+[[v5-4-6]]
+
+^<<v5-4-6,6>>^ Observai-as, praticai-as, porque isso vos tornará sábios e inteligentes aos olhos dos povos que, ouvindo todas essas prescrições, dirão: ‘Eis uma grande nação, um povo sábio e inteligente’.
+
+[[v5-4-7]]
+
+^<<v5-4-7,7>>^ Haverá, com efeito, nação tão grande, cujos deuses estejam tão próximos de si como está de nós o Senhor, nosso Deus, cada vez que o invocamos?
+
+[[v5-4-8]]
+
+^<<v5-4-8,8>>^ Qual é a grande nação que tem mandamentos e preceitos tão justos como esta lei que vos apresento hoje?
+
+[[v5-4-9]]
+
+^<<v5-4-9,9>>^ Guarda-te, pois, a ti mesmo! Cuida de nunca esquecer o que viste com os teus olhos, para que isso não saia jamais de teu coração, enquanto viveres. Antes ensina-o aos teus filhos e netos.
+
+[[v5-4-10]]
+
+^<<v5-4-10,10>>^ Lembra-te do dia em que te apresentaste diante do Senhor, teu Deus, em Horeb, quando o Senhor me falou, dizendo: ‘Ajunta-me o povo, para que ouçam as minhas palavras, e aprendam a temer-me ao longo de toda a sua vida e o ensinem aos seus filhos’.
+
+[[v5-4-11]]
+
+^<<v5-4-11,11>>^ Aproximastes-vos então e estivestes ao pé do monte; e o monte ardia em fogo, cujas chamas subiam até as profundezas do céu, onde havia trevas, nuvens e escuridão.
+
+[[v5-4-12]]
+
+^<<v5-4-12,12>>^ Do meio do fogo, o Senhor vos falou. Ouvistes o som de suas palavras, mas não víeis no entanto nenhuma forma, somente uma voz.
+
+[[v5-4-13]]
+
+^<<v5-4-13,13>>^ Ele vos deu a conhecer a sua aliança, e ordenou-vos que a observásseis: as dez palavras que escreveu nas duas tábuas de pedra.
+
+[[v5-4-14]]
+
+^<<v5-4-14,14>>^ Ordenou-me o Senhor naquele mesmo tempo que vos ensinasse as leis e os preceitos que deveríeis observar na terra que ides possuir.
+
+[[v5-4-15]]
+
+^<<v5-4-15,15>>^ Tende cuidado com a vossa vida. No dia em que o Senhor, vosso Deus, vos falou do seio do fogo em Horeb, não vistes figura alguma.
+
+[[v5-4-16]]
+
+^<<v5-4-16,16>>^ Guardai-vos, pois, de fabricar alguma imagem esculpida representando o que quer que seja, figura de homem ou de mulher,
+
+[[v5-4-17]]
+
+^<<v5-4-17,17>>^ representação de algum animal que vive na terra ou de um pássaro que voa nos céus,
+
+[[v5-4-18]]
+
+^<<v5-4-18,18>>^ ou de um réptil que se arrasta sobre a terra, ou de um peixe que vive nas águas, debaixo da terra.
+
+[[v5-4-19]]
+
+^<<v5-4-19,19>>^ Quando levantares os olhos para o céu, e vires o sol, a lua, as estrelas e todo o exército dos céus, guarda-te de te prostrar diante deles e de render um culto a esses astros, que o Senhor, teu Deus, deu como partilha a todos os povos que vivem debaixo do céu.
+
+[[v5-4-20]]
+
+^<<v5-4-20,20>>^ Quanto a vós, o Senhor vos escolheu e vos retirou da fornalha de ferro que era o Egito, para serdes o seu povo, o povo de sua herança, como o sois hoje.
+
+[[v5-4-21]]
+
+^<<v5-4-21,21>>^ O Senhor irritou-se contra mim por causa de vós, e jurou que eu não passaria o Jordão, nem entraria na boa terra que ele, o Senhor, vosso Deus, vos dá como herança.
+
+[[v5-4-22]]
+
+^<<v5-4-22,22>>^ Vou morrer nesta terra, sem atravessar o Jordão, mas vós o passareis e possuireis essa boa terra.
+
+[[v5-4-23]]
+
+^<<v5-4-23,23>>^ Tende cuidado para não esquecer a aliança que o Senhor, vosso Deus, fez convosco, e não façais uma imagem esculpida, representando o que quer que seja, como vos proibiu o Senhor, vosso Deus.
+
+[[v5-4-24]]
+
+^<<v5-4-24,24>>^ Porque o Senhor, vosso Deus, é um fogo devorador, um Deus zeloso.
+
+[[v5-4-25]]
+
+^<<v5-4-25,25>>^ Quando tiverdes filhos e netos e, já envelhecidos nessa terra, vos corromperdes e fabricardes alguma imagem esculpida do que quer que seja, fazendo o que é mau aos olhos de vosso Deus e provocando assim a sua ira
+
+[[v5-4-26]]
+
+^<<v5-4-26,26>>^ – tomo hoje como testemunha contra vós o céu e a terra – certamente não tardareis em desaparecer da terra cuja possessão ides tomar agora, depois de atravessado o Jordão. Não prolongareis nela os vossos dias, mas sereis exterminados.
+
+[[v5-4-27]]
+
+^<<v5-4-27,27>>^ O Senhor vos dispersará entre todos os povos, e restareis poucos entre as nações, para onde vos conduzir o Senhor.
+
+[[v5-4-28]]
+
+^<<v5-4-28,28>>^ Lá, adorareis deuses feitos pela mão do homem, deuses de madeira e de pedra, que não podem ver, nem ouvir, nem comer, nem sentir.
+
+[[v5-4-29]]
+
+^<<v5-4-29,29>>^ Então procurarás o Senhor, teu Deus, e o encontrarás, contanto que o busques de todo o teu coração e de toda a tua alma.
+
+[[v5-4-30]]
+
+^<<v5-4-30,30>>^ Quando todos esses males tiverem caído sobre ti, mais tarde, em tal tribulação voltarás para o Senhor, teu Deus, e ouvirás a sua voz,
+
+[[v5-4-31]]
+
+^<<v5-4-31,31>>^ porque o Senhor é um Deus miserdtdioso. Ele não te quer abandonar nem te extinguir, e não se esquecerá da aliança que jurou aos teus pais.
+
+[[v5-4-32]]
+
+^<<v5-4-32,32>>^ Investiga os tempos que te precederam, desde o dia em que Deus criou o homem na terra. Pergunta se houve jamais, de uma extremidade dos céus à outra, uma coisa tão extraordinária como esta, e se jamais se ouviu coisa semelhante.
+
+[[v5-4-33]]
+
+^<<v5-4-33,33>>^ Houve, porventura, um povo que, como tu, tenha ouvido a voz de Deus falando do seio do fogo, sem perder a vida?
+
+[[v5-4-34]]
+
+^<<v5-4-34,34>>^ Algum deus terá jamais tentado escolher para si uma nação do meio de outra, por meio de provas e de sinais, de prodígios e de guerras, com mão poderosa e braço estendido, e de prodígios espantosos, como o Senhor, vosso Deus, fez por vós no Egito diante de vossos olhos?
+
+[[v5-4-35]]
+
+^<<v5-4-35,35>>^ Tu foste testemunha de tudo isso para que reconheças que o Senhor é Deus, e que não há outro fora dele.
+
+[[v5-4-36]]
+
+^<<v5-4-36,36>>^ Fez-te ouvir a sua voz do céu para a tua instrução, e na terra mostrou-te o seu grande fogo, e o ouviste falar do meio das chamas.
+
+[[v5-4-37]]
+
+^<<v5-4-37,37>>^ Porque amou teus pais, e elegeu a sua posteridade depois deles, tirou-te do Egito com a força de seu poder,
+
+[[v5-4-38]]
+
+^<<v5-4-38,38>>^ despojando em teu favor povos mais numerosos e mais robustos do que tu, para introduzir-te em suas terras e dá-las a ti em herança, como estás vendo hoje.
+
+[[v5-4-39]]
+
+^<<v5-4-39,39>>^ Sabe, pois, agora, e grava em teu coração que o Senhor é Deus, e que não há outro lá em cima no céu, nem embaixo na terra.
+
+[[v5-4-40]]
+
+^<<v5-4-40,40>>^ Observa suas leis e seus mandamentos que hoje te prescrevo, para que sejas feliz, tu e teus filhos depois de ti, e prolongues teus dias para sempre na terra que te dá o Senhor, teu Deus.”
+
+[[v5-4-41]]
+
+^<<v5-4-41,41>>^ Então Moisés separou três cidades além do Jordão, ao oriente,
+
+[[v5-4-42]]
+
+^<<v5-4-42,42>>^ para que se refugiasse nelas o homicida que tivesse matado alguém por imprudência, sem ódio premeditado, e pudesse assim conservar a sua vida refugiando-se ali.
+
+[[v5-4-43]]
+
+^<<v5-4-43,43>>^ Estas são as cidades: Bosor, no deserto, na terra do planalto, para os rubenitas; Ramot, em Galaad, para os gaditas, e Golã, em Basã, para os manasseítas.
+
+[[v5-4-44]]
+
+^<<v5-4-44,44>>^ Eis a lei que Moisés apresentou aos israelitas.
+
+[[v5-4-45]]
+
+^<<v5-4-45,45>>^ Estes são os mandamentos, as leis e os preceitos que Moisés propôs aos israelitas depois de sua partida do Egito,
+
+[[v5-4-46]]
+
+^<<v5-4-46,46>>^ do outro lado do Jordão, no vale situado em frente de Bet-Fegor, na terra de Seon, rei dos amorreus, que habitava em Hesebon. Moisés e os israelitas os tinham vencido depois de sua saída do Egito,
+
+[[v5-4-47]]
+
+^<<v5-4-47,47>>^ e tinham conquistado a sua terra, assim como a de Og, rei de Basã (dois reis dos amorreus que ocupavam a região além do Jordão).
+
+[[v5-4-48]]
+
+^<<v5-4-48,48>>^ Desde Aroer, situada sobre a margem da torrente do Arnon, até a montanha de Sarion, também chamada Hermon,
+
+[[v5-4-49]]
+
+^<<v5-4-49,49>>^ e toda a planície que se estende além do Jordão, ao oriente, até o mar da planície, ao pé do Fasga.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-003.adoc#v5-3-0[&#60; Capítulo Anterior] | <<v5-4-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-005.adoc#v5-5-0[Próximo Capítulo &#62;]

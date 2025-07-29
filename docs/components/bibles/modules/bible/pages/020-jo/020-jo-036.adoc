@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v20-36-0]]
+=== Jó, 36
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jó 36 é um capítulo em que Eliú continua a falar com Jó sobre a justiça de Deus e a necessidade de confiar nele, mesmo em meio às dificuldades. Eliú enfatiza a soberania de Deus e sua sabedoria, e argumenta que os sofrimentos de Jó são uma correção divina para seu orgulho e pecado. Ele também enfatiza a necessidade de arrependimento e submissão a Deus.
+* Provérbios 3:11-12: "Filho meu, não desprezes a correção do SENHOR, nem desmaies quando por ele fores repreendido; porque o SENHOR repreende aquele a quem ama, assim como o pai ao filho a quem quer bem." Assim como Eliú argumenta que os sofrimentos de Jó são uma correção divina, este versículo de Provérbios enfatiza a importância de aceitar a correção do Senhor, pois isso é um sinal de amor e cuidado.
+* Salmos 119:75: "Bem sei eu, ó SENHOR, que os teus juízos são justos, e que em tua fidelidade me afligiste." Eliú argumenta que os sofrimentos de Jó são justos e destinados a corrigi-lo, e este verso do Salmo 119 mostra um reconhecimento semelhante da justiça e fidelidade de Deus, mesmo em meio à aflição.
+* Tiago 4:10: "Humilhai-vos perante o Senhor, e ele vos exaltará." Eliú enfatiza a necessidade de Jó se humilhar diante de Deus e arrepender-se de qualquer orgulho ou pecado, e este verso em Tiago também enfatiza a importância da humildade diante de Deus.
+* Salmos 147:5: "Grande é o nosso Senhor, e de grande poder; o seu entendimento é infinito." Eliú enfatiza a sabedoria e o conhecimento de Deus, e este verso do Salmo 147 também destaca a grandeza e a infinitude do entendimento divino.
+* Provérbios 16:19: "Melhor é ser humilde de espírito com os mansos, do que repartir o despojo com os soberbos." Eliú enfatiza a necessidade de humildade e submissão a Deus, e este verso em Provérbios também destaca a importância da humildade em geral, em contraste com o orgulho dos soberbos.
+****
+
+[[v20-36-1]]
+
+^<<v20-36-1,1>>^ Depois Eliú prosseguiu nestes termos:
+
+[[v20-36-2]]
+
+^<<v20-36-2,2>>^ “Espera um pouco e te instruirei. Tenho ainda palavras em defesa de Deus.
+
+[[v20-36-3]]
+
+^<<v20-36-3,3>>^ Vou buscar longe a minha ciência, para justificar aquele que me criou.
+
+[[v20-36-4]]
+
+^<<v20-36-4,4>>^ Pois minhas palavras não são certamente mentirosas e estás tratando com um homem de ciência sólida.
+
+[[v20-36-5]]
+
+^<<v20-36-5,5>>^ Deus é poderoso, mas não é arrogante, é poderoso por sua ciência.
+
+[[v20-36-6]]
+
+^<<v20-36-6,6>>^ Não deixa o ímpio viver, mas faz justiça aos oprimidos.
+
+[[v20-36-7]]
+
+^<<v20-36-7,7>>^ Não tira seus olhos do justo e os faz assentar no trono com os reis, numa glória eterna.
+
+[[v20-36-8]]
+
+^<<v20-36-8,8>>^ Se forem presos em grilhões e atados com os laços da pobreza,
+
+[[v20-36-9]]
+
+^<<v20-36-9,9>>^ ele lhes fará conhecer as suas obras e as faltas que cometeram por orgulho.
+
+[[v20-36-10]]
+
+^<<v20-36-10,10>>^ Abre-lhes os ouvidos para corrigi-los e diz-lhes que renunciem à iniquidade.
+
+[[v20-36-11]]
+
+^<<v20-36-11,11>>^ Se escutarem e obedecerem, terminarão seus dias na felicidade e seus anos em delícias.
+
+[[v20-36-12]]
+
+^<<v20-36-12,12>>^ Mas se não o escutarem, morrerão de um golpe e expirarão por falta de sabedoria.
+
+[[v20-36-13]]
+
+^<<v20-36-13,13>>^ Os ímpios de coração são entregues à cólera e não clamam a Deus quando ele os aprisiona.
+
+[[v20-36-14]]
+
+^<<v20-36-14,14>>^ Por isso morrem em plena mocidade e sua vida passa como a dos efeminados.^&#42;1^
+
+[[v20-36-15]]
+
+^<<v20-36-15,15>>^ Mas Deus salvará o pobre pela sua miséria e o instrui pelo sofrimento.
+
+[[v20-36-16]]
+
+^<<v20-36-16,16>>^ A ti também ele retirará das fauces a angústia, numa larga liberdade e no repouso de uma mesa bem guarnecida.^&#42;1^
+
+[[v20-36-17]]
+
+^<<v20-36-17,17>>^ Mas tu te comportas como um malvado, com o risco de incorrer em sentença e penalidade.
+
+[[v20-36-18]]
+
+^<<v20-36-18,18>>^ Toma cuidado para que a cólera não te inflija um castigo e que o tamanho do resgate não te perca.
+
+[[v20-36-19]]
+
+^<<v20-36-19,19>>^ Acaso levará ele em conta teu grito na aflição e todos os esforços do vigor?
+
+[[v20-36-20]]
+
+^<<v20-36-20,20>>^ Não suspires pela noite da morte, que arrebata os povos de seu lugar!
+
+[[v20-36-21]]
+
+^<<v20-36-21,21>>^ Guarda-te de declinar para a iniquidade, e de preferir a injustiça ao sofrimento.
+
+[[v20-36-22]]
+
+^<<v20-36-22,22>>^ Vê, Deus é sublime em seu poder! Que senhor lhe é comparável?
+
+[[v20-36-23]]
+
+^<<v20-36-23,23>>^ Quem lhe fixou seus caminhos? Quem pode dizer-lhe: ‘Fizeste mal?’.
+
+[[v20-36-24]]
+
+^<<v20-36-24,24>>^ Antes lembra-te de glorificar sua obra, que a humanidade celebra em seus cânticos.
+
+[[v20-36-25]]
+
+^<<v20-36-25,25>>^ Todos os homens a contemplam, mas cada um a considera de longe.
+
+[[v20-36-26]]
+
+^<<v20-36-26,26>>^ Deus é grande demais para que o possamos conhecer; o número de seus anos é incalculável.
+
+[[v20-36-27]]
+
+^<<v20-36-27,27>>^ Atrai as gotinhas de água para transformá-las em chuva no nevoeiro.
+
+[[v20-36-28]]
+
+^<<v20-36-28,28>>^ As nuvens espalham essas águas e as destilam sobre a multidão humana.
+
+[[v20-36-29]]
+
+^<<v20-36-29,29>>^ Quem pode compreender como se expandem as nuvens e o estrépito que sai de sua tenda?^&#42;1^
+
+[[v20-36-30]]
+
+^<<v20-36-30,30>>^ Espalha à sua volta sua luz e encobre as profundezas do mar.
+
+[[v20-36-31]]
+
+^<<v20-36-31,31>>^ É por esse meio que governa os povos e fornece-lhes abundante alimento.
+
+[[v20-36-32]]
+
+^<<v20-36-32,32>>^ Nas suas mãos esconde o raio e fixa-lhe o alvo a atingir.
+
+[[v20-36-33]]
+
+^<<v20-36-33,33>>^ O seu estrondo o anuncia e o rebanho também pressente aquele que se aproxima.
+
+'''
+
+xref:020-jo/020-jo-035.adoc#v20-35-0[&#60; Capítulo Anterior] | <<v20-36-0,Topo>> | xref:020-jo/020-jo-037.adoc#v20-37-0[Próximo Capítulo &#62;]

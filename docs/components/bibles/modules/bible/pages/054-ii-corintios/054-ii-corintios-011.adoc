@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v54-11-0]]
+=== II Coríntios, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 11 de 2 Coríntios é uma defesa pessoal de Paulo contra os falsos apóstolos que estavam minando sua autoridade e influência na igreja em Corinto. Paulo destaca suas credenciais apostólicas e ministério, bem como sua preocupação com o bem-estar dos coríntios e sua lealdade a Cristo. Os versículos selecionados abaixo abordam temas relacionados à autoridade apostólica, falsos ensinamentos e a verdadeira natureza dos ministros de Deus.
+* Romanos 16:17 - "Eu lhes peço, irmãos, que tomem cuidado com aqueles que causam divisões e colocam obstáculos ao ensino que vocês aprenderam. Afastem-se deles." Esse versículo fala sobre a importância de evitar aqueles que pregam falsos ensinamentos e causam divisões na igreja, algo que Paulo enfatiza em 2 Coríntios 11.
+* Gálatas 1:8-9 - "Mas ainda que nós ou um anjo do céu pregue um evangelho diferente daquele que pregamos a vocês, que seja amaldiçoado! Como já dissemos, agora repito: Se alguém está pregando para vocês um evangelho diferente daquele que aceitaram, que seja amaldiçoado!" Paulo alerta para a gravidade de pregar um evangelho diferente do que foi ensinado por ele e pelos outros apóstolos.
+* 1 Timóteo 4:1 - "O Espírito diz claramente que nos últimos tempos alguns abandonarão a fé e seguirão espíritos enganadores e doutrinas de demônios." Este versículo fala sobre a realidade de falsos ensinamentos que surgirão dentro da igreja e como é importante estar alerta para não ser enganado.
+* 1 Coríntios 9:12 - "Mas nós nunca usamos esse direito. Pelo contrário, suportamos tudo para não criarmos nenhum obstáculo ao evangelho de Cristo." Paulo fala sobre sua abnegação pessoal para não criar nenhum obstáculo ao evangelho e destaca a importância de colocar os interesses de Cristo acima dos interesses pessoais.
+* 2 Timóteo 2:24-25 - "O servo do Senhor não deve viver brigando, mas ser amável com todos, apto para ensinar e paciente. Instrua com mansidão aqueles que se opõem, na esperança de que Deus os leve ao arrependimento e, assim, conheçam a verdade." Este versículo destaca a necessidade de ser gentil e paciente ao ensinar aqueles que se opõem à verdade e buscar levar as pessoas ao arrependimento e conhecimento da verdade em vez de apenas vencê-las em um argumento.
+****
+
+[[v54-11-1]]
+
+^<<v54-11-1,1>>^ Oxalá suportásseis um pouco de loucura de minha parte! Oh, sim! Tolerai-me.
+
+[[v54-11-2]]
+
+^<<v54-11-2,2>>^ Eu vos consagro um carinho e amor santo, porque vos desposei com um esposo único e vos apresentei a Cristo como virgem pura.
+
+[[v54-11-3]]
+
+^<<v54-11-3,3>>^ Mas temo que, como a serpente enganou Eva com a sua astúcia, assim se corrompam os vossos pensamentos e se apartem da sinceridade para com Cristo.
+
+[[v54-11-4]]
+
+^<<v54-11-4,4>>^ Porque quando aparece alguém pregando-vos outro Jesus, diferente daquele que vos temos pregado, ou se trata de receber outro espírito, diferente do que haveis recebido, ou outro evangelho, diverso do que haveis abraçado, de boa mente o aceitais.
+
+[[v54-11-5]]
+
+^<<v54-11-5,5>>^ Mas penso que em nada tenho sido inferior a esses “eminentes” apóstolos!
+
+[[v54-11-6]]
+
+^<<v54-11-6,6>>^ Pois, embora eu seja de pouca eloquência, não acontece o mesmo quanto à ciência: é o que em tudo e a cada passo vos temos manifestado.
+
+[[v54-11-7]]
+
+^<<v54-11-7,7>>^ Porventura cometi alguma falta, em vos ter pregado o Evangelho de Deus gratuitamente, humilhando-me para vos exaltar?
+
+[[v54-11-8]]
+
+^<<v54-11-8,8>>^ Para vos servir, despojei outras igrejas, recebendo delas o meu sustento.^&#42;1^
+
+[[v54-11-9]]
+
+^<<v54-11-9,9>>^ Estando convosco e passando alguma necessidade, não fui pesado a ninguém, porque os irmãos que vieram da Macedônia supriram o que me faltava. Em tudo me guardei e me guardarei de vos ser pesado.
+
+[[v54-11-10]]
+
+^<<v54-11-10,10>>^ Tão certo como a verdade de Cristo está em mim, não me será tirada essa glória nas regiões de Acaia.
+
+[[v54-11-11]]
+
+^<<v54-11-11,11>>^ E por quê?... Será por que não vos amo? Deus o sabe!
+
+[[v54-11-12]]
+
+^<<v54-11-12,12>>^ Mas o que faço, continuarei a fazer, para cortar pela raiz todo pretexto àqueles que procuram algum pretexto para se envaidecerem e se afirmarem iguais a nós.
+
+[[v54-11-13]]
+
+^<<v54-11-13,13>>^ Esses tais são falsos apóstolos, operários desonestos, que se disfarçam em apóstolos de Cristo,
+
+[[v54-11-14]]
+
+^<<v54-11-14,14>>^ o que não é de espantar. Pois, se o próprio Satanás se transfigura em anjo de luz,
+
+[[v54-11-15]]
+
+^<<v54-11-15,15>>^ parece bem normal que seus ministros se disfarcem em ministros de justiça, cujo fim, no entanto, será segundo as suas obras.
+
+[[v54-11-16]]
+
+^<<v54-11-16,16>>^ Repito: não me queiram tomar por um louco. No mínimo, aceitai-me como tal, para que também eu possa me gloriar!
+
+[[v54-11-17]]
+
+^<<v54-11-17,17>>^ O que vou dizer, na certeza de poder gloriar-me, não o digo sob a inspiração do Senhor, mas como num acesso de delírio.
+
+[[v54-11-18]]
+
+^<<v54-11-18,18>>^ Porque muitos se gloriam segundo a carne, também eu me gloriarei.
+
+[[v54-11-19]]
+
+^<<v54-11-19,19>>^ Vós, sendo homens sensatos, suportais de boa mente os loucos...
+
+[[v54-11-20]]
+
+^<<v54-11-20,20>>^ Sim, tolerais a quem vos escraviza, a quem vos devora, a quem vos faz violência, a quem vos trata com orgulho, a quem vos dá no rosto.^&#42;1^
+
+[[v54-11-21]]
+
+^<<v54-11-21,21>>^ Sinto vergonha de o dizer; temos mostrado demasiada fraqueza... Entretanto, de tudo aquilo de que outrem se ufana (falo como um insensato), disso também eu me ufano.
+
+[[v54-11-22]]
+
+^<<v54-11-22,22>>^ São hebreus? Também eu. São israelitas? Também eu.
+
+[[v54-11-23]]
+
+^<<v54-11-23,23>>^ São ministros de Cristo? Falo como menos sábio: eu, ainda mais. Muito mais pelos trabalhos, muito mais pelos cárceres, pelos açoites sem medida. Muitas vezes, vi a morte de perto.
+
+[[v54-11-24]]
+
+^<<v54-11-24,24>>^ Cinco vezes recebi dos judeus os quarenta açoites menos um.^&#42;1^
+
+[[v54-11-25]]
+
+^<<v54-11-25,25>>^ Três vezes fui flagelado com varas. Uma vez apedrejado. Três vezes naufraguei, uma noite e um dia passei no abismo.^&#42;1^
+
+[[v54-11-26]]
+
+^<<v54-11-26,26>>^ Viagens sem conta, exposto a perigos nos rios, perigos de salteadores, perigos da parte de meus concidadãos, perigos da parte dos pagãos, perigos na cidade, perigos no deserto, perigos no mar, perigos entre falsos irmãos!
+
+[[v54-11-27]]
+
+^<<v54-11-27,27>>^ Trabalhos e fadigas, repetidas vigílias, com fome e sede, frequentes jejuns, frio e nudez!
+
+[[v54-11-28]]
+
+^<<v54-11-28,28>>^ Além de outras coisas, a minha preocupação cotidiana, a solicitude por todas as igrejas!
+
+[[v54-11-29]]
+
+^<<v54-11-29,29>>^ Quem é fraco, que eu não seja fraco? Quem sofre escândalo, que eu não me consuma de dor?
+
+[[v54-11-30]]
+
+^<<v54-11-30,30>>^ Se for preciso que a gente se glorie, eu me gloriarei na minha fraqueza.
+
+[[v54-11-31]]
+
+^<<v54-11-31,31>>^ Deus, Pai de nosso Senhor Jesus Cristo, que é bendito pelos séculos, sabe que não minto.
+
+[[v54-11-32]]
+
+^<<v54-11-32,32>>^ Em Damasco, o governador do rei Aretas mandou guardar a cidade dos damascenos para me prender.
+
+[[v54-11-33]]
+
+^<<v54-11-33,33>>^ Mas, dentro de um cesto, desceram-me por uma janela ao longo da muralha, e assim escapei das suas mãos.
+
+'''
+
+xref:054-ii-corintios/054-ii-corintios-010.adoc#v54-10-0[&#60; Capítulo Anterior] | <<v54-11-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-012.adoc#v54-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v35-11-0]]
+=== Oséias, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 11 de Oséias apresenta uma imagem poderosa da compaixão de Deus por seu povo, mesmo diante da rebelião e infidelidade deles. Deus fala sobre como ele os chamou do Egito, como um pai que cuida de seu filho, e como ele não pode deixá-los para trás. A seguir estão cinco versículos selecionados de outras partes da Bíblia que abordam temas relacionados a esse capítulo:
+* Deuteronômio 32:10-11: "Ele o encontrou numa terra deserta e num ermo de solidão; cercou-o, cuidou dele, protegeu-o como a menina do seu olho. Como a águia que desperta a sua ninhada, paira sobre os seus filhos, estende as suas asas, e os toma, e os leva sobre as suas asas." Este versículo descreve a relação de Deus com seu povo como um pai amoroso que cuida de seu filho, um tema presente em Oséias 11.
+* Isaías 63:9: "Em toda a angústia deles, ele também se angustiou, e o anjo da sua presença os salvou; pelo seu amor, e pela sua compaixão, ele os remiu, e os tomou, e os levou todos os dias da antiguidade." Este versículo fala sobre a compaixão de Deus por seu povo, um tema central em Oséias 11.
+* Salmos 103:13: "Como um pai se compadece de seus filhos, assim o Senhor se compadece daqueles que o temem." Este versículo destaca a imagem de Deus como um pai amoroso, algo que é enfatizado em Oséias 11.
+* Isaías 40:11: "Como pastor, ele apascentará o seu rebanho; entre os seus braços recolherá os cordeirinhos, e os levará no seu regaço; as que amamentam, ele as guiará mansamente." Este versículo descreve a imagem de Deus como um pastor que cuida de seu rebanho, um tema presente em Oséias 11.
+* Jeremias 31:20: "Porventura Efraim é para mim um filho tão querido, ou uma criança tão mimada, que eu não possa deixar de me compadecer dele, diz o Senhor?" Este versículo destaca a compaixão de Deus por seu povo, mesmo diante de sua infidelidade e rebeldia, um tema central em Oséias 11.
+****
+
+[[v35-11-1]]
+
+^<<v35-11-1,1>>^ Israel era ainda criança, e já eu o amava, e do Egito chamei meu filho.
+
+[[v35-11-2]]
+
+^<<v35-11-2,2>>^ Mas, quanto mais os chamei, mais se afastaram; ofereceram sacrifícios aos Baals e queimaram ofertas aos ídolos.
+
+[[v35-11-3]]
+
+^<<v35-11-3,3>>^ Eu, entretanto, ensinava Efraim a andar, tomava-o nos meus braços, mas não compreenderam que eu cuidava deles.
+
+[[v35-11-4]]
+
+^<<v35-11-4,4>>^ Segurava-os com laços humanos, com laços de amor; fui para eles como o que tira da boca uma rédea, e dei-lhes alimento.^&#42;1^
+
+[[v35-11-5]]
+
+^<<v35-11-5,5>>^ Ele voltará para o Egito e o assírio será seu rei, porque não quiseram voltar-se para mim.^&#42;1^
+
+[[v35-11-6]]
+
+^<<v35-11-6,6>>^ A espada devastará suas cidades, destruirá seus filhos, que colherão assim o fruto de suas obras.
+
+[[v35-11-7]]
+
+^<<v35-11-7,7>>^ Meu povo é inclinado a separar-se de mim, convidam-no a subir para o Altíssimo, mas ninguém procura elevar-se.^&#42;1^
+
+[[v35-11-8]]
+
+^<<v35-11-8,8>>^ Como poderia eu abandonar-te, ó Efraim, ou trair-te, ó Israel? Como poderia eu tratar-te como Adama, ou tornar-te como Seboim? Meu coração se revolve dentro de mim, eu me comovo de dó e compaixão.^&#42;1^
+
+[[v35-11-9]]
+
+^<<v35-11-9,9>>^ Não darei curso ao ardor de minha cólera, já não destruirei Efraim, porque sou Deus e não um homem, sou o Santo no meio de ti, e não gosto de destruir.
+
+[[v35-11-10]]
+
+^<<v35-11-10,10>>^ Eles seguirão o Senhor, que rugirá como um leão; ao seu rugido tremerão os filhos do Ocidente;
+
+[[v35-11-11]]
+
+^<<v35-11-11,11>>^ os egípcios tremerão como uma ave, e os assírios, como uma pomba. Eu os farei habitar em suas casas – oráculo do Senhor.^&#42;1^
+
+'''
+
+xref:035-oseias/035-oseias-010.adoc#v35-10-0[&#60; Capítulo Anterior] | <<v35-11-0,Topo>> | xref:035-oseias/035-oseias-012.adoc#v35-12-0[Próximo Capítulo &#62;]

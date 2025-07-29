@@ -1,0 +1,62 @@
+include::./index.adoc[]
+
+[[v73-4-0]]
+=== Apocalipse, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Apocalipse 4 descreve a visão do trono celestial e a adoração dos seres viventes e dos anciãos diante do trono. Essa visão é uma introdução ao restante do livro, que revela os eventos futuros que culminam no triunfo final de Deus e de Seu povo.
+* Isaías 6:1-3: "No ano em que o rei Uzias morreu, eu vi o Senhor assentado num trono alto e exaltado, e a aba de sua veste enchia o templo. Serafins estavam por cima dele; cada um tinha seis asas: com duas cobriam o rosto, com duas cobriam os pés e com duas voavam. E proclamavam uns aos outros: 'Santo, santo, santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória'." Essa visão de Isaías é semelhante à visão de João em Apocalipse 4, pois ambos descrevem a majestade e a santidade de Deus sentado em Seu trono celestial.
+* Ezequiel 1:26-28: "Acima do firmamento que estava sobre as suas cabeças havia algo parecido com um trono de safira, e, bem no alto, sobre o que parecia um trono, uma figura como a de um homem. Vi que do que parecia a cintura para baixo ele parecia fogo, e do que parecia a cintura para cima parecia brilho reluzente, como metal polido. Como a aparência de um arco-íris que aparece no meio da chuva, assim era o resplendor ao seu redor. Essa era a aparência da glória do Senhor." O livro de Ezequiel também apresenta uma visão do trono celestial de Deus, e a descrição se assemelha à descrição de Apocalipse 4.
+* Salmos 29:2: "Dêem ao Senhor a glória devida ao seu nome; adorem o Senhor no esplendor da sua santidade." Esse versículo dos Salmos é uma chamada para a adoração a Deus, o que é um tema central em Apocalipse 4, onde os seres viventes e os anciãos adoram o Senhor diante de Seu trono.
+* Salmos 47:8: "Deus reina sobre as nações; Deus está sentado em seu santo trono." Esse versículo dos Salmos enfatiza a soberania de Deus e Seu reinado sobre as nações, o que é refletido na visão do trono celestial em Apocalipse 4.
+****
+
+[[v73-4-1]]
+
+^<<v73-4-1,1>>^ Depois disso, tive uma visão: vi uma porta aberta no céu, e a voz que falara comigo, como uma trombeta, dizia: “Sobe aqui e eu te mostrarei o que está para acontecer depois disso”.
+
+[[v73-4-2]]
+
+^<<v73-4-2,2>>^ Imediatamente, fui arrebatado em espírito; no céu havia um trono, e nesse trono estava sentado um Ser.^&#42;1^
+
+[[v73-4-3]]
+
+^<<v73-4-3,3>>^ E quem estava sentado assemelhava-se pelo aspecto a uma pedra de jaspe e de sardônica. Um halo, semelhante à esmeralda, nimbava o trono.
+
+[[v73-4-4]]
+
+^<<v73-4-4,4>>^ Ao redor havia vinte e quatro tronos, e neles, sentados, vinte e quatro Anciãos vestidos de vestes brancas e com coroas de ouro na cabeça.^&#42;1^
+
+[[v73-4-5]]
+
+^<<v73-4-5,5>>^ Do trono saíam relâmpagos, vozes e trovões. Diante do trono ardiam sete tochas de fogo, que são os sete Espíritos de Deus.^&#42;1^
+
+[[v73-4-6]]
+
+^<<v73-4-6,6>>^ Havia ainda diante do trono um mar límpido como cristal. Diante do trono e ao redor, quatro Animais vivos cheios de olhos na frente e atrás.^&#42;1^
+
+[[v73-4-7]]
+
+^<<v73-4-7,7>>^ O primeiro animal vivo assemelhava-se a um leão; o segundo, a um touro; o terceiro tinha um rosto como o de um homem; e o quarto era semelhante a uma águia em pleno voo.^&#42;1^
+
+[[v73-4-8]]
+
+^<<v73-4-8,8>>^ Esses Animais tinham cada um seis asas cobertas de olhos por dentro e por fora. Não cessavam de clamar dia e noite: “Santo, Santo, Santo é o Senhor Deus, o Dominador, o que é, o que era e o que deve voltar”.
+
+[[v73-4-9]]
+
+^<<v73-4-9,9>>^ E cada vez que aqueles Animais rendiam glória, honra e ação de graças àquele que vive pelos séculos dos séculos,
+
+[[v73-4-10]]
+
+^<<v73-4-10,10>>^ os vinte e quatro Anciãos inclinavam-se profundamente diante daquele que estava no trono e prostravam-se diante daquele que vive pelos séculos dos séculos, e depunham suas coroas diante do trono, dizendo:
+
+[[v73-4-11]]
+
+^<<v73-4-11,11>>^ “Tu és digno, Senhor, nosso Deus, de receber a honra, a glória e a majestade, porque criaste todas as coisas, e por tua vontade é que existem e foram criadas”.
+
+'''
+
+xref:073-apocalipse/073-apocalipse-003.adoc#v73-3-0[&#60; Capítulo Anterior] | <<v73-4-0,Topo>> | xref:073-apocalipse/073-apocalipse-005.adoc#v73-5-0[Próximo Capítulo &#62;]

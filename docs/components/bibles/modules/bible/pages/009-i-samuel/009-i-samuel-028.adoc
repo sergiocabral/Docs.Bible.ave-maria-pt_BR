@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v9-28-0]]
+=== I Samuel, 28
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 28 de 1 Samuel relata a história de Saul procurando orientação divina através de uma necromante, mesmo que ele mesmo havia proibido a prática de bruxaria em Israel. Durante a consulta, o espírito de Samuel é invocado e adverte Saul sobre sua morte iminente e a derrota de Israel na batalha. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Deuteronômio 18:10-12: "Não se ache no meio de ti quem faça passar pelo fogo seu filho ou sua filha, nem adivinhador, nem prognosticador, nem agoureiro, nem feiticeiro; nem encantador, nem necromante, nem mágico, nem quem consulte os mortos; pois todo aquele que faz estas coisas é abominável ao Senhor"
+Este versículo proíbe claramente a prática de necromancia e consulta aos mortos, que Saul proibiu em Israel, mas acabou recorrendo em seu desespero.
+* Levítico 19:31: "Não vos volteis para os necromantes, nem para os adivinhos; não os procureis para serdes contaminados por eles. Eu sou o Senhor vosso Deus."
+Este versículo também adverte contra a prática da necromancia e outras formas de adivinhação, que são consideradas impuras e abomináveis perante Deus.
+* Isaías 8:19: "Quando vos disserem: Consultai os necromantes e os adivinhos, que chilreiam e murmuram entre dentes, respondei: Não consultará um povo a seu Deus? Acaso a favor dos vivos se consultarão os mortos?"
+Neste versículo, o profeta Isaías adverte o povo de Israel a não procurar aconselhamento com necromantes e adivinhos, mas sim confiar em Deus para orientação e proteção.
+* 2 Crônicas 10:13-14: "E o rei respondeu-lhes duramente, desprezando o conselho dos anciãos, e falou-lhes conforme o conselho dos moços, dizendo: Meu pai agravou o vosso jugo, mas eu o aliviarei; meu pai vos castigou com açoites pesados, mas eu vos castigarei com açoites mais leves"
+Este versículo ilustra o perigo de rejeitar o conselho dos anciãos experientes em favor do conselho dos jovens e inexperientes, como Saul fez ao rejeitar os conselhos de Samuel e procurar aconselhamento de uma necromante.
+* Provérbios 28:13: "O que encobre as suas transgressões jamais prosperará, mas o que as confessa e deixa alcançará misericórdia."
+Este versículo destaca a importância da confissão e do arrependimento para obter a misericórdia de Deus, algo que Saul parecia não estar disposto a fazer, já que tentou encobrir seus erros e fraquezas em vez de confessá-los e buscar o perdão divino.
+****
+
+[[v9-28-1]]
+
+^<<v9-28-1,1>>^ Por aquele tempo, os filisteus mobilizaram suas tropas em um só exército para combater contra Israel. Aquis disse a Davi: “Sabe que virás comigo à guerra, tu e os teus homens”.
+
+[[v9-28-2]]
+
+^<<v9-28-2,2>>^ Davi respondeu: “Tu verás do que é capaz o teu servo”–. “Pois bem – disse Aquis –, confio-te para sempre a guarda de minha pessoa!”
+
+[[v9-28-3]]
+
+^<<v9-28-3,3>>^ Samuel tinha falecido e todo o Israel o chorara. Tinham-no sepultado em Ramá, sua cidade. E Saul expulsara da terra os necromantes, os feiticeiros e os adivinhos.
+
+[[v9-28-4]]
+
+^<<v9-28-4,4>>^ Os filisteus mobilizados vieram acampar em Sunam, enquanto Saul ajuntava os israelitas, acampando em Gelboé.
+
+[[v9-28-5]]
+
+^<<v9-28-5,5>>^ Ao ver o acampamento dos filisteus, Saul inquietou-se e teve grande medo.
+
+[[v9-28-6]]
+
+^<<v9-28-6,6>>^ E consultou o Senhor, o qual não lhe respondeu nem por sonhos, nem pelo urim, nem pelos profetas.
+
+[[v9-28-7]]
+
+^<<v9-28-7,7>>^ O rei disse aos seus servos: “Procurai-me uma necromante para que eu a consulte”. “Há uma em Endor – responderam-lhe.
+
+[[v9-28-8]]
+
+^<<v9-28-8,8>>^ Saul disfarçou-se, tomou outras vestes e pôs-se a caminho com dois homens. Chegaram, à noite, à casa da mulher. Saul disse-lhe: “Predize-me o futuro, evocando um morto; faze-me vir aquele que eu te designar”.
+
+[[v9-28-9]]
+
+^<<v9-28-9,9>>^ Respondeu-lhe a mulher: “Tu bem sabes o que fez Saul, como expulsou da terra os necromantes e os adivinhos. Por que me armas ciladas para matar-me?”.
+
+[[v9-28-10]]
+
+^<<v9-28-10,10>>^ Saul, porém, jurou-lhe pelo Senhor: “Por Deus – disse ele –, não te acontecerá mal algum por causa disso”.
+
+[[v9-28-11]]
+
+^<<v9-28-11,11>>^ Disse-lhe então a mulher: “A quem evocarei?”. “Evoca-me Samuel.”
+
+[[v9-28-12]]
+
+^<<v9-28-12,12>>^ E a mulher, tendo visto Samuel, soltou um grande grito: “Por que me enganaste? – disse ela ao rei –. “Tu és Saul!”
+
+[[v9-28-13]]
+
+^<<v9-28-13,13>>^ E o rei: “Não temas! Que vês?”. A mulher: “Vejo um deus que sobe da terra”.^&#42;1^
+
+[[v9-28-14]]
+
+^<<v9-28-14,14>>^ “Qual é o seu aspecto?” “É um ancião, envolto num manto.” Saul compreendeu que era Samuel e prostrou-se com o rosto por terra.
+
+[[v9-28-15]]
+
+^<<v9-28-15,15>>^ Samuel disse ao rei: “Por que me incomodaste, fazendo-me subir aqui?”. “Estou em grande angústia – disse o rei –. “Os filisteus atacam-me e Deus se retirou de mim, não me respondendo mais, nem por profetas, nem por sonhos. Chamei-te para que me indiques o que devo fazer.”
+
+[[v9-28-16]]
+
+^<<v9-28-16,16>>^ Samuel disse-lhe: “Por que me consultas, uma vez que o Senhor se retirou de ti, tornando-se teu adversário?
+
+[[v9-28-17]]
+
+^<<v9-28-17,17>>^ Fez o Senhor como tinha anunciado pela minha boca: ele tira a realeza de tua mão para dá-la a outro, a Davi.
+
+[[v9-28-18]]
+
+^<<v9-28-18,18>>^ Não obedeceste à voz do Senhor e não fizeste sentir a Amalec o fogo de sua cólera; eis por que o Senhor te trata hoje assim.
+
+[[v9-28-19]]
+
+^<<v9-28-19,19>>^ E mais: o Senhor vai entregar Israel, juntamente contigo, nas mãos dos filisteus. Amanhã, tu e teus filhos estareis comigo e o Senhor entregará aos filisteus o acampamento de Israel”.
+
+[[v9-28-20]]
+
+^<<v9-28-20,20>>^ Saul, atemorizado com as palavras de Samuel, caiu estendido por terra, pois estava extenuado, nada tendo comido todo aquele dia e toda aquela noite.
+
+[[v9-28-21]]
+
+^<<v9-28-21,21>>^ A mulher aproximou-se de Saul e, vendo-o assim extremamente aterrado, disse-lhe: “Tua serva obedeceu-te. Expus minha vida para obedecer à ordem que me deste.^&#42;1^
+
+[[v9-28-22]]
+
+^<<v9-28-22,22>>^ Ouve agora, tu também, a voz de tua serva. Vou dar-te um pouco de alimento para que o comas e tenhas força para retomar o teu caminho”.
+
+[[v9-28-23]]
+
+^<<v9-28-23,23>>^ Saul, porém, recusou: “Não comerei” – disse ele. Entretanto, insistindo com ele seus servos e a mulher, cedeu; levantou-se do chão e sentou-se na cama.
+
+[[v9-28-24]]
+
+^<<v9-28-24,24>>^ A mulher tinha em casa um bezerro cevado. Matou-o depressa e, tomando farinha, amassou-a, fazendo com ela pães sem fermento.
+
+[[v9-28-25]]
+
+^<<v9-28-25,25>>^ Cozeu-os e levou-os a Saul e à sua gente. Tendo comido, levantaram-se e partiram naquela mesma noite.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-027.adoc#v9-27-0[&#60; Capítulo Anterior] | <<v9-28-0,Topo>> | xref:009-i-samuel/009-i-samuel-029.adoc#v9-29-0[Próximo Capítulo &#62;]

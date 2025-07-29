@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v51-20-0]]
+=== Atos dos Apóstolos, 20
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 20 de Atos dos Apóstolos narra a despedida de Paulo dos anciãos da igreja de Éfeso, bem como sua jornada até Jerusalém. Paulo relembra seu ministério entre eles e os adverte sobre os perigos futuros que a igreja enfrentaria. Os versículos relacionados aos temas abordados em Atos 20 são:
+* Efésios 4:11-12: "E ele mesmo concedeu uns para apóstolos, outros para profetas, outros para evangelistas e outros para pastores e mestres, com vistas ao aperfeiçoamento dos santos para o desempenho do seu serviço, para a edificação do corpo de Cristo" - Esses versículos falam sobre a variedade de dons que Deus concede aos membros da igreja para edificação do corpo de Cristo, algo que Paulo discute com os anciãos em sua despedida.
+* 2 Timóteo 4:5: "Você, porém, seja sóbrio em tudo, suporte os sofrimentos, faça a obra de um evangelista e cumpra plenamente o seu ministério" - Esse verso traz a exortação de Paulo a Timóteo para que ele continue a fazer a obra de um evangelista, um chamado que também é relevante para a igreja de Éfeso.
+* 1 Pedro 5:1-2: "Aos presbíteros, que estão entre vocês, eu, também presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada, peço o seguinte: cuidem do rebanho de Deus que está sob sua responsabilidade. Vocês podem fazê-lo como quem presta contas, não por vontade própria, mas porque assim Deus quer" - Esse verso fala sobre a responsabilidade dos líderes da igreja de cuidar do rebanho de Deus, algo que Paulo reforça em sua despedida aos anciãos de Éfeso.
+* Atos 20:29-30: "Sei que, depois da minha partida, lobos ferozes penetrarão no meio de vocês e não pouparão o rebanho. E dentre vocês mesmos se levantarão homens que torcerão a verdade, a fim de atrair os discípulos para si" - Esse verso é uma advertência de Paulo aos anciãos de Éfeso sobre os perigos futuros que a igreja enfrentaria, incluindo a entrada de falsos líderes e o afastamento de alguns membros da verdade.
+* Colossenses 4:17: "Diga a Arquipo: 'Veja bem o ministério que você recebeu do Senhor e procure cumpri-lo com diligência'" - Esse verso é um chamado de Paulo a Arquipo, mencionado em Filemom como líder da igreja de Colossos, para que ele cumpra com diligência o ministério que recebeu do Senhor. Esse chamado é relevante para a igreja de Éfeso e para qualquer líder que deseja cumprir bem o seu papel na igreja.
+****
+
+[[v51-20-1]]
+
+^<<v51-20-1,1>>^ Depois que cessou o tumulto, Paulo convocou os discípulos. Fez-lhes uma exortação, despediu-se e pôs-se a caminho para ir à Macedônia.
+
+[[v51-20-2]]
+
+^<<v51-20-2,2>>^ Percorreu aquela região, exortou os discípulos com muitas palavras e chegou à Grécia,
+
+[[v51-20-3]]
+
+^<<v51-20-3,3>>^ onde se deteve por três meses. Como os judeus lhe armassem ciladas no momento em que ia embarcar para a Síria, tomou a resolução de voltar pela Macedônia.
+
+[[v51-20-4]]
+
+^<<v51-20-4,4>>^ Acompanharam-no Sópatro de Bereia, filho de Pirro, e os tessalonicenses Aristarco e Segundo, Gaio de Derbe, Timóteo, Tíquico e Trófimo, da Ásia.
+
+[[v51-20-5]]
+
+^<<v51-20-5,5>>^ Estes foram na frente e esperaram-nos em Trôade.
+
+[[v51-20-6]]
+
+^<<v51-20-6,6>>^ Nós outros, só depois da festa de Páscoa, é que navegamos de Filipos. E, cinco dias depois, fomos ter com eles em Trôade, onde ficamos uma semana.
+
+[[v51-20-7]]
+
+^<<v51-20-7,7>>^ No primeiro dia da semana, estando nós reunidos para partir o pão, Paulo, que havia de viajar no dia seguinte, conversava com os discípulos e prolongou a palestra até a meia-noite.^&#42;1^
+
+[[v51-20-8]]
+
+^<<v51-20-8,8>>^ Havia muitas lâmpadas no quarto, onde nos achávamos reunidos.
+
+[[v51-20-9]]
+
+^<<v51-20-9,9>>^ Acontece que um moço, chamado Êutico, que estava sentado numa janela, foi tomado de profundo sono, enquanto Paulo ia prolongando seu discurso. Vencido pelo sono, caiu do terceiro andar abaixo, e foi levantado morto.
+
+[[v51-20-10]]
+
+^<<v51-20-10,10>>^ Paulo desceu, debruçou-se sobre ele, tomou-o nos braços e disse: “Não vos perturbeis, porque a sua alma está nele”.
+
+[[v51-20-11]]
+
+^<<v51-20-11,11>>^ Então subiu, partiu o pão, comeu e falou-lhes largamente até o romper do dia. Depois partiu.
+
+[[v51-20-12]]
+
+^<<v51-20-12,12>>^ Quanto ao moço, levaram-no dali vivo, cheios de consolação.
+
+[[v51-20-13]]
+
+^<<v51-20-13,13>>^ Nós nos tínhamos adiantado e navegado para Assos, para ali recebermos Paulo. Ele mesmo assim o havia disposto, preferindo fazer a viagem a pé.
+
+[[v51-20-14]]
+
+^<<v51-20-14,14>>^ Reuniu-se a nós em Assos, e nós o tomamos a bordo e fomos a Mitilene.
+
+[[v51-20-15]]
+
+^<<v51-20-15,15>>^ Continuando dali, sempre por mar, chegamos no dia seguinte defronte de Quios. No outro dia, chegamos a Samos, e um dia depois estávamos em Mileto.
+
+[[v51-20-16]]
+
+^<<v51-20-16,16>>^ Paulo havia determinado não ir a Éfeso, para não se demorar na Ásia, pois se apressava para celebrar, se possível em Jerusalém, o dia de Pentecostes.
+
+[[v51-20-17]]
+
+^<<v51-20-17,17>>^ Mas de Mileto mandou a Éfeso chamar os anciãos da igreja.
+
+[[v51-20-18]]
+
+^<<v51-20-18,18>>^ Quando chegaram, e estando todos reunidos, disse-lhes: “Vós sabeis de que modo sempre me tenho comportado para convosco, desde o primeiro dia em que entrei na Ásia.
+
+[[v51-20-19]]
+
+^<<v51-20-19,19>>^ Servi ao Senhor com toda a humildade, com lágrimas e no meio das provações que me sobrevieram pelas ciladas dos judeus.
+
+[[v51-20-20]]
+
+^<<v51-20-20,20>>^ Vós sabeis como não tenho negligenciado, como não tenho ocultado coisa alguma que vos podia ser útil. Preguei e vos instruí publicamente e dentro de vossas casas.
+
+[[v51-20-21]]
+
+^<<v51-20-21,21>>^ Preguei aos judeus e aos gentios a conversão a Deus e a fé em nosso Senhor Jesus.
+
+[[v51-20-22]]
+
+^<<v51-20-22,22>>^ Agora, constrangido pelo Espírito, vou a Jerusalém, ignorando a sorte que ali me espera.
+
+[[v51-20-23]]
+
+^<<v51-20-23,23>>^ Só sei que, de cidade em cidade, o Espírito Santo me assegura que me esperam em Jerusalém cadeias e perseguições.
+
+[[v51-20-24]]
+
+^<<v51-20-24,24>>^ Mas nada disso temo, nem faço caso da minha vida, contanto que termine a minha carreira e o ministério da palavra que recebi do Senhor Jesus, para dar testemunho ao Evangelho da graça de Deus.
+
+[[v51-20-25]]
+
+^<<v51-20-25,25>>^ Sei agora que não tornareis a ver a minha face, todos vós, por entre os quais andei pregando o Reino de Deus.
+
+[[v51-20-26]]
+
+^<<v51-20-26,26>>^ Portanto, hoje eu protesto diante de vós que sou inocente do sangue de todos,
+
+[[v51-20-27]]
+
+^<<v51-20-27,27>>^ porque nada omiti no anúncio que vos fiz dos desígnios de Deus.
+
+[[v51-20-28]]
+
+^<<v51-20-28,28>>^ Cuidai de vós mesmos e de todo o rebanho sobre o qual o Espírito Santo vos constituiu bispos, para pastorear a Igreja de Deus, que ele adquiriu com o seu próprio sangue.
+
+[[v51-20-29]]
+
+^<<v51-20-29,29>>^ Sei que depois da minha partida se introduzirão entre vós lobos cruéis, que não pouparão o rebanho.
+
+[[v51-20-30]]
+
+^<<v51-20-30,30>>^ Mesmo dentre vós surgirão homens que hão de proferir doutrinas perversas, com o intento de arrebatarem após si os discípulos.
+
+[[v51-20-31]]
+
+^<<v51-20-31,31>>^ Vigiai! Lembrai-vos, portanto, de que por três anos não cessei, noite e dia, de admoestar, com lágrimas, a cada um de vós.
+
+[[v51-20-32]]
+
+^<<v51-20-32,32>>^ Agora eu vos encomendo a Deus e à palavra da sua graça, àquele que é poderoso para edificar e dar a herança com os santificados.
+
+[[v51-20-33]]
+
+^<<v51-20-33,33>>^ De ninguém cobicei prata, nem ouro, nem vestes.
+
+[[v51-20-34]]
+
+^<<v51-20-34,34>>^ Vós mesmos sabeis: estas mãos proveram às minhas necessidades e às dos meus companheiros.
+
+[[v51-20-35]]
+
+^<<v51-20-35,35>>^ Em tudo vos tenho mostrado que assim, trabalhando, convém acudir os fracos e lembrar-se das palavras do Senhor Jesus, porquanto ele mesmo disse: É maior felicidade dar que receber!”.^&#42;1^
+
+[[v51-20-36]]
+
+^<<v51-20-36,36>>^ A essas palavras, ele se pôs de joelhos a orar.
+
+[[v51-20-37]]
+
+^<<v51-20-37,37>>^ Derramaram-se em lágrimas e lançaram-se ao pescoço de Paulo para abraçá-lo,
+
+[[v51-20-38]]
+
+^<<v51-20-38,38>>^ aflitos, sobretudo pela palavra que tinha dito: “Já não vereis a minha face”. Em seguida, acompanharam-no até o navio.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-019.adoc#v51-19-0[&#60; Capítulo Anterior] | <<v51-20-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-021.adoc#v51-21-0[Próximo Capítulo &#62;]

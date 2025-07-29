@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v4-8-0]]
+=== Números, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 8 trata do processo de consagração dos levitas para o serviço no tabernáculo. O capítulo começa com a instrução de que as lâmpadas do candelabro devem ser acesas para iluminar a área ao redor do altar. Em seguida, Deus ordena que os levitas sejam purificados e consagrados para o serviço, a partir dos 25 anos de idade. Eles são apresentados diante do sacerdote para a cerimônia de consagração, onde suas cabeças são raspadas e são oferecidos sacrifícios. Depois disso, eles começam a trabalhar no tabernáculo sob a supervisão dos sacerdotes.
+* Êxodo 27:20: "E ordenarás aos filhos de Israel que te tragam azeite puro de oliveiras, batido, para o candeeiro, para que se acendam as lâmpadas continuamente." Este versículo fala sobre o uso de azeite puro para acender as lâmpadas do candelabro, que é um dos aspectos abordados em Números 8.
+Levítico 8:6: "Então Moisés fez chegar a Arão e a seus filhos, e os lavou com água." Este versículo descreve um dos rituais de purificação realizados pelos sacerdotes, algo semelhante ao que é feito com os levitas em Números 8.
+1 Crônicas 23:24: "Estes foram os filhos de Levi segundo as suas famílias, os cabeças das famílias segundo o registro dos que foram contados individualmente pelos seus nomes, segundo as suas cabeças, os que faziam a obra do ministério da casa do Senhor, da idade de vinte anos para cima." Este versículo menciona a idade a partir da qual os levitas começavam a trabalhar no serviço do templo, algo que é abordado em Números 8.
+Números 4:3: "Da idade de trinta anos para cima até a idade de cinquenta anos, todos os que entram na congregação, para fazerem a obra na tenda da congregação." Este versículo faz referência a uma faixa etária específica para o serviço no tabernáculo, algo que é mencionado em Números 8.
+2 Crônicas 29:34: "Porém os sacerdotes eram em pequeno número e não puderam esfolar todos os holocaustos; pelo que seus irmãos, os levitas, os ajudaram, até que a obra foi acabada, e até que os outros sacerdotes se santificaram; porque os levitas foram mais retos de coração para se santificarem do que os sacerdotes." Este versículo destaca o papel dos levitas no auxílio aos sacerdotes e na realização das tarefas do templo, algo que é tratado em Números 8.
+****
+
+[[v4-8-1]]
+
+^<<v4-8-1,1>>^ O Senhor disse a Moisés: “Dize a Aarão o seguinte:
+
+[[v4-8-2]]
+
+^<<v4-8-2,2>>^ Quando colocares as lâmpadas no candelabro, faça de tal modo que as sete lâmpadas projetem sua luz para a frente do mesmo candelabro”.
+
+[[v4-8-3]]
+
+^<<v4-8-3,3>>^ Aarão assim fez, e colocou as lâmpadas na parte dianteira do candelabro, como o Senhor tinha ordenado a Moisés.
+
+[[v4-8-4]]
+
+^<<v4-8-4,4>>^ O candelabro era feito de ouro batido: seu pé, suas flores, tudo era de ouro batido; e foi feito segundo o modelo que o Senhor tinha mostrado a Moisés.
+
+[[v4-8-5]]
+
+^<<v4-8-5,5>>^ O Senhor disse a Moisés o seguinte:
+
+[[v4-8-6]]
+
+^<<v4-8-6,6>>^ “Toma os levitas do meio dos israelitas e purifica-os.
+
+[[v4-8-7]]
+
+^<<v4-8-7,7>>^ Eis como farás para purificá-los: asperge-os com a água da expiação e eles passem uma navalha sobre todo o corpo, lavem as suas vestes e purifiquem-se a si mesmos.
+
+[[v4-8-8]]
+
+^<<v4-8-8,8>>^ Tomem então um touro com a sua oblação de flor de farinha amassada com óleo; e tomarás tu um segundo touro em sacrifício pelo pecado.
+
+[[v4-8-9]]
+
+^<<v4-8-9,9>>^ Farás aproximarem-se os levitas diante da tenda de reunião, e convocarás toda a assembleia dos israelitas.
+
+[[v4-8-10]]
+
+^<<v4-8-10,10>>^ Mandarás os levitas que se aproximem diante do Senhor, e os israelitas porão suas mãos sobre eles.
+
+[[v4-8-11]]
+
+^<<v4-8-11,11>>^ Aarão oferecerá os levitas ao Senhor, como oferta agitada, em nome dos israelitas, a fim de que eles sejam destinados ao serviço do Senhor.
+
+[[v4-8-12]]
+
+^<<v4-8-12,12>>^ Os levitas porão suas mãos sobre as cabeças dos touros, dos quais oferecerá um em sacrifício pelo pecado, e o outro em holocausto ao Senhor para fazer a expiação em favor dos levitas.
+
+[[v4-8-13]]
+
+^<<v4-8-13,13>>^ Mandarás que os levitas se conservem de pé diante de Aarão e seus filhos, e os apresentarás em oferta agitada ao Senhor.
+
+[[v4-8-14]]
+
+^<<v4-8-14,14>>^ Separarás desse modo os levitas do meio dos israelitas, e eles serão meus.
+
+[[v4-8-15]]
+
+^<<v4-8-15,15>>^ Depois disso, virão para a tenda de reunião para me servirem. Assim os purificarás e os apresentarás em oferta agitada.
+
+[[v4-8-16]]
+
+^<<v4-8-16,16>>^ Porque eles me são inteiramente reservados entre os israelitas; eu os tomei para mim em lugar de todo primogênito, daqueles que nascem primeiro entre os filhos de Israel.
+
+[[v4-8-17]]
+
+^<<v4-8-17,17>>^ Porque todo primogênito entre os israelitas, homem ou animal, é meu, eu os consagrei a mim no dia em que feri os primogênitos no Egito.
+
+[[v4-8-18]]
+
+^<<v4-8-18,18>>^ Eu tomei os levitas em lugar de todos os primogênitos dos israelitas,
+
+[[v4-8-19]]
+
+^<<v4-8-19,19>>^ e, tirados do meio do povo, dei-os inteiramente a Aarão e seus filhos para fazerem o serviço dos israelitas na tenda de reunião, e para fazerem a expiação em favor dos israelitas, de sorte que estes últimos não sejam feridos por nenhuma praga quando se aproximarem do santuário”.
+
+[[v4-8-20]]
+
+^<<v4-8-20,20>>^ Moisés, Aarão e toda a assembleia dos israelitas fizeram, pois, acerca dos levitas, tudo o que o Senhor tinha ordenado a Moisés a seu respeito. Assim fizeram os filhos de Israel:
+
+[[v4-8-21]]
+
+^<<v4-8-21,21>>^ purificaram-se e lavaram suas vestes. Aarão apresentou-os em oferta agitada diante do Senhor, e fez a expiação por eles, a fim de purificá-los.
+
+[[v4-8-22]]
+
+^<<v4-8-22,22>>^ E vieram em seguida os levitas para a tenda de reunião para fazer o seu serviço, em presença de Aarão e seus filhos. Como o Senhor tinha ordenado a Moisés acerca dos levitas, assim se fez.
+
+[[v4-8-23]]
+
+^<<v4-8-23,23>>^ O Senhor disse a Moisés o seguinte:
+
+[[v4-8-24]]
+
+^<<v4-8-24,24>>^ “Esta é a lei relativa aos levitas: desde os vinte e cinco anos para cima, o levita será admitido ao serviço na tenda de reunião.
+
+[[v4-8-25]]
+
+^<<v4-8-25,25>>^ A partir dos cinquenta anos, renunciará às suas funções e cessará de servir.
+
+[[v4-8-26]]
+
+^<<v4-8-26,26>>^ Ajudará seus irmãos na tenda de reunião, zelando pelo que lhe foi confiado; mas não exercerá mais as suas funções. Desse modo disporás os levitas nos seus encargos”.
+
+'''
+
+xref:004-numeros/004-numeros-007.adoc#v4-7-0[&#60; Capítulo Anterior] | <<v4-8-0,Topo>> | xref:004-numeros/004-numeros-009.adoc#v4-9-0[Próximo Capítulo &#62;]

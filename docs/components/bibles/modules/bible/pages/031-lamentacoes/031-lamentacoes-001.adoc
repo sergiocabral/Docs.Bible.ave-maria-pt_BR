@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v31-1-0]]
+=== Lamentações, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Lamentações 1 é o primeiro capítulo do livro de Lamentações, que apresenta uma coleção de poemas que expressam profunda tristeza e lamento pela destruição de Jerusalém e pelo sofrimento do povo de Judá. O capítulo 1 apresenta Jerusalém personificada como uma mulher solitária e abandonada, que sofre a punição divina pelos seus pecados. A seguir estão cinco versículos relacionados com os temas abordados em Lamentações 1:
+* Isaías 64:10: "As tuas cidades santas tornaram-se em deserto; Sião tornou-se em deserto, Jerusalém em assolação." Este versículo descreve a destruição das cidades sagradas e a desolação de Jerusalém, o que é um tema central de Lamentações 1.
+* Salmos 137:1: "Junto aos rios da Babilônia, ali nos assentamos e choramos, quando nos lembramos de Sião." Este versículo mostra a dor e a tristeza dos exilados em Babilônia, que se lembram de sua terra natal e choram pela perda de Jerusalém.
+* Isaías 51:19: "Estas duas coisas te sucederam; quem te compadecerá? A desolação e a destruição, a fome e a espada; como te consolarei eu?" Este versículo mostra a tristeza de Deus pelo sofrimento de Jerusalém e a sensação de impotência diante da destruição.
+* Salmos 22:1: "Deus meu, Deus meu, por que me desamparaste? Por que te alongas do meu auxílio e das palavras do meu bramido?" Este versículo expressa a sensação de abandono e solidão que Jerusalém experimenta, personificada como uma mulher solitária em Lamentações 1.
+* Jeremias 9:1: "Ah! Quem me dera uma cabana no deserto para peregrinar longe do meu povo! Porque são todos adúlteros, um bando de traidores." Este versículo expressa o desejo de isolamento diante da corrupção e da infidelidade do povo, um tema presente em Lamentações 1.
+****
+
+[[v31-1-1]]
+
+^<<v31-1-1,1>>^ Álef: Como está abandonada a cidade tão povoada! Assemelha-se a uma viúva a grande entre as nações. Rainha entre as províncias, ficou sujeita ao tributo.^&#42;1^
+
+[[v31-1-2]]
+
+^<<v31-1-2,2>>^ Bet: Ela chora pela noite adentro, lágrimas lhe inundam as faces, ninguém mais a consola de quantos a amavam. Seus amigos todos a traíram, e se tornaram seus inimigos.^&#42;1^
+
+[[v31-1-3]]
+
+^<<v31-1-3,3>>^ Guímel: Judá partiu para o exílio em miséria e dura servidão. Habita entre as nações sem achar repouso. Atingiram-no seus perseguidores entre as suas fronteiras.
+
+[[v31-1-4]]
+
+^<<v31-1-4,4>>^ Dálet: Estão de luto os caminhos de Sião, e ninguém mais vem às suas festas. Suas portas todas estão desertas, gemem seus sacerdotes, afligem-se as virgens, e ela mesma vive na amargura.
+
+[[v31-1-5]]
+
+^<<v31-1-5,5>>^ Hê: Apossaram-se dela seus opressores, e tranquilos vivem seus inimigos, pois o Senhor a aflige por causa do número de seus crimes. Partiram cativos os seus filhos diante do opressor.
+
+[[v31-1-6]]
+
+^<<v31-1-6,6>>^ Vaw: Desapareceu da filha de Sião toda a sua glória. Seus príncipes se tornaram como cervos que não encontraram pastagens e que fogem, esgotados, diante dos que os perseguem.
+
+[[v31-1-7]]
+
+^<<v31-1-7,7>>^ Záin: Nestes dias de males e vida errante, recorda-se Jerusalém das delícias dos tempos idos. Agora que seu povo sucumbiu sob os golpes do inimigo e ninguém vem socorrê-la! Olham-na seus inimigos, e zombam de sua devastação.
+
+[[v31-1-8]]
+
+^<<v31-1-8,8>>^ Het: Graves foram os pecados de Jerusalém: ela ficou uma imundície. Quem a honrava, agora a despreza porque lhe viram a nudez. E ela geme e esconde o rosto.
+
+[[v31-1-9]]
+
+^<<v31-1-9,9>>^ Tet: Vê-se sua mancha sobre suas vestes. Ela não previra esse fim. É imensa a sua decadência, e ninguém vem consolá-la. “Olhai, Senhor, para a minha miséria, porque o inimigo se ensoberbece.”
+
+[[v31-1-10]]
+
+^<<v31-1-10,10>>^ Yod: O adversário lançou a mão sobre todos os seus tesouros. E ela viu os pagãos penetrarem em seu santuário, aqueles dos quais dissestes que não entrariam em vossa assembleia.
+
+[[v31-1-11]]
+
+^<<v31-1-11,11>>^ Kaf: Geme todo o seu povo à procura de pão. Por víveres troca suas joias, a fim de recuperar as forças. “Vede, Senhor, e considerai o aviltamento a que cheguei!”
+
+[[v31-1-12]]
+
+^<<v31-1-12,12>>^ Lámed: Ó vós todos, que passais pelo caminho: olhai e julgai se existe dor igual à dor que me atormenta, a mim que o Senhor feriu no dia de sua ardente cólera.^&#42;1^
+
+[[v31-1-13]]
+
+^<<v31-1-13,13>>^ Mem: Até aos meus ossos lançou ele do alto um fogo que os devora. Sob meus passos estendeu redes e me fez cair violentamente, enchendo-me de pavor. Eu ando amargurado o dia inteiro!
+
+[[v31-1-14]]
+
+^<<v31-1-14,14>>^ Nun: O jugo dos meus crimes está ligado pelas suas mãos. Pesa-me ao pescoço um feixe que faz vacilar minha força. O Senhor me entregou em mãos das quais não posso libertar-me.^&#42;1^
+
+[[v31-1-15]]
+
+^<<v31-1-15,15>>^ Sámec: Rejeitou o Senhor todos os bravos que viviam em meus muros. Enviou contra mim um exército, a fim de abater minha jovem elite. O Senhor esmagou no lagar a virgem, filha de Judá.
+
+[[v31-1-16]]
+
+^<<v31-1-16,16>>^ Áin: Eis o motivo por que choro; fundem-se em lágrimas os meus olhos, porque ninguém a meu lado me consola, nem me alenta. Vivem consternados os meus filhos, porque triunfa o inimigo.
+
+[[v31-1-17]]
+
+^<<v31-1-17,17>>^ Pê: Sião estende as suas mãos sem que ninguém a console. Mandou o Senhor contra Jacó inimigos sem conta. Jerusalém se tornou entre eles objeto de aversão.
+
+[[v31-1-18]]
+
+^<<v31-1-18,18>>^ Tsade: O Senhor é justo, porque fui rebelde à sua voz. Escutai todos vós, ó povos, e vede a minha dor. Minhas virgens e meus jovens foram conduzidos para o exílio.^&#42;1^
+
+[[v31-1-19]]
+
+^<<v31-1-19,19>>^ Qof: Implorei a meus amigos e eles me iludiram. Meus sacerdotes e os anciãos pereceram na cidade enquanto buscavam alimento para revigorar as forças.
+
+[[v31-1-20]]
+
+^<<v31-1-20,20>>^ Resh: Vede, Senhor, a minha angústia! Tremem minhas entranhas, e meu coração está perturbado por causa de minhas revoltas. De fora mata a espada, de dentro alastra a morte.
+
+[[v31-1-21]]
+
+^<<v31-1-21,21>>^ Shin: Meus suspiros são ouvidos sem que ninguém me console. Meus inimigos, vendo minha ruína, sentem-se felizes com a vossa intervenção. Fazei vir o dia por vós predito! Que a mesma sorte lhes advenha!
+
+[[v31-1-22]]
+
+^<<v31-1-22,22>>^ Taw: Que todos os seus crimes vos estejam presentes! Tratai-os como a mim me tratastes por todos os meus crimes! Porque não cessam meus gemidos, e está doente meu coração.
+
+'''
+
+xref:030-jeremias/030-jeremias-052.adoc#v30-52-0[&#60; Capítulo Anterior] | <<v31-1-0,Topo>> | xref:031-lamentacoes/031-lamentacoes-002.adoc#v31-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v3-20-0]]
+=== Levítico, 20
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Levítico 20 apresenta uma lista de punições para diversas transgressões, incluindo relações sexuais proibidas, idolatria e outras práticas consideradas abomináveis aos olhos de Deus. Abaixo estão cinco versículos relacionados com os temas do capítulo:
+* Deuteronômio 22:22 "Se for descoberto que um homem está se deitando com a mulher de outro homem, ambos devem morrer, o homem que está deitando com a mulher e a própria mulher. Assim você eliminará o mal de Israel". Este versículo mostra que a punição para adultério não é exclusiva de Levítico 20, mas é uma lei que aparece em outras partes da Bíblia.
+* Deuteronômio 18:9-12 "Não sejam encontrados entre vocês quem pratique adivinhação, quem pratique magia, quem interprete presságios, quem pratique feitiçaria, quem faça encantamentos, quem consulte espíritos ou médiuns, ou quem invoque os mortos. Qualquer um que fizer essas coisas é abominável ao Senhor". Este versículo proíbe a prática da bruxaria, algo que é mencionado como uma das transgressões em Levítico 20.
+* 2 Reis 23:10 "Ele [o rei Josias] desonrou os lugares de prostituição cultual que estavam no templo do Senhor, onde as mulheres teciam mantos em honra da deusa Asherah". A adoração de outros deuses, incluindo a deusa Asherah mencionada neste versículo, é proibida em Levítico 20.
+* Levítico 20:13 "Se um homem se deitar com outro homem como se fosse com uma mulher, ambos cometeram um ato abominável. Eles devem ser executados por seus próprios pecados". Este versículo proíbe a homossexualidade masculina e é um exemplo da aplicação das punições mencionadas em Levítico 20.
+* Jeremias 32:35 "Eles [o povo de Judá] construíram os lugares altos de Baal no vale de Ben-Hinom, para sacrificar seus filhos e suas filhas ao deus Moloque, embora eu nunca os tenha ordenado, nem jamais tenha passado pela minha mente que fizessem tal coisa abominável e levassem Judá a pecar". Este versículo mostra que o sacrifício de crianças a deuses pagãos era uma prática considerada abominável por Deus, o que também é proibido em Levítico 20.
+****
+
+[[v3-20-1]]
+
+^<<v3-20-1,1>>^ O Senhor disse a Moisés: “Dirás aos israelitas:
+
+[[v3-20-2]]
+
+^<<v3-20-2,2>>^ Todo israelita ou estrangeiro que habita em Israel e que sacrificar um de seus filhos a Moloc, será punido de morte. O povo da terra o apedrejará.
+
+[[v3-20-3]]
+
+^<<v3-20-3,3>>^ Eu voltarei o meu rosto contra ele e o cortarei do meio de seu povo, porque manchou o meu santuário e profanou o meu santo nome, dando um de seus filhos a Moloc.
+
+[[v3-20-4]]
+
+^<<v3-20-4,4>>^ Se o povo da terra não se importar por esse homem ter dado um de seus filhos a Moloc, e se não o matar,
+
+[[v3-20-5]]
+
+^<<v3-20-5,5>>^ eu voltarei meu rosto contra ele e contra a sua família, e o cortarei do meio de seu povo com todos aqueles que se prostituem como ele, prestando culto a Moloc.
+
+[[v3-20-6]]
+
+^<<v3-20-6,6>>^ Se alguém se dirigir aos necromantes ou aos adivinhos para fornicar com eles, voltarei meu rosto contra esse homem e o cortarei do meio de seu povo.^&#42;1^
+
+[[v3-20-7]]
+
+^<<v3-20-7,7>>^ Santificai-vos, e sede santos, porque eu sou o Senhor, vosso Deus.
+
+[[v3-20-8]]
+
+^<<v3-20-8,8>>^ Observai minhas leis e praticai-as. Eu sou o Senhor que vos santifico.
+
+[[v3-20-9]]
+
+^<<v3-20-9,9>>^ Quem amaldiçoar o pai ou a mãe será punido de morte. Amaldiçoou o seu pai ou a sua mãe: levará a sua culpa.
+
+[[v3-20-10]]
+
+^<<v3-20-10,10>>^ Se um homem cometer adultério com uma mulher casada, com a mulher de seu próximo, o homem e a mulher adúlteros serão punidos de morte.
+
+[[v3-20-11]]
+
+^<<v3-20-11,11>>^ Se um homem dormir com a mulher de seu pai, descobrindo assim a nudez de seu pai, serão ambos punidos de morte; levarão a sua culpa.
+
+[[v3-20-12]]
+
+^<<v3-20-12,12>>^ Se um homem dormir com a sua nora, serão ambos punidos de morte; isso é uma ignomínia, e eles levarão a sua culpa.
+
+[[v3-20-13]]
+
+^<<v3-20-13,13>>^ Se um homem dormir com outro homem, como se fosse mulher, ambos cometerão uma coisa abominável. Serão punidos de morte e levarão a sua culpa.
+
+[[v3-20-14]]
+
+^<<v3-20-14,14>>^ Se um homem tomar por mulheres a filha e a mãe, cometerá um crime. Serão queimados no fogo, o homem e as mulheres, para que não haja tal crime no meio de vós.
+
+[[v3-20-15]]
+
+^<<v3-20-15,15>>^ Se um homem tiver relações carnais com um animal, será punido de morte, e matareis também o animal.
+
+[[v3-20-16]]
+
+^<<v3-20-16,16>>^ Se uma mulher se aproximar de um animal para se prostituir com ele, será morta juntamente com o animal. Serão mortos e levarão a sua iniquidade.
+
+[[v3-20-17]]
+
+^<<v3-20-17,17>>^ Se um homem tomar a sua irmã, filha de seu pai ou de sua mãe, e vir a sua nudez, e ela vir a sua, isso é uma coisa infame. Serão exterminados sob os olhos de seus compatriotas: descobriu a nudez de sua irmã; levará a sua iniquidade.
+
+[[v3-20-18]]
+
+^<<v3-20-18,18>>^ Se um homem dormir com uma mulher durante o tempo de sua menstruação e vir a sua nudez, descobrindo o seu fluxo e descobrindo-o ela mesma, serão ambos cortados do meio de seu povo.
+
+[[v3-20-19]]
+
+^<<v3-20-19,19>>^ Não descobrirás a nudez da irmã de tua mãe, nem da irmã de teu pai, porque descobrirás a sua carne; levarão sua iniquidade.
+
+[[v3-20-20]]
+
+^<<v3-20-20,20>>^ Se um homem se deitar com sua tia, ele descobrirá a nudez de seu tio; levarão a sua iniquidade, e morrerão sem filhos.
+
+[[v3-20-21]]
+
+^<<v3-20-21,21>>^ Se um homem tomar a mulher de seu irmão, será uma impureza; ofenderá a honra de seu irmão: não terão filhos.
+
+[[v3-20-22]]
+
+^<<v3-20-22,22>>^ Observareis todas as minhas leis e meus mandamentos e os praticareis, a fim de que não vos vomite a terra aonde vos conduzo para aí habitar.
+
+[[v3-20-23]]
+
+^<<v3-20-23,23>>^ Não seguireis os costumes da nação que eu expulsar de diante de vós, porque fizeram todas essas coisas e eu as abominei.
+
+[[v3-20-24]]
+
+^<<v3-20-24,24>>^ Eu vos disse: ‘Possuireis essa terra, a qual vos darei em possessão, terra que mana leite e mel’. Eu sou o Senhor, vosso Deus, que vos separei dos outros povos.
+
+[[v3-20-25]]
+
+^<<v3-20-25,25>>^ Fareis a distinção entre animais puros e impuros, entre as aves puras e impuras, e não vos torneis abomináveis por causa de animais, de aves ou de animais que se arrastam sobre a terra, como vos ensinei a distinguir como impuros.
+
+[[v3-20-26]]
+
+^<<v3-20-26,26>>^ Sereis para mim santos, porque eu, o Senhor, sou santo; e vos separei dos outros povos para que sejais meus.
+
+[[v3-20-27]]
+
+^<<v3-20-27,27>>^ Qualquer homem ou mulher que evocar os espíritos ou fizer adivinhações, será morto. Serão apedrejados, e levarão sua culpa”.
+
+'''
+
+xref:003-levitico/003-levitico-019.adoc#v3-19-0[&#60; Capítulo Anterior] | <<v3-20-0,Topo>> | xref:003-levitico/003-levitico-021.adoc#v3-21-0[Próximo Capítulo &#62;]

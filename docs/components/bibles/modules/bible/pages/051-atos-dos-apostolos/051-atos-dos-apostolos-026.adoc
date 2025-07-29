@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v51-26-0]]
+=== Atos dos Apóstolos, 26
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Atos dos Apóstolos 26 relata o discurso de Paulo diante do rei Agripa, no qual ele defende sua pregação do Evangelho e sua conversão ao cristianismo. Paulo fala sobre como antes perseguia os cristãos, mas agora acredita que Jesus é o Messias e deve ser seguido. Ele também menciona a ressurreição dos mortos e a importância de pregar a mensagem de salvação a todos. Com base nesses temas, os cinco versículos relacionados são:
+* Romanos 10:9: "Se, com a tua boca, confessares Jesus como Senhor e, em teu coração, creres que Deus o ressuscitou dentre os mortos, serás salvo." Este versículo fala sobre a importância da confissão de Jesus como Senhor e da crença na sua ressurreição para a salvação. Isso está de acordo com o discurso de Paulo em Atos 26, no qual ele prega sobre a ressurreição e a importância de seguir a Jesus.
+* 1 Coríntios 15:14: "E, se Cristo não ressuscitou, é vã a nossa pregação, e também é vã a vossa fé." Neste versículo, Paulo enfatiza a importância da ressurreição de Cristo para a fé cristã. Em seu discurso em Atos 26, Paulo menciona a ressurreição como uma das razões pelas quais ele acredita em Jesus.
+* 2 Timóteo 4:2: "Prega a palavra, insta a tempo e fora de tempo, admoesta, repreende, exorta, com toda longanimidade e ensino." Paulo encoraja Timóteo a pregar a palavra em todas as ocasiões. Isso está de acordo com o discurso de Paulo em Atos 26, no qual ele fala sobre como ele sempre pregou a mensagem de salvação a todos.
+* 1 Tessalonicenses 5:5-6: "Porque todos vós sois filhos da luz e filhos do dia; nós não somos da noite nem das trevas. Não durmamos, pois, como os demais, mas vigiemos e sejamos sóbrios." Neste versículo, Paulo fala sobre a importância de permanecer vigilante e sóbrio como filhos da luz. Isso está relacionado ao discurso de Paulo em Atos 26, no qual ele fala sobre como ele foi transformado pela luz de Jesus.
+* Filipenses 3:8-9: "E, na verdade, tenho também por perda todas as coisas, pela excelência do conhecimento de Cristo Jesus, meu Senhor; pelo qual sofri a perda de todas estas coisas, e as considero como escória, para que possa ganhar a Cristo, e seja achado nele." Paulo fala sobre como considera tudo como perda em comparação com o conhecimento de Cristo. Isso está relacionado ao discurso de Paulo em Atos 26, no qual ele fala sobre como sua vida mudou quando ele conheceu a Jesus.
+****
+
+[[v51-26-1]]
+
+^<<v51-26-1,1>>^ Agripa disse a Paulo: “Tens permissão de fazer a tua defesa”. Paulo então fez um gesto com a mão e começou a sua justificação:
+
+[[v51-26-2]]
+
+^<<v51-26-2,2>>^ “Julgo-me feliz de poder hoje fazer a minha defesa, na tua presença, ó rei Agripa, de tudo quanto me acusam os judeus,
+
+[[v51-26-3]]
+
+^<<v51-26-3,3>>^ porque tu conheces perfeitamente os seus costumes e controvérsias. Peço-te, pois, que me ouças com paciência.
+
+[[v51-26-4]]
+
+^<<v51-26-4,4>>^ Minha vida, desde a minha primeira juventude, tem decorrido no meio de minha pátria e em Jerusalém, e é conhecida dos judeus.
+
+[[v51-26-5]]
+
+^<<v51-26-5,5>>^ Sabem eles, desde longa data, e se quiserem poderão testemunhá-lo, que vivi segundo a seita mais rigorosa da nossa religião, isto é, como fariseu.
+
+[[v51-26-6]]
+
+^<<v51-26-6,6>>^ Mas agora sou acusado em juízo, por esperar a promessa que foi feita por Deus a nossos pais,
+
+[[v51-26-7]]
+
+^<<v51-26-7,7>>^ e a qual as nossas doze tribos esperam alcançar, servindo a Deus noite e dia. Por essa esperança, ó rei, é que sou acusado pelos judeus.
+
+[[v51-26-8]]
+
+^<<v51-26-8,8>>^ Que pensais vós? É coisa incrível que Deus ressuscite os mortos?
+
+[[v51-26-9]]
+
+^<<v51-26-9,9>>^ Também eu acreditei que devia fazer a maior oposição ao nome de Jesus de Nazaré.
+
+[[v51-26-10]]
+
+^<<v51-26-10,10>>^ Assim procedi de fato em Jerusalém e tenho encerrado muitos irmãos em cárceres, havendo recebido para isso poder dos sumos sacerdotes; quando os sentenciavam à morte, eu dava a minha plena aprovação.
+
+[[v51-26-11]]
+
+^<<v51-26-11,11>>^ Muitas vezes, perseguindo-os por todas as sinagogas, eu os maltratava para obrigá-los a blasfemar. Enfurecendo-me mais e mais contra eles, eu os perseguia até no estrangeiro.
+
+[[v51-26-12]]
+
+^<<v51-26-12,12>>^ Nesse intuito, fui a Damasco, com poder e comissão dos sumos sacerdotes.
+
+[[v51-26-13]]
+
+^<<v51-26-13,13>>^ Era meio-dia, ó rei. Eu estava a caminho quando uma luz do céu, mais fulgurante que o sol, brilhou em torno de mim e dos meus companheiros.
+
+[[v51-26-14]]
+
+^<<v51-26-14,14>>^ Caímos todos nós por terra, e ouvi uma voz que me dizia em língua hebraica: Saulo, Saulo, por que me persegues? Dura coisa te é recalcitrar contra o aguilhão.
+
+[[v51-26-15]]
+
+^<<v51-26-15,15>>^ Então, eu disse: Quem és, Senhor? O Senhor respondeu: Eu sou Jesus, a quem persegues.
+
+[[v51-26-16]]
+
+^<<v51-26-16,16>>^ Mas levanta-te e põe-te em pé, pois eu te apareci para te fazer ministro e testemunha das coisas que viste e de outras para as quais hei de manifestar-me a ti.
+
+[[v51-26-17]]
+
+^<<v51-26-17,17>>^ Escolhi-te do meio do povo e dos pagãos, aos quais agora te envio
+
+[[v51-26-18]]
+
+^<<v51-26-18,18>>^ para abrir-lhes os olhos, a fim de que se convertam das trevas à luz e do poder de Satanás a Deus, para que, pela fé em mim, recebam perdão dos pecados e herança entre os que foram santificados.
+
+[[v51-26-19]]
+
+^<<v51-26-19,19>>^ Desde então, ó rei, não fui desobediente à visão celestial.
+
+[[v51-26-20]]
+
+^<<v51-26-20,20>>^ Preguei primeiramente aos de Damasco e depois em Jerusalém e por toda a terra da Judeia, e aos pagãos, para que se arrependessem e se convertessem a Deus, fazendo dignas obras correspondentes.
+
+[[v51-26-21]]
+
+^<<v51-26-21,21>>^ Por isso, os judeus me prenderam no templo e tentaram matar-me.
+
+[[v51-26-22]]
+
+^<<v51-26-22,22>>^ Mas, assistido do socorro de Deus, permaneço vivo até o dia de hoje. Dou testemunho a pequenos e a grandes, nada dizendo senão o que os profetas e Moisés disseram que havia de acontecer,
+
+[[v51-26-23]]
+
+^<<v51-26-23,23>>^ a saber: que Cristo havia de padecer e seria o primeiro que, pela ressurreição dos mortos, havia de anunciar a luz ao povo judeu e aos pagãos”.
+
+[[v51-26-24]]
+
+^<<v51-26-24,24>>^ Dizendo ele essas coisas em sua defesa, Festo exclamou em alta voz: “Estás louco, Paulo! O teu muito saber tira-te o juízo”.
+
+[[v51-26-25]]
+
+^<<v51-26-25,25>>^ Paulo, então, respondeu: “Não estou louco, excelentíssimo Festo, mas digo palavras de verdade e de prudência.
+
+[[v51-26-26]]
+
+^<<v51-26-26,26>>^ Pois dessas coisas tem conhecimento o rei, em cuja presença falo com franqueza. Sei que nada disso lhe é oculto, porque nenhuma dessas coisas se fez ali ocultamente”.
+
+[[v51-26-27]]
+
+^<<v51-26-27,27>>^ “Crês, ó rei, nos profetas? Bem sei que crês!”
+
+[[v51-26-28]]
+
+^<<v51-26-28,28>>^ Disse, então, Agripa a Paulo: “Por pouco não me persuades a fazer-me cristão!”.^&#42;1^
+
+[[v51-26-29]]
+
+^<<v51-26-29,29>>^ Respondeu Paulo: “Prouvera a Deus que, por pouco e por muito, não somente tu, senão também quantos me ouvem, se fizessem hoje tal qual eu sou... menos estas algemas!”.
+
+[[v51-26-30]]
+
+^<<v51-26-30,30>>^ Então o rei, o governador, Berenice e os que estavam sentados com eles se levantaram.
+
+[[v51-26-31]]
+
+^<<v51-26-31,31>>^ Retirando-se, comentavam uns com os outros: “Esse homem não fez coisa que mereça a morte ou prisão”.
+
+[[v51-26-32]]
+
+^<<v51-26-32,32>>^ Agripa ainda disse a Festo: “Ele poderia ser solto, se não tivesse apelado para César”.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-025.adoc#v51-25-0[&#60; Capítulo Anterior] | <<v51-26-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-027.adoc#v51-27-0[Próximo Capítulo &#62;]

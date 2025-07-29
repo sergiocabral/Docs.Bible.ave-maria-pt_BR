@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v29-2-0]]
+=== Isaías, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 2 descreve a visão profética de Isaías sobre os últimos dias, quando Jerusalém será exaltada acima de todas as outras nações e Deus julgará as nações. Aqui estão cinco versículos relacionados com os temas abordados em Isaías 2:
+* Isaías 11:10: "E acontecerá naquele dia que as nações buscarão a raiz de Jessé, que se ergue como estandarte dos povos, e o seu lugar de descanso será glorioso." Este versículo fala sobre como as nações buscarão a raiz de Jessé, ou seja, o Messias, que será o líder dos povos.
+* Isaías 26:21: "Porque eis que o Senhor sai do seu lugar, a fim de castigar os moradores da terra por causa da sua iniqüidade; e a terra revelará o seu sangue e não encobrirá mais os seus mortos." Este versículo fala sobre como Deus julgará as nações por causa de sua iniqüidade, um tema comum em Isaías 2.
+* Isaías 60:14: "E virão a ti, curvados, os filhos dos que te oprimiram; e todos os que te desprezaram se prostrarão às plantas dos teus pés; e te chamarão cidade do Senhor, Sião do Santo de Israel." Este versículo fala sobre como as nações virão a Jerusalém para adorar o Senhor e reconhecer sua soberania.
+* Jeremias 25:15: "Porque assim me disse o Senhor, o Deus de Israel: Toma da minha mão este cálice de vinho do furor, e dá-o a beber a todas as nações, às quais eu te envio." Este versículo fala sobre como Deus daria às nações o cálice do seu julgamento, outro tema abordado em Isaías 2.
+* Miquéias 4:1: "Mas acontecerá nos últimos dias que o monte da casa do Senhor será estabelecido no cume dos montes, e se elevará sobre os outeiros; e para ele afluirão os povos." Este versículo fala sobre como os povos afluirão a Jerusalém nos últimos dias e reconhecerão o Senhor como seu Deus.
+****
+
+[[v29-2-1]]
+
+^<<v29-2-1,1>>^ Visão de Isaías, filho de Amós, acerca de Judá e Jerusalém.
+
+[[v29-2-2]]
+
+^<<v29-2-2,2>>^ No fim dos tempos acontecerá que o monte da casa do Senhor estará colocado à frente das montanhas, e dominará as colinas. Para aí acorrerão todas as gentes,
+
+[[v29-2-3]]
+
+^<<v29-2-3,3>>^ e os povos virão em multidão: “Vinde” – dirão eles –, “subamos à montanha do Senhor, à casa do Deus de Jacó: ele nos ensinará seus caminhos, e nós trilharemos as suas veredas”. Porque de Sião deve sair a Lei, e de Jerusalém, a palavra do Senhor.
+
+[[v29-2-4]]
+
+^<<v29-2-4,4>>^ Ele será o juiz das nações, o governador de muitos povos. De suas espadas forjarão relhas de arados, e de suas lanças, foices. Uma nação não levantará a espada contra outra, e não se arrastarão mais para a guerra.^&#42;1^
+
+[[v29-2-5]]
+
+^<<v29-2-5,5>>^ Casa de Jacó, vinde, caminhemos à luz do Senhor.
+
+[[v29-2-6]]
+
+^<<v29-2-6,6>>^ Vós rejeitastes inteiramente vosso povo, a casa de Jacó, porque ela está cheia de adivinhos do Oriente, e de agoureiros como os filisteus; ela transige com os estrangeiros.
+
+[[v29-2-7]]
+
+^<<v29-2-7,7>>^ A sua terra está cheia de prata e de ouro, e há tesouros sem fim. A sua terra está cheia de cavalos e há um sem-número de carros.^&#42;1^
+
+[[v29-2-8]]
+
+^<<v29-2-8,8>>^ A sua terra está cheia de ídolos; os homens se prosternam diante da obra de suas mãos, diante daquilo que seus dedos fabricaram.
+
+[[v29-2-9]]
+
+^<<v29-2-9,9>>^ Os mortais serão abatidos e o homem será humilhado; vós não os perdoareis de maneira nenhuma.
+
+[[v29-2-10]]
+
+^<<v29-2-10,10>>^ Refugiai-vos nos rochedos, escondei-vos debaixo da terra, sob o impulso do terror do Senhor, e do esplendor de sua majestade, quando ele se levantar para aterrorizar a terra.
+
+[[v29-2-11]]
+
+^<<v29-2-11,11>>^ A soberba dos mortais será abatida, e o orgulho dos homens será humilhado. Só o Senhor será exaltado naquele tempo.
+
+[[v29-2-12]]
+
+^<<v29-2-12,12>>^ Porque o Senhor dos exércitos terá um dia para exercer punição contra todo ser orgulhoso e arrogante, e contra todo aquele que se exalta, para abatê-lo,
+
+[[v29-2-13]]
+
+^<<v29-2-13,13>>^ contra todos os cedros do Líbano, altos e majestosos, e contra todos os carvalhos de Basã,
+
+[[v29-2-14]]
+
+^<<v29-2-14,14>>^ contra todos os altos montes, e contra todos os outeiros elevados,
+
+[[v29-2-15]]
+
+^<<v29-2-15,15>>^ contra todas as torres altas, e contra todas as muralhas fortificadas,
+
+[[v29-2-16]]
+
+^<<v29-2-16,16>>^ contra todas as naus de Társis, frotas mercantes e contra todos os objetos de luxo.
+
+[[v29-2-17]]
+
+^<<v29-2-17,17>>^ A pretensão dos mortais será humilhada, o orgulho dos homens será abatido. Só o Senhor será exaltado naquele tempo,
+
+[[v29-2-18]]
+
+^<<v29-2-18,18>>^ e todos os ídolos desaparecerão.
+
+[[v29-2-19]]
+
+^<<v29-2-19,19>>^ Refugiai-vos nas cavernas dos rochedos, e nos antros da terra, sob o impulso do terror do Senhor, e do esplendor de sua majestade, quando ele se levantar para aterrorizar a terra.
+
+[[v29-2-20]]
+
+^<<v29-2-20,20>>^ Naquele tempo, o homem lançará aos ratos e aos morcegos os ídolos de prata e os ídolos de ouro, que para si tinha feito a fim de adorá-los;^&#42;1^
+
+[[v29-2-21]]
+
+^<<v29-2-21,21>>^ Irá se refugiar nas cavernas dos rochedos e nas fendas da pedreira, por causa do espanto da presença do Senhor, e do esplendor de sua majestade, quando ele se levantar para aterrorizar a terra.
+
+[[v29-2-22]]
+
+^<<v29-2-22,22>>^ Cessai de confiar no homem, cuja vida se prende a um fôlego: como se pode estimá-lo?^&#42;1^
+
+'''
+
+xref:029-isaias/029-isaias-001.adoc#v29-1-0[&#60; Capítulo Anterior] | <<v29-2-0,Topo>> | xref:029-isaias/029-isaias-003.adoc#v29-3-0[Próximo Capítulo &#62;]

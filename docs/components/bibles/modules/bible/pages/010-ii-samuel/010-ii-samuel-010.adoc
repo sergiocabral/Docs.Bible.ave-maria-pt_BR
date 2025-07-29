@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v10-10-0]]
+=== II Samuel, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 10 de 2 Samuel relata uma guerra entre os amonitas e os israelitas, após a morte do rei amonita. O capítulo também menciona a lealdade de Hanum, o novo rei amonita, para com Davi. Os versículos a seguir estão relacionados com temas abordados no capítulo:
+* Deuteronômio 20:1 - "Quando saíres à peleja contra os teus inimigos, e vires cavalos, e carros, e povo mais numeroso do que tu, não os temerás; pois o SENHOR teu Deus, que te fez sair da terra do Egito, está contigo." Esse versículo trata da confiança que o povo de Deus deve ter ao enfrentar seus inimigos, mesmo que estes sejam mais poderosos.
+* Salmos 60:12 - "Com Deus faremos proezas; pois ele é que pisará aos pés os nossos inimigos." Davi, líder do exército de Israel, confiava em Deus para ajudá-lo a vencer seus inimigos.
+* Provérbios 20:18 - "Com conselhos prudentes tu farás a guerra; e há vitória na multidão de conselheiros." Esse versículo destaca a importância de buscar conselhos sábios antes de tomar decisões importantes, incluindo as relacionadas à guerra.
+* Isaías 41:10 - "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Esse versículo transmite uma mensagem semelhante ao Deuteronômio 20:1, encorajando o povo de Deus a confiar em Deus em tempos de guerra.
+* 1 Coríntios 16:13 - "Vigiai, estai firmes na fé; portai-vos varonilmente, e fortalecei-vos." Esse versículo fala sobre a importância de permanecer forte e firme em tempos difíceis, confiando na força que vem de Deus. Isso também se aplica a situações de guerra, onde a perseverança e a coragem são essenciais.
+****
+
+[[v10-10-1]]
+
+^<<v10-10-1,1>>^ Aconteceu que, morrendo o rei dos amonitas, seu filho Hanon sucedeu-lhe no trono.
+
+[[v10-10-2]]
+
+^<<v10-10-2,2>>^ “Vou pôr-me em boas relações com Hanon, filho de Naás –, pensou Davi – assim como seu pai fez comigo.” Enviou-lhe, pois, mensageiros que lhe exprimissem suas condolências pela morte de seu pai. Quando os servos de Davi chegaram à terra dos amonitas,
+
+[[v10-10-3]]
+
+^<<v10-10-3,3>>^ os chefes dos amonitas disseram ao seu senhor Hanon: “Julgas que Davi pretende honrar teu pai, mandando-te consoladores? Não seria antes para examinar, espionar e destruir a cidade, que ele mandou os seus servos?”.
+
+[[v10-10-4]]
+
+^<<v10-10-4,4>>^ Então Hanon prendeu os servos de Davi, rapou-lhes metade da barba, cortou-lhes as vestes bem curtas e despediu-os.
+
+[[v10-10-5]]
+
+^<<v10-10-5,5>>^ Davi, tendo conhecimento disso, mandou mensageiros ao seu encontro – pois estavam profundamente humilhados – para dizer-lhes: “Ficai em Jericó até que vossa barba tenha de novo crescido e então voltareis”.
+
+[[v10-10-6]]
+
+^<<v10-10-6,6>>^ Vendo os amonitas que se haviam tornado odiosos a Davi, mandaram delegados para tomarem ao seu soldo os arameus de Bet-Roob e os de Soba, ou seja, vinte mil soldados de infantaria e o rei de Maaca, com mil homens e os de Tob, com doze mil.
+
+[[v10-10-7]]
+
+^<<v10-10-7,7>>^ A essa notícia, Davi levantou todo o exército com Joab e os mais valentes.^&#42;1^
+
+[[v10-10-8]]
+
+^<<v10-10-8,8>>^ Os amonitas puseram-se em linha de combate à entrada da porta, ao passo que os arameus de Soba e de Roob ficaram no campo com os homens de Tob e de Maaca.
+
+[[v10-10-9]]
+
+^<<v10-10-9,9>>^ Joab, vendo que estava preparada a batalha contra ele, tanto pela frente como por detrás, escolheu os melhores de Israel e formou-os em linha de batalha contra os arameus.
+
+[[v10-10-10]]
+
+^<<v10-10-10,10>>^ Confiou o resto do exército ao seu irmão AbJessé, que o pôs em linha de combate contra os amonitas.
+
+[[v10-10-11]]
+
+^<<v10-10-11,11>>^ Disse-lhe: “Se os arameus prevalecerem contra mim, tu virás em meu socorro; e, se os amonitas prevalecerem contra ti, eu irei em teu auxílio.
+
+[[v10-10-12]]
+
+^<<v10-10-12,12>>^ Coragem! Lutemos com valor por nosso povo e pelas cidades de nosso Deus. O Senhor faça o que lhe parecer melhor!”.
+
+[[v10-10-13]]
+
+^<<v10-10-13,13>>^ Joab avançou com sua tropa contra os arameus, que fugiram diante dele.
+
+[[v10-10-14]]
+
+^<<v10-10-14,14>>^ Vendo os arameus em fuga, recuaram também os amonitas diante de AbJessé e voltaram para a cidade. Joab deixou os amonitas e foi para Jerusalém.
+
+[[v10-10-15]]
+
+^<<v10-10-15,15>>^ Os arameus, vendo-se batidos pelos israelitas, reuniram-se em massa.
+
+[[v10-10-16]]
+
+^<<v10-10-16,16>>^ Adadezer enviou então um delegado para mobilizar os arameus de além do rio e estes vieram para Helam, tendo à sua frente Sobac, general de Adadezer.
+
+[[v10-10-17]]
+
+^<<v10-10-17,17>>^ Davi, informado disso, reuniu todo o Israel, passou o Jordão e foi contra o Helam. Houve uma dura batalha entre os arameus e Davi,
+
+[[v10-10-18]]
+
+^<<v10-10-18,18>>^ mas os arameus fugiram diante de Israel; Davi matou-lhes setecentos cavalos de carros e quarenta mil homens. Feriu também o seu general Sobac, que morreu naquele mesmo lugar.
+
+[[v10-10-19]]
+
+^<<v10-10-19,19>>^ Todos os reis que eram vassalos de Adadezer, vendo-se vencidos pelos israelitas, fizeram paz com eles e tornaram-se seus tributários. Daí por diante os arameus não ousaram mais dar socorro aos amonitas.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-009.adoc#v10-9-0[&#60; Capítulo Anterior] | <<v10-10-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-011.adoc#v10-11-0[Próximo Capítulo &#62;]

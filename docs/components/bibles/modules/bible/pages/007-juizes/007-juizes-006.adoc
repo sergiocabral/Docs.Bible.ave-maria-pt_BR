@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v7-6-0]]
+=== Juízes, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Juízes 6 narra a história de Gideão, um jovem que foi chamado por Deus para liderar os israelitas na luta contra os midianitas. Gideão, no início, mostrou-se incrédulo e pediu a Deus provas de sua missão. Deus concedeu essas provas a Gideão, que, finalmente, reuniu um exército para enfrentar os midianitas. Aqui estão cinco versículos relacionados com os temas abordados em Juízes 6, excluindo versículos do próprio capítulo:
+* Gênesis 15:6: "Abrão creu no Senhor, e isso lhe foi creditado como justiça." Este versículo fala da importância da fé em Deus, que é um tema central em Juízes 6. Gideão inicialmente não acreditava que Deus poderia usá-lo para salvar os israelitas, mas com o tempo, ele aprendeu a confiar no Senhor e acreditou na sua palavra.
+* Êxodo 3:11: "Quem sou eu para comparecer diante do faraó e tirar os israelitas do Egito?" Este versículo mostra como muitas vezes os escolhidos de Deus se sentem inadequados para a tarefa que lhes é atribuída. Assim como Moisés duvidou de sua capacidade de liderar os israelitas, Gideão também questionou sua habilidade de liderar os israelitas contra os midianitas.
+* Josué 1:9: "Não fui eu que te ordenei? Seja forte e corajoso! Não se apavore nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar." Este versículo é uma mensagem de encorajamento de Deus a Josué, que está prestes a liderar os israelitas após a morte de Moisés. A mensagem de coragem e força é uma mensagem semelhante à que Deus deu a Gideão em Juízes 6.
+* 2 Coríntios 12:9: "Mas ele me disse: 'Minha graça é suficiente para você, pois o meu poder se aperfeiçoa na fraqueza.' Portanto, eu me gloriarei ainda mais alegremente em minhas fraquezas, para que o poder de Cristo repouse em mim." Este versículo fala de como Deus usa as fraquezas humanas para demonstrar seu poder. Gideão era um homem fraco e incapaz, mas Deus o usou para derrotar os midianitas, mostrando assim seu poder e sua graça.
+* 1 Samuel 17:45: "Davi disse ao filisteu: 'Você vem contra mim com espada, com lança e com dardo, mas eu vou contra você em nome do Senhor dos Exércitos, o Deus dos exércitos de Israel, a quem você desafiou.'" Este versículo fala da importância de se confiar em Deus em tempos de dificuldade. Davi confiou em Deus para derrotar Golias, e Gideão também confiou em Deus para liderar os israelitas contra os midianitas. Ambos os homens acreditavam que Deus estava com eles e que poderiam realizar grandes coisas por meio dele.
+****
+
+[[v7-6-1]]
+
+^<<v7-6-1,1>>^ Os israelitas fizeram o mal aos olhos do Senhor, e o Senhor os entregou nas mãos dos madianitas durante sete anos.
+
+[[v7-6-2]]
+
+^<<v7-6-2,2>>^ A mão de Madiã pesou rudemente sobre Israel. Por medo dos madianitas, os filhos de Israel refugiaram-se nas cavernas das montanhas, em cavernas e fortificações.
+
+[[v7-6-3]]
+
+^<<v7-6-3,3>>^ Quando Israel semeava, subia Madiã com Amalec e os filhos do oriente, para atacá-lo.
+
+[[v7-6-4]]
+
+^<<v7-6-4,4>>^ Acampavam defronte deles e devastavam as suas plantações até a vizinhança de Gaza, e não deixavam aos israelitas provisão alguma, nem ovelhas, nem bois, nem jumentos.
+
+[[v7-6-5]]
+
+^<<v7-6-5,5>>^ Subiam com todos os seus rebanhos e tendas, semelhantes a uma nuvem de gafanhotos, e essa multidão inumerável de homens e camelos subia e devastava a terra.
+
+[[v7-6-6]]
+
+^<<v7-6-6,6>>^ Os israelitas ficaram desse modo extenuados pelos madianitas e clamaram ao Senhor.
+
+[[v7-6-7]]
+
+^<<v7-6-7,7>>^ E, tendo eles clamado ao Senhor, pedindo socorro contra os madianitas, o Senhor mandou-lhes um profeta,
+
+[[v7-6-8]]
+
+^<<v7-6-8,8>>^ que lhes disse: “Eis o oráculo do Senhor, Deus de Israel: Eu vos fiz sair do Egito e vos tirei da servidão;
+
+[[v7-6-9]]
+
+^<<v7-6-9,9>>^ livrei-vos da mão dos egípcios e de vossos opressores; expulsei-os de diante de vós e dei-vos a sua terra.
+
+[[v7-6-10]]
+
+^<<v7-6-10,10>>^ E eu vos disse: ‘Eu sou o Senhor, vosso Deus: não adorareis os deuses dos amorreus, em cuja terra ides habitar. Mas não ouvistes a minha voz’.”
+
+[[v7-6-11]]
+
+^<<v7-6-11,11>>^ Depois veio o anjo do Senhor e sentou-se debaixo do terebinto de Efra, que pertencia a Joás, da família de Abiezer. Gedeão, seu filho, estava limpando o trigo no lagar, para escondê-lo dos madianitas.
+
+[[v7-6-12]]
+
+^<<v7-6-12,12>>^ O anjo do Senhor apareceu-lhe e disse-lhe: “O Senhor está contigo, valente guerreiro!”.
+
+[[v7-6-13]]
+
+^<<v7-6-13,13>>^ Gedeão respondeu: “Ah, meu senhor, se o Senhor está conosco, por que nos vieram todos esses males? Onde estão aqueles prodígios que nos contaram nossos pais, dizendo: ‘O Senhor fez-nos verdadeiramente sair do Egito?’. Agora, o Senhor abandonou-nos e entregou-nos nas mãos dos madianitas”.
+
+[[v7-6-14]]
+
+^<<v7-6-14,14>>^ Então o Senhor, voltando-se para ele: “Vai – disse – com essa força que tens e livra Israel dos madianitas. Porventura não sou eu que te envio?”.
+
+[[v7-6-15]]
+
+^<<v7-6-15,15>>^ “Ó Senhor – respondeu Gedeão – com que livrarei eu Israel? Minha família é a última de Manassés, e eu sou o menor na casa de meu pai.”
+
+[[v7-6-16]]
+
+^<<v7-6-16,16>>^ O Senhor replicou: “Eu estarei contigo e tu derrotarás os madianitas como se fossem um só homem”.
+
+[[v7-6-17]]
+
+^<<v7-6-17,17>>^ Prosseguiu Gedeão: “Se encontrei graça aos vossos olhos, provai-me por um sinal que sois vós quem me falais.
+
+[[v7-6-18]]
+
+^<<v7-6-18,18>>^ Não vos afasteis daqui até que eu volte trazendo uma oferta e a ponha diante de vós”. “Esperarei – respondeu o Senhor – até que voltes.”
+
+[[v7-6-19]]
+
+^<<v7-6-19,19>>^ Gedeão entrou em sua casa, preparou um cabrito e fez pães sem fermento com um efá de farinha. Pôs a carne em um cesto e o caldo numa panela, levou tudo debaixo do terebinto e lhe ofereceu.
+
+[[v7-6-20]]
+
+^<<v7-6-20,20>>^ O anjo do Senhor disse-lhe: “Toma a carne e os pães sem fermento, põe-nos sobre aquela pedra e derrama por cima o caldo”. Ele assim o fez.
+
+[[v7-6-21]]
+
+^<<v7-6-21,21>>^ Então, o anjo do Senhor estendeu a ponta da vara que tinha na mão, tocou a carne com os pães sem fermento, e imediatamente jorrou fogo da rocha que consumiu a carne e os pães sem fermento; e o anjo do Senhor desapareceu de seus olhos.
+
+[[v7-6-22]]
+
+^<<v7-6-22,22>>^ Gedeão reconheceu que era o anjo do Senhor e exclamou: “Ai de mim, Senhor Javé, que vi o anjo do Senhor face a face”.
+
+[[v7-6-23]]
+
+^<<v7-6-23,23>>^ O Senhor disse-lhe: “Tranquiliza-te; não temas, não morrerás”.
+
+[[v7-6-24]]
+
+^<<v7-6-24,24>>^ Gedeão edificou ali um altar ao Senhor e chamou-o Javé-Shalom. Esse altar existe ainda hoje em Efra de Abiezer. ^&#42;1^
+
+[[v7-6-25]]
+
+^<<v7-6-25,25>>^ Durante a noite, disse-lhe o Senhor: “Toma o novilho de teu pai e um segundo touro de sete anos; destrói o altar de Baal de teu pai e faze o mesmo com o ídolo de madeira que está junto dele.
+
+[[v7-6-26]]
+
+^<<v7-6-26,26>>^ Edificarás então um altar ao Senhor, teu Deus, em cima dessa pedra, depois de a teres preparado. Tomarás o segundo touro e o oferecerás em holocausto usando a madeira do ídolo que tiveres cortado”.
+
+[[v7-6-27]]
+
+^<<v7-6-27,27>>^ Gedeão escolheu dez dos seus servos e fez o que o Senhor lhe tinha ordenado. Temendo, porém, a família de seu pai e os habitantes da cidade, não o quis fazer durante o dia; executou tudo durante a noite.
+
+[[v7-6-28]]
+
+^<<v7-6-28,28>>^ Chegada a manhã, quando os habitantes da cidade se levantaram, eis que viram o altar de Baal derrubado por terra, o ídolo vizinho cortado, e o segundo touro queimado em holocausto sobre o novo altar.
+
+[[v7-6-29]]
+
+^<<v7-6-29,29>>^ “Quem fez isto?” – perguntaram uns aos outros. Depois de haverem buscado e investigado cuidadosamente, foi-lhes dito: “Foi Gedeão, filho de Joás”.
+
+[[v7-6-30]]
+
+^<<v7-6-30,30>>^ Disseram então a Joás: “Faze vir aqui o teu filho, para que seja morto, porque ele derrubou o altar de Baal e cortou o ídolo de madeira que estava perto!”.
+
+[[v7-6-31]]
+
+^<<v7-6-31,31>>^ Joás respondeu a todos os que o interpelavam: “Porventura sois vós que deveis tomar o partido de Baal? Sois vós que deveis socorrê-lo? Pois aquele que tomar o partido de Baal será morto hoje mesmo. Se Baal é deus, que defenda ele mesmo a sua causa, pois derrubaram o seu altar!”.
+
+[[v7-6-32]]
+
+^<<v7-6-32,32>>^ Daquele dia em diante, Gedeão foi chamado Jerobaal, dizendo: “Que Baal defenda a sua causa contra ele, pois ele derrubou o seu altar!”.
+
+[[v7-6-33]]
+
+^<<v7-6-33,33>>^ Todos os madianitas, os amalecitas e os filhos do oriente se tinham coligado e, tendo passado o Jordão, acamparam no vale de Jezrael.
+
+[[v7-6-34]]
+
+^<<v7-6-34,34>>^ O Espírito do Senhor apoderou-se de Gedeão, o qual, tocando a trombeta, convocou os filhos de Abiezer para que o seguissem.
+
+[[v7-6-35]]
+
+^<<v7-6-35,35>>^ Enviou mensageiros por toda a tribo de Manassés, que se reuniu para segui-lo; e enviou também mensageiros às tribos de Aser, de Zabulon e de Neftali, e todos vieram juntar-se a ele.
+
+[[v7-6-36]]
+
+^<<v7-6-36,36>>^ Gedeão disse a Deus: “Se quereis realmente salvar Israel por meio de minha mão, como o dissestes,
+
+[[v7-6-37]]
+
+^<<v7-6-37,37>>^ eis que vou estender um velo de lã na eira: se o orvalho cair só no velo, ficando toda a terra seca, reconhecerei que é por minha mão que livrareis Israel, como o dissestes”.
+
+[[v7-6-38]]
+
+^<<v7-6-38,38>>^ E assim aconteceu. Levantando-se Gedeão no dia seguinte pela manhã, espremeu a lã e encheu um copo de orvalho.
+
+[[v7-6-39]]
+
+^<<v7-6-39,39>>^ Gedeão disse a Deus: “Não se acenda contra mim a vossa cólera se vos falo ainda uma vez! Só quero fazer mais uma prova com o velo: peço que só a lã fique seca e o orvalho molhe toda a terra em redor”.
+
+[[v7-6-40]]
+
+^<<v7-6-40,40>>^ E Deus assim o fez naquela noite: só o velo ficou seco, enquanto todo o solo estava coberto de orvalho.
+
+'''
+
+xref:007-juizes/007-juizes-005.adoc#v7-5-0[&#60; Capítulo Anterior] | <<v7-6-0,Topo>> | xref:007-juizes/007-juizes-007.adoc#v7-7-0[Próximo Capítulo &#62;]

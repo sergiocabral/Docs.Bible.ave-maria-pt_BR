@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v14-26-0]]
+=== II Crônicas, 26
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Crônicas 26 narra o reinado de Uzias, um rei de Judá que começou bem, mas que acabou caindo em orgulho e desobediência a Deus. Durante seu reinado, Judá prosperou e Uzias se tornou um rei poderoso, mas seu orgulho o levou a entrar no templo e tentar oferecer incenso, algo que apenas os sacerdotes eram autorizados a fazer. Como resultado, ele foi punido por Deus com a lepra. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Crônicas 26:
+* Provérbios 16:18: "O orgulho precede a ruína, e a arrogância vem antes da queda." Este versículo é relevante para o capítulo 26, já que Uzias caiu em desgraça por causa de seu orgulho e arrogância.
+* 2 Crônicas 26:5: "Buscou a Deus durante a vida de Zacarias, mestre dos videntes que lhe dava instrução no temor de Deus." Este versículo mostra que Uzias começou seu reinado buscando a Deus e seguindo seus ensinamentos.
+* Provérbios 16:32: "Melhor é o paciente do que o guerreiro, mais vale controlar o seu espírito do que conquistar uma cidade." Este versículo é relevante para Uzias, que foi um guerreiro bem-sucedido, mas que não conseguiu controlar seu espírito de orgulho e desobediência.
+* 2 Crônicas 26:16: "Mas, quando já era poderoso, seu coração se tornou tão orgulhoso que agiu com infidelidade contra o Senhor, seu Deus. Entrou no templo do Senhor para queimar incenso no altar do incenso." Este versículo mostra como Uzias se tornou orgulhoso e desobediente a Deus, o que acabou levando à sua queda.
+* Isaías 6:1: "No ano em que o rei Uzias morreu, eu vi o Senhor assentado num trono alto e exaltado, e a aba de sua veste enchia o templo." Este versículo mostra que Uzias foi um rei importante em Judá e que sua morte teve um grande impacto. Também pode ser interpretado como um sinal da punição divina sobre Uzias por sua desobediência.
+****
+
+[[v14-26-1]]
+
+^<<v14-26-1,1>>^ Todo o povo de Judá tomou por rei Ozias, então com a idade de dezesseis anos e o entronizou em lugar de seu pai Amasias.^&#42;1^
+
+[[v14-26-2]]
+
+^<<v14-26-2,2>>^ Foi ele quem reedificou Elat e fez voltar essa cidade ao domínio de Judá, depois que o rei adormeceu com seus pais.
+
+[[v14-26-3]]
+
+^<<v14-26-3,3>>^ Tinha Ozias a idade de dezesseis anos quando começou a reinar e reinou cinquenta e dois anos em Jerusalém. Sua mãe chamava-se Jequelias e era de Jerusalém.
+
+[[v14-26-4]]
+
+^<<v14-26-4,4>>^ Fez o bem aos olhos do Senhor, como tinha feito seu pai Amasias.
+
+[[v14-26-5]]
+
+^<<v14-26-5,5>>^ Aplicou-se a honrar a Deus durante a vida de Zacarias, que o instruiu no temor de Deus. Enquanto honrou ao Senhor Deus o fez prosperar.
+
+[[v14-26-6]]
+
+^<<v14-26-6,6>>^ Fez uma expedição contra os filisteus. Derrubou a muralha de Gat, de Jabne e de Azoto. Construiu cidades no território de Azoto e na terra dos filisteus.
+
+[[v14-26-7]]
+
+^<<v14-26-7,7>>^ Deus o ajudou contra os filisteus, contra os árabes de Gur-Baal, e contra os maonitas.
+
+[[v14-26-8]]
+
+^<<v14-26-8,8>>^ Os amonitas lhe pagaram tributo e sua fama se fortificou de tal modo que se estendeu até os confins do Egito.
+
+[[v14-26-9]]
+
+^<<v14-26-9,9>>^ Levantou torres fortificadas em Jerusalém, na porta do ângulo, na porta do vale e no ângulo.
+
+[[v14-26-10]]
+
+^<<v14-26-10,10>>^ Construiu também torres no deserto, onde cavou numerosos poços, pois possuía ali numerosos rebanhos, tanto na planície como no planalto. Tinha lavradores e vinhateiros nas montanhas e nos pomares, porque se interessava pela agricultura.
+
+[[v14-26-11]]
+
+^<<v14-26-11,11>>^ Ozias tinha um exército de guerreiros que saíam por turmas ao combate, contados segundo o recenseamento deles, feito pelo escriba Jeiel e o comissário Maasias, sob a direção de Hananias, um dos generais do rei.
+
+[[v14-26-12]]
+
+^<<v14-26-12,12>>^ O número total dos chefes de família, guerreiros valentes, era de dois mil e seiscentos.
+
+[[v14-26-13]]
+
+^<<v14-26-13,13>>^ O exército que comandavam era de trezentos e sete mil e quinhentos homens, que faziam a guerra com valor suficiente para ajudar o rei contra o inimigo.
+
+[[v14-26-14]]
+
+^<<v14-26-14,14>>^ A todo esse exército Ozias fornecia escudos, lanças, capacetes, couraças, arcos e pedras de funda.
+
+[[v14-26-15]]
+
+^<<v14-26-15,15>>^ Mandou construir em Jerusalém, pelos cuidados de um engenheiro, máquinas para serem colocadas nas torres e nos ângulos das muralhas, que atiravam flechas e grandes pedras. Sua fama se estendeu ao longe, pois Deus fez maravilhas para ajudá-lo a adquirir um grande poder.
+
+[[v14-26-16]]
+
+^<<v14-26-16,16>>^ Mas, apenas sentiu-se ele poderoso, seu coração encheu-se de orgulho, para sua desgraça. Cometeu uma falta contra o Senhor, seu Deus, entrando no Templo do Senhor para queimar incenso no altar dos perfumes.
+
+[[v14-26-17]]
+
+^<<v14-26-17,17>>^ O sacerdote Azarias com oitenta corajosos sacerdotes do Senhor, foram atrás.
+
+[[v14-26-18]]
+
+^<<v14-26-18,18>>^ Resistiram ao rei Ozias e lhe disseram: “Não compete a ti, Ozias, queimar incenso ao Senhor, mas aos sacerdotes da estirpe de Aarão, que foram consagrados para esse fim. Sai do santuário, porque prevaricaste e isso não será para ti honra diante do Senhor Deus”.
+
+[[v14-26-19]]
+
+^<<v14-26-19,19>>^ Então, Ozias, tendo na mão o turíbulo, encolerizou-se; mas, durante esse acesso de cólera, apareceu a lepra em sua fronte, ali, no Templo do Senhor, na presença dos sacerdotes, diante do altar dos perfumes.
+
+[[v14-26-20]]
+
+^<<v14-26-20,20>>^ O sumo sacerdote Azarias e todos os outros sacerdotes, olhando-o, viram essa lepra que ele tinha na fronte. Precipitadamente fizeram-no sair; aliás, ele próprio se apressou em sair, sentindo-se ferido pelo Senhor.
+
+[[v14-26-21]]
+
+^<<v14-26-21,21>>^ O rei Ozias ficou leproso até a morte. Como tal, viveu numa casa isolada. Estava excluído do Templo do Senhor e seu filho Joatão governava o palácio e julgava o povo da terra.
+
+[[v14-26-22]]
+
+^<<v14-26-22,22>>^ O profeta Isaías relatou os outros atos de Ozias, desde os primeiros até os últimos.
+
+[[v14-26-23]]
+
+^<<v14-26-23,23>>^ Ozias adormeceu entre seus pais e foi sepultado perto deles, no campo da sepultura dos reis, porque diziam: “Ele era leproso”. Seu filho Joatão sucedeu-lhe no trono.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-025.adoc#v14-25-0[&#60; Capítulo Anterior] | <<v14-26-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-027.adoc#v14-27-0[Próximo Capítulo &#62;]

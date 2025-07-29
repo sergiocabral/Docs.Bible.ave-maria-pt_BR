@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v24-1-0]]
+=== Provérbios, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Provérbios 1 é uma introdução ao livro de Provérbios e enfatiza a importância da sabedoria e do conhecimento. O capítulo apresenta a voz da sabedoria personificada como uma mulher que clama nas ruas, exortando as pessoas a buscarem o conhecimento e a rejeitarem a tolice e o pecado.
+* Provérbios 4:5-7: "Adquira sabedoria, adquira discernimento; não se esqueça das palavras da minha boca, nem se afaste delas. Não a abandone e ela o protegerá; ame-a, e ela cuidará de você. A sabedoria é a principal coisa; portanto, adquira sabedoria. E, além disso, com tudo o que você adquirir, adquira discernimento." Este versículo enfatiza a importância da sabedoria e do discernimento, que são os temas centrais de Provérbios 1.
+* Provérbios 2:1-6: "Meu filho, se você aceitar as minhas palavras e guardar os meus mandamentos no coração, ouvindo a sabedoria e inclinando o coração ao entendimento; sim, se você clamar por discernimento e gritar por entendimento, se procurar a sabedoria como se procura a prata e buscá-la como se busca um tesouro escondido, então você entenderá o que é temer o Senhor e encontrará o conhecimento de Deus. Pois o Senhor dá sabedoria, e da sua boca vêm o conhecimento e o entendimento." Este versículo destaca a importância de buscar a sabedoria e o entendimento, que são fundamentais para viver uma vida piedosa.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; em todos os seus caminhos reconheça-o, e ele endireitará as suas veredas." Este versículo destaca a importância da confiança em Deus e em sua sabedoria em vez de confiar apenas em nossa própria compreensão limitada.
+* Provérbios 9:10: "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é entendimento." Este versículo enfatiza que o temor do Senhor é o fundamento da sabedoria e do entendimento, que são os temas centrais de Provérbios 1.
+* Provérbios 14:1: "A mulher sábia edifica a sua casa, mas com as próprias mãos a insensata derruba a sua." Este versículo destaca a importância da sabedoria para construir uma vida saudável e próspera, que é um tema central de Provérbios 1.
+****
+
+[[v24-1-1]]
+
+^<<v24-1-1,1>>^ Provérbios de Salomão, filho de Davi, rei de Israel,
+
+[[v24-1-2]]
+
+^<<v24-1-2,2>>^ para conhecer a sabedoria e a instrução, para compreender as palavras sensatas,
+
+[[v24-1-3]]
+
+^<<v24-1-3,3>>^ para adquirir as lições do bom senso, da justiça, da equidade e da retidão;
+
+[[v24-1-4]]
+
+^<<v24-1-4,4>>^ para dar aos simples o discernimento, ao adolescente a ciência e a reflexão.
+
+[[v24-1-5]]
+
+^<<v24-1-5,5>>^ Que o sábio escute, e aumentará seu saber, e o homem inteligente adquirirá prudência
+
+[[v24-1-6]]
+
+^<<v24-1-6,6>>^ para compreender os provérbios, as alegorias, as máximas dos sábios e seus enigmas.
+
+[[v24-1-7]]
+
+^<<v24-1-7,7>>^ O temor do Senhor é o princípio da sabedoria. Os insensatos desprezam a sabedoria e a instrução.^&#42;1^
+
+[[v24-1-8]]
+
+^<<v24-1-8,8>>^ Ouve, meu filho, a instrução de teu pai: Não desprezes o ensinamento de tua mãe.
+
+[[v24-1-9]]
+
+^<<v24-1-9,9>>^ Isto será, pois, um diadema de graça para tua cabeça e um colar para teu pescoço.
+
+[[v24-1-10]]
+
+^<<v24-1-10,10>>^ Meu filho, se pecadores te quiserem seduzir, não consintas;
+
+[[v24-1-11]]
+
+^<<v24-1-11,11>>^ se te disserem: “Vem conosco, faremos emboscadas para derramar sangue, armaremos ciladas ao inocente, sem motivo,
+
+[[v24-1-12]]
+
+^<<v24-1-12,12>>^ como a região dos mortos devoremo-lo vivo, inteiro, como aquele que desce à cova.^&#42;1^
+
+[[v24-1-13]]
+
+^<<v24-1-13,13>>^ Nós acharemos toda a sorte de coisas preciosas, nós encheremos nossas casas de despojos.
+
+[[v24-1-14]]
+
+^<<v24-1-14,14>>^ Tu desfrutarás tua parte conosco, uma só será a bolsa comum de todos nós!”.
+
+[[v24-1-15]]
+
+^<<v24-1-15,15>>^ Oh, não andes com eles, afasta teus passos de suas sendas,
+
+[[v24-1-16]]
+
+^<<v24-1-16,16>>^ porque seus passos se dirigem para o mal, e se apressam a derramar sangue.
+
+[[v24-1-17]]
+
+^<<v24-1-17,17>>^ Debalde se lança a rede diante daquele que tem asas.^&#42;1^
+
+[[v24-1-18]]
+
+^<<v24-1-18,18>>^ Eles mesmos armam emboscadas contra seu próprio sangue e se enganam a si mesmos.
+
+[[v24-1-19]]
+
+^<<v24-1-19,19>>^ Tal é a sorte de todo homem ávido de riqueza: arrebata a vida àquele que a detém.
+
+[[v24-1-20]]
+
+^<<v24-1-20,20>>^ A Sabedoria clama nas ruas, eleva sua voz na praça,
+
+[[v24-1-21]]
+
+^<<v24-1-21,21>>^ clama nas esquinas da encruzilhada, à entrada das portas da cidade ela faz ouvir sua voz: e até quando os que zombam se comprazerão na zombaria?
+
+[[v24-1-22]]
+
+^<<v24-1-22,22>>^ “Até quando, insensatos, amareis a tolice, e os tolos odiarão a ciência?
+
+[[v24-1-23]]
+
+^<<v24-1-23,23>>^ Convertei-vos às minhas admoestações, espalharei sobre vós o meu espírito, eu vos ensinarei minhas palavras.
+
+[[v24-1-24]]
+
+^<<v24-1-24,24>>^ Uma vez que recusastes o meu chamado e ninguém prestou atenção quando estendi a mão,
+
+[[v24-1-25]]
+
+^<<v24-1-25,25>>^ uma vez que negligenciastes todos os meus conselhos e não destes ouvidos às minhas admoestações,
+
+[[v24-1-26]]
+
+^<<v24-1-26,26>>^ também eu rirei do vosso infortúnio e zombarei, quando vos sobrevier um terror,
+
+[[v24-1-27]]
+
+^<<v24-1-27,27>>^ quando vier sobre vós um pânico, como furacão; quando se abater sobre vós a calamidade, como a tempestade; e quando caírem sobre vós tribulação e angústia.
+
+[[v24-1-28]]
+
+^<<v24-1-28,28>>^ Então me chamarão, mas não responderei; eles me procurarão, mas não atenderei.
+
+[[v24-1-29]]
+
+^<<v24-1-29,29>>^ Porque detestam a ciência sem lhe antepor o temor do Senhor,
+
+[[v24-1-30]]
+
+^<<v24-1-30,30>>^ porque repelem meus conselhos com desprezo às minhas exortações;
+
+[[v24-1-31]]
+
+^<<v24-1-31,31>>^ comerão do fruto dos seus erros e se saciarão com seus planos,^&#42;1^
+
+[[v24-1-32]]
+
+^<<v24-1-32,32>>^ porque a apostasia dos tolos os mata e o desleixo dos insensatos os perde.
+
+[[v24-1-33]]
+
+^<<v24-1-33,33>>^ Aquele que me escuta, porém, habitará com segurança, viverá tranquilo, sem recear dano algum.”
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-015.adoc#v23-15-0[&#60; Capítulo Anterior] | <<v24-1-0,Topo>> | xref:024-proverbios/024-proverbios-002.adoc#v24-2-0[Próximo Capítulo &#62;]

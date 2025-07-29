@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v33-9-0]]
+=== Ezequiel, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 9 narra a visão que o profeta teve da destruição que viria sobre Jerusalém por causa dos pecados do povo. Na visão, seis homens aparecem e recebem ordens de Deus para matar todos os habitantes da cidade que não tinham a marca na testa. Os versículos a seguir são relacionados aos temas abordados em Ezequiel 9:
+* Jó 2:3: "Então o Senhor disse a Satanás: "Reparou em meu servo Jó? Não há ninguém na terra como ele, irrepreensível, íntegro, homem que teme a Deus e evita o mal. Ele se mantém íntegro, embora você me tenha incitado contra ele para arruiná-lo sem motivo". Neste versículo, vemos a ênfase na justiça e integridade, que são valores importantes para Deus e que estavam em falta entre o povo de Jerusalém.
+* Ezequiel 5:13: "Então a minha ira se cumprirá, e eu me satisfarei. Quando eu tiver esgotado a minha ira contra eles, então sabereis que eu, o Senhor, falei em meu zelo, quando eu tiver cumprido a minha ira contra eles". Aqui vemos a ideia da ira divina e do juízo sobre aqueles que se afastaram de Deus e não se arrependeram.
+* Ezequiel 18:30: "Portanto, ó nação de Israel, eu os julgarei a cada um de acordo com os seus caminhos, declara o Soberano, o Senhor. Arrependam-se! Afaste-se de todos os seus pecados; então a injustiça não lhes será uma queda". Este versículo fala da responsabilidade individual de cada pessoa em se arrepender e se afastar do pecado, e como isso pode evitar a queda.
+* Jeremias 25:29: "Pois eis que na cidade que é chamada pelo meu nome começo a castigar; e vós ficareis completamente impunes? Não ficareis impunes, pois farei vir a espada sobre todos os moradores da terra, diz o Senhor dos exércitos". Este versículo se relaciona com a ideia de que ninguém estaria isento do juízo divino, nem mesmo aqueles que se consideravam fiéis a Deus ou que moravam na cidade que era chamada pelo nome de Deus.
+* Apocalipse 7:3: "Não causem danos à terra, nem ao mar, nem às árvores, até que tenhamos selado na testa os servos do nosso Deus". Este versículo se relaciona com a ideia de que Deus iria proteger aqueles que eram seus servos fiéis, como vemos em Ezequiel 9, onde aqueles que tinham a marca na testa seriam poupados da destruição.
+****
+
+[[v33-9-1]]
+
+^<<v33-9-1,1>>^ Depois ouvi gritar com voz forte: “Aproximai-vos, vós, os guardas da cidade, trazendo cada um de vós o instrumento de destruição”.
+
+[[v33-9-2]]
+
+^<<v33-9-2,2>>^ Surgiram então, do pórtico superior que olha para o norte, seis homens trazendo cada um na mão o instrumento de destruição. Encontrava-se no meio deles um personagem vestido de linho, trazendo à cintura um tinteiro de escriba. Entraram para se colocar de pé ao lado do altar de bronze.^&#42;1^
+
+[[v33-9-3]]
+
+^<<v33-9-3,3>>^ Então, a glória do Deus de Israel se elevou de cima do querubim, onde repousava, até a soleira do templo. Chamou o Senhor o homem vestido de linho, que trazia à cintura os instrumentos de escriba,^&#42;1^
+
+[[v33-9-4]]
+
+^<<v33-9-4,4>>^ e lhe disse: “Percorre a cidade, o centro de Jerusalém, e marca com uma cruz na fronte os que gemem e suspiram devido a tantas abominações que na cidade se cometem”.^&#42;1^
+
+[[v33-9-5]]
+
+^<<v33-9-5,5>>^ Depois, dirigindo-se aos outros em minha presença, disse-lhes: “Percorrei a cidade, logo em seguida, e feri! Não tenhais consideração, nem piedade.
+
+[[v33-9-6]]
+
+^<<v33-9-6,6>>^ Velhos, jovens, moços, moças, crianças e mulheres, matai todos até o total extermínio; precavei-vos, todavia, de tocar em quem estiver assinalado por uma cruz. Começai por meu santuário”. Começaram pelos anciãos que encontraram defronte ao templo.
+
+[[v33-9-7]]
+
+^<<v33-9-7,7>>^ “Manchai o templo” – disse-lhes – “e enchei de cadáveres os adros; em seguida, saí!” E foram-se eles para prosseguir o morticínio na cidade.
+
+[[v33-9-8]]
+
+^<<v33-9-8,8>>^ Permanecendo só durante esse massacre, prostrei-me de face contra a terra, e gritei: “Ah! Senhor Javé, ides exterminar o que resta de Israel, desencadeando vosso furor contra Jerusalém”.^&#42;1^
+
+[[v33-9-9]]
+
+^<<v33-9-9,9>>^ “A falta de Israel e de Judá é grande, muito grande” – respondeu-me –: “A terra transborda de sangue e a cidade extravasa de perversão, porque dizem entre eles: o Senhor abandonou a terra! O Senhor não enxerga mais nada!
+
+[[v33-9-10]]
+
+^<<v33-9-10,10>>^ Está bem! Eu, de minha parte, não terei complacência, eu me mostrarei impiedoso, farei recair sobre a sua cabeça o peso de seu proceder”.
+
+[[v33-9-11]]
+
+^<<v33-9-11,11>>^ Depois disso, reapareceu o personagem vestido de linho, que trazia à cintura os instrumentos de escriba. Vinha prestar contas. “Fiz o que me ordenastes.”
+
+'''
+
+xref:033-ezequiel/033-ezequiel-008.adoc#v33-8-0[&#60; Capítulo Anterior] | <<v33-9-0,Topo>> | xref:033-ezequiel/033-ezequiel-010.adoc#v33-10-0[Próximo Capítulo &#62;]

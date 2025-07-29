@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v1-35-0]]
+=== Gênesis, 35
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 35 narra como Jacó e sua família retornam a Betel, o lugar onde Deus havia prometido a Jacó a terra de Canaã e onde Jacó fez um voto a Deus. Ao chegarem lá, eles constroem um altar a Deus e renomeiam a cidade para Betel. Neste capítulo, também é mencionada a morte da ama de leite de Rebeca, Debora, e a morte de Raquel, esposa de Jacó, que dá à luz seu segundo filho, Benjamim, antes de falecer. Aqui estão cinco versículos relacionados aos temas abordados em Gênesis 35:
+* Gênesis 28:16-17 - "Quando Jacó acordou do seu sono, pensou: ‘Sem dúvida o Senhor está neste lugar, mas eu não sabia!’ Teve medo e disse: ‘Este é um lugar terrível! Isto aqui é a casa de Deus, isto aqui é a porta dos céus!’" Este versículo faz referência ao momento em que Deus apareceu a Jacó em um sonho e fez promessas a ele em Betel. A construção do altar em Betel em Gênesis 35 é uma resposta àquela experiência de Deus.
+* 2 Coríntios 6:16 - "Que acordo há entre o templo de Deus e os ídolos? Pois somos santuário do Deus vivo. Como disse Deus: ‘Habitarei com eles e entre eles andarei; serei o seu Deus, e eles serão o meu povo’." Este versículo destaca a importância de reconhecer que somos santuários do Deus vivo e que Ele habita em nós. A construção do altar em Betel é um reconhecimento da presença de Deus naquele lugar.
+* Salmos 121:8 - "O Senhor guardará a tua saída e a tua chegada, desde agora e para sempre." Este versículo destaca a promessa de que Deus guardará e protegerá aqueles que confiam nele em suas jornadas. Jacó e sua família viajaram de volta a Betel e construíram um altar para Deus lá, confiando em sua proteção e guia.
+* Romanos 8:28 - "Sabemos que Deus age em todas as coisas para o bem daqueles que o amam, dos que foram chamados de acordo com o seu propósito." Este versículo destaca a promessa de que Deus usa todas as coisas para o bem daqueles que o amam e são chamados de acordo com seu propósito. A morte de Raquel, embora triste, também levou ao nascimento de Benjamim, que se tornaria um importante líder de Israel.
+* Mateus 5:4 - "Bem-aventurados os que choram, pois serão consolados." Este versículo destaca a promessa de consolo para aqueles que choram. A morte de Raquel foi certamente uma ocasião para chorar, mas Deus promete consolo e conforto para aqueles que sofrem.
+****
+
+[[v1-35-1]]
+
+^<<v1-35-1,1>>^ Deus disse a Jacó: “Vamos, sobe a Betel e fica ali, e levanta um altar nesse lugar ao Deus que se manifestou a ti, quando fugias diante de teu irmão Esaú”.
+
+[[v1-35-2]]
+
+^<<v1-35-2,2>>^ Jacó disse à sua família e à sua gente: “Tirai do meio de vós os deuses estrangeiros, purificai-vos e mudai vossos vestidos.
+
+[[v1-35-3]]
+
+^<<v1-35-3,3>>^ Vamos subir a Betel, onde levantarei um altar ao Deus que me ouviu no dia de minha aflição, e que esteve comigo durante minha viagem”.
+
+[[v1-35-4]]
+
+^<<v1-35-4,4>>^ Entregaram a Jacó todos os deuses estrangeiros que tinham, assim como os brincos que traziam nas orelhas, e Jacó enterrou-os debaixo de um terebinto, perto de Siquém.
+
+[[v1-35-5]]
+
+^<<v1-35-5,5>>^ Partindo eles dali, Deus semeou o pânico nas cidades circunvizinhas, de sorte que não perseguiram os filhos de Jacó.
+
+[[v1-35-6]]
+
+^<<v1-35-6,6>>^ Chegou, portanto, Jacó com toda a sua gente à Luza, na terra de Canaã, hoje Betel.
+
+[[v1-35-7]]
+
+^<<v1-35-7,7>>^ Levantou ali um altar e deu a esse lugar o nome de El-Betel, porque foi ali que Deus lhe aparecera, quando fugia de seu irmão.
+
+[[v1-35-8]]
+
+^<<v1-35-8,8>>^ Foi então que morreu Débora, ama de Rebeca. E foi ali sepultada, ao pé de Betel, debaixo de um carvalho, ao qual se chamou Carvalho do Pranto.
+
+[[v1-35-9]]
+
+^<<v1-35-9,9>>^ Quando Jacó voltou de Padã-Aram, Deus apareceu-lhe novamente e o abençoou.
+
+[[v1-35-10]]
+
+^<<v1-35-10,10>>^ “Teu nome – disse-lhe ele – é Jacó. Tu não te chamarás mais assim, mas Israel.” E chamou-o Israel.
+
+[[v1-35-11]]
+
+^<<v1-35-11,11>>^ Deus disse-lhe: “Eu sou o Deus Todo-poderoso. Sê fecundo e multiplica-te. De ti nascerão um povo e uma assembleia de povos; e de teus rins sairão reis.
+
+[[v1-35-12]]
+
+^<<v1-35-12,12>>^ A terra que dei a Abraão e a Isaac, darei a ti e à tua posteridade”.
+
+[[v1-35-13]]
+
+^<<v1-35-13,13>>^ Depois, Deus retirou-se de junto dele.
+
+[[v1-35-14]]
+
+^<<v1-35-14,14>>^ No mesmo lugar onde Deus lhe falou, Jacó erigiu uma estela sobre a qual fez uma libação e derramou óleo.^&#42;1^
+
+[[v1-35-15]]
+
+^<<v1-35-15,15>>^ E deu o nome de Betel ao lugar onde Deus lhe tinha falado.
+
+[[v1-35-16]]
+
+^<<v1-35-16,16>>^ E partiram de Betel. Quando estavam a pouca distância de Éfrata, Raquel deu à luz, e o seu parto foi penoso.
+
+[[v1-35-17]]
+
+^<<v1-35-17,17>>^ Durante as dores do parto, a parteira disse-lhe: “Não temas, porque ainda terás este filho”.
+
+[[v1-35-18]]
+
+^<<v1-35-18,18>>^ E, estando prestes a render a alma – porque estava já agonizante – ela chamou o filho de Benoni; o seu pai, porém, chamou-o Benjamim.^&#42;1^
+
+[[v1-35-19]]
+
+^<<v1-35-19,19>>^ Raquel expirou e foi sepultada no caminho de Éfrata, hoje Belém.
+
+[[v1-35-20]]
+
+^<<v1-35-20,20>>^ Jacó erigiu uma estela sobre seu túmulo; é a estela do túmulo de Raquel, que existe ainda hoje.
+
+[[v1-35-21]]
+
+^<<v1-35-21,21>>^ Israel partiu e plantou sua tenda além de Migdal-Eder.
+
+[[v1-35-22]]
+
+^<<v1-35-22,22>>^ Foi durante sua estada nessa região que Rúben foi dormir com Bala, concubina de seu pai, e Israel soube.
+
+[[v1-35-23]]
+
+^<<v1-35-23,23>>^ Os filhos de Jacó foram em número de doze. Filhos de Lia: Rúben, primogênito de Jacó, Simeão, Levi, Judá, Issacar e Zabulon.
+
+[[v1-35-24]]
+
+^<<v1-35-24,24>>^ Filhos de Raquel: José e Benjamim.
+
+[[v1-35-25]]
+
+^<<v1-35-25,25>>^ Filhos de Bala, escrava de Raquel: Dã e Neftali.
+
+[[v1-35-26]]
+
+^<<v1-35-26,26>>^ Filhos de Zelfa, escrava de Lia: Gad e Aser. Tais são os filhos nascidos a Jacó em Padã-Aram.
+
+[[v1-35-27]]
+
+^<<v1-35-27,27>>^ Jacó foi para junto de seu pai Isaac em Mambré, em Cariat-Arbe, hoje Hebron, onde tinham habitado Abraão e Isaac.
+
+[[v1-35-28]]
+
+^<<v1-35-28,28>>^ E todos os dias da vida de Isaac foram cento e oitenta anos.
+
+[[v1-35-29]]
+
+^<<v1-35-29,29>>^ E morreu. A morte reuniu-o aos seus, velho e saciado de dias. Esaú e Jacó, seus filhos, sepultaram-no.
+
+'''
+
+xref:001-genesis/001-genesis-034.adoc#v1-34-0[&#60; Capítulo Anterior] | <<v1-35-0,Topo>> | xref:001-genesis/001-genesis-036.adoc#v1-36-0[Próximo Capítulo &#62;]

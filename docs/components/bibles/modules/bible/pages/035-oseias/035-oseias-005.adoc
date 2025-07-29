@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v35-5-0]]
+=== Oséias, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 5 de Oséias trata da repreensão divina ao povo de Israel por seus pecados, especialmente sua infidelidade a Deus e sua falta de arrependimento. A seguir estão cinco versículos selecionados de outras partes da Bíblia que abordam temas relacionados a esse capítulo:
+* Jeremias 8:4-5: "Assim diz o Senhor: Acaso não se arrependem, para darem glória ao meu nome, dizendo: O Senhor é grande, e é digno de ser louvado? Todavia, este povo é rebelde e obstinado em seu coração; afastaram-se e se foram." Este versículo aborda o chamado de Deus ao arrependimento e à confissão de pecados, um tema central em Oséias 5.
+* Provérbios 28:13: "O que encobre as suas transgressões nunca prosperará, mas o que as confessa e deixa, alcançará misericórdia." Este versículo destaca a importância do arrependimento sincero e da confissão de pecados para alcançar o perdão divino, algo que o povo de Israel estava falhando em fazer.
+* Isaías 1:16-17: "Lavai-vos, purificai-vos; tirai de diante dos meus olhos a maldade dos vossos atos; cessai de fazer mal. Aprendei a fazer bem; buscai a justiça, acabai com a opressão, fazei justiça ao órfão, defendei a causa da viúva." Estes versículos mostram a ênfase de Deus na justiça e na prática da bondade e do amor ao próximo, coisas que o povo de Israel estava negligenciando.
+* Salmos 51:3-4: "Pois eu reconheço as minhas transgressões, e o meu pecado está sempre diante de mim. Pequei contra ti, contra ti somente, e fiz o que é mal perante os teus olhos; por isso, és justo em pronunciar a sentença, e irrepreensível ao julgar." Estes versículos expressam um profundo senso de culpa e arrependimento pessoal, algo que o povo de Israel precisava experimentar.
+* Isaías 59:2: "Mas as vossas iniquidades fazem separação entre vós e o vosso Deus, e os vossos pecados encobrem o seu rosto de vós, para que vos não ouça." Este versículo destaca a realidade da separação espiritual causada pelo pecado e a necessidade de buscar a reconciliação com Deus através do arrependimento e da confissão.
+****
+
+[[v35-5-1]]
+
+^<<v35-5-1,1>>^ Ouvi isto, ó sacerdotes, sede atentos, chefes de Israel, escuta, gente de casa do rei! Contra vós será feito o julgamento, porque vos tornastes um laço para a sentinela, uma rede estendida no Tabor.
+
+[[v35-5-2]]
+
+^<<v35-5-2,2>>^ Os perseguidores levaram ao extremo a maldade, mas vou castigá-los todos.
+
+[[v35-5-3]]
+
+^<<v35-5-3,3>>^ Conheço Efraim, e Israel não me é oculto. Ora, Efraim transviou-se e Israel maculou-se;
+
+[[v35-5-4]]
+
+^<<v35-5-4,4>>^ seu proceder não lhes permite voltar ao seu Deus, porque um espírito de prostituição os possui; eles desconhecem o Senhor.
+
+[[v35-5-5]]
+
+^<<v35-5-5,5>>^ A arrogância de Israel dá testemunho contra ele, Israel e Efraim tropeçarão em sua iniquidade, e também Judá cairá com eles.
+
+[[v35-5-6]]
+
+^<<v35-5-6,6>>^ Irão buscar o Senhor com suas ovelhas e seus bois, mas não o encontrarão:
+
+[[v35-5-7]]
+
+^<<v35-5-7,7>>^ o Senhor retirou-se deles porque o traíram, porque geraram filhos bastardos. O destruidor vai devorá-los, eles e seus campos.
+
+[[v35-5-8]]
+
+^<<v35-5-8,8>>^ Tocai a corneta em Gabaá, a trombeta em Ramá, dai o alarme em Bet-Áven, alertai Benjamim!
+
+[[v35-5-9]]
+
+^<<v35-5-9,9>>^ Efraim será devastado no dia do castigo. Sobre as tribos de Israel profiro um decreto irrevogável:
+
+[[v35-5-10]]
+
+^<<v35-5-10,10>>^ os chefes de Judá procedem como aqueles que mudam os marcos. Derramarei sobre eles as torrentes do meu furor.
+
+[[v35-5-11]]
+
+^<<v35-5-11,11>>^ Efraim é opressor, transgride o direito porque se compraz em abandonar a regra.^&#42;1^
+
+[[v35-5-12]]
+
+^<<v35-5-12,12>>^ Serei para Efraim como a tinha, e para a casa de Judá, como a cárie.
+
+[[v35-5-13]]
+
+^<<v35-5-13,13>>^ Efraim verá o seu mal, e Judá a sua chaga; Efraim recorrerá à Assíria e Judá se dirigirá ao grande rei. Mas este não vos poderá curar nem dar remédio à vossa chaga,
+
+[[v35-5-14]]
+
+^<<v35-5-14,14>>^ porque serei como um leão para Efraim, como um leão para a casa de Judá; eu, eu mesmo despedaçarei a presa e partirei; eu a levarei e ninguém de mim a arrebatará.
+
+[[v35-5-15]]
+
+^<<v35-5-15,15>>^ Regressarei à minha morada, até que se arrependam de seus pecados e me procurem, e em sua miséria recorram a mim.
+
+'''
+
+xref:035-oseias/035-oseias-004.adoc#v35-4-0[&#60; Capítulo Anterior] | <<v35-5-0,Topo>> | xref:035-oseias/035-oseias-006.adoc#v35-6-0[Próximo Capítulo &#62;]

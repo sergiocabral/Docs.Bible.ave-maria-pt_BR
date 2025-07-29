@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v19-3-0]]
+=== Ester, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ester 3 é o capítulo em que o personagem Hamã, um dos conselheiros do rei persa, elabora um plano para exterminar todos os judeus do reino. Ele consegue convencer o rei a emitir um decreto que autoriza a matança, gerando grande angústia e temor entre o povo judeu. A seguir, cinco versículos relacionados com os temas abordados em Ester 3:
+* Provérbios 29:2: "Quando os justos se engrandecem, o povo se alegra, mas quando o ímpio domina, o povo geme." O livro de Ester retrata claramente essa realidade: o povo sofre as consequências da maldade e ganância de Hamã, um homem ímpio que alcançou grande poder no reino.
+* Isaías 10:1-2: "Ai dos que decretam leis injustas, dos que escrevem leis de opressão para negar justiça aos pobres, para arrebatar o direito dos aflitos do meu povo, para despojar as viúvas e roubar dos órfãos!" O decreto de Hamã foi um exemplo de uma lei injusta que tinha como objetivo oprimir e eliminar um grupo específico de pessoas.
+* Salmos 37:7: "Descansa no Senhor e espera nele com paciência; não te irrites por causa daquele que prospera em seu caminho, por causa do homem que leva a cabo seus maus desígnios." Esse salmo traz uma mensagem de confiança em Deus, mesmo quando os ímpios prosperam e promovem a injustiça. Essa é uma mensagem importante para os judeus de Ester 3, que precisavam confiar que Deus cuidaria deles e que Hamã não teria a última palavra.
+* Provérbios 26:27: "O que faz uma cova, nela cairá; e quem rola uma pedra, para ela voltará." Esse provérbio fala sobre o fato de que a maldade que uma pessoa semeia eventualmente retorna a ela. Esse princípio se aplica a Hamã, que planejou o extermínio dos judeus, mas acabou sendo enforcado na forca que havia preparado para o líder judeu Mordecai.
+* Romanos 12:19: "Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: 'Minha é a vingança; eu retribuirei', diz o Senhor." Esse versículo destaca a importância de não buscar vingança pessoal, mas confiar que Deus é justo e trará justiça no momento certo. Essa é uma lição que os judeus de Ester 3 precisaram aprender, já que inicialmente foram incentivados a lutar contra seus inimigos, mas acabaram sendo orientados a confiar que Deus lutaria por eles.
+****
+
+[[v19-3-1]]
+
+^<<v19-3-1,1>>^ Depois desses acontecimentos, o rei Assuero elevou em dignidade Amã, filho de Amadates, o agagita, e lhe deu um lugar acima de todos os grandes que o rodeavam.
+
+[[v19-3-2]]
+
+^<<v19-3-2,2>>^ Todos os servos do rei, que estavam a serviço de sua porta, dobravam o joelho e prostravam-se diante de Amã, por ordem expressa do rei. Mardoqueu, porém, não queria nem dobrar o joelho, nem prostrar-se.
+
+[[v19-3-3]]
+
+^<<v19-3-3,3>>^ “Por que – diziam-lhe os servos que estavam à porta real – desobedeces assim à ordem do rei?”
+
+[[v19-3-4]]
+
+^<<v19-3-4,4>>^ E como lhe repetissem isso todos os dias, sem que ele fizesse conta, denunciaram-no a Amã, para ver se Mardoqueu persistiria em sua resolução, pois ele lhes havia dito que era judeu.
+
+[[v19-3-5]]
+
+^<<v19-3-5,5>>^ Amã viu que Mardoqueu não queria nem inclinar-se, nem prostrar-se diante dele e isso o pôs em cólera.
+
+[[v19-3-6]]
+
+^<<v19-3-6,6>>^ Mas teve como pouco vingar-se só de Mardoqueu, cuja raça conhecia, e procurou um meio de exterminar a nação de Mardoqueu, todos os judeus do reino de Assuero.
+
+[[v19-3-7]]
+
+^<<v19-3-7,7>>^ No primeiro mês, chamado Nisã, do ano doze de Assuero, foi lançado o “Pur”, isto é, a sorte, diante de Amã, para cada dia e para cada mês, até o duodécimo mês, que é Adar.^&#42;1^
+
+[[v19-3-8]]
+
+^<<v19-3-8,8>>^ Então, Amã disse ao rei Assuero: “Há em todas as províncias do teu reino uma nação dispersa e separada das outras. Suas leis são diferentes das dos demais povos e se nega a observar as leis do rei. Não convém aos interesses do rei deixar essa gente em paz.
+
+[[v19-3-9]]
+
+^<<v19-3-9,9>>^ Se ao rei lhe parece bem, dê-se ordem de fazê-los perecer, e eu pesarei dez mil talentos de prata nas mãos dos funcionários, para que os recolham ao tesouro real”.
+
+[[v19-3-10]]
+
+^<<v19-3-10,10>>^ Tirando o anel de seu dedo, o rei o entregou a Amã, filho de Amadates, o agagita, o opressor dos judeus.^&#42;1^
+
+[[v19-3-11]]
+
+^<<v19-3-11,11>>^ “Eu te entrego – disse-lhe – esse dinheiro e ao mesmo tempo esse povo; faze dele o que quiseres.”
+
+[[v19-3-12]]
+
+^<<v19-3-12,12>>^ No dia treze do primeiro mês, foram convocados os escribas reais. Foram escritas pontualmente todas as ordens do rei aos sátrapas do rei, aos governadores de cada província e aos príncipes de cada nação, a cada província segundo sua escritura e a cada nação em sua língua própria. O edito estava assinado com o nome de Assuero e levava o anel real.
+
+[[v19-3-13]]
+
+^<<v19-3-13,13>>^ Foram expedidas cartas, por correios, para todas as províncias do rei, a fim de destruir, matar e exterminar todos os judeus, jovens, velhos, crianças e mulheres, num só dia, no dia treze do duodécimo mês, chamado Adar, e a fim de entregar ao saque os seus despojos.
+
+[[v19-3-14]]
+
+^<<v19-3-14,14>>^ Uma cópia do edito, que devia ser promulgado em cada província, foi enviada a todos os povos, para que todos estivessem preparados para o dia marcado.
+
+[[v19-3-15]]
+
+^<<v19-3-15,15>>^ Por ordem do rei, os correios partiram imediatamente. O edito foi publicado primeiro na fortaleza de Susa. E enquanto o rei bebia acompanhado de Amã, a consternação reinava na cidade de Susa.
+
+'''
+
+xref:019-ester/019-ester-002.adoc#v19-2-0[&#60; Capítulo Anterior] | <<v19-3-0,Topo>> | xref:019-ester/019-ester-004.adoc#v19-4-0[Próximo Capítulo &#62;]

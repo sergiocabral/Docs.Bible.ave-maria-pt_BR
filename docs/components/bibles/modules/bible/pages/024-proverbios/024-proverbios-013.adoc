@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v24-13-0]]
+=== Provérbios, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Provérbios 13 apresenta uma série de ditados sobre a sabedoria e a conduta humana. É destacada a importância de se ter sabedoria e discernimento na tomada de decisões e no convívio com outras pessoas. Também é enfatizado o valor da honestidade, da prudência e da humildade, e as consequências negativas da preguiça, da ganância e do orgulho. Abaixo, estão cinco versículos relacionados com os temas abordados em Provérbios 13, retirados de diferentes livros da Bíblia:
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento; mas os insensatos desprezam a sabedoria e a instrução." Este versículo destaca a importância de se ter temor e reverência a Deus como base para a busca do conhecimento e da sabedoria, um tema recorrente em Provérbios 13.
+* Provérbios 11:2: "Quando vem a soberba, vem também a desonra, mas com os humildes está a sabedoria." Este versículo enfatiza a importância da humildade, um valor que é elogiado em vários provérbios de Provérbios 13.
+* Provérbios 15:27: "O ganancioso perturba a sua própria casa, mas o que odeia o suborno viverá." Este versículo destaca as consequências negativas da ganância, um tema que também é abordado em Provérbios 13.
+* Provérbios 16:3: "Confia ao Senhor as tuas obras, e teus planos serão estabelecidos." Este versículo enfatiza a importância de se confiar em Deus e de se submeter à sua vontade, uma atitude que é encorajada em vários provérbios de Provérbios 13.
+* Provérbios 22:4: "O galardão da humildade e o temor do Senhor são riquezas, honra e vida." Este versículo destaca novamente a importância da humildade e do temor a Deus como valores a serem buscados, uma mensagem que é reforçada em vários provérbios de Provérbios 13.
+****
+
+[[v24-13-1]]
+
+^<<v24-13-1,1>>^ Um filho sábio ama a disciplina, mas o incorrigível não aceita repreensões.
+
+[[v24-13-2]]
+
+^<<v24-13-2,2>>^ O homem de bem goza do fruto de sua boca, mas o desejo dos pérfidos é a violência.
+
+[[v24-13-3]]
+
+^<<v24-13-3,3>>^ Quem vigia sua boca guarda sua vida; quem muito abre seus lábios se perde.
+
+[[v24-13-4]]
+
+^<<v24-13-4,4>>^ O preguiçoso cobiça, mas nada obtém. É o desejo dos homens diligentes que é satisfeito.
+
+[[v24-13-5]]
+
+^<<v24-13-5,5>>^ O justo detesta a mentira; o ímpio só faz coisas vergonhosas e ignominiosas.
+
+[[v24-13-6]]
+
+^<<v24-13-6,6>>^ A justiça protege o que caminha na integridade, mas a maldade arruína o pecador.
+
+[[v24-13-7]]
+
+^<<v24-13-7,7>>^ Há quem parece rico, não tendo nada, há quem se faz de pobre e possui copiosas riquezas.
+
+[[v24-13-8]]
+
+^<<v24-13-8,8>>^ A riqueza de um homem é o resgate de sua vida, mas o pobre está livre de ameaças.
+
+[[v24-13-9]]
+
+^<<v24-13-9,9>>^ A luz do justo ilumina, enquanto a lâmpada dos maus se extingue.^&#42;1^
+
+[[v24-13-10]]
+
+^<<v24-13-10,10>>^ O orgulho só causa disputas; a sabedoria se acha com os que procuram aconselhar-se.
+
+[[v24-13-11]]
+
+^<<v24-13-11,11>>^ Os bens que muito depressa se ajuntam se desvanecem; os acumulados pouco a pouco aumentam.
+
+[[v24-13-12]]
+
+^<<v24-13-12,12>>^ Esperança retardada faz adoecer o coração; o desejo realizado, porém, é uma árvore de vida.
+
+[[v24-13-13]]
+
+^<<v24-13-13,13>>^ Quem menospreza a palavra se perderá; quem respeita o preceito será recompensado.
+
+[[v24-13-14]]
+
+^<<v24-13-14,14>>^ O ensinamento do sábio é uma fonte de vida para libertar-se dos laços da morte.
+
+[[v24-13-15]]
+
+^<<v24-13-15,15>>^ Bom entendimento procura favor; o caminho dos pérfidos, porém, é escabroso.
+
+[[v24-13-16]]
+
+^<<v24-13-16,16>>^ Todo homem prudente age com discernimento, mas o insensato põe em evidência sua loucura.
+
+[[v24-13-17]]
+
+^<<v24-13-17,17>>^ Um mau mensageiro provoca a desgraça; o enviado fiel, porém, traz a saúde.
+
+[[v24-13-18]]
+
+^<<v24-13-18,18>>^ Miséria e vergonha a quem recusa a disciplina; honra ao que aceita a reprimenda.
+
+[[v24-13-19]]
+
+^<<v24-13-19,19>>^ O desejo cumprido deleita a alma. Os insensatos detestam os que fogem do mal.
+
+[[v24-13-20]]
+
+^<<v24-13-20,20>>^ Quem visita os sábios torna-se sábio; quem se faz amigo dos insensatos perde-se.
+
+[[v24-13-21]]
+
+^<<v24-13-21,21>>^ A desgraça persegue os pecadores; a felicidade é a recompensa dos justos.
+
+[[v24-13-22]]
+
+^<<v24-13-22,22>>^ O homem de bem deixa sua herança para os filhos de seus filhos; ao justo foi reservada a fortuna do pecador.
+
+[[v24-13-23]]
+
+^<<v24-13-23,23>>^ É abundante em alimento um campo preparado pelo pobre, mas há quem pereça por falta de justiça.
+
+[[v24-13-24]]
+
+^<<v24-13-24,24>>^ Quem poupa a vara odeia seu filho; quem o ama, castiga-o na hora precisa.
+
+[[v24-13-25]]
+
+^<<v24-13-25,25>>^ O justo come até se saciar, mas o ventre dos pérfidos conhece a penúria.
+
+'''
+
+xref:024-proverbios/024-proverbios-012.adoc#v24-12-0[&#60; Capítulo Anterior] | <<v24-13-0,Topo>> | xref:024-proverbios/024-proverbios-014.adoc#v24-14-0[Próximo Capítulo &#62;]

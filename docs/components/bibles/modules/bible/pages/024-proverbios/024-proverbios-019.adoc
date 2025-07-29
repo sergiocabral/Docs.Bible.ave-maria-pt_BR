@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v24-19-0]]
+=== Provérbios, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Provérbios 19 aborda diversos temas relacionados à sabedoria, justiça, riquezas e relacionamentos. O capítulo destaca a importância de agirmos com prudência e sabedoria em nossas ações, de sermos justos e honestos em nossas relações, de valorizarmos mais a sabedoria do que as riquezas materiais e de mantermos um coração puro diante de Deus.
+* Provérbios 16:3: "Confia ao SENHOR as tuas obras, e teus pensamentos serão estabelecidos." Este verso destaca a importância de confiarmos em Deus em todas as áreas da nossa vida e de buscarmos a orientação divina em nossas decisões.
+* Provérbios 22:1: "Mais digno de ser escolhido é o bom nome do que as muitas riquezas; e a boa fama vale mais do que a prata e o ouro." Este verso enfatiza que o valor de uma boa reputação é mais importante do que a acumulação de riquezas materiais.
+* Provérbios 17:27: "O que guarda a sua boca conserva a sua alma, mas o que abre muito os seus lábios a si mesmo se traz a ruína." Este verso destaca a importância de guardarmos nossas palavras e de agirmos com prudência em nossas conversas e interações com os outros.
+* Provérbios 19:11: "A prudência do homem faz reter a sua ira, e é glória sua o passar por cima da transgressão." Este verso destaca a importância de agirmos com prudência e sabedoria em nossas emoções e relacionamentos, e de aprendermos a perdoar e deixar de lado as ofensas.
+* Provérbios 19:20: "Ouve o conselho, e recebe a correção, para que no fim sejas sábio." Este verso enfatiza a importância de ouvirmos conselhos e correções, e de aprendermos com nossos erros para crescermos em sabedoria e maturidade.
+****
+
+[[v24-19-1]]
+
+^<<v24-19-1,1>>^ Mais vale um pobre que caminha na integridade que um insensato com lábios mentirosos.
+
+[[v24-19-2]]
+
+^<<v24-19-2,2>>^ Sem a ciência, nem mesmo o zelo é bom: quem precipita seus passos, desvia-se.
+
+[[v24-19-3]]
+
+^<<v24-19-3,3>>^ A loucura de um homem o leva a um mau caminho; é contra o Senhor que seu coração se irrita.
+
+[[v24-19-4]]
+
+^<<v24-19-4,4>>^ A riqueza aumenta o número de amigos, o pobre é abandonado pelo seu único companheiro.
+
+[[v24-19-5]]
+
+^<<v24-19-5,5>>^ O falso testemunho não fica sem castigo; o que profere mentira não escapará.
+
+[[v24-19-6]]
+
+^<<v24-19-6,6>>^ O homem generoso possui muitos lisonjeiros: todos se tornam amigos de quem dá.
+
+[[v24-19-7]]
+
+^<<v24-19-7,7>>^ Todos os irmãos do pobre o odeiam, quanto mais seus amigos não hão de se afastar dele? Está em busca de palavras, mas não terá nada.^&#42;1^
+
+[[v24-19-8]]
+
+^<<v24-19-8,8>>^ Quem adquire bom senso ama sua alma; o que observa a prudência encontra a felicidade.
+
+[[v24-19-9]]
+
+^<<v24-19-9,9>>^ O falso testemunho não fica impune; o que profere mentira perecerá.
+
+[[v24-19-10]]
+
+^<<v24-19-10,10>>^ Não convém ao insensato viver entre delícias, muito menos ainda a um escravo dominar os chefes.
+
+[[v24-19-11]]
+
+^<<v24-19-11,11>>^ Um homem sábio sabe conter a sua cólera, e tem por honra passar por cima de uma ofensa.
+
+[[v24-19-12]]
+
+^<<v24-19-12,12>>^ Cólera de rei, rugido de leão; favor de rei, orvalho sobre a erva.
+
+[[v24-19-13]]
+
+^<<v24-19-13,13>>^ Um filho insensato é a desgraça de seu pai; a mulher intrigante é uma goteira inesgotável.
+
+[[v24-19-14]]
+
+^<<v24-19-14,14>>^ Casas e bens são a herança dos pais, mas uma mulher sensata é um dom do Senhor.
+
+[[v24-19-15]]
+
+^<<v24-19-15,15>>^ A preguiça cai no torpor: a alma indolente terá fome.
+
+[[v24-19-16]]
+
+^<<v24-19-16,16>>^ O que observa o preceito guarda sua vida; quem descuida de seu proceder morrerá.
+
+[[v24-19-17]]
+
+^<<v24-19-17,17>>^ Quem se apieda do pobre empresta ao Senhor, que lhe restituirá o benefício.
+
+[[v24-19-18]]
+
+^<<v24-19-18,18>>^ Corrige teu filho enquanto há esperança, mas não te enfureças até fazê-lo perecer.
+
+[[v24-19-19]]
+
+^<<v24-19-19,19>>^ O homem iracundo sofrerá um castigo; se o libertares, aumentarás a sua pena.
+
+[[v24-19-20]]
+
+^<<v24-19-20,20>>^ Ouve os conselhos, aceita a instrução: tu serás sábio para o futuro.
+
+[[v24-19-21]]
+
+^<<v24-19-21,21>>^ Há muitos planos no coração do homem, mas é a vontade do Senhor que se realiza.
+
+[[v24-19-22]]
+
+^<<v24-19-22,22>>^ O encanto de um homem é a sua caridade: mais vale o pobre que o mentiroso.
+
+[[v24-19-23]]
+
+^<<v24-19-23,23>>^ O temor do Senhor conduz à vida; o que o possui é saciado: passará a noite sem a visita da desgraça.
+
+[[v24-19-24]]
+
+^<<v24-19-24,24>>^ O preguiçoso põe sua mão no prato e nem sequer a leva à boca.
+
+[[v24-19-25]]
+
+^<<v24-19-25,25>>^ Castiga o zombador e o simples se tornará sábio; repreende o homem sensato e ele compreenderá por quê.
+
+[[v24-19-26]]
+
+^<<v24-19-26,26>>^ Quem maltrata seu pai, quem expulsa sua mãe é um filho infame do qual todos se envergonham.
+
+[[v24-19-27]]
+
+^<<v24-19-27,27>>^ Cessa, meu filho, de ouvir as advertências e isto servirá para te afastares da sabedoria!
+
+[[v24-19-28]]
+
+^<<v24-19-28,28>>^ O testemunho falso zomba da justiça; a boca dos ímpios devora a iniquidade.
+
+[[v24-19-29]]
+
+^<<v24-19-29,29>>^ As varas estão preparadas para os insolentes e os golpes para o dorso dos insensatos.
+
+'''
+
+xref:024-proverbios/024-proverbios-018.adoc#v24-18-0[&#60; Capítulo Anterior] | <<v24-19-0,Topo>> | xref:024-proverbios/024-proverbios-020.adoc#v24-20-0[Próximo Capítulo &#62;]

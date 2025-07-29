@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v37-3-0]]
+=== Amós, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Amós 3 contém uma série de oráculos do profeta Amós, nos quais ele faz acusações e profecias contra o povo de Israel. Ele começa o capítulo com a pergunta retórica: "Porventura andarão dois juntos, se não estiverem de acordo?" (Amós 3:3). A partir daí, ele passa a falar sobre a inevitabilidade do julgamento de Deus sobre o povo de Israel por causa de sua injustiça e violência. Os versículos abaixo foram escolhidos por sua relação com esses temas:
+* Isaías 1:17: "Aprendei a fazer o bem, procurai o que é justo; ajudai o oprimido; fazei justiça ao órfão; tratai da causa das viúvas." Este versículo fala sobre a importância de fazer o bem e praticar a justiça, especialmente em relação aos oprimidos e vulneráveis, algo que o povo de Israel havia negligenciado.
+* Isaías 10:1-2: "Ai dos que decretam leis injustas, dos que escrevem leis de opressão, para negarem justiça aos pobres, para arrebatarem o direito aos aflitos do meu povo, para despojarem as viúvas e roubarem os órfãos!" Esse versículo reforça a acusação de Amós de que o povo de Israel estava cometendo injustiça e opressão contra os pobres e vulneráveis.
+* Isaías 5:7: "Porque a vinha do SENHOR dos Exércitos é a casa de Israel, e os homens de Judá são a planta das suas delícias; e esperou que exercessem juízo, e eis aqui opressão; justiça, e eis aqui clamor." Este versículo também fala sobre a expectativa de Deus de que o povo de Israel pratique a justiça, e sua decepção com a opressão e injustiça que ele encontra em vez disso.
+* Jeremias 9:24: "Mas o que se gloriar, glorie-se nisto: em entender e conhecer-me, que eu sou o SENHOR, que faço beneficência, juízo e justiça na terra; porque destas coisas me agrado, diz o SENHOR." Este versículo enfatiza a importância de conhecer a Deus e seguir seus caminhos de benevolência, juízo e justiça.
+* Salmos 82:3-4: "Fazei justiça ao pobre e ao órfão; procedei retamente com o aflito e o desamparado. Livrai o pobre e o necessitado; tirai-os das mãos dos ímpios." Este salmo também destaca a importância da justiça em relação aos vulneráveis e a necessidade de protegê-los da opressão dos ímpios.
+****
+
+[[v37-3-1]]
+
+^<<v37-3-1,1>>^ Ouvi, israelitas, o oráculo que o Senhor pronunciou contra vós, “contra todo o povo” – disse ele – “que tirei do Egito”.
+
+[[v37-3-2]]
+
+^<<v37-3-2,2>>^ Dentre todas as raças da terra só a vós conheço; por isso, vos castigarei por todas as vossas iniquidades.^&#42;1^
+
+[[v37-3-3]]
+
+^<<v37-3-3,3>>^ Porventura caminharão juntos dois homens, se não tiverem chegado previamente a um acordo?
+
+[[v37-3-4]]
+
+^<<v37-3-4,4>>^ Rugirá por acaso o leão na floresta, sem que tenha achado alguma presa? Gritará o leãozinho no covil, se não tiver apanhado alguma coisa?
+
+[[v37-3-5]]
+
+^<<v37-3-5,5>>^ Cairá o pardal no laço posto no solo, se a armadilha não estiver armada? O laço se levantará da terra sem ter apanhado alguma coisa?
+
+[[v37-3-6]]
+
+^<<v37-3-6,6>>^ Tocará o alarme na cidade sem que o povo se assuste? Virá uma calamidade sobre uma cidade sem que o Senhor a tenha disposto?
+
+[[v37-3-7]]
+
+^<<v37-3-7,7>>^ Porque o Senhor Javé nada faz sem revelar seu segredo aos profetas, seus servos.
+
+[[v37-3-8]]
+
+^<<v37-3-8,8>>^ O leão ruge, quem não temerá? O Senhor Javé fala: quem não profetizará?^&#42;1^
+
+[[v37-3-9]]
+
+^<<v37-3-9,9>>^ Proclamai este oráculo nos palácios de Azoto, nos palácios do Egito. Clamai: “Juntai-vos nos montes da Samaria, e vede quantas desordens há nessa cidade, quanta violência se pratica no seu seio!”.^&#42;1^
+
+[[v37-3-10]]
+
+^<<v37-3-10,10>>^ Não sabem fazer o que é reto – oráculo do Senhor – amontoam em seus palácios (o fruto) de suas violências e de seus roubos.^&#42;1^
+
+[[v37-3-11]]
+
+^<<v37-3-11,11>>^ Por isso, assim diz o Senhor Javé: Eis o inimigo a invadir a terra! Ele aniquilará a tua força; teus palácios serão pilhados.
+
+[[v37-3-12]]
+
+^<<v37-3-12,12>>^ Oráculo do Senhor: O pastor só consegue arrancar da boca do leão duas pernas e uma ponta de orelha; assim serão salvos os filhos de Israel que habitam em Samaria, reclinados em sofás, em almofadas de Damasco.
+
+[[v37-3-13]]
+
+^<<v37-3-13,13>>^ Ouvi isto, e declarai-o à casa de Jacó, diz o Senhor Javé, Deus dos exércitos:
+
+[[v37-3-14]]
+
+^<<v37-3-14,14>>^ No dia em que eu punir Israel por seus crimes, punirei os altares de Betel: os chifres do altar serão quebrados e cairão por terra.^&#42;1^
+
+[[v37-3-15]]
+
+^<<v37-3-15,15>>^ Derrubarei a residência de inverno e a residência de verão; as moradas de marfim serão destruídas, muitas casas serão aniquiladas – oráculo do Senhor.^&#42;1^
+
+'''
+
+xref:037-amos/037-amos-002.adoc#v37-2-0[&#60; Capítulo Anterior] | <<v37-3-0,Topo>> | xref:037-amos/037-amos-004.adoc#v37-4-0[Próximo Capítulo &#62;]

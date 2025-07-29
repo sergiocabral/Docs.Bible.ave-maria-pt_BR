@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v1-44-0]]
+=== Gênesis, 44
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em Gênesis 44, José arma uma prova para seus irmãos, que vieram ao Egito para comprar comida. Ele manda colocar uma taça em um saco de grãos de Benjamim, o irmão mais novo, e depois acusa Benjamim de ter roubado a taça. Os outros irmãos ficam desesperados e José os testa para ver se eles mudaram de caráter desde a última vez que os viu. Abaixo estão cinco versículos relacionados aos temas abordados nesse capítulo:
+* Provérbios 17:3: "O crisol é para a prata, e o forno é para o ouro; mas o Senhor é quem prova os corações." Esse versículo fala sobre a importância da provação e como Deus testa nossos corações para purificar-nos.
+* 1 Pedro 1:7: "Para que a prova da vossa fé, muito mais preciosa do que o ouro que perece e é provado pelo fogo, redunde para louvor, glória e honra na revelação de Jesus Cristo." Esse versículo fala sobre como nossas provações nos ajudam a crescer em fé e a glorificar a Deus.
+* Tiago 1:2-4: "Meus irmãos, tende por motivo de toda alegria o passardes por várias provações, sabendo que a provação da vossa fé, uma vez confirmada, produz perseverança. Ora, a perseverança deve ter ação completa, para que sejais perfeitos e íntegros, em nada deficientes." Esse versículo fala sobre como devemos encarar as provações com alegria, pois elas nos ajudam a crescer em perseverança e maturidade.
+* Salmo 26:2: "Sonda-me, ó Senhor, e prova-me; examina o meu coração e a minha mente." Esse versículo é uma oração para que Deus teste nossos corações e nos ajude a andar em seus caminhos.
+* Jeremias 17:10: "Eu, o Senhor, esquadrinho o coração e provo os pensamentos; e isto para dar a cada um segundo os seus caminhos e segundo o fruto das suas ações." Esse versículo fala sobre como Deus examina nossos corações e nos julga de acordo com nossas ações.
+****
+
+[[v1-44-1]]
+
+^<<v1-44-1,1>>^ José deu esta ordem ao intendente de sua casa: “Enche de víveres os sacos destes homens tanto quanto possam conter, e põe o dinheiro de cada um na boca do saco.
+
+[[v1-44-2]]
+
+^<<v1-44-2,2>>^ Porás minha taça de prata na boca do saco do mais novo, com o preço do seu trigo”. E fez o intendente como José lhe mandara.
+
+[[v1-44-3]]
+
+^<<v1-44-3,3>>^ De manhã, ao romper do dia, foram despedidos com seus jumentos.
+
+[[v1-44-4]]
+
+^<<v1-44-4,4>>^ Deixaram a cidade, mas, não tendo ido ainda muito longe, José disse ao seu intendente: “Levanta-te e persegue estes homens e, quando os tiveres alcançado, lhes dirás: Por que pagastes o bem com o mal?
+
+[[v1-44-5]]
+
+^<<v1-44-5,5>>^ A taça que roubastes é aquela em que bebe o meu senhor e da qual se serve para suas adivinhações. Fizestes muito mal”.
+
+[[v1-44-6]]
+
+^<<v1-44-6,6>>^ O intendente, tendo-os alcançado, falou-lhes desse modo.
+
+[[v1-44-7]]
+
+^<<v1-44-7,7>>^ Eles responderam-lhe: “Por que fala assim o meu senhor? Longe de teus servos a ideia de fazerem semelhante coisa!
+
+[[v1-44-8]]
+
+^<<v1-44-8,8>>^ Nós te trouxemos de Canaã o dinheiro que tínhamos encontrado na boca dos sacos. Por que, pois, haveríamos de roubar prata ou ouro na casa de teu senhor?
+
+[[v1-44-9]]
+
+^<<v1-44-9,9>>^ Que aquele dos teus servos com quem for encontrada a taça morra, e, ao mesmo tempo, nós nos tornemos escravos do meu senhor”.
+
+[[v1-44-10]]
+
+^<<v1-44-10,10>>^ “Está bem! – disse-lhes ele. Seja como dissestes! Aquele com quem for encontrada a taça será meu escravo. Vós outros sereis livres.”
+
+[[v1-44-11]]
+
+^<<v1-44-11,11>>^ E, imediatamente, pôs cada um o seu saco por terra e o abriu.
+
+[[v1-44-12]]
+
+^<<v1-44-12,12>>^ O intendente revistou-os começando pelo mais velho e acabando pelo mais novo; e a taça foi encontrada no saco de Benjamim.
+
+[[v1-44-13]]
+
+^<<v1-44-13,13>>^ Eles rasgaram suas vestes e, tendo cada um carregado de novo o seu jumento, voltaram para a cidade.
+
+[[v1-44-14]]
+
+^<<v1-44-14,14>>^ Judá e seus irmãos entraram em casa de José, que estava ainda em sua casa, e prostraram-se por terra diante dele.
+
+[[v1-44-15]]
+
+^<<v1-44-15,15>>^ José disse-lhes: “Que é isso que fizestes? Não sabíeis que sou um homem dotado da faculdade de adivinhar?”.
+
+[[v1-44-16]]
+
+^<<v1-44-16,16>>^ Judá respondeu: “Que podemos dizer a meu senhor? Que falaremos? Como nos justificar? Deus descobriu o crime de teus servos. Somos os escravos do meu senhor, nós e aquele junto de quem foi encontrada a taça”.
+
+[[v1-44-17]]
+
+^<<v1-44-17,17>>^ “Longe de mim – replicou José – o pensamento de agir dessa forma! Mas aquele em poder de quem foi encontrada a taça, esse será o meu escravo. Vós outros, voltai em paz para junto de vosso pai.”
+
+[[v1-44-18]]
+
+^<<v1-44-18,18>>^ Então Judá adiantou-se e disse a José: “Rogo-te, meu senhor, que permitas ao teu servo dizer uma palavra aos ouvidos do meu senhor, e não se acenda a tua ira contra o teu servo, porque tu és como o próprio faraó.
+
+[[v1-44-19]]
+
+^<<v1-44-19,19>>^ Meu senhor havia perguntado aos seus servos: ‘Tendes ainda vosso pai? Tendes um irmão?’.
+
+[[v1-44-20]]
+
+^<<v1-44-20,20>>^ E nós havíamos respondido ao meu senhor que tínhamos um velho pai e um irmãozinho, filho de sua velhice, do qual o irmão havia morrido; e que, como ele foi deixado o único de sua mãe, seu pai o amava.
+
+[[v1-44-21]]
+
+^<<v1-44-21,21>>^ Disseste aos teus servos: ‘Trazei-o para junto de mim, a fim de que o veja com meus olhos’.
+
+[[v1-44-22]]
+
+^<<v1-44-22,22>>^ Havíamos respondido ao meu senhor que o menino não podia abandonar o seu pai, pois, se o fizesse, seu pai morreria.
+
+[[v1-44-23]]
+
+^<<v1-44-23,23>>^ E disseste aos teus servos: ‘Se vosso irmãozinho não vier convosco, não sereis admitidos na minha presença’.
+
+[[v1-44-24]]
+
+^<<v1-44-24,24>>^ Quando voltamos para a casa do teu servo, nosso pai, referimos-lhe as palavras do meu senhor.
+
+[[v1-44-25]]
+
+^<<v1-44-25,25>>^ E, quando nosso pai nos mandou voltar para comprar alguns víveres,
+
+[[v1-44-26]]
+
+^<<v1-44-26,26>>^ respondemos-lhe: ‘Não podemos descer. Mas, se nosso irmão mais novo nos acompanhar, o faremos, pois que não seremos admitidos na presença do governador, se nosso irmão não for conosco’.
+
+[[v1-44-27]]
+
+^<<v1-44-27,27>>^ Teu servo, nosso pai, nos replicou: ‘Sabeis que minha mulher me deu dois filhos.
+
+[[v1-44-28]]
+
+^<<v1-44-28,28>>^ Um desapareceu de minha casa, e eu disse: Certamente foi devorado. E não mais o revi até hoje.
+
+[[v1-44-29]]
+
+^<<v1-44-29,29>>^ Se me tirais ainda este, e lhe acontecer alguma desgraça, fareis descer os meus cabelos brancos à habitação dos mortos, sob o peso da dor’.
+
+[[v1-44-30]]
+
+^<<v1-44-30,30>>^ Se agora volto para junto de teu servo, meu pai, sem levar conosco o menino, ele, cuja vida está ligada à do menino,
+
+[[v1-44-31]]
+
+^<<v1-44-31,31>>^ desde que notar que ele não está conosco, morrerá. E teus servos terão feito descer à habitação dos mortos, sob o peso da aflição, os cabelos brancos do teu servo, nosso pai.
+
+[[v1-44-32]]
+
+^<<v1-44-32,32>>^ Ora, o teu servo respondeu pelo menino junto de meu pai; e disse-lhe que, se ele não o reconduzisse, seria eternamente culpado para com seu pai.
+
+[[v1-44-33]]
+
+^<<v1-44-33,33>>^ Rogo-te, pois: aceita que teu servo fique escravo de meu senhor em lugar do menino, para que este possa voltar com seus irmãos.
+
+[[v1-44-34]]
+
+^<<v1-44-34,34>>^ Como poderia eu apresentar-me diante do meu pai, se o menino não for comigo? Oh, eu não poderia suportar a dor que sobreviria a meu pai!”.
+
+'''
+
+xref:001-genesis/001-genesis-043.adoc#v1-43-0[&#60; Capítulo Anterior] | <<v1-44-0,Topo>> | xref:001-genesis/001-genesis-045.adoc#v1-45-0[Próximo Capítulo &#62;]

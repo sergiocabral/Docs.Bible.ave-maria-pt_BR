@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v21-34-0]]
+=== Salmos, 34
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 34 é um hino de louvor a Deus e uma declaração de confiança em sua proteção e cuidado. O salmista expressa a alegria que sente em Deus, que o livrou dos seus temores e aflições. Ele encoraja os outros a se juntarem a ele em louvor e adoração a Deus, e a confiarem em sua fidelidade e bondade. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 34:
+* Salmo 9:10: "Os que conhecem o teu nome confiam em ti, pois tu, Senhor, não abandonas os que te buscam." Este versículo destaca a importância de conhecer a Deus e confiar nele, e enfatiza a fidelidade de Deus em não abandonar aqueles que o buscam.
+* Salmo 56:3: "Em que dia eu temer, hei de confiar em ti." Este versículo fala da confiança que o salmista tem em Deus, mesmo em meio ao medo e à incerteza.
+* Salmo 146:5: "Feliz aquele cujo auxílio é o Deus de Jacó, cuja esperança está no Senhor, seu Deus." Este versículo enfatiza a felicidade daqueles que confiam em Deus como seu auxílio e esperança.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo fala da importância de confiar em Deus em vez de depender do nosso próprio entendimento, e de buscar sua orientação em todas as nossas decisões.
+* Filipenses 4:6-7: "Não andeis ansiosos por coisa alguma; antes, em tudo sejam conhecidas as vossas petições, pela oração e pela súplica, com ações de graça. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus." Este versículo fala da importância da oração e da confiança em Deus para experimentar a paz de espírito, que é um tema importante em Salmo 34.
+****
+
+[[v21-34-1]]
+
+^<<v21-34-1,1>>^ De Davi. Lutai, Senhor, contra os que me atacam; combatei meus adversários.^&#42;1^
+
+[[v21-34-2]]
+
+^<<v21-34-2,2>>^ Empunhai o broquel e o escudo, e erguei-vos em meu socorro.
+
+[[v21-34-3]]
+
+^<<v21-34-3,3>>^ Brandi a lança e sustai meus perseguidores. Dizei à minha alma: “Eu sou a tua salvação”.
+
+[[v21-34-4]]
+
+^<<v21-34-4,4>>^ Sejam confundidos e envergonhados os que odeiam a minha vida, recuem humilhados os que tramam minha desgraça.
+
+[[v21-34-5]]
+
+^<<v21-34-5,5>>^ Sejam como a palha levada pelo vento, quando o anjo do Senhor vier acossá-los.
+
+[[v21-34-6]]
+
+^<<v21-34-6,6>>^ Torne-se tenebroso e escorregadio o seu caminho, quando o anjo do Senhor vier persegui-los,
+
+[[v21-34-7]]
+
+^<<v21-34-7,7>>^ porquanto sem razão me armaram laços; para me perder, cavaram um fosso sem motivo.
+
+[[v21-34-8]]
+
+^<<v21-34-8,8>>^ Venha sobre eles de improviso a ruína; apanhe-os a rede por eles mesmos preparada, caiam eles próprios na cova que abriram.
+
+[[v21-34-9]]
+
+^<<v21-34-9,9>>^ Então a minha alma exultará no Senhor, e se alegrará pelo seu auxílio.
+
+[[v21-34-10]]
+
+^<<v21-34-10,10>>^ Todas as minhas potências dirão: “Senhor, quem é semelhante a vós? Vós que livrais o desvalido do opressor, o mísero e o pobre de quem os despoja”.
+
+[[v21-34-11]]
+
+^<<v21-34-11,11>>^ Surgiram apaixonadas testemunhas, interrogaram-me sobre faltas que ignoro,
+
+[[v21-34-12]]
+
+^<<v21-34-12,12>>^ pagaram-me o bem com o mal. Oh, desolação para a minha alma!
+
+[[v21-34-13]]
+
+^<<v21-34-13,13>>^ Contudo, quando eles adoeciam, eu me revestia de saco, extenuava-me em jejuns e rezava.
+
+[[v21-34-14]]
+
+^<<v21-34-14,14>>^ Andava triste, como se tivesse perdido um amigo, um irmão; abatido, vergava-me como quem chora por sua mãe.
+
+[[v21-34-15]]
+
+^<<v21-34-15,15>>^ Quando tropecei, eles se reuniram para se alegrar; eles me dilaceraram sem parar.
+
+[[v21-34-16]]
+
+^<<v21-34-16,16>>^ Puseram-me à prova, escarneceram de mim, rangeram os dentes contra mim.
+
+[[v21-34-17]]
+
+^<<v21-34-17,17>>^ Senhor, até quando assistireis impassível a este espetáculo? Arrancai desses leões a minha vida, livrai-me a alma de seus rugidos.
+
+[[v21-34-18]]
+
+^<<v21-34-18,18>>^ Vou render-vos graças publicamente, eu vos louvarei na presença da multidão.
+
+[[v21-34-19]]
+
+^<<v21-34-19,19>>^ Não se regozijem de mim meus pérfidos inimigos, nem tramem com os olhos os que me odeiam sem motivo,^&#42;1^
+
+[[v21-34-20]]
+
+^<<v21-34-20,20>>^ pois nunca têm palavras de paz: e armam ciladas contra a gente tranquila da terra,
+
+[[v21-34-21]]
+
+^<<v21-34-21,21>>^ escancaram para mim a boca, dizendo: “Ah! Ah! Com os nossos olhos, nós o vimos!”.
+
+[[v21-34-22]]
+
+^<<v21-34-22,22>>^ Vós também, Senhor, vistes! Não guardeis silêncio.^&#42;1^ Senhor, não vos aparteis de mim.
+
+[[v21-34-23]]
+
+^<<v21-34-23,23>>^ Acordai e levantai-vos para me defender, ó meu Deus e Senhor meu, em prol de minha causa!
+
+[[v21-34-24]]
+
+^<<v21-34-24,24>>^ Julgai-me, Senhor, segundo vossa justiça. Ó meu Deus, que não se regozijem à minha custa!
+
+[[v21-34-25]]
+
+^<<v21-34-25,25>>^ Não pensem em seus corações: “Ah, tivemos sorte!”. Não digam: “Nós o devoramos!”.
+
+[[v21-34-26]]
+
+^<<v21-34-26,26>>^ Sejam confundidos todos juntos e se envergonhem os que se alegram com meus males, cubram-se de pejo e ignomínia os que se levantam orgulhosamente contra mim.
+
+[[v21-34-27]]
+
+^<<v21-34-27,27>>^ Mas exultem e se alegrem os favoráveis à minha causa e digam sem cessar: “Glorificado seja o Senhor, que quis a salvação de seu servo!”.
+
+[[v21-34-28]]
+
+^<<v21-34-28,28>>^ E a minha língua proclamará vossa justiça, dando-vos perpétuos louvores.
+
+'''
+
+xref:021-salmos/021-salmos-033.adoc#v21-33-0[&#60; Capítulo Anterior] | <<v21-34-0,Topo>> | xref:021-salmos/021-salmos-035.adoc#v21-35-0[Próximo Capítulo &#62;]

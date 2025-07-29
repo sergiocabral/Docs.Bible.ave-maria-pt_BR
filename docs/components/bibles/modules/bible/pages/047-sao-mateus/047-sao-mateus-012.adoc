@@ -1,0 +1,219 @@
+include::./index.adoc[]
+
+[[v47-12-0]]
+=== São Mateus, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Mateus 12 trata de diversos eventos e ensinamentos de Jesus, incluindo curas no sábado, a blasfêmia contra o Espírito Santo e a verdadeira família de Jesus. Dentre os temas abordados, destacam-se a importância da misericórdia, a autoridade de Jesus e a necessidade de se produzir bons frutos. A seguir, seguem cinco versículos relacionados com esses temas:
+* Lucas 6:36 - "Sede misericordiosos, como também é misericordioso vosso Pai." Jesus ensina a seus discípulos a importância da misericórdia, mostrando que devemos agir com os outros da mesma forma que Deus age conosco.
+* João 5:27 - "E deu-lhe autoridade para julgar, porque é o Filho do Homem." Neste versículo, Jesus fala sobre sua própria autoridade para julgar, mostrando que ele é o Filho de Deus e tem poder sobre todas as coisas.
+* Lucas 6:43 - "Porque não há árvore boa que dê fruto ruim, nem tampouco árvore ruim que dê fruto bom." Aqui, Jesus enfatiza a importância de produzir bons frutos em nossa vida, mostrando que é impossível produzir frutos bons se não houver um coração bom.
+* Efésios 2:8-9 - "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus; não vem das obras, para que ninguém se glorie." Este versículo destaca a importância da graça de Deus e da fé em Jesus para nossa salvação, mostrando que não é por nossas obras que alcançamos a salvação, mas sim pelo dom de Deus.
+* Lucas 8:21 - "Respondeu-lhes, porém, ele: Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus e a executam." Neste versículo, Jesus mostra que a verdadeira família é composta não apenas de nossos parentes de sangue, mas daqueles que ouvem e obedecem a palavra de Deus.
+****
+
+[[v47-12-1]]
+
+^<<v47-12-1,1>>^ Atravessava Jesus os campos de trigo num dia de sábado. Seus discípulos, tendo fome, começaram a arrancar as espigas para comê-las.
+
+[[v47-12-2]]
+
+^<<v47-12-2,2>>^ Vendo isso, os fariseus disseram-lhe: “Eis que teus discípulos fazem o que é proibido no dia de sábado”.
+
+[[v47-12-3]]
+
+^<<v47-12-3,3>>^ Jesus respondeu-lhes: “Não lestes o que fez Davi num dia em que teve fome, ele e seus companheiros,
+
+[[v47-12-4]]
+
+^<<v47-12-4,4>>^ como entrou na casa de Deus e comeu os pães da proposição? Ora, nem a ele nem àqueles que o acompanhavam era permitido comer esses pães reservados só aos sacerdotes.^&#42;1^
+
+[[v47-12-5]]
+
+^<<v47-12-5,5>>^ Não lestes na Lei que, nos dias de sábado, os sacerdotes transgridem no templo o descanso do sábado e não se tornam culpados?
+
+[[v47-12-6]]
+
+^<<v47-12-6,6>>^ Ora, eu vos declaro que aqui está quem é maior que o templo.
+
+[[v47-12-7]]
+
+^<<v47-12-7,7>>^ Se compreendêsseis o sentido destas palavras: Quero a misericórdia e não o sacrifício... não condenaríeis os inocentes.^&#42;1^
+
+[[v47-12-8]]
+
+^<<v47-12-8,8>>^ Porque o Filho do Homem é senhor também do sábado”.
+
+[[v47-12-9]]
+
+^<<v47-12-9,9>>^ Partindo dali, Jesus entrou na sinagoga.
+
+[[v47-12-10]]
+
+^<<v47-12-10,10>>^ Encontrava-se lá um homem que tinha a mão seca. Alguém perguntou a Jesus: “É permitido curar no dia de sábado?”. Isto para poder acusá-lo.
+
+[[v47-12-11]]
+
+^<<v47-12-11,11>>^ Jesus respondeu-lhe: “Há alguém entre vós que, tendo uma única ovelha e se esta cair num poço no dia de sábado, não a irá procurar e retirar?
+
+[[v47-12-12]]
+
+^<<v47-12-12,12>>^ Não vale o homem muito mais que uma ovelha? É permitido, pois, fazer o bem no dia de sábado”.
+
+[[v47-12-13]]
+
+^<<v47-12-13,13>>^ Disse, então, àquele homem: “Estende a mão”. Ele a estendeu e ela tornou-se sã como a outra.
+
+[[v47-12-14]]
+
+^<<v47-12-14,14>>^ Os fariseus saíram dali e deliberaram sobre os meios de o matar.
+
+[[v47-12-15]]
+
+^<<v47-12-15,15>>^ Jesus soube disso e afastou-se daquele lugar. Uma grande multidão o seguiu, e ele curou todos os seus doentes.
+
+[[v47-12-16]]
+
+^<<v47-12-16,16>>^ Proibia-lhes formalmente falar disso,
+
+[[v47-12-17]]
+
+^<<v47-12-17,17>>^ para que se cumprisse o anunciado pelo profeta Isaías:
+
+[[v47-12-18]]
+
+^<<v47-12-18,18>>^ Eis o meu servo a quem escolhi, meu bem-amado em quem minha alma pôs toda a sua afeição. Farei repousar sobre ele o meu Espírito e ele anunciará a justiça aos pagãos.
+
+[[v47-12-19]]
+
+^<<v47-12-19,19>>^ Ele não disputará, não elevará sua voz; ninguém ouvirá sua voz nas praças públicas.
+
+[[v47-12-20]]
+
+^<<v47-12-20,20>>^ Não quebrará o caniço rachado, nem apagará a mecha que ainda fumega, até que faça triunfar a justiça.
+
+[[v47-12-21]]
+
+^<<v47-12-21,21>>^ Em seu nome as nações pagãs porão sua esperança (Is 42,1-4).
+
+[[v47-12-22]]
+
+^<<v47-12-22,22>>^ Apresentaram-lhe, depois, um possesso cego e mudo. Jesus o curou de tal modo, que este falava e via.
+
+[[v47-12-23]]
+
+^<<v47-12-23,23>>^ A multidão, admirada, dizia: “Não será este o filho de Davi?”.
+
+[[v47-12-24]]
+
+^<<v47-12-24,24>>^ Mas, ouvindo isso, os fariseus responderam: “É por Beelzebul, chefe dos demônios, que ele os expulsa”.
+
+[[v47-12-25]]
+
+^<<v47-12-25,25>>^ Jesus, porém, penetrando nos seus pensamentos, disse: “Todo reino dividido contra si mesmo será destruído. Toda cidade, toda casa dividida contra si mesma não pode subsistir.
+
+[[v47-12-26]]
+
+^<<v47-12-26,26>>^ Se Satanás expele Satanás, está dividido contra si mesmo. Como, pois, subsistirá o seu reino?
+
+[[v47-12-27]]
+
+^<<v47-12-27,27>>^ E se eu expulso os demônios por Beelzebul, por quem é que vossos filhos os expulsam? Por isso, eles mesmos serão vossos juízes.
+
+[[v47-12-28]]
+
+^<<v47-12-28,28>>^ Mas, se é pelo Espírito de Deus que expulso os demônios, então chegou para vós o Reino de Deus.
+
+[[v47-12-29]]
+
+^<<v47-12-29,29>>^ Como pode alguém penetrar na casa de um homem forte e roubar-lhe os bens, sem ter primeiro amarrado este homem forte? Só então pode roubar sua casa.
+
+[[v47-12-30]]
+
+^<<v47-12-30,30>>^ Quem não está comigo está contra mim; e quem não ajunta comigo, espalha”.
+
+[[v47-12-31]]
+
+^<<v47-12-31,31>>^ “Por isso, eu vos digo: todo pecado e toda blasfêmia serão perdoados aos homens, mas a blasfêmia contra o Espírito não lhes será perdoada.^&#42;1^
+
+[[v47-12-32]]
+
+^<<v47-12-32,32>>^ Todo o que tiver falado contra o Filho do Homem será perdoado. Se, porém, falar contra o Espírito Santo, não alcançará perdão nem neste século nem no século vindouro.
+
+[[v47-12-33]]
+
+^<<v47-12-33,33>>^ Ou dizeis que a árvore é boa e seu fruto bom, ou dizeis que é má e seu fruto, mau; porque é pelo fruto que se conhece a árvore.
+
+[[v47-12-34]]
+
+^<<v47-12-34,34>>^ Raça de víboras, maus como sois, como podeis dizer coisas boas? Porque a boca fala do que lhe transborda do coração.
+
+[[v47-12-35]]
+
+^<<v47-12-35,35>>^ O homem de bem tira boas coisas de seu bom tesouro. O mau, porém, tira coisas más de seu mau tesouro.
+
+[[v47-12-36]]
+
+^<<v47-12-36,36>>^ Eu vos digo: no dia do juízo os homens prestarão contas de toda palavra vã que tiverem proferido.
+
+[[v47-12-37]]
+
+^<<v47-12-37,37>>^ É por tuas palavras que serás justificado ou condenado”.
+
+[[v47-12-38]]
+
+^<<v47-12-38,38>>^ Então, alguns escribas e fariseus tomaram a palavra: “Mestre, quiséramos ver-te fazer um milagre”.
+
+[[v47-12-39]]
+
+^<<v47-12-39,39>>^ Respondeu-lhes Jesus: “Esta geração adúltera e perversa pede um sinal, mas não lhe será dado outro sinal do que aquele do profeta Jonas:
+
+[[v47-12-40]]
+
+^<<v47-12-40,40>>^ do mesmo modo que Jonas esteve três dias e três noites no ventre do peixe, assim o Filho do Homem ficará três dias e três noites no seio da terra.
+
+[[v47-12-41]]
+
+^<<v47-12-41,41>>^ No dia do juízo, os ninivitas se levantarão com esta raça e a condenarão, porque fizeram penitência à voz de Jonas. Ora, aqui está quem é mais do que Jonas.
+
+[[v47-12-42]]
+
+^<<v47-12-42,42>>^ No dia do juízo, a rainha do Sul se levantará com esta raça e a condenará, porque veio das extremidades da terra para ouvir a sabedoria de Salomão. Ora, aqui está quem é mais do que Salomão”.
+
+[[v47-12-43]]
+
+^<<v47-12-43,43>>^ “Quando o espírito impuro sai de um homem, ei-lo errante por lugares áridos à procura de um repouso que não acha.
+
+[[v47-12-44]]
+
+^<<v47-12-44,44>>^ Diz ele, então: Voltarei para a casa donde saí. E, voltando, encontra-a vazia, limpa e enfeitada.
+
+[[v47-12-45]]
+
+^<<v47-12-45,45>>^ Vai, então, buscar sete outros espíritos piores que ele, e entram nessa casa e se estabelecem aí; e o último estado daquele homem torna-se pior que o primeiro. Tal será a sorte desta geração perversa”.
+
+[[v47-12-46]]
+
+^<<v47-12-46,46>>^ Jesus falava ainda à multidão, quando veio sua mãe e seus irmãos e esperavam do lado de fora a ocasião de lhe falar.
+
+[[v47-12-47]]
+
+^<<v47-12-47,47>>^ Disse-lhe alguém: “Tua mãe e teus irmãos estão aí fora, e querem falar-te”.^&#42;1^
+
+[[v47-12-48]]
+
+^<<v47-12-48,48>>^ Jesus respondeu-lhe: “Quem é minha mãe e quem são meus irmãos?”.
+
+[[v47-12-49]]
+
+^<<v47-12-49,49>>^ E, apontando com a mão para os seus discípulos, acrescentou: “Eis aqui minha mãe e meus irmãos.
+
+[[v47-12-50]]
+
+^<<v47-12-50,50>>^ Todo aquele que faz a vontade de meu Pai que está nos céus, esse é meu irmão, minha irmã e minha mãe”.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-011.adoc#v47-11-0[&#60; Capítulo Anterior] | <<v47-12-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-013.adoc#v47-13-0[Próximo Capítulo &#62;]

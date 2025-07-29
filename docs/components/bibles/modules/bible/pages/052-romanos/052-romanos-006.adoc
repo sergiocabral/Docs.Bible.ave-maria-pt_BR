@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v52-6-0]]
+=== Romanos, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Romanos 6 é um capítulo que trata sobre a importância da morte e ressurreição de Cristo na vida do cristão. O capítulo fala sobre a necessidade de morrer para o pecado e viver para Deus. Também destaca a graça de Deus em dar a salvação como um dom gratuito, mas que exige uma resposta de santificação e obediência daqueles que a recebem.
+* Romanos 6:4 - "Portanto, fomos sepultados com ele na morte por meio do batismo, a fim de que, assim como Cristo foi ressuscitado dos mortos mediante a glória do Pai, também nós vivamos uma vida nova." Este versículo destaca a importância do batismo como um símbolo da morte para o pecado e ressurreição para uma vida nova em Cristo, que é enfatizado no capítulo.
+* Romanos 6:11 - "Assim também vocês considerem-se mortos para o pecado, mas vivos para Deus em Cristo Jesus." Este versículo enfatiza a importância de reconhecer a morte para o pecado e a necessidade de viver para Deus em Cristo.
+* Romanos 6:14 - "Pois o pecado não os dominará, porque vocês não estão debaixo da Lei, mas debaixo da graça." Este versículo destaca a liberdade que temos em Cristo, não mais sendo dominados pelo pecado, mas pela graça.
+* Romanos 6:23 - "Pois o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus, nosso Senhor." Este versículo destaca a graça de Deus em dar a vida eterna como um dom gratuito, mas também a seriedade do pecado e a consequência da morte.
+* Romanos 6:6 - "Sabemos que o nosso velho homem foi crucificado com ele, para que o corpo do pecado seja destruído, e não mais sejamos escravos do pecado." Este versículo enfatiza a necessidade de se livrar do velho homem, do pecado e de sermos renovados em Cristo, o que é o tema central de Romanos 6.
+****
+
+[[v52-6-1]]
+
+^<<v52-6-1,1>>^ Então, que diremos? Permaneceremos no pecado, para que haja abundância da graça?
+
+[[v52-6-2]]
+
+^<<v52-6-2,2>>^ De modo algum. Nós, que já morremos ao pecado, como poderíamos ainda viver nele?^&#42;1^
+
+[[v52-6-3]]
+
+^<<v52-6-3,3>>^ Ou ignorais que todos os que fomos batizados em Jesus Cristo, fomos batizados na sua morte?
+
+[[v52-6-4]]
+
+^<<v52-6-4,4>>^ Fomos, pois, sepultados com ele na sua morte pelo batismo para que, como Cristo ressurgiu dos mortos pela glória do Pai, assim nós também vivamos uma vida nova.^&#42;1^
+
+[[v52-6-5]]
+
+^<<v52-6-5,5>>^ Se fomos feitos o mesmo ser com ele por uma morte semelhante à sua, o seremos igualmente por uma comum ressurreição.
+
+[[v52-6-6]]
+
+^<<v52-6-6,6>>^ Sabemos que o nosso velho homem foi crucificado com ele, para que seja reduzido à impotência o corpo (outrora) subjugado ao pecado, e já não sejamos escravos do pecado.^&#42;1^
+
+[[v52-6-7]]
+
+^<<v52-6-7,7>>^ (Pois quem morreu, libertado está do pecado.)
+
+[[v52-6-8]]
+
+^<<v52-6-8,8>>^ Ora, se morremos com Cristo, cremos que viveremos também com ele,
+
+[[v52-6-9]]
+
+^<<v52-6-9,9>>^ pois sabemos que Cristo, tendo ressurgido dos mortos, já não morre, nem a morte terá mais domínio sobre ele.
+
+[[v52-6-10]]
+
+^<<v52-6-10,10>>^ Morto, ele o foi uma vez por todas pelo pecado; porém, está vivo, continua vivo para Deus!
+
+[[v52-6-11]]
+
+^<<v52-6-11,11>>^ Portanto, vós também considerai-vos mortos ao pecado, porém vivos para Deus, em Cristo Jesus.
+
+[[v52-6-12]]
+
+^<<v52-6-12,12>>^ Não reine, pois, o pecado em vosso corpo mortal, de modo que obedeçais aos seus apetites.
+
+[[v52-6-13]]
+
+^<<v52-6-13,13>>^ Nem ofereçais os vossos membros ao pecado, como instrumentos do mal. Oferecei-vos a Deus, como vivos, salvos da morte, para que os vossos membros sejam instrumentos do bem a seu serviço.
+
+[[v52-6-14]]
+
+^<<v52-6-14,14>>^ O pecado já não vos dominará, porque agora não estais mais sob a lei, e sim sob a graça.
+
+[[v52-6-15]]
+
+^<<v52-6-15,15>>^ Então? Havemos de pecar, pelo fato de não estarmos sob a Lei, mas sob a graça? De modo algum.
+
+[[v52-6-16]]
+
+^<<v52-6-16,16>>^ Não sabeis que, quando vos ofereceis a alguém para lhe obedecer, sois escravos daquele a quem obedeceis, quer seja do pecado para a morte, quer da obediência para a justiça?
+
+[[v52-6-17]]
+
+^<<v52-6-17,17>>^ Graças a Deus, porém, que, depois de terdes sido escravos do pecado, obedecestes de coração à regra da doutrina na qual tendes sido instruídos.
+
+[[v52-6-18]]
+
+^<<v52-6-18,18>>^ E, libertados do pecado, vos tornastes servos da justiça.
+
+[[v52-6-19]]
+
+^<<v52-6-19,19>>^ Vou-me servir de linguagem corrente entre os homens, por causa da fraqueza da vossa carne. Pois, como pusestes os vossos membros a serviço da impureza e do mal para cometer a iniquidade, assim ponde agora os vossos membros a serviço da justiça para chegar à santidade.
+
+[[v52-6-20]]
+
+^<<v52-6-20,20>>^ Quando éreis escravos do pecado, éreis livres a respeito da justiça.
+
+[[v52-6-21]]
+
+^<<v52-6-21,21>>^ Que frutos produzíeis então? Frutos dos quais agora vos envergonhais. O fim deles é a morte.
+
+[[v52-6-22]]
+
+^<<v52-6-22,22>>^ Mas agora, libertados do pecado e feitos servos de Deus, tendes por fruto a santidade; e o termo é a vida eterna.
+
+[[v52-6-23]]
+
+^<<v52-6-23,23>>^ Porque o salário do pecado é a morte, enquanto o dom de Deus é a vida eterna em Cristo Jesus, nosso Senhor.^&#42;1^
+
+'''
+
+xref:052-romanos/052-romanos-005.adoc#v52-5-0[&#60; Capítulo Anterior] | <<v52-6-0,Topo>> | xref:052-romanos/052-romanos-007.adoc#v52-7-0[Próximo Capítulo &#62;]

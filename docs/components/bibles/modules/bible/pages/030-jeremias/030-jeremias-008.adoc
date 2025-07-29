@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v30-8-0]]
+=== Jeremias, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 8 de Jeremias trata da incredulidade e da falta de arrependimento do povo de Judá, que se recusa a reconhecer a gravidade de seus pecados e a se voltar para Deus. A seguir, apresento cinco versículos relacionados com esses temas:
+* Isaías 55:6-7: "Buscai ao SENHOR enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos; volte-se ao SENHOR, que se compadecerá dele; e para o nosso Deus, porque é abundante em perdoar." Esse verso encoraja as pessoas a buscarem a Deus enquanto há tempo, abandonando seus caminhos pecaminosos e voltando-se para o Senhor, que é abundante em perdoar.
+* Ezequiel 33:11: "Dize-lhes: Tão certo como eu vivo, diz o Senhor JEOVÁ, que não tenho prazer na morte do ímpio, mas sim em que o ímpio se converta do seu caminho e viva. Convertei-vos, convertei-vos dos vossos maus caminhos; pois por que morrereis, ó casa de Israel?" Esse verso destaca o desejo de Deus de que as pessoas se voltem para Ele e vivam, em vez de persistirem em seus pecados e morrerem.
+* Salmos 51:17: "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus." Este versículo enfatiza que o verdadeiro sacrifício a Deus é um coração quebrantado e contrito, e não simplesmente rituais externos.
+* Provérbios 28:13: "O que encobre as suas transgressões nunca prosperará; mas o que as confessa e deixa, alcançará misericórdia." Esse verso destaca a importância da confissão e do abandono dos pecados, como condição para a misericórdia de Deus.
+* Isaías 1:18: "Vinde, pois, e arrazoemos, diz o SENHOR; ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a branca lã." Este versículo apresenta a oferta de perdão e restauração que Deus faz ao Seu povo, mesmo que seus pecados sejam muitos e graves.
+****
+
+[[v30-8-1]]
+
+^<<v30-8-1,1>>^ “Naquele tempo – oráculo do Senhor –, serão retirados de seus sepulcros os ossos dos reis de Judá, dos seus chefes e sacerdotes, dos seus profetas e habitantes de Jerusalém.
+
+[[v30-8-2]]
+
+^<<v30-8-2,2>>^ E serão expostos ao sol, à lua e à multidão das estrelas que tanto amaram e serviram, e que seguiram, consultaram e adoraram. Esses ossos não serão mais recolhidos, nem enterrados, permanecendo como adubo na superfície do solo.
+
+[[v30-8-3]]
+
+^<<v30-8-3,3>>^ Preferível à vida será a morte para os sobreviventes dessa raça perversa, em todos os lugares pelos quais eu os houver dispersado – oráculo do Senhor dos exércitos.”
+
+[[v30-8-4]]
+
+^<<v30-8-4,4>>^ Tu lhe dirás, então: Eis o que diz o Senhor: não se deverá levantar aquele que tomba? Não voltará aquele que se desviou?
+
+[[v30-8-5]]
+
+^<<v30-8-5,5>>^ Por que persiste esse povo de Jerusalém em perpétua loucura? Obstinam-se na má-fé, recusando converter-se.
+
+[[v30-8-6]]
+
+^<<v30-8-6,6>>^ Atentamente os escutei: não falam, porém, com sinceridade. Nem um deles se arrepende da maldade e não clama: “Que fiz eu?”. Retomam todos a caminhada, à semelhança do cavalo que se arremessa à batalha.
+
+[[v30-8-7]]
+
+^<<v30-8-7,7>>^ Até a cegonha pelo ar reconhece a estação, e as rolas e as andorinhas são fiéis à migração. O meu povo, porém, não conhece a Lei do Senhor.
+
+[[v30-8-8]]
+
+^<<v30-8-8,8>>^ Como podeis dizer: “Somos sábios, e temos conosco a Lei do Senhor?”. Na verdade, foi a mentira que fez desta Lei o estilete enganador dos escribas.^&#42;1^
+
+[[v30-8-9]]
+
+^<<v30-8-9,9>>^ Os sábios consternados e confundidos ficarão cobertos de vergonha, por haverem repelido a palavra do Senhor; qual seria então a sabedoria deles?
+
+[[v30-8-10]]
+
+^<<v30-8-10,10>>^ Eis por que a outros darei suas mulheres, e seus campos a novos donos, já que, do menor ao maior deles, todos se entregam aos lucros desonestos. Desde o profeta até o sacerdote, praticam todos a mentira.^&#42;1^
+
+[[v30-8-11]]
+
+^<<v30-8-11,11>>^ Tratam sem cuidado da ferida da filha do meu povo, e dizem: “Vai tudo bem! Vai tudo bem!” quando vai tudo mal.
+
+[[v30-8-12]]
+
+^<<v30-8-12,12>>^ Pelo seu proceder abominável serão confundidos, mas nem ao menos conhecem a vergonha, e nem o que seja enrubescer. Assim como os que caem, tombarão também e perecerão no dia do castigo – oráculo do Senhor.
+
+[[v30-8-13]]
+
+^<<v30-8-13,13>>^ Vou reuni-los todos e arrebatá-los – oráculo do Senhor. Mas não havia uma só uva na vinha, nem figo na figueira. A folhagem havia murchado. E assim lhes dei quem os haveria de conquistar.^&#42;1^
+
+[[v30-8-14]]
+
+^<<v30-8-14,14>>^ Para que ainda nos determos? Reuni-vos, e vamos para as praças fortes: lá havemos de perecer. Porquanto o Senhor, nosso Deus, decidiu que pereçamos, fazendo-nos beber água envenenada, já que pecamos contra ele.
+
+[[v30-8-15]]
+
+^<<v30-8-15,15>>^ Aguardávamos a felicidade e nenhum bem encontramos, nenhum tempo de exaltação, e só vemos o terror.
+
+[[v30-8-16]]
+
+^<<v30-8-16,16>>^ Ouve-se, desde Dã, o relinchar dos cavalos, e toda a terra estremece com o estrépito de seus corcéis, que ao chegarem destroem a terra e o quanto nela existe: a cidade e os habitantes.
+
+[[v30-8-17]]
+
+^<<v30-8-17,17>>^ Vou lançar serpentes contra vós, e víboras insensíveis aos encantamentos, que vos morderão – oráculo do Senhor.
+
+[[v30-8-18]]
+
+^<<v30-8-18,18>>^ Onde encontrar consolo para a minha dor? Dentro de mim sofre o coração. Chega-me de uma terra longínqua
+
+[[v30-8-19]]
+
+^<<v30-8-19,19>>^ a voz amargurada da filha do meu povo: “Não está mais o Senhor em Sião? E nela não mora mais o seu rei?”. Por que me irritaram com seus ídolos, com as vãs divindades de outros países?
+
+[[v30-8-20]]
+
+^<<v30-8-20,20>>^ “Passou a ceifa; terminou a colheita, e não nos chegou a libertação.”
+
+[[v30-8-21]]
+
+^<<v30-8-21,21>>^ Faz-me sofrer a chaga da filha de meu povo, cobre-me o luto; apossa-se de mim a desolação.
+
+[[v30-8-22]]
+
+^<<v30-8-22,22>>^ Não haverá mais bálsamo de Galaad? Nem se poderá encontrar um médico? Por que, então, a ferida da filha de um povo não se há de cicatrizar?
+
+[[v30-8-23]]
+
+^<<v30-8-23,23>>^ Oh! Tivesse eu em minha cabeça um manancial, e em meus olhos uma fonte de lágrimas! Dia e noite eu choraria os mortos da filha de meu povo.
+
+'''
+
+xref:030-jeremias/030-jeremias-007.adoc#v30-7-0[&#60; Capítulo Anterior] | <<v30-8-0,Topo>> | xref:030-jeremias/030-jeremias-009.adoc#v30-9-0[Próximo Capítulo &#62;]

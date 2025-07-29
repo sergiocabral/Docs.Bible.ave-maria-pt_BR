@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v27-5-0]]
+=== Sabedoria, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O livro de Sabedoria, capítulo 5, fala sobre a recompensa dos justos e a punição dos ímpios após a morte. O capítulo descreve a angústia e desespero dos ímpios quando percebem que sua vida terrena chegou ao fim e serão julgados por suas ações. Os versículos a seguir abordam temas relacionados a esse tema:
+* Provérbios 11:18: "O ímpio ganha salário enganoso, mas quem semeia justiça recebe verdadeira recompensa." Esse versículo mostra a diferença entre as recompensas terrenas enganosas dos ímpios e a recompensa verdadeira e duradoura dos justos.
+* Eclesiastes 12:14: "Porque Deus trará a julgamento tudo o que foi feito, inclusive tudo o que está oculto, seja bom, seja mau." Esse versículo indica que, mesmo que as ações dos ímpios possam passar despercebidas aos olhos dos homens, elas não passarão despercebidas aos olhos de Deus, que trará tudo a julgamento.
+* Mateus 25:46: "E estes irão para o castigo eterno, mas os justos para a vida eterna." Esse versículo fala da separação final entre os ímpios e os justos, que receberão punição e recompensa eternas, respectivamente.
+* 2 Coríntios 5:10: "Porque todos devemos comparecer diante do tribunal de Cristo, para que cada um receba o que mereceu, segundo o bem ou o mal que tiver feito enquanto estava no corpo." Esse versículo reforça a ideia de que todos serão julgados por suas ações na vida terrena.
+* Apocalipse 20:12: "Vi os mortos, grandes e pequenos, em pé diante do trono, e livros foram abertos. Outro livro foi aberto, o livro da vida. Os mortos foram julgados de acordo com o que tinham feito, segundo o que estava registrado nos livros." Esse versículo descreve o julgamento final e como cada um será julgado de acordo com suas ações registradas nos livros.
+****
+
+[[v27-5-1]]
+
+^<<v27-5-1,1>>^ Então, com grande confiança, o justo se levantará em face dos que o perseguiram e zombaram dos seus males aqui embaixo.
+
+[[v27-5-2]]
+
+^<<v27-5-2,2>>^ Diante de sua vista serão presos de grande temor e tomados de assombro ao vê-lo salvo contra sua expectativa;^&#42;1^
+
+[[v27-5-3]]
+
+^<<v27-5-3,3>>^ tocados de arrependimento, dirão entre si: e, gemendo na angústia de sua alma, dirão:
+
+[[v27-5-4]]
+
+^<<v27-5-4,4>>^ “Ei-lo, aquele de quem outrora escarnecemos, e a quem loucamente cobrimos de insultos! Considerávamos sua vida como uma loucura, e sua morte como uma vergonha.
+
+[[v27-5-5]]
+
+^<<v27-5-5,5>>^ Como, pois, é ele do número dos filhos de Deus, e como está seu lugar entre os santos?
+
+[[v27-5-6]]
+
+^<<v27-5-6,6>>^ Portanto, nós nos desgarramos para longe da verdade: a luz da justiça não brilhou para nós e o sol não se levantou sobre nós!
+
+[[v27-5-7]]
+
+^<<v27-5-7,7>>^ Nós nos manchamos nas sendas da iniquidade e da perdição, erramos pelos desertos sem caminhos e não conhecemos o caminho do Senhor!
+
+[[v27-5-8]]
+
+^<<v27-5-8,8>>^ O que ganhamos com nosso orgulho, e que nos trouxe a riqueza unida à arrogância?
+
+[[v27-5-9]]
+
+^<<v27-5-9,9>>^ Tudo isso desapareceu como sombra, como notícia que passa;^&#42;1^
+
+[[v27-5-10]]
+
+^<<v27-5-10,10>>^ como navio que fende a água agitada, sem que se possa reencontrar o rasto de seu itinerário, nem a esteira de sua quilha nas ondas.
+
+[[v27-5-11]]
+
+^<<v27-5-11,11>>^ Como a ave que, atravessando o ar em seu voo, não deixa após si o traço de sua passagem, mas, ferindo o ar com suas penas, fende-o com a impetuosa força do bater de suas asas, atravessa-o e logo nem se nota indício de sua passagem;
+
+[[v27-5-12]]
+
+^<<v27-5-12,12>>^ como quando uma flecha, que é lançada ao alvo, o ar que ela cortou volta imediatamente à sua posição de modo que não se pode distinguir sua trajetória,
+
+[[v27-5-13]]
+
+^<<v27-5-13,13>>^ assim, também nós, apenas nascidos, cessamos de ser, e não podemos mostrar traço algum de virtude: é no mal que nossa vida se consumiu!”.
+
+[[v27-5-14]]
+
+^<<v27-5-14,14>>^ Assim a esperança do ímpio é como a poeira levada pelo vento, e como uma leve espuma espalhada pela tempestade; ela se dissipa como o fumo ao vento, e passa como a lembrança do hóspede de um dia.^&#42;1^
+
+[[v27-5-15]]
+
+^<<v27-5-15,15>>^ Mas os justos viverão eternamente; sua recompensa está no Senhor, e o Altíssimo cuidará deles.^&#42;1^
+
+[[v27-5-16]]
+
+^<<v27-5-16,16>>^ Por isso, receberão a régia coroa de glória, e o diadema da beleza da mão do Senhor, porque os cobrirá com sua direita, e os protegerá com seu braço.
+
+[[v27-5-17]]
+
+^<<v27-5-17,17>>^ Por armadura tomará seu zelo cioso, e armará as criaturas para se vingar de seus inimigos.
+
+[[v27-5-18]]
+
+^<<v27-5-18,18>>^ Tomará por couraça a justiça, e por capacete a integridade no julgamento.
+
+[[v27-5-19]]
+
+^<<v27-5-19,19>>^ Ele se cobrirá com a santidade, como com um impenetrável escudo,
+
+[[v27-5-20]]
+
+^<<v27-5-20,20>>^ afiará o gume de sua ira para lhe servir de espada, e o mundo se reunirá a ele na luta contra os insensatos.
+
+[[v27-5-21]]
+
+^<<v27-5-21,21>>^ Os raios partirão como flechas bem dirigidas, e, como de um arco bem distendido, voarão das nuvens para o alvo;
+
+[[v27-5-22]]
+
+^<<v27-5-22,22>>^ uma balista fará cair uma pesada saraiva de ira; a água do mar se levantará em turbilhão contra eles e os rios os arrastarão impetuosamente.
+
+[[v27-5-23]]
+
+^<<v27-5-23,23>>^ O sopro do Todo-poderoso se insurgirá contra eles e os dispersará como um furacão; a iniquidade fará de toda a terra um deserto, e a malícia derribará os tronos dos poderosos!^&#42;1^
+
+'''
+
+xref:027-sabedoria/027-sabedoria-004.adoc#v27-4-0[&#60; Capítulo Anterior] | <<v27-5-0,Topo>> | xref:027-sabedoria/027-sabedoria-006.adoc#v27-6-0[Próximo Capítulo &#62;]

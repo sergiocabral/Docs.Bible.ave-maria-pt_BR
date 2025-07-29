@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v29-43-0]]
+=== Isaías, 43
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 43 enfatiza o amor, proteção e presença de Deus em meio às dificuldades do Seu povo. Abaixo estão cinco versículos de outros livros da Bíblia que estão relacionados com os temas abordados em Isaías 43.
+* Salmos 139:7-10: "Para onde poderia eu escapar do teu Espírito? Para onde poderia fugir da tua presença? Se eu subir aos céus, lá estás; se eu fizer a minha cama na sepultura, também lá estás. Se eu subir com as asas da alvorada e morar na extremidade do mar, mesmo ali a tua mão direita me guiará e me susterá." Este salmo enfatiza a presença constante de Deus em nossas vidas, não importa onde estejamos, assim como Isaías 43 também destaca.
+* Salmos 46:1-2: "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade. Por isso não temeremos, ainda que a terra trema e os montes afundem no coração do mar." Este versículo enfatiza a proteção de Deus em meio às dificuldades, um tema semelhante ao encontrado em Isaías 43.
+* Romanos 8:38-39: "Pois estou convencido de que nem morte nem vida, nem anjos nem demônios, nem o presente nem o futuro, nem quaisquer poderes, nem altura nem profundidade, nem qualquer outra coisa na criação será capaz de nos separar do amor de Deus que está em Cristo Jesus, nosso Senhor." Este versículo enfatiza o amor inabalável de Deus por Seu povo, um tema presente em Isaías 43.
+* 2 Coríntios 4:8-9: "De todo lado somos pressionados, mas não desanimados; ficamos perplexos, mas não desesperados; perseguidos, mas não abandonados; abatidos, mas não destruídos." Este versículo encoraja a perseverança em meio às dificuldades, um tema semelhante ao encontrado em Isaías 43.
+* Tiago 1:2-4: "Meus irmãos, considerem motivo de grande alegria o fato de passarem por diversas provações, pois vocês sabem que a prova da sua fé produz perseverança. E a perseverança deve ter ação completa, a fim de que vocês sejam maduros e íntegros, sem lhes faltar coisa alguma." Este versículo enfatiza a importância das provações e dificuldades em nosso crescimento espiritual, um tema presente em Isaías 43.
+****
+
+[[v29-43-1]]
+
+^<<v29-43-1,1>>^ E agora, eis o que diz o Senhor, aquele que te criou, Jacó, e te formou, Israel: “Nada temas, pois eu te resgato, eu te chamo pelo nome, és meu.
+
+[[v29-43-2]]
+
+^<<v29-43-2,2>>^ Se tiveres de atravessar a água, estarei contigo. E os rios não te submergirão; se caminhares pelo fogo, não te queimarás, e a chama não te consumirá.
+
+[[v29-43-3]]
+
+^<<v29-43-3,3>>^ Pois eu sou o Senhor, teu Deus, o Santo de Israel, teu salvador. Dou o Egito por teu resgate, a Etiópia e Sabá em compensação.^&#42;1^
+
+[[v29-43-4]]
+
+^<<v29-43-4,4>>^ Porque és precioso a meus olhos, porque eu te aprecio e te amo, permuto reinos por ti, entrego nações em troca de ti.
+
+[[v29-43-5]]
+
+^<<v29-43-5,5>>^ Fica tranquilo, pois estou contigo, do oriente trarei tua raça, e do ocidente eu te reunirei.
+
+[[v29-43-6]]
+
+^<<v29-43-6,6>>^ ‘Devolve-os!’ – direi ao setentrião e ao meio-dia –: ‘Não os retenhas! Traze meus filhos das longínquas paragens, e minhas filhas dos confins da terra;
+
+[[v29-43-7]]
+
+^<<v29-43-7,7>>^ todos aqueles que trazem meu nome, e que criei para minha glória’.
+
+[[v29-43-8]]
+
+^<<v29-43-8,8>>^ Fazei comparecer o povo cego apesar de ter olhos, e os surdos que têm ouvidos!^&#42;1^
+
+[[v29-43-9]]
+
+^<<v29-43-9,9>>^ Que todas as nações se congreguem e que os povos se reúnam! Quem dentre eles soube predizer o que se passa, e foi o primeiro que no-lo fez saber? Que apresentem suas testemunhas para justificar suas pretensões, que sejam ouvidas para que se possa dizer: ‘É exato’.”
+
+[[v29-43-10]]
+
+^<<v29-43-10,10>>^ “Vós sois minhas testemunhas, diz o Senhor, e meus servos que eu escolhi, a fim de que se reconheça e que me acreditem e que se compreenda que sou eu. Nenhum deus foi formado antes de mim, e não haverá outros depois de mim.^&#42;1^
+
+[[v29-43-11]]
+
+^<<v29-43-11,11>>^ Sou eu, sou eu o Senhor, não há outro salvador a não ser eu.
+
+[[v29-43-12]]
+
+^<<v29-43-12,12>>^ Fui eu quem predisse e salvei, e não um deus estranho entre vós. “Vós sois minhas testemunhas” – diz o Senhor –, “eu sou Deus
+
+[[v29-43-13]]
+
+^<<v29-43-13,13>>^ desde toda a eternidade. Ninguém poderia escapar de minha mão; quando executo, quem poderia destruir minha obra?’’
+
+[[v29-43-14]]
+
+^<<v29-43-14,14>>^ Eis o que diz o Senhor, vosso Redentor, o Santo de Israel: “Por vossa causa, envio a Babilônia, a fim de fazer cair os ferrolhos dos cárceres, e os caldeus se lamentarão em altos brados.^&#42;1^
+
+[[v29-43-15]]
+
+^<<v29-43-15,15>>^ Eu sou o Senhor, vosso Santo, o criador de Israel, vosso rei”.
+
+[[v29-43-16]]
+
+^<<v29-43-16,16>>^ Eis o que diz o Senhor que abriu uma passagem através do mar, um caminho em meio às ondas,^&#42;1^
+
+[[v29-43-17]]
+
+^<<v29-43-17,17>>^ que pôs em campo carros e cavalos, a tropa de soldados e chefes: “Eles caíram então para nunca mais se levantar; extinguiram-se como um pavio de vela.
+
+[[v29-43-18]]
+
+^<<v29-43-18,18>>^ Não vos lembreis mais dos acontecimentos de outrora, não recordeis mais as coisas antigas,
+
+[[v29-43-19]]
+
+^<<v29-43-19,19>>^ porque eis que vou fazer obra nova, a qual já surge: não a vedes? Vou abrir uma via pelo deserto, e fazer correr arroios pela estepe.
+
+[[v29-43-20]]
+
+^<<v29-43-20,20>>^ Os animais selvagens me darão glória os chacais e as avestruzes, pois terei feito jorrar água no deserto, e correr arroios na estepe, para saciar a sede de meu povo, meu eleito;
+
+[[v29-43-21]]
+
+^<<v29-43-21,21>>^ o povo, que formei para mim, contará meus feitos.
+
+[[v29-43-22]]
+
+^<<v29-43-22,22>>^ No entanto, não foste tu que me chamaste, Jacó, tu não te fatigaste por mim, Israel.^&#42;1^
+
+[[v29-43-23]]
+
+^<<v29-43-23,23>>^ Não me ofereceste carneiros em holocausto, nem me honraste com sacrifícios; não cobrei de ti um pesado imposto em oblações, nem te sobrecarreguei exigindo incenso.
+
+[[v29-43-24]]
+
+^<<v29-43-24,24>>^ Não me compraste, a preço alto, cana perfumada, nem me fartaste com a gordura das vítimas. Mas me atormentaste com teus pecados, cansaste-me com tuas iniquidades.
+
+[[v29-43-25]]
+
+^<<v29-43-25,25>>^ Sempre sou eu quem deve apagar tuas faltas, e não mais me lembrar de teus pecados.^&#42;1^
+
+[[v29-43-26]]
+
+^<<v29-43-26,26>>^ Refresca tua memória e discutamos: apresenta tuas contas, para te justificar!
+
+[[v29-43-27]]
+
+^<<v29-43-27,27>>^ Já teu primeiro pai pecou, teus representantes me ofenderam,^&#42;1^
+
+[[v29-43-28]]
+
+^<<v29-43-28,28>>^ teus príncipes profanaram meu santuário. Então, entreguei Jacó ao anátema e Israel às injúrias”.
+
+'''
+
+xref:029-isaias/029-isaias-042.adoc#v29-42-0[&#60; Capítulo Anterior] | <<v29-43-0,Topo>> | xref:029-isaias/029-isaias-044.adoc#v29-44-0[Próximo Capítulo &#62;]

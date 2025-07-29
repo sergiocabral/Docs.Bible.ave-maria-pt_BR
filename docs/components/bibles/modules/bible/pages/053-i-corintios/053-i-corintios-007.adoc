@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v53-7-0]]
+=== I Coríntios, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 7 de 1 Coríntios aborda diversas questões relacionadas ao casamento e à vida de solteiro, como a importância da abstinência sexual, a possibilidade de divórcio e o estado ideal de vida para servir a Deus. Os versículos a seguir são exemplos de passagens bíblicas que tratam de temas semelhantes:
+* Provérbios 5:18-19: "Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade. Como cerva amorosa, e gazela graciosa, os seus seios te saciem em todo o tempo; e pelo seu amor sejas atraído perpetuamente." Este versículo destaca a importância do casamento e da satisfação sexual dentro dele.
+* Mateus 19:9: "Eu vos digo, porém, que qualquer que repudiar sua mulher, não sendo por causa de prostituição, e casar com outra, comete adultério; e o que casar com a repudiada também comete adultério." Este versículo aborda a possibilidade de divórcio, que também é discutida em 1 Coríntios 7.
+* Provérbios 31:10-12: "Mulher virtuosa, quem a achará? O seu valor muito excede o de rubis. O coração do seu marido confia nela, e não lhe faltará coisa alguma. Ela lhe faz bem e não mal, todos os dias da sua vida." Este versículo apresenta a figura da mulher virtuosa, que é uma referência para os cristãos que desejam se casar.
+* 1 Timóteo 5:8: "Mas, se alguém não tem cuidado dos seus, e principalmente dos da sua família, negou a fé, e é pior do que o infiel." Este versículo ressalta a importância da responsabilidade familiar e da proteção dos entes queridos.
+* 1 Pedro 3:7: "Igualmente vós, maridos, coabitai com elas com entendimento, dando honra à mulher, como vaso mais fraco; como sendo vós os seus coerdeiros da graça da vida; para que não sejam impedidas as vossas orações." Este versículo destaca a importância do amor, respeito e compreensão mútua entre marido e mulher, que são temas discutidos em 1 Coríntios 7.
+****
+
+[[v53-7-1]]
+
+^<<v53-7-1,1>>^ Agora, a respeito das coisas que me escrevestes. Penso que seria bom ao homem não tocar mulher alguma.
+
+[[v53-7-2]]
+
+^<<v53-7-2,2>>^ Todavia, considerando o perigo da incontinência, cada um tenha sua mulher, e cada mulher tenha seu marido.
+
+[[v53-7-3]]
+
+^<<v53-7-3,3>>^ O marido cumpra o seu dever para com a sua esposa e da mesma forma também a esposa o cumpra para com o marido.
+
+[[v53-7-4]]
+
+^<<v53-7-4,4>>^ A mulher não pode dispor de seu corpo: ele pertence ao seu marido. E da mesma forma o marido não pode dispor do seu corpo: ele pertence à sua esposa.
+
+[[v53-7-5]]
+
+^<<v53-7-5,5>>^ Não vos recuseis um ao outro, a não ser de comum acordo, por algum tempo, para vos aplicardes à oração; e depois retornai novamente um para o outro, para que não vos tente Satanás por vossa incontinência.
+
+[[v53-7-6]]
+
+^<<v53-7-6,6>>^ Isto digo como concessão, não como ordem.
+
+[[v53-7-7]]
+
+^<<v53-7-7,7>>^ Pois quereria que todos fossem como eu; mas cada um tem de Deus um dom particular: uns este, outros aquele.
+
+[[v53-7-8]]
+
+^<<v53-7-8,8>>^ Aos solteiros e às viúvas, digo que lhes é bom se permanecerem assim, como eu.
+
+[[v53-7-9]]
+
+^<<v53-7-9,9>>^ Mas, se não podem guardar a continência, casem-se. É melhor casar do que abrasar-se.
+
+[[v53-7-10]]
+
+^<<v53-7-10,10>>^ Aos casados mando (não eu, mas o Senhor) que a mulher não se separe do marido.^&#42;1^
+
+[[v53-7-11]]
+
+^<<v53-7-11,11>>^ E, se ela estiver separada, que fique sem se casar, ou que se reconcilie com seu marido. Igualmente, o marido não repudie sua mulher.
+
+[[v53-7-12]]
+
+^<<v53-7-12,12>>^ Aos outros, digo eu, não o Senhor: se um irmão desposou uma mulher pagã (“sem a fé”) e esta consente em morar com ele, não a repudie.
+
+[[v53-7-13]]
+
+^<<v53-7-13,13>>^ Se uma mulher desposou um marido pagão e este consente em coabitar com ela, não repudie o marido.
+
+[[v53-7-14]]
+
+^<<v53-7-14,14>>^ Porque o marido que não tem a fé é santificado por sua mulher; assim como a mulher que não tem a fé é santificada pelo marido que recebeu a fé. Do contrário, os vossos filhos seriam impuros quando, na realidade, são santos.^&#42;1^
+
+[[v53-7-15]]
+
+^<<v53-7-15,15>>^ Mas, se o pagão quer separar-se, que se separe; em tal caso, nem o irmão nem a irmã estão ligados. Deus vos chamou a viver em paz.^&#42;1^
+
+[[v53-7-16]]
+
+^<<v53-7-16,16>>^ Aliás, como sabes tu, ó mulher, se salvarás o teu marido? Ou como sabes tu, ó marido, se salvarás a tua mulher?
+
+[[v53-7-17]]
+
+^<<v53-7-17,17>>^ Quanto ao mais, que cada um viva na condição na qual o Senhor o colocou ou em que o Senhor o chamou. É o que recomendo a todas as igrejas.
+
+[[v53-7-18]]
+
+^<<v53-7-18,18>>^ O que era circunciso quando foi chamado (à fé), não dissimule sua circuncisão. Quem era incircunciso não se faça circuncidar.
+
+[[v53-7-19]]
+
+^<<v53-7-19,19>>^ A circuncisão de nada vale, e a incircuncisão de nada vale, o que importa é a observância dos mandamentos de Deus.
+
+[[v53-7-20]]
+
+^<<v53-7-20,20>>^ Cada um permaneça na profissão em que foi chamado por Deus.
+
+[[v53-7-21]]
+
+^<<v53-7-21,21>>^ Eras escravo, quando Deus te chamou? Não te preocupes disto. Mesmo que possas tornar-te livre, antes cuida de aproveitar melhor o teu chamado.^&#42;1^
+
+[[v53-7-22]]
+
+^<<v53-7-22,22>>^ Pois o escravo, que foi chamado pelo Senhor, conquistou a liberdade do Senhor. Da mesma forma, quem era livre por ocasião do chamado, fez-se escravo de Cristo.
+
+[[v53-7-23]]
+
+^<<v53-7-23,23>>^ Por alto preço fostes comprados, não vos torneis escravos de homens.
+
+[[v53-7-24]]
+
+^<<v53-7-24,24>>^ Irmãos, cada um permaneça diante de Deus na condição em que estava quando Deus o chamou.
+
+[[v53-7-25]]
+
+^<<v53-7-25,25>>^ A respeito das pessoas virgens, não tenho mandamento do Senhor; porém, dou o meu conselho, como homem que recebeu da misericórdia do Senhor a graça de ser digno de confiança.
+
+[[v53-7-26]]
+
+^<<v53-7-26,26>>^ Julgo, pois, em razão das dificuldades presentes, ser conveniente ao homem ficar assim como é.^&#42;1^
+
+[[v53-7-27]]
+
+^<<v53-7-27,27>>^ Estás casado? Não procures desligar-te. Não estás casado? Não procures mulher.
+
+[[v53-7-28]]
+
+^<<v53-7-28,28>>^ Mas, se queres casar-te, não pecas; assim como a jovem que se casa não peca. Todavia, padecerão a tribulação da carne; e eu quisera poupar-vos.
+
+[[v53-7-29]]
+
+^<<v53-7-29,29>>^ Mas eis o que vos digo, irmãos: o tempo é breve. O que importa é que os que têm mulher vivam como se a não tivessem;^&#42;1^
+
+[[v53-7-30]]
+
+^<<v53-7-30,30>>^ os que choram, como se não chorassem; os que se alegram, como se não se alegrassem; os que compram, como se não possuíssem;
+
+[[v53-7-31]]
+
+^<<v53-7-31,31>>^ os que usam deste mundo, como se dele não usassem. Porque a figura deste mundo passa.
+
+[[v53-7-32]]
+
+^<<v53-7-32,32>>^ Quisera ver-vos livres de toda preocupação. O solteiro cuida das coisas que são do Senhor, de como agradar ao Senhor.
+
+[[v53-7-33]]
+
+^<<v53-7-33,33>>^ O casado preocupa-se com as coisas do mundo, procurando agradar à sua esposa.
+
+[[v53-7-34]]
+
+^<<v53-7-34,34>>^ A mesma diferença existe com a mulher solteira ou a virgem. Aquela que não é casada cuida das coisas do Senhor, para ser santa no corpo e no espírito; mas a casada cuida das coisas do mundo, procurando agradar ao marido.
+
+[[v53-7-35]]
+
+^<<v53-7-35,35>>^ Digo isto para vosso proveito, não para vos estender um laço, mas para vos ensinar o que melhor convém, o que vos poderá unir ao Senhor sem partilha.
+
+[[v53-7-36]]
+
+^<<v53-7-36,36>>^ Se alguém julga que é inconveniente para a sua filha ultrapassar a idade de casar-se e que é seu dever casá-la, faça-o como quiser: não há falta alguma em fazê-la casar-se.
+
+[[v53-7-37]]
+
+^<<v53-7-37,37>>^ Mas aquele que, sem nenhum constrangimento e com perfeita liberdade de escolha, tiver tomado no seu coração a decisão de guardar a sua filha virgem, procede bem.
+
+[[v53-7-38]]
+
+^<<v53-7-38,38>>^ Em suma, aquele que casa a sua filha faz bem; e aquele que não a casa, faz ainda melhor.^&#42;1^
+
+[[v53-7-39]]
+
+^<<v53-7-39,39>>^ A mulher está ligada ao marido enquanto ele viver. Mas, se morrer o marido, ela fica livre e poderá casar-se com quem quiser, contanto que seja no Senhor.
+
+[[v53-7-40]]
+
+^<<v53-7-40,40>>^ Contudo, na minha opinião, ela será mais feliz se permanecer como está. E creio que também eu tenho o Espírito de Deus.
+
+'''
+
+xref:053-i-corintios/053-i-corintios-006.adoc#v53-6-0[&#60; Capítulo Anterior] | <<v53-7-0,Topo>> | xref:053-i-corintios/053-i-corintios-008.adoc#v53-8-0[Próximo Capítulo &#62;]

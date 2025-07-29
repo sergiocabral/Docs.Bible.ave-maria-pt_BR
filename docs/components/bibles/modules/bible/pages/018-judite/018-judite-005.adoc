@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v18-5-0]]
+=== Judite, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Judite 5 narra a história de como os líderes dos ammonitas convocaram os governantes de outras nações vizinhas para se unirem e lutarem contra Israel. Eles mencionaram a história do povo de Israel, mas apresentaram informações distorcidas e enganosas para justificar sua posição. Abaixo estão cinco versículos relacionados com temas abordados em Judite 5:
+* Juízes 5:8: "Escolheram novos deuses; então houve guerra às portas; nem um escudo, nem uma lança foi visto entre quarenta mil em Israel." Este versículo destaca como a idolatria e a infidelidade de Israel a Deus levaram à sua fraqueza e vulnerabilidade diante de seus inimigos.
+* Juízes 11:24: "Não ocupaste tu o que Quemô, teu deus, te desapossou? E não possuímos nós tudo o que o SENHOR, nosso Deus, nos desapossou diante de nós?" Este versículo é semelhante à mensagem de Judite 5, onde os ammonitas afirmam que a terra de Israel originalmente pertencia a eles e não aos israelitas.
+* Êxodo 23:32-33: "Não farás aliança com eles, nem com seus deuses. E não habitarão na tua terra, para que não façam pecar contra mim; porque, se servires a seus deuses, certamente te serão por laço." Esse versículo enfatiza a importância de Israel não fazer alianças com nações idólatras e não permitir que eles habitassem em sua terra.
+* Números 20:14-21: Este trecho descreve como Edom se recusou a permitir que Israel passasse por sua terra em sua jornada para Canaã. Esse evento ilustra a hostilidade de nações vizinhas em relação a Israel, que é mencionada em Judite 5.
+* Isaías 36:18-20: Este versículo descreve como o rei assírio Senaqueribe tentou persuadir o povo de Jerusalém a se render, mencionando como outros países e povos foram derrotados pelo exército assírio. Isso é semelhante à tática usada pelos líderes ammonitas em Judite 5, onde eles apresentam argumentos enganosos para justificar sua posição contra Israel.
+****
+
+[[v18-5-1]]
+
+^<<v18-5-1,1>>^ Holofernes, marechal do exército assírio, foi avisado de que os israelitas se preparavam para a guerra e que haviam bloqueado as passagens dos montes.
+
+[[v18-5-2]]
+
+^<<v18-5-2,2>>^ Ouvindo isso, Holofernes foi tomado de grande cólera. Convocou, então, todos os chefes de Moab e os generais dos amonitas e disse-lhes:
+
+[[v18-5-3]]
+
+^<<v18-5-3,3>>^ “Dizei-me quem é esse povo que ocupa as montanhas, quais as cidades em que habitam e qual o efetivo do seu exército? Em que consistem o seu poder e a sua força, e quem é o seu chefe?
+
+[[v18-5-4]]
+
+^<<v18-5-4,4>>^ E por que motivo foi ele o único dentre todos os povos do oriente que nos desprezou, recusando-se a sair ao nosso encontro para receber-nos pacificamente?”.
+
+[[v18-5-5]]
+
+^<<v18-5-5,5>>^ Aquior, chefe dos amonitas, respondeu-lhe: “Meu senhor, se te dignas ouvir-me, eu te direi a verdade acerca desse povo que habita nos montes e nenhuma mentira sairá de minha boca.^&#42;1^
+
+[[v18-5-6]]
+
+^<<v18-5-6,6>>^ Esse povo é da raça dos caldeus;
+
+[[v18-5-7]]
+
+^<<v18-5-7,7>>^ habitaram primeiramente na Mesopotâmia, porque recusavam seguir os deuses de seus pais que estavam na Caldeia.
+
+[[v18-5-8]]
+
+^<<v18-5-8,8>>^ Abandonaram os ritos de seus ancestrais que honravam múltiplas divindades
+
+[[v18-5-9]]
+
+^<<v18-5-9,9>>^ e passaram a adorar o Deus único do céu, o qual lhes ordenou que saíssem daquele país e fossem estabelecer-se na terra de Canaã. Depois disso, sobreveio a toda a terra uma grande fome e desceram ao Egito onde, durante quatrocentos anos, multiplicaram-se de tal forma que se tornaram uma multidão inumerável.
+
+[[v18-5-10]]
+
+^<<v18-5-10,10>>^ Oprimidos pelo rei do Egito e obrigados a trabalhar na fabricação de tijolos e de argamassa para a construção de suas cidades, clamaram ao seu Senhor e este feriu toda a terra do Egito com vários flagelos.
+
+[[v18-5-11]]
+
+^<<v18-5-11,11>>^ A praga cessou quando os egípcios os expulsaram de sua terra; mas quiseram retomá-los para sujeitá-los de novo à escravidão.
+
+[[v18-5-12]]
+
+^<<v18-5-12,12>>^ Eles fugiram. O Deus do céu abriu-lhes o mar de tal modo que as águas tornaram-se de cada lado sólidas como um muro e eles atravessaram a pé enxuto pelo fundo do mar.
+
+[[v18-5-13]]
+
+^<<v18-5-13,13>>^ Entretanto, vindo em sua perseguição o inumerável exército dos egípcios, foi de tal maneira envolvido pelas águas que não escapou um sequer que pudesse contar à posteridade o acontecimento.
+
+[[v18-5-14]]
+
+^<<v18-5-14,14>>^ Ao sair do mar Vermelho, ocuparam os desertos do monte Sinai, onde nunca homem algum pôde habitar, nem um ser humano se fixar.
+
+[[v18-5-15]]
+
+^<<v18-5-15,15>>^ Ali, tornaram as fontes de águas amargas, em águas doces e potáveis, e por um espaço de quarenta anos receberam um alimento vindo do céu.
+
+[[v18-5-16]]
+
+^<<v18-5-16,16>>^ Por toda a parte onde entraram sem arco e sem flecha, sem escudos e sem espada, Deus combateu por eles e venceu.
+
+[[v18-5-17]]
+
+^<<v18-5-17,17>>^ Ninguém jamais pôde insultar esse povo a não ser quando ele se afastou do culto do Senhor, seu Deus.
+
+[[v18-5-18]]
+
+^<<v18-5-18,18>>^ Mas sempre que, ao lado de seu Deus, eles adoravam outro, logo eram entregues à pilhagem, à espada e à vergonha.
+
+[[v18-5-19]]
+
+^<<v18-5-19,19>>^ E todas as vezes que se arrependiam de ter abandonado o culto do seu Deus, o Deus do céu, dava-lhes força para resistir.
+
+[[v18-5-20]]
+
+^<<v18-5-20,20>>^ Finalmente, derrotaram os reis cananeus, jebuseus, ferezeus, hiteus, heveus, amorreus e todos os valentes de Hesebon e tomaram posse de suas terras e de suas cidades.
+
+[[v18-5-21]]
+
+^<<v18-5-21,21>>^ Enquanto não pecavam na presença de seu Deus, eram bem-sucedidos, porque o seu Deus odeia a iniquidade.
+
+[[v18-5-22]]
+
+^<<v18-5-22,22>>^ Há alguns anos, com efeito, tendo-se desviado do caminho em que Deus lhes tinha ordenado trilhar, foram derrotados nos combates contra várias nações e muitos dentre eles levados para o cativeiro.
+
+[[v18-5-23]]
+
+^<<v18-5-23,23>>^ Mas converteram-se de novo ao Senhor, seu Deus, e depois dessa dispersão acham-se reunidos desde há pouco: retomaram a posse de suas montanhas e de Jerusalém onde está seu santuário.
+
+[[v18-5-24]]
+
+^<<v18-5-24,24>>^ Agora, pois, meu senhor, informa-te se esse povo cometeu alguma iniquidade na presença de seu Deus e então subamos e o ataquemos, porque o seu Deus os entregará nas tuas mãos e ficarão sujeitos ao teu poder.
+
+[[v18-5-25]]
+
+^<<v18-5-25,25>>^ Mas se esse povo não está manchado de nenhuma ofensa para com o seu Deus, não o poderemos enfrentar, porque o seu Deus o defenderá e seremos o opróbrio de toda a terra”.
+
+[[v18-5-26]]
+
+^<<v18-5-26,26>>^ Calando-se Aquior, todos os grandes de Holofernes se indignaram e queriam matá-lo.
+
+[[v18-5-27]]
+
+^<<v18-5-27,27>>^ E diziam entre si: “Quem é esse homem que pretende que os israelitas possam resistir ao rei Nabucodonosor e ao seu exército, sendo eles homens sem armas, sem força e ignorantes da estratégia?
+
+[[v18-5-28]]
+
+^<<v18-5-28,28>>^ Para mostrarmos a Aquior que ele nos engana, vamos às montanhas e, quando tivermos capturado seus príncipes, o cortaremos em pedaços.
+
+[[v18-5-29]]
+
+^<<v18-5-29,29>>^ É preciso que toda a nação saiba que Nabucodonosor é o deus da terra e que não há outro fora dele”.
+
+'''
+
+xref:018-judite/018-judite-004.adoc#v18-4-0[&#60; Capítulo Anterior] | <<v18-5-0,Topo>> | xref:018-judite/018-judite-006.adoc#v18-6-0[Próximo Capítulo &#62;]

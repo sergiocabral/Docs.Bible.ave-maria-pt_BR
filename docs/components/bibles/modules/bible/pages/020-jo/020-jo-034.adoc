@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v20-34-0]]
+=== Jó, 34
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jó 34 apresenta as palavras de Eliú, que continua a refletir sobre o sofrimento de Jó e a justiça de Deus. Ele argumenta que Deus é justo e que todos são responsáveis por suas ações diante dEle. Eliú enfatiza que Deus não é injusto, mas que muitas vezes as pessoas não entendem suas ações. Para fornecer cinco versículos relacionados com os temas abordados em Jó 34, os versículos de Jó 34 serão excluídos dos resultados.
+* Romanos 2:6-8: "Ele retribuirá a cada um segundo o seu procedimento: a vida eterna aos que, persistindo em fazer o bem, buscam glória, honra e imortalidade; mas ira e indignação aos que são egoístas, que rejeitam a verdade e seguem a injustiça." Este versículo de Romanos destaca que Deus retribuirá a cada um segundo suas ações e escolhas, tanto no bem como no mal.
+* Salmos 33:5: "Ele ama a justiça e o direito; a terra está cheia da bondade do Senhor." Este versículo de Salmos destaca que Deus ama a justiça e a retidão, e que sua bondade é evidente em toda a terra.
+* Provérbios 24:12: "Se disseres: Eis que não o sabemos; porventura não o considerará aquele que pondera os corações? Não o saberá aquele que atenta para a tua alma? Não dará ele ao homem conforme a sua obra?" Este versículo de Provérbios destaca que Deus conhece o coração das pessoas e retribuirá a cada um segundo suas ações.
+* Isaías 59:1-2: "Eis que a mão do Senhor não está encolhida, para que não possa salvar; nem surdo o seu ouvido, para que não possa ouvir; mas as vossas iniqüidades fazem separação entre vós e o vosso Deus; e os vossos pecados encobrem o seu rosto de vós, para que vos não ouça." Este versículo de Isaías destaca que Deus não é incapaz de agir, mas que o pecado das pessoas pode afastá-las dEle.
+* Salmos 11:7: "Porque o Senhor é justo, ele ama a justiça; os retos, pois, contemplarão o seu rosto." Este versículo de Salmos enfatiza que Deus é justo e ama a justiça, e que aqueles que vivem com retidão terão a oportunidade de contemplar a face de Deus.
+****
+
+[[v20-34-1]]
+
+^<<v20-34-1,1>>^ Eliú retomou a palavra nestes termos:
+
+[[v20-34-2]]
+
+^<<v20-34-2,2>>^ “Sábios, ouvi meu discurso; eruditos, prestai atenção.
+
+[[v20-34-3]]
+
+^<<v20-34-3,3>>^ Pois o ouvido discerne o valor das palavras como o paladar saboreia as iguarias.
+
+[[v20-34-4]]
+
+^<<v20-34-4,4>>^ Procuremos escolher o que é justo e conhecer entre nós o que é bom.
+
+[[v20-34-5]]
+
+^<<v20-34-5,5>>^ Jó disse: ‘Eu sou inocente, mas Deus recusa fazer-me justiça.
+
+[[v20-34-6]]
+
+^<<v20-34-6,6>>^ A despeito de meu direito, passo por mentiroso; minha ferida é incurável, sem que eu tenha pecado’.
+
+[[v20-34-7]]
+
+^<<v20-34-7,7>>^ Existe um homem como Jó, que bebe a blasfêmia como quem bebe água,
+
+[[v20-34-8]]
+
+^<<v20-34-8,8>>^ que anda de par com os ímpios e caminha com os perversos?
+
+[[v20-34-9]]
+
+^<<v20-34-9,9>>^ Pois ele disse: ‘O homem não ganha nada em ser agradável a Deus’.
+
+[[v20-34-10]]
+
+^<<v20-34-10,10>>^ Ouvi-me, pois, homens sensatos: longe de Deus a injustiça, longe do Todo-poderoso a iniquidade!
+
+[[v20-34-11]]
+
+^<<v20-34-11,11>>^ Ele trata o homem conforme seus atos e dá a cada um o que merece.
+
+[[v20-34-12]]
+
+^<<v20-34-12,12>>^ Pois, Deus não é injusto e o Todo-poderoso não falseia o direito.
+
+[[v20-34-13]]
+
+^<<v20-34-13,13>>^ Quem lhe confiou a administração da terra? Quem lhe entregou o universo?
+
+[[v20-34-14]]
+
+^<<v20-34-14,14>>^ Se lhe retomasse o sopro, se lhe retirasse o alento,
+
+[[v20-34-15]]
+
+^<<v20-34-15,15>>^ toda a carne expiraria no mesmo instante, e o homem voltaria ao pó.
+
+[[v20-34-16]]
+
+^<<v20-34-16,16>>^ Se tens inteligência, escuta isto, e dá ouvidos ao som de minhas palavras!
+
+[[v20-34-17]]
+
+^<<v20-34-17,17>>^ Acaso um inimigo do direito poderia governar? Pode o Justo, o Poderoso cometer a iniquidade?
+
+[[v20-34-18]]
+
+^<<v20-34-18,18>>^ Ele que disse a um rei: ‘Malvado!’. Ou aos príncipes: ‘Celerados!’.
+
+[[v20-34-19]]
+
+^<<v20-34-19,19>>^ Ele não tem preferência pelos grandes, nem tem mais consideração pelos ricos do que pelos pobres, pois são todos obras de suas mãos.
+
+[[v20-34-20]]
+
+^<<v20-34-20,20>>^ Subitamente, perecem no meio da noite; os povos vacilam e passam, o poderoso desaparece, sem o socorro de mão alguma.^&#42;1^
+
+[[v20-34-21]]
+
+^<<v20-34-21,21>>^ Pois Deus olha para a conduta de cada um e observa todos os seus passos.
+
+[[v20-34-22]]
+
+^<<v20-34-22,22>>^ Não há obscuridade, nem trevas onde o iníquo possa esconder-se.
+
+[[v20-34-23]]
+
+^<<v20-34-23,23>>^ Pois não precisa olhar duas vezes para um homem para citá-lo em justiça consigo.
+
+[[v20-34-24]]
+
+^<<v20-34-24,24>>^ Abate os poderosos sem inquérito e põe outros em lugar deles.
+
+[[v20-34-25]]
+
+^<<v20-34-25,25>>^ Pois conhece as suas obras, derruba-os à noite e são esmagados.
+
+[[v20-34-26]]
+
+^<<v20-34-26,26>>^ Fere-os como ímpios no lugar onde são vistos,
+
+[[v20-34-27]]
+
+^<<v20-34-27,27>>^ porque se afastaram dele e não quiseram conhecer nenhum de seus caminhos.
+
+[[v20-34-28]]
+
+^<<v20-34-28,28>>^ Fizeram chegar até Deus o clamor do pobre e tornando-o atento ao grito do infeliz.
+
+[[v20-34-29]]
+
+^<<v20-34-29,29>>^ Se ele dá a paz, quem poderá censurá-lo? Se oculta sua face, quem poderá contemplá-lo?
+
+[[v20-34-30]]
+
+^<<v20-34-30,30>>^ Assim trata ele o povo e o indivíduo de maneira que o ímpio não venha a reinar, e já não seja uma armadilha para o povo.
+
+[[v20-34-31]]
+
+^<<v20-34-31,31>>^ Se alguém diz a Deus: ‘Fui seduzido, não mais pecarei,
+
+[[v20-34-32]]
+
+^<<v20-34-32,32>>^ ensina-me o que ignoro; se cometi o mal, não mais o farei!’.
+
+[[v20-34-33]]
+
+^<<v20-34-33,33>>^ Julgas, então, que ele deve punir, já que rejeitaste suas ordens? És tu quem deves escolher, não eu; dize, pois, o que sabes.^&#42;1^
+
+[[v20-34-34]]
+
+^<<v20-34-34,34>>^ As pessoas sensatas me dirão, como qualquer homem sábio que me ouve:
+
+[[v20-34-35]]
+
+^<<v20-34-35,35>>^ ‘Jó não falou conforme a razão, falta-lhe bom senso às palavras!’.
+
+[[v20-34-36]]
+
+^<<v20-34-36,36>>^ Pois bem, que Jó seja provado até o fim, já que suas respostas são próprias de um ímpio.
+
+[[v20-34-37]]
+
+^<<v20-34-37,37>>^ Porque a seus pecados acrescenta a revolta. Entre nós, com zombaria, bate as mãos e multiplica as palavras contra Deus”.^&#42;1^
+
+'''
+
+xref:020-jo/020-jo-033.adoc#v20-33-0[&#60; Capítulo Anterior] | <<v20-34-0,Topo>> | xref:020-jo/020-jo-035.adoc#v20-35-0[Próximo Capítulo &#62;]

@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v29-56-0]]
+=== Isaías, 56
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 56 de Isaías trata da salvação para todos, não importando a sua condição social, raça ou etnia. Deus convida todos a se unirem a Ele e promete abençoar a todos que o seguem. Além disso, o capítulo também enfatiza a necessidade de justiça e retidão. Abaixo estão cinco versículos relacionados com os temas abordados em Isaías 56:
+* Gênesis 12:3: "Abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem; por meio de você serão abençoados todos os povos da terra". Esse versículo mostra que a promessa de Deus para Abraão se estende a todas as nações, e que através dele todos os povos da terra seriam abençoados.
+* Mateus 25:35-36: "Porque tive fome, e me destes de comer; tive sede, e me destes de beber; era forasteiro, e me acolhestes; estava nu, e me vestistes; enfermo, e me visitastes; preso, e fostes ver-me". Nesses versículos, Jesus fala sobre a importância de cuidar dos necessitados e marginalizados, enfatizando que quando o fazemos, estamos cuidando dele mesmo.
+* Romanos 10:12-13: "Pois não há distinção entre judeu e grego, uma vez que o mesmo Senhor é Senhor de todos e abençoa ricamente todos os que o invocam, porque todo aquele que invocar o nome do Senhor será salvo". Paulo enfatiza que a salvação está disponível para todas as pessoas, independentemente de sua raça, etnia ou status social.
+* Tiago 2:14-17: "De que adianta, meus irmãos, alguém dizer que tem fé, se não tem obras? Acaso a fé pode salvá-lo? Suponhamos que um irmão ou uma irmã não tenha roupa nem comida diária. Se um de vocês lhe disser: ‘Vá em paz, aqueça-se e alimente-se até satisfazer-se’, sem porém lhe dar nada, de que adianta isso? Assim também a fé, por si só, se não for acompanhada de obras, está morta". Tiago enfatiza a importância de nossas ações e comportamentos, e como devemos viver nossa fé na prática.
+* Apocalipse 7:9: "Depois disso olhei, e diante de mim estava uma grande multidão que ninguém podia contar, de todas as nações, tribos, povos e línguas, em pé diante do trono e do Cordeiro, vestidos de vestes brancas, com palmas nas mãos". Esse versículo descreve a visão de João no céu, mostrando a diversidade de povos e etnias que se unem em adoração ao Senhor, cumprindo a promessa feita em Isaías 56.
+****
+
+[[v29-56-1]]
+
+^<<v29-56-1,1>>^ Eis o que diz o Senhor: “Respeitai o direito e praticai a justiça, porque minha salvação não tarda a chegar e minha justiça a revelar-se”.^&#42;1^
+
+[[v29-56-2]]
+
+^<<v29-56-2,2>>^ Feliz do homem que assim se comporta, e o filho do homem que se atém a isso, que observa o sábado sem profaná-lo, e abstém-se de toda má ação.
+
+[[v29-56-3]]
+
+^<<v29-56-3,3>>^ Que o estrangeiro que deseja afeiçoar-se ao Senhor não diga: “Certamente o Senhor vai excluir-me de seu povo”. Que o eunuco não diga: “Oh! Sou apenas um lenho seco”.^&#42;1^
+
+[[v29-56-4]]
+
+^<<v29-56-4,4>>^ Porque eis o que diz o Senhor: “Aos eunucos que observarem meus sábados, que escolherem o que me é agradável, e se afeiçoarem à minha aliança,
+
+[[v29-56-5]]
+
+^<<v29-56-5,5>>^ eu darei na minha casa e dentro de minhas muralhas um monumento e um nome de mais valor que filhos e filhas; eu lhes darei um nome que jamais perecerá.
+
+[[v29-56-6]]
+
+^<<v29-56-6,6>>^ Quanto aos estrangeiros que desejam unir-se ao Senhor, para servi-lo e amar seu nome, para serem seus servos, se observarem o sábado sem profaná-lo, e se se afeiçoarem à minha aliança,
+
+[[v29-56-7]]
+
+^<<v29-56-7,7>>^ eu os conduzirei ao meu monte santo e os cumularei de alegria na minha casa de oração; seus holocaustos e sacrifícios serão aceitos sobre meu altar, pois minha casa se chamará casa de oração para todos os povos.^&#42;1^
+
+[[v29-56-8]]
+
+^<<v29-56-8,8>>^ Oráculo do Senhor Deus que reúne os exilados de Israel: “Eu lhes agregarei ainda outros junto aos seus já reunidos”.
+
+[[v29-56-9]]
+
+^<<v29-56-9,9>>^ Animais dos campos, vinde todos apascentar-vos, como também os animais da floresta.^&#42;1^
+
+[[v29-56-10]]
+
+^<<v29-56-10,10>>^ Meus guardas estão todos cegos e não veem nada; são cães mudos incapazes de latir, sonham estirados, gostam de cochilar;
+
+[[v29-56-11]]
+
+^<<v29-56-11,11>>^ são cães vorazes e insaciáveis são pastores que nada observam, cada qual segue seu caminho em busca de seu interesse.
+
+[[v29-56-12]]
+
+^<<v29-56-12,12>>^ “Vinde, vou buscar o vinho; com licores nos embriagaremos; amanhã, como hoje, haverá uma enorme bebedeira.”
+
+'''
+
+xref:029-isaias/029-isaias-055.adoc#v29-55-0[&#60; Capítulo Anterior] | <<v29-56-0,Topo>> | xref:029-isaias/029-isaias-057.adoc#v29-57-0[Próximo Capítulo &#62;]

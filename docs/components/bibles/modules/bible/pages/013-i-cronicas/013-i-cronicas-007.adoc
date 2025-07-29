@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v13-7-0]]
+=== I Crônicas, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Crônicas 7 é um capítulo que fala sobre as famílias de Issacar, Benjamim e Naftali, descrevendo seus descendentes e suas terras. Alguns temas abordados são a importância das genealogias, a divisão das terras entre as tribos de Israel e a prosperidade da nação.
+* Números 26:23-25: "Os descendentes de Issacar segundo suas famílias: de Tola, a família dos tolanitas; de Puá, a família dos puatitas; de Jasube, a família dos jasubitas; de Sinrom, a família dos sinromitas." Este versículo menciona a tribo de Issacar, que é uma das tribos abordadas em 1 Crônicas 7 e cujos descendentes são listados no capítulo.
+* Josué 19:32-39: "O sexto lote saiu para os clãs dos filhos de Naftali (...) Cislon, Hamá, Quitz, Ran, vinte e três cidades com suas aldeias." Este versículo fala sobre as terras que foram dadas à tribo de Naftali, outra tribo mencionada em 1 Crônicas 7.
+* Josué 18:21-28: "O nono lote saiu para as tribos dos filhos de Benjamim (...) Gibeá, Ramá, Berote, vinte e uma cidades com suas aldeias." Este versículo menciona as terras que foram dadas à tribo de Benjamim, que também é abordada em 1 Crônicas 7.
+* 1 Crônicas 7:23: "Eram muitos os filhos de Naftali que nasceram naqueles dias, eram sete filhos, sendo que o mais jovem, Jael, tornou-se o mais famoso dentre todos eles." Este versículo fala sobre a grande quantidade de filhos que nasceram da tribo de Naftali e destaca Jael como o mais famoso deles.
+* 1 Crônicas 7:40: "Todos esses foram descendentes de Aser, chefes de família, homens valentes, chefes de príncipes. Eram registrados conforme seus genealogias para o serviço militar: 26 mil homens." Este versículo menciona a tribo de Aser e seus descendentes, que eram homens valentes e aptos para o serviço militar, e também destaca a importância das genealogias na organização da nação de Israel.
+****
+
+[[v13-7-1]]
+
+^<<v13-7-1,1>>^ Filhos de Issacar: Tola, Fua, Jasub e Semron: quatro ao todo.
+
+[[v13-7-2]]
+
+^<<v13-7-2,2>>^ Filhos de Tola: Ozi, Rafaías, Jeriel, Jemai, Jebsem e Samuel. Segundo suas genealogias, eram chefes de casas patriarcais saídas de Tola, todos homens valentes cujo número era, no tempo de Davi, vinte e dois mil e seiscentos homens.
+
+[[v13-7-3]]
+
+^<<v13-7-3,3>>^ Filho de Ozi: Izraías. Filhos de Izraías: Miguel, Abdias, Joel e Jesias, ao todo cinco chefes.
+
+[[v13-7-4]]
+
+^<<v13-7-4,4>>^ Possuíam, de acordo com suas genealogias, segundo suas casas patriarcais, trinta e seis mil homens de tropas armadas para a guerra, porque eles tinham muitas mulheres e filhos.
+
+[[v13-7-5]]
+
+^<<v13-7-5,5>>^ Seus irmãos, dentre todas as famílias de Issacar, formavam um total de oitenta e sete mil homens valorosos, inscritos nas genealogias.
+
+[[v13-7-6]]
+
+^<<v13-7-6,6>>^ Os filhos de Benjamim: Bela, Bocor e Jadiel, três.
+
+[[v13-7-7]]
+
+^<<v13-7-7,7>>^ Filhos de Bela: Esbon, Ozi, Oziel, Jarmut e Urai, cinco chefes de famílias patriarcais, compreendendo, inscritos nas genealogias, um número de vinte e dois mil e trinta e quatro homens aptos para a guerra.
+
+[[v13-7-8]]
+
+^<<v13-7-8,8>>^ Filhos de Bocor: Zamira, Joás, Eliezer, Elioenai, Amri, Jermot, Abias, Anatot e Almat,
+
+[[v13-7-9]]
+
+^<<v13-7-9,9>>^ todos filhos de Bocor registrados, de acordo com suas genealogias, como chefes das casas patriarcais, compreendendo um número de vinte mil e duzentos homens guerreiros.
+
+[[v13-7-10]]
+
+^<<v13-7-10,10>>^ Filho de Jadiel: Balã. Filhos de Balã: Jeús, Benjamim, Aod, Canana, Zetam, Társis e Aisaar,
+
+[[v13-7-11]]
+
+^<<v13-7-11,11>>^ todos filhos de Jadiel, chefes das casas patriarcais, formando um total de dezessete mil e duzentos homens guerreiros, capazes de levar armas e fazer guerra.
+
+[[v13-7-12]]
+
+^<<v13-7-12,12>>^ Sufam e Hufam, filhos de Ir; Hasim, filho de Aer.
+
+[[v13-7-13]]
+
+^<<v13-7-13,13>>^ Filhos de Neftali: Jasiel, Guni, Jeser e Selum, filho de Bala.
+
+[[v13-7-14]]
+
+^<<v13-7-14,14>>^ Filhos de Manassés: Esriel. Sua concubina siríaca deu à luz Maquir, pai de Galaad.
+
+[[v13-7-15]]
+
+^<<v13-7-15,15>>^ Maquir tomou mulher na família de Hufam e Sufam. O nome de sua irmã era Maaca. O nome do segundo filho era Salafaad, o qual teve filhas.
+
+[[v13-7-16]]
+
+^<<v13-7-16,16>>^ Maaca, mulher de Maquir, deu à luz um filho e chamou-o Farés; o nome de seu irmão era Sares e eram seus filhos Ulam e Recém. Filho de Ulam: Badã.
+
+[[v13-7-17]]
+
+^<<v13-7-17,17>>^ São estes os filhos de Galaad, filho de Maquir, filho de Manassés.
+
+[[v13-7-18]]
+
+^<<v13-7-18,18>>^ Sua irmã Amaléquet deu à luz Isod, Abiezer e Moola.
+
+[[v13-7-19]]
+
+^<<v13-7-19,19>>^ Os filhos de Semida foram: Ain, Siquém, Leci e Aniam.
+
+[[v13-7-20]]
+
+^<<v13-7-20,20>>^ Filhos de Efraim: Sutala, Bared, seu filho, Taat, seu filho, Elada, seu filho, Taat, seu filho,
+
+[[v13-7-21]]
+
+^<<v13-7-21,21>>^ Zabad, seu filho, Sutala, seu filho, Ezer e Elada, os quais os homens de Gat, originários da terra, mataram, porque tinham tentado arrebatar seus rebanhos.
+
+[[v13-7-22]]
+
+^<<v13-7-22,22>>^ Efraim, o pai, esteve por muito tempo em luto e seus irmãos vieram consolá-lo.
+
+[[v13-7-23]]
+
+^<<v13-7-23,23>>^ Ele se uniu à sua mulher, que concebeu e deu à luz um filho, ao qual deu o nome de Berias, porque a desgraça estava em sua casa.
+
+[[v13-7-24]]
+
+^<<v13-7-24,24>>^ Sua filha era Sara, que construiu a alta e a baixa Bet-Horon e Ozensara.
+
+[[v13-7-25]]
+
+^<<v13-7-25,25>>^ Ele teve ainda Rafa, um filho e Résef; Tala, seu filho, Taã, seu filho,
+
+[[v13-7-26]]
+
+^<<v13-7-26,26>>^ Laadã, seu filho, Amiud, seu filho, Elisama, seu filho,
+
+[[v13-7-27]]
+
+^<<v13-7-27,27>>^ Nun, seu filho, Josué, seu filho.
+
+[[v13-7-28]]
+
+^<<v13-7-28,28>>^ Suas possessões e suas moradas eram: Betel e seus arrabaldes, ao oriente; Norã, a oeste; Gazer e seus arrabaldes, Siquém e seus arrabaldes até Aia e seus arrabaldes.
+
+[[v13-7-29]]
+
+^<<v13-7-29,29>>^ Os filhos de Manassés possuíam ainda Betsã e seus arrabaldes, Tanac e seus arrabaldes, Meguido e seus arrabaldes, Dor e seus arrabaldes. Foram essas as cidades em que habitaram os filhos de José, filho de Israel.
+
+[[v13-7-30]]
+
+^<<v13-7-30,30>>^ Filhos de Aser: Jemna, Jesua, Jessui, Beria e sua irmã Sara.
+
+[[v13-7-31]]
+
+^<<v13-7-31,31>>^ Filhos de Beria: Héber e Melquiel, pai de Barzait.
+
+[[v13-7-32]]
+
+^<<v13-7-32,32>>^ Héber gerou Jeflat, Somer, Hotam e Suaá, sua irmã.
+
+[[v13-7-33]]
+
+^<<v13-7-33,33>>^ Filhos de Jeflat: Fosec, Bamaal e Asot, filhos de Jeflat.
+
+[[v13-7-34]]
+
+^<<v13-7-34,34>>^ Filhos de Somer: Aí, Roaga, Haba e Aram.
+
+[[v13-7-35]]
+
+^<<v13-7-35,35>>^ Filhos de Hotam, seu irmão: Sufa, Jemna, Seles e Amal.
+
+[[v13-7-36]]
+
+^<<v13-7-36,36>>^ Filhos de Sufa: Sue, Harnafer, Sual, Beri, Jamra,
+
+[[v13-7-37]]
+
+^<<v13-7-37,37>>^ Bosor, Od, Hosama, Salusa, Jetraam e Beera.
+
+[[v13-7-38]]
+
+^<<v13-7-38,38>>^ Filhos de Jetraam: Jefoné, Fasfa e Ara.
+
+[[v13-7-39]]
+
+^<<v13-7-39,39>>^ Filhos de Ola: Area, Haniel e Resias.
+
+[[v13-7-40]]
+
+^<<v13-7-40,40>>^ Todos estes eram filhos de Aser, chefes das casas patriarcais, homens aguerridos e escolhidos, chefes de príncipes, inscritos no número de 26.000 homens preparados para a guerra.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-006.adoc#v13-6-0[&#60; Capítulo Anterior] | <<v13-7-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-008.adoc#v13-8-0[Próximo Capítulo &#62;]

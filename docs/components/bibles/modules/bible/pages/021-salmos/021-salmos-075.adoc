@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v21-75-0]]
+=== Salmos, 75
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 75 é um hino de ação de graças que exalta a soberania de Deus e sua justiça. Nele, o salmista louva a Deus pelo seu julgamento justo e confiante no futuro que ele preparou para os justos e para os ímpios. Abaixo estão cinco versículos relacionados com os temas abordados no Salmo 75:
+* Salmo 9:8 - "E o Senhor será um alto refúgio para o oprimido, um alto refúgio em tempos de angústia." Este versículo fala da proteção que Deus oferece aos oprimidos e aos que buscam refúgio nele.
+* Salmo 50:6 - "E os céus anunciam a sua justiça, porque é Deus quem julga." Este versículo destaca que Deus é o juiz supremo que governa sobre todas as coisas.
+* Provérbios 21:1 - "O coração do rei é como um rio na mão do Senhor; ele o dirige para onde quer." Este versículo ensina que Deus governa sobre os reis e que ele é capaz de direcionar suas decisões.
+* Isaías 2:12 - "Porque o Senhor dos Exércitos tem um dia contra todo o soberbo e altivo, contra todo aquele que se exalta, para que seja abatido." Este versículo fala da justiça de Deus contra os orgulhosos e altivos.
+* Apocalipse 22:12 - "Eis que venho em breve, e trago comigo a minha recompensa, para retribuir a cada um de acordo com o que fez." Este versículo fala da vinda de Jesus Cristo para julgar o mundo e recompensar cada um de acordo com suas obras.
+****
+
+[[v21-75-1]]
+
+^<<v21-75-1,1>>^ Ao mestre de canto. Com instrumentos de corda. Salmo de Asaf. Cântico.^&#42;1^
+
+[[v21-75-2]]
+
+^<<v21-75-2,2>>^ Deus se fez conhecer em Judá, seu nome é grande em Israel.
+
+[[v21-75-3]]
+
+^<<v21-75-3,3>>^ Em Jerusalém está seu tabernáculo e em Sião a sua morada.
+
+[[v21-75-4]]
+
+^<<v21-75-4,4>>^ Lá ele quebrou as fulminantes flechas do arco, os escudos, as espadas e todas as armas.
+
+[[v21-75-5]]
+
+^<<v21-75-5,5>>^ O esplendor luminoso de vosso poder manifestou-se do alto das eternas montanhas.
+
+[[v21-75-6]]
+
+^<<v21-75-6,6>>^ Foram despojados os guerreiros ousados, eles dormem tranquilos seu último sono. Os valentes sentiram fraquejar suas mãos.
+
+[[v21-75-7]]
+
+^<<v21-75-7,7>>^ Só com a vossa ameaça, ó Deus de Jacó, ficaram inertes carros e cavalos.
+
+[[v21-75-8]]
+
+^<<v21-75-8,8>>^ Terrível sois, quem vos poderá resistir, diante do furor de vossa cólera?
+
+[[v21-75-9]]
+
+^<<v21-75-9,9>>^ Do alto do céu proclamastes a sentença; calou-se a terra de tanto pavor,
+
+[[v21-75-10]]
+
+^<<v21-75-10,10>>^ quando Deus se levantou para pronunciar a sentença de libertação em favor dos oprimidos da terra.
+
+[[v21-75-11]]
+
+^<<v21-75-11,11>>^ Pois o furor de Edom vos glorificará e os sobreviventes de Emat vos festejarão.
+
+[[v21-75-12]]
+
+^<<v21-75-12,12>>^ Fazei votos ao Senhor, vosso Deus, e cumpri-os. Todos os que o cercam tragam oferendas ao Deus temível,
+
+[[v21-75-13]]
+
+^<<v21-75-13,13>>^ a ele que abate o orgulho dos grandes e que é temido pelos reis da terra.
+
+'''
+
+xref:021-salmos/021-salmos-074.adoc#v21-74-0[&#60; Capítulo Anterior] | <<v21-75-0,Topo>> | xref:021-salmos/021-salmos-076.adoc#v21-76-0[Próximo Capítulo &#62;]

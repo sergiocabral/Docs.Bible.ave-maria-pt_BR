@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v45-7-0]]
+=== Zacarias, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Zacarias 7 trata do questionamento dos judeus a respeito da continuidade dos jejuns no quarto, quinto, sétimo e décimo meses do ano. O profeta Zacarias responde a essa pergunta com uma mensagem de Deus, que enfatiza a importância da justiça, misericórdia e compaixão, acima de rituais religiosos. Abaixo estão cinco versículos relacionados com os temas abordados em Zacarias 7, em ordem de proximidade com o capítulo:
+* Provérbios 21:3: "Praticar a justiça e o juízo é mais aceitável ao Senhor do que oferecer-lhe sacrifícios." Esse versículo destaca a importância da justiça, que é um tema central em Zacarias 7.
+* Isaías 58:6-7: "Porventura não é este o jejum que escolhi, que soltes as ligaduras da impiedade, desfaças as ataduras do jugo, e deixes livres os quebrantados, e que despedaces todo o jugo? Porventura não é também que repartas o teu pão com o faminto, e recolhas em casa os pobres desamparados? E, quando vires o nu, o cubras, e não te escondas da tua carne?" Esse versículo ressalta a importância da misericórdia e da compaixão, que são valores que Zacarias 7 destaca como mais importantes do que o jejum.
+* Mateus 23:23: "Ai de vós, escribas e fariseus, hipócritas! pois que dizimais a hortelã, o endro e o cominho, e desprezais o mais importante da lei, o juízo, a misericórdia e a fé; deveis, porém, fazer estas coisas, e não omitir aquelas." Esse versículo destaca a importância da justiça, misericórdia e fé, que são valores enfatizados em Zacarias 7.
+* 1 João 3:17: "Mas, se alguém tiver este mundo e vir a seu irmão ter necessidade, e fechar-lhe o seu coração, como estará nele o amor de Deus?" Esse versículo destaca a importância da compaixão e do amor ao próximo, que são valores destacados em Zacarias 7.
+* Lucas 6:36: "Sede pois misericordiosos, como também vosso Pai é misericordioso." Esse versículo ressalta a importância da misericórdia e da compaixão, que são valores destacados em Zacarias 7.
+****
+
+[[v45-7-1]]
+
+^<<v45-7-1,1>>^ No quarto ano do reinado de Dario, a palavra do Senhor foi dirigida a Zacarias no quarto dia do nono mês (mês de Casleu).
+
+[[v45-7-2]]
+
+^<<v45-7-2,2>>^ Ora, Betel havia delegado Sarasar e Regem-Melec com seus homens^&#42;1^
+
+[[v45-7-3]]
+
+^<<v45-7-3,3>>^ para apresentarem ao Senhor as suas orações e fazerem aos sacerdotes do Templo do Senhor e aos profetas esta pergunta: “Porventura precisamos nós de chorar no quinto mês e jejuar, como o fazemos desde há muito tempo?”.
+
+[[v45-7-4]]
+
+^<<v45-7-4,4>>^ A palavra do Senhor foi-me dirigida nestes termos:
+
+[[v45-7-5]]
+
+^<<v45-7-5,5>>^ “Declara a todo o povo e aos sacerdotes: Vós tendes, com efeito, jejuado e chorado no quinto e no sétimo mês, durante estes setenta anos. Mas foi realmente por meu respeito que o fizestes?
+
+[[v45-7-6]]
+
+^<<v45-7-6,6>>^ Quando comeis e bebeis não sois vós que comeis e bebeis?
+
+[[v45-7-7]]
+
+^<<v45-7-7,7>>^ Não reconheceis nisso o ensinamento do Senhor transmitido pela boca dos antigos profetas, no tempo em que Jerusalém era habitada em paz, ela e as cidades circunvizinhas, e quando a região do Sul e a da planície eram ainda habitadas?”.^&#42;1^
+
+[[v45-7-8]]
+
+^<<v45-7-8,8>>^ A palavra do Senhor foi dirigida a Zacarias nestes termos:^&#42;1^
+
+[[v45-7-9]]
+
+^<<v45-7-9,9>>^ “O Senhor dizia: julgai segundo a verdadeira justiça; cada um de vós tenha bom coração e seja compassivo para com o seu irmão.
+
+[[v45-7-10]]
+
+^<<v45-7-10,10>>^ Não oprimais a viúva nem o órfão, nem o estrangeiro, nem o pobre, e não trameis em vossos corações maus desígnios uns contra os outros.”
+
+[[v45-7-11]]
+
+^<<v45-7-11,11>>^ Eles, porém, não quiseram escutar: voltaram-me as costas, revoltados, e taparam os ouvidos para nada ouvir.
+
+[[v45-7-12]]
+
+^<<v45-7-12,12>>^ Endureceram o seu coração como um diamante, para não entenderem as instruções e as palavras que o Senhor dos exércitos lhes dirigia pelo seu Espírito, por meio dos antigos profetas. Por isso, o Senhor dos exércitos indignou-se vivamente contra eles.
+
+[[v45-7-13]]
+
+^<<v45-7-13,13>>^ Ele os chamou em vão, e não foi atendido! “Por isso – oráculo do Senhor dos exércitos –, não os ouvi quando clamaram a mim.
+
+[[v45-7-14]]
+
+^<<v45-7-14,14>>^ Dispersei-os por todas as nações que lhes eram desconhecidas; depois que partiram, a terra ficou abandonada e ninguém mais transitou por ela. Transformaram em um deserto uma terra de delícias.”
+
+'''
+
+xref:045-zacarias/045-zacarias-006.adoc#v45-6-0[&#60; Capítulo Anterior] | <<v45-7-0,Topo>> | xref:045-zacarias/045-zacarias-008.adoc#v45-8-0[Próximo Capítulo &#62;]

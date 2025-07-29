@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v40-5-0]]
+=== Miquéias, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 5 de Miquéias fala sobre a vinda do Messias e a restauração do povo de Israel. Nesse capítulo, é profetizado que o Messias nascerá em Belém e governará com justiça e paz. Ao buscar em toda a Bíblia, encontrei os seguintes versículos relacionados com os temas abordados nesse capítulo:
+* Isaías 9:5-6: "Porque um menino nos nasceu, um filho se nos deu; e o governo estará sobre os seus ombros; e o seu nome será Maravilhoso Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz. Do aumento deste principado e da paz não haverá fim, sobre o trono de Davi e no seu reino, para o firmar e o fortificar com juízo e com justiça, desde agora e para sempre; o zelo do Senhor dos Exércitos fará isto." Esse versículo se relaciona com Miquéias 5, pois ambos falam sobre a vinda do Messias e a promessa de que ele governará com justiça e paz.
+* Salmos 72:7-8: "Florescerá no seus dias justiça, e abundância de paz, até que não haja lua. Dominará de mar a mar, e desde o rio até aos confins da terra." Nesse versículo, é profetizado que o reinado do Messias será marcado pela justiça e pela paz, o que também é mencionado em Miquéias 5.
+* Isaías 11:1-2: "Porque brotará um rebento do tronco de Jessé, e das suas raízes um renovo frutificará. E repousará sobre ele o Espírito do Senhor, o espírito de sabedoria e de entendimento, o espírito de conselho e de fortaleza, o espírito de conhecimento e de temor do Senhor." Esse versículo fala sobre o surgimento do Messias da linhagem de Jessé, o pai de Davi, o que é semelhante à profecia de Miquéias 5 sobre o nascimento do Messias em Belém.
+* Zacarias 9:9: "Alegra-te muito, ó filha de Sião; exulta, ó filha de Jerusalém: eis aí te vem o teu rei; ele é justo e salva, humilde, e vem montado sobre um jumento, sobre um jumentinho, filho de jumenta." Esse versículo se relaciona com Miquéias 5, pois ambos falam sobre a vinda do rei justo e humilde que trará salvação ao povo.
+* Salmos 89:36-37: "A sua descendência durará para sempre, e o seu trono, como o sol diante de mim. Será estabelecida para sempre como a lua, e como uma testemunha fiel no céu." Esse versículo fala sobre a promessa de que a descendência de Davi e o seu trono durariam para sempre, o que é semelhante à promessa de Miquéias 5 sobre o reinado do Messias, que virá da linhagem de Davi.
+****
+
+[[v40-5-1]]
+
+^<<v40-5-1,1>>^ Mas tu, Belém de Éfrata, tão pequena entre os clãs de Judá, é de ti que sairá para mim aquele que é chamado a governar Israel. Suas origens remontam aos tempos antigos, aos dias do longínquo passado.^&#42;1^
+
+[[v40-5-2]]
+
+^<<v40-5-2,2>>^ Por isso, Deus os deixará, até o tempo em que der à luz aquela que há de dar à luz. Então, o resto de seus irmãos voltará para junto dos filhos de Israel.^&#42;1^
+
+[[v40-5-3]]
+
+^<<v40-5-3,3>>^ Ele se levantará para os apascentar, com o poder do Senhor, com a majestade do nome do Senhor, seu Deus. Os seus viverão em segurança, porque ele será exaltado até os confins da terra.
+
+[[v40-5-4]]
+
+^<<v40-5-4,4>>^ E assim será a paz. Quando o assírio invadir nossa terra e pisar nossos terrenos, nós lhe resistiremos com sete pastores e oito príncipes do povo.^&#42;1^
+
+[[v40-5-5]]
+
+^<<v40-5-5,5>>^ Devastarão a terra da Assíria com o gládio, e com a espada a terra de Nemrod. Assim nos salvará ele do assírio, quando este invadir nossa terra e atacar nosso solo.
+
+[[v40-5-6]]
+
+^<<v40-5-6,6>>^ O resto de Jacó será, no meio de muitos povos, como o orvalho provindo do Senhor, como gotas de chuva sobre a relva, que nada tem a desejar do homem nem a esperar dos filhos dos homens.^&#42;1^
+
+[[v40-5-7]]
+
+^<<v40-5-7,7>>^ O resto de Jacó será, entre as nações, no meio de muitos povos, como um leão entre os animais da floresta, como um leãozinho em um rebanho de ovelhas: por onde quer que passe, esmaga e despedaça, sem que ninguém lhe arranque a presa.
+
+[[v40-5-8]]
+
+^<<v40-5-8,8>>^ Levante-se vossa mão contra os vossos adversários e sejam aniquilados todos os vossos inimigos!
+
+[[v40-5-9]]
+
+^<<v40-5-9,9>>^ Naquele tempo – oráculo do Senhor –, farei desaparecer teus cavalos do meio de ti, destruirei teus carros,
+
+[[v40-5-10]]
+
+^<<v40-5-10,10>>^ arruinarei as cidades de tua terra, e demolirei todas as tuas fortalezas.
+
+[[v40-5-11]]
+
+^<<v40-5-11,11>>^ Arrancarei de tuas mãos os teus sortilégios, e não haverá mais adivinhos no meio de ti.
+
+[[v40-5-12]]
+
+^<<v40-5-12,12>>^ Tirarei do meio de ti os ídolos e as colunas, e cessarás de adorar a obra de tuas mãos.
+
+[[v40-5-13]]
+
+^<<v40-5-13,13>>^ Extirparei de tua terra os bosques sagrados e arrasarei tuas cidades.
+
+[[v40-5-14]]
+
+^<<v40-5-14,14>>^ Em minha cólera e furor, tomarei vingança das nações que não obedeceram.
+
+'''
+
+xref:040-miqueias/040-miqueias-004.adoc#v40-4-0[&#60; Capítulo Anterior] | <<v40-5-0,Topo>> | xref:040-miqueias/040-miqueias-006.adoc#v40-6-0[Próximo Capítulo &#62;]

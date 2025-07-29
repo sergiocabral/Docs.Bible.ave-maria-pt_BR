@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v1-26-0]]
+=== Gênesis, 26
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 26 narra a história de Isaque, filho de Abraão, que enfrentou dificuldades em sua jornada por causa da fome na terra de Canaã. Ele teve que se mudar para a região de Gerar, onde Deus o abençoou abundantemente, mas também enfrentou conflitos com os habitantes locais. Abaixo, seguem cinco versículos relacionados com temas abordados em Gênesis 26, excluindo os versículos deste capítulo:
+* Gênesis 12:10: "Ora, houve fome na terra, e Abrão desceu ao Egito para ali peregrinar, porquanto a fome era grande na terra." Este versículo fala sobre a fome que Abraão também enfrentou, o que o levou a se mudar temporariamente para o Egito. Isaque enfrentou uma situação semelhante em Gerar.
+* Salmos 37:7: "Descansa no Senhor, e espera nele; não te irrites por causa daquele que prospera em seu caminho, por causa do homem que executa astutos intentos." Este versículo fala sobre a importância de confiar em Deus e não se preocupar com as circunstâncias externas, algo que Isaque fez ao confiar na promessa divina de abençoá-lo.
+* Mateus 5:44: "Eu, porém, vos digo: Amai a vossos inimigos, e orai pelos que vos perseguem." Este versículo fala sobre a atitude que Jesus espera de seus seguidores em relação aos inimigos e perseguidores. Isaque demonstrou essa atitude ao buscar a paz com os habitantes de Gerar, apesar dos conflitos anteriores.
+* Hebreus 12:14: "Segui a paz com todos, e a santificação, sem a qual ninguém verá o Senhor." Este versículo fala sobre a importância de buscar a paz e a santidade em nossos relacionamentos e atitudes. Isaque buscava a paz com os habitantes de Gerar, mesmo tendo que lidar com conflitos.
+* 1 Pedro 5:7: "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós." Este versículo fala sobre a importância de confiar em Deus em todas as situações, algo que Isaque demonstrou ao confiar na provisão divina durante a fome e a bênção divina em Gerar.
+****
+
+[[v1-26-1]]
+
+^<<v1-26-1,1>>^ Sobreveio uma fome à região (além da primeira fome que houve no tempo de Abraão), e Isaac foi ter com Abimelec, rei dos filisteus em Gerara.
+
+[[v1-26-2]]
+
+^<<v1-26-2,2>>^ O Senhor apareceu-lhe e disse-lhe: “Não desças ao Egito; fica na terra que eu te indico.
+
+[[v1-26-3]]
+
+^<<v1-26-3,3>>^ Habita nela; eu estou contigo e te abençoarei, porque é a ti e à tua posteridade que darei toda esta terra, e cumprirei o juramento que fiz ao teu pai Abraão.
+
+[[v1-26-4]]
+
+^<<v1-26-4,4>>^ Multiplicarei tua posteridade como as estrelas do céu, lhe darei todas estas regiões, e nela serão benditas todas as nações da terra,
+
+[[v1-26-5]]
+
+^<<v1-26-5,5>>^ porque Abraão obedeceu à minha voz e observou os meus preceitos, meus mandamentos e minhas leis”.
+
+[[v1-26-6]]
+
+^<<v1-26-6,6>>^ Isaac ficou, pois, em Gerara.
+
+[[v1-26-7]]
+
+^<<v1-26-7,7>>^ Quando os habitantes da região o interrogavam a respeito de sua mulher, ele dizia-lhes que era sua irmã, pois respondendo: “É minha mulher”, temia que os homens daquele lugar o matassem por causa de Rebeca, que era muito bela.
+
+[[v1-26-8]]
+
+^<<v1-26-8,8>>^ E, como sua estada ali se prolongasse, aconteceu que um dia, olhando Abimelec pela janela, viu Isaac que acariciava Rebeca, sua mulher.
+
+[[v1-26-9]]
+
+^<<v1-26-9,9>>^ Mandou chamá-lo e disse-lhe: “É evidente que é tua mulher! E como dizias tu que era tua irmã”. “Porque – respondeu Isaac – eu temia que me matassem por causa dela.”
+
+[[v1-26-10]]
+
+^<<v1-26-10,10>>^ Abimelec replicou: “Que nos fizeste? Um pouco mais e alguém do povo teria abusado de tua mulher, e terias atraído o pecado sobre nós!”.
+
+[[v1-26-11]]
+
+^<<v1-26-11,11>>^ Então Abimelec mandou publicar diante de todo o povo que seria morto quem quer que tocasse naquele homem ou em sua mulher.
+
+[[v1-26-12]]
+
+^<<v1-26-12,12>>^ Isaac semeou naquela terra, e colheu o cêntuplo naquele mesmo ano; o Senhor o abençoava.
+
+[[v1-26-13]]
+
+^<<v1-26-13,13>>^ E este homem cresceu, e seus bens foram aumentando cada vez mais; tornou-se extremamente rico.
+
+[[v1-26-14]]
+
+^<<v1-26-14,14>>^ Possuía rebanhos de ovelhas e de bois e numerosos escravos. E os filisteus o invejavam.
+
+[[v1-26-15]]
+
+^<<v1-26-15,15>>^ Por isso, entupiram todos os poços que tinham cavado os escravos de seu pai Abraão, quando este ainda vivia.
+
+[[v1-26-16]]
+
+^<<v1-26-16,16>>^ Abimelec disse-lhe: “Aparta-te de nós, pois te tornaste muito mais poderoso do que nós”.
+
+[[v1-26-17]]
+
+^<<v1-26-17,17>>^ Partiu Isaac e, tendo levantado o seu acampamento no vale de Gerara, habitou ali.
+
+[[v1-26-18]]
+
+^<<v1-26-18,18>>^ Abriu de novo os poços cavados outrora, no tempo de seu pai Abraão, que os filisteus tinham entupido depois de sua morte, e deu-lhes os mesmos nomes que o seu pai lhes tinha dado.
+
+[[v1-26-19]]
+
+^<<v1-26-19,19>>^ Seus servos cavaram outro poço no vale, e encontraram ali uma fonte de água viva.
+
+[[v1-26-20]]
+
+^<<v1-26-20,20>>^ Mas os pastores de Gerara começaram a disputar com os pastores de Isaac: “Esta água é nossa” – diziam eles. Isaac chamou então a esse poço Esec, porque lho tinham contestado.^&#42;1^
+
+[[v1-26-21]]
+
+^<<v1-26-21,21>>^ Abriram seus pastores um segundo poço, mas surgiu outra disputa, e por isso pôs-lhe o nome de Sitna.
+
+[[v1-26-22]]
+
+^<<v1-26-22,22>>^ Partindo em seguida dali, abriu outro poço, sobre o qual não houve mais discussão, e pôs-lhe o nome de Rehobot, “porque agora – disse ele – o Senhor nos pôs ao largo, e prosperaremos na terra”.
+
+[[v1-26-23]]
+
+^<<v1-26-23,23>>^ Dali, Isaac subiu a Bersabeia.
+
+[[v1-26-24]]
+
+^<<v1-26-24,24>>^ Naquela mesma noite, o Senhor apareceu-lhe e disse-lhe: “Eu sou o Deus de Abraão, teu pai. Nada temas, estou contigo. Eu te abençoarei e multiplicarei tua descendência por causa de Abraão, meu servo”.
+
+[[v1-26-25]]
+
+^<<v1-26-25,25>>^ Isaac construiu um altar nesse lugar e invocou o nome do Senhor. Levantou depois ali sua tenda e seus escravos cavaram um poço.
+
+[[v1-26-26]]
+
+^<<v1-26-26,26>>^ Abimelec veio de Gerara procurá-lo, com Ocozat, seu amigo, e Ficol, general do seu exército.
+
+[[v1-26-27]]
+
+^<<v1-26-27,27>>^ Isaac disse: “Por que me procurais, já que me detestais e me expulsastes do meio de vós?”.
+
+[[v1-26-28]]
+
+^<<v1-26-28,28>>^ Eles responderam: “Nós vimos que o Senhor está contigo, e pensamos: Haja um juramento entre nós e ti. Queremos, pois, fazer aliança contigo.
+
+[[v1-26-29]]
+
+^<<v1-26-29,29>>^ Jura que não nos farás nenhum mal, assim como também nós não tocamos em nada do que é teu e só te temos feito bem, deixando-te partir em paz. Agora, tu és o bendito do Senhor”.
+
+[[v1-26-30]]
+
+^<<v1-26-30,30>>^ Isaac preparou-lhes um banquete, e eles comeram e beberam.
+
+[[v1-26-31]]
+
+^<<v1-26-31,31>>^ No dia seguinte, pela manhã, fizeram mutuamente os seus juramentos; Isaac despediu-os em seguida, e eles afastaram-se dele em paz.
+
+[[v1-26-32]]
+
+^<<v1-26-32,32>>^ Nesse mesmo dia, os escravos de Isaac vieram dar-lhe notícias do poço que estavam cavando: “Encontramos água” – disseram eles.
+
+[[v1-26-33]]
+
+^<<v1-26-33,33>>^ Ele pôs a esse poço o nome de Seba. De onde vem o nome de Bersabeia, nome que a cidade conserva até o dia de hoje.
+
+[[v1-26-34]]
+
+^<<v1-26-34,34>>^ Esaú, com a idade de quarenta anos, tomou por mulheres Judite, filha de Beeri, o hiteu, e Basemat, filha de Elon, o hiteu.
+
+[[v1-26-35]]
+
+^<<v1-26-35,35>>^ Elas foram um motivo de desgosto para Isaac e Rebeca.
+
+'''
+
+xref:001-genesis/001-genesis-025.adoc#v1-25-0[&#60; Capítulo Anterior] | <<v1-26-0,Topo>> | xref:001-genesis/001-genesis-027.adoc#v1-27-0[Próximo Capítulo &#62;]

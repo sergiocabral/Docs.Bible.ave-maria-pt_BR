@@ -1,0 +1,243 @@
+include::./index.adoc[]
+
+[[v4-33-0]]
+=== Números, 33
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 33 do livro de Números apresenta um registro dos acampamentos e jornadas dos filhos de Israel desde a sua saída do Egito até a chegada às planícies de Moabe, às margens do Jordão, como preparação para a entrada na terra prometida. Dessa forma, os versículos escolhidos serão relacionados a temas como a fidelidade de Deus em conduzir Seu povo, as consequências da desobediência, a necessidade de lembrar o passado e aprender com ele, o cumprimento das promessas divinas e a soberania de Deus sobre todas as coisas.
+* Deuteronômio 1:30: "O Senhor, vosso Deus, que vai adiante de vós, ele pelejará por vós, conforme tudo o que fez convosco, diante de vossos olhos, no Egito" - Este versículo destaca a fidelidade de Deus em guiar e lutar por Seu povo, como visto no registro das jornadas em Números 33.
+* Deuteronômio 1:32-33: "Mas, apesar disto, não crestes no Senhor, vosso Deus, que ia adiante de vós no caminho, buscando para vós lugar de descanso, com fogo de noite, para vos mostrar o caminho por onde havíeis de andar, e com nuvem de dia" - Esse versículo aponta para a desobediência e incredulidade do povo de Israel, que resultou em consequências como a prolongação do tempo de sua peregrinação.
+* Deuteronômio 4:9: "Tão-somente guarda-te a ti mesmo e guarda bem a tua alma, para que não te esqueças daquelas coisas que os teus olhos têm visto, e para que não se apartem do teu coração todos os dias da tua vida; porém as farás saber a teus filhos e aos filhos de teus filhos" - Esse versículo enfatiza a importância de lembrar do passado e ensinar as lições aprendidas a gerações futuras.
+* Deuteronômio 7:9: "Saberás, pois, que o Senhor, teu Deus, é que é Deus, o Deus fiel, que guarda a aliança e a misericórdia até mil gerações aos que o amam e guardam os seus mandamentos" - Esse versículo destaca a fidelidade de Deus em cumprir Suas promessas, como evidenciado na liderança do povo de Israel durante sua peregrinação.
+* Deuteronômio 10:14-15: "Eis que dos céus e a terra são do Senhor, teu Deus; os céus são os céus do Senhor, mas a terra a deu aos filhos dos homens. Tão-somente o Senhor Se agradou de teus pais para os amar; e a vós, descendência deles, escolheu, dentre todos os povos, como hoje se vê" - Esse versículo destaca a soberania de Deus sobre todas as coisas, incluindo a escolha de Israel como Seu povo.
+****
+
+[[v4-33-1]]
+
+^<<v4-33-1,1>>^ Eis as etapas que fizeram os israelitas desde a sua partida do Egito em tropas organizadas sob as ordens de Moisés e Aarão.
+
+[[v4-33-2]]
+
+^<<v4-33-2,2>>^ Moisés, por ordem do Senhor, tomou nota de suas marchas por etapas. São as seguintes essas marchas em etapas:
+
+[[v4-33-3]]
+
+^<<v4-33-3,3>>^ No décimo quinto dia do primeiro mês partiram de Ramsés. Isso foi no dia seguinte à Páscoa; partiram com a mão levantada, à vista de todos os egípcios
+
+[[v4-33-4]]
+
+^<<v4-33-4,4>>^ que estavam enterrando aqueles que o Senhor tinha ferido dentre eles, todos os seus primogênitos. Também contra os seus deuses o Senhor tinha exercido o seu juízo.
+
+[[v4-33-5]]
+
+^<<v4-33-5,5>>^ Partidos de Ramsés, os israelitas se detiveram em Sucot,
+
+[[v4-33-6]]
+
+^<<v4-33-6,6>>^ de onde partiram, indo acampar em Etam, situado na extremidade do deserto.
+
+[[v4-33-7]]
+
+^<<v4-33-7,7>>^ Dali, voltaram a Piairot, defronte de Baal Sefon, e acamparam diante de Magdol.
+
+[[v4-33-8]]
+
+^<<v4-33-8,8>>^ Deixando Piairot, passaram pelo meio do mar para o deserto. Após três dias de marcha na solidão de Etam, detiveram-se em Mara.
+
+[[v4-33-9]]
+
+^<<v4-33-9,9>>^ Partindo de Mara, ganharam Elim, onde havia doze fontes e setenta palmeiras; e acamparam ali.
+
+[[v4-33-10]]
+
+^<<v4-33-10,10>>^ Saindo de Elim, foram acampar junto do mar Vermelho,
+
+[[v4-33-11]]
+
+^<<v4-33-11,11>>^ de onde partiram e acamparam no deserto de Sin.
+
+[[v4-33-12]]
+
+^<<v4-33-12,12>>^ Tendo partido do deserto de Sin, acamparam em Dafca,
+
+[[v4-33-13]]
+
+^<<v4-33-13,13>>^ de onde foram para Alus.
+
+[[v4-33-14]]
+
+^<<v4-33-14,14>>^ Dali, partiram e acamparam em Rafidim, onde o povo não encontrou água para beber.
+
+[[v4-33-15]]
+
+^<<v4-33-15,15>>^ Partidos de Rafidim, acamparam no deserto do Sinai.
+
+[[v4-33-16]]
+
+^<<v4-33-16,16>>^ Saindo do deserto do Sinai, foram acampar em Kibrot-Hataava,
+
+[[v4-33-17]]
+
+^<<v4-33-17,17>>^ de onde foram acampar em Haserot.
+
+[[v4-33-18]]
+
+^<<v4-33-18,18>>^ De lá, acamparam em Retma.
+
+[[v4-33-19]]
+
+^<<v4-33-19,19>>^ De Retma foram a Remon-Farés.
+
+[[v4-33-20]]
+
+^<<v4-33-20,20>>^ De Remon-Farés a Lebna.
+
+[[v4-33-21]]
+
+^<<v4-33-21,21>>^ De Lebna a Ressa.
+
+[[v4-33-22]]
+
+^<<v4-33-22,22>>^ De Ressa a Ceelata.
+
+[[v4-33-23]]
+
+^<<v4-33-23,23>>^ Deixaram Ceelata e acamparam no monte Sefer.
+
+[[v4-33-24]]
+
+^<<v4-33-24,24>>^ Dali foram acampar em Arada.
+
+[[v4-33-25]]
+
+^<<v4-33-25,25>>^ De lá a Macelot.
+
+[[v4-33-26]]
+
+^<<v4-33-26,26>>^ Dali a Taat.
+
+[[v4-33-27]]
+
+^<<v4-33-27,27>>^ De Taat a Taré.
+
+[[v4-33-28]]
+
+^<<v4-33-28,28>>^ De Taré a Metca.
+
+[[v4-33-29]]
+
+^<<v4-33-29,29>>^ De Metca a Hesmona.
+
+[[v4-33-30]]
+
+^<<v4-33-30,30>>^ De Hesmona foram acampar em Moserot.^&#42;1^
+
+[[v4-33-31]]
+
+^<<v4-33-31,31>>^ De Moserot a Benê-Jacã.
+
+[[v4-33-32]]
+
+^<<v4-33-32,32>>^ Dali a Hor-Guidgad.
+
+[[v4-33-33]]
+
+^<<v4-33-33,33>>^ Dali a Jotebata.
+
+[[v4-33-34]]
+
+^<<v4-33-34,34>>^ Dali a Abrona.
+
+[[v4-33-35]]
+
+^<<v4-33-35,35>>^ De lá a Asiongaber.
+
+[[v4-33-36]]
+
+^<<v4-33-36,36>>^ De Asiongaber foram acampar no deserto de Sin, isto é, em Cades.
+
+[[v4-33-37]]
+
+^<<v4-33-37,37>>^ Deixando Cades, acamparam no monte Hor, na extremidade da terra de Edom.
+
+[[v4-33-38]]
+
+^<<v4-33-38,38>>^ O sacerdote Aarão subiu por ordem do Senhor ao monte Hor e ali morreu, no quadragésimo ano do êxodo dos israelitas do Egito, no primeiro dia do quinto mês.
+
+[[v4-33-39]]
+
+^<<v4-33-39,39>>^ Aarão tinha cento e vinte e três anos quando expirou no monte Hor.
+
+[[v4-33-40]]
+
+^<<v4-33-40,40>>^ Foi então que o rei cananeu de Arad, que habitava no Negueb, na terra de Canaã, soube da chegada dos israelitas.
+
+[[v4-33-41]]
+
+^<<v4-33-41,41>>^ Deixando o monte Hor acamparam em Salmona.
+
+[[v4-33-42]]
+
+^<<v4-33-42,42>>^ De Salmona foram acampar em Funon.
+
+[[v4-33-43]]
+
+^<<v4-33-43,43>>^ De Funon foram a Obot.
+
+[[v4-33-44]]
+
+^<<v4-33-44,44>>^ De Obot, detiveram-se em Ijé-Abarim, na fronteira de Moab.
+
+[[v4-33-45]]
+
+^<<v4-33-45,45>>^ Dali foram acampar em Dibon-Gad.
+
+[[v4-33-46]]
+
+^<<v4-33-46,46>>^ Dali a Almon-Diblataim.
+
+[[v4-33-47]]
+
+^<<v4-33-47,47>>^ Dali aos montes Abarim, em frente ao Nebo.
+
+[[v4-33-48]]
+
+^<<v4-33-48,48>>^ Partiram dos montes Abarim e foram acampar nas planícies de Moab, junto do Jordão, defronte de Jericó.
+
+[[v4-33-49]]
+
+^<<v4-33-49,49>>^ Seu acampamento nas planícies de Moab, perto do Jordão, ia desde Bet-Jesimot até Abel-Setim.
+
+[[v4-33-50]]
+
+^<<v4-33-50,50>>^ O Senhor disse a Moisés, nas planícies de Moab, junto do Jordão, defronte de Jericó:
+
+[[v4-33-51]]
+
+^<<v4-33-51,51>>^ “Dize aos israelitas: Quando tiverdes passado o Jordão e entrado na terra de Canaã,
+
+[[v4-33-52]]
+
+^<<v4-33-52,52>>^ expulsareis de diante de vós todos os habitantes da terra, destruireis todas as suas pedras esculpidas, todas as suas estátuas fundidas e devastareis todos os seus lugares altos.
+
+[[v4-33-53]]
+
+^<<v4-33-53,53>>^ Tomareis posse da terra e habitai-a, porque vo-la dou.
+
+[[v4-33-54]]
+
+^<<v4-33-54,54>>^ Distribuí entre vossas famílias por sorte: aos que forem mais numerosos, uma porção maior, e uma menor, aos que forem menos. Cada um possuirá o que lhe couber por sorte. Fareis essa repartição segundo vossas tribos patriarcais.
+
+[[v4-33-55]]
+
+^<<v4-33-55,55>>^ Se vós, porém, não expulsardes de diante de vós os habitantes da terra, os que ficarem serão para vós como espinhos nos olhos e aguilhões nos flancos, e vos perseguirão na terra onde habitardes.
+
+[[v4-33-56]]
+
+^<<v4-33-56,56>>^ E tudo o que eu tinha pensado fazer a eles, o farei a vós”.
+
+'''
+
+xref:004-numeros/004-numeros-032.adoc#v4-32-0[&#60; Capítulo Anterior] | <<v4-33-0,Topo>> | xref:004-numeros/004-numeros-034.adoc#v4-34-0[Próximo Capítulo &#62;]

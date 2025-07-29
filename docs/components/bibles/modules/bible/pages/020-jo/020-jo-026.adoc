@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v20-26-0]]
+=== Jó, 26
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* No capítulo 26 de Jó, ele responde ao discurso de Bildade, reconhecendo a grandeza e a sabedoria de Deus e a insignificância humana diante Dele. Jó tenta expressar a grandeza e o poder de Deus, embora não possa compreendê-los completamente. Abaixo estão cinco versículos relacionados com os temas abordados em Jó 26:
+* Salmo 104:2-3: "Ele cobre-se de luz como de um manto, estende os céus como uma tenda e põe na água dos céus a vigia de suas altas construções; faz das nuvens sua carruagem e caminha sobre as asas do vento." Este salmo descreve a grandeza e o poder de Deus, incluindo sua criação dos céus e das nuvens.
+* Isaías 40:12: "Quem mediu as águas na concha da mão e, com o palmo da mão, mediu o céu? Quem reuniu num terço de medida o pó da terra? Quem pesou os montes na balança e as colinas na balança de precisão?" Este versículo destaca a grandeza e o poder de Deus, que criou todas as coisas.
+* Salmo 147:5: "Nosso Senhor é grande e imensamente poderoso; sua sabedoria não tem limites." Este salmo louva a grandeza e o poder de Deus, assim como Jó faz em seu discurso.
+* Provérbios 9:10: "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é a compreensão." Esse versículo enfatiza a sabedoria e o conhecimento de Deus, que Jó reconhece em seu discurso.
+* Salmo 139:6: "O conhecimento que tens de mim é maravilhoso, é sublime demais para mim, não posso compreendê-lo!" Esse salmo enfatiza a incompreensibilidade de Deus, algo que Jó também reconhece em seu discurso.
+****
+
+[[v20-26-1]]
+
+^<<v20-26-1,1>>^ Jó tomou então a palavra nestes termos:
+
+[[v20-26-2]]
+
+^<<v20-26-2,2>>^ “Como tens ajudado bem o fraco e socorrido o braço sem vigor!
+
+[[v20-26-3]]
+
+^<<v20-26-3,3>>^ Como sabes aconselhar o ignorante e dar mostras de abundante sabedoria!
+
+[[v20-26-4]]
+
+^<<v20-26-4,4>>^ A quem diriges este discurso? Sob a inspiração de quem falas tu?
+
+[[v20-26-5]]
+
+^<<v20-26-5,5>>^ As sombras agitam-se sob a terra, as águas e seus habitantes estão temerosos.
+
+[[v20-26-6]]
+
+^<<v20-26-6,6>>^ A região dos mortos está descoberta diante dele, os infernos estão sem véu.
+
+[[v20-26-7]]
+
+^<<v20-26-7,7>>^ Ele estende o firmamento sobre o vácuo e suspende a terra sobre o nada.
+
+[[v20-26-8]]
+
+^<<v20-26-8,8>>^ Armazena as águas em suas nuvens e as nuvens não se rasgam sob seu peso.
+
+[[v20-26-9]]
+
+^<<v20-26-9,9>>^ Vela a face da lua, estendendo sobre ela a sua nuvem.
+
+[[v20-26-10]]
+
+^<<v20-26-10,10>>^ Traçou um círculo sobre a superfície das águas, até onde a luz confina com as trevas.
+
+[[v20-26-11]]
+
+^<<v20-26-11,11>>^ As colunas do céu estremecem e se assustam com a sua ameaça.
+
+[[v20-26-12]]
+
+^<<v20-26-12,12>>^ Com sua força fendeu o mar e com sua sabedoria destruiu Raab.^&#42;1^
+
+[[v20-26-13]]
+
+^<<v20-26-13,13>>^ Seu sopro varreu os céus e sua mão feriu a serpente fugitiva.^&#42;1^
+
+[[v20-26-14]]
+
+^<<v20-26-14,14>>^ Eis que tudo isso não é mais que o contorno de suas obras e se apenas percebemos um fraco eco dessas obras, quem compreenderá o trovão de seu poder?”.
+
+'''
+
+xref:020-jo/020-jo-025.adoc#v20-25-0[&#60; Capítulo Anterior] | <<v20-26-0,Topo>> | xref:020-jo/020-jo-027.adoc#v20-27-0[Próximo Capítulo &#62;]

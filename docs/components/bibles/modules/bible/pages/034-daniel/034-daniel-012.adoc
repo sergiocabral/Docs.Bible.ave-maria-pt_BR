@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v34-12-0]]
+=== Daniel, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 12 do livro de Daniel fala sobre o tempo do fim e a ressurreição dos mortos, bem como sobre a conclusão das visões proféticas que foram reveladas ao profeta. Ele também enfatiza a importância de perseverar na fé, mesmo diante de dificuldades e perseguições. A seguir, estão cinco versículos relacionados com os temas abordados em Daniel 12:
+* 2 Pedro 3:9: "O Senhor não retarda a sua promessa, ainda que alguns a têm por tardia; mas é longânimo para convosco, não querendo que alguns se percam, senão que todos venham a arrepender-se." Esse verso destaca a paciência e o amor de Deus para com seus filhos, mesmo diante de circunstâncias que parecem indicar um atraso em suas promessas.
+1 Coríntios 15:52: "Num momento, num abrir e fechar de olhos, ante a última trombeta; porque a trombeta soará, e os mortos ressuscitarão incorruptíveis, e nós seremos transformados." Essa passagem fala sobre a ressurreição dos mortos, um dos temas centrais do capítulo 12 de Daniel.
+Hebreus 10:36: "Porque necessitais de paciência, para que, depois de haverdes feito a vontade de Deus, possais alcançar a promessa." Esse versículo enfatiza a importância da perseverança e da paciência na espera pela realização das promessas de Deus.
+Tiago 1:2-4: "Meus irmãos, tende grande gozo quando cairdes em várias tentações, sabendo que a prova da vossa fé produz a paciência. Tenha, porém, a paciência a sua obra perfeita, para que sejais perfeitos e completos, sem faltar em coisa alguma." Essa passagem destaca o valor da perseverança e da paciência diante de testes e provações, como uma forma de aprimorar a nossa fé.
+Apocalipse 22:7: "Eis que venho sem demora. Bem-aventurado aquele que guarda as palavras da profecia deste livro." Esse verso reforça a ideia da importância de perseverar na fé e manter-se fiel às palavras proféticas de Deus, que foram reveladas em visões como as de Daniel.
+****
+
+[[v34-12-1]]
+
+^<<v34-12-1,1>>^ “Naquele tempo, surgirá Miguel, o grande chefe, o protetor dos filhos do seu povo. Será uma época de tal desolação, como jamais houve igual desde que as nações existem até aquele momento. Então, entre os filhos de teu povo, serão salvos todos aqueles que se acharem inscritos no livro.^&#42;1^
+
+[[v34-12-2]]
+
+^<<v34-12-2,2>>^ Muitos daqueles que dormem no pó da terra despertarão, uns para uma vida eterna, outros para a ignomínia, a infâmia eterna.^&#42;1^
+
+[[v34-12-3]]
+
+^<<v34-12-3,3>>^ Os que tiverem sido inteligentes fulgirão como o brilho do firmamento, e os que tiverem introduzido muitos nos caminhos da justiça luzirão como as estrelas, com um perpétuo resplendor.
+
+[[v34-12-4]]
+
+^<<v34-12-4,4>>^ Quanto a ti, Daniel, guarda isso secreto, e conserva este livro lacrado até o tempo final. Muitos daqueles que a ele recorrerem verão aumentar seu conhecimento.”^&#42;1^
+
+[[v34-12-5]]
+
+^<<v34-12-5,5>>^ Continuei a olhar. Vi dois outros personagens mantendo-se cada um sobre uma das margens do rio.
+
+[[v34-12-6]]
+
+^<<v34-12-6,6>>^ Um deles disse ao homem vestido de linho que estava em cima do rio: “Para quando o fim dessas coisas prodigiosas?”.^&#42;1^
+
+[[v34-12-7]]
+
+^<<v34-12-7,7>>^ Então, ouvi o homem vestido de linho, que estava em cima do rio, jurar, levantando para o céu sua mão esquerda bem como sua mão direita: “Pelo eterno vivo, será em um tempo, tempos e na metade de um tempo, no momento em que a força do povo santo for inteiramente rompida, que todas estas coisas se cumprirão”.^&#42;1^
+
+[[v34-12-8]]
+
+^<<v34-12-8,8>>^ Ouvi essas palavras, mas sem entendê-las. “Meu senhor” – perguntei –, “qual será a conclusão de tudo isso?”
+
+[[v34-12-9]]
+
+^<<v34-12-9,9>>^ “Vamos, Daniel” – respondeu –; “esses oráculos devem ficar fechados e lacrados até o tempo final.
+
+[[v34-12-10]]
+
+^<<v34-12-10,10>>^ Muitos serão limpos, acrisolados e provados. Os ímpios agirão com perversidade, mas nenhum deles compreenderá, enquanto que os sábios compreenderão.
+
+[[v34-12-11]]
+
+^<<v34-12-11,11>>^ Desde o tempo em que for suprimido o holocausto perpétuo e quando for estabelecida a abominação do devastador, transcorrerão mil duzentos e noventa dias.^&#42;1^
+
+[[v34-12-12]]
+
+^<<v34-12-12,12>>^ Feliz quem esperar e alcançar mil trezentos e trinta e cinco dias!
+
+[[v34-12-13]]
+
+^<<v34-12-13,13>>^ Quanto a ti, vai até o fim. Tu repousarás e te levantarás para receber tua parte de herança, no fim dos tempos.”^&#42;1^
+
+'''
+
+xref:034-daniel/034-daniel-011.adoc#v34-11-0[&#60; Capítulo Anterior] | <<v34-12-0,Topo>> | xref:034-daniel/034-daniel-013.adoc#v34-13-0[Próximo Capítulo &#62;]

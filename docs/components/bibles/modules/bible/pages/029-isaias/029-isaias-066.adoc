@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v29-66-0]]
+=== Isaías, 66
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 66 é o último capítulo do livro de Isaías e apresenta uma mensagem sobre o julgamento de Deus e a restauração de Jerusalém. O capítulo começa com Deus questionando quem Ele irá honrar e seguirá os Seus mandamentos, em seguida, apresenta a promessa de restauração de Jerusalém e a vinda de um novo céu e uma nova terra. O capítulo também fala sobre a rejeição dos ímpios e a adoração verdadeira a Deus.
+* Isaías 66:13: "Como alguém a quem sua mãe consola, assim eu os consolarei; em Jerusalém vocês serão consolados" Este versículo fala sobre a consolação de Deus para o Seu povo após a restauração de Jerusalém, mostrando o amor e o cuidado de Deus pelos seus filhos.
+* Salmos 50:15: "Invoca-me no dia da angústia; eu te livrarei, e tu me glorificarás" Este versículo apresenta a promessa de Deus de ajudar aqueles que O invocam durante suas dificuldades e, assim, serão salvos e glorificarão o Seu nome.
+* Apocalipse 21:1: "Vi novo céu e nova terra, pois o primeiro céu e a primeira terra passaram, e o mar já não existia" Este versículo mostra a promessa da criação de um novo céu e nova terra, apresentando a restauração e a perfeição do mundo de Deus.
+* João 4:23: "Mas vem a hora e já chegou, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade; porque são esses que o Pai procura para seus adoradores" Este versículo fala sobre a adoração verdadeira a Deus, onde a sinceridade do coração e a busca pela verdade são fundamentais.
+* Malaquias 4:1: "Pois eis que aquele dia vem ardendo como fornalha; todos os soberbos e todos os que cometem maldade serão como palha; e o dia que está para vir haverá de queimá-los, diz o Senhor dos Exércitos, de sorte que não lhes deixará nem raiz nem ramo" Este versículo apresenta a rejeição dos ímpios no dia do julgamento de Deus, mostrando a importância de seguir os Seus mandamentos e viver uma vida justa.
+****
+
+[[v29-66-1]]
+
+^<<v29-66-1,1>>^ Eis o que diz o Senhor: “O céu é meu trono, e a terra meu escabelo. Que casa poderíeis construir-me, que lugar poderíeis indicar-me para moradia?^&#42;1^
+
+[[v29-66-2]]
+
+^<<v29-66-2,2>>^ Fui eu quem fez o universo, e tudo me pertence, declara o Senhor. É o angustiado que atrai meus olhares, o coração contrito que teme minha palavra.
+
+[[v29-66-3]]
+
+^<<v29-66-3,3>>^ Imola-se um boi e mata-se um homem, sacrifica-se uma ovelha e parte-se a nuca de um cão, apresenta-se uma oblação e derrama-se sangue de porco, queima-se incenso e veneram-se ídolos; tal como essa gente adere a suas práticas, e aprecia seus atos abomináveis,^&#42;1^
+
+[[v29-66-4]]
+
+^<<v29-66-4,4>>^ também eu terei prazer em maltratá-los. E farei vir sobre eles os males que temem, porque chamei, sem que ninguém me respondesse, falei, sem que me escutassem, porque fizeram aquilo que considero um mal, e escolheram o que me desagrada”.
+
+[[v29-66-5]]
+
+^<<v29-66-5,5>>^ Ouvi a palavra do Senhor, vós que a temeis! Eis o que dizem vossos irmãos que vos odeiam, que vos renegam por causa de meu nome: “Que o Senhor manifeste sua glória para que vejamos vossa alegria!”. Mas eles serão confundidos.^&#42;1^
+
+[[v29-66-6]]
+
+^<<v29-66-6,6>>^ Escutai esse tumulto que se levanta da cidade, esse barulho que vem do templo. Escutai, é o Senhor que trata seus inimigos como o merecem.
+
+[[v29-66-7]]
+
+^<<v29-66-7,7>>^ Antes da hora, ela deu à luz, antes de sentir as dores, deu à luz um filho.^&#42;1^
+
+[[v29-66-8]]
+
+^<<v29-66-8,8>>^ Quem jamais ouviu tal coisa, quem jamais viu coisa semelhante? É possível um país nascer num dia? Pode uma nação ser criada repentinamente? Desde as primeiras dores, Sião deu à luz seus filhos.
+
+[[v29-66-9]]
+
+^<<v29-66-9,9>>^ Para que não desse à luz abriria eu o seio materno? – diz o Senhor. Eu que dou a fecundidade, o fecharia? – diz teu Deus.
+
+[[v29-66-10]]
+
+^<<v29-66-10,10>>^ Regozijai-vos com Jerusalém e encontrai aí a vossa alegria, vós todos que a amais; com ela ficai cheios de alegria, vós todos que estais de luto,
+
+[[v29-66-11]]
+
+^<<v29-66-11,11>>^ a fim de vos amamentar à saciedade em seu seio que consola, a fim de que sugueis com delícias seus peitos generosos.
+
+[[v29-66-12]]
+
+^<<v29-66-12,12>>^ Pois eis o que diz o Senhor: “Vou fazer a paz correr para ela como um rio, e como uma torrente transbordante a opulência das nações. Seus filhinhos serão carregados ao colo, e acariciados no regaço.
+
+[[v29-66-13]]
+
+^<<v29-66-13,13>>^ Como uma criança que a mãe consola, sereis consolados em Jerusalém.^&#42;1^
+
+[[v29-66-14]]
+
+^<<v29-66-14,14>>^ Com essa visão vossos corações pulsarão de alegria, e vossos membros se fortalecerão como plantas. O Senhor manifestará a seus servos seu poder, e aos seus inimigos sua cólera.^&#42;1^
+
+[[v29-66-15]]
+
+^<<v29-66-15,15>>^ Pois o Senhor virá no meio do fogo, com seus carros semelhantes ao furacão, para satisfazer sua cólera num braseiro, e cumprir suas ameaças em chamas ardentes;
+
+[[v29-66-16]]
+
+^<<v29-66-16,16>>^ porque o Senhor fará a justiça de toda a terra pelo fogo e de todo o ser vivente pela espada, e muitos cairão sob os golpes do Senhor.^&#42;1^
+
+[[v29-66-17]]
+
+^<<v29-66-17,17>>^ Aqueles que se santificam e se purificam para ir aos jardins, conduzidos por alguém que se encontra no meio deles, aqueles que comem carne de porco, de animais rasteiros e ratos, verão cessar ao mesmo tempo suas maneiras de agir e de pensar, declara o Senhor.^&#42;1^
+
+[[v29-66-18]]
+
+^<<v29-66-18,18>>^ E virei para reunir os homens de todas as nações e de todas as línguas; todos virão e verão minha glória.
+
+[[v29-66-19]]
+
+^<<v29-66-19,19>>^ Executarei no meio deles um prodígio e enviarei às nações aqueles dentre eles que tiverem escapado (a Társis, Put e Lud, Mosoc e Ros, Tubal e Javã), às ilhas longínquas que nunca ouviram falar de mim e não viram minha glória; eles farão conhecer às nações a minha glória.^&#42;1^
+
+[[v29-66-20]]
+
+^<<v29-66-20,20>>^ De cada uma das nações trarão todos os vossos irmãos como oferenda ao Senhor, a cavalo, em carros, em liteiras, em lombo de mulas e de dromedários, ao meu monte santo, a Jerusalém, diz o Senhor, tal como os filhos de Israel trazem sua oferenda em vasos purificados à casa do Senhor.
+
+[[v29-66-21]]
+
+^<<v29-66-21,21>>^ Escolherei mesmo entre eles sacerdotes e levitas, diz o Senhor.^&#42;1^
+
+[[v29-66-22]]
+
+^<<v29-66-22,22>>^ Pois, assim como os novos céus e a nova terra que vou criar devem subsistir diante de mim, declara o Senhor, assim devem subsistir vossa raça e vosso nome.
+
+[[v29-66-23]]
+
+^<<v29-66-23,23>>^ E assim, cada mês, à lua nova, e cada semana, aos sábados, todos virão prostrar-se diante de mim, diz o Senhor.
+
+[[v29-66-24]]
+
+^<<v29-66-24,24>>^ E quando se virarem, poderão ver os cadáveres daqueles que se revoltaram contra mim, porque o verme deles não morrerá e seu fogo não se extinguirá, e para todos serão um espetáculo horripilante”.^&#42;1^
+
+'''
+
+xref:029-isaias/029-isaias-065.adoc#v29-65-0[&#60; Capítulo Anterior] | <<v29-66-0,Topo>> | xref:030-jeremias/030-jeremias-001.adoc#v30-1-0[Próximo Capítulo &#62;]

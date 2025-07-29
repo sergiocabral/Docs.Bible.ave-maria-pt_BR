@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v15-5-0]]
+=== Esdras, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Esdras 5 descreve a retomada da construção do templo em Jerusalém depois de ter sido interrompida por um decreto do rei persa. Os profetas Ageu e Zacarias exortaram o povo a continuar a obra, e a construção do templo foi finalmente autorizada pelo rei Dario.
+* Ageu 1:8: "Subi ao monte, e trazei madeira, e edificai a casa; e dela me agradarei, e eu serei glorificado, diz o SENHOR." Neste versículo, Ageu exorta o povo a retomar a construção do templo, mostrando que essa é a vontade de Deus.
+* Ageu 2:4: "Contudo, agora, esforça-te, Zorobabel, diz o SENHOR, e esforça-te, Josué, filho de Jozadaque, sumo sacerdote, e esforça-te, todo o povo da terra, diz o SENHOR, e trabalhai; porque eu sou convosco, diz o SENHOR dos Exércitos." Esse versículo encoraja o povo a continuar a construção do templo, mostrando que Deus está com eles e os apoiará.
+* Ageu 2:9: "A glória desta última casa será maior do que a da primeira, diz o SENHOR dos Exércitos, e neste lugar darei a paz, diz o SENHOR dos Exércitos." Este versículo profetiza a glória do templo reconstruído e encoraja o povo a continuar a construção.
+* Zacarias 4:6: "Então respondeu, e me falou, dizendo: Esta é a palavra do SENHOR a Zorobabel, dizendo: Não por força nem por violência, mas sim pelo meu Espírito, diz o SENHOR dos Exércitos." Esse versículo mostra que a construção do templo não será realizada por meio da força humana, mas pelo poder do Espírito de Deus.
+* 2 Crônicas 36:23: "Assim diz Ciro, rei da Pérsia: O SENHOR Deus do céu me deu todos os reinos da terra, e me encarregou de lhe edificar uma casa em Jerusalém, que está em Judá. Quem há entre vós, de todo o seu povo, seja seu Deus com ele, e suba a Jerusalém, que está em Judá, e edifique a casa do SENHOR Deus de Israel (ele é o Deus) que está em Jerusalém." Esse versículo mostra que o rei persa Ciro permitiu que o povo de Deus voltasse a Jerusalém para reconstruir o templo.
+****
+
+[[v15-5-1]]
+
+^<<v15-5-1,1>>^ Ora, o profeta Ageu e o profeta Zacarias, filho de Ado, profetizaram aos judeus que estavam em Judá e em Jerusalém, em nome do Deus de Israel que estava com eles.^&#42;1^
+
+[[v15-5-2]]
+
+^<<v15-5-2,2>>^ Então, Zorobabel, filho de Salatiel, e Josué, filho de Josedec, retomaram a reconstrução do Templo de Deus em Jerusalém com a ajuda e a assistência dos profetas de Deus.
+
+[[v15-5-3]]
+
+^<<v15-5-3,3>>^ Ao mesmo tempo, Tatanai, governador do lado oposto ao rio, Setar-Buzanai e seus colegas vieram procurá-los e falaram-lhes assim: “Quem vos deu autorização para reconstruir o templo e levantar suas paredes?”.
+
+[[v15-5-4]]
+
+^<<v15-5-4,4>>^ E acrescentaram: “Quais são os nomes dos homens que trabalham nesse edifício?”.
+
+[[v15-5-5]]
+
+^<<v15-5-5,5>>^ Mas Deus tinha os olhos voltados para os anciãos dos judeus e ninguém os obrigou a interromper os trabalhos, até que chegasse o relatório a Dario, a fim de que este respondesse por escrito sobre o assunto.
+
+[[v15-5-6]]
+
+^<<v15-5-6,6>>^ Cópia da carta que enviaram ao rei Dario, o governador Tatanai, da outra margem do rio, bem como Setar-Buzanai e seus colegas de Artasaq, que também moravam na outra margem do rio.
+
+[[v15-5-7]]
+
+^<<v15-5-7,7>>^ Enviaram-lhe um relatório no qual se lia o seguinte: “Ao rei Dario prosperidade perfeita!
+
+[[v15-5-8]]
+
+^<<v15-5-8,8>>^ Saiba o rei que fomos à província de Judá, à casa do grande Deus. Está ela sendo reconstruída com pedras enormes e o madeiramento está já colocado nas paredes. Esse trabalho está sendo executado com cuidado e progride nas suas mãos;
+
+[[v15-5-9]]
+
+^<<v15-5-9,9>>^ por isso, interrogamos os anciãos: ‘Quem vos deu autorização para reconstruir esse templo e levantar esses muros?’.
+
+[[v15-5-10]]
+
+^<<v15-5-10,10>>^ Perguntamos-lhes também os seus nomes para consigná-los aqui e fazê-los conhecidos de ti, pelo menos os que estão à testa deles.
+
+[[v15-5-11]]
+
+^<<v15-5-11,11>>^ Responderam: ‘Somos servos do Deus do céu e da terra; estamos reconstruindo o templo que há muitos anos fora construído e rematado por um grande rei de Israel.
+
+[[v15-5-12]]
+
+^<<v15-5-12,12>>^ Mas nossos pais caíram na ira do Deus do céu, o qual os entregou nas mãos de Nabucodonosor, rei da Babilônia, o caldeu; este destruiu o templo e transportou o povo cativo para Babilônia.
+
+[[v15-5-13]]
+
+^<<v15-5-13,13>>^ Entretanto, no primeiro ano de Ciro, rei da Babilônia, o rei Ciro ordenou a reconstrução dessa casa de Deus.
+
+[[v15-5-14]]
+
+^<<v15-5-14,14>>^ E o próprio rei Ciro retirou do templo da Babilônia os utensílios de ouro e de prata da casa de Deus, que Nabucodonosor tomara do santuário de Jerusalém e transferira para o templo da Babilônia. Foram entregues a um homem chamado Sasabassar, que foi nomeado governador.
+
+[[v15-5-15]]
+
+^<<v15-5-15,15>>^ E disse-lhe: Toma estes utensílios; leva-os para o templo de Jerusalém; e que a casa de Deus seja reconstruída sobre os seus alicerces.
+
+[[v15-5-16]]
+
+^<<v15-5-16,16>>^ Foi então que aquele Sasabassar veio para aqui e colocou os fundamentos da casa de Deus em Jerusalém; depois do que, até o presente, temos prosseguido a construção, mas não está ainda terminada’.
+
+[[v15-5-17]]
+
+^<<v15-5-17,17>>^ Portanto, se o rei acha conveniente que sejam feitas investigações nos arquivos do rei em Babilônia, para ver se é verdade que foi ordenada pelo rei Ciro a reconstrução do Templo de Deus em Jerusalém, que o faça e, em seguida, queira o rei transmitir-nos a sua decisão a esse respeito”.
+
+'''
+
+xref:015-esdras/015-esdras-004.adoc#v15-4-0[&#60; Capítulo Anterior] | <<v15-5-0,Topo>> | xref:015-esdras/015-esdras-006.adoc#v15-6-0[Próximo Capítulo &#62;]

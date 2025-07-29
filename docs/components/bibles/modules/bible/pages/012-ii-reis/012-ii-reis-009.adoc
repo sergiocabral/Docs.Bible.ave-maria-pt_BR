@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v12-9-0]]
+=== II Reis, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 9 do livro de 2 Reis começa com a unção de Jeú como rei de Israel, designado por Deus para punir a casa de Acabe pelos seus pecados. Jeú é enviado para assassinar Jorão, rei de Israel, e Jeú realiza essa tarefa com sucesso. Além disso, Jeú também mata Jezebel, a rainha-mãe de Israel, que incitou o povo a adorar ídolos. Aqui estão cinco versículos relacionados com os temas abordados em 2 Reis 9:
+* Deuteronômio 7:25-26: "As imagens esculpidas de seus deuses vocês queimarão no fogo. Não cobicem a prata ou o ouro que as reveste, nem os tomem para vocês, para que não sejam enlaçados por eles, pois isso é detestável ao Senhor, o seu Deus." Este versículo fala sobre a proibição da adoração de ídolos e da destruição de suas imagens, o que é relevante no contexto da morte de Jezebel.
+* 1 Reis 19:16: "Unja Hazael rei sobre a Síria e também unja Jeú, filho de Ninsi, rei sobre Israel; unja Eliseu, filho de Safate, de Abel-Meolá, como profeta para suceder a você." Este versículo é uma profecia de Deus para Elias, que prediz a ascensão de Jeú como rei de Israel.
+* 1 Reis 21:23: "E, por causa de Jezabel, o Senhor diz: 'Os cães comerão Jezabel no campo de Jezreel.'" Este versículo é uma profecia de Elias para Acabe, que anuncia a morte de Jezabel, a rainha-mãe de Israel.
+* Êxodo 34:14: "Não adorem nenhum outro deus, porque o Senhor, cujo nome é Zeloso, é Deus zeloso." Este versículo reforça a proibição da adoração de ídolos e a exclusividade do culto ao Deus verdadeiro.
+* Salmos 68:30: "Repreenda as feras que se acolhem entre os caniços, a horda de touros com os bezerros dos povos, que se prostram com presentes de prata; dissipa as nações belicosas." Este versículo fala sobre a vitória de Deus sobre os inimigos de Israel, o que é relevante no contexto da ascensão de Jeú como rei e seu papel em punir a casa de Acabe.
+****
+
+[[v12-9-1]]
+
+^<<v12-9-1,1>>^ O profeta Eliseu chamou um dos filhos dos profetas e disse-lhe: “Põe o teu cinto e parte para Ramot de Galaad com este frasco de óleo.
+
+[[v12-9-2]]
+
+^<<v12-9-2,2>>^ Ali chegando, procurarás Jeú, filho de Josafá, filho de Namsi. Aproxima-te dele, convida-o a se levantar do meio de seus irmãos e o conduzirás a um aposento retirado.
+
+[[v12-9-3]]
+
+^<<v12-9-3,3>>^ Tomarás então o frasco de óleo e derramarás sobre sua cabeça, dizendo: ‘Isto diz o Senhor: Sagro-te rei de Israel’. Depois abrirás a porta e fugirás sem demora”.
+
+[[v12-9-4]]
+
+^<<v12-9-4,4>>^ O jovem servo do profeta partiu para Ramot de Galaad.
+
+[[v12-9-5]]
+
+^<<v12-9-5,5>>^ Quando lá chegou, os chefes do exército estavam sentados em reunião. E disse: “General, tenho uma palavra a dizer-te”. Jeú perguntou: “A qual de nós?”. “A ti, general” – respondeu ele.
+
+[[v12-9-6]]
+
+^<<v12-9-6,6>>^ E Jeú, levantando-se, entrou na casa. O jovem derramou-lhe então o óleo na cabeça, dizendo: “Isto diz o Senhor: ‘Sagro-te rei de Israel, o povo do Senhor.
+
+[[v12-9-7]]
+
+^<<v12-9-7,7>>^ Ferirás a casa de Acab, teu soberano, e vingarás o sangue de meus servos, os profetas e o sangue de todos os servos do Senhor, derramado por Jezabel.
+
+[[v12-9-8]]
+
+^<<v12-9-8,8>>^ Toda a casa de Acab perecerá: cortarei da casa de Acab em Israel todo varão, seja escravo ou livre.
+
+[[v12-9-9]]
+
+^<<v12-9-9,9>>^ Farei da casa de Acab o que fiz da de Jeroboão, filho de Nabat e da de Baasa, filho de Aías.
+
+[[v12-9-10]]
+
+^<<v12-9-10,10>>^ E Jezabel será devorada pelos cães no solo de Jezrael: Não haverá ninguém que a sepulte”. Dizendo isso, o jovem abriu a porta e fugiu.
+
+[[v12-9-11]]
+
+^<<v12-9-11,11>>^ Quando Jeú voltou para junto dos oficiais de seu soberano, estes perguntaram-lhe: “Tudo vai bem? Por que te veio ver esse louco?”. Ele respondeu-lhes: “Vós bem conheceis esse homem e a sua maneira de falar”.^&#42;1^
+
+[[v12-9-12]]
+
+^<<v12-9-12,12>>^ “Mentira! – exclamaram eles –; conta-nos a verdade.” “Pois bem – disse ele –, ele disse-me isto e isto e acrescentou: Eis o que diz o Senhor: ‘Sagro-te rei de Israel’.”
+
+[[v12-9-13]]
+
+^<<v12-9-13,13>>^ Levantaram-se então imediatamente e, tomando cada qual o seu manto, estenderam-no aos seus pés, em cima dos degraus e tocaram a trombeta, gritando: “Jeú é rei!”.
+
+[[v12-9-14]]
+
+^<<v12-9-14,14>>^ Jeú, filho de Josafá, filho de Namsi, conspirou contra Jorão, no tempo em que Jorão, com todo o Israel, defendia Ramot de Galaad contra Hazael, rei da Síria.
+
+[[v12-9-15]]
+
+^<<v12-9-15,15>>^ Jorão tinha voltado a Jezrael para se curar dos ferimentos recebidos dos sírios, quando combatia contra Hazael, rei da Síria. “Se esta é a vossa vontade – disse Jeú –, ninguém fuja da cidade para ir dar a notícia a Jezrael.”
+
+[[v12-9-16]]
+
+^<<v12-9-16,16>>^ E Jeú subiu para o seu carro, partiu para Jezrael, onde Jorão, que estava de cama, recebia a visita de Ocozias, rei de Judá.
+
+[[v12-9-17]]
+
+^<<v12-9-17,17>>^ A sentinela que estava no alto da torre de Jezrael, viu aproximar-se a tropa de Jeú e anunciou: “Vejo aproximar-se uma tropa”. Jorão disse: “Toma um carro e manda alguém ao seu encontro para perguntar se é de paz a vinda deles”.^&#42;1^
+
+[[v12-9-18]]
+
+^<<v12-9-18,18>>^ Chegando o cavaleiro junto de Jeú, disse: “O rei manda perguntar se tudo vai bem”. “Que te importa se tudo vai bem?” – respondeu Jeú –. “Passa para trás de mim.” A sentinela anunciou: “O mensageiro chegou a ele, mas não volta”.
+
+[[v12-9-19]]
+
+^<<v12-9-19,19>>^ O rei mandou um segundo cavaleiro, que se apresentou a Jeú, dizendo: “O rei manda saber se tudo vai bem” “Que te importa se tudo vai bem?” – respondeu Jeú –. “Passa para trás de mim.”
+
+[[v12-9-20]]
+
+^<<v12-9-20,20>>^ A sentinela anunciou: “Também este chegou até eles, mas não volta. Pela maneira de conduzir o carro, parece que é Jeú, filho de Namsi, porque corre como um louco”.
+
+[[v12-9-21]]
+
+^<<v12-9-21,21>>^ “Preparai o meu carro” – disse Jorão. Atrelaram os cavalos ao carro de Jorão, rei de Israel, e este partiu com Ocozias, rei de Judá, cada um em seu carro, para se encontrarem com Jeú e o encontraram no campo de Nabot de Jezrael.
+
+[[v12-9-22]]
+
+^<<v12-9-22,22>>^ Ao vê-lo, Jorão perguntou-lhe: “Tudo vai bem, Jeú?”. Ele, porém, respondeu: “Como poderá ir tudo bem, enquanto durar a prostituição e a magia de Jezabel, tua mãe?”.
+
+[[v12-9-23]]
+
+^<<v12-9-23,23>>^ Então, Jorão voltou as rédeas e fugiu, gritando a Ocozias: “Traição, Ocozias!”.
+
+[[v12-9-24]]
+
+^<<v12-9-24,24>>^ Mas Jeú, retesando o arco, atingiu Jorão entre as espáduas, de modo que a flecha atravessou-lhe o coração e ele caiu morto no seu carro.
+
+[[v12-9-25]]
+
+^<<v12-9-25,25>>^ Jeú disse ao seu oficial Badacer: “Toma-o e joga-o no campo de Nabot de Jezrael; pois deves estar lembrado do oráculo que pronunciou o Senhor contra ele, quando tu e eu, montados, seguíamos o seu pai Acab:
+
+[[v12-9-26]]
+
+^<<v12-9-26,26>>^ Tão certo como ontem vi correr o sangue de Nabot e o sangue de seus filhos – palavra do Senhor! – eu te pagarei com a mesma moeda, neste mesmo campo – palavra do Senhor! Assim, pois, toma-o e joga-o neste campo, como o disse o Senhor”.^&#42;1^
+
+[[v12-9-27]]
+
+^<<v12-9-27,27>>^ Vendo isso, Ocozias, rei de Judá, fugiu para as bandas de Bet-Gã. Jeú lançou-se a persegui-lo, gritando: “Também ele!”. Feriram-no em seu carro na subida de Gur, perto de Jeblaam. Ele fugiu para Meguido e morreu ali.
+
+[[v12-9-28]]
+
+^<<v12-9-28,28>>^ Seus servos transportaram-no para Jerusalém em seu carro e sepultaram-no em seu túmulo com seus irmãos, na Cidade de Davi.
+
+[[v12-9-29]]
+
+^<<v12-9-29,29>>^ Ocozias tornara-se rei de Judá no décimo primeiro ano de Jorão, filho de Acab.
+
+[[v12-9-30]]
+
+^<<v12-9-30,30>>^ Jeú fez a sua entrada em Jezrael. Jezabel, ao sabê-lo, pintou os olhos, adornou a cabeça e pôs-se a olhar, à janela.
+
+[[v12-9-31]]
+
+^<<v12-9-31,31>>^ Quando Jeú entrou pela porta, ela disse-lhe: “Como vais, Zamri, assassino de seu amo?”.^&#42;1^
+
+[[v12-9-32]]
+
+^<<v12-9-32,32>>^ Jeú levantou os olhos para a janela e disse: “Quem está do meu lado? Quem?”. Dois ou três eunucos (inclinaram-se) e olharam para ele.
+
+[[v12-9-33]]
+
+^<<v12-9-33,33>>^ “Atirai-a daí abaixo” – disse ele. Jogaram-na e seu sangue salpicou as paredes e os cavalos; estes esmagaram-na aos pés.
+
+[[v12-9-34]]
+
+^<<v12-9-34,34>>^ Jeú entrou. Depois de ter comido e bebido, disse: “Ide ver aquela mulher maldita e sepultai-a, porque ela é de sangue real”.
+
+[[v12-9-35]]
+
+^<<v12-9-35,35>>^ Foram para sepultá-la, mas só encontraram dela o crânio, os pés e as palmas das mãos.
+
+[[v12-9-36]]
+
+^<<v12-9-36,36>>^ Quando voltaram para dizê-lo a Jeú, este disse: “Foi justamente este o oráculo que o Senhor pronunciou pela boca de seu servo Elias, o tesbita: ‘No solo de Jezrael os cães devorarão a carne de Jezabel^&#42;1^
+
+[[v12-9-37]]
+
+^<<v12-9-37,37>>^ e seu cadáver estará sobre a terra como esterco derramado, de sorte que não se poderá dizer que era ela’.”
+
+'''
+
+xref:012-ii-reis/012-ii-reis-008.adoc#v12-8-0[&#60; Capítulo Anterior] | <<v12-9-0,Topo>> | xref:012-ii-reis/012-ii-reis-010.adoc#v12-10-0[Próximo Capítulo &#62;]

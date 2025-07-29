@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v28-8-0]]
+=== Eclesiástico, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiástico 8 contém uma série de conselhos sobre como agir diante de situações delicadas, especialmente no que diz respeito à justiça e à prudência. O capítulo enfatiza a importância de não se envolver em conflitos desnecessários e de evitar se associar com pessoas que possam corromper nosso comportamento. A seguir estão cinco versículos relacionados com esses temas:
+* Provérbios 14:16: "O sábio teme e evita o mal, mas o insensato é impetuoso e descuidado." Este versículo fala sobre a importância de ter cautela e evitar o mal, o que é um tema importante em Eclesiástico 8.
+* Provérbios 22:24-25: "Não se associe com pessoas iracundas; não ande com quem vive dando gritos. Porque você pode aprender os maus costumes deles, e assim a sua alma será destruída." Esse versículo adverte contra se associar com pessoas que têm mau temperamento ou que podem levar você a comportamentos destrutivos, o que é um tema presente em Eclesiástico 8.
+* Provérbios 26:17: "Aquele que se envolve numa briga alheia é como alguém que agarra um cachorro pelas orelhas." Este versículo ilustra a imprudência de se envolver em conflitos desnecessários, outro tema presente em Eclesiástico 8.
+* Provérbios 29:8: "Zombadores causam tumulto na cidade, mas os sábios acalmam a ira." Esse versículo fala sobre a importância de manter a calma e evitar conflitos, especialmente em situações de tensão, um tema importante em Eclesiástico 8.
+* Eclesiastes 7:9: "Não se apresse em ficar com raiva, porque a raiva se aloja no coração dos tolos." Esse versículo fala sobre a importância de controlar a raiva, o que é um tema presente em Eclesiástico 8, onde a prudência é enfatizada como um valor importante na tomada de decisões.
+****
+
+[[v28-8-1]]
+
+^<<v28-8-1,1>>^ Não disputes com um homem poderoso, para que não caias em suas mãos.
+
+[[v28-8-2]]
+
+^<<v28-8-2,2>>^ Não tenhas desavença com um rico, para não acontecer que ele te mova um processo;
+
+[[v28-8-3]]
+
+^<<v28-8-3,3>>^ pois o ouro e a prata perderam a muitos, e o poder deles chega até a transviar o coração de um rei.
+
+[[v28-8-4]]
+
+^<<v28-8-4,4>>^ Não tenhas desavença com um grande falador, e não amontoes lenha em sua fogueira.
+
+[[v28-8-5]]
+
+^<<v28-8-5,5>>^ Não convivas com um homem mal-educado, para não acontecer que ele fale mal de teus antepassados.
+
+[[v28-8-6]]
+
+^<<v28-8-6,6>>^ Não desprezes um homem que renuncia ao pecado, não lhe dirijas censuras; lembra-te de que todos merecemos o castigo.
+
+[[v28-8-7]]
+
+^<<v28-8-7,7>>^ Não desprezes um ancião, pois alguns dentre nós também envelheceremos.
+
+[[v28-8-8]]
+
+^<<v28-8-8,8>>^ Não te alegres com a morte de teu inimigo, pois sabes que todos morreremos, e não queremos que com isso se regozijem.
+
+[[v28-8-9]]
+
+^<<v28-8-9,9>>^ Não desprezes o que contarem os velhos sábios, mas entretém-te com suas palavras,
+
+[[v28-8-10]]
+
+^<<v28-8-10,10>>^ pois é com eles que aprenderás a sabedoria, os ensinamentos da inteligência, e a arte de servir irrepreensivelmente aos poderosos.
+
+[[v28-8-11]]
+
+^<<v28-8-11,11>>^ Não desprezes os ensinamentos dos anciãos, pois eles os aprenderam com seus pais.
+
+[[v28-8-12]]
+
+^<<v28-8-12,12>>^ Estudarás com eles o conhecimento e a arte de responder com oportunidade.
+
+[[v28-8-13]]
+
+^<<v28-8-13,13>>^ Não acendas os tições dos pecadores, repreendendo-os, para não acontecer que te queimes nas chamas dos seus pecados.
+
+[[v28-8-14]]
+
+^<<v28-8-14,14>>^ Não resistas perante um insolente, para que ele não arme ciladas às tuas palavras.
+
+[[v28-8-15]]
+
+^<<v28-8-15,15>>^ Não emprestes dinheiro a alguém mais poderoso do que tu, pois, se lhe emprestares, considera-o perdido.
+
+[[v28-8-16]]
+
+^<<v28-8-16,16>>^ Não prestes fiança a outrem além de tuas posses, pois, se o fizeres, considera-te na obrigação de pagá-la.
+
+[[v28-8-17]]
+
+^<<v28-8-17,17>>^ Não julgues o procedimento de um juiz, pois ele julga conforme a equidade.^&#42;1^
+
+[[v28-8-18]]
+
+^<<v28-8-18,18>>^ Não enveredes por um caminho com um audacioso, para não acontecer que ele faça recair sobre ti seus delitos; pois ele só age segundo o seu capricho, e por causa de sua loucura perecerás com ele.
+
+[[v28-8-19]]
+
+^<<v28-8-19,19>>^ Não tenhas desavença com um homem irascível; não vás para o deserto com um audacioso, porque para ele nada vale o sangue, e ele te destruirá quando te achares sem socorro.
+
+[[v28-8-20]]
+
+^<<v28-8-20,20>>^ Não deliberes com loucos, pois só amam o que lhes agrada.^&#42;1^
+
+[[v28-8-21]]
+
+^<<v28-8-21,21>>^ Nada resolvas perante um estranho, pois não sabes o que ele pode imaginar.
+
+[[v28-8-22]]
+
+^<<v28-8-22,22>>^ Não abras teu coração a qualquer homem, para não acontecer que recebas uma falsa amizade, e, além disso, ultrajes.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-007.adoc#v28-7-0[&#60; Capítulo Anterior] | <<v28-8-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-009.adoc#v28-9-0[Próximo Capítulo &#62;]

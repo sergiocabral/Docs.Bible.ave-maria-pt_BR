@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v50-14-0]]
+=== São João, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São João 14 é um dos capítulos mais conhecidos do Evangelho de João, pois nele Jesus se despede de seus discípulos antes de sua prisão e morte, prometendo que enviará o Espírito Santo para consolá-los e guiá-los. Ele também afirma ser o caminho, a verdade e a vida, e ensina sobre a sua relação com o Pai e a importância do amor aos seus mandamentos. Com base nesses temas, aqui estão cinco versículos da Bíblia que se relacionam com o capítulo de João 14:
+* João 16:7: "Todavia, digo-vos a verdade: que vos convém que eu vá, porque, se eu não for, o Consolador não virá a vós; mas, se eu for, enviar-vo-lo-ei." Nesse versículo, Jesus reforça a promessa de que enviará o Espírito Santo para guiar e confortar os seus discípulos, como ele ensina em João 14:16-26.
+* João 10:30: "Eu e o Pai somos um." Nesse versículo, Jesus afirma a sua unidade com o Pai, assim como em João 14:9-11, quando ele diz que quem o viu viu o Pai, e que as palavras que fala não são dele mesmo, mas do Pai que o enviou.
+* 1 João 5:3: "Porque este é o amor de Deus: que guardemos os seus mandamentos; e os seus mandamentos não são pesados." Nesse versículo, o apóstolo João ensina sobre a importância do amor aos mandamentos de Deus, que Jesus enfatiza em João 14:15-24, quando ele diz que quem o ama guardará os seus mandamentos e que aquele que não os ama não o guarda.
+* João 14:6: "Disse-lhe Jesus: Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim." Nesse versículo, Jesus ensina que ele é o único caminho para o Pai, e que a verdade e a vida só podem ser encontradas através dele. Essa mensagem é reforçada em João 14:1-4, quando ele diz que preparará um lugar para seus discípulos na casa do Pai.
+* João 14:27: "Deixo-vos a paz; a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize." Nesse versículo, Jesus promete a seus discípulos a paz que só ele pode dar, como ele ensina em João 14:27-31, quando ele diz que não os deixará órfãos e que eles não precisam temer.
+****
+
+[[v50-14-1]]
+
+^<<v50-14-1,1>>^ “Não se perturbe o vosso coração. Credes em Deus, crede também em mim.^&#42;1^
+
+[[v50-14-2]]
+
+^<<v50-14-2,2>>^ Na casa de meu Pai há muitas moradas. Não fora assim, e eu vos teria dito; pois vou preparar-vos um lugar.^&#42;1^
+
+[[v50-14-3]]
+
+^<<v50-14-3,3>>^ Depois de ir e vos preparar um lugar, voltarei e vos tomarei comigo, para que, onde eu estou, também vós estejais.
+
+[[v50-14-4]]
+
+^<<v50-14-4,4>>^ E vós conheceis o caminho para ir aonde vou.”
+
+[[v50-14-5]]
+
+^<<v50-14-5,5>>^ Disse-lhe Tomé: “Senhor, não sabemos para onde vais. Como podemos conhecer o caminho?”.
+
+[[v50-14-6]]
+
+^<<v50-14-6,6>>^ Jesus lhe respondeu: “Eu sou o caminho, a verdade e a vida; ninguém vem ao Pai senão por mim.
+
+[[v50-14-7]]
+
+^<<v50-14-7,7>>^ Se me conhecêsseis, também certamente conheceríeis meu Pai; desde agora já o conheceis, pois o tendes visto”.
+
+[[v50-14-8]]
+
+^<<v50-14-8,8>>^ Disse-lhe Filipe: “Senhor, mostra-nos o Pai e isso nos basta”.
+
+[[v50-14-9]]
+
+^<<v50-14-9,9>>^ Respondeu Jesus: “Há tanto tempo que estou convosco e não me conheceste, Filipe! Aquele que me viu viu também o Pai. Como, pois, dizes: Mostra-nos o Pai...
+
+[[v50-14-10]]
+
+^<<v50-14-10,10>>^ Não credes que estou no Pai, e que o Pai está em mim? As palavras que vos digo não as digo de mim mesmo; mas o Pai, que permanece em mim, é que realiza as suas próprias obras.
+
+[[v50-14-11]]
+
+^<<v50-14-11,11>>^ Crede-me: estou no Pai, e o Pai em mim. Crede-o ao menos por causa dessas obras.
+
+[[v50-14-12]]
+
+^<<v50-14-12,12>>^ Em verdade, em verdade vos digo: aquele que crê em mim fará também as obras que eu faço, e fará ainda maiores do que estas, porque vou para junto do Pai.
+
+[[v50-14-13]]
+
+^<<v50-14-13,13>>^ E tudo o que pedirdes ao Pai em meu nome, vo-lo farei, para que o Pai seja glorificado no Filho.
+
+[[v50-14-14]]
+
+^<<v50-14-14,14>>^ Qualquer coisa que me pedirdes, em meu nome, vo-lo farei.
+
+[[v50-14-15]]
+
+^<<v50-14-15,15>>^ Se me amais, guardareis os meus mandamentos.
+
+[[v50-14-16]]
+
+^<<v50-14-16,16>>^ E eu rogarei ao Pai, e ele vos dará outro Paráclito, para que fique eternamente convosco.^&#42;1^
+
+[[v50-14-17]]
+
+^<<v50-14-17,17>>^ É o Espírito da Verdade, que o mundo não pode receber, porque não o vê nem o conhece, mas vós o conhecereis, porque permanecerá convosco e estará em vós.
+
+[[v50-14-18]]
+
+^<<v50-14-18,18>>^ Não vos deixarei órfãos. Voltarei a vós.
+
+[[v50-14-19]]
+
+^<<v50-14-19,19>>^ Ainda um pouco de tempo e o mundo já não me verá. Vós, porém, me tornareis a ver, porque eu vivo e vós vivereis.^&#42;1^
+
+[[v50-14-20]]
+
+^<<v50-14-20,20>>^ Naquele dia, conhecereis que estou em meu Pai, e vós em mim e eu em vós.
+
+[[v50-14-21]]
+
+^<<v50-14-21,21>>^ Aquele que tem os meus mandamentos e os guarda, esse é que me ama. E aquele que me ama será amado por meu Pai, e eu o amarei e me manifestarei a ele.
+
+[[v50-14-22]]
+
+^<<v50-14-22,22>>^ Pergunta-lhe Judas, não o Iscariotes: ‘Senhor, por que razão hás de manifestar-te a nós e não ao mundo?’.
+
+[[v50-14-23]]
+
+^<<v50-14-23,23>>^ Respondeu-lhe Jesus: Se alguém me ama, guardará a minha palavra e meu Pai o amará, e nós viremos a ele e nele faremos nossa morada.
+
+[[v50-14-24]]
+
+^<<v50-14-24,24>>^ Aquele que não me ama não guarda as minhas palavras. A palavra que tendes ouvido não é minha, mas sim do Pai que me enviou.
+
+[[v50-14-25]]
+
+^<<v50-14-25,25>>^ Disse-vos essas coisas enquanto estou convosco.
+
+[[v50-14-26]]
+
+^<<v50-14-26,26>>^ Mas o Paráclito, o Espírito Santo, que o Pai enviará em meu nome, irá ensinar-vos todas as coisas e vos recordará tudo o que vos tenho dito.
+
+[[v50-14-27]]
+
+^<<v50-14-27,27>>^ Deixo-vos a paz, dou-vos a minha paz. Não vo-la dou como o mundo a dá. Não se perturbe o vosso coração, nem se atemorize!
+
+[[v50-14-28]]
+
+^<<v50-14-28,28>>^ Ouvistes o que eu vos disse: Vou e volto a vós. Se me amardes, certamente haveis de alegrar-vos, que vou para junto do Pai, porque o Pai é maior do que eu.
+
+[[v50-14-29]]
+
+^<<v50-14-29,29>>^ E disse-vos agora essas coisas, antes que aconteçam, para que creiais quando acontecerem.
+
+[[v50-14-30]]
+
+^<<v50-14-30,30>>^ Já não falarei muito convosco, porque vem o príncipe deste mundo; mas ele não tem nada em mim.^&#42;1^
+
+[[v50-14-31]]
+
+^<<v50-14-31,31>>^ O mundo, porém, deve saber que amo o Pai e procedo como o Pai me ordenou. Levantai-vos, vamo-nos daqui”.^&#42;1^
+
+'''
+
+xref:050-sao-joao/050-sao-joao-013.adoc#v50-13-0[&#60; Capítulo Anterior] | <<v50-14-0,Topo>> | xref:050-sao-joao/050-sao-joao-015.adoc#v50-15-0[Próximo Capítulo &#62;]

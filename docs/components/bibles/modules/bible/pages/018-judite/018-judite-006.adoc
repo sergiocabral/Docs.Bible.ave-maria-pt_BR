@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v18-6-0]]
+=== Judite, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Judite 6 relata a reunião dos governantes de cidades vizinhas a Israel para discutir a guerra que estava ocorrendo. Eles decidiram unir suas forças para atacar Israel, mas primeiro convocaram o líder dos israelitas, Uzias, para convencê-lo a se render. Uzias respondeu corajosamente, lembrando aos governantes a proteção que Deus dá ao seu povo e recusando-se a ceder. Com base nesse contexto, segue abaixo cinco versículos relacionados com o tema abordado em Judite 6:
+* Salmos 124:2-3: "Se o Senhor não estivesse ao nosso lado quando os inimigos nos atacaram, teriam nos tragado vivos, tamanha era a fúria que tinham contra nós." Este salmo reflete a confiança dos israelitas na proteção de Deus em tempos de guerra.
+* Deuteronômio 20:1-4: "Quando vocês forem à guerra contra seus inimigos e vir cavalos e carros de guerra, um exército maior do que o seu, não tenham medo deles, pois o Senhor, o seu Deus, que os tirou do Egito, está com vocês." Esse versículo encoraja os israelitas a não terem medo em batalha, lembrando-lhes da presença de Deus em suas vidas.
+* Josué 23:10: "Um só homem de vocês faz fugir mil, pois o Senhor, o seu Deus, luta por vocês, como prometeu." Este versículo também reforça a ideia de que a presença de Deus pode garantir a vitória em batalha, mesmo quando as probabilidades parecem estar contra Israel.
+* Êxodo 15:3: "O Senhor é guerreiro; o Senhor é seu nome." Este verso celebra a natureza guerreira de Deus, lembrando-nos de que ele está sempre pronto para lutar pelo seu povo.
+* 2 Crônicas 14:11: "Ó Senhor, não há ninguém como tu para ajudar os fracos contra os poderosos. Ajuda-nos, ó Senhor nosso Deus, pois em ti pomos a nossa confiança, e em teu nome viemos contra este imenso exército. Ó Senhor, tu és o nosso Deus; que nenhum homem prevaleça contra ti." Este versículo oferece uma oração de confiança a Deus em tempos de guerra, lembrando-nos que a nossa segurança vem de colocarmos nossa confiança em Deus.
+****
+
+[[v18-6-1]]
+
+^<<v18-6-1,1>>^ A estas palavras, Holofernes encolerizou-se e disse a Aquior:
+
+[[v18-6-2]]
+
+^<<v18-6-2,2>>^ “Já que nos predisseste que a nação de Israel será defendida por seu Deus, vou mostrar-te que não há outro deus senão Nabucodonosor:
+
+[[v18-6-3]]
+
+^<<v18-6-3,3>>^ quando os tivermos ferido a todos como a um só homem, perecerás tu também com eles pela espada dos assírios e todo o Israel desaparecerá contigo.
+
+[[v18-6-4]]
+
+^<<v18-6-4,4>>^ Assim aprenderás que Nabucodonosor é o senhor de toda a terra. A espada de meus soldados atravessará tuas costas e cairás transpassado no meio dos feridos de Israel. Não respirarás mais senão para ser exterminado com eles.
+
+[[v18-6-5]]
+
+^<<v18-6-5,5>>^ Se crês na verdade de tua profecia, não desanimes; muda a palidez de tua face, se pensas que minhas palavras não se podem realizar.
+
+[[v18-6-6]]
+
+^<<v18-6-6,6>>^ E para que saibas que terás a mesma sorte que eles, serás desde já associado a esse povo, a fim de sofreres com eles os golpes de minha vingança, quando minha espada infligir-lhes o castigo que merecem”.
+
+[[v18-6-7]]
+
+^<<v18-6-7,7>>^ Então, Holofernes ordenou aos seus homens que prendessem Aquior e o levassem a Betúlia para entregá-lo nas mãos dos israelitas.^&#42;1^
+
+[[v18-6-8]]
+
+^<<v18-6-8,8>>^ Os escravos de Holofernes tomaram-no e se foram através da planície. Ao se aproximarem dos montes, porém, saíram contra eles os atiradores de funda
+
+[[v18-6-9]]
+
+^<<v18-6-9,9>>^ e eles desviaram-se para os lados da montanha, onde ataram Aquior a uma árvore pelas mãos e pés. Abandonaram-no ali amarrado e voltaram para o seu senhor.
+
+[[v18-6-10]]
+
+^<<v18-6-10,10>>^ Ora, os israelitas que desciam de Betúlia encontraram-no e, soltando-o, levaram-no para a cidade. Puseram-no no meio do povo e perguntaram-lhe o motivo por que os assírios o deixaram amarrado.
+
+[[v18-6-11]]
+
+^<<v18-6-11,11>>^ Naquele tempo, Betúlia era governada por Ozias, filho de Micas, da tribo de Simeão e por Carmi, também chamado Gotoniel.
+
+[[v18-6-12]]
+
+^<<v18-6-12,12>>^ E, estando no meio dos anciãos e em presença de todo o povo, Aquior contou tudo o que tinha respondido quando Holofernes o interrogara e como a gente de Holofernes quis matá-lo por ter ele falado assim;
+
+[[v18-6-13]]
+
+^<<v18-6-13,13>>^ e como Holofernes, encolerizado, ordenara que ele fosse por esse motivo entregue aos israelitas, a fim de que, após a vitória sobre eles, ele fizesse perecer também Aquior com diversos suplícios, porque ele dissera que o Deus do céu era o defensor de Israel.
+
+[[v18-6-14]]
+
+^<<v18-6-14,14>>^ Após essa narração de Aquior, todo o povo se prostrou com o rosto por terra em adoração diante do Senhor e todos, unidos de coração, oraram ao Senhor com gemidos e prantos:
+
+[[v18-6-15]]
+
+^<<v18-6-15,15>>^ “Senhor – disseram eles –, Deus do céu e da terra, vede o seu orgulho e olhai para a nossa humilhação. Lançai os vossos olhos sobre os vossos fiéis. Mostrai que não abandonais aqueles que confiam em vós, mas que humilhais os que presumem de si mesmos e se gloriam do seu poder”.
+
+[[v18-6-16]]
+
+^<<v18-6-16,16>>^ Acabada a lamentação e terminada a prece do povo, que durou um dia todo, encorajaram Aquior, dizendo:
+
+[[v18-6-17]]
+
+^<<v18-6-17,17>>^ “O Deus de nossos pais, cujo poder proclamaste, te concederá a recompensa de veres tu a ruína deles.
+
+[[v18-6-18]]
+
+^<<v18-6-18,18>>^ Quando o Senhor, nosso Deus, tiver livrado os seus servos, que ele esteja também contigo no meio de nós, a fim de que vivas, tu e os teus, conosco, como for do teu agrado”.
+
+[[v18-6-19]]
+
+^<<v18-6-19,19>>^ Então, Ozias, despedida a assembleia, recebeu Aquior em sua casa e ofereceu-lhe uma grande ceia.
+
+[[v18-6-20]]
+
+^<<v18-6-20,20>>^ E foram convidados a ela todos os anciãos, (pois já) tinha terminado o jejum e comeram juntos alegremente.
+
+[[v18-6-21]]
+
+^<<v18-6-21,21>>^ Depois foi convocado todo o povo e oraram durante toda a noite no lugar onde estavam reunidos, pedindo socorro ao Deus de Israel.
+
+'''
+
+xref:018-judite/018-judite-005.adoc#v18-5-0[&#60; Capítulo Anterior] | <<v18-6-0,Topo>> | xref:018-judite/018-judite-007.adoc#v18-7-0[Próximo Capítulo &#62;]

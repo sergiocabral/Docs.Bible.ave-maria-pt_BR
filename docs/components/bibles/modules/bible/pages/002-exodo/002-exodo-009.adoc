@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v2-9-0]]
+=== Êxodo, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em Êxodo 9, Deus continua a enviar pragas sobre o Egito como forma de mostrar seu poder e forçar o faraó a libertar o povo de Israel. As pragas incluem a morte do gado, úlceras nos animais e nos humanos, granizo e gafanhotos.
+* Jó 37:13: "Ele os faz cair, quer para disciplina, quer para demonstrar o seu amor misericordioso." Esse versículo fala sobre como Deus usa eventos naturais para disciplinar ou mostrar misericórdia aos seres humanos, o que pode ser aplicado à envio de pragas para o Egito em Êxodo 9.
+* Isaías 45:7: "Eu formo a luz e crio as trevas, promovo a paz e causo a desgraça; eu, o Senhor, faço todas essas coisas." Este versículo fala sobre como Deus tem controle absoluto sobre tudo o que acontece na terra, incluindo a capacidade de enviar pragas e desgraças.
+* Jeremias 5:12: "Eles negam ao Senhor, dizendo: ‘Ele não existe! Não acontecerá nada de mal. Não veremos espada nem fome.’" Este versículo pode ser aplicado à atitude do faraó em Êxodo 9, que se recusou a ouvir os avisos de Deus e sofreu as consequências das pragas.
+* Deuteronômio 7:15: "O Senhor removerá de você todas as doenças. Ele não permitirá que você sofra nenhuma das doenças terríveis que você conheceu no Egito; mas as imporá a todos os que os odeiam." Este versículo fala sobre como Deus pode curar e proteger os seus seguidores de doenças e pragas, enquanto as impõe aos seus inimigos.
+* Salmos 105:27-28: "Eles executaram seus sinais miraculosos entre eles, suas maravilhas na terra de Cam. Ele enviou trevas que os envolveram, e a escuridão os cobriu." Este versículo fala sobre os sinais e maravilhas que Deus realizou no Egito, incluindo a praga das trevas em Êxodo 9.
+****
+
+[[v2-9-1]]
+
+^<<v2-9-1,1>>^ O Senhor disse a Moisés: “Vai procurar o faraó e dize-lhe: Eis o que diz o Senhor, Deus dos hebreus: Deixa ir o meu povo, para que ele me preste um culto.
+
+[[v2-9-2]]
+
+^<<v2-9-2,2>>^ Se recusas, se persistes em retê-lo,
+
+[[v2-9-3]]
+
+^<<v2-9-3,3>>^ a mão do Senhor vai pesar sobre os teus animais que estão nos campos, sobre os cavalos, os jumentos, os camelos, os bois e as ovelhas: haverá uma peste terrível.
+
+[[v2-9-4]]
+
+^<<v2-9-4,4>>^ Entretanto, o Senhor fará uma distinção entre os animais dos israelitas e os dos egípcios, e nada perecerá de tudo o que pertence aos israelitas”.
+
+[[v2-9-5]]
+
+^<<v2-9-5,5>>^ O Senhor fixou o prazo nestes termos: “Amanhã, o Senhor fará isso na terra”.
+
+[[v2-9-6]]
+
+^<<v2-9-6,6>>^ No dia seguinte, o Senhor cumpriu sua palavra: todos os animais dos egípcios pereceram, mas não morreu um animal sequer dos rebanhos dos israelitas.
+
+[[v2-9-7]]
+
+^<<v2-9-7,7>>^ Tendo o faraó mandado examinar, verificou que não morrera nem um só animal dos rebanhos dos israelitas. Mas o coração do faraó ficou endurecido, e ele não deixou ir o povo.
+
+[[v2-9-8]]
+
+^<<v2-9-8,8>>^ O Senhor disse a Moisés e a Aarão: “Tomai vossas duas mãos cheias de cinza do forno, e Moisés a lance para o céu diante dos olhos do faraó.
+
+[[v2-9-9]]
+
+^<<v2-9-9,9>>^ Ela se tornará uma poeira que se espalhará por todo o Egito, e haverá em todo o Egito, sobre os homens e sobre os animais, tumores que se arrebentarão em úlceras”.
+
+[[v2-9-10]]
+
+^<<v2-9-10,10>>^ Tomaram, pois, da cinza do forno e apresentaram-se diante do faraó. Moisés atirou-a para o céu e produziram-se, sobre os homens e sobre os animais, tumores que se arrebentaram em úlceras.
+
+[[v2-9-11]]
+
+^<<v2-9-11,11>>^ Os mágicos não puderam aparecer diante de Moisés por causa das úlceras, porque foram atingidos como todos os egípcios.
+
+[[v2-9-12]]
+
+^<<v2-9-12,12>>^ O Senhor endureceu o coração do faraó, que, como o Senhor havia predito, não ouviu Moisés e Aarão.
+
+[[v2-9-13]]
+
+^<<v2-9-13,13>>^ O Senhor disse a Moisés: “Tu te apresentarás amanhã cedo diante do faraó, e lhe dirás: Eis o que diz o Senhor, Deus dos hebreus: Deixa partir meu povo para que me preste um culto,
+
+[[v2-9-14]]
+
+^<<v2-9-14,14>>^ porque desta vez vou descarregar todos os meus flagelos sobre tua pessoa, tua gente e teu povo, a fim de que saibas que não há ninguém semelhante a mim em toda a terra.
+
+[[v2-9-15]]
+
+^<<v2-9-15,15>>^ Eu poderia, num instante, estendendo a minha mão, ferir-te de peste, tu e o teu povo; e tu já terias desaparecido da terra.
+
+[[v2-9-16]]
+
+^<<v2-9-16,16>>^ Mas, se te deixo incólume, é para que vejas o meu poder, e que o meu nome seja glorificado por toda a terra.^&#42;1^
+
+[[v2-9-17]]
+
+^<<v2-9-17,17>>^ Se te obstinas em impedir a partida de meu povo,
+
+[[v2-9-18]]
+
+^<<v2-9-18,18>>^ amanhã, a esta mesma hora, farei cair uma chuva de pedras tão violenta como nunca houve outra igual no Egito, desde sua origem até o dia de hoje.
+
+[[v2-9-19]]
+
+^<<v2-9-19,19>>^ Mete, pois, ao abrigo, teus animais e tudo o que tens nos campos, porque todos os homens e todos os animais, que se encontrarem fora de casa nos campos, serão atingidos pela saraiva e morrerão”.
+
+[[v2-9-20]]
+
+^<<v2-9-20,20>>^ Aqueles dentre a gente do faraó, que temem a palavra do Senhor, porão seus servos e seus rebanhos ao abrigo nas casas.
+
+[[v2-9-21]]
+
+^<<v2-9-21,21>>^ Mas os que não fazem caso da palavra do Senhor, deixarão nos campos seus escravos e seus rebanhos.
+
+[[v2-9-22]]
+
+^<<v2-9-22,22>>^ O Senhor disse a Moisés: “Estende a mão para o céu, para que caia uma chuva de granizo em todo o Egito sobre os homens, os animais e sobre toda a erva dos campos”.
+
+[[v2-9-23]]
+
+^<<v2-9-23,23>>^ Moisés estendeu sua vara para o céu, e o Senhor enviou trovões e chuva de pedras, e o fogo do céu caiu sobre a terra. O Senhor fez chover granizo sobre o Egito.
+
+[[v2-9-24]]
+
+^<<v2-9-24,24>>^ Caiu granizo misturado com fogo; e caiu com tanta violência como nunca houve semelhante em todo o Egito, desde que veio a ser uma nação.
+
+[[v2-9-25]]
+
+^<<v2-9-25,25>>^ Em todo o Egito a chuva de pedras feriu tudo o que estava nos campos, homens e animais, e feriu toda a erva dos campos e quebrou todas as árvores dos campos.
+
+[[v2-9-26]]
+
+^<<v2-9-26,26>>^ Só a terra de Gessen, onde se encontravam os israelitas, foi poupada.
+
+[[v2-9-27]]
+
+^<<v2-9-27,27>>^ O rei mandou chamar Moisés e Aarão e disse-lhes: “Desta vez eu pequei. O Senhor é justo; eu e meu povo fomos culpados.
+
+[[v2-9-28]]
+
+^<<v2-9-28,28>>^ Rogai ao Senhor para que cessem os trovões e o granizo. Eu vos deixarei ir, e não vos reterei mais”.
+
+[[v2-9-29]]
+
+^<<v2-9-29,29>>^ Moisés disse-lhe: “Logo que eu tiver saído da cidade, levantarei minhas mãos para o Senhor: os trovões cessarão e não haverá mais granizo, para que saibas que a terra pertence ao Senhor.
+
+[[v2-9-30]]
+
+^<<v2-9-30,30>>^ Mas sei que tu e tua gente não temeis ainda o Senhor Deus”.
+
+[[v2-9-31]]
+
+^<<v2-9-31,31>>^ O linho e a cevada foram destruídos, porque o centeio estava espigando e o linho estava em flor;
+
+[[v2-9-32]]
+
+^<<v2-9-32,32>>^ o trigo, porém, e o centeio se salvaram, porque são tardios.
+
+[[v2-9-33]]
+
+^<<v2-9-33,33>>^ Moisés partiu da casa do faraó e deixou a cidade. E levantou as mãos para o Senhor: cessaram os trovões e o granizo, e parou de chover sobre a terra.
+
+[[v2-9-34]]
+
+^<<v2-9-34,34>>^ Vendo o faraó que cessara a chuva, assim como o granizo e os trovões, continuou a pecar e endureceu seu coração, ele e sua gente.
+
+[[v2-9-35]]
+
+^<<v2-9-35,35>>^ E, tendo-se obstinado o coração do faraó, não deixou partir os israelitas, assim como o Senhor havia predito pela voz de Moisés.
+
+'''
+
+xref:002-exodo/002-exodo-008.adoc#v2-8-0[&#60; Capítulo Anterior] | <<v2-9-0,Topo>> | xref:002-exodo/002-exodo-010.adoc#v2-10-0[Próximo Capítulo &#62;]

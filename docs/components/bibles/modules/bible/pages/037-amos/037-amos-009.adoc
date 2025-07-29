@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v37-9-0]]
+=== Amós, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Amós 9 é o capítulo final do livro de Amós, e nele o profeta apresenta a visão de Deus sobre o futuro de Israel e sua promessa de restauração e bênçãos. Alguns dos temas abordados neste capítulo incluem o julgamento de Deus sobre Israel, a restauração futura do reino de Davi e a abundância de bênçãos prometidas a Israel. Aqui estão cinco versículos relacionados a esses temas:
+* Salmos 85:8 - "Certamente que a sua salvação está perto daqueles que o temem, para que a glória habite na nossa terra." Este versículo fala sobre a salvação de Deus, que é uma das promessas de Amós 9:11-12 para o povo de Israel.
+* Jeremias 30:3 - "Porque eis que vêm dias, diz o Senhor, em que farei voltar do cativeiro o meu povo Israel e Judá, diz o Senhor; e os farei voltar à terra que dei a seus pais, e a possuirão." Este versículo se relaciona com a promessa de restauração de Amós 9:14-15.
+* Isaías 55:12 - "Porque com alegria saireis, e em paz sereis guiados; os montes e os outeiros romperão em cântico diante de vós, e todas as árvores do campo baterão palmas." Este versículo fala sobre a alegria e a paz que serão experimentadas durante a restauração de Israel, que é uma das promessas de Amós 9:13.
+* Zacarias 10:6 - "Porque fortalecerei a casa de Judá, e salvarei a casa de José, e torná-los-ei a estabelecer, porque deles tenho piedade; e serão como se os não tivesse rejeitado; porque eu sou o Senhor seu Deus, e os ouvirei." Este versículo se relaciona com a promessa de que Deus restaurará a casa de Davi em Amós 9:11.
+* Ezequiel 36:29-30 - "E vos livrarei de todas as vossas imundícias, e chamarei o trigo, e o multiplicarei, e não vos trarei fome. Multiplicarei também o fruto das árvores, e o fruto dos campos, para que nunca mais recebais afronta de fome entre os gentios." Este versículo fala sobre a abundância que Deus prometeu a Israel após sua restauração, o que se relaciona com a promessa de Amós 9:13-14.
+****
+
+[[v37-9-1]]
+
+^<<v37-9-1,1>>^ Vi o Senhor de pé junto do altar. Ele me disse: “Fere o capitel, para que se estremeçam os umbrais. Quebra-os por cima das cabeças de todos; matarei à espada o que restar, sem que ninguém possa fugir nem escapar.
+
+[[v37-9-2]]
+
+^<<v37-9-2,2>>^ Mesmo que desçam à morada dos mortos, minha mão os arrancará de lá; ainda que subam aos céus, eu os farei descer dali;
+
+[[v37-9-3]]
+
+^<<v37-9-3,3>>^ se se esconderem no cimo do Carmelo, eu os irei buscar e os tirarei de lá; se se ocultarem de meus olhos no fundo do mar, lá ordenarei ao dragão que os morda;
+
+[[v37-9-4]]
+
+^<<v37-9-4,4>>^ se forem levados cativos pelos inimigos, ordenarei à espada que os mate. Terei meus olhos fixos neles para o seu mal, não para o seu bem”.
+
+[[v37-9-5]]
+
+^<<v37-9-5,5>>^ O Senhor Javé dos exércitos toca a terra, ela se funde, e todos os seus habitantes ficam de luto. Todo o solo cresce como o Nilo, e baixa como o rio do Egito.
+
+[[v37-9-6]]
+
+^<<v37-9-6,6>>^ Aquele que constrói seus aposentos no céu, e firma sobre a terra a abóbada celeste, aquele que convoca as águas do mar, e as derrama sobre a face da terra – “Senhor” é o seu nome.
+
+[[v37-9-7]]
+
+^<<v37-9-7,7>>^ Acaso não sois vós para mim, ó filhos de Israel, como os etíopes? – oráculo do Senhor. Se tirei Israel do Egito, não tirei também os filisteus de Caftor, e os sírios de Quir?^&#42;1^
+
+[[v37-9-8]]
+
+^<<v37-9-8,8>>^ Eis que os olhos do Senhor Javé estão fixos no reino pecador: eu o farei desaparecer da face da terra, mas não destruirei completamente a casa de Jacó – oráculo do Senhor.
+
+[[v37-9-9]]
+
+^<<v37-9-9,9>>^ Porque vou dar ordens; vou sacudir a casa de Israel entre todas as nações, como se sacode o grão na peneira sem que um só grão caia por terra.
+
+[[v37-9-10]]
+
+^<<v37-9-10,10>>^ Todos os pecadores do meu povo perecerão pela espada, embora digam: “Não seremos atingidos, não virá sobre nós o mal”.
+
+[[v37-9-11]]
+
+^<<v37-9-11,11>>^ Naquele dia, levantarei a cabana arruinada de Davi, repararei as suas brechas, levantarei as suas ruínas, e a reconstruirei como nos dias antigos,^&#42;1^
+
+[[v37-9-12]]
+
+^<<v37-9-12,12>>^ para que herdem o que resta de Edom, e de todas as nações sobre as quais o meu nome foi invocado – oráculo do Senhor, que executará estas coisas.
+
+[[v37-9-13]]
+
+^<<v37-9-13,13>>^ Eis que vêm dias – oráculo do Senhor –, em que seguirão de perto o que planta e o que colhe, o que pisa os cachos e o que semeia; o mosto correrá pelas montanhas, todas as colinas se derreterão.
+
+[[v37-9-14]]
+
+^<<v37-9-14,14>>^ Restaurarei, então, o meu povo de Israel: reconstruirão as cidades devastadas e as habitarão; plantarão vinhas e beberão o seu vinho, cultivarão pomares e comerão os seus frutos.
+
+[[v37-9-15]]
+
+^<<v37-9-15,15>>^ Eu os implantarei no seu solo, e não serão mais arrancados da terra que lhes dei – oráculo do Senhor, teu Deus.
+
+'''
+
+xref:037-amos/037-amos-008.adoc#v37-8-0[&#60; Capítulo Anterior] | <<v37-9-0,Topo>> | xref:038-abdias/038-abdias-001.adoc#v38-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,223 @@
+include::./index.adoc[]
+
+[[v4-3-0]]
+=== Números, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 3 descreve a designação dos filhos de Levi como sacerdotes e sua atribuição a tarefas específicas no serviço do tabernáculo. Os filhos de Levi são separados do resto dos israelitas e designados para cuidar da tenda da reunião e de todos os objetos sagrados nela contidos. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Êxodo 6:16-19: "São estes os nomes dos filhos de Levi, segundo a ordem de seus nascimentos: Gérson, Coate e Merari. [...] O filho de Gérson foi Libni e Simei, e suas famílias. [...] O filho de Coate foi Anrão, Izar, Hebrom e Uziel, e suas famílias. [...] O filho de Merari foi Mali e Musi. Estas são as famílias dos levitas, segundo a ordem de seus nascimentos." Este versículo se relaciona com Números 3 em geral, que descreve a designação dos filhos de Levi para o serviço no tabernáculo.
+* Êxodo 28:1: "Agora, chame seu irmão Arão e seus filhos para se juntarem a você, os quais serão escolhidos dentre os israelitas para servirem como sacerdotes, para se aproximarem de mim e me servirem." Este versículo se relaciona com Números 3:10, que especifica que apenas Arão e seus filhos serão designados como sacerdotes para o serviço no tabernáculo.
+* Êxodo 30:12-13: "Quando fizer o recenseamento dos israelitas, cada um deles terá que dar ao Senhor uma moeda de prata, de acordo com o peso padrão do santuário [...] O dinheiro do resgate dos primogênitos deverá ser usado para o serviço do tabernáculo da tenda da reunião." Este versículo se relaciona com Números 3:12-13, que descreve como os primogênitos dos israelitas serão redimidos e como o dinheiro do resgate será usado no serviço do tabernáculo.
+* Êxodo 25:9: "Construam para mim um santuário e eu habitarei no meio de vocês." Este versículo se relaciona com Números 3 em geral, que descreve como os levitas são designados para cuidar do tabernáculo, onde Deus habita no meio do povo de Israel.
+* Êxodo 40:38: "Porque a nuvem do Senhor ficava sobre o tabernáculo durante o dia, e durante a noite havia fogo nele, à vista de todo o povo de Israel, em todas as suas jornadas." Este versículo se relaciona com Números 3 em geral, que descreve como os levitas são designados para cuidar do tabernáculo, onde Deus se manifesta em nuvem e fogo.
+****
+
+[[v4-3-1]]
+
+^<<v4-3-1,1>>^ Eis a posteridade de Aarão e de Moisés, no tempo em que o Senhor falou a Moisés, no monte Sinai.
+
+[[v4-3-2]]
+
+^<<v4-3-2,2>>^ Eis os nomes dos filhos de Aarão: Nadab, o mais velho, Abiú, Eleazar e Itamar.
+
+[[v4-3-3]]
+
+^<<v4-3-3,3>>^ São esses os nomes dos filhos de Aarão, sacerdotes que receberam a unção e a investidura sacerdotal.
+
+[[v4-3-4]]
+
+^<<v4-3-4,4>>^ Nadab e Abiú morreram diante do Senhor, quando levaram à sua presença um fogo estranho, no deserto do Sinai. Não tinham filhos. Eleazar e Itamar exerceram o ministério sacerdotal em presença de Aarão, seu pai.
+
+[[v4-3-5]]
+
+^<<v4-3-5,5>>^ O Senhor disse a Moisés:
+
+[[v4-3-6]]
+
+^<<v4-3-6,6>>^ “Manda vir a tribo de Levi e apresenta-a ao sacerdote Aarão para servi-lo.
+
+[[v4-3-7]]
+
+^<<v4-3-7,7>>^ Os levitas se encarregarão de tudo o que foi confiado aos seus cuidados e aos de toda a assembleia, diante da tenda de reunião: e farão assim o serviço do tabernáculo.
+
+[[v4-3-8]]
+
+^<<v4-3-8,8>>^ Zelarão por todos os utensílios da tenda de reunião e do que foi confiado aos cuidados dos israelitas; e farão assim o serviço do tabernáculo.
+
+[[v4-3-9]]
+
+^<<v4-3-9,9>>^ Darás os levitas a Aarão e seus filhos. Eles serão escolhidos dentre os filhos de Israel para serem inteiramente dele.
+
+[[v4-3-10]]
+
+^<<v4-3-10,10>>^ Estabelecerás Aarão e seus filhos para exercerem o ministério sacerdotal. O estrangeiro que se aproximar do santuário será punido de morte”.
+
+[[v4-3-11]]
+
+^<<v4-3-11,11>>^ O Senhor disse a Moisés:
+
+[[v4-3-12]]
+
+^<<v4-3-12,12>>^ “Eu tomei os levitas dentre os filhos de Israel em lugar de todo primogênito, que abre o seio de sua mãe entre todos os israelitas. Os levitas serão meus.
+
+[[v4-3-13]]
+
+^<<v4-3-13,13>>^ Com efeito, todo primogênito é meu. No dia em que feri todos os primogênitos no Egito, reservei para mim todos os que nascem primeiro em Israel, desde os homens até os animais; são meus. Eu sou o Senhor”.
+
+[[v4-3-14]]
+
+^<<v4-3-14,14>>^ O Senhor disse a Moisés, no deserto do Sinai:
+
+[[v4-3-15]]
+
+^<<v4-3-15,15>>^ “Conta os levitas segundo suas casas patriarcais e segundo suas famílias, todos os varões de um mês para cima”.
+
+[[v4-3-16]]
+
+^<<v4-3-16,16>>^ E Moisés fez esse recenseamento conforme o Senhor lhe tinha ordenado.
+
+[[v4-3-17]]
+
+^<<v4-3-17,17>>^ Eis os nomes dos filhos de Levi: Gérson, Caat e Merari.
+
+[[v4-3-18]]
+
+^<<v4-3-18,18>>^ Eis os nomes dos filhos de Gérson, segundo suas famílias: Lobni e Semei.
+
+[[v4-3-19]]
+
+^<<v4-3-19,19>>^ Filhos de Caat, segundo suas famílias: Amram, Isaar, Hebron e Oziel.
+
+[[v4-3-20]]
+
+^<<v4-3-20,20>>^ Filhos de Merari, segundo suas famílias: Mooli e Musi. São estas as famílias de Levi, segundo suas casas patriarcais.
+
+[[v4-3-21]]
+
+^<<v4-3-21,21>>^ De Gérson provêm as famílias de Lobni e de Semei: são as famílias dos gersonitas.
+
+[[v4-3-22]]
+
+^<<v4-3-22,22>>^ Contando todos os varões da idade de um mês para cima, foram recenseados sete mil e quinhentos.
+
+[[v4-3-23]]
+
+^<<v4-3-23,23>>^ As famílias dos gersonitas acampavam ao ocidente, atrás do tabernáculo.
+
+[[v4-3-24]]
+
+^<<v4-3-24,24>>^ O príncipe da casa patriarcal dos gersonitas era Eliasaf, filho de Lael.
+
+[[v4-3-25]]
+
+^<<v4-3-25,25>>^ Na tenda de reunião tinham os gersonitas o cuidado do tabernáculo e da tenda, de sua coberta, do véu que cobria a entrada da tenda de reunião,
+
+[[v4-3-26]]
+
+^<<v4-3-26,26>>^ das cortinas do átrio, do véu de entrada no átrio, que circundavam o tabernáculo e o altar, e de suas cordas para todo o serviço.
+
+[[v4-3-27]]
+
+^<<v4-3-27,27>>^ De Caat provêm as famílias dos amramitas, dos jessaritas, dos habronitas e os ozielitas: essas são as famílias dos caatitas.
+
+[[v4-3-28]]
+
+^<<v4-3-28,28>>^ Contando todos os varões da idade de um mês para cima, havia oito mil e trezentos encarregados do santuário.
+
+[[v4-3-29]]
+
+^<<v4-3-29,29>>^ As famílias dos caatitas acampavam para a banda do meio-dia, ao lado do tabernáculo.
+
+[[v4-3-30]]
+
+^<<v4-3-30,30>>^ O príncipe da casa patriarcal das famílias dos caatitas era Elisafã, filho de Oziel.
+
+[[v4-3-31]]
+
+^<<v4-3-31,31>>^ Aos seus cuidados foi confiada a guarda da arca, da mesa, do candelabro, dos altares e dos utensílios do santuário que serviam para o ministério, o véu e tudo o que se relacionava com o seu serviço.
+
+[[v4-3-32]]
+
+^<<v4-3-32,32>>^ O príncipe dos príncipes dos levitas era Eleazar, filho do sacerdote Aarão: ele tinha a superintendência sobre os que velavam pela guarda do santuário.
+
+[[v4-3-33]]
+
+^<<v4-3-33,33>>^ De Merari provêm a família dos moolitas e as dos musitas: essas são as famílias dos meraritas.
+
+[[v4-3-34]]
+
+^<<v4-3-34,34>>^ Contando todos os varões da idade de um mês para cima, foram recenseados seis mil e duzentos.
+
+[[v4-3-35]]
+
+^<<v4-3-35,35>>^ O príncipe da casa patriarcal das famílias de Merari era Suriel, filho de Abiail. Acampavam ao norte do tabernáculo.
+
+[[v4-3-36]]
+
+^<<v4-3-36,36>>^ Os filhos de Merari tinham a guarda das tábuas do tabernáculo, de suas travessas, suas colunas, seus pedestais, de todos os seus utensílios e de todo o seu serviço,
+
+[[v4-3-37]]
+
+^<<v4-3-37,37>>^ das colunas que se encontravam em volta do átrio com seus pedestais, suas estacas e suas cordas.
+
+[[v4-3-38]]
+
+^<<v4-3-38,38>>^ Moisés, Aarão e seus filhos acampavam diante do tabernáculo, ao oriente, diante da tenda de reunião, ao nascente, e tinham o cuidado do santuário para os israelitas. O estrangeiro que se aproximasse devia ser punido de morte.
+
+[[v4-3-39]]
+
+^<<v4-3-39,39>>^ O total dos levitas recenseados por Moisés, segundo suas famílias, assim como o Senhor ordenara todos os varões da idade de um mês para cima, era de vinte e dois mil.
+
+[[v4-3-40]]
+
+^<<v4-3-40,40>>^ O Senhor disse a Moisés: “Faze o recenseamento de todos os primogênitos varões entre os israelitas, da idade de um mês para cima, e faze o levantamento dos seus nomes.
+
+[[v4-3-41]]
+
+^<<v4-3-41,41>>^ Tomarás para mim os levitas em lugar de todos os primogênitos israelitas. Eu sou o Senhor. Tomarás o gado dos levitas em lugar de todos os primogênitos do gado dos israelitas”.
+
+[[v4-3-42]]
+
+^<<v4-3-42,42>>^ Moisés recenseou todos os primogênitos israelitas segundo a ordem que lhe tinha dado o Senhor.
+
+[[v4-3-43]]
+
+^<<v4-3-43,43>>^ Todos os primogênitos varões recenseados e contados nominalmente, da idade de um mês para cima, eram vinte e dois mil duzentos e setenta e tres.
+
+[[v4-3-44]]
+
+^<<v4-3-44,44>>^ O Senhor disse a Moisés:
+
+[[v4-3-45]]
+
+^<<v4-3-45,45>>^ “Toma os levitas em lugar de todos os primogênitos israelitas, e o gado dos levitas, em lugar do deles. Os levitas serão meus. Eu sou o Senhor.
+
+[[v4-3-46]]
+
+^<<v4-3-46,46>>^ Como resgate dos duzentos e setenta e tres primogênitos israelitas que excedem o número dos levitas,
+
+[[v4-3-47]]
+
+^<<v4-3-47,47>>^ tomarás cinco siclos por cabeça, de acordo com o siclo do santuário, o qual é de vinte gueras.
+
+[[v4-3-48]]
+
+^<<v4-3-48,48>>^ Darás esse dinheiro a Aarão e a seus filhos para o resgate daqueles que ultrapassam o número dos levitas”.
+
+[[v4-3-49]]
+
+^<<v4-3-49,49>>^ Moisés pegou o dinheiro do resgate dos primogênitos que ultrapassavam o número dos que tinham sido resgatados pelos levitas.
+
+[[v4-3-50]]
+
+^<<v4-3-50,50>>^ Assim recolheu a quantia de mil trezentos e sessenta e cinco siclos, segundo o siclo do santuário.
+
+[[v4-3-51]]
+
+^<<v4-3-51,51>>^ E Moisés entregou o dinheiro do resgate a Aarão e a seus filhos, conforme a ordem que o Senhor lhe tinha dado.
+
+'''
+
+xref:004-numeros/004-numeros-002.adoc#v4-2-0[&#60; Capítulo Anterior] | <<v4-3-0,Topo>> | xref:004-numeros/004-numeros-004.adoc#v4-4-0[Próximo Capítulo &#62;]

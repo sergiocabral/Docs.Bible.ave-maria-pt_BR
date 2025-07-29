@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v2-18-0]]
+=== Êxodo, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Êxodo 18 descreve a visita de Jetro, sogro de Moisés, ao acampamento de Israel no deserto. Jetro aconselha Moisés a delegar autoridade a outros líderes e a estabelecer um sistema judicial para aliviar o fardo de liderança que estava sobre ele. Além disso, Jetro oferece um sacrifício a Deus e se regozija com a libertação do povo de Israel. Abaixo estão cinco versículos da Bíblia que abordam temas relacionados a Êxodo 18:
+* Deuteronômio 1:9-13: "Naqueles dias, eu disse a vocês: ‘Não posso carregar sozinho todo esse povo; não posso levá-los sozinho. (...) Por isso, escolham homens sábios, inteligentes e experientes de cada uma das suas tribos, e eu os colocarei como líderes sobre vocês.’" Esse trecho da Bíblia faz referência ao conselho que Jetro dá a Moisés sobre a necessidade de delegar autoridade a outros líderes, para que ele não tivesse que carregar todo o fardo sozinho.
+* Deuteronômio 16:18-19: "Nomeie juízes e autoridades em cada cidade que o Senhor, o seu Deus, lhe dá para que julguem o povo com justiça. Não torça a justiça nem mostre parcialidade. Não aceite suborno, pois o suborno cega os olhos dos sábios e perverte as palavras dos justos." Esse versículo se relaciona com a sugestão de Jetro para que Moisés estabelecesse um sistema judicial para ajudá-lo a lidar com as demandas do povo.
+* Salmos 78:70-71: "Escolheu Davi, seu servo, e o tirou dos apriscos de ovelhas, do cuidado com os cordeiros, para ser o pastor do seu povo, Jacó, sua herança." Esse versículo é um exemplo de como Deus escolhe líderes para guiar seu povo, assim como Jetro aconselhou Moisés a escolher outros líderes para ajudá-lo a liderar os israelitas.
+* Provérbios 11:14: "Sem conselhos os planos fracassam, mas com muitos conselheiros eles se cumprem." Esse provérbio se relaciona com a sabedoria de Jetro em aconselhar Moisés a delegar autoridade e estabelecer um sistema judicial para ajudá-lo a liderar o povo de Israel.
+* 1 Crônicas 26:29: "Dos filhos de Isaque, (isto é, os de Tola) foram dois chefes de famílias; de Jezer, os de Jeuel." Esse versículo se refere a um dos homens que Moisés escolheu como líder para ajudá-lo a governar o povo, destacando a importância da delegação de tarefas para uma liderança mais eficiente.
+****
+
+[[v2-18-1]]
+
+^<<v2-18-1,1>>^ Jetro, sacerdote de Madiã, sogro de Moisés, soube de tudo o que Deus tinha feito por Moisés e por Israel, seu povo; e soube que o Senhor tinha feito sair Israel do Egito.
+
+[[v2-18-2]]
+
+^<<v2-18-2,2>>^ Jetro, sogro de Moisés, tomou consigo Sefra, mulher de Moisés, que tinha sido mandada para casa,
+
+[[v2-18-3]]
+
+^<<v2-18-3,3>>^ assim como seus dois filhos, dos quais um se chamava Gérson, porque Moisés tinha dito: “Sou um peregrino em uma terra estrangeira”
+
+[[v2-18-4]]
+
+^<<v2-18-4,4>>^ e o outro chamava-se Eliezer, porque ele tinha dito: “O Deus de meu pai socorreu-me e fez-me escapar à espada do faraó”.
+
+[[v2-18-5]]
+
+^<<v2-18-5,5>>^ Jetro, sogro de Moisés, com os dois filhos e a mulher deste, veio procurá-lo no deserto, onde estava acampado, perto da montanha de Deus.
+
+[[v2-18-6]]
+
+^<<v2-18-6,6>>^ E mandou-lhe dizer: “Teu sogro Jetro vem te ver, acompanhado de tua mulher e de teus dois filhos”.
+
+[[v2-18-7]]
+
+^<<v2-18-7,7>>^ Moisés saiu ao encontro de seu sogro, prostrou-se e beijou-o. Informaram-se mutuamente sobre a sua saúde e entraram na tenda.
+
+[[v2-18-8]]
+
+^<<v2-18-8,8>>^ Moisés contou ao seu sogro tudo o que o Senhor tinha feito ao faraó e aos egípcios por causa de Israel, todas as tribulações que lhes tinham sobrevindo no caminho, e das quais o Senhor os livrara.
+
+[[v2-18-9]]
+
+^<<v2-18-9,9>>^ Jetro alegrou-se com todo o bem que o Senhor tinha feito aos israelitas, livrando-os da mão dos egípcios.
+
+[[v2-18-10]]
+
+^<<v2-18-10,10>>^ “Bendito seja o Senhor – disse Jetro – que vos livrou da mão dos egípcios e da mão do faraó; que livrou o povo da mão dos egípcios!
+
+[[v2-18-11]]
+
+^<<v2-18-11,11>>^ Agora sei que o Senhor é maior que todos os deuses, porque o demonstrou quando (seu povo) era tiranizado.”
+
+[[v2-18-12]]
+
+^<<v2-18-12,12>>^ Em seguida Jetro, sogro de Moisés, ofereceu a Deus um holocausto e sacrifícios. Aarão e todos os anciãos de Israel vieram ter com o sogro de Moisés para tomar parte no banquete em presença de Deus.
+
+[[v2-18-13]]
+
+^<<v2-18-13,13>>^ No dia seguinte, Moisés assentou-se para fazer justiça ao povo, que se conservou de pé diante dele desde a manhã até a tarde.
+
+[[v2-18-14]]
+
+^<<v2-18-14,14>>^ O sogro de Moisés, vendo todo o trabalho a que ele se dava pelo povo, disse-lhe: “Que é isso que fazes com o povo? Por que te sentas só no tribunal com toda essa gente que se conserva em torno de ti da manhã à tarde?”.
+
+[[v2-18-15]]
+
+^<<v2-18-15,15>>^ “É que – respondeu Moisés – o povo vem a mim para consultar Deus.
+
+[[v2-18-16]]
+
+^<<v2-18-16,16>>^ Quando têm alguma questão, vêm procurar-me para que eu julgue entre eles, fazendo-lhes saber as ordens de Deus e suas leis.”
+
+[[v2-18-17]]
+
+^<<v2-18-17,17>>^ O sogro de Moisés disse-lhe: “Não está certo o que fazes!
+
+[[v2-18-18]]
+
+^<<v2-18-18,18>>^ Tu te esgotarás seguramente, assim como todo esse povo que está contigo, porque o fardo é pesado demais para ti, e não poderás levá-lo sozinho.
+
+[[v2-18-19]]
+
+^<<v2-18-19,19>>^ Escuta-me: vou dar-te um conselho, e que Deus esteja contigo! Tu serás o representante do povo junto de Deus, e levarás as questões diante de Deus:
+
+[[v2-18-20]]
+
+^<<v2-18-20,20>>^ tu lhes ensinarás suas ordens e suas leis, e lhes mostrarás o caminho a seguir e como terão de comportar-se.
+
+[[v2-18-21]]
+
+^<<v2-18-21,21>>^ Mas escolherás do meio do povo homens prudentes, tementes a Deus, íntegros, desinteressados, e os porás à frente do povo, como chefes de mil, chefes de cem, chefes de cinquenta e chefes de dezenas.
+
+[[v2-18-22]]
+
+^<<v2-18-22,22>>^ Eles julgarão o povo todo o tempo. Levarão a ti as causas importantes, mas resolverão por si mesmos as causas de menor importância. Assim aliviarão a tua carga, levando-a consigo.
+
+[[v2-18-23]]
+
+^<<v2-18-23,23>>^ Se fizeres isso, e Deus o ordenar, poderás dar conta do trabalho, e toda esta gente voltará em paz para suas habitações”.
+
+[[v2-18-24]]
+
+^<<v2-18-24,24>>^ Moisés ouviu o conselho de seu sogro e fez tudo o que ele lhe tinha dito.
+
+[[v2-18-25]]
+
+^<<v2-18-25,25>>^ Escolheu em todo o Israel homens prudentes e os pôs à frente do povo como chefes de mil, chefes de cem, chefes de cinquenta e chefes de dezenas.
+
+[[v2-18-26]]
+
+^<<v2-18-26,26>>^ Eles julgavam o povo todo o tempo, levando diante de Moisés as questões difíceis e resolvendo por si mesmos as questões menores.
+
+[[v2-18-27]]
+
+^<<v2-18-27,27>>^ Depois disso, Moisés despediu-se de seu sogro, e este voltou para sua terra.
+
+'''
+
+xref:002-exodo/002-exodo-017.adoc#v2-17-0[&#60; Capítulo Anterior] | <<v2-18-0,Topo>> | xref:002-exodo/002-exodo-019.adoc#v2-19-0[Próximo Capítulo &#62;]

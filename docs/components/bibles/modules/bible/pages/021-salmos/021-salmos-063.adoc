@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v21-63-0]]
+=== Salmos, 63
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 63 é um salmo de Davi em que ele expressa sua sede por Deus. Davi descreve a alegria e a satisfação que encontra em Deus e busca a sua presença constantemente. Ele reconhece que Deus é a sua fonte de vida e se alegra em adorá-lo. Vasculhando toda a Bíblia, foram encontrados cinco versículos relacionados com os temas abordados em Salmo 63, apresentados a seguir em ordem de proximidade com os temas do capítulo:
+* Salmos 42:1-2: "Como a corça anseia por águas correntes, a minha alma anseia por ti, ó Deus. A minha alma tem sede de Deus, do Deus vivo. Quando poderei entrar para apresentar-me a Deus?" Este verso mostra a sede que Davi sente por Deus e a busca constante por sua presença.
+* Salmos 84:2: "A minha alma suspira e desfalece pelos átrios do Senhor; o meu coração e o meu corpo cantam de alegria ao Deus vivo." Este verso também mostra a alegria e satisfação que Davi encontra em Deus, que o faz cantar e louvar.
+* Salmos 36:8-9: "Eles se banquetearão na fartura da tua casa; tu lhes dás de beber do teu rio de delícias. Pois em ti está a fonte da vida; graças à tua luz, vemos a luz." Este versículo destaca que Deus é a fonte da vida e que aqueles que o buscam podem encontrar alegria e satisfação em sua presença.
+* Isaías 55:1: "Ah! Todos vós, os que tendes sede, vinde às águas; e vós, os que não tendes dinheiro, vinde, comprai e comei! Vinde e comprai, sem dinheiro e sem preço, vinho e leite." Este verso convida todos aqueles que têm sede a virem a Deus e a encontrarem satisfação em sua presença.
+* João 6:35: "Disse-lhes Jesus: Eu sou o pão da vida; aquele que vem a mim não terá fome, e quem crê em mim nunca terá sede." Este verso apresenta Jesus como a fonte de vida e satisfação eternas, que pode satisfazer a sede espiritual daqueles que o buscam.
+****
+
+[[v21-63-1]]
+
+^<<v21-63-1,1>>^ Ao mestre de canto. Salmo de Davi.^&#42;1^
+
+[[v21-63-2]]
+
+^<<v21-63-2,2>>^ Ouvi, Senhor, minha lastimosa voz. Do terror do inimigo protegei a minha vida,
+
+[[v21-63-3]]
+
+^<<v21-63-3,3>>^ preservai-me da conspiração dos maus, livrai-me da multidão dos malfeitores.
+
+[[v21-63-4]]
+
+^<<v21-63-4,4>>^ Eles aguçam suas línguas como espadas, desferem como flechas palavras envenenadas,
+
+[[v21-63-5]]
+
+^<<v21-63-5,5>>^ para atirarem, do esconderijo, sobre o inocente, a fim de feri-lo de improviso, não temendo nada.
+
+[[v21-63-6]]
+
+^<<v21-63-6,6>>^ Obstinam-se em seus maus desígnios, concertam, às ocultas, como armar seus laços, dizendo: “Quem é que nos verá?”.
+
+[[v21-63-7]]
+
+^<<v21-63-7,7>>^ Planejam crimes e ocultam os seus planos; insondáveis são o espírito e o coração de cada um deles.
+
+[[v21-63-8]]
+
+^<<v21-63-8,8>>^ Mas Deus os atinge com as suas setas: eles são feridos de improviso.
+
+[[v21-63-9]]
+
+^<<v21-63-9,9>>^ Sua própria língua lhes preparou a ruína. Meneiam a cabeça os que os vêem.
+
+[[v21-63-10]]
+
+^<<v21-63-10,10>>^ Tomados de temor, proclamam ser obra de Deus, e reconhecem o que ele fez.
+
+[[v21-63-11]]
+
+^<<v21-63-11,11>>^ Alegra-se o justo no Senhor e nele confia. E triunfam todos os retos de coração.
+
+'''
+
+xref:021-salmos/021-salmos-062.adoc#v21-62-0[&#60; Capítulo Anterior] | <<v21-63-0,Topo>> | xref:021-salmos/021-salmos-064.adoc#v21-64-0[Próximo Capítulo &#62;]

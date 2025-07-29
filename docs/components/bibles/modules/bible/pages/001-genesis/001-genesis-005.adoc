@@ -1,0 +1,152 @@
+include::./index.adoc[]
+
+[[v1-5-0]]
+=== Gênesis, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 5 é um capítulo que apresenta uma lista genealógica desde Adão até Noé, destacando a longevidade dos patriarcas. Os versículos abaixo foram escolhidos por se relacionarem com a temática da genealogia, da descendência e da mortalidade humana.
+* Gênesis 9:28-29: "E viveu Noé, depois do dilúvio, trezentos e cinquenta anos. E foram todos os dias de Noé novecentos e cinquenta anos; e morreu."
+Este versículo registra a idade e a morte de Noé, um dos patriarcas que se destacou na lista genealógica apresentada em Gênesis 5.
+* Êxodo 6:16-20: "E estes são os nomes dos filhos de Levi, segundo as suas gerações: Gérson, Coate e Merari; e os anos da vida de Levi foram cento e trinta e sete anos. Os filhos de Gérson: Libni e Simei, segundo as suas famílias. E os filhos de Coate: Anrão, Izar, Hebrom e Uziel; e os anos da vida de Coate foram cento e trinta e três anos. E os filhos de Merari: Mali e Musi; estas são as famílias de Levi, segundo as suas gerações."
+Este versículo apresenta a genealogia da tribo de Levi, descendentes de um dos filhos de Jacó, e se relaciona com o tema da descendência e da preservação da linhagem.
+* 1 Crônicas 1:1-4: "Adão, Sete, Enos, Quenã, Maalaleel, Jarede, Enoque, Matusalém, Lameque, Noé. Os filhos de Noé: Sem, Cão e Jafé."
+Este versículo apresenta a genealogia desde Adão até Noé, enfatizando a continuidade da linhagem humana.
+* Salmos 90:10: "Os dias da nossa vida sobem a setenta anos ou, em havendo vigor, a oitenta; neste caso, o melhor deles é canseira e enfado, porque tudo passa rapidamente, e nós voamos."
+Este versículo destaca a mortalidade humana e a brevidade da vida em contraste com a longevidade dos patriarcas apresentados em Gênesis 5.
+* Lucas 3:23-38: "Jesus mesmo, ao começar o ministério, era como se pensava filho de José, filho de Eli... filho de Enos, filho de Sete, filho de Adão, filho de Deus."
+Este versículo apresenta a genealogia de Jesus, que remonta a Adão e destaca sua posição como o Filho de Deus.
+****
+
+[[v1-5-1]]
+
+^<<v1-5-1,1>>^ Este é o livro da história da família de Adão. Quando Deus criou o homem, ele o fez à imagem de Deus.
+
+[[v1-5-2]]
+
+^<<v1-5-2,2>>^ Criou-os homem e mulher, e os abençoou, e deu-lhes o nome de homem no dia em que os criou.
+
+[[v1-5-3]]
+
+^<<v1-5-3,3>>^ Adão viveu cento e trinta anos, e gerou um filho à sua semelhança, à sua imagem, e deu-lhe o nome de Set.
+
+[[v1-5-4]]
+
+^<<v1-5-4,4>>^ Depois de haver gerado Set, Adão viveu oitocentos anos e gerou filhos e filhas.
+
+[[v1-5-5]]
+
+^<<v1-5-5,5>>^ Todo o tempo que Adão viveu foi de novecentos e trinta anos. E depois disso morreu.
+
+[[v1-5-6]]
+
+^<<v1-5-6,6>>^ Set viveu cento e cinco anos, e depois gerou Enós.
+
+[[v1-5-7]]
+
+^<<v1-5-7,7>>^ E depois do nascimento de Enós, viveu ainda oitocentos e sete anos e gerou filhos e filhas.
+
+[[v1-5-8]]
+
+^<<v1-5-8,8>>^ A duração total da vida de Set foi de novecentos e doze anos; e depois disso morreu.
+
+[[v1-5-9]]
+
+^<<v1-5-9,9>>^ Enós viveu noventa anos, e depois gerou Cainã.
+
+[[v1-5-10]]
+
+^<<v1-5-10,10>>^ E depois do nascimento de Cainã, Enós viveu ainda oitocentos e quinze anos, e gerou filhos e filhas.
+
+[[v1-5-11]]
+
+^<<v1-5-11,11>>^ E o tempo da vida de Enós foi de novecentos e cinco anos; e morreu.
+
+[[v1-5-12]]
+
+^<<v1-5-12,12>>^ Cainã viveu setenta anos, e depois gerou Malaleel.
+
+[[v1-5-13]]
+
+^<<v1-5-13,13>>^ Após o nascimento de Malaleel, Cainã viveu ainda oitocentos e quarenta anos, e gerou filhos e filhas.
+
+[[v1-5-14]]
+
+^<<v1-5-14,14>>^ Todo o tempo da vida de Cainã foi de novecentos e dez anos; e morreu.
+
+[[v1-5-15]]
+
+^<<v1-5-15,15>>^ Malaleel viveu sessenta e cinco anos, e depois gerou Jared.
+
+[[v1-5-16]]
+
+^<<v1-5-16,16>>^ Após o nascimento de Jared, Malaleel viveu ainda oitocentos e trinta anos, e gerou filhos e filhas.
+
+[[v1-5-17]]
+
+^<<v1-5-17,17>>^ Todo o tempo da vida de Malaleel foi de oitocentos e noventa e cinco anos; e morreu.
+
+[[v1-5-18]]
+
+^<<v1-5-18,18>>^ Jared viveu cento e sessenta e dois anos e gerou Henoc.
+
+[[v1-5-19]]
+
+^<<v1-5-19,19>>^ Após o nascimento de Henoc, Jared viveu ainda oitocentos anos e gerou filhos e filhas.
+
+[[v1-5-20]]
+
+^<<v1-5-20,20>>^ Todo o tempo da vida de Jared foi de novecentos e sessenta e dois anos; e morreu.
+
+[[v1-5-21]]
+
+^<<v1-5-21,21>>^ Henoc viveu sessenta e cinco anos e gerou Matusalém.
+
+[[v1-5-22]]
+
+^<<v1-5-22,22>>^ Após o nascimento de Matusalém, Henoc andou com Deus durante trezentos anos e gerou filhos e filhas.
+
+[[v1-5-23]]
+
+^<<v1-5-23,23>>^ A duração total da vida de Henoc foi de trezentos e sessenta e cinco anos.
+
+[[v1-5-24]]
+
+^<<v1-5-24,24>>^ Henoc andou com Deus e desapareceu, porque Deus o levou.^&#42;1^
+
+[[v1-5-25]]
+
+^<<v1-5-25,25>>^ Matusalém viveu cento e oitenta e sete anos, e gerou Lamec.
+
+[[v1-5-26]]
+
+^<<v1-5-26,26>>^ Após o nascimento de Lamec, Matusalém viveu ainda setecentos e oitenta e dois anos, e gerou filhos e filhas.
+
+[[v1-5-27]]
+
+^<<v1-5-27,27>>^ A duração total da vida de Matusalém foi de novecentos e sessenta e nove anos; e morreu.
+
+[[v1-5-28]]
+
+^<<v1-5-28,28>>^ Lamec viveu cento e oitenta e dois anos, e gerou um filho,
+
+[[v1-5-29]]
+
+^<<v1-5-29,29>>^ a quem deu o nome de Noé, dizendo: “Este nos trará, em nossas fadigas e no duro labor de nossas mãos, um alívio tirado da terra mesma que o Senhor amaldiçoou”.^&#42;1^
+
+[[v1-5-30]]
+
+^<<v1-5-30,30>>^ Após o nascimento de Noé, Lamec viveu ainda quinhentos e noventa e cinco anos, e gerou filhos e filhas.
+
+[[v1-5-31]]
+
+^<<v1-5-31,31>>^ A duração total da vida de Lamec foi de setecentos e setenta e sete anos; e morreu.
+
+[[v1-5-32]]
+
+^<<v1-5-32,32>>^ Com a idade de quinhentos anos, Noé gerou Sem, Cam e Jafé.
+
+'''
+
+xref:001-genesis/001-genesis-004.adoc#v1-4-0[&#60; Capítulo Anterior] | <<v1-5-0,Topo>> | xref:001-genesis/001-genesis-006.adoc#v1-6-0[Próximo Capítulo &#62;]

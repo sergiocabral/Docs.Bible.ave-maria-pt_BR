@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v48-11-0]]
+=== São Marcos, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 11 de Marcos descreve a entrada triunfal de Jesus em Jerusalém montado em um jumentinho, com multidões saudando-o com ramos de palmeira e aclamando-o como o Messias. Ele também conta a história em que Jesus amaldiçoa uma figueira que não tinha frutos e expulsa os vendilhões do Templo. Em seguida, Jesus ensina sobre a fé e a oração, e fala sobre o perdão.
+* 2 Crônicas 7:14: "E se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se converter dos seus maus caminhos, então eu ouvirei do céu, e perdoarei os seus pecados, e sararei a sua terra." Este verso fala sobre a importância da oração, da humildade e do arrependimento, que são temas enfatizados por Jesus em Marcos 11.
+* Mateus 21:22: "E tudo o que pedirdes na oração, crendo, o recebereis." Este verso enfatiza a importância da fé na oração, um tema que Jesus aborda em Marcos 11:23-24.
+* Isaías 56:7: "Eu os trarei ao meu santo monte, e os alegrarei na minha casa de oração; os seus holocaustos e os seus sacrifícios serão aceitos no meu altar; porque a minha casa será chamada casa de oração para todos os povos." Este verso fala sobre a importância do Templo como um lugar de oração e adoração, um tema que é relevante para a história em que Jesus expulsa os vendilhões do Templo em Marcos 11.
+* João 15:7: "Se vós permanecerdes em mim, e as minhas palavras permanecerem em vós, pedireis o que quiserdes, e vos será feito." Este verso fala sobre a importância de permanecer em Jesus e de seguir os seus ensinamentos para que as nossas orações sejam respondidas, um tema que é relevante para as lições de Jesus sobre a fé e a oração em Marcos 11.
+* Mateus 6:14-15: "Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós; se, porém, não perdoardes aos homens as suas ofensas, também vosso Pai vos não perdoará as vossas ofensas." Este verso fala sobre a importância do perdão, um tema que Jesus menciona em Marcos 11:25-26, quando ele ensina que devemos perdoar os outros para que Deus possa nos perdoar.
+****
+
+[[v48-11-1]]
+
+^<<v48-11-1,1>>^ Jesus e seus discípulos aproximavam-se de Jerusalém e chegaram aos arredores de Betfagé e de Betânia, perto do monte das Oliveiras. Desse lugar Jesus enviou dois de seus discípulos,
+
+[[v48-11-2]]
+
+^<<v48-11-2,2>>^ dizendo-lhes: “Ide à aldeia que está defronte de vós e, logo ao entrardes nela, achareis preso um jumentinho, em que não montou ainda homem algum; desprendei-o e trazei-mo.
+
+[[v48-11-3]]
+
+^<<v48-11-3,3>>^ E se alguém vos perguntar: Que fazeis?, dizei: O Senhor precisa dele, mas daqui a pouco o devolverá”.
+
+[[v48-11-4]]
+
+^<<v48-11-4,4>>^ Indo eles, acharam o jumentinho atado fora, diante de uma porta, na curva do caminho. Iam-no desprendendo,
+
+[[v48-11-5]]
+
+^<<v48-11-5,5>>^ quando alguns dos que ali estavam perguntaram: “Ei, que estais fazendo? Por que soltais o jumentinho?”.
+
+[[v48-11-6]]
+
+^<<v48-11-6,6>>^ Responderam como Jesus lhes havia ordenado; e deixaram-no levar.
+
+[[v48-11-7]]
+
+^<<v48-11-7,7>>^ Conduziram a Jesus o jumentinho, cobriram-no com seus mantos, e Jesus montou nele.
+
+[[v48-11-8]]
+
+^<<v48-11-8,8>>^ Muitos estendiam seus mantos no caminho; outros cortavam ramos das árvores e espalhavam-nos, pelo chão.
+
+[[v48-11-9]]
+
+^<<v48-11-9,9>>^ Tanto os que precediam como os que iam atrás clamavam: “Hosana! Bendito o que vem em nome do Senhor!
+
+[[v48-11-10]]
+
+^<<v48-11-10,10>>^ Bendito o Reino que vai começar, o reino de Davi, nosso pai! Hosana no mais alto dos céus!”.
+
+[[v48-11-11]]
+
+^<<v48-11-11,11>>^ Jesus entrou em Jerusalém e dirigiu-se ao templo. Aí lançou os olhos para tudo o que o cercava. Depois, como já fosse tarde, voltou para Betânia com os Doze. (= Mt 21,18s)
+
+[[v48-11-12]]
+
+^<<v48-11-12,12>>^ No outro dia, ao saírem de Betânia, Jesus teve fome.
+
+[[v48-11-13]]
+
+^<<v48-11-13,13>>^ Avistou de longe uma figueira coberta de folhas e foi ver se encontrava nela algum fruto. Aproximou-se da árvore, mas só encontrou folhas pois não era tempo de figos.
+
+[[v48-11-14]]
+
+^<<v48-11-14,14>>^ E disse à figueira: “Jamais alguém coma fruto de ti!”. E os discípulos ouviram essa maldição.^&#42;1^ (= Mt 21,12-17 = Lc 19,45s)
+
+[[v48-11-15]]
+
+^<<v48-11-15,15>>^ Chegaram a Jerusalém e Jesus entrou no templo. E começou a expulsar os que no templo vendiam e compravam; derrubou as mesas dos trocadores de moedas e as cadeiras dos que vendiam pombas.
+
+[[v48-11-16]]
+
+^<<v48-11-16,16>>^ Não consentia que ninguém transportasse algum objeto pelo templo.
+
+[[v48-11-17]]
+
+^<<v48-11-17,17>>^ E ensinava-lhes nestes termos: “Não está porventura escrito: A minha casa será chamada casa de oração para todas as nações (Is 56,7)? Mas vós fizestes dela um covil de ladrões” (Jr 7,11).
+
+[[v48-11-18]]
+
+^<<v48-11-18,18>>^ Os príncipes dos sacerdotes e os escribas ouviram-no e procuravam um modo de o matar. Temiam-no, porque todo o povo se admirava da sua doutrina.
+
+[[v48-11-19]]
+
+^<<v48-11-19,19>>^ Quando já era tarde, saíram da cidade. (= Mt 21,20ss)
+
+[[v48-11-20]]
+
+^<<v48-11-20,20>>^ No dia seguinte pela manhã, ao passarem junto da figueira, viram que ela secara até a raiz.
+
+[[v48-11-21]]
+
+^<<v48-11-21,21>>^ Pedro lembrou-se do que se tinha passado na véspera e disse a Jesus: “Olha, Mestre, como secou a figueira que amaldiçoaste!”
+
+[[v48-11-22]]
+
+^<<v48-11-22,22>>^ Respondeu-lhes Jesus: “Tende fé em Deus.
+
+[[v48-11-23]]
+
+^<<v48-11-23,23>>^ Em verdade vos declaro: todo o que disser a este monte: Levanta-te e lança-te ao mar, se não duvidar no seu coração, mas acreditar que sucederá tudo o que disser, obterá esse milagre.
+
+[[v48-11-24]]
+
+^<<v48-11-24,24>>^ Por isso, vos digo: tudo o que pedirdes na oração, crede que o tendes recebido, e vos será dado.^&#42;1^
+
+[[v48-11-25]]
+
+^<<v48-11-25,25>>^ E, quando vos puserdes de pé para orar, perdoai, se tiverdes algum ressentimento contra alguém, para que também vosso Pai, que está nos céus, vos perdoe os vossos pecados. [
+
+[[v48-11-26]]
+
+^<<v48-11-26,26>>^ Mas se não perdoardes, tampouco vosso Pai que está nos céus vos perdoará os vossos pecados.]”.^&#42;1^ (= Mt 21,23-27 = Lc 20,1-8)
+
+[[v48-11-27]]
+
+^<<v48-11-27,27>>^ Jesus e seus discípulos voltaram outra vez a Jerusalém. E andando Jesus pelo templo, acercaram-se dele os príncipes dos sacerdotes, os escribas e os anciãos,
+
+[[v48-11-28]]
+
+^<<v48-11-28,28>>^ e perguntaram-lhe: “Com que direito fazes isto? Quem te deu autoridade para fazer essas coisas?”.
+
+[[v48-11-29]]
+
+^<<v48-11-29,29>>^ Jesus respondeu-lhes: “Também eu vos farei uma pergunta; respondei-ma, e vos direi com que direito faço essas coisas.
+
+[[v48-11-30]]
+
+^<<v48-11-30,30>>^ O batismo de João vinha do céu ou dos homens? Respondei-me”.
+
+[[v48-11-31]]
+
+^<<v48-11-31,31>>^ E discorriam lá consigo: “Se dissermos: Do céu, ele dirá: Por que razão, pois, não crestes nele?
+
+[[v48-11-32]]
+
+^<<v48-11-32,32>>^ Se, ao contrário, dissermos: Dos homens, tememos o povo”. Com efeito, tinham medo do povo, porque todos julgavam ser João deveras um profeta.
+
+[[v48-11-33]]
+
+^<<v48-11-33,33>>^ Responderam a Jesus: “Não o sabemos” –. “E eu tampouco vos direi” – disse Jesus – “com que direito faço essas coisas”. (= Mt 21,33-46 = Lc 20,9-19)
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-010.adoc#v48-10-0[&#60; Capítulo Anterior] | <<v48-11-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-012.adoc#v48-12-0[Próximo Capítulo &#62;]

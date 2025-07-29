@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v16-6-0]]
+=== Neemias, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Neemias 6 relata a tentativa dos inimigos de Neemias de o distrair e impedi-lo de concluir a reconstrução dos muros de Jerusalém. Eles enviam uma mensagem falsa para Neemias e até mesmo contratam um profeta para enganá-lo. No entanto, Neemias permanece firme em sua determinação e conclui o trabalho.
+* Provérbios 24:10: "Se te mostrares fraco no dia da angústia, é que a tua força é pequena." Este versículo fala sobre a importância de ser forte e não desistir durante tempos difíceis. Neemias mostra essa força ao não se deixar enganar pelos inimigos.
+* Efésios 6:13: "Portanto, tomai toda a armadura de Deus, para que possais resistir no dia mau e, depois de terdes vencido tudo, permanecer inabaláveis." Este versículo fala sobre a importância de estar preparado para enfrentar os desafios. Neemias também estava preparado, tendo colocado guardas para proteger os muros.
+* 2 Timóteo 4:7: "Combati o bom combate, completei a corrida, guardei a fé." Paulo afirma que ele completou a obra que Deus o chamou para fazer. Neemias também completou a obra que Deus o chamou para fazer, apesar das tentativas de seus inimigos de impedi-lo.
+* Tiago 1:2-4: "Meus irmãos, tende por motivo de toda alegria o passardes por várias provações, sabendo que a aprovação da vossa fé produz a perseverança; e a perseverança tenha a sua obra perfeita, para que sejais perfeitos e completos, não faltando em coisa alguma." Este versículo fala sobre a importância de passar por dificuldades e perseverar. Neemias mostra perseverança ao concluir a reconstrução dos muros apesar das adversidades.
+* Colossenses 3:23-24: "E tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor e não aos homens, sabendo que do Senhor recebereis a recompensa da herança; servi ao Senhor Cristo." Este versículo fala sobre a importância de fazer o trabalho como se fosse para Deus. Neemias trabalhou incansavelmente, sabendo que estava cumprindo a vontade de Deus.
+****
+
+[[v16-6-1]]
+
+^<<v16-6-1,1>>^ Sanabalat, Tobias, Gósen o árabe, e outros inimigos nossos souberam que eu tinha reconstruído a muralha e que não havia mais brechas; entretanto, até aquele momento eu não havia ainda colocado os batentes nas portas.
+
+[[v16-6-2]]
+
+^<<v16-6-2,2>>^ Mandaram solicitar-me uma entrevista com eles numa das aldeias do vale de Ono. Tinham a intenção de fazer-me mal.
+
+[[v16-6-3]]
+
+^<<v16-6-3,3>>^ Enviei-lhes mensageiros para dizer-lhes: “Estou em via de executar um trabalho importante; não posso descer. Não tenho desculpa para interromper meu trabalho e não posso deixar a obra para descer até vós”.
+
+[[v16-6-4]]
+
+^<<v16-6-4,4>>^ Quatro vezes eles me endereçaram a mesma mensagem e eu cada vez enviava-lhes a mesma resposta.
+
+[[v16-6-5]]
+
+^<<v16-6-5,5>>^ Pela quinta vez, Sanabalat fez-me a mesma proposta por um seu servo, que trazia na mão uma carta aberta
+
+[[v16-6-6]]
+
+^<<v16-6-6,6>>^ na qual estava escrito: “Foi divulgado entre as gentes e Gósen afirma que, se tu reconstróis a muralha, é porque tu e os judeus estais projetando uma revolta. E, pelo que se diz, desejas tornar-te o rei deles
+
+[[v16-6-7]]
+
+^<<v16-6-7,7>>^ e terias mesmo enviado profetas para proclamar-te rei de Judá em Jerusalém. Todos esses boatos cedo chegarão aos ouvidos do rei. Vem, pois, e entendamo-nos”.
+
+[[v16-6-8]]
+
+^<<v16-6-8,8>>^ Eu lhes respondi: “Nada existe de verdadeiro no que dizes: foste tu que inventaste tudo isso”.
+
+[[v16-6-9]]
+
+^<<v16-6-9,9>>^ Todos procuravam intimidar-nos. Diziam entre si: “Suas mãos se cansarão do trabalho e ele não se completará”. Agora, pois, ó meu Deus, sustentai os meus braços!
+
+[[v16-6-10]]
+
+^<<v16-6-10,10>>^ Fui depois à casa de Semeías, filho de Dalaías, filho de Metabeel, que se tinha fechado em sua residência. “Vamos juntos – disse-me ele – à casa de Deus, interior do templo e fechemos as portas do santuário, porque procuram matar-te; nesta mesma noite virão liquidar-te.”
+
+[[v16-6-11]]
+
+^<<v16-6-11,11>>^ Respondi-lhe: “Como, então, um homem como eu há de fugir? Por outra parte, como pode um homem como eu entrar no templo sem perder a vida? Ali não entrarei”.^&#42;1^
+
+[[v16-6-12]]
+
+^<<v16-6-12,12>>^ Eu tinha notado, com efeito, que ele não fora enviado por Deus, mas proferiu o oráculo a meu respeito subornado por Tobias e Sanabalat.
+
+[[v16-6-13]]
+
+^<<v16-6-13,13>>^ Eles o faziam para intimidar-me e fazer-me pecar segundo o seu desejo; isto lhes permitiria cobrir-me de opróbrios e lançar-me em má reputação.
+
+[[v16-6-14]]
+
+^<<v16-6-14,14>>^ Lembrai-vos, ó meu Deus, das maldades de Tobias e de Sanabalat, bem como da profetisa Noadia e demais profetas que tentavam atemorizar-me.
+
+[[v16-6-15]]
+
+^<<v16-6-15,15>>^ Terminou-se a muralha no vigésimo quinto dia do mês de Elul, em cinquenta e dois dias.^&#42;1^
+
+[[v16-6-16]]
+
+^<<v16-6-16,16>>^ Quando nossos inimigos souberam disso, encheram-se de temor todas as nações vizinhas: pois seu ânimo arrefeceu e reconheceram que, se aquela empresa fora levada a bom termo, era graças ao nosso Deus.
+
+[[v16-6-17]]
+
+^<<v16-6-17,17>>^ Naquele tempo, Tobias mantinha uma correspondência contínua com certas pessoas importantes de Judá.
+
+[[v16-6-18]]
+
+^<<v16-6-18,18>>^ Muitos, com efeito, estavam-lhe unidos por juramento, pois ele era genro de Sequenias, filho de Area e Joanã, seu filho, era casado com a filha de Mesolam, filho de Baraquias.
+
+[[v16-6-19]]
+
+^<<v16-6-19,19>>^ Até mesmo o louvavam em minha presença e participavam-lhe as minhas palavras. Esse Tobias era quem me remetia cartas para atemorizar-me.
+
+'''
+
+xref:016-neemias/016-neemias-005.adoc#v16-5-0[&#60; Capítulo Anterior] | <<v16-6-0,Topo>> | xref:016-neemias/016-neemias-007.adoc#v16-7-0[Próximo Capítulo &#62;]

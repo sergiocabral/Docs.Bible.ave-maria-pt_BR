@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v23-6-0]]
+=== II Macabeus, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 6 de 2 Macabeus relata a perseguição dos judeus pelo rei Antíoco Epifânio, que proibiu a prática do judaísmo e exigiu que os judeus adorassem os deuses gregos. Além disso, muitos judeus foram torturados e mortos por se recusarem a obedecer às ordens do rei. Abaixo estão cinco versículos relacionados a esse tema:
+* 2 Macabeus 6:9: "Quem quer que não se submetesse à ordem do rei seria condenado à morte." Esse versículo mostra a crueldade do rei Antíoco Epifânio, que ameaçou matar aqueles que não seguissem suas ordens.
+* 2 Macabeus 6:12: "Aconteceu que alguns homens, perto do lago, que se recusaram a se contaminar, foram presos e levados ao rei." Esse versículo ilustra a coragem daqueles que preferiram morrer a desobedecer às leis de Deus.
+* 2 Macabeus 6:18: "Ele ordenou que suas línguas fossem arrancadas, que fossem rasgados seus couros cabeludos, e que lhes cortassem as pontas dos dedos." Esse versículo descreve a tortura cruel que os judeus sofreram por causa de sua fé.
+* 2 Macabeus 6:30: "Estando prestes a morrer sob os golpes, ele suspirou profundamente e disse: 'O Senhor, em virtude da sua santa ciência, sabe perfeitamente que, embora eu pudesse escapar à morte, estou sendo submetido a dores cruéis em meu corpo, sob o açoite dos carrascos, mas em minha alma, alegro-me com a esperança que tenho de que o Senhor me ressuscite um dia'." Esse versículo mostra a fé e a coragem daqueles que morreram em nome de sua religião.
+* 2 Macabeus 6:31: "Depois dessas palavras, ele se entregou à morte com toda a alma, deixando em seu martírio um modelo de coragem e aguardando do Senhor a reconciliação com seus irmãos." Esse versículo enfatiza a importância da coragem e da fé em momentos difíceis e a confiança em Deus mesmo diante da morte.
+****
+
+[[v23-6-1]]
+
+^<<v23-6-1,1>>^ Pouco tempo depois, um ancião ateniense foi enviado pelo rei para forçar os judeus a abandonar os costumes dos antepassados, para banir as leis de Deus da cidade.
+
+[[v23-6-2]]
+
+^<<v23-6-2,2>>^ Mandou-o também profanar o templo de Jerusalém, dedicá-lo a Júpiter Olímpico e consagrar o do monte Garizim, segundo o caráter dos habitantes do lugar, a Júpiter Hospitaleiro.^&#42;1^
+
+[[v23-6-3]]
+
+^<<v23-6-3,3>>^ Dura e penosa foi para todos essa avalanche de mal.
+
+[[v23-6-4]]
+
+^<<v23-6-4,4>>^ O templo encheu-se de lascívias e orgias dos gentios que se divertiam com meretrizes, unindo-se às mulheres nos átrios sagrados e introduzindo coisas proibidas.
+
+[[v23-6-5]]
+
+^<<v23-6-5,5>>^ O altar estava coberto de vítimas impuras, interditas pelas leis.
+
+[[v23-6-6]]
+
+^<<v23-6-6,6>>^ Não se permitia mais guardar os sábados, a celebração das antigas festas, nem mesmo confessar-se judeu.
+
+[[v23-6-7]]
+
+^<<v23-6-7,7>>^ Em cada mês, no dia natalício do rei, realizava-se um sacrifício. Os judeus eram odiosamente forçados a tomar parte no banquete ritual e, por ocasião das festas em honra de Dionísio, deviam forçosamente acompanhar o cortejo de Baco, coroados de hera.
+
+[[v23-6-8]]
+
+^<<v23-6-8,8>>^ Por instigação dos ptolomeus, foi publicado um decreto que obrigava as cidades helênicas dos arredores a tratar os judeus do mesmo modo e levá-los à participação nos banquetes rituais, com a ordem de matar os que se recusassem a adotar os costumes helênicos.^&#42;1^
+
+[[v23-6-9]]
+
+^<<v23-6-9,9>>^ Podiam-se, pois, prever as aflições que os aguardavam.
+
+[[v23-6-10]]
+
+^<<v23-6-10,10>>^ Assim, duas mulheres foram acusadas de circuncidarem seus filhos. Foram arrastadas publicamente pela cidade, com seus filhos pendurados aos peitos e precipitadas do alto das muralhas.
+
+[[v23-6-11]]
+
+^<<v23-6-11,11>>^ Outros se haviam retirado às cavernas vizinhas para celebrar secretamente o dia de sábado. Denunciados a Filipe, foram todos queimados, pois não ousaram defender-se, pelo respeito à santidade do dia.
+
+[[v23-6-12]]
+
+^<<v23-6-12,12>>^ Suplico aos que lerem este livro, que não se deixem abater por esses tristes acontecimentos, mas que considerem que esses castigos tiveram em mira não a ruína, mas a correção de nossa raça.
+
+[[v23-6-13]]
+
+^<<v23-6-13,13>>^ É sinal de grande benevolência a seu respeito o fato de não suportar por muito tempo os maus e de, ao contrário, castigá-los imediatamente.
+
+[[v23-6-14]]
+
+^<<v23-6-14,14>>^ Quanto às outras nações, o Senhor espera pacientemente, antes de puni-las, que tenham enchido a medida de suas iniquidades. A nós, porém, ele prefere não nos tratar assim,
+
+[[v23-6-15]]
+
+^<<v23-6-15,15>>^ com receio de ter que nos punir mais tarde, quando tivermos pecado demasiadamente.
+
+[[v23-6-16]]
+
+^<<v23-6-16,16>>^ Assim, não nos retire ele jamais a sua misericórdia e não abandone seu povo, no momento em que o corrige pela adversidade!
+
+[[v23-6-17]]
+
+^<<v23-6-17,17>>^ Mas que tudo isso seja dito apenas a título de lembrança. Com estas palavras, voltemos à narração.
+
+[[v23-6-18]]
+
+^<<v23-6-18,18>>^ Havia um certo homem já de idade avançada e de bela aparência, Eleazar, que se sentava no primeiro lugar entre os doutores da Lei. Queriam coagi-lo a comer carne de porco, abrindo-lhe a boca à força.
+
+[[v23-6-19]]
+
+^<<v23-6-19,19>>^ Mas ele, cuspindo e preferindo morrer com honra a viver na infâmia,
+
+[[v23-6-20]]
+
+^<<v23-6-20,20>>^ caminhou voluntariamente para o instrumento de tortura, como devem caminhar os que têm a coragem de rejeitar o que não é permitido comer por amor à vida.^&#42;1^
+
+[[v23-6-21]]
+
+^<<v23-6-21,21>>^ Os encarregados desse ímpio banquete ritual, já desde muito tempo possuíam relações de amizade com Eleazar. Tomaram-no à parte e rogaram-lhe que fizesse trazer as carnes permitidas, que ele mesmo tivesse preparado, para comê-las como se fossem carnes do sacrifício, conforme tinha ordenado o rei.
+
+[[v23-6-22]]
+
+^<<v23-6-22,22>>^ Desse modo, ele seria preservado da morte, e granjearia sua benevolência em vista da velha amizade.
+
+[[v23-6-23]]
+
+^<<v23-6-23,23>>^ Mas Eleazar, tomando uma nobre resolução, digna de sua idade, da autoridade que lhe conferia sua velhice, do prestígio que lhe outorgavam seus cabelos brancos, da vida íntegra conservada desde a infância e digna sobretudo das sagradas leis estabelecidas por Deus, preferiu ser conduzido à morte.
+
+[[v23-6-24]]
+
+^<<v23-6-24,24>>^ “Não é próprio da nossa idade – respondeu ele – usar de tal fingimento, para não acontecer que muitos jovens suspeitem de que Eleazar, aos noventa anos, tenha passado aos costumes estrangeiros.
+
+[[v23-6-25]]
+
+^<<v23-6-25,25>>^ Eles mesmos, após o meu gesto hipócrita, e por um pouco de vida, se deixariam arrastar por causa de mim, e isso seria para a minha velhice a desonra e a vergonha.
+
+[[v23-6-26]]
+
+^<<v23-6-26,26>>^ E mesmo se eu me livrasse agora dos castigos dos homens, não poderia escapar, nem vivo nem morto, das mãos do Todo-poderoso.
+
+[[v23-6-27]]
+
+^<<v23-6-27,27>>^ Sendo assim, se eu morrer agora, corajosamente, vou mostrar-me digno de minha velhice e terei deixado aos jovens um nobre exemplo de zelo generoso, segundo o qual é preciso dar a vida pelas santas e veneráveis leis.”
+
+[[v23-6-28]]
+
+^<<v23-6-28,28>>^ Ditas essas palavras, dirigiu-se diretamente ao suplício.
+
+[[v23-6-29]]
+
+^<<v23-6-29,29>>^ Aqueles que o levavam transformaram em dureza a benevolência manifestada pouco antes, julgando insensatas suas palavras.
+
+[[v23-6-30]]
+
+^<<v23-6-30,30>>^ E quando ele estava prestes a morrer sob os golpes, exclamou entre suspiros: “O Senhor, que possui a ciência santa, vê perfeitamente que, podendo eu livrar-me da morte, sofro em meu corpo os tormentos cruéis dos açoites, mas os suporto com alma alegre porque é a ele que temo”.
+
+[[v23-6-31]]
+
+^<<v23-6-31,31>>^ Dessa maneira passou à outra vida, deixando com sua morte não somente aos jovens, mas também a toda a sua gente, um exemplo de coragem e um memorial de virtude.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-005.adoc#v23-5-0[&#60; Capítulo Anterior] | <<v23-6-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-007.adoc#v23-7-0[Próximo Capítulo &#62;]

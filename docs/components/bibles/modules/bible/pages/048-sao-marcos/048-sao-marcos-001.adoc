@@ -1,0 +1,199 @@
+include::./index.adoc[]
+
+[[v48-1-0]]
+=== São Marcos, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O primeiro capítulo de São Marcos apresenta o início do ministério de Jesus, incluindo seu batismo, tentação no deserto e o chamado dos primeiros discípulos. Além disso, ele também realiza curas e expulsa demônios, mostrando seu poder divino. Seguem abaixo cinco versículos selecionados de outros livros da Bíblia que estão relacionados com os temas abordados em São Marcos 1.
+* Isaías 42:1: "Eis aqui o meu servo, a quem sustenho, o meu escolhido, em quem a minha alma se compraz; pus sobre ele o meu Espírito, e ele promulgará o direito aos gentios." Este versículo se refere ao servo de Deus que seria enviado para anunciar a justiça aos gentios, que é identificado pelos cristãos como Jesus. Ele mostra a escolha divina de Jesus como seu servo e o envio do Espírito Santo sobre ele.
+* Salmos 2:7: "Proclamarei o decreto do SENHOR: Ele me disse: Tu és meu Filho, eu hoje te gerei." Este salmo é uma referência ao Messias, que é identificado pelos cristãos como Jesus. Ele mostra a filiação divina de Jesus e sua posição como Filho de Deus.
+* Isaías 40:3: "Voz do que clama no deserto: Preparai o caminho do SENHOR; endireitai no ermo vereda a nosso Deus." Este versículo se refere ao precursor do Messias, que é identificado pelos cristãos como João Batista. Ele mostra a preparação para a vinda do Messias e a importância da mensagem de João como uma voz que clama no deserto.
+* Isaías 53:4-5: "Verdadeiramente ele tomou sobre si as nossas enfermidades, e carregou com as nossas dores; e nós o reputávamos por aflito, ferido de Deus, e oprimido. Mas ele foi ferido por causa das nossas transgressões, e moído por causa das nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados." Este versículo se refere à morte expiatória de Jesus, que é vista pelos cristãos como um sacrifício pelos pecados da humanidade. Ele mostra o sofrimento que Jesus enfrentou e seu papel como o Cordeiro de Deus que tira o pecado do mundo.
+* Isaías 61:1: "O Espírito do SENHOR Deus está sobre mim, porque o SENHOR me ungiu para pregar boas novas aos quebrantados, enviou-me a curar os quebrantados de coração, a proclamar libertação aos cativos, e a pôr em liberdade os algemados." Este versículo se refere ao ministério de Jesus, que é visto pelos cristãos como cumprimento da profecia de Isaías. Ele mostra a missão de Jesus de proclamar a libertação e cura para aqueles que estão sofrendo.
+****
+
+[[v48-1-1]]
+
+^<<v48-1-1,1>>^ Princípio da Boa-Nova de Jesus Cristo, Filho de Deus. Conforme está escrito no profeta Isaías:
+
+[[v48-1-2]]
+
+^<<v48-1-2,2>>^ Eis que envio o meu anjo diante de ti: ele preparará o teu caminho.
+
+[[v48-1-3]]
+
+^<<v48-1-3,3>>^ Uma voz clama no deserto: Traçai o caminho do Senhor, aplanai as suas veredas (Ml 3,1; Is 40,3).
+
+[[v48-1-4]]
+
+^<<v48-1-4,4>>^ João Batista apareceu no deserto e pregava um batismo de conversão para a remissão dos pecados.
+
+[[v48-1-5]]
+
+^<<v48-1-5,5>>^ E saíam para ir ter com ele toda a Judeia, toda Jerusalém, e eram batizados por ele no rio Jordão, confessando os seus pecados.
+
+[[v48-1-6]]
+
+^<<v48-1-6,6>>^ João andava vestido de pêlo de camelo e trazia um cinto de couro em volta dos rins, e alimentava-se de gafanhotos e mel silvestre.
+
+[[v48-1-7]]
+
+^<<v48-1-7,7>>^ Ele pôs-se a proclamar: “Depois de mim vem outro mais poderoso do que eu, ante o qual não sou digno de me prostrar para desatar-lhe a correia do calçado.
+
+[[v48-1-8]]
+
+^<<v48-1-8,8>>^ Eu vos batizei com água; ele, porém, vos batizará no Espírito Santo”.
+
+[[v48-1-9]]
+
+^<<v48-1-9,9>>^ Ora, naqueles dias veio Jesus de Nazaré, da Galileia, e foi batizado por João, no Jordão.
+
+[[v48-1-10]]
+
+^<<v48-1-10,10>>^ No momento em que Jesus saía da água, João viu os céus abertos e descer o Espírito em forma de pomba sobre ele.
+
+[[v48-1-11]]
+
+^<<v48-1-11,11>>^ E ouviu-se dos céus uma voz: “Tu és o meu Filho muito amado; em ti ponho minha afeição”.
+
+[[v48-1-12]]
+
+^<<v48-1-12,12>>^ E logo o Espírito o impeliu para o deserto.
+
+[[v48-1-13]]
+
+^<<v48-1-13,13>>^ Aí esteve quarenta dias. Foi tentado pelo demônio e esteve em companhia dos animais selvagens. E os anjos o serviam.
+
+[[v48-1-14]]
+
+^<<v48-1-14,14>>^ Depois que João foi preso, Jesus dirigiu-se para a Galileia. Pregava o Evangelho de Deus, e dizia:
+
+[[v48-1-15]]
+
+^<<v48-1-15,15>>^ “Completou-se o tempo e o Reino de Deus está próximo; fazei penitência e crede no Evangelho”.
+
+[[v48-1-16]]
+
+^<<v48-1-16,16>>^ Passando ao longo do mar da Galileia, viu Simão e André, seu irmão, que lançavam as redes ao mar, pois eram pescadores.
+
+[[v48-1-17]]
+
+^<<v48-1-17,17>>^ Jesus disse-lhes: “Vinde após mim; eu vos farei pescadores de homens”.
+
+[[v48-1-18]]
+
+^<<v48-1-18,18>>^ Eles, no mesmo instante, deixaram as redes e seguiram-no.
+
+[[v48-1-19]]
+
+^<<v48-1-19,19>>^ Uns poucos passos mais adiante, viu Tiago, filho de Zebedeu, e João, seu irmão, que estavam numa barca, consertando as redes. E chamou-os logo.
+
+[[v48-1-20]]
+
+^<<v48-1-20,20>>^ Eles deixaram na barca seu pai Zebedeu com os empregados e o seguiram. (= Lc 4,31-44)
+
+[[v48-1-21]]
+
+^<<v48-1-21,21>>^ Dirigiram-se para Cafarnaum. E já no dia de sábado, Jesus entrou na sinagoga e pôs-se a ensinar.
+
+[[v48-1-22]]
+
+^<<v48-1-22,22>>^ Maravilhavam-se da sua doutrina, porque os ensinava como quem tem autoridade e não como os escribas.^&#42;1^
+
+[[v48-1-23]]
+
+^<<v48-1-23,23>>^ Ora, na sinagoga deles achava-se um homem possesso de um espírito imundo, que gritou:
+
+[[v48-1-24]]
+
+^<<v48-1-24,24>>^ “Que tens tu conosco, Jesus de Nazaré? Vieste perder-nos? Sei quem és: o Santo de Deus!”.^&#42;1^
+
+[[v48-1-25]]
+
+^<<v48-1-25,25>>^ Mas Jesus intimou-o, dizendo: “Cala-te, sai deste homem!”.
+
+[[v48-1-26]]
+
+^<<v48-1-26,26>>^ O espírito imundo agitou-o violentamente e, dando um grande grito, saiu.
+
+[[v48-1-27]]
+
+^<<v48-1-27,27>>^ Ficaram todos tão admirados, que perguntavam uns aos outros: “Que é isto? Eis um ensinamento novo, e feito com autoridade; além disso, ele manda até nos espíritos imundos e lhe obedecem!”.
+
+[[v48-1-28]]
+
+^<<v48-1-28,28>>^ A sua fama divulgou-se logo por todos os arredores da Galileia.
+
+[[v48-1-29]]
+
+^<<v48-1-29,29>>^ Assim que saíram da sinagoga, dirigiram-se com Tiago e João à casa de Simão e André.
+
+[[v48-1-30]]
+
+^<<v48-1-30,30>>^ A sogra de Simão estava de cama, com febre; e, sem tardar, falaram-lhe a respeito dela.
+
+[[v48-1-31]]
+
+^<<v48-1-31,31>>^ Aproximando-se ele, tomou-a pela mão e levantou-a; imediatamente a febre a deixou e ela pôs-se a servi-los.
+
+[[v48-1-32]]
+
+^<<v48-1-32,32>>^ À tarde, depois do pôr do sol, levaram-lhe todos os enfermos e possessos do demônio.
+
+[[v48-1-33]]
+
+^<<v48-1-33,33>>^ Toda a cidade estava reunida diante da porta.
+
+[[v48-1-34]]
+
+^<<v48-1-34,34>>^ Ele curou muitos que estavam oprimidos de diversas doenças, e expulsou muitos demônios. Não lhes permitia falar, porque o conheciam.
+
+[[v48-1-35]]
+
+^<<v48-1-35,35>>^ De manhã, tendo-se levantado muito antes do amanhecer, ele saiu e foi para um lugar deserto, e ali se pôs em oração.
+
+[[v48-1-36]]
+
+^<<v48-1-36,36>>^ Simão e os seus companheiros saíram a procurá-lo.
+
+[[v48-1-37]]
+
+^<<v48-1-37,37>>^ Encontraram-no e disseram-lhe: “Todos te procuram”.
+
+[[v48-1-38]]
+
+^<<v48-1-38,38>>^ E ele respondeu-lhes: “Vamos às aldeias vizinhas, para que eu pregue também lá, pois, para isso é que vim”.
+
+[[v48-1-39]]
+
+^<<v48-1-39,39>>^ Ele retirou-se dali, pregando em todas as sinagogas e por toda a Galileia, e expulsando os demônios. (= Mt 8,2-4 = Lc 5,12-16)
+
+[[v48-1-40]]
+
+^<<v48-1-40,40>>^ Aproximou-se dele um leproso, suplicando-lhe de joelhos: “Se queres, podes limpar-me”.
+
+[[v48-1-41]]
+
+^<<v48-1-41,41>>^ Jesus compadeceu-se dele, estendeu a mão, tocou-o e lhe disse: “Eu quero, sê curado”.
+
+[[v48-1-42]]
+
+^<<v48-1-42,42>>^ E imediatamente desapareceu dele a lepra e foi purificado.
+
+[[v48-1-43]]
+
+^<<v48-1-43,43>>^ Jesus o despediu em seguida, com esta severa admoestação:
+
+[[v48-1-44]]
+
+^<<v48-1-44,44>>^ “Vê que não o digas a ninguém; mas vai, mostra-te ao sacerdote e apresenta, pela tua purificação, a oferenda prescrita por Moisés para lhe servir de testemunho”.^&#42;1^
+
+[[v48-1-45]]
+
+^<<v48-1-45,45>>^ Este homem, porém, logo que se foi, começou a propagar e divulgar o acontecido, de modo que Jesus não podia entrar publicamente em uma cidade. Conservava-se fora, nos lugares despovoados; e de toda parte vinham ter com ele. (= Mt 9,1-8 = Lc 5,17-26)
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-028.adoc#v47-28-0[&#60; Capítulo Anterior] | <<v48-1-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-002.adoc#v48-2-0[Próximo Capítulo &#62;]

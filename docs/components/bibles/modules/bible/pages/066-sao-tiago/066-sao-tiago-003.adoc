@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v66-3-0]]
+=== São Tiago, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 3 do livro de São Tiago aborda o tema do controle da língua, alertando sobre o poder destrutivo que ela pode ter. O capítulo destaca a importância de se ter autocontrole e sabedoria na forma como se fala e se relaciona com os outros. Segue abaixo cinco versículos selecionados de outros livros da Bíblia que estão relacionados com os temas abordados em São Tiago 3:
+* Provérbios 12:18: "Há palavras que ferem como espada, mas a língua dos sábios traz a cura." Este versículo destaca o poder das palavras para ferir ou curar. Reforça a importância de se escolher cuidadosamente as palavras que são ditas.
+* Provérbios 16:23-24: "O coração do sábio faz que a sua boca fale e acrescenta doutrina aos seus lábios. As palavras suaves são favos de mel, doces para a alma e saúde para os ossos." Esse versículo enfatiza a importância da sabedoria e como ela influencia a forma como falamos. Mostra que as palavras gentis podem ter um efeito curativo.
+* Efésios 4:29: "Não saia da vossa boca nenhuma palavra torpe, e sim unicamente a que for boa para edificação, conforme a necessidade, e, assim, transmita graça aos que ouvem." Esse versículo destaca a importância de falar palavras que edificam e ajudam as pessoas.
+* Provérbios 17:27: "Quem tem conhecimento modera as suas palavras, e o homem de discernimento é frio de espírito." Esse versículo destaca a importância de ter autocontrole e sabedoria na forma como se fala.
+* Mateus 12:36-37: "Digo-vos que de toda palavra frívola que proferirem os homens, dela darão conta no Dia do Juízo; porque, pelas tuas palavras, serás justificado e, pelas tuas palavras, serás condenado." Esse versículo enfatiza a importância de se ter cuidado com as palavras que são ditas, pois elas têm o poder de influenciar o julgamento divino.
+****
+
+[[v66-3-1]]
+
+^<<v66-3-1,1>>^ Meus irmãos, não haja muitos entre vós a se arvorar em mestres; sabeis que seremos julgados mais severamente,
+
+[[v66-3-2]]
+
+^<<v66-3-2,2>>^ porque todos nós caímos em muitos pontos. Se alguém não cair por palavra, este é um homem perfeito, capaz de refrear todo o seu corpo.
+
+[[v66-3-3]]
+
+^<<v66-3-3,3>>^ Quando pomos o freio na boca dos cavalos, para que nos obedeçam, governamos também todo o seu corpo.
+
+[[v66-3-4]]
+
+^<<v66-3-4,4>>^ Vede também os navios: por grandes que sejam e embora agitados por ventos impetuosos, são governados com um pequeno leme à vontade do piloto.
+
+[[v66-3-5]]
+
+^<<v66-3-5,5>>^ Assim também a língua é um pequeno membro, mas pode gloriar-se de grandes coisas. Considerai como uma pequena chama pode incendiar uma grande floresta!
+
+[[v66-3-6]]
+
+^<<v66-3-6,6>>^ Também a língua é um fogo, um mundo de iniquidade. A língua está entre os nossos membros e contamina todo o corpo; e sendo inflamada pelo inferno, incendeia o curso da nossa vida.^&#42;1^
+
+[[v66-3-7]]
+
+^<<v66-3-7,7>>^ Todas as espécies de feras selvagens, de aves, de répteis e de peixes do mar se domam e têm sido domadas pela espécie humana.
+
+[[v66-3-8]]
+
+^<<v66-3-8,8>>^ A língua, porém, nenhum homem a pode domar. É um mal irrequieto, cheia de veneno mortífero.
+
+[[v66-3-9]]
+
+^<<v66-3-9,9>>^ Com ela bendizemos o Senhor, nosso Pai, e com ela amaldiçoamos os homens, feitos à semelhança de Deus.
+
+[[v66-3-10]]
+
+^<<v66-3-10,10>>^ De uma mesma boca procedem a bênção e a maldição. Não convém, meus irmãos, que seja assim.
+
+[[v66-3-11]]
+
+^<<v66-3-11,11>>^ Porventura lança uma fonte por uma mesma bica água doce e água amargosa?
+
+[[v66-3-12]]
+
+^<<v66-3-12,12>>^ Acaso, meus irmãos, pode a figueira dar azeitonas ou a videira dar figos? Do mesmo modo a fonte de água salobra não pode dar água doce.
+
+[[v66-3-13]]
+
+^<<v66-3-13,13>>^ Quem dentre vós é sábio e inteligente? Mostre com um bom proceder as suas obras repassadas de doçura e de sabedoria.
+
+[[v66-3-14]]
+
+^<<v66-3-14,14>>^ Mas, se tendes no coração um ciúme amargo e gosto pelas contendas, não vos glorieis, nem mintais contra a verdade.
+
+[[v66-3-15]]
+
+^<<v66-3-15,15>>^ Esta não é a sabedoria que vem do alto, mas é uma sabedoria terrena, humana, diabólica.
+
+[[v66-3-16]]
+
+^<<v66-3-16,16>>^ Onde houver ciúme e contenda, ali há também perturbação e toda espécie de vícios.
+
+[[v66-3-17]]
+
+^<<v66-3-17,17>>^ A sabedoria, porém, que vem de cima, é primeiramente pura, depois pacífica, condescendente, conciliadora, cheia de misericórdia e de bons frutos, sem parcialidade, nem fingimento.
+
+[[v66-3-18]]
+
+^<<v66-3-18,18>>^ O fruto da justiça semeia-se na paz para aqueles que praticam a paz.
+
+'''
+
+xref:066-sao-tiago/066-sao-tiago-002.adoc#v66-2-0[&#60; Capítulo Anterior] | <<v66-3-0,Topo>> | xref:066-sao-tiago/066-sao-tiago-004.adoc#v66-4-0[Próximo Capítulo &#62;]

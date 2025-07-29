@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v52-8-0]]
+=== Romanos, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Romanos 8 é um capítulo fundamental na teologia cristã, apresentando a vida no Espírito e a esperança da salvação para todos os que creem em Jesus Cristo. Entre os temas abordados neste capítulo estão a libertação do pecado, a adoção como filhos de Deus, a vida no Espírito e a segurança da salvação.
+* 2 Coríntios 3:17: "Ora, o Senhor é o Espírito e, onde está o Espírito do Senhor, ali há liberdade." Paulo fala sobre a vida no Espírito em Romanos 8 e em 2 Coríntios 3, destacando a liberdade que é encontrada em Cristo.
+* Gálatas 4:5-7: "para resgatar os que estavam sob a lei, a fim de que recebêssemos a adoção de filhos. E, porque vocês são filhos, Deus enviou o Espírito de seu Filho ao nosso coração, o qual clama: "Aba, Pai!" Assim, você já não é mais escravo, mas filho; e, por ser filho, Deus também o tornou herdeiro." Romanos 8 fala sobre a adoção como filhos de Deus e a libertação da escravidão do pecado, e esses temas também são abordados em Gálatas 4.
+* Efésios 1:13-14: "Nele, quando vocês ouviram e creram na palavra da verdade, o evangelho que os salvou, vocês foram selados com o Espírito Santo da promessa, que é a garantia da nossa herança até a redenção daqueles que pertencem a Deus, para o louvor da sua glória." Paulo destaca a segurança da salvação em Romanos 8 e em Efésios 1, lembrando que os crentes são selados pelo Espírito Santo como garantia da herança eterna.
+* João 1:12-13: "Mas a todos que o receberam, aos que creem em seu nome, deu-lhes o direito de se tornarem filhos de Deus, os quais não nasceram por descendência natural, nem pela vontade da carne nem pela vontade de algum homem, mas nasceram de Deus." A adoção como filhos de Deus é um tema central em Romanos 8, e João 1 também destaca que aqueles que creem em Jesus Cristo recebem o direito de se tornarem filhos de Deus.
+* Hebreus 9:14: "quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu de forma imaculada a Deus, purificará a nossa consciência de atos que levam à morte, para que sirvamos ao Deus vivo!" Romanos 8 destaca a libertação do poder do pecado e da morte, e Hebreus 9 enfatiza que é o sangue de Cristo que purifica nossas consciências de atos que levam à morte.
+****
+
+[[v52-8-1]]
+
+^<<v52-8-1,1>>^ De agora em diante, pois, já não há nenhuma condenação para aqueles que estão em Jesus Cristo.
+
+[[v52-8-2]]
+
+^<<v52-8-2,2>>^ A Lei do Espírito de Vida me libertou, em Jesus Cristo, da Lei do pecado e da morte.^&#42;1^
+
+[[v52-8-3]]
+
+^<<v52-8-3,3>>^ O que era impossível à Lei, visto que a carne a tornava impotente, Deus o fez. Enviando, por causa do pecado, o seu próprio Filho numa carne semelhante à do pecado, condenou o pecado na carne,
+
+[[v52-8-4]]
+
+^<<v52-8-4,4>>^ a fim de que a justiça, prescrita pela Lei, fosse realizada em nós, que vivemos não segundo a carne, mas segundo o espírito.
+
+[[v52-8-5]]
+
+^<<v52-8-5,5>>^ Os que vivem segundo a carne gostam do que é carnal; os que vivem segundo o espírito apreciam as coisas que são do espírito.
+
+[[v52-8-6]]
+
+^<<v52-8-6,6>>^ Ora, a aspiração da carne é a morte, enquanto a aspiração do espírito é a vida e a paz.
+
+[[v52-8-7]]
+
+^<<v52-8-7,7>>^ Porque o desejo da carne é hostil a Deus, pois a carne não se submete à Lei de Deus, e nem o pode.
+
+[[v52-8-8]]
+
+^<<v52-8-8,8>>^ Os que vivem segundo a carne não podem agradar a Deus.^&#42;1^
+
+[[v52-8-9]]
+
+^<<v52-8-9,9>>^ Vós, porém, não viveis segundo a carne, mas segundo o Espírito, se realmente o Espírito de Deus habita em vós. Se alguém não possui o Espírito de Cristo, este não é dele.
+
+[[v52-8-10]]
+
+^<<v52-8-10,10>>^ Ora, se Cristo está em vós, o corpo, em verdade, está morto pelo pecado, mas o Espírito vive pela justificação.^&#42;1^
+
+[[v52-8-11]]
+
+^<<v52-8-11,11>>^ Se o Espírito daquele que ressuscitou Jesus dos mortos habita em vós, ele, que ressuscitou Jesus Cristo dos mortos, também dará a vida aos vossos corpos mortais, pelo seu Espírito que habita em vós.
+
+[[v52-8-12]]
+
+^<<v52-8-12,12>>^ Portanto, irmãos, não somos devedores da carne, para que vivamos segundo a carne.
+
+[[v52-8-13]]
+
+^<<v52-8-13,13>>^ De fato, se viverdes segundo a carne, haveis de morrer; mas, se pelo Espírito mortificardes as obras da carne, vivereis,
+
+[[v52-8-14]]
+
+^<<v52-8-14,14>>^ pois todos os que são conduzidos pelo Espírito de Deus são filhos de Deus.
+
+[[v52-8-15]]
+
+^<<v52-8-15,15>>^ Porquanto não recebestes um espírito de escravidão para viverdes ainda no temor, mas recebestes o espírito de adoção pelo qual clamamos: Aba! Pai!
+
+[[v52-8-16]]
+
+^<<v52-8-16,16>>^ O Espírito mesmo dá testemunho ao nosso espírito de que somos filhos de Deus.
+
+[[v52-8-17]]
+
+^<<v52-8-17,17>>^ E, se filhos, também herdeiros, herdeiros de Deus e coerdeiros de Cristo, contanto que soframos com ele, para que também com ele sejamos glorificados.
+
+[[v52-8-18]]
+
+^<<v52-8-18,18>>^ Tenho para mim que os sofrimentos da presente vida não têm proporção alguma com a glória futura que nos deve ser manifestada.
+
+[[v52-8-19]]
+
+^<<v52-8-19,19>>^ Por isso, a criação aguarda ansiosamente a manifestação dos filhos de Deus.
+
+[[v52-8-20]]
+
+^<<v52-8-20,20>>^ Pois a criação foi sujeita à vaidade (não voluntariamente, mas por vontade daquele que a sujeitou),^&#42;1^
+
+[[v52-8-21]]
+
+^<<v52-8-21,21>>^ todavia, com a esperança de ser também ela libertada do cativeiro da corrupção, para participar da gloriosa liberdade dos filhos de Deus.
+
+[[v52-8-22]]
+
+^<<v52-8-22,22>>^ Pois sabemos que toda a criação geme e sofre como que dores de parto até o presente dia.
+
+[[v52-8-23]]
+
+^<<v52-8-23,23>>^ Não só ela, mas também nós, que temos as primícias do Espírito, gememos em nós mesmos, aguardando a adoção, a redenção do nosso corpo.
+
+[[v52-8-24]]
+
+^<<v52-8-24,24>>^ Porque pela esperança é que fomos salvos. Ora, ver o objeto da esperança já não é esperança; porque o que alguém vê, como é que ainda o espera?
+
+[[v52-8-25]]
+
+^<<v52-8-25,25>>^ Nós, que esperamos o que não vemos, é em paciência que o aguardamos.
+
+[[v52-8-26]]
+
+^<<v52-8-26,26>>^ Outrossim, o Espírito vem em auxílio à nossa fraqueza; porque não sabemos o que devemos pedir, nem orar como convém, mas o Espírito mesmo intercede por nós com gemidos inefáveis.
+
+[[v52-8-27]]
+
+^<<v52-8-27,27>>^ E aquele que perscruta os corações sabe o que deseja o Espírito, o qual intercede pelos santos, segundo Deus.
+
+[[v52-8-28]]
+
+^<<v52-8-28,28>>^ Aliás, sabemos que todas as coisas concorrem para o bem daqueles que amam a Deus, daqueles que são os eleitos, segundo os seus desígnios.
+
+[[v52-8-29]]
+
+^<<v52-8-29,29>>^ Os que ele distinguiu de antemão, também os predestinou para serem conformes à imagem de seu Filho, a fim de que este seja o primogênito entre uma multidão de irmãos.
+
+[[v52-8-30]]
+
+^<<v52-8-30,30>>^ E aos que predestinou, também os chamou; e aos que chamou, também os justificou; e aos que justificou, também os glorificou.
+
+[[v52-8-31]]
+
+^<<v52-8-31,31>>^ Que diremos depois disso? Se Deus é por nós, quem será contra nós?
+
+[[v52-8-32]]
+
+^<<v52-8-32,32>>^ Aquele que não poupou seu próprio Filho, mas que por todos nós o entregou, como não nos dará também com ele todas as coisas?
+
+[[v52-8-33]]
+
+^<<v52-8-33,33>>^ Quem poderia acusar os escolhidos de Deus? É Deus quem os justifica.^&#42;1^
+
+[[v52-8-34]]
+
+^<<v52-8-34,34>>^ Quem os condenará? Cristo Jesus, que morreu, ou melhor, que ressuscitou, que está à mão direita de Deus, é quem intercede por nós!
+
+[[v52-8-35]]
+
+^<<v52-8-35,35>>^ Quem nos separará do amor de Cristo? A tribulação? A angústia? A perseguição? A fome? A nudez? O perigo? A espada?^&#42;1^
+
+[[v52-8-36]]
+
+^<<v52-8-36,36>>^ Realmente, está escrito: Por amor de ti somos entregues à morte o dia inteiro; somos tratados como gado destinado ao matadouro (Sl 43,23).
+
+[[v52-8-37]]
+
+^<<v52-8-37,37>>^ Mas, em todas essas coisas, somos mais que vencedores pela virtude daquele que nos amou.
+
+[[v52-8-38]]
+
+^<<v52-8-38,38>>^ Pois estou persuadido de que nem a morte, nem a vida, nem os anjos, nem os principados, nem o presente, nem o futuro, nem as potestades,
+
+[[v52-8-39]]
+
+^<<v52-8-39,39>>^ nem as alturas, nem os abismos, nem outra qualquer criatura nos poderá apartar do amor que Deus nos testemunha em Cristo Jesus, nosso Senhor.
+
+'''
+
+xref:052-romanos/052-romanos-007.adoc#v52-7-0[&#60; Capítulo Anterior] | <<v52-8-0,Topo>> | xref:052-romanos/052-romanos-009.adoc#v52-9-0[Próximo Capítulo &#62;]

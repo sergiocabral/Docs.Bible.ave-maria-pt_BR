@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v29-1-0]]
+=== Isaías, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 1 é um capítulo que denuncia os pecados do povo de Israel e anuncia o julgamento divino contra eles. Os temas presentes no capítulo incluem a hipocrisia religiosa, a injustiça social e a necessidade de arrependimento. Abaixo estão cinco versículos da Bíblia relacionados a esses temas:
+* Provérbios 21:3: "Praticar o que é justo e certo é mais aceitável ao Senhor do que oferecer sacrifícios." Este versículo fala sobre como a hipocrisia religiosa não é aceitável aos olhos de Deus. Isaías 1 também denuncia a hipocrisia dos líderes religiosos do povo de Israel que oferecem sacrifícios, mas não praticam a justiça.
+* Amós 5:24: "Flua como a água a justiça e a retidão como um riacho perene." Este versículo enfatiza a importância da justiça social. Isaías 1 também denuncia a opressão e a injustiça social cometida pelo povo de Israel.
+* Isaías 58:6-7: "Este é o jejum que desejo: soltar as correntes da injustiça, desatar as cordas do jugo, por em liberdade os oprimidos e romper todo jugo. É repartir seu alimento com o faminto, dar abrigo aos pobres sem lar, vestir o que se vê nu e não recusar ajuda ao próximo." Este versículo enfatiza a importância da justiça social e a necessidade de ajudar os necessitados. Isaías 1 também denuncia a injustiça social e a necessidade de fazer o bem aos necessitados.
+* Jeremias 6:10: "Para quem devo falar e advertir, para que me ouçam? Os ouvidos deles estão incircuncisos, não podem escutar. O Senhor os marcaram como incapazes de receber a instrução, eles não compreendem a palavra do Senhor." Este versículo fala sobre a incapacidade do povo de Israel de ouvir e compreender a palavra de Deus. Isaías 1 também fala sobre como o povo de Israel se desviou da vontade de Deus e se recusou a ouvir a sua palavra.
+* Oséias 6:6: "Pois é amor que eu quero e não sacrifícios, conhecimento de Deus em vez de holocaustos." Este versículo fala sobre a importância do amor e do conhecimento de Deus em vez de simplesmente seguir rituais religiosos. Isaías 1 também denuncia a hipocrisia religiosa do povo de Israel que oferece sacrifícios, mas não tem amor e conhecimento de Deus.
+****
+
+[[v29-1-1]]
+
+^<<v29-1-1,1>>^ Profecia de Isaías, filho de Amós, a respeito de Judá e Jerusalém no tempo de Ozias, de Joatão, de Acaz e de Ezequias, rei de Judá.^&#42;1^
+
+[[v29-1-2]]
+
+^<<v29-1-2,2>>^ Ouvi, céus, e tu, ó terra, escuta, é o Senhor quem fala: “Eu criei filhos e os eduquei; eles, porém, se revoltaram contra mim.
+
+[[v29-1-3]]
+
+^<<v29-1-3,3>>^ O boi conhece o seu possuidor, e o asno, o estábulo do seu dono; mas Israel não conhece nada, e meu povo não tem entendimento”.
+
+[[v29-1-4]]
+
+^<<v29-1-4,4>>^ Ai da nação pecadora, do povo carregado de crimes, da raça de malfeitores, dos filhos desnaturados! Abandonaram o Senhor, desprezaram o Santo de Israel, e lhe voltaram as costas.
+
+[[v29-1-5]]
+
+^<<v29-1-5,5>>^ Onde vos ferir ainda, quando persistis na rebelião? Toda a cabeça está enferma, e todo o coração, abatido.
+
+[[v29-1-6]]
+
+^<<v29-1-6,6>>^ Desde a planta dos pés até o alto da cabeça, não há nele coisa sã. Tudo é uma ferida, uma contusão, uma chaga viva, que não foi nem curada, nem ligada, nem suavizada com óleo.
+
+[[v29-1-7]]
+
+^<<v29-1-7,7>>^ Vossa terra está assolada, vossas cidades, incendiadas. Os inimigos, à vossa vista, devastam vosso país. É uma desolação, como a ruína de Sodoma.^&#42;1^
+
+[[v29-1-8]]
+
+^<<v29-1-8,8>>^ Sião está só, como choupana em uma vinha, como choça em pepinal, como cidade sitiada.^&#42;1^
+
+[[v29-1-9]]
+
+^<<v29-1-9,9>>^ Se o Senhor dos exércitos não nos tivesse deixado alguns da nossa linhagem, teríamos sido como Sodoma, e teríamos nos tornado como Gomorra.^&#42;1^
+
+[[v29-1-10]]
+
+^<<v29-1-10,10>>^ Ouvi a palavra do Senhor, príncipes de Sodoma; escuta a lição de nosso Deus, povo de Gomorra:
+
+[[v29-1-11]]
+
+^<<v29-1-11,11>>^ “De que me serve a mim a multidão das vossas vítimas?” – diz o Senhor –. “Já estou farto de holocaustos de cordeiros e da gordura de novilhos cevados. Eu não quero sangue de touros e de bodes.
+
+[[v29-1-12]]
+
+^<<v29-1-12,12>>^ Quando vindes apresentar-vos diante de mim, quem vos reclamou isto: atropelar os meus átrios?
+
+[[v29-1-13]]
+
+^<<v29-1-13,13>>^ De nada serve trazer oferendas; tenho horror da fumaça dos sacrifícios. As luas novas, os sábados, as reuniões de culto, não posso suportar a presença do crime na festa religiosa.
+
+[[v29-1-14]]
+
+^<<v29-1-14,14>>^ Eu abomino as vossas luas novas e as vossas festas; elas me são molestas, estou cansado delas.
+
+[[v29-1-15]]
+
+^<<v29-1-15,15>>^ Quando estendeis vossas mãos, eu desvio de vós os meus olhos; quando multiplicais vossas preces, não as ouço. Vossas mãos estão cheias de sangue.
+
+[[v29-1-16]]
+
+^<<v29-1-16,16>>^ Lavai-vos, purificai-vos. Tirai vossas más ações de diante de meus olhos.
+
+[[v29-1-17]]
+
+^<<v29-1-17,17>>^ Cessai de fazer o mal, aprendei a fazer o bem. Respeitai o direito, protegei o oprimido; fazei justiça ao órfão, defendei a viúva.”
+
+[[v29-1-18]]
+
+^<<v29-1-18,18>>^ “Pois bem, justifiquemo-nos” – diz o Senhor –. “Se vossos pecados forem escarlates, se tornarão brancos como a neve! Se forem vermelhos como a púrpura, ficarão brancos como a lã!^&#42;1^
+
+[[v29-1-19]]
+
+^<<v29-1-19,19>>^ Se fordes dóceis e obedientes, provareis os melhores frutos da terra;
+
+[[v29-1-20]]
+
+^<<v29-1-20,20>>^ se recusardes e vos revoltardes, provareis a espada.” É a boca do Senhor que o declara.
+
+[[v29-1-21]]
+
+^<<v29-1-21,21>>^ Como se prostituiu a cidade fiel, Sião, cheia de retidão? A justiça habitava nela, e agora são os homicidas.
+
+[[v29-1-22]]
+
+^<<v29-1-22,22>>^ Tua prata converteu-se em escória, teu vinho misturou-se com água.
+
+[[v29-1-23]]
+
+^<<v29-1-23,23>>^ Teus príncipes são rebeldes, cúmplices de ladrões. Todos eles amam as dádivas e andam atrás do proveito próprio; não fazem justiça ao órfão, e a causa da viúva não é evocada diante deles.
+
+[[v29-1-24]]
+
+^<<v29-1-24,24>>^ Por isso, eis o que diz o Senhor, Deus dos exércitos, o Poderoso de Israel: “Ah! Eu tirarei satisfação de meus adversários, e me vingarei de meus inimigos.
+
+[[v29-1-25]]
+
+^<<v29-1-25,25>>^ Voltarei minha mão contra ti, e te purificarei no crisol, e eliminarei de ti todo o chumbo.
+
+[[v29-1-26]]
+
+^<<v29-1-26,26>>^ Tornarei teus juízes semelhantes aos de outrora, e teus conselheiros como os de antigamente. Então te chamarão Cidade da Justiça, Cidade fiel”.
+
+[[v29-1-27]]
+
+^<<v29-1-27,27>>^ Sião será remida pelo direito, e seus convertidos pela justiça.
+
+[[v29-1-28]]
+
+^<<v29-1-28,28>>^ Os rebeldes e os pecadores serão destruídos juntamente, e aqueles que abandonam o Senhor perecerão.
+
+[[v29-1-29]]
+
+^<<v29-1-29,29>>^ Então, tereis vergonha dos carvalhos verdes que cobiçais, e corareis de pejo dos jardins que ora vos agradam,^&#42;1^
+
+[[v29-1-30]]
+
+^<<v29-1-30,30>>^ porque sereis como um carvalho verde com folhagem seca, e como um jardim sem água.
+
+[[v29-1-31]]
+
+^<<v29-1-31,31>>^ O homem forte será a estopa, e sua obra, a faísca; eles arderão sem que ninguém possa extinguir.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-051.adoc#v28-51-0[&#60; Capítulo Anterior] | <<v29-1-0,Topo>> | xref:029-isaias/029-isaias-002.adoc#v29-2-0[Próximo Capítulo &#62;]

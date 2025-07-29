@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v27-19-0]]
+=== Sabedoria, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 19 do livro da Sabedoria fala sobre a libertação dos hebreus da escravidão no Egito e sobre as consequências desse evento na vida do povo. Fala sobre a proteção divina e a punição daqueles que se opuseram a Deus e aos seus escolhidos. A seguir, são apresentados cinco versículos relacionados com os temas abordados nesse capítulo:
+* Êxodo 13:21: "E o Senhor ia adiante deles, de dia numa coluna de nuvem para os guiar pelo caminho, e de noite numa coluna de fogo para os iluminar, para que caminhassem de dia e de noite." Esse versículo fala sobre a proteção divina dos hebreus durante sua fuga do Egito, que é mencionada no capítulo 19 de Sabedoria.
+* Salmos 78:13: "Dividiu o mar e os fez passar; fez com que as águas se detivessem como num montão." Esse versículo fala sobre o milagre da divisão do Mar Vermelho, que permitiu aos hebreus escapar do exército egípcio que os perseguia, e que é mencionado no capítulo 19.
+* Salmos 105:26-27: "Enviou Moisés, seu servo, e Arão, que escolhera. Fizeram diante deles sinais e maravilhas na terra de Cam." Esse versículo fala sobre os líderes escolhidos por Deus para conduzir os hebreus na fuga do Egito, e sobre os milagres que realizaram, também mencionados no capítulo 19.
+* Salmos 78:51: "E feriu todos os primogênitos no Egito, primícias da força deles nas tendas de Cam." Esse versículo fala sobre a punição divina dos egípcios pela opressão dos hebreus, que é mencionada no capítulo 19.
+* Isaías 63:11: "Então ele se lembrou dos dias da antiguidade, de Moisés e do seu povo, dizendo: Onde está aquele que os fez subir do mar com os pastores do seu rebanho? Onde está aquele que pôs no meio deles o seu Espírito Santo?" Esse versículo fala sobre a libertação dos hebreus do Egito e sobre o papel de Moisés como líder escolhido por Deus, também mencionados no capítulo 19.
+****
+
+[[v27-19-1]]
+
+^<<v27-19-1,1>>^ Quanto aos ímpios, inexorável foi a ira que os perseguiu até o fim: porque Deus previa o que eles haveriam de fazer,
+
+[[v27-19-2]]
+
+^<<v27-19-2,2>>^ isto é, depois de terem deixado partir os justos, instando mesmo que fossem embora, mudariam de opinião e os perseguiriam.
+
+[[v27-19-3]]
+
+^<<v27-19-3,3>>^ Na verdade, eles estavam ainda enlutados, e gemiam ainda sobre a tumba de seus mortos, quando loucamente tomaram outra resolução e perseguiram, como a fugitivos, aqueles aos quais tinham rogado que partissem.
+
+[[v27-19-4]]
+
+^<<v27-19-4,4>>^ Um merecido destino os impelia a esse proceder extremo, e os atirava no olvido dos acontecimentos passados, para que sofressem, em meio a tormentos, um castigo completo,
+
+[[v27-19-5]]
+
+^<<v27-19-5,5>>^ e fossem feridos de uma morte insólita, enquanto vosso povo tentava uma extraordinária passagem.
+
+[[v27-19-6]]
+
+^<<v27-19-6,6>>^ É que toda a criação, obedecendo às vossas ordens, foi remodelada em sua natureza, para que vossos filhos fossem conservados ilesos.^&#42;1^
+
+[[v27-19-7]]
+
+^<<v27-19-7,7>>^ Foi vista uma nuvem cobrir o acampamento, e a terra seca surgir do que tinha sido água, um caminho viável formar-se no Mar Vermelho, e um campo verdejante emergir das ondas impetuosas.^&#42;1^
+
+[[v27-19-8]]
+
+^<<v27-19-8,8>>^ Por aí passou toda ela, a nação dos que vossa mão protegia, e que viram singulares prodígios.
+
+[[v27-19-9]]
+
+^<<v27-19-9,9>>^ Iam como cavalos conduzidos à pastagem, e saltavam como cordeiros, glorificando a vós, Senhor, seu libertador,
+
+[[v27-19-10]]
+
+^<<v27-19-10,10>>^ porque eles se lembravam ainda do que tinha acontecido na terra estrangeira: como a terra, contrariando a geração dos vivos, tinha produzido moscas, e como o rio, em lugar de peixes, tinha lançado fora uma multidão de rãs.
+
+[[v27-19-11]]
+
+^<<v27-19-11,11>>^ Mais tarde, viram ainda nascer uma nova espécie de pássaros, quando, premidos pela cobiça, pediram manjares delicados, porquanto, para satisfazê-los, codornizes subiram do mar.
+
+[[v27-19-12]]
+
+^<<v27-19-12,12>>^ Os castigos não surpreenderam os pecadores, sem que fossem antes advertidos pela violência dos raios.^&#42;1^
+
+[[v27-19-13]]
+
+^<<v27-19-13,13>>^ Suportavam justamente o castigo de sua própria maldade, porque tinham mostrado excessivo ódio pelo estrangeiro.
+
+[[v27-19-14]]
+
+^<<v27-19-14,14>>^ Houve muitos que não quiseram receber hóspedes desconhecidos, mas estes reduziram à escravidão hóspedes que tinham sido benfeitores.^&#42;1^
+
+[[v27-19-15]]
+
+^<<v27-19-15,15>>^ E isso não é tudo; haverá algo a mais que um castigo qualquer para aqueles que acolheram mal os estrangeiros:
+
+[[v27-19-16]]
+
+^<<v27-19-16,16>>^ mas estes, a princípio, receberam bem seus hóspedes, e concederam-lhes a participação em seus direitos. Em seguida, eles os encheram de males.
+
+[[v27-19-17]]
+
+^<<v27-19-17,17>>^ Do mesmo modo, foram feridos de cegueira, como aqueles homens, às portas do justo, quando, envolvidos por uma profunda escuridão, procuravam, cada um de seu lado, o caminho para suas casas.^&#42;1^
+
+[[v27-19-18]]
+
+^<<v27-19-18,18>>^ Assim, os elementos mudavam suas propriedades entre si, como na harpa os sons mudam de ritmo, conservando a mesma tonalidade. É o que se pode verificar perfeitamente quando se consideram esses acontecimentos.
+
+[[v27-19-19]]
+
+^<<v27-19-19,19>>^ Os seres terrestres tornavam-se aquáticos, os que nadam passavam à terra,^&#42;1^
+
+[[v27-19-20]]
+
+^<<v27-19-20,20>>^ o fogo era mais violento debaixo da chuva, e a água esquecia a propriedade que tem de extingui-lo.
+
+[[v27-19-21]]
+
+^<<v27-19-21,21>>^ Além disso, as chamas não ofendiam as carnes dos frágeis animais que as atravessavam, e não liquefaziam esse alimento celeste, semelhante ao gelo e inteiramente capaz de se derreter.
+
+[[v27-19-22]]
+
+^<<v27-19-22,22>>^ É que em tudo, Senhor, engrandecestes e glorificastes vosso povo, e não deixastes de assisti-lo em todo o tempo e em todo o lugar.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-018.adoc#v27-18-0[&#60; Capítulo Anterior] | <<v27-19-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-001.adoc#v28-1-0[Próximo Capítulo &#62;]

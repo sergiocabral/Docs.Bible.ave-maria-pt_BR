@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v21-28-0]]
+=== Salmos, 28
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 28 é uma oração que clama pela proteção divina diante dos inimigos e pede pela justiça de Deus. O salmista expressa sua confiança em Deus e sua rejeição a aqueles que praticam o mal. Seguem abaixo cinco versículos relacionados com os temas do Salmo 28:
+* Salmo 7:9: "Ponha fim à maldade dos ímpios e capacite o justo, ó Deus justo, que sonda corações e mentes!" O salmista deixa claro que Deus é um Deus justo e que Ele capacita o justo enquanto pune os ímpios.
+* Salmo 18:2: "O SENHOR é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." O salmista enfatiza a proteção de Deus e sua segurança em Deus.
+* Salmo 55:22: "Entregue suas preocupações ao SENHOR, e ele o susterá; jamais permitirá que o justo venha a cair." O salmista aconselha a confiar em Deus, entregando-Lhe as preocupações e Ele sustentará e protegerá.
+* Salmo 94:14: "Pois o SENHOR não abandonará o seu povo; jamais desertará a sua herança." O salmista acredita que Deus não abandona seu povo e não desertará a sua herança.
+* Salmo 140:8: "SENHOR, não concedas aos ímpios os seus desejos; não permitas que seus planos se concretizem, pois são arrogantes." O salmista rejeita aqueles que praticam o mal e pede a Deus que não permita que seus planos se concretizem.
+****
+
+[[v21-28-1]]
+
+^<<v21-28-1,1>>^ Salmo de Davi. Tributai ao Senhor, ó filhos de Deus, tributai ao Senhor glória e poder!^&#42;1^
+
+[[v21-28-2]]
+
+^<<v21-28-2,2>>^ Rendei-lhe a glória devida ao seu nome; adorai o Senhor com ornamentos sagrados.
+
+[[v21-28-3]]
+
+^<<v21-28-3,3>>^ Ouve-se a voz do Senhor sobre as águas! O Deus de grandeza retumbou: o Senhor trovejou sobre as águas imensas!
+
+[[v21-28-4]]
+
+^<<v21-28-4,4>>^ A voz do Senhor faz-se ouvir com poder! A voz do Senhor faz-se ouvir com majestade!
+
+[[v21-28-5]]
+
+^<<v21-28-5,5>>^ Fendem-se os cedros à voz do Senhor, quebra o Senhor os cedros do Líbano.
+
+[[v21-28-6]]
+
+^<<v21-28-6,6>>^ Faz saltar o Líbano como um novilho, e o Sarion como um búfalo novo.^&#42;1^
+
+[[v21-28-7]]
+
+^<<v21-28-7,7>>^ A voz do Senhor despede relâmpagos,
+
+[[v21-28-8]]
+
+^<<v21-28-8,8>>^ a voz do Senhor abala o deserto. O Senhor faz tremer o deserto de Cades.
+
+[[v21-28-9]]
+
+^<<v21-28-9,9>>^ A voz do Senhor retorce os carvalhos, desnuda as florestas. E em seu templo todos bradam: “glória”!.
+
+[[v21-28-10]]
+
+^<<v21-28-10,10>>^ O Senhor preside ao dilúvio, o Senhor domina como rei para sempre.
+
+[[v21-28-11]]
+
+^<<v21-28-11,11>>^ O Senhor há de dar fortaleza ao seu povo! O Senhor abençoará o seu povo, dando-lhe a paz!
+
+'''
+
+xref:021-salmos/021-salmos-027.adoc#v21-27-0[&#60; Capítulo Anterior] | <<v21-28-0,Topo>> | xref:021-salmos/021-salmos-029.adoc#v21-29-0[Próximo Capítulo &#62;]

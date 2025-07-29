@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v10-2-0]]
+=== II Samuel, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Samuel 2 narra a ascensão de Davi ao trono de Judá, após a morte de Saul. O capítulo inicia com Davi buscando a aprovação de Deus para ir a Hebrom, onde é ungido rei sobre a tribo de Judá. Em seguida, Abner, comandante do exército de Saul, declara Isbosete, filho de Saul, como rei sobre Israel, iniciando assim uma guerra civil entre as tribos de Judá e Israel. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Samuel 2:
+* 2 Samuel 2:4: "Então os homens de Judá vieram, e ali ungiram Davi rei sobre a tribo de Judá." Este versículo marca o início da ascensão de Davi ao trono, quando ele é ungido rei sobre a tribo de Judá em Hebrom.
+* 2 Samuel 2:10: "Isbosete, filho de Saul, tinha quarenta anos quando começou a reinar sobre Israel, e reinou dois anos; mas somente a casa de Judá seguia a Davi." Este versículo mostra a divisão do reino de Israel, com Isbosete reinando sobre as outras tribos, enquanto a tribo de Judá seguia Davi.
+* 2 Samuel 2:17: "E houve naquele dia uma guerra forte, e Abner e os homens de Israel foram vencidos pelos servos de Davi." Este versículo descreve a primeira batalha da guerra civil entre as tribos de Judá e Israel, que resulta na vitória de Davi e seus homens.
+* 2 Samuel 2:26: "Então Abner chamou a Davi, dizendo: Não cessará a espada de devorar? não sabes tu que ela trará no fim amargura? Até quando não hás de dizer ao povo que se retire da perseguição de seus irmãos?" Neste versículo, Abner tenta persuadir Davi a acabar com a guerra civil, alertando sobre as consequências amargas da luta fratricida.
+* 2 Samuel 2:32: "E levantaram a Asael, irmão de Joabe, dentre os que estavam mortos em Gate." Este versículo descreve a morte de Asael, irmão de Joabe, na batalha contra o exército de Abner. Esse acontecimento é importante para entender as tensões entre Davi e Joabe no futuro.
+****
+
+[[v10-2-1]]
+
+^<<v10-2-1,1>>^ Depois disso, Davi consultou o Senhor: “Devo subir a alguma das cidades de Judá? – perguntou ele –. “Vai – respondeu o Senhor. Davi retomou: “Aonde irei?”. “A Hebron.”
+
+[[v10-2-2]]
+
+^<<v10-2-2,2>>^ Davi subiu a Hebron com suas duas mulheres, Aquinoam de Jezrael e Abigail, viúva de Nabal, de Carmelo.
+
+[[v10-2-3]]
+
+^<<v10-2-3,3>>^ Levou também Davi os homens de sua tropa com suas famílias e fixaram-se nas cidades de Hebron.
+
+[[v10-2-4]]
+
+^<<v10-2-4,4>>^ Os homens de Judá foram ali e ungiram Davi como rei da casa de Judá. Foi anunciado ao rei que os homens de Jabes em Galaad haviam sepultado Saul.
+
+[[v10-2-5]]
+
+^<<v10-2-5,5>>^ Davi mandou-lhes mensageiros, dizendo: “Benditos sejais pelo Senhor, por terdes feito esta obra de misericórdia para com o vosso senhor Saul, sepultando-o!
+
+[[v10-2-6]]
+
+^<<v10-2-6,6>>^ Que o Senhor, por sua vez, se mostre bom e fiel para convosco. E eu também vos beneficiarei por essa ação que fizestes.
+
+[[v10-2-7]]
+
+^<<v10-2-7,7>>^ Coragem! Sede homens valentes! Vosso senhor Saul morreu e a casa de Judá me ungiu por seu rei”.
+
+[[v10-2-8]]
+
+^<<v10-2-8,8>>^ Entretanto, Abner, filho de Ner, chefe do exército de Saul, tomou Isbaal, filho de Saul e levou-o a Maanaim,
+
+[[v10-2-9]]
+
+^<<v10-2-9,9>>^ onde o declarou rei sobre Galaad, sobre os assuritas, sobre Jezrael, Efraim, Benjamim e sobre todo o Israel.
+
+[[v10-2-10]]
+
+^<<v10-2-10,10>>^ Isbaal, filho de Saul, tinha quarenta anos quando se tornou rei de Israel e reinou durante dois anos. Só a casa de Judá seguiu Davi.
+
+[[v10-2-11]]
+
+^<<v10-2-11,11>>^ Sete anos e meio reinou Davi sobre a casa de Judá em Hebron.
+
+[[v10-2-12]]
+
+^<<v10-2-12,12>>^ Abner, filho de Ner e os homens de Isbaal, filho de Saul, saíram de Maanaim para Gabaon.
+
+[[v10-2-13]]
+
+^<<v10-2-13,13>>^ Joab, filho de Sárvia, e a gente de Davi, puseram-se também em marcha e encontraram-nos perto da piscina de Gabaon, acampando uns de um lado da piscina e outros de outro.
+
+[[v10-2-14]]
+
+^<<v10-2-14,14>>^ Abner disse a Joab: “Aproximem-se os jovens para lutar em nossa presença”. “Vamos!” – respondeu Joab.
+
+[[v10-2-15]]
+
+^<<v10-2-15,15>>^ Apresentaram-se, pois, doze homens de Benjamim, da parte de Isbaal, filho de Saul, e doze da gente de Davi.
+
+[[v10-2-16]]
+
+^<<v10-2-16,16>>^ Tomando cada um a cabeça do seu adversário, mergulhou-lhe a espada no flanco, de tal modo que caíram ambos ao mesmo tempo. Deu-se a esse lugar o nome Helcat Hassurim, em Gabaon.^&#42;1^
+
+[[v10-2-17]]
+
+^<<v10-2-17,17>>^ Travou-se uma violenta batalha naquele dia, tendo Abner e os homens de Israel cedido diante dos homens de Davi.
+
+[[v10-2-18]]
+
+^<<v10-2-18,18>>^ Estavam ali os três filhos de Sárvia: Joab, AbJessé e Asael. Este tinha os pés ligeiros como uma gazela selvagem.
+
+[[v10-2-19]]
+
+^<<v10-2-19,19>>^ Pôs-se a perseguir Abner, sem se desviar nem para a direita, nem para a esquerda.
+
+[[v10-2-20]]
+
+^<<v10-2-20,20>>^ “És tu, Asael?” – disse-lhe Abner, voltando-se –. “Sim” –.
+
+[[v10-2-21]]
+
+^<<v10-2-21,21>>^ “Volta-te à direita ou à esquerda, ataca um desses homens e leva-lhe os despojos” –. Mas Asael não quis deixá-lo.
+
+[[v10-2-22]]
+
+^<<v10-2-22,22>>^ Abner disse-lhe novamente: “Deixa-me. Queres que eu te fira e te deite por terra? Como poderia eu depois aparecer diante do teu irmão Joab?”.
+
+[[v10-2-23]]
+
+^<<v10-2-23,23>>^ Mas como ele se recusasse a abandoná-lo, Abner feriu-o no ventre com a ponta de sua lança. A lança saiu-lhe pelas costas e Asael caiu, morrendo ali mesmo. Todos os que chegavam ao lugar onde ele jazia morto se detinham.
+
+[[v10-2-24]]
+
+^<<v10-2-24,24>>^ Joab e AbJessé continuaram a perseguir Abner. O sol se punha quando chegaram à colina de Ama, ao oriente de Gaia, no caminho para o deserto de Gabaon.
+
+[[v10-2-25]]
+
+^<<v10-2-25,25>>^ Então os benjaminitas, que se tinham ajuntado atrás de Abner, formaram-se numa tropa e fizeram alto no cimo de uma colina.
+
+[[v10-2-26]]
+
+^<<v10-2-26,26>>^ Abner chamou Joab e disse-lhe: “Não cessará a espada de devorar? Não sabes porventura que isso acabará mal? Que esperas para ordenar a esses homens que cessem de perseguir seus irmãos?”.
+
+[[v10-2-27]]
+
+^<<v10-2-27,27>>^ Joab respondeu: “Pela vida de Deus! Se nada tivesses dito, esses homens não teriam cessado de perseguir seus irmãos antes de amanhã”.
+
+[[v10-2-28]]
+
+^<<v10-2-28,28>>^ Joab tocou a trombeta. Toda a tropa parou de perseguir os israelitas e o combate terminou.
+
+[[v10-2-29]]
+
+^<<v10-2-29,29>>^ Abner e sua gente caminharam toda a noite na planície. Passaram o Jordão, seguiram todo o desfiladeiro e atingiram Maanaim.
+
+[[v10-2-30]]
+
+^<<v10-2-30,30>>^ Joab, tendo parado de perseguir Abner, juntou todo o seu povo: faltavam dezenove homens da gente de Davi, sem contar Asael.
+
+[[v10-2-31]]
+
+^<<v10-2-31,31>>^ Mas os homens de Davi tinham matado trezentos e sessenta homens entre os benjaminitas e os de Abner.
+
+[[v10-2-32]]
+
+^<<v10-2-32,32>>^ Levaram Asael e sepultaram-no no túmulo de seu pai, em Belém. Joab e seus homens caminharam durante toda a noite. Chegaram a Hebron, ao despontar da aurora.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-001.adoc#v10-1-0[&#60; Capítulo Anterior] | <<v10-2-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-003.adoc#v10-3-0[Próximo Capítulo &#62;]

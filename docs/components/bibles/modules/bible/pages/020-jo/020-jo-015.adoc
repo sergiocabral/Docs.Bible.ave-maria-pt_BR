@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v20-15-0]]
+=== Jó, 15
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jó 15 é um capítulo em que Elifaz, um dos amigos de Jó, responde às palavras do sofredor, acusando-o de ter falado sem conhecimento. Elifaz argumenta que Jó está sofrendo como consequência de seus pecados e incentiva-o a se arrepender. Os versículos abaixo se relacionam com os temas abordados no capítulo:
+* Provérbios 15:32: "O que rejeita a disciplina menospreza a sua alma, mas o que escuta a repreensão adquire entendimento." Elifaz acredita que Jó está sofrendo como consequência de seus pecados e sugere que ele se arrependa e aceite a disciplina de Deus.
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado e salva os de espírito oprimido." Elifaz acredita que Jó está sofrendo por causa de seus pecados e incentiva-o a se arrepender e buscar a ajuda de Deus.
+* Salmos 94:12: "Bem-aventurado é o homem a quem tu repreendes, ó Senhor, e a quem ensinas a tua lei." Elifaz acredita que Jó está sofrendo como consequência de seus pecados e incentiva-o a se arrepender e aprender a lei de Deus.
+* Jó 4:17-19: "Acaso o homem mortal pode ser justo diante de Deus? Pode o homem ser puro diante do seu Criador? Deus não confia nem nos seus santos, e até os céus não são puros aos seus olhos." Elifaz acredita que Jó está sofrendo como consequência de seus pecados e argumenta que nenhum ser humano é justo diante de Deus.
+* Salmos 32:5: "Confessei-te o meu pecado e a minha maldade não encobri; dizia eu: confessarei ao Senhor as minhas transgressões; e tu perdoaste a maldade do meu pecado." Elifaz incentiva Jó a se arrepender e confessar seus pecados a Deus, acreditando que isso trará alívio para seus sofrimentos.
+****
+
+[[v20-15-1]]
+
+^<<v20-15-1,1>>^ Elifaz de Temã tomou a palavra nestes termos:
+
+[[v20-15-2]]
+
+^<<v20-15-2,2>>^ “Porventura, responde um sábio como se falasse ao vento e enche de ar o seu ventre?
+
+[[v20-15-3]]
+
+^<<v20-15-3,3>>^ Defende-se ele com argumentos fúteis e com palavras que não servem para nada?
+
+[[v20-15-4]]
+
+^<<v20-15-4,4>>^ Acabarás destruindo a piedade, reduzes a nada o respeito devido a Deus.
+
+[[v20-15-5]]
+
+^<<v20-15-5,5>>^ É a tua iniquidade que inspira teus discursos e adotas a linguagem dos impostores.
+
+[[v20-15-6]]
+
+^<<v20-15-6,6>>^ É a tua boca que te condena, e não eu; são teus lábios que dão testemunho contra ti mesmo.
+
+[[v20-15-7]]
+
+^<<v20-15-7,7>>^ Acaso, és o primeiro homem que nasceu, e foste tu gerado antes das colinas?
+
+[[v20-15-8]]
+
+^<<v20-15-8,8>>^ Assististe, porventura, ao conselho de Deus e monopolizaste a sabedoria?
+
+[[v20-15-9]]
+
+^<<v20-15-9,9>>^ Que sabes tu, que nós ignoremos? Que aprendeste, que não nos seja familiar?
+
+[[v20-15-10]]
+
+^<<v20-15-10,10>>^ Há entre nós também anciãos e encanecidos, muito mais avançados em dias do que teu pai.
+
+[[v20-15-11]]
+
+^<<v20-15-11,11>>^ Fazes pouco caso das consolações divinas e das doces palavras que te são dirigidas?
+
+[[v20-15-12]]
+
+^<<v20-15-12,12>>^ Por que te deixas levar pelo impulso de teu coração, e o que significam esses maus-olhares?
+
+[[v20-15-13]]
+
+^<<v20-15-13,13>>^ É contra Deus que ousas encolerizar-te e que tua boca profere tais discursos?
+
+[[v20-15-14]]
+
+^<<v20-15-14,14>>^ Que é o homem para que seja puro? Pode ser justo o que nasce de mulher?
+
+[[v20-15-15]]
+
+^<<v20-15-15,15>>^ Nem mesmo em seus santos Deus confia, nem os céus são puros a seus olhos!^&#42;1^
+
+[[v20-15-16]]
+
+^<<v20-15-16,16>>^ Quanto menos um ser abominável e corrompido, um homem que bebe a iniquidade como água!
+
+[[v20-15-17]]
+
+^<<v20-15-17,17>>^ Ouve-me! Vou instruir-te. Eu te contarei o que vi,
+
+[[v20-15-18]]
+
+^<<v20-15-18,18>>^ aquilo que os sábios ensinam, aquilo que seus pais não lhes ocultaram.
+
+[[v20-15-19]]
+
+^<<v20-15-19,19>>^ A eles somente foi dada terra, e no meio dos quais não tinha penetrado estrangeiro algum.
+
+[[v20-15-20]]
+
+^<<v20-15-20,20>>^ Em todos os dias de sua vida o mau é atormentado, os anos do opressor são em número restrito.
+
+[[v20-15-21]]
+
+^<<v20-15-21,21>>^ Ruídos terrificantes ressoam-lhe aos ouvidos, no seio da paz, lhe sobrevém o destruidor.
+
+[[v20-15-22]]
+
+^<<v20-15-22,22>>^ Ele não espera escapar das trevas, está destinado à espada.
+
+[[v20-15-23]]
+
+^<<v20-15-23,23>>^ Anda vagando à procura de pão, mas onde? Ele sabe que o dia das trevas está a seu lado.
+
+[[v20-15-24]]
+
+^<<v20-15-24,24>>^ A tribulação e a angústia vêm sobre ele como um rei que vai para o combate.
+
+[[v20-15-25]]
+
+^<<v20-15-25,25>>^ Pois estendeu a mão contra Deus e desafiou o Todo-poderoso.
+
+[[v20-15-26]]
+
+^<<v20-15-26,26>>^ Investiu contra ele com a cabeça levantada, por trás da grossura de seus escudos.
+
+[[v20-15-27]]
+
+^<<v20-15-27,27>>^ Cobriu de gordura o seu rosto e deixou a gordura ajuntar-se sobre seus rins.
+
+[[v20-15-28]]
+
+^<<v20-15-28,28>>^ Habitou em cidades desoladas, em casas que foram abandonadas, destinadas a se tornarem em ruínas.
+
+[[v20-15-29]]
+
+^<<v20-15-29,29>>^ Mas não se enriquecerá, nem os seus bens resistirão, não mais estenderá sua sombra sobre a terra.
+
+[[v20-15-30]]
+
+^<<v20-15-30,30>>^ Não escapará das trevas; o fogo queimará seus ramos e sua flor será levada pelo vento.
+
+[[v20-15-31]]
+
+^<<v20-15-31,31>>^ E não se fie na mentira: ficará prisioneiro dela, pois a mentira será a sua recompensa.
+
+[[v20-15-32]]
+
+^<<v20-15-32,32>>^ Suas ramagens secarão antes da hora, seus ramos não tornarão a ficar verdes.
+
+[[v20-15-33]]
+
+^<<v20-15-33,33>>^ Como a vinha, sacudirá seus frutos verdes, e, como a oliveira, deixará cair a flor.
+
+[[v20-15-34]]
+
+^<<v20-15-34,34>>^ Pois a raça dos ímpios é estéril, e um fogo devorará as tendas dos corruptos.
+
+[[v20-15-35]]
+
+^<<v20-15-35,35>>^ Quem concebe o mal gera a infelicidade: é o engano que amadurece em seu seio”.
+
+'''
+
+xref:020-jo/020-jo-014.adoc#v20-14-0[&#60; Capítulo Anterior] | <<v20-15-0,Topo>> | xref:020-jo/020-jo-016.adoc#v20-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v21-82-0]]
+=== Salmos, 82
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 82 é um poema que critica os líderes injustos e corruptos que governam com parcialidade e opressão. O salmista chama esses líderes de "deuses" que foram designados para governar com justiça e defender os fracos e necessitados, mas que falharam em cumprir seu papel. A seguir, estão cinco versículos selecionados em ordem de proximidade com os temas do capítulo, mas excluindo os versículos do Salmo 82:
+* Deuteronômio 1:16-17: "Naquele mesmo tempo, ordenei a vossos juízes, dizendo: Ouvi a causa entre vossos irmãos, e julgai justamente entre o homem e seu irmão e o estrangeiro que está com ele. Não fareis acepção de pessoas no juízo; de um mesmo modo ouvireis o pequeno e o grande; não temereis a face de ninguém, porque o juízo é de Deus; porém, a causa que vos parecer difícil, a trareis a mim, e eu a ouvirei." Este versículo fala sobre a importância de julgar com justiça e sem parcialidade, o que é semelhante à crítica do salmista contra os líderes injustos em Salmo 82.
+* Provérbios 21:3: "Fazer justiça e julgar com retidão é mais aceitável ao Senhor do que oferecer-lhe sacrifício." Este versículo enfatiza a importância de fazer justiça e julgar com retidão, que é um tema central do Salmo 82.
+* Isaías 1:17: "Aprendei a fazer bem; procurai o que é justo; ajudai o oprimido; fazei justiça ao órfão; tratai da causa das viúvas." Este versículo fala sobre a importância de ajudar os necessitados e fazer justiça, que é um tema importante do Salmo 82.
+* Jeremias 22:3: "Assim diz o Senhor: Fazei justiça e retidão, e livrai o oprimido da mão do opressor; e não oprimais nem façais violência ao estrangeiro, nem ao órfão, nem à viúva; nem derrameis sangue inocente neste lugar." Este versículo enfatiza a importância de fazer justiça e livrar os oprimidos da opressão, o que é um tema central do Salmo 82.
+* Mateus 23:23: "Ai de vós, escribas e fariseus, hipócritas! porque dais o dízimo da hortelã, do endro e do cominho, e tendes omitido o que há de mais importante na lei, a saber, a justiça, a misericórdia e a fé; estas coisas, porém, devíeis fazer, sem omitir aquelas." Este versículo enfatiza a importância da justiça e da misericórdia, que são valores fundamentais do Salmo 82.
+****
+
+[[v21-82-1]]
+
+^<<v21-82-1,1>>^ Cântico. Salmo de Asaf^&#42;1^
+
+[[v21-82-2]]
+
+^<<v21-82-2,2>>^ Senhor, não fiqueis silencioso, não permaneçais surdo, nem insensível, ó Deus.
+
+[[v21-82-3]]
+
+^<<v21-82-3,3>>^ Porque eis que se tumultuam vossos inimigos, levantam a cabeça aqueles que vos odeiam.
+
+[[v21-82-4]]
+
+^<<v21-82-4,4>>^ Urdem tramas para o vosso povo, conspiram contra vossos protegidos.
+
+[[v21-82-5]]
+
+^<<v21-82-5,5>>^ “Vinde – dizem eles –, exterminemo-lo dentre os povos, desapareça a própria lembrança do nome de Israel.”
+
+[[v21-82-6]]
+
+^<<v21-82-6,6>>^ Com efeito, eles conspiram de comum acordo e contra vós fazem coalizão:
+
+[[v21-82-7]]
+
+^<<v21-82-7,7>>^ os nômades de Edom e os ismaelitas, Moab e os agarenos,
+
+[[v21-82-8]]
+
+^<<v21-82-8,8>>^ Gebal, Amon e Amalec, a Filisteia com as gentes de Tiro.
+
+[[v21-82-9]]
+
+^<<v21-82-9,9>>^ Também os assírios a eles se uniram, e aos filhos de Lot ofereceram a sua força.
+
+[[v21-82-10]]
+
+^<<v21-82-10,10>>^ Tratai-os como Madiã e Sísara, e Jabin junto à torrente de Cison!^&#42;1^
+
+[[v21-82-11]]
+
+^<<v21-82-11,11>>^ Eles pereceram todos em Endor e serviram de adubo para a terra.^&#42;1^
+
+[[v21-82-12]]
+
+^<<v21-82-12,12>>^ Tratai seus chefes como Oreb e Zeb; como Zebá e Sálmana, seus príncipes,^&#42;1^
+
+[[v21-82-13]]
+
+^<<v21-82-13,13>>^ que disseram: “Tomemos posse das terras onde Deus reside”.
+
+[[v21-82-14]]
+
+^<<v21-82-14,14>>^ Ó meu Deus, fazei deles como folhas que o turbilhão revolve, como a palha carregada pelo vento,
+
+[[v21-82-15]]
+
+^<<v21-82-15,15>>^ Como o fogo que devora a mata, como a labareda que incendeia os montes;
+
+[[v21-82-16]]
+
+^<<v21-82-16,16>>^ Persegui-os com a vossa tempestade, apavorai-os com o vosso furacão.
+
+[[v21-82-17]]
+
+^<<v21-82-17,17>>^ Cobri-lhes a face da ignomínia, para que, vencidos, busquem, Senhor, o vosso nome.
+
+[[v21-82-18]]
+
+^<<v21-82-18,18>>^ Enchei-os de vergonha e de humilhação eternas, que eles pereçam confundidos.
+
+[[v21-82-19]]
+
+^<<v21-82-19,19>>^ E que reconheçam que só vós, cujo nome é Senhor, sois o Altíssimo sobre toda a terra.
+
+'''
+
+xref:021-salmos/021-salmos-081.adoc#v21-81-0[&#60; Capítulo Anterior] | <<v21-82-0,Topo>> | xref:021-salmos/021-salmos-083.adoc#v21-83-0[Próximo Capítulo &#62;]

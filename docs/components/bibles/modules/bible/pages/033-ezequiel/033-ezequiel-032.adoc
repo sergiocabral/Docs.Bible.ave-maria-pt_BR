@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v33-32-0]]
+=== Ezequiel, 32
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 32 descreve uma lamentação sobre a queda do faraó do Egito e sua nação. O capítulo fala sobre como o Egito será derrotado e sua glória será destruída. A seguir estão cinco versículos relacionados aos temas abordados em Ezequiel 32:
+* Jeremias 46:25: "O Senhor dos Exércitos, o Deus de Israel, diz: Eis que punirei Amom, de Tebas, juntamente com Faraó e com o Egito, e com seus deuses e seus reis; sim, punirei Faraó, e os que nele confiam." Este versículo fala sobre o julgamento de Deus sobre o Egito e seus líderes, incluindo o faraó.
+* Isaías 19:11-12: "Na verdade, os príncipes de Tânis são tolos; os sábios conselheiros de Faraó dão conselhos insensatos. Como ousais dizer a Faraó: Eu sou filho dos sábios, filho dos antigos reis? Onde estão eles, pois? Onde estão os teus sábios? Que eles te digam agora, e que saibam o que o Senhor dos Exércitos tem determinado contra o Egito." Este versículo fala sobre a sabedoria dos líderes do Egito ser insuficiente para evitar sua derrota diante do poder de Deus.
+* Isaías 31:1: "Ai dos que descem ao Egito a buscar ajuda, e se estribam em cavalos, e se fiam em carros, por serem muitos, e nos cavaleiros, por serem valentes; e não olham para o Santo de Israel, nem buscam ao Senhor!" Este versículo fala sobre a falta de confiança em Deus por parte do Egito e aqueles que procuram sua ajuda.
+* Jeremias 46:17: "Foi assim que teu exército foi rejeitado, como um mero ramo; porque o Senhor o expulsou com indignação, o teu Deus, porquanto o serviste com pouca fé." Este versículo fala sobre a rejeição de Deus ao exército do Egito devido à sua falta de fé.
+* Isaías 19:16: "Naquele dia, os egípcios serão como mulheres; tremerão e temerão diante da mão forte do Senhor dos Exércitos, que ele levantará contra eles." Este versículo fala sobre o medo que o Egito sentirá diante do poder de Deus em sua derrota.
+****
+
+[[v33-32-1]]
+
+^<<v33-32-1,1>>^ No décimo segundo ano, no primeiro dia do décimo segundo mês, foi-me a palavra do Senhor dirigida nestes termos:
+
+[[v33-32-2]]
+
+^<<v33-32-2,2>>^ “Filho do homem, entoa sobre o faraó, rei do Egito, a seguinte ode fúnebre: Jovem leão das nações, pereceste! Eras semelhante ao crocodilo no seio das águas; tu te lançavas nos rios, com tuas patas perturbavas a água, agitando a torrente.
+
+[[v33-32-3]]
+
+^<<v33-32-3,3>>^ Eis o que diz o Senhor Javé: estenderei sobre ti o meu laço perante grande concurso de povo; serás tirado para fora, na rede.
+
+[[v33-32-4]]
+
+^<<v33-32-4,4>>^ Lá te deixarei sobre o solo; eu te lançarei por terra, farei vir sobre ti todos os pássaros do céu, te darei por pasto a todos os animais da terra,
+
+[[v33-32-5]]
+
+^<<v33-32-5,5>>^ largarei teu cadáver sobre as montanhas, encherei os vales com os teus destroços.
+
+[[v33-32-6]]
+
+^<<v33-32-6,6>>^ Com o líquido que de ti correr, regarei as montanhas, teu sangue encherá as torrentes.
+
+[[v33-32-7]]
+
+^<<v33-32-7,7>>^ Quando estiveres morto, velarei os céus, obscurecerei as estrelas, cobrirei o solo de sombras, e a lua cessará de clarear.
+
+[[v33-32-8]]
+
+^<<v33-32-8,8>>^ Eu cobrirei de sombras todos os astros do céu por tua causa; sobre a terra estenderei trevas – oráculo do Senhor Javé.
+
+[[v33-32-9]]
+
+^<<v33-32-9,9>>^ Mergulharei na dor o coração de inúmeras gentes, enviando teus cativos entre as nações a terras que não conheces;^&#42;1^
+
+[[v33-32-10]]
+
+^<<v33-32-10,10>>^ farei tremer por causa de ti numerosos povos, cujos reis serão enregelados de horror; quando eu brandir diante deles a minha espada, eles tremerão sem cessar, pela sua própria vida, no dia da tua queda.
+
+[[v33-32-11]]
+
+^<<v33-32-11,11>>^ Eis o que diz o Senhor Javé: a espada do rei da Babilônia virá sobre ti.
+
+[[v33-32-12]]
+
+^<<v33-32-12,12>>^ Farei tombar todo o teu povo sob o gládio dos guerreiros; os mais ferozes de todos os povos abaterão o orgulho do Egito. Sua população inteira será aniquilada.
+
+[[v33-32-13]]
+
+^<<v33-32-13,13>>^ Exterminarei todo o seu gado às margens de seus grandes rios, cujas águas não mais serão perturbadas por nenhum pé de homem nem de animal.
+
+[[v33-32-14]]
+
+^<<v33-32-14,14>>^ Então, deixarei repousar as suas águas, farei correr as águas como óleo – oráculo do Senhor Javé.
+
+[[v33-32-15]]
+
+^<<v33-32-15,15>>^ Quando eu houver reduzido o Egito a um deserto, quando ele estiver despojado de tudo o que contém, quando eu tiver ferido seus habitantes, se saberá que sou eu o Senhor.
+
+[[v33-32-16]]
+
+^<<v33-32-16,16>>^ Tal é a ode fúnebre que cantarão as filhas das nações; elas a cantarão sobre o Egito e seus habitantes, – oráculo do Senhor Javé”.
+
+[[v33-32-17]]
+
+^<<v33-32-17,17>>^ No décimo segundo ano, no décimo quinto dia do mês, foi-me a palavra do Senhor dirigida nestes termos:
+
+[[v33-32-18]]
+
+^<<v33-32-18,18>>^ “Filho do homem, entoa um cântico fúnebre sobre o povo do Egito: faze-os descer, ele e as filhas das nações, às moradas infernais, com aqueles que descem à fossa.
+
+[[v33-32-19]]
+
+^<<v33-32-19,19>>^ não vales mais do que os outros. Desce; deita-te aos pés dos incircuncisos, dos que pereceram pela espada.
+
+[[v33-32-20]]
+
+^<<v33-32-20,20>>^ Eles tombarão no meio dos que pereceram pela espada; toda a sua força desaparecerá.^&#42;1^
+
+[[v33-32-21]]
+
+^<<v33-32-21,21>>^ A elite dos heróis com seus aliados dirão ao faraó, do seio da região dos mortos:
+
+[[v33-32-22]]
+
+^<<v33-32-22,22>>^ É lá que se encontram a Assíria e todo o seu exército em torno do seu sepulcro, todos degolados, feridos pela espada;
+
+[[v33-32-23]]
+
+^<<v33-32-23,23>>^ foram postos seus túmulos no mais profundo da fossa; seu exército está ordenado em torno de seu sepulcro, todos degolados, feridos pela espada, eles, que haviam semeado o terror na terra dos vivos.
+
+[[v33-32-24]]
+
+^<<v33-32-24,24>>^ É lá que se encontram Elam e seu exército, em volta do seu sepulcro; todos degolados, feridos pela espada, lá desceram eles incircuncisos às moradas subterrâneas. Os que haviam semeado o terror sobre a terra dos vivos levam sua ignomínia com os que descem à fossa.
+
+[[v33-32-25]]
+
+^<<v33-32-25,25>>^ No meio desses mortos, foi-lhe dado seu lugar, com suas tropas que rodeiam o túmulo, todos incircuncisos, degolados, traspassados pela espada; os que haviam semeado o terror sobre a terra dos vivos levam sua ignomínia com os que desceram à fossa, e estão colocados entre os mortos.
+
+[[v33-32-26]]
+
+^<<v33-32-26,26>>^ É lá que se encontram Mosoc, Tubal e suas tropas em torno dos seus sepulcros, todos incircuncisos, degolados pela espada. Eles, que haviam semeado o terror na terra dos vivos.
+
+[[v33-32-27]]
+
+^<<v33-32-27,27>>^ Eles não jazem entre os heróis que outrora tombaram, que desceram à morada dos mortos com suas armas de guerra, sobre cuja cabeça foi colocada sua espada e seu escudo sobre seus ossos, porque sua valentia era temida na terra dos vivos.^&#42;1^
+
+[[v33-32-28]]
+
+^<<v33-32-28,28>>^ Mas tu estarás deitado entre os incircuncisos, entre os que morreram a fio de espada.^&#42;1^
+
+[[v33-32-29]]
+
+^<<v33-32-29,29>>^ É lá que se encontram Edom, seus reis e todos os seus príncipes, que foram postos, a despeito de sua valentia, com as vítimas da espada; ei-los jazendo com os incircuncisos, entre aqueles que desceram à fossa.
+
+[[v33-32-30]]
+
+^<<v33-32-30,30>>^ É lá que se encontram todos os príncipes do norte, assim como os sidônios que, apesar do terror inspirado pela sua valentia, lá desceram com os mortos. Eles jazem entre os incircuncisos, entre as vítimas da espada, e trazem sua ignomínia com aqueles que desceram à fossa”.
+
+[[v33-32-31]]
+
+^<<v33-32-31,31>>^ “Vendo-os todos, o faraó se consolará da sorte de seu povo; porque o faraó estará transpassado pela espada com todo o seu exército – oráculo do Senhor Javé.
+
+[[v33-32-32]]
+
+^<<v33-32-32,32>>^ A despeito do terror que ele tinha semeado sobre a terra dos vivos, ei-lo que jaz entre os incircuncisos, no meio dos que foram mortos pela espada, o faraó, com todo o seu exército – oráculo do Senhor Javé.”
+
+'''
+
+xref:033-ezequiel/033-ezequiel-031.adoc#v33-31-0[&#60; Capítulo Anterior] | <<v33-32-0,Topo>> | xref:033-ezequiel/033-ezequiel-033.adoc#v33-33-0[Próximo Capítulo &#62;]

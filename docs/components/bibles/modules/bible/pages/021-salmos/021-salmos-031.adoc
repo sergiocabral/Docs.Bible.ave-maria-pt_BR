@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v21-31-0]]
+=== Salmos, 31
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 31 é uma oração de confiança e entrega a Deus em meio à adversidade. O salmista clama a Deus em busca de proteção, salvação e livramento dos inimigos, enquanto expressa sua confiança na fidelidade e bondade de Deus. A seguir estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Salmo 31.
+* Isaías 25:9: "E se dirá naquele dia: Eis que este é o nosso Deus, a quem aguardávamos, e ele nos salvará; este é o Senhor, a quem aguardávamos; na sua salvação exultaremos e nos alegraremos." Este verso fala da esperança da salvação que Deus oferece a Seu povo. A confiança na salvação de Deus é um tema recorrente no Salmo 31.
+* Jeremias 17:7-8: "Bendito o homem que confia no Senhor, e cuja confiança é o Senhor. Porque ele é como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro, e não receia quando vem o calor, mas a sua folha fica verde; e no ano de sequidão não se afadiga, nem deixa de dar fruto." Este verso compara a pessoa que confia em Deus a uma árvore bem enraizada e resistente. A confiança em Deus como fonte de força e sustento se relaciona com o tema central do Salmo 31.
+* Habacuque 3:19: "O Senhor Deus é a minha força, e fará os meus pés como os das cervas, e me fará andar sobre as minhas alturas." Este verso fala da capacidade de Deus de fortalecer e capacitar Seu povo para enfrentar as dificuldades. A confiança na força e proteção de Deus se relaciona com o tema central do Salmo 31.
+* Romanos 8:31: "Que diremos, pois, a estas coisas? Se Deus é por nós, quem será contra nós?" Este verso fala da segurança que os crentes têm em Deus. A confiança na presença e proteção de Deus em meio às dificuldades se relaciona com o tema central do Salmo 31.
+* Hebreus 13:5-6: "Seja a vossa vida isenta de ganância, contentando-vos com o que tendes; porque ele tem dito: De maneira alguma te deixarei, nunca jamais te abandonarei. Assim, afirmemos confiantemente: O Senhor é o meu auxílio, não temerei; que me poderá fazer o homem?" Este verso fala da confiança na fidelidade de Deus, que nunca abandonará Seu povo. A confiança na presença e proteção de Deus em meio às dificuldades se relaciona com o tema central do Salmo 31.
+****
+
+[[v21-31-1]]
+
+^<<v21-31-1,1>>^ De Davi. Hino. Feliz aquele cuja iniquidade foi perdoada, cujo pecado foi absolvido.^&#42;1^
+
+[[v21-31-2]]
+
+^<<v21-31-2,2>>^ Feliz o homem a quem o Senhor não argúi de falta, e em cujo coração não há dolo.^&#42;1^
+
+[[v21-31-3]]
+
+^<<v21-31-3,3>>^ Enquanto me conservei calado, meus ossos se mirraram, entre contínuos gemidos.
+
+[[v21-31-4]]
+
+^<<v21-31-4,4>>^ Pois, dia e noite, vossa mão pesava sobre mim; minhas forças se esgotavam as forças como nos ardores do verão.
+
+[[v21-31-5]]
+
+^<<v21-31-5,5>>^ Então eu vos confessei o meu pecado, e não mais dissimulei a minha culpa. Disse: “Sim, vou confessar ao Senhor a minha iniquidade”. E vós perdoastes a pena do meu pecado.
+
+[[v21-31-6]]
+
+^<<v21-31-6,6>>^ Assim também todo fiel recorrerá a vós, no momento da necessidade. Quando transbordarem muitas águas, elas não chegarão até ele.
+
+[[v21-31-7]]
+
+^<<v21-31-7,7>>^ Vós sois meu asilo, das angústias me preservareis e me envolvereis na alegria de minha salvação.
+
+[[v21-31-8]]
+
+^<<v21-31-8,8>>^ “Vou te ensinar – dizeis –, vou te mostrar o caminho que deves seguir; vou te instruir, fitando em ti os meus olhos:
+
+[[v21-31-9]]
+
+^<<v21-31-9,9>>^ não queiras ser sem inteligência como o cavalo, como o muar, que só ao freio e à rédea submetem seus ímpetos; de outro modo não se chegam a ti.”
+
+[[v21-31-10]]
+
+^<<v21-31-10,10>>^ São muitos os sofrimentos do ímpio. Mas quem espera no Senhor, sua misericórdia o envolve.
+
+[[v21-31-11]]
+
+^<<v21-31-11,11>>^ Ó justos, alegrai-vos e regozijai-vos no Senhor. Exultai todos vós, retos de coração.
+
+'''
+
+xref:021-salmos/021-salmos-030.adoc#v21-30-0[&#60; Capítulo Anterior] | <<v21-31-0,Topo>> | xref:021-salmos/021-salmos-032.adoc#v21-32-0[Próximo Capítulo &#62;]

@@ -1,0 +1,235 @@
+include::./index.adoc[]
+
+[[v13-1-0]]
+=== I Crônicas, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Crônicas 1 é um capítulo que lista os descendentes de Adão até Abraão. Essa genealogia inclui as linhagens de Sete, Caim, Noé e seus filhos. Além disso, há menção aos descendentes de Esaú e Seir, que são considerados inimigos do povo de Israel. Seguem abaixo cinco versículos relacionados aos temas abordados nesse capítulo:
+* Gênesis 5:1: "Este é o livro das gerações de Adão. No dia em que Deus criou o homem, à semelhança de Deus o fez." Este versículo fala da origem da humanidade, que é o tema central de 1 Crônicas 1.
+* Gênesis 10:32: "São estas as famílias dos filhos de Noé, segundo as suas gerações, nas suas nações; e destes foram divididas as nações na terra, depois do dilúvio." Esse versículo se relaciona com a menção aos filhos de Noé e suas descendências em 1 Crônicas 1.
+* Gênesis 36:1: "São estas as gerações de Esaú (que é Edom)." Esse versículo introduz a genealogia de Esaú e seus descendentes, que é mencionada em 1 Crônicas 1.
+* Gênesis 36:8: "Assim habitou Esaú em monte Seir; Esaú é Edom." Esse versículo se relaciona com a menção a Seir e os edomitas em 1 Crônicas 1.
+* Gênesis 36:43: "Estes são os chefes das famílias dos edomitas, segundo as suas moradas na terra da sua possessão; este é Esaú, o pai dos edomitas." Esse versículo conclui a genealogia de Esaú e seus descendentes, que é mencionada em 1 Crônicas 1.
+****
+
+[[v13-1-1]]
+
+^<<v13-1-1,1>>^ Adão, Set, Enós,
+
+[[v13-1-2]]
+
+^<<v13-1-2,2>>^ Cainã, Malaleel, Jared,
+
+[[v13-1-3]]
+
+^<<v13-1-3,3>>^ 3 Henoc, Matusalém, Lamec,
+
+[[v13-1-4]]
+
+^<<v13-1-4,4>>^ Noé, Sem, Cam e Jafé.
+
+[[v13-1-5]]
+
+^<<v13-1-5,5>>^ Filhos de Jafé: Gomer, Magog, Madai, Javã, Tubal, Mosoc e Tiras.
+
+[[v13-1-6]]
+
+^<<v13-1-6,6>>^ Filhos de Gomer: Asquenez, Rifat e Togorma.
+
+[[v13-1-7]]
+
+^<<v13-1-7,7>>^ Filhos de Javã: Elisa, Társis, Cetim e Dodanim.
+
+[[v13-1-8]]
+
+^<<v13-1-8,8>>^ Filhos de Cam: Cuch, Mesraim, Fut e Canaã.
+
+[[v13-1-9]]
+
+^<<v13-1-9,9>>^ Filhos de Cus: Seba, Hévila, Sabata, Regma e Sabateca. Filhos de Regma: Sabá e Dadã.
+
+[[v13-1-10]]
+
+^<<v13-1-10,10>>^ Cuch gerou Nemrod, o primeiro a se tornar poderoso na terra.
+
+[[v13-1-11]]
+
+^<<v13-1-11,11>>^ Mesraim gerou os ludim, os ananim, os laabim, os neftuim, os fetrusim, os casluim,
+
+[[v13-1-12]]
+
+^<<v13-1-12,12>>^ dos quais procederam os filisteus e os caftorim.
+
+[[v13-1-13]]
+
+^<<v13-1-13,13>>^ Canaã gerou Sidon, seu primogênito e Het,
+
+[[v13-1-14]]
+
+^<<v13-1-14,14>>^ e também os jebuseus, os amorreus e os gergeseus,
+
+[[v13-1-15]]
+
+^<<v13-1-15,15>>^ os heveus, os araceus, os sineus,
+
+[[v13-1-16]]
+
+^<<v13-1-16,16>>^ os aradeus, os samareus e os hamateus.
+
+[[v13-1-17]]
+
+^<<v13-1-17,17>>^ Filhos de Sem: Elam, Assur, Arfaxad, Lud, Aram, Hus, Hul, Geter e Mosoc.
+
+[[v13-1-18]]
+
+^<<v13-1-18,18>>^ Arfaxad gerou Salé, o qual gerou Héber.
+
+[[v13-1-19]]
+
+^<<v13-1-19,19>>^ Dois filhos nasceram a Héber: um se chamou Faleg, porque a divisão da terra foi em seu tempo e seu irmão foi chamado Jectã.
+
+[[v13-1-20]]
+
+^<<v13-1-20,20>>^ Jectã gerou Elmodad, Salef, Asarmot,
+
+[[v13-1-21]]
+
+^<<v13-1-21,21>>^ Jaré, Adoram, Uzal e Decla;
+
+[[v13-1-22]]
+
+^<<v13-1-22,22>>^ Ebal, Abimael, Sabá,
+
+[[v13-1-23]]
+
+^<<v13-1-23,23>>^ Ofir, Hévila e Jobab, todos filhos de Jectã.
+
+[[v13-1-24]]
+
+^<<v13-1-24,24>>^ De Sem: Arfaxad, Salé,
+
+[[v13-1-25]]
+
+^<<v13-1-25,25>>^ Héber, Faleg, Ragau,
+
+[[v13-1-26]]
+
+^<<v13-1-26,26>>^ Serug, Nacor, Taré,
+
+[[v13-1-27]]
+
+^<<v13-1-27,27>>^ Abrão, que é o mesmo que Abraão.
+
+[[v13-1-28]]
+
+^<<v13-1-28,28>>^ Filhos de Abraão: Isaac e Ismael,
+
+[[v13-1-29]]
+
+^<<v13-1-29,29>>^ dos quais a posteridade é a seguinte: Nabaiot, primogênito de Ismael; em seguida, Cedar, Adbeel, Mabsam,
+
+[[v13-1-30]]
+
+^<<v13-1-30,30>>^ Masma, Duma, Massa, Adad, Tema,
+
+[[v13-1-31]]
+
+^<<v13-1-31,31>>^ Jetur, Nafis, Cedma, que são os filhos de Ismael.
+
+[[v13-1-32]]
+
+^<<v13-1-32,32>>^ Filhos de Cetura, concubina de Abraão. Ela deu à luz Zamrã, Jecsã, Madã, Madiã, Jesboc e Sué. Filhos de Jecsã: Sabá e Dadã.
+
+[[v13-1-33]]
+
+^<<v13-1-33,33>>^ Filhos de Madiã: Ofer, Efer, Henoc, Abida e Eldaá, todos filhos de Cetura.
+
+[[v13-1-34]]
+
+^<<v13-1-34,34>>^ Abraão gerou Isaac. Filhos de Isaac: Esaú e Jacó.
+
+[[v13-1-35]]
+
+^<<v13-1-35,35>>^ Filhos de Esaú: Elifaz, Rauel, Jeús, Jalam e Coré.
+
+[[v13-1-36]]
+
+^<<v13-1-36,36>>^ Filhos de Elifaz: Temã, Omar, Sefo, Gatam, Cenez, Tamna, Amalec.
+
+[[v13-1-37]]
+
+^<<v13-1-37,37>>^ Filhos de Rauel: Naat, Zara, Hosama e Meza.
+
+[[v13-1-38]]
+
+^<<v13-1-38,38>>^ Filhos de Seir: Lotã, Sobal, Sebeon, Ana, Dison, Eser e Disã.
+
+[[v13-1-39]]
+
+^<<v13-1-39,39>>^ Filhos de Lotã: Hori e Emam. Irmã de Lotã: Tamna.
+
+[[v13-1-40]]
+
+^<<v13-1-40,40>>^ Filhos de Sobal: Aliã, Manaat, Ebal, Sefo e Onam. Filhos de Sebeon: Aía e Ana. Filho de Ana: Dison.
+
+[[v13-1-41]]
+
+^<<v13-1-41,41>>^ Filhos de Dison: Hamrã, Esebã, Jetraam e Carã.
+
+[[v13-1-42]]
+
+^<<v13-1-42,42>>^ Filhos de Eser: Balaã, Zaavã e Jacã. Filhos de Disã: Hus e Arã.
+
+[[v13-1-43]]
+
+^<<v13-1-43,43>>^ Eis os reis que reinaram na terra de Edom, antes que um rei governasse sobre os israelitas. Bela, filho de Beor, cuja cidade se chamava Danaba.
+
+[[v13-1-44]]
+
+^<<v13-1-44,44>>^ Depois da morte de Bela, Jobab, filho de Zara, de Bosra, reinou em seu lugar.
+
+[[v13-1-45]]
+
+^<<v13-1-45,45>>^ Jobab morreu e Husam, do país dos temanitas, lhe sucedeu.
+
+[[v13-1-46]]
+
+^<<v13-1-46,46>>^ Estando Husam morto, subiu ao trono Adad, filho de Badad, que derrotou os madianitas na terra de Moab. Sua cidade se chamava Avit.
+
+[[v13-1-47]]
+
+^<<v13-1-47,47>>^ Adad morreu e Semla, de Masreca, lhe sucedeu.
+
+[[v13-1-48]]
+
+^<<v13-1-48,48>>^ Semla morreu e Saul de Reobot, que está situado junto do rio, lhe sucedeu.
+
+[[v13-1-49]]
+
+^<<v13-1-49,49>>^ Saul morreu e Baalanã, filho de Acobor, lhe sucedeu.
+
+[[v13-1-50]]
+
+^<<v13-1-50,50>>^ Baalanã morreu e Adad lhe sucedeu. Sua cidade se chamava Fau e sua mulher Meetabel, filha de Matred, filha de Mezaab.
+
+[[v13-1-51]]
+
+^<<v13-1-51,51>>^ Morreu Adad. Os governadores de Edom foram: o governador de Tamna, o governador Alva, o governador Jetet,
+
+[[v13-1-52]]
+
+^<<v13-1-52,52>>^ o governador Oolibama, o governador Ela, o governador Finon,
+
+[[v13-1-53]]
+
+^<<v13-1-53,53>>^ o governador Cenez, o governador Temã, o governador Mabsar,
+
+[[v13-1-54]]
+
+^<<v13-1-54,54>>^ o governador Magdiel, o governador Hiram. Estes são os governadores de Edom.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-025.adoc#v12-25-0[&#60; Capítulo Anterior] | <<v13-1-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-002.adoc#v13-2-0[Próximo Capítulo &#62;]

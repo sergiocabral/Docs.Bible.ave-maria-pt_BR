@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v35-13-0]]
+=== Oséias, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 13 de Oséias começa com uma advertência de Deus ao povo de Israel sobre a sua idolatria e infidelidade, lembrando-lhes do castigo que está por vir. Em seguida, é descrito o julgamento que Deus fará sobre eles por causa de sua rebeldia. Oséias compara Israel a uma videira inútil, que não produz frutos, e lamenta a sua destruição iminente. Abaixo estão cinco versículos da Bíblia que se relacionam com os temas abordados em Oséias 13.
+* Jeremias 2:13: "Pois o meu povo cometeu dois males: eles me abandonaram, a mim, a fonte de água viva, e cavaram as suas próprias cisternas, cisternas rachadas que não retêm água." Este versículo fala sobre a escolha do povo de Israel de abandonar a Deus e buscar outras fontes de satisfação, o que levará à sua própria destruição.
+* Joel 1:7: "Ele arrasou a minha vinha e despojou a minha figueira, descascando-a por completo e lançando-a por terra; os seus galhos branquearam." Este verso descreve a destruição da vinha de Deus, uma imagem semelhante à usada por Oséias para descrever a situação de Israel.
+* Isaías 5:4: "Que mais se podia fazer à minha vinha, que eu não tenha feito nela? Por que, quando eu esperava que desse uvas doces, deu uvas bravas?" Este versículo fala sobre a frustração de Deus com a falta de frutos produzidos pelo povo de Israel, uma imagem também usada por Oséias.
+* Ezequiel 15:2-3: "Filho do homem, qual é a videira entre as árvores da floresta que se compara a ela? Porventura se tomará dela madeira para fazer algum trabalho? Ou tomar-se-á dela uma estaca para pendurar algum utensílio?" Este versículo descreve Israel como uma videira inútil, sem valor para nada além de ser consumida pelo fogo, uma imagem semelhante à usada por Oséias.
+* Salmos 80:8-9: "Tu trouxeste uma vinha do Egito, expulsaste nações e a plantaste. Preparaste-lhe lugar, e ela se firmou e estendeu os ramos por toda a terra." Este versículo descreve a plantação da vinha de Deus (Israel) e sua prosperidade inicial, contrastando com a situação descrita por Oséias em que a videira se tornou inútil e prestes a ser destruída.
+****
+
+[[v35-13-1]]
+
+^<<v35-13-1,1>>^ Datã procedeu como Efraim: ele era príncipe em Israel, mas se tornou culpado para com o seu senhor e morreu.^&#42;1^
+
+[[v35-13-2]]
+
+^<<v35-13-2,2>>^ Porém, agora os israelitas pecam ainda mais, fazem para si estátuas fundidas com sua prata, ídolos de sua invenção, meras obras de artistas. Falam-lhes, oferecem-lhes sacrifícios humanos e dão beijos nos bezerros.
+
+[[v35-13-3]]
+
+^<<v35-13-3,3>>^ Por isso, serão como a nuvem da manhã, como o orvalho matinal que logo passa, como a palha que o vento leva da eira, e como a fumaça que sai pela janela.
+
+[[v35-13-4]]
+
+^<<v35-13-4,4>>^ E, no entanto, eu sou o Senhor, teu Deus, desde a saída do Egito. Não conheces outro Deus fora de mim, não há outro salvador, senão eu.
+
+[[v35-13-5]]
+
+^<<v35-13-5,5>>^ Procurei-te pastagem no deserto, em uma terra de aridez.
+
+[[v35-13-6]]
+
+^<<v35-13-6,6>>^ Quando tiveram a sua pastagem, ficaram fartos. Uma vez fartos, ensoberbeceram-se e se esqueceram de mim.
+
+[[v35-13-7]]
+
+^<<v35-13-7,7>>^ Serei para eles como um leão; eu os espreitarei como uma pantera, ao longo do caminho.
+
+[[v35-13-8]]
+
+^<<v35-13-8,8>>^ Como uma ursa a quem tiraram os filhotes, investirei contra eles, fecharei o caminho e lhes rasgarei as entranhas. E os devorarei no mesmo lugar como uma leoa; por animal feroz serão espedaçados e consumidos.^&#42;1^
+
+[[v35-13-9]]
+
+^<<v35-13-9,9>>^ Confirmei tua perda, ó Israel; quem te poderá socorrer?
+
+[[v35-13-10]]
+
+^<<v35-13-10,10>>^ Onde está o teu rei, para que ele te salve em todas as tuas cidades? E teus magistrados, onde estão? Porque dizias: “Dá-me um rei e príncipes?”.
+
+[[v35-13-11]]
+
+^<<v35-13-11,11>>^ Dei-te um rei no meu furor, e to retiro na minha indignação!
+
+[[v35-13-12]]
+
+^<<v35-13-12,12>>^ A iniquidade de Efraim está guardada, seu pecado está posto em reserva.^&#42;1^
+
+[[v35-13-13]]
+
+^<<v35-13-13,13>>^ Quando lhe sobrevêm as dores do parto, ele é como um filho mal-ajeitado, que não se apresenta no momento devido para sair do seio materno.^&#42;1^
+
+[[v35-13-14]]
+
+^<<v35-13-14,14>>^ E eu o libertaria do poder da região dos mortos, iria isentá-lo da morte? Onde estão tuas calamidades, ó Morte? Região dos mortos, onde está o teu flagelo destruidor? Não vejo arrependimento.^&#42;1^
+
+[[v35-13-15]]
+
+^<<v35-13-15,15>>^ Porque em vão crescerá Efraim no meio das canas, quando vier o vento do Oriente, o vento do Senhor que sopra do deserto. Ele secará sua nascente e estancará sua fonte; todos os seus tesouros serão roubados.^&#42;1^
+
+[[v35-13-16]]
+
+^<<v35-13-16,16>>^ Samaria será punida porque ela se revoltou contra o seu Deus. Seus habitantes cairão sob os golpes da espada, seus filhinhos serão esmagados, e rasgados os ventres de suas mulheres grávidas.
+
+'''
+
+xref:035-oseias/035-oseias-012.adoc#v35-12-0[&#60; Capítulo Anterior] | <<v35-13-0,Topo>> | xref:035-oseias/035-oseias-014.adoc#v35-14-0[Próximo Capítulo &#62;]

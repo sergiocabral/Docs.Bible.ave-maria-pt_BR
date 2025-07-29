@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v29-22-0]]
+=== Isaías, 22
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 22 é uma profecia sobre a queda de Jerusalém, sendo uma mensagem de julgamento e condenação sobre a cidade. Os versículos selecionados a seguir tratam de temas como arrependimento, busca por Deus e o julgamento divino.
+* Jeremias 3:12: "Vai, pois, e proclama estas palavras para o Norte: 'Volta, ó infiel Israel', declara o Senhor. 'Não mais olharei para ti com ira, pois sou misericordioso', declara o Senhor. 'Não ficarei sempre irado.'" Este versículo fala sobre o chamado ao arrependimento e à busca por Deus, que é apresentado em Isaías 22.
+* Salmo 51:10: "Cria em mim, ó Deus, um coração puro e renova dentro de mim um espírito estável." Este verso reflete a necessidade de arrependimento e mudança, que também é apresentado em Isaías 22.
+* Ezequiel 22:30: "Busquei entre eles um homem que erguesse um muro e se colocasse na brecha diante de mim e em favor desta terra, para que eu não a destruísse; mas não encontrei nenhum." Este verso fala sobre a busca por alguém que pudesse interceder em favor da cidade, algo que também é abordado em Isaías 22.
+* Amós 5:18: "Ai de vós que desejais o Dia do Senhor! Para que quereis vós este dia do Senhor? Será de trevas e não de luz." Este versículo fala sobre o julgamento divino e a necessidade de se estar preparado para ele, que é um tema central em Isaías 22.
+* Sofonias 2:3: "Buscai o Senhor, vós todos, os humildes da terra, que pusestes em prática seus mandamentos. Buscai a justiça, buscai a humildade. Talvez encontreis refúgio no Dia da ira do Senhor." Este versículo fala sobre a busca por Deus e a justiça, que é uma mensagem presente em Isaías 22.
+****
+
+[[v29-22-1]]
+
+^<<v29-22-1,1>>^ Oráculo do vale da Visão. Que tens, pois, para subir em multidão aos terraços,^&#42;1^
+
+[[v29-22-2]]
+
+^<<v29-22-2,2>>^ cidade ruidosa, cidade turbulenta, cidade alegre! Teus mortos não foram transpassados pela espada, nem mortos em combate.
+
+[[v29-22-3]]
+
+^<<v29-22-3,3>>^ Todos os teus chefes escaparam e fugiram para longe; teus bravos foram feitos prisioneiros sem que tivessem estirado o arco.
+
+[[v29-22-4]]
+
+^<<v29-22-4,4>>^ Por isso, eu digo: “Não me olheis, deixai-me derramar lágrimas amargas, não procureis consolar-me da ruína de meu povo”.
+
+[[v29-22-5]]
+
+^<<v29-22-5,5>>^ Porque este é um dia de derrota, de esmagamento e de confusão, enviado pelo Senhor, Deus dos exércitos. No vale da Visão abalam a muralha e gritam para a montanha.^&#42;1^
+
+[[v29-22-6]]
+
+^<<v29-22-6,6>>^ Elamitas toma sua aljava, cavaleiros nas suas montarias, Quir prepara o seu escudo.^&#42;1^
+
+[[v29-22-7]]
+
+^<<v29-22-7,7>>^ Teus belos vales estão atravancados de carros, os cavaleiros postam-se às tuas portas:
+
+[[v29-22-8]]
+
+^<<v29-22-8,8>>^ tirou-se o véu de Judá! Nesse dia voltais os olhos para o arsenal do palácio da Floresta.^&#42;1^
+
+[[v29-22-9]]
+
+^<<v29-22-9,9>>^ Olhais as brechas da cidade de Davi e vedes que elas são numerosas. Acumulais as águas da piscina inferior,
+
+[[v29-22-10]]
+
+^<<v29-22-10,10>>^ examinais as casas de Jerusalém e as demolis para consolidar a muralha.
+
+[[v29-22-11]]
+
+^<<v29-22-11,11>>^ Cavais um reservatório entre os dois muros para as águas da piscina velha. Mas não olhais para aquele que quis estas coisas, e não vedes aquele que as preparou já de há muito.^&#42;1^
+
+[[v29-22-12]]
+
+^<<v29-22-12,12>>^ O Senhor, Deus dos exércitos, vos convida nesse dia a chorar e a dar brados de pesar, a raspar a cabeça e a cingir o cilício.
+
+[[v29-22-13]]
+
+^<<v29-22-13,13>>^ E eis que tudo se destina à alegria e ao prazer; matam bois, degolam carneiros, comem carne e bebem vinho: “Comamos e bebamos, porque amanhã morreremos!”.^&#42;1^
+
+[[v29-22-14]]
+
+^<<v29-22-14,14>>^ Porém, o Senhor dos exércitos revelou-me: jamais este crime será perdoado sem que sejais mortos. Oráculo do Senhor, Deus dos exércitos.
+
+[[v29-22-15]]
+
+^<<v29-22-15,15>>^ Contra Sobna, prefeito do palácio. Eis o que diz o Senhor, Deus dos exércitos: “Vai ter com esse ministro,^&#42;1^
+
+[[v29-22-16]]
+
+^<<v29-22-16,16>>^ que cava para si um sepulcro em um lugar elevado, que talha para si uma morada na rocha. Que propriedade tens aqui, que parentes tens nela, para ousares cavar-te nela um sepulcro?
+
+[[v29-22-17]]
+
+^<<v29-22-17,17>>^ Eis que o Senhor te lança com força, ó grande homem, arremessa-te, rolando,
+
+[[v29-22-18]]
+
+^<<v29-22-18,18>>^ lançando-te como uma bola para uma terra vasta em todo o sentido. É lá que morrerás, lá será a tua famosa tumba! Ó vergonha da casa de teu senhor!^&#42;1^
+
+[[v29-22-19]]
+
+^<<v29-22-19,19>>^ Eu te deporei de teu cargo e te arrancarei do teu posto.
+
+[[v29-22-20]]
+
+^<<v29-22-20,20>>^ Naquele dia, chamarei meu servo Eliacim, filho de Helcias.
+
+[[v29-22-21]]
+
+^<<v29-22-21,21>>^ Eu o revestirei com a tua túnica, o cingirei com o teu cinto, e lhe transferirei os teus poderes; ele será um pai para os habitantes de Jerusalém e para a casa de Judá.
+
+[[v29-22-22]]
+
+^<<v29-22-22,22>>^ Porei sobre seus ombros a chave da casa de Davi; se ele abrir, ninguém fechará, se fechar, ninguém abrirá;
+
+[[v29-22-23]]
+
+^<<v29-22-23,23>>^ eu o fixarei como prego em lugar firme, e ele será um trono de honra para a casa de seu pai.
+
+[[v29-22-24]]
+
+^<<v29-22-24,24>>^ Dele estarão pendentes todos os membros de sua família, os ramos principais e os ramos menores, toda espécie de vasos, desde os copos até os jarros”.^&#42;1^
+
+[[v29-22-25]]
+
+^<<v29-22-25,25>>^ “Porém, um belo dia” – diz o Senhor dos exércitos –, “o prego, fincado em lugar firme, cederá, se arrancará e cairá, e toda a carga que ele sustentava será feita em pedaços” –, palavra do Senhor.
+
+'''
+
+xref:029-isaias/029-isaias-021.adoc#v29-21-0[&#60; Capítulo Anterior] | <<v29-22-0,Topo>> | xref:029-isaias/029-isaias-023.adoc#v29-23-0[Próximo Capítulo &#62;]

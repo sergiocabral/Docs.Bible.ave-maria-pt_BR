@@ -1,0 +1,223 @@
+include::./index.adoc[]
+
+[[v10-22-0]]
+=== II Samuel, 22
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 22 de 2 Samuel contém um cântico de Davi em que ele louva a Deus por ter lhe dado vitória sobre seus inimigos e o protegido ao longo de sua vida. Davi descreve a grandiosidade de Deus e agradecimento por sua ajuda constante. Abaixo estão cinco versículos relacionados aos temas abordados no capítulo:
+* Salmos 18:2: "O Senhor é o meu rochedo, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Este verso mostra a confiança de Davi em Deus como sua rocha e protetor.
+* Salmos 18:17: "Ele me livrou do meu inimigo poderoso, dos meus adversários, que eram fortes demais para mim." Este verso descreve a proteção de Deus sobre Davi e como ele o salvou de seus inimigos.
+* Salmos 18:32: "Deus é o que me reveste de força e torna perfeito o meu caminho." Este verso destaca a dependência de Davi em Deus para lhe dar força e orientação.
+* Salmos 18:46: "Vive o Senhor! Bendita seja a minha rocha! Exaltado seja Deus, o meu Salvador!" Este verso é uma expressão de louvor e gratidão de Davi por Deus ter sido seu salvador e protetor.
+* Salmos 18:49: "Por isso eu vos louvarei, ó Senhor, entre as nações, e cantarei louvores ao vosso nome." Este verso mostra o desejo de Davi de compartilhar seu testemunho de fé com outros e louvar a Deus publicamente.
+****
+
+[[v10-22-1]]
+
+^<<v10-22-1,1>>^ Davi dirigiu ao Senhor as palavras do cântico que segue, no dia em que o Senhor o livrou da mão de todos os seus inimigos e da mão de Saul.^&#42;1^
+
+[[v10-22-2]]
+
+^<<v10-22-2,2>>^ “O Senhor é meu rochedo, minha fortaleza e meu libertador.
+
+[[v10-22-3]]
+
+^<<v10-22-3,3>>^ Meu Deus é minha rocha onde encontro o meu abrigo. Meu escudo e força de minha salvação, minha cidadela e meu refúgio. Meu salvador que me salva da violência!
+
+[[v10-22-4]]
+
+^<<v10-22-4,4>>^ Invoco o Senhor que é digno de todo o louvor e fico livre dos meus inimigos.
+
+[[v10-22-5]]
+
+^<<v10-22-5,5>>^ Circundavam-me os vagalhões da morte, torrentes devastadoras me atemorizavam,^&#42;1^
+
+[[v10-22-6]]
+
+^<<v10-22-6,6>>^ enlaçavam-se as cadeias da habitação dos mortos, a própria morte me prendia em suas redes.
+
+[[v10-22-7]]
+
+^<<v10-22-7,7>>^ Na minha angústia, invoquei o Senhor, gritei para meu Deus; do seu templo ele ouviu a minha voz, e o meu clamor chegou aos seus ouvidos.
+
+[[v10-22-8]]
+
+^<<v10-22-8,8>>^ A terra vacilou e tremeu, os fundamentos dos céus estremeceram, abalaram-se, porque Deus se abrasou em cólera.
+
+[[v10-22-9]]
+
+^<<v10-22-9,9>>^ Suas narinas exalavam fumaça, sua boca, fogo devorador, brasas incandescentes.
+
+[[v10-22-10]]
+
+^<<v10-22-10,10>>^ Ele inclinou o céu e desceu, calcando aos pés escuras nuvens,
+
+[[v10-22-11]]
+
+^<<v10-22-11,11>>^ cavalgou sobre um querubim e voou, planando nas asas do vento.
+
+[[v10-22-12]]
+
+^<<v10-22-12,12>>^ Envolveu-se nas trevas como numa tenda, nas águas tenebrosas, densas nuvens.
+
+[[v10-22-13]]
+
+^<<v10-22-13,13>>^ Do esplendor de sua presença flamejaram centelhas de fogo,
+
+[[v10-22-14]]
+
+^<<v10-22-14,14>>^ dos céus trovejou o Senhor, o Altíssimo fez ressoar a sua voz,
+
+[[v10-22-15]]
+
+^<<v10-22-15,15>>^ lançou setas e dispersou os inimigos, fulminou relâmpagos e os desbaratou.
+
+[[v10-22-16]]
+
+^<<v10-22-16,16>>^ E apareceu descoberto o leito do mar, os fundamentos da terra, ante a voz ameaçadora do Senhor, ante o furacão de sua cólera.
+
+[[v10-22-17]]
+
+^<<v10-22-17,17>>^ Do alto estendeu a sua mão e me pegou e retirou-me das águas profundas,
+
+[[v10-22-18]]
+
+^<<v10-22-18,18>>^ livrou-me do inimigo poderoso, dos meus adversários, mais fortes do que eu.
+
+[[v10-22-19]]
+
+^<<v10-22-19,19>>^ Investiram contra mim no dia do meu infortúnio, mas o Senhor foi o meu arrimo,
+
+[[v10-22-20]]
+
+^<<v10-22-20,20>>^ pôs-me a salvo e livrou-me, porque me ama.
+
+[[v10-22-21]]
+
+^<<v10-22-21,21>>^ O Senhor me tratou segundo a minha inocência, retribuiu-me segundo a pureza de minhas mãos,
+
+[[v10-22-22]]
+
+^<<v10-22-22,22>>^ porque guardei os caminhos do Senhor e não pequei separando-me do meu Deus.
+
+[[v10-22-23]]
+
+^<<v10-22-23,23>>^ Tenho diante dos olhos todos os seus preceitos e não me desvio de suas leis.
+
+[[v10-22-24]]
+
+^<<v10-22-24,24>>^ Ando irrepreensivelmente diante dele, guardando-me do meu pecado.
+
+[[v10-22-25]]
+
+^<<v10-22-25,25>>^ O Senhor retribuiu-me segundo a minha justiça, segundo a minha pureza diante dos seus olhos.
+
+[[v10-22-26]]
+
+^<<v10-22-26,26>>^ Com quem é bondoso vos mostrais bondoso, com homem íntegro vos mostrais íntegro,
+
+[[v10-22-27]]
+
+^<<v10-22-27,27>>^ puro, com quem é puro; prudente, com quem é astuto.
+
+[[v10-22-28]]
+
+^<<v10-22-28,28>>^ Aos humildes salvais; os semblantes soberbos humilhais.
+
+[[v10-22-29]]
+
+^<<v10-22-29,29>>^ Senhor, sois meu farol; é o Senhor quem dissipa as minhas trevas.
+
+[[v10-22-30]]
+
+^<<v10-22-30,30>>^ Convosco afrontarei batalhões; com meu Deus escalarei muralhas.
+
+[[v10-22-31]]
+
+^<<v10-22-31,31>>^ Os caminhos de Deus são perfeitos; a palavra do Senhor é pura. Ele é o escudo de todos os que nele se refugiam.
+
+[[v10-22-32]]
+
+^<<v10-22-32,32>>^ Pois, quem é Deus senão o Senhor? Quem é o rochedo, senão o nosso Deus?
+
+[[v10-22-33]]
+
+^<<v10-22-33,33>>^ É Deus quem me cinge de coragem e aplana o meu caminho.^&#42;1^
+
+[[v10-22-34]]
+
+^<<v10-22-34,34>>^ Torna os meus pés velozes como os das gazelas e me instala nas alturas.
+
+[[v10-22-35]]
+
+^<<v10-22-35,35>>^ Adestra minhas mãos para o combate e meus braços para o tiro de arco.
+
+[[v10-22-36]]
+
+^<<v10-22-36,36>>^ Vós me dais o escudo que me salva e vossa bondade me engrandece.
+
+[[v10-22-37]]
+
+^<<v10-22-37,37>>^ Alargais o caminho a meus passos para meus pés não resvalarem.
+
+[[v10-22-38]]
+
+^<<v10-22-38,38>>^ Dou caça aos inimigos e os extermino. E não volto sem que os tenha aniquilado.
+
+[[v10-22-39]]
+
+^<<v10-22-39,39>>^ De tal sorte os aniquilo e despedaço, que não mais se levantam; eles estão caídos a meus pés.
+
+[[v10-22-40]]
+
+^<<v10-22-40,40>>^ Vós me cingis de coragem para a luta e ante mim dobrais os meus adversários.
+
+[[v10-22-41]]
+
+^<<v10-22-41,41>>^ Afugentais da minha presença os meus inimigos. E reduzo ao silêncio os que me aborrecem.
+
+[[v10-22-42]]
+
+^<<v10-22-42,42>>^ Gritam por socorro, mas não há quem os salve, clamam ao Senhor, mas não responde...
+
+[[v10-22-43]]
+
+^<<v10-22-43,43>>^ Eu os trituro como ao pó da terra. E os esmago aos pés como ao barro das estradas.
+
+[[v10-22-44]]
+
+^<<v10-22-44,44>>^ Vós me livrais das revoltas do meu povo e me guardais à frente das nações. Povos que eu desconhecia se tornaram meus servos.
+
+[[v10-22-45]]
+
+^<<v10-22-45,45>>^ Gente estranha me serve abnegadamente e obedecem-me à primeira intimação.
+
+[[v10-22-46]]
+
+^<<v10-22-46,46>>^ Gente estranha desfalece e sai tremendo de seus esconderijos.
+
+[[v10-22-47]]
+
+^<<v10-22-47,47>>^ Viva o Senhor e bendito seja o meu rochedo! Exaltado seja Deus, Rocha que me salva!
+
+[[v10-22-48]]
+
+^<<v10-22-48,48>>^ Deus, que me proporciona a vingança e avassala nações a meus pés.
+
+[[v10-22-49]]
+
+^<<v10-22-49,49>>^ Sois vós quem me libertais dos meus inimigos, me exaltais acima dos meus adversários e me salvais do homem violento.
+
+[[v10-22-50]]
+
+^<<v10-22-50,50>>^ Por isso vos louvarei, ó Senhor, entre as nações e celebrarei o vosso nome.
+
+[[v10-22-51]]
+
+^<<v10-22-51,51>>^ Ele prepara grandes vitórias a seu rei e faz misericórdia a seu ungido. A Davi e sua descendência para sempre.”
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-021.adoc#v10-21-0[&#60; Capítulo Anterior] | <<v10-22-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-023.adoc#v10-23-0[Próximo Capítulo &#62;]

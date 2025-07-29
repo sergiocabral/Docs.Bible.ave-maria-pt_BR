@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v45-13-0]]
+=== Zacarias, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Zacarias 13 é um capítulo profético que fala sobre a purificação do povo de Deus e a eliminação dos falsos profetas. O capítulo começa com uma profecia sobre uma fonte que será aberta para purificar o povo de seus pecados. Em seguida, fala sobre a eliminação dos falsos profetas e como seus pais e parentes os rejeitarão por suas falsas palavras. O capítulo termina com a profecia sobre a morte do pastor e a dispersão do rebanho. Aqui estão cinco versículos relacionados aos temas abordados em Zacarias 13, em ordem de proximidade:
+* Isaías 1:16: "Lavai-vos, purificai-vos, tirai a maldade de vossos atos de diante dos meus olhos; cessai de fazer o mal." Este versículo fala sobre a importância da purificação e remoção da maldade para se aproximar de Deus. Ele se relaciona com a profecia sobre a fonte que será aberta para a purificação do povo.
+* Jeremias 23:16: "Assim diz o SENHOR dos Exércitos: Não deis ouvidos às palavras dos profetas que entre vós profetizam; fazem-vos desvanecer; falam da visão dos seus corações, não da boca do SENHOR." Este versículo adverte contra os falsos profetas que falam de suas próprias visões e não da palavra de Deus. Ele se relaciona com a eliminação dos falsos profetas em Zacarias 13.
+* Mateus 7:15: "Acautelai-vos, porém, dos falsos profetas, que vêm até vós vestidos como ovelhas, mas, interiormente, são lobos devoradores." Este versículo também adverte contra os falsos profetas e sua habilidade de enganar os outros. Ele se relaciona com a profecia em Zacarias 13 sobre a rejeição dos falsos profetas pelos seus pais e parentes.
+* Ezequiel 34:5: "E andam dispersos, por falta de pastor, e tornam-se pasto para todas as feras do campo, porquanto andam dispersos." Este versículo fala sobre a dispersão do rebanho quando não há um pastor para guiá-los. Ele se relaciona com a profecia em Zacarias 13 sobre a morte do pastor e a dispersão do rebanho.
+* João 10:11: "Eu sou o bom Pastor; o bom Pastor dá a sua vida pelas ovelhas." Este versículo fala sobre Jesus como o bom Pastor que dá sua vida pelas ovelhas. Ele se relaciona com a profecia em Zacarias 13 sobre a morte do pastor e como isso afetará o rebanho.
+****
+
+[[v45-13-1]]
+
+^<<v45-13-1,1>>^ Naquele dia, jorrará uma fonte para a casa de Deus e para os habitantes de Jerusalém, que apagará os seus pecados e suas impurezas.
+
+[[v45-13-2]]
+
+^<<v45-13-2,2>>^ Naquele dia – oráculo do Senhor –, exterminarei da terra até os nomes dos ídolos: não se falará mais deles; expulsarei os falsos profetas e todo espírito impuro.
+
+[[v45-13-3]]
+
+^<<v45-13-3,3>>^ Se alguém intentar ainda dar um oráculo, seu pai e sua mãe que o geraram o repreenderão: “Vais morrer, porque dizes mentiras em nome do Senhor”. E quando ele proferir os seus oráculos, eles mesmos, seu pai e sua mãe que o geraram, o transpassarão.
+
+[[v45-13-4]]
+
+^<<v45-13-4,4>>^ Naquele dia, os profetas terão vergonha de suas visões proféticas, e não mais se cobrirão com o manto de peles para mentir.^&#42;1^
+
+[[v45-13-5]]
+
+^<<v45-13-5,5>>^ Cada um dirá: “Não sou profeta, mas lavrador, e possuo terras desde a minha juventude”.
+
+[[v45-13-6]]
+
+^<<v45-13-6,6>>^ Se alguém lhe disser: “Que ferimentos são esses em tuas mãos?”. “São ferimentos que recebi na casa de meus amigos” – responderá ele.^&#42;1^
+
+[[v45-13-7]]
+
+^<<v45-13-7,7>>^ Espada, levanta-te contra o meu pastor, contra o meu companheiro – oráculo do Senhor dos exércitos. Fere o pastor, que as ovelhas sejam dispersas: Voltarei a minha mão até mesmo contra os pequenos.^&#42;1^
+
+[[v45-13-8]]
+
+^<<v45-13-8,8>>^ Em toda a terra – oráculo do Senhor –, dois terços dos habitantes serão exterminados e um terço subsistirá.
+
+[[v45-13-9]]
+
+^<<v45-13-9,9>>^ Mas farei passar este terço pelo fogo; irei purificá-lo como se purifica a prata, irei prová-lo como se prova o ouro. Então, ele invocará o meu nome, eu o ouvirei, e direi: “Este é o meu povo” – e ele responderá –: “O Senhor é o meu Deus”.
+
+'''
+
+xref:045-zacarias/045-zacarias-012.adoc#v45-12-0[&#60; Capítulo Anterior] | <<v45-13-0,Topo>> | xref:045-zacarias/045-zacarias-014.adoc#v45-14-0[Próximo Capítulo &#62;]

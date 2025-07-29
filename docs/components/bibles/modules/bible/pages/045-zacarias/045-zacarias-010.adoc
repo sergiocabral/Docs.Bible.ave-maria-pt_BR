@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v45-10-0]]
+=== Zacarias, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Zacarias 10 é um capítulo que fala sobre a restauração do povo de Deus e o cuidado que Deus tem por suas ovelhas. O profeta encoraja o povo a buscar o Senhor e a confiar em sua liderança, pois Ele proverá tudo o que eles precisam. Abaixo estão cinco versículos relacionados com os temas abordados em Zacarias 10.
+* Isaías 40:11: "Como pastor ele cuidará do seu rebanho, com o braço ajuntará os cordeirinhos e os levará no colo; guiará suavemente as ovelhas que amamentam." Este versículo retrata a imagem de Deus como um pastor amoroso que cuida de suas ovelhas, assim como é mencionado em Zacarias 10:2-3.
+* Ezequiel 34:11: "Pois assim diz o Soberano, o Senhor: Eu mesmo buscarei as minhas ovelhas e cuidarei delas." Esse versículo destaca o cuidado que Deus tem por suas ovelhas, como é enfatizado em Zacarias 10:3-4.
+* Jeremias 31:10: "Ouçam a palavra do Senhor, ó nações, e anunciem nas ilhas distantes: 'Aquele que dispersou Israel os reunirá e os guardará, como um pastor que cuida do seu rebanho'." Este versículo mostra como Deus trará seu povo de volta para sua terra e cuidará dele como um pastor cuida de suas ovelhas, como é mencionado em Zacarias 10:8.
+* Salmos 23:1: "O Senhor é o meu pastor; nada me faltará." Esse versículo retrata Deus como um pastor que guia e provê para suas ovelhas, como é enfatizado em Zacarias 10:3-4.
+* Jeremias 50:6: "O meu povo foi ovelha extraviada; os seus pastores a levaram a perder-se nos montes. Foram de monte em monte, esquecendo-se do seu curral." Este versículo fala sobre o povo de Deus que se perdeu por causa de seus pastores infiéis, mas Deus promete trazer suas ovelhas de volta para casa, como é mencionado em Zacarias 10:2-3.
+****
+
+[[v45-10-1]]
+
+^<<v45-10-1,1>>^ Pedi chuvas ao Senhor para o tempo das águas tardias. O Senhor faz brilhar o relâmpago, proporciona chuva para todos e ao homem, a vegetação do campo.
+
+[[v45-10-2]]
+
+^<<v45-10-2,2>>^ Os terafins deram falsos oráculos, os adivinhos só tiveram visões mentirosas; contam sonhos vãos, e suas consolações são inúteis. Por isso, o povo desgarrou-se como um rebanho e se pôs a vagar por falta de pastor.
+
+[[v45-10-3]]
+
+^<<v45-10-3,3>>^ Minha cólera inflama-se contra os pastores, meu castigo vai cair sobre os bodes. O Senhor dos exércitos visita o seu rebanho, a casa de Judá, e a constitui seu cavalo de honra.
+
+[[v45-10-4]]
+
+^<<v45-10-4,4>>^ Dela há de provir a pedra angular; dela, o mastro da tenda; dela, o arco de guerra; dela, todos os chefes.
+
+[[v45-10-5]]
+
+^<<v45-10-5,5>>^ Todos se portarão como valentes guerreiros, que espezinham no combate a lama dos caminhos. Eles batalharão porque o Senhor está com eles; e serão confundidos os que vêm montados a cavalo.
+
+[[v45-10-6]]
+
+^<<v45-10-6,6>>^ Tornarei poderosa a casa de Judá, darei a vitória à casa de José; eu os restabelecerei, porque me compadeci de sua sorte, e eles serão como se eu não os houvesse jamais rejeitado, porque eu sou o Senhor, seu Deus: eu os ouvirei.
+
+[[v45-10-7]]
+
+^<<v45-10-7,7>>^ Efraim será como um herói; seu coração se alegrará, fortalecido pelo vinho; seus filhos verão tudo isso e se alegrarão, e seu coração exultará de júbilo no Senhor.
+
+[[v45-10-8]]
+
+^<<v45-10-8,8>>^ Vou assobiar e reuni-los, porque os resgatei; serão tão numerosos como o eram outrora.
+
+[[v45-10-9]]
+
+^<<v45-10-9,9>>^ Eu os semeei por entre os povos, mas eles de longe se recordarão de mim; instruirão os seus filhos, e tornarão a voltar.
+
+[[v45-10-10]]
+
+^<<v45-10-10,10>>^ Eu os reconduzirei da terra do Egito, eu os retirarei da Assíria e os levarei para a terra de Galaad e do Líbano, e ali não haverá lugar bastante para eles.
+
+[[v45-10-11]]
+
+^<<v45-10-11,11>>^ Atravessarão o mar do Egito, e o Senhor ferirá as ondas do mar. O leito do Nilo será descoberto. A soberba da Assíria será humilhada, e o cetro do Egito será roubado.
+
+[[v45-10-12]]
+
+^<<v45-10-12,12>>^ O poder de Israel crescerá, graças ao Senhor, e eles andarão no seu nome – oráculo do Senhor.
+
+'''
+
+xref:045-zacarias/045-zacarias-009.adoc#v45-9-0[&#60; Capítulo Anterior] | <<v45-10-0,Topo>> | xref:045-zacarias/045-zacarias-011.adoc#v45-11-0[Próximo Capítulo &#62;]

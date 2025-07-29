@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v4-16-0]]
+=== Números, 16
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 16 de Números relata a rebelião de Corá, Datã, Abirão e mais 250 líderes do povo de Israel contra Moisés e Arão. Eles questionaram a liderança dos irmãos e se recusaram a obedecer às ordens dadas por eles. A resposta de Deus a essa rebelião foi a abertura da terra, que engoliu os líderes rebeldes e suas famílias. Abaixo estão cinco versículos relacionados com os temas abordados em Números 16:
+* Salmos 106:16-17: "Também acenderam inveja no arraial, invejaram a Moisés no acampamento do Senhor. Abriu-se a terra, e engoliu a Datã, e cobriu a companhia de Abirão." Esse versículo faz referência ao episódio em que a terra se abriu e engoliu os líderes rebeldes, mostrando a gravidade do pecado da rebeldia.
+* 2 Pedro 2:9: "Assim, pois, sabe o Senhor livrar da tentação os piedosos, e reservar os injustos para o dia do juízo, para serem castigados." Esse versículo fala sobre a justiça divina e como Deus reserva a punição para aqueles que se rebelam contra Ele.
+* Judas 1:11: "Ai deles! porque entraram pelo caminho de Caim, e foram levados pelo engano do prêmio de Balaão, e pereceram na contradição de Corá." Esse versículo menciona Corá como um exemplo de rebeldia e destaca o destino daqueles que se rebelam contra Deus.
+* Números 26:9-10: "E os filhos de Eliabe: Namuel, e Datã, e Abirão. Este Abirão é o mesmo Datã e Abirão, que foram chamados para a congregação, que contenderam contra Moisés e contra Arão na congregação de Corá, quando a terra se abriu e os tragou, juntamente com Corá, quando morreu a companhia que se seguiu; e o fogo consumiu os duzentos e cinquenta homens, que ofereciam o incenso." Esse versículo faz referência direta à rebelião de Corá e mostra o destino dos líderes rebeldes.
+* Jó 31:23: "Porque eu temeria a destruição vinda de Deus, e por causa da sua majestade não poderia fazer coisa alguma." Esse versículo fala sobre o temor a Deus e como Ele é capaz de trazer destruição para aqueles que se rebelam contra Ele, reforçando a importância de obedecer e respeitar a Sua autoridade.
+****
+
+[[v4-16-1]]
+
+^<<v4-16-1,1>>^ Coré, filho de Isaar, filho de Caat, filho de Levi, Datã e Abiram, filhos de Eliab, e On, filho de Felet, todos filhos de Rúben,
+
+[[v4-16-2]]
+
+^<<v4-16-2,2>>^ levantaram-se contra Moisés, juntamente com outros duzentos e cinquenta israelitas, príncipes da assembleia, membros do conselho e homens notáveis.
+
+[[v4-16-3]]
+
+^<<v4-16-3,3>>^ Dirigiram-se, pois, em grupo a Moisés e a Aarão, dizendo-lhes: “Basta! Toda a assembleia é santa, todos o são, e o Senhor está no meio deles. Por que vos colocais acima da assembleia do Senhor?”.^&#42;1^
+
+[[v4-16-4]]
+
+^<<v4-16-4,4>>^ Ouvindo isso, Moisés lançou-se com o rosto por terra,
+
+[[v4-16-5]]
+
+^<<v4-16-5,5>>^ e disse a Coré e aos seus cúmplices: “Amanhã cedo o Senhor fará conhecer quem é dele e quem é santo, e o fará aproximar de si; fará aproximar de si aquele que ele escolher.
+
+[[v4-16-6]]
+
+^<<v4-16-6,6>>^ Eis o que tendes a fazer: cada um tome o seu turíbulo, tu, Coré, e todos os teus sequazes.
+
+[[v4-16-7]]
+
+^<<v4-16-7,7>>^ Amanhã poreis fogo em vossos turíbulos e queimareis neles o incenso diante do Senhor. O homem que o Senhor escolher, esse é santo. Isso já é demais, ó filhos de Levi!”.
+
+[[v4-16-8]]
+
+^<<v4-16-8,8>>^ Disse mais a Coré: “Ouvi, agora, ó filhos de Levi.
+
+[[v4-16-9]]
+
+^<<v4-16-9,9>>^ Não vos basta que o Deus de Israel vos tenha separado da assembleia de Israel, e vos tenha trazido para junto de si, para o serviço do tabernáculo do Senhor e para estardes a serviço da assembleia?
+
+[[v4-16-10]]
+
+^<<v4-16-10,10>>^ Fez-te aproximar dele, tu e todos os teus irmãos, os levitas, e ainda disputais o sacerdócio!
+
+[[v4-16-11]]
+
+^<<v4-16-11,11>>^ E é por isso que vos amotinais contra o Senhor, tu e todo o teu grupo! E quem é Aarão para murmurardes contra ele?”.
+
+[[v4-16-12]]
+
+^<<v4-16-12,12>>^ Moisés convocou Datã e Abiram, filhos de Eliab. Mas eles responderam: “Não iremos.
+
+[[v4-16-13]]
+
+^<<v4-16-13,13>>^ Porventura não te basta ter-nos tirado de uma terra onde corria leite e mel, para nos fazeres morrer no deserto, e ainda queres tornar-te nosso senhor?
+
+[[v4-16-14]]
+
+^<<v4-16-14,14>>^ Na verdade, não nos conduziste a uma terra onde corre leite e mel; não nos deste em herança nem campos nem vinhas. Pensas que taparás os olhos de toda essa gente? Nós não iremos”.
+
+[[v4-16-15]]
+
+^<<v4-16-15,15>>^ Moisés, muito irado, disse ao Senhor: “Não olheis para a sua oblação. Vós sabeis que nunca recebi deles nem mesmo um asno, e a nenhum deles fiz o menor mal”.
+
+[[v4-16-16]]
+
+^<<v4-16-16,16>>^ Moisés disse a Coré: “Tu e todos os teus sequazes, apresentai-vos amanhã diante do Senhor, com Aarão.
+
+[[v4-16-17]]
+
+^<<v4-16-17,17>>^ Tomai cada qual vosso turíbulo, ponde incenso nele e apresentai cada qual vosso turíbulo diante do Senhor: isto é, duzentos e cinquenta turíbulos. Tu e Aarão tomareis também o vosso turíbulo”.
+
+[[v4-16-18]]
+
+^<<v4-16-18,18>>^ Tomaram, pois, cada um o seu turíbulo, puseram-lhe fogo e deitaram por cima o incenso; e conservaram-se de pé com Moisés e Aarão à entrada da tenda de reunião.
+
+[[v4-16-19]]
+
+^<<v4-16-19,19>>^ Coré tinha reunido perto de si toda a assembleia à entrada da tenda de reunião. E eis que a glória do Senhor apareceu a toda a assembleia,
+
+[[v4-16-20]]
+
+^<<v4-16-20,20>>^ e o Senhor falou a Moisés e a Aarão:
+
+[[v4-16-21]]
+
+^<<v4-16-21,21>>^ “Retirai-vos do meio dessa assembleia, e eu os consumirei neste instante”.
+
+[[v4-16-22]]
+
+^<<v4-16-22,22>>^ Eles prostraram-se com o rosto por terra, e disseram: “Ó Deus, Deus dos espíritos de toda a carne, um só homem pecou, e tu te iras contra toda a assembleia?”.
+
+[[v4-16-23]]
+
+^<<v4-16-23,23>>^ O Senhor respondeu a Moisés:
+
+[[v4-16-24]]
+
+^<<v4-16-24,24>>^ “Manda ao povo: apartai-vos de junto das tendas de Coré, de Datã e de Abiram”.
+
+[[v4-16-25]]
+
+^<<v4-16-25,25>>^ Moisés levantou-se e, seguido dos anciãos, dirigiu-se aonde estavam Datã e Abiram.
+
+[[v4-16-26]]
+
+^<<v4-16-26,26>>^ “Afastai-vos – disse ele à assembleia – das tendas desses homens perversos, e não toqueis em coisa alguma que lhes pertença, para que não morrais, envolvidos em todos os seus pecados”.
+
+[[v4-16-27]]
+
+^<<v4-16-27,27>>^ Afastando-se o povo de junto das tendas de Coré, Datã e Abiram, saíram estes últimos com suas mulheres, seus filhos e seus filhinhos e pararam à entrada de suas tendas.
+
+[[v4-16-28]]
+
+^<<v4-16-28,28>>^ Moisés disse então: “Nisto conhecereis que o Senhor me enviou a fazer todas estas obras e que nada faço por mim mesmo.
+
+[[v4-16-29]]
+
+^<<v4-16-29,29>>^ Se estes morrerem com a morte ordinária dos homens e se a sua sorte for como a de todos, o Senhor não me enviou;
+
+[[v4-16-30]]
+
+^<<v4-16-30,30>>^ mas se o Senhor fizer um novo prodígio e o solo abrindo a sua boca, os engolir com tudo o que lhes pertence, de sorte que desçam vivos à habitação dos mortos, então sabereis que estes homens desprezaram o Senhor”.
+
+[[v4-16-31]]
+
+^<<v4-16-31,31>>^ Apenas acabou ele de falar, fendeu-se a terra debaixo de seus pés
+
+[[v4-16-32]]
+
+^<<v4-16-32,32>>^ e, abrindo sua boca, os devorou com toda a sua família, todos os seus bens e todos os homens de Coré.
+
+[[v4-16-33]]
+
+^<<v4-16-33,33>>^ Desceram vivos à morada dos mortos, eles e tudo o que possuíam; cobriu-os a terra, e desapareceram da assembleia.
+
+[[v4-16-34]]
+
+^<<v4-16-34,34>>^ Todo o Israel que estava ao redor deles, ouvindo o grito que soltaram, fugiu, dizendo: “Cuidemos que a terra não nos engula também a nós!”.
+
+[[v4-16-35]]
+
+^<<v4-16-35,35>>^ Saiu um fogo de junto do Senhor e devorou os duzentos e cinquenta homens que ofereciam o incenso.
+
+'''
+
+xref:004-numeros/004-numeros-015.adoc#v4-15-0[&#60; Capítulo Anterior] | <<v4-16-0,Topo>> | xref:004-numeros/004-numeros-017.adoc#v4-17-0[Próximo Capítulo &#62;]

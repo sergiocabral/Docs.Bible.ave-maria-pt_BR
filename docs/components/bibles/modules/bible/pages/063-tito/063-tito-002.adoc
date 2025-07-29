@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v63-2-0]]
+=== Tito, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 2 de Tito trata do comportamento que os membros da igreja devem ter em suas respectivas funções e responsabilidades, exortando-os a serem sensatos, moderados, dignos e obedientes à sã doutrina. Além disso, instrui também sobre o papel das mulheres, dos homens idosos e jovens na comunidade. Abaixo estão cinco versículos selecionados de outras partes da Bíblia que se relacionam com os temas abordados em Tito 2:
+* 1 Timóteo 5:1-2: "Não repreendas asperamente ao ancião, mas admoesta-o como a pai; aos moços, como a irmãos; às mulheres idosas, como a mães; às moças, como a irmãs, com toda a pureza." Este versículo fala sobre a importância de tratar com respeito e cuidado os diferentes grupos etários e de gênero na igreja, o que se alinha com as instruções dadas em Tito 2.
+* Tito 1:9: "Retendo firme a fiel palavra, que é conforme a doutrina, para que seja poderoso, tanto para admoestar com a sã doutrina como para convencer os contradizentes." Esse versículo destaca a importância da doutrina bíblica e da sua preservação para a saúde e eficácia da igreja.
+* 1 Pedro 2:9: "Mas vós sois a geração eleita, o sacerdócio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz." Este versículo destaca a identidade especial e a responsabilidade dos crentes como representantes de Deus no mundo.
+* 1 Timóteo 6:1-2: "Todos os que estão debaixo do jugo da servidão considerem a seus senhores dignos de toda a honra, para que o nome de Deus e a doutrina não sejam blasfemados. E os que têm senhores crentes não os desprezem, porque são irmãos; antes os sirvam melhor, porque eles que participam do benefício são crentes e amados." Esse versículo ensina sobre a postura que os escravos deviam ter para com seus senhores, o que se assemelha ao ensino de Tito 2 sobre os servos em geral.
+* 1 Timóteo 2:9-10: "Da mesma sorte, que as mulheres, em traje honesto, se ataviem com modéstia e simplicidade, não com tranças, ou com ouro, ou pérolas, ou vestidos preciosos, mas (como convém a mulheres que fazem profissão de servir a Deus) com boas obras." Esse versículo trata especificamente sobre a conduta das mulheres na igreja e reforça o ensino de Tito 2 sobre o comportamento apropriado das mulheres cristãs.
+****
+
+[[v63-2-1]]
+
+^<<v63-2-1,1>>^ O teu ensinamento, porém, seja conforme à sã doutrina.
+
+[[v63-2-2]]
+
+^<<v63-2-2,2>>^ Os mais velhos sejam sóbrios, graves, prudentes, fortes na fé, na caridade, na paciência.
+
+[[v63-2-3]]
+
+^<<v63-2-3,3>>^ Assim também as mulheres de mais idade mostrem no seu exterior uma compostura santa, não sejam maldizentes nem intemperantes, mas mestras de bons conselhos.
+
+[[v63-2-4]]
+
+^<<v63-2-4,4>>^ Que saibam ensinar as jovens a amarem seus maridos, a quererem bem seus filhos,
+
+[[v63-2-5]]
+
+^<<v63-2-5,5>>^ a serem prudentes, castas, cuidadosas da casa, bondosas, submissas a seus maridos, para que a Palavra de Deus não seja desacreditada.
+
+[[v63-2-6]]
+
+^<<v63-2-6,6>>^ Exorta igualmente os moços a serem morigerados,
+
+[[v63-2-7]]
+
+^<<v63-2-7,7>>^ e mostra-te em tudo modelo de bom comportamento: pela integridade na doutrina, gravidade,
+
+[[v63-2-8]]
+
+^<<v63-2-8,8>>^ linguagem sã e irrepreensível, para que o adversário seja confundido, não tendo a dizer de nós mal algum.
+
+[[v63-2-9]]
+
+^<<v63-2-9,9>>^ Exorta os servos a que sejam submissos a seus senhores e atentos em agradar-lhes. Em lugar de reclamar deles
+
+[[v63-2-10]]
+
+^<<v63-2-10,10>>^ e defraudá-los, procurem em tudo testemunhar-lhes incondicional fidelidade, para que por todos seja respeitada a doutrina de Deus, nosso Salvador.
+
+[[v63-2-11]]
+
+^<<v63-2-11,11>>^ Manifestou-se, com efeito, a graça de Deus, fonte de salvação para todos os homens.
+
+[[v63-2-12]]
+
+^<<v63-2-12,12>>^ Veio para nos ensinar a renunciar à impiedade e às paixões mundanas e a viver neste mundo com toda sobriedade, justiça e piedade,
+
+[[v63-2-13]]
+
+^<<v63-2-13,13>>^ na expectativa da nossa esperança feliz, a aparição gloriosa de nosso grande Deus e Salvador, Jesus Cristo,
+
+[[v63-2-14]]
+
+^<<v63-2-14,14>>^ que se entregou por nós, a fim de nos resgatar de toda a iniquidade, nos purificar e nos constituir seu povo de predileção, zeloso na prática do bem.
+
+[[v63-2-15]]
+
+^<<v63-2-15,15>>^ Eis o que deves ensinar, pregar e defender com toda a autoridade. E que ninguém te menospreze!
+
+'''
+
+xref:063-tito/063-tito-001.adoc#v63-1-0[&#60; Capítulo Anterior] | <<v63-2-0,Topo>> | xref:063-tito/063-tito-003.adoc#v63-3-0[Próximo Capítulo &#62;]

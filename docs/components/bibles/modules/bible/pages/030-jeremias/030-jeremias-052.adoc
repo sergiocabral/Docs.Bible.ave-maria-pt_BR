@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v30-52-0]]
+=== Jeremias, 52
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 52 de Jeremias apresenta um relato detalhado da queda de Jerusalém e a deportação dos habitantes de Judá para a Babilônia pelo rei Nabucodonosor. O capítulo descreve como a cidade foi sitiada e conquistada pelos babilônios, com a destruição do templo e do palácio real. Também é relatada a captura do rei Zedequias, que é levado para a Babilônia. A seguir, estão cinco versículos relacionados com os temas abordados em Jeremias 52:
+* 2 Reis 25:9: "Incendiou a Casa do Senhor, o palácio real e todas as casas de Jerusalém; e todas as casas importantes ele as destruiu por completo." Esse verso descreve a destruição do templo e do palácio real de Jerusalém, que é um dos eventos centrais narrados em Jeremias 52.
+* 2 Reis 25:11: "Nabuzaradã, comandante da guarda, levou cativo o resto do povo que havia ficado na cidade, os desertores que haviam passado para o lado do rei da Babilônia e o restante da multidão." Este verso fala sobre a deportação dos habitantes de Judá para a Babilônia, que é outro tema importante em Jeremias 52.
+* 2 Reis 25:27: "No ano em que Joaquim, rei de Judá, foi levado para o exílio, Evil-Merodaque, rei da Babilônia, concedeu-lhe a liberdade no primeiro ano de seu reinado." Este verso fala sobre a libertação do rei Joaquim da Babilônia, que é mencionada em Jeremias 52:31-34.
+* Ezequiel 1:1: "No trigésimo ano, no quarto mês, no quinto dia do mês, enquanto eu estava entre os exilados junto ao rio Quebar, os céus se abriram e eu tive visões divinas." Esse verso introduz o livro de Ezequiel, que foi escrito durante o exílio na Babilônia e que se relaciona com o contexto histórico de Jeremias 52.
+* 2 Crônicas 36:17: "Por isso ele trouxe contra eles o rei dos babilônios, que matou seus jovens à espada em sua casa de santuário e não poupou ninguém, nem jovem nem velho, nem homem nem mulher; Deus os entregou a todos em suas mãos." Este verso também fala sobre a destruição do templo e a deportação dos habitantes de Judá para a Babilônia, e se relaciona com os eventos descritos em Jeremias 52.
+****
+
+[[v30-52-1]]
+
+^<<v30-52-1,1>>^ Tinha Sedecias vinte e um anos ao começar seu reinado. Seu reino durou onze anos, em Jerusalém. Chamava-se sua mãe Amital, filha de Jeremias, e era natural de Lebna.
+
+[[v30-52-2]]
+
+^<<v30-52-2,2>>^ Como Joaquin, ele também praticou o mal aos olhos do Senhor.
+
+[[v30-52-3]]
+
+^<<v30-52-3,3>>^ Assim aconteceu em Jerusalém e Judá, por querer o Senhor, em sua cólera, repeli-los para longe de sua presença. Revoltou-se Sedecias contra o rei da Babilônia.
+
+[[v30-52-4]]
+
+^<<v30-52-4,4>>^ No nono ano de seu reinado, no décimo dia do décimo mês, foi Nabucodonosor, com todo o seu exército, contra Jerusalém, armando e construindo fortificações em torno dela.
+
+[[v30-52-5]]
+
+^<<v30-52-5,5>>^ Até o décimo primeiro ano do reinado de Sedecias perdurou o sítio da cidade.
+
+[[v30-52-6]]
+
+^<<v30-52-6,6>>^ No nono dia do quarto mês, como a fome invadisse a cidade e não tivesse a população o que comer,
+
+[[v30-52-7]]
+
+^<<v30-52-7,7>>^ uma brecha foi feita na muralha da cidade e, à noite, fugiram os guerreiros pelo caminho da porta entre os dois muros, perto do jardim do rei, enquanto os caldeus cercavam a cidade. Tomaram esses homens o caminho da planície do Jordão.
+
+[[v30-52-8]]
+
+^<<v30-52-8,8>>^ Mas o exército dos caldeus perseguiu o rei e o alcançou nas planícies de Jericó. Então, as tropas de Sedecias o abandonaram, dispersando-se em fuga.
+
+[[v30-52-9]]
+
+^<<v30-52-9,9>>^ Foi então o rei aprisionado e conduzido a Rebla, na presença do rei da Babilônia que contra ele pronunciou sua sentença.
+
+[[v30-52-10]]
+
+^<<v30-52-10,10>>^ E, diante de seus olhos, foram degolados em Rebla seus filhos, assim como todos os chefes de Judá.
+
+[[v30-52-11]]
+
+^<<v30-52-11,11>>^ Em seguida, foram-lhe arrancados os olhos e, ligado com cadeias de bronze, levaram-no para a Babilônia, onde, até o dia de sua morte, permaneceu encarcerado.
+
+[[v30-52-12]]
+
+^<<v30-52-12,12>>^ No sétimo dia do quinto mês, décimo nono ano do reinado de Nabucodonosor, rei da Babilônia, Nebuzardã, chefe da guarda e servidor do rei da Babilônia, penetrou em Jerusalém,
+
+[[v30-52-13]]
+
+^<<v30-52-13,13>>^ pôs fogo no Templo do Senhor, no palácio real, e em todas as casas da cidade, e entregou às chamas as casas dos maiorais.
+
+[[v30-52-14]]
+
+^<<v30-52-14,14>>^ Em seguida, as tropas dos caldeus, que acompanhavam o chefe da guarda, demoliram as muralhas que cercavam Jerusalém.
+
+[[v30-52-15]]
+
+^<<v30-52-15,15>>^ E Nebuzardã, chefe da guarda, deportou para a Babilônia uma parte dos pobres da terra e o que restara da população da cidade, bem como os que já se haviam rendido ao rei da Babilônia e o restante dos artífices.
+
+[[v30-52-16]]
+
+^<<v30-52-16,16>>^ O chefe da guarda deixou ali alguns homens pobres, como vinhateiros e lavradores.
+
+[[v30-52-17]]
+
+^<<v30-52-17,17>>^ Quebraram também os caldeus as colunas de bronze do Templo do Senhor, juntamente com os pedestais e o mar de bronze que estava no templo, levando todo esse metal para a Babilônia.
+
+[[v30-52-18]]
+
+^<<v30-52-18,18>>^ Carregaram também cinzeiros, pás, facas, vasos e demais objetos de bronze que serviam ao culto.
+
+[[v30-52-19]]
+
+^<<v30-52-19,19>>^ Carregou ainda o chefe dos guardas as bacias, os braseiros, vasos, potes, candelabros, taças, copos e colheres e o que havia em ouro e prata.
+
+[[v30-52-20]]
+
+^<<v30-52-20,20>>^ Quanto às duas colunas, ao mar, aos doze bois de bronze que as sustentavam, e aos pedestais que Salomão mandara fabricar para o Templo do Senhor, difícil seria calcular o valor do bronze de todos esses objetos.
+
+[[v30-52-21]]
+
+^<<v30-52-21,21>>^ A altura de uma dessas colunas era de dezoito côvados e um cordão de doze côvados cingia-lhe a volta, sendo a espessura de quatro dedos, e oco o seu interior.
+
+[[v30-52-22]]
+
+^<<v30-52-22,22>>^ Encimava-as um capitel de bronze de cinco côvados; uma grade de romãs, também em bronze, cercavam o alto do capitel. Era semelhante a esta a segunda coluna, com romãs em torno,
+
+[[v30-52-23]]
+
+^<<v30-52-23,23>>^ em número de noventa e seis, e o total das romãs, em volta da grade, era de cem.
+
+[[v30-52-24]]
+
+^<<v30-52-24,24>>^ O chefe da guarda aprisionou o primeiro sacerdote, Seraías, e Sofonias, o segundo e os três guardas do vestíbulo.
+
+[[v30-52-25]]
+
+^<<v30-52-25,25>>^ Tomou da cidade um eunuco, que era encarregado do comando dos homens de guerra, sete homens do séquito do rei que foram encontrados na cidade, o intendente do exército, encarregado do recrutamento na terra, assim como mais sessenta homens da terra que se encontravam na cidade.
+
+[[v30-52-26]]
+
+^<<v30-52-26,26>>^ Nebuzardã, chefe da guarda, aprisionou-os e mandou-os conduzir a Rebla, ante o rei da Babilônia.
+
+[[v30-52-27]]
+
+^<<v30-52-27,27>>^ E este mandou executá-los em Rebla, na região de Emat. E assim Judá foi deportado para longe de sua terra.
+
+[[v30-52-28]]
+
+^<<v30-52-28,28>>^ Eis o número dos homens que Nabucodonosor levou ao cativeiro: no sétimo ano, três mil e vinte e três homens de Judá;
+
+[[v30-52-29]]
+
+^<<v30-52-29,29>>^ no décimo oitavo ano de Nabucodonosor, oitocentos e trinta e dois pessoas foram deportadas de Jerusalém;
+
+[[v30-52-30]]
+
+^<<v30-52-30,30>>^ no vigésimo terceiro ano de Nabucodonosor, Nebuzardã, chefe da guarda, deportou de Judá setecentos e quarenta e cinco pessoas. Ao todo, quatro mil e seiscentas pessoas.
+
+[[v30-52-31]]
+
+^<<v30-52-31,31>>^ No trigésimo sétimo ano do cativeiro de Joaquin, rei de Judá, no vigésimo quinto dia do décimo segundo mês, Evil Merodac, rei da Babilônia, no ano de sua elevação ao trono, perdoou Joaquin, rei de Judá, e mandou libertá-lo da prisão.
+
+[[v30-52-32]]
+
+^<<v30-52-32,32>>^ Falando-lhe com benevolência, designou-lhe um trono mais elevado que o dos reis que estavam com ele na Babilônia.
+
+[[v30-52-33]]
+
+^<<v30-52-33,33>>^ Mandou que lhe mudassem as vestes de prisioneiro e, até o fim de sua vida, Joaquin comeu à mesa do rei da Babilônia.
+
+[[v30-52-34]]
+
+^<<v30-52-34,34>>^ Durante toda a sua vida, até o dia de sua morte, sua manutenção foi garantida pelos cuidados do rei da Babilônia.
+
+'''
+
+xref:030-jeremias/030-jeremias-051.adoc#v30-51-0[&#60; Capítulo Anterior] | <<v30-52-0,Topo>> | xref:031-lamentacoes/031-lamentacoes-001.adoc#v31-1-0[Próximo Capítulo &#62;]

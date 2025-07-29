@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v27-17-0]]
+=== Sabedoria, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 17 do livro de Sabedoria aborda o tema do medo e do terror noturno que podem assombrar as pessoas durante o sono. O autor apresenta como esses medos são fruto da imaginação humana e como é possível superá-los com a ajuda da razão e da confiança em Deus. A seguir, estão cinco versículos relacionados com esses temas:
+* Salmos 34:5: "Busquei o Senhor, e ele me acolheu; livrou-me de todos os meus temores." Este versículo fala da importância de buscar a Deus para encontrar conforto e libertação do medo.
+* Isaías 41:10: "Não tenha medo, pois estou com você; não tenha medo, pois sou o seu Deus. Eu o fortalecerei e o ajudarei; eu o segurarei com a minha mão direita vitoriosa." Este versículo mostra como a presença de Deus pode ser uma fonte de força e coragem para superar o medo.
+* Mateus 6:34: "Portanto, não se preocupem com o amanhã, pois o amanhã trará suas próprias preocupações. Basta a cada dia o seu próprio mal." Este versículo fala da importância de viver o presente sem se preocupar excessivamente com o futuro, o que pode gerar medo e ansiedade.
+* 2 Timóteo 1:7: "Pois Deus não nos deu um espírito de covardia, mas de poder, de amor e de equilíbrio." Este versículo destaca como a confiança em Deus pode nos ajudar a superar o medo e a encontrar equilíbrio emocional.
+* 1 João 4:18: "No amor não há medo; pelo contrário o perfeito amor expulsa o medo, porque o medo supõe castigo. Aquele que tem medo não está aperfeiçoado no amor." Este versículo mostra como o amor pode ser uma fonte de segurança e paz, ajudando a superar o medo e a ansiedade.
+****
+
+[[v27-17-1]]
+
+^<<v27-17-1,1>>^ Em verdade, grandes e impenetráveis são vossos juízos, Senhor; por isso, as almas grosseiras caíram no erro.
+
+[[v27-17-2]]
+
+^<<v27-17-2,2>>^ Por terem acreditado que podiam oprimir a santa nação, os ímpios, prisioneiros das trevas e encarcerados por uma longa noite, jaziam encerrados nas suas casas, tentando escapar à vossa incessante vigilância.^&#42;1^
+
+[[v27-17-3]]
+
+^<<v27-17-3,3>>^ Depois de terem imaginado que, com seus secretos pecados, ficariam escondidos sob o sombrio véu do esquecimento, eles se viram dispersados, como presa de um terrível espanto, e amedrontados por alucinações.^&#42;1^
+
+[[v27-17-4]]
+
+^<<v27-17-4,4>>^ Mesmo o canto mais afastado em que se abrigavam não os punha ao abrigo do terror: ruídos aterradores ressoavam em torno deles, e taciturnos espectros de lúgubre aspecto lhes apareciam.
+
+[[v27-17-5]]
+
+^<<v27-17-5,5>>^ Nenhuma chama, por intensa que fosse, chegava a iluminar. E a luz brilhante dos astros era impotente para alumiar esta noite sombria.
+
+[[v27-17-6]]
+
+^<<v27-17-6,6>>^ Mas aparecia-lhes de súbito nada mais que uma chama aterradora, e, tomados de terror por esta visão fugitiva, julgavam essas aparições mais terríveis ainda.
+
+[[v27-17-7]]
+
+^<<v27-17-7,7>>^ A arte dos mágicos se mostrou ilusória, e esta sabedoria, a que eles pretendiam, evidenciou-se vergonhosamente como falsidade.^&#42;1^
+
+[[v27-17-8]]
+
+^<<v27-17-8,8>>^ Aqueles que se jactavam de banir das almas doentes o terror e a perturbação, eram eles mesmos atormentados por um ridículo temor.
+
+[[v27-17-9]]
+
+^<<v27-17-9,9>>^ Mesmo quando nada de mais grave os aterrorizava, a passagem dos animais e o silvo das serpentes punham-nos fora de si, e eles morriam de medo. Recusavam até mesmo contemplar essa atmosfera à qual nada podia escapar;
+
+[[v27-17-10]]
+
+^<<v27-17-10,10>>^ porque a maldade, condenada por seu próprio testemunho, é medrosa, e, sob o peso da consciência, supõe sempre o pior,
+
+[[v27-17-11]]
+
+^<<v27-17-11,11>>^ pois o temor não é outra coisa que a privação dos socorros trazidos pela reflexão,^&#42;1^
+
+[[v27-17-12]]
+
+^<<v27-17-12,12>>^ porque, quanto menor for em sua alma a esperança de auxílio, tanto mais penosa é a ignorância daquilo de que se tem medo.
+
+[[v27-17-13]]
+
+^<<v27-17-13,13>>^ Eles, durante essa noite de impotência, saída dos recantos do Hades impotente, dormiam num mesmo sono,
+
+[[v27-17-14]]
+
+^<<v27-17-14,14>>^ agitados, de um lado, pelo terror dos espectros, e paralisados, de outro, pelo desfalecimento da alma; pois era um pavor repentino e inesperado o que se abatera sobre eles.
+
+[[v27-17-15]]
+
+^<<v27-17-15,15>>^ E todo aquele que caía sem força ficava como que preso e encerrado num cárcere sem ferros.^&#42;1^
+
+[[v27-17-16]]
+
+^<<v27-17-16,16>>^ Fosse ele camponês ou pastor, ou o operário que se afadiga sozinho no seu trabalho, uma vez surpreendido, tinha de suportar a inevitável necessidade, porque todos estavam ligados por uma mesma cadeia de trevas.
+
+[[v27-17-17]]
+
+^<<v27-17-17,17>>^ O silvo do vento, o canto harmonioso dos passarinhos nos ramos espessos, o murmúrio da água correndo precipitadamente, o estrondo das rochas que se despenhavam,
+
+[[v27-17-18]]
+
+^<<v27-17-18,18>>^ a carreira invisível dos animais que saltavam, os urros dos animais selvagens, o eco que repercutia nas cavidades dos montes: tudo os paralisava de terror.
+
+[[v27-17-19]]
+
+^<<v27-17-19,19>>^ Enquanto o mundo inteiro era alumiado de uma brilhante luz, e sem obstáculo se entregava às suas ocupações,
+
+[[v27-17-20]]
+
+^<<v27-17-20,20>>^ somente sobre eles se estendia uma pesada noite, imagem das trevas que mais tarde os deviam acolher; e eram para si mesmos um peso mais insuportável que esta escuridão.^&#42;1^
+
+'''
+
+xref:027-sabedoria/027-sabedoria-016.adoc#v27-16-0[&#60; Capítulo Anterior] | <<v27-17-0,Topo>> | xref:027-sabedoria/027-sabedoria-018.adoc#v27-18-0[Próximo Capítulo &#62;]

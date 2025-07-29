@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v33-17-0]]
+=== Ezequiel, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 17 é um capítulo em que o profeta usa uma metáfora para retratar a infidelidade de Israel em relação a Deus. Ele compara a nação a um grande cedro que, ao invés de confiar em Deus, busca apoio em outras nações e deuses, o que leva à sua queda e destruição. Para encontrar versículos relacionados com os temas abordados em Ezequiel 17, foram considerados os temas de infidelidade, confiança em outras nações e queda. A seguir estão cinco versículos escolhidos em ordem de proximidade com esses temas:
+* Jeremias 2:13: "Pois o meu povo cometeu dois males: eles me abandonaram, a mim, a fonte de água viva; e cavaram para si cisternas, cisternas rachadas que não retêm água." Este versículo fala sobre a infidelidade de Israel ao abandonar a Deus, que é a fonte de vida e alegria, para buscar satisfação em outras coisas.
+* Isaías 30:1-2: "Ai dos filhos rebeldes! - oráculo do Senhor - que tomam providências, mas não as minhas, que fazem alianças, mas sem o meu espírito, acumulando pecado sobre pecado! Que descem ao Egito sem consultar-me, buscando refúgio na força do Faraó, à sombra do Egito buscam abrigo!" Este versículo denuncia a confiança de Israel em outras nações, sem buscar a orientação de Deus, o que resulta em mais pecado e infidelidade.
+* Jeremias 13:23: "Acaso um etíope pode mudar a sua pele, ou um leopardo as suas manchas? Da mesma forma, vocês, que se acostumaram a fazer o mal, são incapazes de fazer o bem." Este versículo fala sobre a inevitabilidade da queda de Israel, que se habituou a fazer o mal e se afastou de Deus.
+* Oséias 14:3: "Assíria não nos salvará, não montaremos mais cavalos, não chamaremos mais 'deus nosso' às obras das nossas mãos. Em ti o órfão encontra compaixão." Este versículo retrata a transformação que deve ocorrer em Israel, que precisa abandonar sua confiança em outras nações e voltar para Deus, que é o único capaz de salvá-los.
+* Isaías 31:1: "Ai dos que descem ao Egito em busca de ajuda, que confiam em cavalos, em carros de guerra, em multidões de carregadores, em cavalos e em cavaleiros, mas não põem a sua confiança no Santo de Israel, nem buscam o Senhor!" Este versículo reforça a mensagem de que a confiança em outras nações e em coisas terrenas leva à queda e à destruição, e que a única fonte segura de salvação é Deus.
+****
+
+[[v33-17-1]]
+
+^<<v33-17-1,1>>^ A palavra do Senhor foi-me dirigida nestes termos:
+
+[[v33-17-2]]
+
+^<<v33-17-2,2>>^ “Filho do homem, propõe um enigma, apresenta uma parábola à casa de Israel.
+
+[[v33-17-3]]
+
+^<<v33-17-3,3>>^ Dize-lhe: eis o que diz o Senhor Javé: A grande águia de grandes asas, de larga envergadura, toda coberta de plumagem malhada, veio do Líbano. E tirou a copa de um cedro,
+
+[[v33-17-4]]
+
+^<<v33-17-4,4>>^ arrancou o mais alto de seus ramos, levou-o ao país dos mercadores e o depôs na cidade do negócio,
+
+[[v33-17-5]]
+
+^<<v33-17-5,5>>^ depois tomou um tronco de árvore da terra, e colocou-o em um terreno preparado; à beira de águas copiosas plantou-o, como um salgueiro.
+
+[[v33-17-6]]
+
+^<<v33-17-6,6>>^ Ele germinou e transformou-se em vide frondosa, ainda que pouco elevada, e voltou suas ramagens para a águia, com suas raízes debaixo dela. Ela se tornou um ramo da vinha, produziu hastes e lançou ramos.
+
+[[v33-17-7]]
+
+^<<v33-17-7,7>>^ Havia outra grande águia, de grandes asas, com abundante plumagem; e eis que para ela essa vinha voltou suas raízes, e lançou seus braços para ela, do horto onde estava plantada, a fim de que a regasse.^&#42;1^
+
+[[v33-17-8]]
+
+^<<v33-17-8,8>>^ Era em um solo excelente, à margem de ondas copiosas, que esta cepa estava plantada, de maneira a lançar ramos e produzir frutos, e tornar-se uma esplêndida vinha.^&#42;1^
+
+[[v33-17-9]]
+
+^<<v33-17-9,9>>^ Dize, pois: eis o que diz o Senhor Javé: esta vinha irá prosperar? A primeira águia não arrancará suas raízes? Não abaterá o seu fruto para que ela seque, de sorte que murche toda a folhagem que ela estendeu? Sem esforço e sem ajuda da multidão será arrancada.
+
+[[v33-17-10]]
+
+^<<v33-17-10,10>>^ Eis que ela está plantada: será que crescerá? Tocada pelo vento do Oriente, não secará ela de todo? Não secará no horto onde está plantada?”.
+
+[[v33-17-11]]
+
+^<<v33-17-11,11>>^ A palavra do Senhor foi-me dirigida nestes termos:
+
+[[v33-17-12]]
+
+^<<v33-17-12,12>>^ “Pergunta a essa raça de recalcitrantes: não sabeis o que significa isso? – Dize: o rei da Babilônia chegou a Jerusalém, prendeu o rei e os dirigentes da cidade, para levá-los com ele à Babilônia.
+
+[[v33-17-13]]
+
+^<<v33-17-13,13>>^ Escolheu na estirpe real um homem com o qual celebrou um tratado e a quem fez prestar juramento. Ele, porém, levou os poderosos do país,
+
+[[v33-17-14]]
+
+^<<v33-17-14,14>>^ para que o reino fosse abatido sem esperança de soerguimento, a fim de que esse homem, observando o pacto, pudesse subsistir.
+
+[[v33-17-15]]
+
+^<<v33-17-15,15>>^ Entretanto, este se revoltou contra ele, enviando mensageiros ao Egito para pedir cavalos e um numeroso exército. Triunfará ele? Escapará por acaso aquele que procedeu dessa maneira? Após haver rompido a aliança, haveria ele de se salvar?
+
+[[v33-17-16]]
+
+^<<v33-17-16,16>>^ Por minha vida – oráculo do Senhor Javé –, é no país do rei que o fez reinar, de quem ele desprezou o juramento e rompeu a aliança, é na Babilônia que ele morrerá.
+
+[[v33-17-17]]
+
+^<<v33-17-17,17>>^ Com o seu forte exército e a sua multidão de homens, o faraó nada poderá por si mesmo na guerra, quando forem levantados os terraços e construídos os muros para fazer perecer uma multidão de homens.
+
+[[v33-17-18]]
+
+^<<v33-17-18,18>>^ Ele desprezou o seu juramento e rompeu a aliança, embora tivesse já dado a sua palavra. Ele fez tudo isso; não escapará”.
+
+[[v33-17-19]]
+
+^<<v33-17-19,19>>^ Por isso, eis o que diz o Senhor Javé: “Por minha vida, é o meu juramento que ele rejeitou, é minha aliança que ele infringiu: farei cair isso sobre sua cabeça.
+
+[[v33-17-20]]
+
+^<<v33-17-20,20>>^ Estenderei sobre ele a minha rede e será apanhado no meu laço; eu o levarei à Babilônia e ali o processarei por causa da transgressão que cometeu contra mim.
+
+[[v33-17-21]]
+
+^<<v33-17-21,21>>^ Todos os fugitivos de suas tropas cairão sob minha espada, e os que ficarem serão espalhados pelos ventos. E sabereis que sou eu, o Senhor, que falei”.
+
+[[v33-17-22]]
+
+^<<v33-17-22,22>>^ Eis o que diz o Senhor: “Pegarei eu mesmo da copa do grande cedro, dos cimos de seus galhos cortarei um ramo, e eu próprio o plantarei no alto da montanha.
+
+[[v33-17-23]]
+
+^<<v33-17-23,23>>^ Eu o plantarei na alta montanha de Israel. Ele estenderá seus galhos e dará fruto; ele se tornará um cedro magnífico, onde aninharão aves de toda espécie, instaladas à sombra de sua ramagem.
+
+[[v33-17-24]]
+
+^<<v33-17-24,24>>^ Então, todas as árvores dos campos saberão que sou eu, o Senhor, que abate a árvore soberba, e exalta o humilde arbusto, que seca a árvore verde, e faz florescer a árvore seca. Eu, o Senhor, o disse, e o farei.”
+
+'''
+
+xref:033-ezequiel/033-ezequiel-016.adoc#v33-16-0[&#60; Capítulo Anterior] | <<v33-17-0,Topo>> | xref:033-ezequiel/033-ezequiel-018.adoc#v33-18-0[Próximo Capítulo &#62;]

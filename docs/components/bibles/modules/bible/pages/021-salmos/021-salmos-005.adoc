@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v21-5-0]]
+=== Salmos, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 5 é uma oração de Davi em busca da proteção e orientação divina diante dos seus inimigos. Ele clama pela justiça de Deus e confia na sua fidelidade. A seguir, estão cinco versículos relacionados com os temas abordados nesse salmo:
+* Salmo 7:10: "O meu escudo está em Deus, que salva os retos de coração." Davi confia na proteção de Deus como um escudo contra seus inimigos e afirma que aqueles que são retos de coração são salvos por Ele.
+* Salmo 9:7: "Mas o SENHOR está entronizado para sempre; preparou o seu trono para julgar." Davi clama pela justiça de Deus e acredita que Ele está assentado em seu trono para julgar corretamente.
+* Salmo 18:2: "O SENHOR é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Davi expressa sua confiança em Deus como sua rocha, fortaleza e libertador, assim como o seu escudo e protetor.
+* Salmo 27:1: "O SENHOR é a minha luz e a minha salvação; de quem terei temor? O SENHOR é o meu refúgio e a minha fortaleza; nEle confiarei." Davi reconhece Deus como sua luz, salvação e refúgio seguro, em quem ele confia sem medo.
+* Salmo 55:22: "Entrega o teu caminho ao SENHOR, confia nele, e o mais Ele fará." Davi encoraja outros a confiar em Deus, entregando a Ele seus caminhos e preocupações, confiando que Ele fará o que é melhor.
+****
+
+[[v21-5-1]]
+
+^<<v21-5-1,1>>^ Ao mestre de canto. Com flautas. Salmo de Davi.^&#42;1^
+
+[[v21-5-2]]
+
+^<<v21-5-2,2>>^ Senhor, ouvi minhas palavras, escutai meus gemidos.
+
+[[v21-5-3]]
+
+^<<v21-5-3,3>>^ Atendei à voz de minha prece, ó meu rei, ó meu Deus.
+
+[[v21-5-4]]
+
+^<<v21-5-4,4>>^ É a vós que eu invoco, Senhor, desde a manhã; escutai a minha voz, porque, desde o raiar do dia, vos apresento minha súplica e espero.
+
+[[v21-5-5]]
+
+^<<v21-5-5,5>>^ Pois vós não sois um Deus a quem agrade o mal, o mau não poderia morar junto de vós;
+
+[[v21-5-6]]
+
+^<<v21-5-6,6>>^ os ímpios não podem resistir ao vosso olhar. Detestais a todos os que praticam o mal,
+
+[[v21-5-7]]
+
+^<<v21-5-7,7>>^ fazeis perecer aqueles que mentem, o homem cruel e doloso vos é abominável, ó Senhor.
+
+[[v21-5-8]]
+
+^<<v21-5-8,8>>^ Mas eu, graças à vossa grande bondade, entrarei em vossa casa. Irei prostrar-me em vosso santuário, com o respeito que vos é devido, Senhor.
+
+[[v21-5-9]]
+
+^<<v21-5-9,9>>^ Conduzi-me pelas sendas da justiça, por causa de meus inimigos; aplainai, para mim, vosso caminho.
+
+[[v21-5-10]]
+
+^<<v21-5-10,10>>^ Porque em seus lábios não há sinceridade, seus corações só urdem projetos ardilosos. A garganta deles é como um sepulcro escancarado, com a língua distribuem lisonjas.^&#42;1^
+
+[[v21-5-11]]
+
+^<<v21-5-11,11>>^ Deixai-os, Senhor, prender-se nos seus erros, que suas maquinações malogrem! Por causa do número de seus crimes, rejeitai-os, pois é contra vós que se revoltaram.
+
+[[v21-5-12]]
+
+^<<v21-5-12,12>>^ Regozijam-se, pelo contrário, os que em vós confiam, permanecem para sempre na alegria. Protegei-os e triunfarão em vós os que amam vosso nome.
+
+[[v21-5-13]]
+
+^<<v21-5-13,13>>^ Pois, vós, Senhor, abençoais o justo; vossa benevolência, como um escudo, o cobrirá.
+
+'''
+
+xref:021-salmos/021-salmos-004.adoc#v21-4-0[&#60; Capítulo Anterior] | <<v21-5-0,Topo>> | xref:021-salmos/021-salmos-006.adoc#v21-6-0[Próximo Capítulo &#62;]

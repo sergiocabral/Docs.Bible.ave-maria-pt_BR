@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v11-6-0]]
+=== I Reis, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 6 de 1 Reis descreve a construção do Templo de Salomão em Jerusalém. Ele contratou trabalhadores para construir o templo de acordo com as especificações que Deus lhe deu, e levou sete anos para completar a obra. A seguir estão cinco versículos da Bíblia relacionados com os temas abordados em 1 Reis 6.
+* 1 Crônicas 28:11-12: "Então Davi deu a seu filho Salomão o modelo do pórtico e do templo, das suas casas, dos seus tesouros, das suas câmaras, dos seus lugares altos e das suas cidades de depósito, do templo do Senhor, e de todas as câmaras ao redor, das casas dos tesouros do templo e dos tesouros das coisas sagradas." Este versículo fala sobre Davi dando a Salomão o plano para a construção do Templo. Isso se relaciona com o capítulo 6 de 1 Reis, onde a construção do Templo é descrita em detalhes.
+* Êxodo 25:9: "Conforme a tudo o que eu te mostrar para modelo do tabernáculo e para modelo de todos os seus móveis, assim mesmo o fareis." Este versículo fala sobre Deus dando instruções precisas para a construção do Tabernáculo. Isso se relaciona com o capítulo 6 de 1 Reis, onde Deus dá instruções precisas para a construção do Templo.
+* 2 Crônicas 3:3-4: "Estes são os fundamentos que Salomão pôs para edificar a casa de Deus: o comprimento em côvados antigos, segundo a primeira medida, era de sessenta côvados, e a largura de vinte côvados. O pórtico que estava diante do templo, cujo comprimento era o da largura da casa, era de vinte côvados, e a sua altura era de cento e vinte. Salomão cobriu também de ouro fino a casa por dentro toda; e assim fez passar uma cadeia de ouro pelo meio do santuário, a qual cobriu com ouro." Este versículo descreve a construção do Templo em detalhes, incluindo seus fundamentos e dimensões. Isso se relaciona com o capítulo 6 de 1 Reis, onde a construção do Templo é descrita em detalhes.
+* 2 Crônicas 2:14: "O filho de uma mulher de Tiro, porém, nascido de um homem de Tiro, deu ouro, prata e bronze. Ele era habilidoso em obras de bronze." Este versículo fala sobre o filho de uma mulher de Tiro que era habilidoso em trabalhar com bronze e contribuiu para a construção do Templo. Isso se relaciona com o capítulo 6 de 1 Reis, onde trabalhadores habilidosos foram contratados para construir o Templo.
+* 2 Crônicas 5:13-14: "E quando os músicos tocaram em uníssono, louvando e agradecendo ao Senhor, e quando levantaram suas vozes com a trombeta, címbalos e outros instrumentos musicais para louvar o Senhor e cantar: 'Ele é bom; seu amor dura para sempre', a glória do Senhor encheu o templo. Os sacerdotes não puderam continuar a ministrar por causa da nuvem, pois a glória do Senhor encheu o templo de Deus." Este versículo descreve um momento de grande adoração e louvor a Deus, onde a presença divina é experimentada de maneira tangível e poderosa. Esse tema é relacionado ao capítulo 6 de 1 Reis, onde é construído o Templo em Jerusalém como a casa do Senhor e o lugar de adoração do povo de Israel.
+****
+
+[[v11-6-1]]
+
+^<<v11-6-1,1>>^ No ano quatrocentos e oitenta de-pois da saída dos filhos de Israel do Egito, Salomão, no quarto ano do seu reinado, no mês de Ziv, que é o segundo mês, empreendeu a construção do Templo do Senhor.
+
+[[v11-6-2]]
+
+^<<v11-6-2,2>>^ O templo que o rei Salomão edificou ao Senhor tinha sessenta côvados de comprimento, vinte de largura e trinta de altura.
+
+[[v11-6-3]]
+
+^<<v11-6-3,3>>^ O pórtico, à entrada do templo, tinha vinte côvados de comprimento, o que igualava a largura do templo e dez côvados de largura na frente do edifício.
+
+[[v11-6-4]]
+
+^<<v11-6-4,4>>^ O rei fez no templo janelas com grades de madeira.
+
+[[v11-6-5]]
+
+^<<v11-6-5,5>>^ Construiu, encostados às paredes do edifício, andares que rodeavam o templo e o santuário. Cercou assim o edifício de quartos laterais.
+
+[[v11-6-6]]
+
+^<<v11-6-6,6>>^ O andar inferior tinha cinco côvados de largura, o do meio seis e o terceiro sete, porque se tinham posto encostas nos muros exteriores do templo para evitar que as vigas entrassem nas paredes do edifício.
+
+[[v11-6-7]]
+
+^<<v11-6-7,7>>^ Na construção do templo só se empregaram pedras lavradas na pedreira, de sorte que não se ouvia, durante os trabalhos da construção, barulho algum de martelo, de cinzel ou de qualquer outro instrumento de ferro.
+
+[[v11-6-8]]
+
+^<<v11-6-8,8>>^ A entrada do andar inferior encontrava-se do lado direito do edifício. Subia-se por uma escada em espiral ao andar do meio e deste ao terceiro.
+
+[[v11-6-9]]
+
+^<<v11-6-9,9>>^ Terminado o edifício, Salomão recobriu-o de tábuas e de forros de cedro.
+
+[[v11-6-10]]
+
+^<<v11-6-10,10>>^ Os andares que construiu encostados em todo o edifício eram de cinco côvados de altura cada um e foram ligados ao templo por traves de cedro.
+
+[[v11-6-11]]
+
+^<<v11-6-11,11>>^ A palavra do Senhor foi então dirigida a Salomão nestes termos:
+
+[[v11-6-12]]
+
+^<<v11-6-12,12>>^ “Esta casa que tu edificas... se obedeceres às minhas leis, praticares os meus mandamentos e observares todos os meus preceitos, seguindo-os cuidadosamente, eu cumprirei em ti as promessas que fiz ao teu pai Davi:
+
+[[v11-6-13]]
+
+^<<v11-6-13,13>>^ permanecerei no meio dos israelitas e não abandonarei Israel, meu povo”.
+
+[[v11-6-14]]
+
+^<<v11-6-14,14>>^ Salomão terminou a construção do templo.
+
+[[v11-6-15]]
+
+^<<v11-6-15,15>>^ Forrou o interior das paredes do edifício com placas de cedro, desde o pavimento até o teto; revestiu assim de madeira todo o interior e cobriu o pavimento com tábuas de cipreste.
+
+[[v11-6-16]]
+
+^<<v11-6-16,16>>^ Revestiu de tábuas de cedro, a partir do fundo do templo, desde o pavimento até o teto, um espaço de vinte côvados, que destinou ao santuário, ou Santo dos Santos.
+
+[[v11-6-17]]
+
+^<<v11-6-17,17>>^ Os quarenta côvados restantes constituíam a parte anterior do templo.
+
+[[v11-6-18]]
+
+^<<v11-6-18,18>>^ Dentro do edifício o cedro era esculpido de coloquíntidas e flores abertas; tudo era de cedro; de modo que não se podia ver pedra alguma.
+
+[[v11-6-19]]
+
+^<<v11-6-19,19>>^ Salomão dispôs o santuário no interior do templo, bem ao fundo, para ali colocar a arca da aliança do Senhor.
+
+[[v11-6-20]]
+
+^<<v11-6-20,20>>^ O santuário tinha por dentro vinte côvados de comprimento, vinte de largura e vinte de altura. Salomão revestiu-o de ouro fino e cobriu o altar de cedro.
+
+[[v11-6-21]]
+
+^<<v11-6-21,21>>^ Revestiu de ouro fino o interior do edifício e fechou com cadeias de ouro a frente do santuário, que era também revestido de ouro.
+
+[[v11-6-22]]
+
+^<<v11-6-22,22>>^ A casa ficou assim inteiramente coberta de ouro, como também toda a superfície do altar que estava diante do santuário.
+
+[[v11-6-23]]
+
+^<<v11-6-23,23>>^ Fez no santuário dois querubins de pau de oliveira, que tinham dez côvados de altura.
+
+[[v11-6-24]]
+
+^<<v11-6-24,24>>^ Cada uma das asas dos querubins tinha cinco côvados, o que fazia dez côvados da extremidade de uma asa à extremidade da outra.
+
+[[v11-6-25]]
+
+^<<v11-6-25,25>>^ O segundo querubim tinha também dez côvados; os dois tinham a mesma forma e as mesmas dimensões.
+
+[[v11-6-26]]
+
+^<<v11-6-26,26>>^ Um e outro tinham dez côvados de altura.
+
+[[v11-6-27]]
+
+^<<v11-6-27,27>>^ Salomão os colocou no fundo do templo, no santuário. Tinham as asas estendidas, de sorte que uma asa do primeiro tocava uma das paredes e uma asa do segundo tocava a outra parede, enquanto as outras duas asas se encontravam no meio do santuário.
+
+[[v11-6-28]]
+
+^<<v11-6-28,28>>^ Revestiu também de ouro os querubins.
+
+[[v11-6-29]]
+
+^<<v11-6-29,29>>^ Mandou esculpir em relevo em todas as paredes da casa, ao redor, no santuário como no templo, querubins, palmas e flores abertas.
+
+[[v11-6-30]]
+
+^<<v11-6-30,30>>^ Cobriu de ouro o pavimento do edifício, tanto o do santuário como o do templo.
+
+[[v11-6-31]]
+
+^<<v11-6-31,31>>^ Pôs à porta do santuário vigas de pau de oliveira; o seu enquadramento com as ombreiras ocupava a quinta parte da parede.^&#42;1^
+
+[[v11-6-32]]
+
+^<<v11-6-32,32>>^ Nos dois batentes de pau de oliveira mandou esculpir querubins, palmas e flores desabrochadas e cobriu-as de ouro; cobriu de ouro tanto os querubins como as palmas.
+
+[[v11-6-33]]
+
+^<<v11-6-33,33>>^ Para a porta do templo fez vigas de pau de oliveira que ocupavam a quarta parte da parede,
+
+[[v11-6-34]]
+
+^<<v11-6-34,34>>^ bem como dois batentes de madeira de cipreste, sendo cada batente formado de duas folhas móveis.
+
+[[v11-6-35]]
+
+^<<v11-6-35,35>>^ Mandou esculpir nelas querubins, palmas e flores desabrochadas e cobriu tudo de ouro, ajustado às esculturas.
+
+[[v11-6-36]]
+
+^<<v11-6-36,36>>^ Construiu, ao redor do átrio interior, um muro de três ordens de pedras talhadas e uma fileira de traves de cedro.
+
+[[v11-6-37]]
+
+^<<v11-6-37,37>>^ No mês de Ziv do quarto ano de reinado, foram lançados os fundamentos do templo do Senhor
+
+[[v11-6-38]]
+
+^<<v11-6-38,38>>^ e no ano undécimo, no mês de Bul, que é o oitavo mês, foi o templo acabado em todas as suas partes e em todos os seus pormenores. O templo foi construído em sete anos.
+
+'''
+
+xref:011-i-reis/011-i-reis-005.adoc#v11-5-0[&#60; Capítulo Anterior] | <<v11-6-0,Topo>> | xref:011-i-reis/011-i-reis-007.adoc#v11-7-0[Próximo Capítulo &#62;]

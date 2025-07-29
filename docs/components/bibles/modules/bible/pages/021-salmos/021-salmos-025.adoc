@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v21-25-0]]
+=== Salmos, 25
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 25 é uma oração de um indivíduo aflito que clama a Deus por ajuda e orientação. O salmista reconhece que Deus é misericordioso e justo, e pede que ele o guie em seus caminhos. Além disso, o salmista confessa seus pecados e pede perdão. Os versículos escolhidos a seguir tratam de temas relacionados ao Salmo 25, como a busca pela orientação de Deus, a confiança na sua bondade e justiça, e o arrependimento e a necessidade de perdão.
+* Salmos 27:11: "Ensina-me o teu caminho, Senhor; leva-me pela vereda reta, por causa dos que me espreitam." Este versículo se relaciona com o Salmo 25 porque o salmista também está pedindo a Deus que o guie em seus caminhos e o ensine a fazer a sua vontade.
+* Salmos 86:5: "Pois tu, Senhor, és bom e compassivo; és paciente e grande em amor leal." Esse versículo é semelhante ao Salmo 25, onde o salmista reconhece a bondade de Deus e pede a sua orientação.
+* Salmos 103:8: "O Senhor é compassivo e misericordioso, mui paciente e cheio de amor." Esse versículo também destaca a misericórdia e a bondade de Deus, características que são enfatizadas no Salmo 25.
+* Salmos 130:4: "Mas contigo está o perdão, para que sejas temido." Esse versículo destaca a importância do perdão e da confiança em Deus para alcançá-lo. O Salmo 25 também se preocupa com a confissão de pecados e o pedido de perdão.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Esses versículos destacam a importância de confiar em Deus e pedir a sua orientação em todas as áreas da vida, o que é uma preocupação central no Salmo 25.
+****
+
+[[v21-25-1]]
+
+^<<v21-25-1,1>>^ De Davi. Fazei-me justiça, Senhor, pois tenho andado retamente e, confiando em vós, não vacilei.^&#42;1^
+
+[[v21-25-2]]
+
+^<<v21-25-2,2>>^ Sondai-me, Senhor, e provai-me; escrutai meus rins e meu coração.
+
+[[v21-25-3]]
+
+^<<v21-25-3,3>>^ Tenho sempre diante dos olhos vossa bondade, e caminho na vossa verdade.
+
+[[v21-25-4]]
+
+^<<v21-25-4,4>>^ Entre os homens iníquos não me assento, nem me associo aos trapaceiros.
+
+[[v21-25-5]]
+
+^<<v21-25-5,5>>^ Detesto a companhia dos malfeitores, com os ímpios não me junto.
+
+[[v21-25-6]]
+
+^<<v21-25-6,6>>^ Na inocência lavo as minhas mãos, e conservo-me junto de vosso altar, Senhor,^&#42;1^
+
+[[v21-25-7]]
+
+^<<v21-25-7,7>>^ para publicamente anunciar vossos louvores, e proclamar todas as vossas maravilhas.
+
+[[v21-25-8]]
+
+^<<v21-25-8,8>>^ Senhor, amo a habitação de vossa casa, e o tabernáculo onde reside a vossa glória.
+
+[[v21-25-9]]
+
+^<<v21-25-9,9>>^ Não leveis a minha alma com a dos pecadores, nem me tireis a vida com a dos sanguinários,
+
+[[v21-25-10]]
+
+^<<v21-25-10,10>>^ cujas mãos são criminosas, e cuja destra está cheia de subornos.
+
+[[v21-25-11]]
+
+^<<v21-25-11,11>>^ Eu, porém, procedo com retidão. Livrai-me e sede-me propício.
+
+[[v21-25-12]]
+
+^<<v21-25-12,12>>^ Meu pé está firme no caminho reto; nas assembleias, bendirei o Senhor.
+
+'''
+
+xref:021-salmos/021-salmos-024.adoc#v21-24-0[&#60; Capítulo Anterior] | <<v21-25-0,Topo>> | xref:021-salmos/021-salmos-026.adoc#v21-26-0[Próximo Capítulo &#62;]

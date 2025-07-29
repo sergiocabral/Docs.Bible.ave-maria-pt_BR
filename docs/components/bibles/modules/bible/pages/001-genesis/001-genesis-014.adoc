@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v1-14-0]]
+=== Gênesis, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 14 é um capítulo que relata uma batalha entre quatro reis contra cinco reis, e como Abrão resgata seu sobrinho Ló, que havia sido capturado durante a batalha. Aqui estão cinco versículos relacionados com os temas abordados em Gênesis 14:
+* Salmos 144:1: "Bendito seja o Senhor, minha rocha, que treina minhas mãos para a batalha e meus dedos para a guerra." Este versículo fala de como Deus nos prepara para a batalha. Em Gênesis 14, vemos que Abrão se preparou para a batalha e venceu seus inimigos.
+* 2 Timóteo 2:3-4: "Junte-se a mim em sofrer como um bom soldado de Cristo Jesus. Nenhum soldado em serviço se envolve em questões civis, porque quer agradar ao seu superior." Este versículo fala de como os soldados devem se concentrar em servir ao Senhor em vez de se envolver em questões terrenas. Em Gênesis 14, vemos que Abrão estava mais interessado em salvar seu sobrinho do que em se envolver em política.
+* Efésios 6:12: "Porque a nossa luta não é contra o sangue e a carne, mas contra os governantes, contra as autoridades, contra os poderes deste mundo de escuridão, contra as forças espirituais do mal nos lugares celestiais." Este versículo fala de como nossa luta não é apenas física, mas espiritual. Em Gênesis 14, vemos uma batalha física, mas também uma batalha espiritual, com Deus guiando Abrão à vitória.
+* 1 Pedro 5:8: "Sejam sóbrios e vigilantes. O diabo, vosso inimigo, ronda como um leão, procurando alguém para devorar." Este versículo fala de como devemos estar alertas contra os ataques do inimigo. Em Gênesis 14, vemos que Ló foi capturado porque não estava vigilante contra seus inimigos.
+* 2 Coríntios 10:4: "Porque as armas da nossa guerra não são carnais, mas poderosas em Deus para a destruição de fortalezas." Este versículo fala de como nossas armas são espirituais, e como devemos confiar em Deus para nos ajudar na batalha. Em Gênesis 14, vemos que Abrão confiou em Deus para guiá-lo na batalha e garantir sua vitória.
+****
+
+[[v1-14-1]]
+
+^<<v1-14-1,1>>^ No tempo de Amrafel, rei de Senaar, de Arioc, rei de Elasar, de Codorlaomor, rei de Elam e de Tadal, rei de Goim,
+
+[[v1-14-2]]
+
+^<<v1-14-2,2>>^ aconteceu que estes reis fizeram guerra a Bara, rei de Sodoma, a Bersa, rei de Gomorra, a Senaab, rei de Adama, a Semeber, rei de Seboim e ao rei de Bala, isto é, Segor.
+
+[[v1-14-3]]
+
+^<<v1-14-3,3>>^ Todos estes se juntaram no vale de Sidim, que é o mar Salgado.
+
+[[v1-14-4]]
+
+^<<v1-14-4,4>>^ Durante doze anos eles tinham servido a Codorlaomor, mas no décimo terceiro ano tinham se revoltado.
+
+[[v1-14-5]]
+
+^<<v1-14-5,5>>^ No décimo quarto ano, Codorlaomor pôs-se em marcha com os reis que se tinham aliado a ele, e desbarataram os refaim em Astarot Carnaim, e igualmente os zuzim em Ham, os emim na planície de Cariataim
+
+[[v1-14-6]]
+
+^<<v1-14-6,6>>^ e os horreus, em sua montanha de Seir até El-Farã, cerca do deserto.
+
+[[v1-14-7]]
+
+^<<v1-14-7,7>>^ Voltando, chegaram à fonte do Julgamento, em Cades, e devastaram a terra dos amalecitas, assim como os amorreus que habitavam em Asasontamar.
+
+[[v1-14-8]]
+
+^<<v1-14-8,8>>^ O rei de Sodoma, o rei de Gomorra, o rei de Adama, o rei de Seboim, o rei de Bala, isto é, Segor, saíram e puseram-se em ordem de batalha no vale de Sidim,
+
+[[v1-14-9]]
+
+^<<v1-14-9,9>>^ contra Codorlaomor, rei de Elam, Tadal, rei de Goim, Anrafel, rei de Senaar, e Arioc, rei de Elasar, quatro reis contra cinco.
+
+[[v1-14-10]]
+
+^<<v1-14-10,10>>^ Ora, havia no vale de Sidim numerosos poços de betume. E os reis de Sodoma e de Gomorra, fugindo, caíram nesses poços, enquanto o restante fugiu para a montanha.
+
+[[v1-14-11]]
+
+^<<v1-14-11,11>>^ Os vencedores levaram todos os bens de Sodoma e Gomorra, e todos os seus víveres, e partiram.
+
+[[v1-14-12]]
+
+^<<v1-14-12,12>>^ Levaram também Ló, filho do irmão de Abrão, que morava em Sodoma, com todos os seus bens.
+
+[[v1-14-13]]
+
+^<<v1-14-13,13>>^ Mas alguém que conseguiu fugir veio dar parte do sucedido a Abrão, o hebreu, que vivia nos carvalhos de Mambré, o amorreu, irmão de Escol e irmão de Aner, aliados de Abrão.
+
+[[v1-14-14]]
+
+^<<v1-14-14,14>>^ Abrão, tendo ouvido que Ló, seu parente, ficara prisioneiro, escolheu trezentos e dezoito dos seus melhores e mais corajosos servos, nascidos em sua casa, e foi ao alcance dos reis até Dã.
+
+[[v1-14-15]]
+
+^<<v1-14-15,15>>^ Ali, dividindo a sua tropa para os atacar de noite com seus servos, desbaratou-os e perseguiu-os até Hoba, que se encontra ao norte de Damasco.^&#42;1^
+
+[[v1-14-16]]
+
+^<<v1-14-16,16>>^ Abrão recobrou todos os bens saqueados e reconduziu também Ló, seu parente, com os seus bens, assim como as mulheres e os homens.
+
+[[v1-14-17]]
+
+^<<v1-14-17,17>>^ Voltando Abrão da derrota de Codorlaomor e seus reis aliados, o rei de Sodoma saiu-lhe ao encontro no vale de Save, que é o vale do rei.
+
+[[v1-14-18]]
+
+^<<v1-14-18,18>>^ Melquisedec, rei de Salém e sacerdote do Deus Altíssimo, mandou trazer pão e vinho,^&#42;1^
+
+[[v1-14-19]]
+
+^<<v1-14-19,19>>^ e abençoou Abrão, dizendo: “Bendito seja Abrão pelo Deus Altíssimo, que criou o céu e a terra!
+
+[[v1-14-20]]
+
+^<<v1-14-20,20>>^ Bendito seja o Deus Altíssimo, que entregou os teus inimigos em tuas mãos!”. E Abrão deu-lhe o dízimo de tudo.^&#42;1^
+
+[[v1-14-21]]
+
+^<<v1-14-21,21>>^ O rei de Sodoma disse a Abrão: “Devolve-me os homens e guarda os bens”.
+
+[[v1-14-22]]
+
+^<<v1-14-22,22>>^ “Levanto a minha mão para o Senhor Deus Altíssimo que criou o céu e a terra – respondeu Abrão –;
+
+[[v1-14-23]]
+
+^<<v1-14-23,23>>^ de tudo o que é teu, não tomarei sequer um fio nem um cordão de sandália, para que não digas: Enriqueci Abrão.
+
+[[v1-14-24]]
+
+^<<v1-14-24,24>>^ Nada para mim, exceto somente o que comeram os meus servos e a parte dos homens que vieram comigo, Aner, Escol e Mambré; estes hão de receber a sua parte.”
+
+'''
+
+xref:001-genesis/001-genesis-013.adoc#v1-13-0[&#60; Capítulo Anterior] | <<v1-14-0,Topo>> | xref:001-genesis/001-genesis-015.adoc#v1-15-0[Próximo Capítulo &#62;]

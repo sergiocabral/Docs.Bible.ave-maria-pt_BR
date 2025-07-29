@@ -1,0 +1,223 @@
+include::./index.adoc[]
+
+[[v21-17-0]]
+=== Salmos, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 17 é uma oração de Davi, onde ele clama a Deus por proteção e justiça contra seus inimigos. Davi pede que Deus examine seus pensamentos e suas ações, e que o livre dos homens ímpios que o rodeiam. Ele confia que Deus é a sua única esperança e refúgio. Abaixo estão cinco versículos relacionados com os temas abordados neste Salmo:
+* Provérbios 2:8 - "Ele guarda os caminhos dos justos e protege o caminho dos seus fiéis." Esse verso fala da proteção que Deus oferece aos justos, aqueles que andam em seus caminhos e confiam nele.
+* Salmos 18:2 - "O Senhor é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Esse verso fala da confiança de Davi em Deus como sua rocha, sua fortaleza e seu refúgio, que o protege do mal.
+* Salmos 34:7 - "O anjo do Senhor acampa-se ao redor dos que o temem, e os livra." Esse verso fala da proteção que Deus oferece aos seus servos fiéis, enviando Seus anjos para os protegerem.
+* Salmos 37:28 - "Pois o Senhor ama quem pratica a justiça, e não abandonará os seus fiéis; para sempre serão protegidos, mas a descendência dos ímpios será eliminada." Esse verso fala da proteção contínua que Deus oferece aos seus servos justos, e que Ele não os abandonará.
+* Salmos 91:2 - "Direi do Senhor: Ele é o meu refúgio e a minha fortaleza, o meu Deus, em quem confio." Esse verso fala da confiança de Davi em Deus como seu refúgio e fortaleza, que o protege do mal.
+****
+
+[[v21-17-1]]
+
+^<<v21-17-1,1>>^ Ao mestre de canto. De Davi, servo do Senhor, que dirigiu as palavras deste cântico ao Senhor, no dia em que ficou livre de todos os seus inimigos e das mãos de Saul.^&#42;1^
+
+[[v21-17-2]]
+
+^<<v21-17-2,2>>^ Disse: Eu vos amo, Senhor, minha força!
+
+[[v21-17-3]]
+
+^<<v21-17-3,3>>^ O Senhor é o meu rochedo, minha fortaleza e meu libertador. Meu Deus é a minha rocha, onde encontro o meu refúgio, meu escudo, força de minha salvação e minha cidadela.
+
+[[v21-17-4]]
+
+^<<v21-17-4,4>>^ Invoco o Senhor, digno de todo louvor, e fico livre dos meus inimigos.
+
+[[v21-17-5]]
+
+^<<v21-17-5,5>>^ Circundavam-me os vagalhões da morte, torrentes devastadoras me atemorizavam,
+
+[[v21-17-6]]
+
+^<<v21-17-6,6>>^ enlaçavam-se as cadeias da habitação dos mortos, a própria morte me prendia em suas redes.
+
+[[v21-17-7]]
+
+^<<v21-17-7,7>>^ Na minha angústia, invoquei o Senhor, gritei para meu Deus: do seu templo ele ouviu a minha voz, e o meu clamor em sua presença chegou aos seus ouvidos.
+
+[[v21-17-8]]
+
+^<<v21-17-8,8>>^ A terra vacilou e tremeu, os fundamentos das montanhas fremiram, abalaram-se, porque Deus se abrasou em cólera:
+
+[[v21-17-9]]
+
+^<<v21-17-9,9>>^ suas narinas exalavam fumaça; sua boca, fogo devorador, brasas incandescentes.
+
+[[v21-17-10]]
+
+^<<v21-17-10,10>>^ Ele inclinou os céus e desceu, calcando aos pés escuras nuvens.
+
+[[v21-17-11]]
+
+^<<v21-17-11,11>>^ Cavalgou sobre um querubim e voou, planando nas asas do vento.
+
+[[v21-17-12]]
+
+^<<v21-17-12,12>>^ Envolveu-se nas trevas como se fossem véu, fez para si uma tenda das águas tenebrosas, densas nuvens.
+
+[[v21-17-13]]
+
+^<<v21-17-13,13>>^ Do esplendor de sua presença suas nuvens avançaram: saraiva e centelhas de fogo.
+
+[[v21-17-14]]
+
+^<<v21-17-14,14>>^ Do céu trovejou o Senhor, o Altíssimo fez ressoar sua voz.
+
+[[v21-17-15]]
+
+^<<v21-17-15,15>>^ Lançou setas e dispersou os inimigos, fulminou relâmpagos e os desbaratou.^&#42;1^
+
+[[v21-17-16]]
+
+^<<v21-17-16,16>>^ E apareceu descoberto o leito do mar, ficaram à vista os fundamentos da terra, ante a vossa ameaçadora voz, ó Senhor, ante o furacão de vossa cólera.
+
+[[v21-17-17]]
+
+^<<v21-17-17,17>>^ Do alto estendeu a sua mão e me pegou, e retirou-me das águas profundas,
+
+[[v21-17-18]]
+
+^<<v21-17-18,18>>^ livrou-me de inimigo poderoso, dos meus adversários mais fortes do que eu.
+
+[[v21-17-19]]
+
+^<<v21-17-19,19>>^ Investiram contra mim no dia do meu infortúnio, mas o Senhor foi o meu arrimo;
+
+[[v21-17-20]]
+
+^<<v21-17-20,20>>^ pôs-me a salvo e livrou-me, porque me ama.
+
+[[v21-17-21]]
+
+^<<v21-17-21,21>>^ O Senhor me tratou segundo a minha inocência, retribuiu-me segundo a pureza de minhas mãos,
+
+[[v21-17-22]]
+
+^<<v21-17-22,22>>^ porque guardei os caminhos do Senhor e não pequei separando-me do meu Deus.
+
+[[v21-17-23]]
+
+^<<v21-17-23,23>>^ Tenho diante dos olhos todos os seus preceitos e não me desvio de suas leis.
+
+[[v21-17-24]]
+
+^<<v21-17-24,24>>^ Ando irrepreensivelmente diante dele, guardando-me do meu pecado.
+
+[[v21-17-25]]
+
+^<<v21-17-25,25>>^ O Senhor retribuiu-me segundo a minha justiça, segundo a pureza de minhas mãos diante dos seus olhos.
+
+[[v21-17-26]]
+
+^<<v21-17-26,26>>^ Com quem é bondoso vos mostrais bondoso, com o homem íntegro vos mostrais íntegro;
+
+[[v21-17-27]]
+
+^<<v21-17-27,27>>^ puro com quem é puro; prudente com quem é astuto.
+
+[[v21-17-28]]
+
+^<<v21-17-28,28>>^ Os humildes salvais, os semblantes soberbos humilhais.
+
+[[v21-17-29]]
+
+^<<v21-17-29,29>>^ Senhor, sois vós que fazeis brilhar o meu farol, sois vós que dissipais as minhas trevas.
+
+[[v21-17-30]]
+
+^<<v21-17-30,30>>^ Convosco afrontarei batalhões, com meu Deus escalarei muralhas.
+
+[[v21-17-31]]
+
+^<<v21-17-31,31>>^ Os caminhos de Deus são perfeitos, a palavra do Senhor é pura. Ele é o escudo de todos os que nele se refugiam.
+
+[[v21-17-32]]
+
+^<<v21-17-32,32>>^ Pois quem é Deus senão o Senhor? Quem é o rochedo, senão o nosso Deus?
+
+[[v21-17-33]]
+
+^<<v21-17-33,33>>^ É Deus quem me cinge de coragem e aplana o meu caminho.
+
+[[v21-17-34]]
+
+^<<v21-17-34,34>>^ Torna os meus pés velozes como os das gazelas e me instala nas alturas.
+
+[[v21-17-35]]
+
+^<<v21-17-35,35>>^ Adestra minhas mãos para o combate e meus braços para o tiro de arco.
+
+[[v21-17-36]]
+
+^<<v21-17-36,36>>^ Vós me dais o escudo que me salva. Vossa destra me sustém, e vossa bondade me engrandece.
+
+[[v21-17-37]]
+
+^<<v21-17-37,37>>^ Alargais o caminho a meus passos, para meus pés não resvalarem.
+
+[[v21-17-38]]
+
+^<<v21-17-38,38>>^ Dou caça aos inimigos e os alcanço, e não volto sem que os tenha aniquilado.
+
+[[v21-17-39]]
+
+^<<v21-17-39,39>>^ De tal sorte os despedaço, que não mais poderão levantar-se: eles ficam caídos a meus pés.
+
+[[v21-17-40]]
+
+^<<v21-17-40,40>>^ Vós me cingis de coragem para a luta e ante mim dobrais os meus adversários.
+
+[[v21-17-41]]
+
+^<<v21-17-41,41>>^ Afugentais da minha presença os meus inimigos e reduzis ao silêncio os que me aborrecem.
+
+[[v21-17-42]]
+
+^<<v21-17-42,42>>^ Gritam por socorro, mas não há quem os salve; clamam ao Senhor, mas não responde...
+
+[[v21-17-43]]
+
+^<<v21-17-43,43>>^ Eu os disperso como o pó que o vento leva, e os esmago como o barro das estradas.
+
+[[v21-17-44]]
+
+^<<v21-17-44,44>>^ Vós me livrais das revoltas do povo e me colocais à frente das nações; povos que eu desconhecia se tornaram meus servos.
+
+[[v21-17-45]]
+
+^<<v21-17-45,45>>^ Gente estranha me serve abnegadamente e me obedece à primeira intimação.
+
+[[v21-17-46]]
+
+^<<v21-17-46,46>>^ Gente estranha desfalece e sai tremendo de seus esconderijos.
+
+[[v21-17-47]]
+
+^<<v21-17-47,47>>^ Viva o Senhor e bendito seja o meu rochedo! Exaltado seja Deus, que me salva!
+
+[[v21-17-48]]
+
+^<<v21-17-48,48>>^ Deus, que me proporciona a vingança e avassala nações a meus pés.
+
+[[v21-17-49]]
+
+^<<v21-17-49,49>>^ Sois vós que me libertais dos meus inimigos, me exaltais acima dos meus adversários e me salvais do homem violento.
+
+[[v21-17-50]]
+
+^<<v21-17-50,50>>^ Por isso vos louvarei, ó Senhor, entre as nações e celebrarei o vosso nome.^&#42;1^
+
+[[v21-17-51]]
+
+^<<v21-17-51,51>>^ Ele prepara grandes vitórias a seu rei e faz misericórdia a seu ungido, a Davi e a sua descendência para sempre.
+
+'''
+
+xref:021-salmos/021-salmos-016.adoc#v21-16-0[&#60; Capítulo Anterior] | <<v21-17-0,Topo>> | xref:021-salmos/021-salmos-018.adoc#v21-18-0[Próximo Capítulo &#62;]

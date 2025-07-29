@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v21-79-0]]
+=== Salmos, 79
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 79 é outro salmo de lamentação, em que o salmista clama a Deus diante da destruição de Jerusalém e da profanação do templo pelos inimigos. Ele pede a Deus que se levante e defenda o seu povo, e lamenta a morte de muitos dos seus. A seguir, estão cinco versículos relacionados aos temas abordados em Salmo 79, em ordem de proximidade com o capítulo:
+* Salmos 74:3-4: "Levanta os teus pés para as perpétuas assolações, para tudo o que o inimigo tem feito de mal no santuário. Os teus inimigos bramam no meio dos teus lugares santos; põem neles as suas insígnias por sinais." O salmista de Salmo 74 lamenta a destruição do templo, assim como o salmista de Salmo 79.
+* Salmos 89:40-41: "Arrasaste todas as suas cercas, e fizeste em pedaços as suas fortalezas. Todos os que passam pelo caminho o despojam; tornou-se ele opróbrio para os seus vizinhos." Este versículo de Salmo 89 descreve a destruição da cidade, assim como o salmista de Salmo 79 testemunha.
+* Lamentações 5:20-22: "Por que nos rejeitas para sempre, e te indignas contra nós cada vez mais? Torna-nos a ti, SENHOR, e voltaremos; renova os nossos dias como dantes; contudo, tu nos rejeitaste e te indignaste contra nós em grande maneira." Este trecho de Lamentações também clama a Deus por socorro e pede que Ele se volte novamente para o seu povo.
+* Salmos 44:9-10: "Mas tu nos rejeitaste e nos confundiste, e não sais com os nossos exércitos. Fizeste-nos recuar diante do inimigo; e os que nos odeiam tomaram para si a presa." O salmista de Salmo 44 também se lamenta diante da aparente rejeição de Deus e da derrota diante dos inimigos.
+* Salmos 60:1: "Ó Deus, tu nos rejeitaste e nos espalhaste; tu te indignaste; oh, volta-te para nós!" Este versículo de Salmo 60 é mais uma oração de clamor a Deus, pedindo que Ele volte a atenção para o seu povo.
+****
+
+[[v21-79-1]]
+
+^<<v21-79-1,1>>^ Ao mestre de canto. Conforme: “A lei é como os lírios”. Salmo de Asaf.^&#42;1^
+
+[[v21-79-2]]
+
+^<<v21-79-2,2>>^ Escutai, ó pastor de Israel, vós que levais José como um rebanho.^&#42;1^
+
+[[v21-79-3]]
+
+^<<v21-79-3,3>>^ Vós que assentais acima dos querubins mostrai vosso esplendor em presença de Efraim, Benjamim e Manassés. Despertai vosso poder, e vinde salvar-nos.
+
+[[v21-79-4]]
+
+^<<v21-79-4,4>>^ Restaurai-nos, ó Senhor; mostrai-nos serena a vossa face e seremos salvos.
+
+[[v21-79-5]]
+
+^<<v21-79-5,5>>^ Ó Deus dos exércitos, até quando vos irritareis contra o vosso povo em oração?
+
+[[v21-79-6]]
+
+^<<v21-79-6,6>>^ Vós o nutristes com o pão das lágrimas, e o fizestes sorver um copioso pranto.
+
+[[v21-79-7]]
+
+^<<v21-79-7,7>>^ Vós nos tornastes uma presa disputada dos vizinhos: os inimigos zombam de nós.
+
+[[v21-79-8]]
+
+^<<v21-79-8,8>>^ Restaurai-nos, ó Deus dos exércitos; mostrai-nos serena a vossa face e seremos salvos.
+
+[[v21-79-9]]
+
+^<<v21-79-9,9>>^ Uma vinha do Egito vós arrancastes; expulsastes povos para replantá-la.^&#42;1^
+
+[[v21-79-10]]
+
+^<<v21-79-10,10>>^ O solo vós lhes preparastes; ela lançou raízes nele e se espalhou na terra.
+
+[[v21-79-11]]
+
+^<<v21-79-11,11>>^ As montanhas se cobriram com sua sombra, seus ramos ensombraram os cedros de Deus.
+
+[[v21-79-12]]
+
+^<<v21-79-12,12>>^ Até o mar ela estendeu sua ramagem, e até o rio os seus rebentos.^&#42;1^
+
+[[v21-79-13]]
+
+^<<v21-79-13,13>>^ Por que derrubastes os seus muros, de sorte que os passantes a colham,
+
+[[v21-79-14]]
+
+^<<v21-79-14,14>>^ e a devaste o javali do mato, e sirva de pasto aos animais do campo?
+
+[[v21-79-15]]
+
+^<<v21-79-15,15>>^ Voltai, ó Deus dos exércitos; olhai do alto céu, vede e vinde visitar a vinha.
+
+[[v21-79-16]]
+
+^<<v21-79-16,16>>^ Protegei este cepo por vós plantado, este rebento que vossa mão cuidou.
+
+[[v21-79-17]]
+
+^<<v21-79-17,17>>^ Aqueles que a queimaram e cortaram pereçam em vossa presença ameaçadora.
+
+[[v21-79-18]]
+
+^<<v21-79-18,18>>^ Estendei a mão sobre o homem que escolhestes, sobre o homem que haveis fortificado.^&#42;1^
+
+[[v21-79-19]]
+
+^<<v21-79-19,19>>^ E não mais de vós nos apartaremos; conservai-nos a vida e então vos louvaremos.
+
+[[v21-79-20]]
+
+^<<v21-79-20,20>>^ Restaurai-nos, Senhor, ó Deus dos exércitos; mostrai-nos serena a vossa face e seremos salvos.
+
+'''
+
+xref:021-salmos/021-salmos-078.adoc#v21-78-0[&#60; Capítulo Anterior] | <<v21-79-0,Topo>> | xref:021-salmos/021-salmos-080.adoc#v21-80-0[Próximo Capítulo &#62;]

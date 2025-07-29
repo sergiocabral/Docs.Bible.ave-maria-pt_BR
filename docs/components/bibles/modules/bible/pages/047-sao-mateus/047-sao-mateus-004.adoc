@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v47-4-0]]
+=== São Mateus, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Mateus 4 relata a tentação de Jesus no deserto, após seu batismo. Nesse capítulo, Jesus é tentado três vezes pelo diabo, mas resiste e se fortalece para iniciar seu ministério na Galileia. Além disso, o capítulo também destaca a importância das Escrituras Sagradas e como Jesus começou a reunir seus primeiros discípulos.
+* Tiago 4:7: "Portanto, sujeitai-vos a Deus, resisti ao diabo, e ele fugirá de vós." Esse versículo destaca a importância de resistir às tentações do diabo, assim como Jesus fez no deserto.
+* 2 Timóteo 3:16-17: "Toda Escritura é divinamente inspirada e proveitosa para ensinar, para repreender, para corrigir, para instruir em justiça; para que o homem de Deus seja perfeito, e perfeitamente preparado para toda boa obra." Assim como Jesus usou as Escrituras para resistir às tentações, esse versículo enfatiza a importância das Escrituras para o crescimento espiritual.
+* Mateus 10:38: "E quem não toma a sua cruz, e não segue após mim, não é digno de mim." Esse versículo destaca a importância da renúncia e do sacrifício na vida cristã, um tema que também é abordado na tentação de Jesus.
+* Lucas 5:10: "E Jesus disse a Simão: Não temas; de agora em diante serás pescador de homens." Assim como Jesus chamou seus primeiros discípulos para segui-lo, esse versículo destaca como Jesus ainda hoje chama pessoas para se tornarem discípulos e trabalharem para o Reino de Deus.
+* Atos dos Apóstolos 10:38: "Como Deus ungiu a Jesus de Nazaré com o Espírito Santo e com poder; o qual andou fazendo o bem, e curando a todos os oprimidos do diabo, porque Deus era com ele." Esse versículo destaca como Jesus iniciou seu ministério fazendo o bem e curando os oprimidos, assim como ele ainda hoje continua a fazer por meio do Espírito Santo agindo na vida dos cristãos.
+****
+
+[[v47-4-1]]
+
+^<<v47-4-1,1>>^ Em seguida, Jesus foi conduzido pelo Espírito ao deserto para ser tentado pelo demônio.
+
+[[v47-4-2]]
+
+^<<v47-4-2,2>>^ Jejuou quarenta dias e quarenta noites. Depois, teve fome.
+
+[[v47-4-3]]
+
+^<<v47-4-3,3>>^ O tentador aproximou-se dele e lhe disse: “Se és Filho de Deus, ordena que estas pedras se tornem pães”.
+
+[[v47-4-4]]
+
+^<<v47-4-4,4>>^ Jesus respondeu: “Está escrito: Não só de pão vive o homem, mas de toda palavra que procede da boca de Deus” (Dt 8,3).
+
+[[v47-4-5]]
+
+^<<v47-4-5,5>>^ O demônio transportou-o à Cidade Santa, colocou-o no ponto mais alto do templo e disse-lhe:^&#42;1^
+
+[[v47-4-6]]
+
+^<<v47-4-6,6>>^ “Se és Filho de Deus, lança-te abaixo, pois está escrito: Ele deu a seus anjos ordens a teu respeito; eles te protegerão com as mãos, com cuidado, para não machucares o teu pé em alguma pedra” (Sl 90,11s).
+
+[[v47-4-7]]
+
+^<<v47-4-7,7>>^ Disse-lhe Jesus: “Também está escrito: Não tentarás o Senhor teu Deus (Dt 6,16)”.
+
+[[v47-4-8]]
+
+^<<v47-4-8,8>>^ O demônio transportou-o uma vez mais, a um monte muito alto, e lhe mostrou todos os reinos do mundo e a sua glória, e disse-lhe:
+
+[[v47-4-9]]
+
+^<<v47-4-9,9>>^ “Eu te darei tudo isto se, prostrando-te diante de mim, me adorares”.
+
+[[v47-4-10]]
+
+^<<v47-4-10,10>>^ Respondeu-lhe Jesus: “Para trás, Satanás, pois está escrito: Adorarás o Senhor, teu Deus, e só a ele servirás (Dt 6,13)”.
+
+[[v47-4-11]]
+
+^<<v47-4-11,11>>^ Em seguida, o demônio o deixou, e os anjos aproximaram-se dele para servi-lo.
+
+[[v47-4-12]]
+
+^<<v47-4-12,12>>^ Quando, pois, Jesus ouviu que João fora preso, retirou-se para a Galileia.
+
+[[v47-4-13]]
+
+^<<v47-4-13,13>>^ Deixando a cidade de Nazaré, foi habitar em Cafarnaum, à margem do lago, nos confins de Zabulon e Neftali,^&#42;1^
+
+[[v47-4-14]]
+
+^<<v47-4-14,14>>^ para que se cumprisse o que foi dito pelo profeta Isaías:
+
+[[v47-4-15]]
+
+^<<v47-4-15,15>>^ A terra de Zabulon e de Neftali, região vizinha ao mar, a terra além do Jordão, a Galileia dos gentios,
+
+[[v47-4-16]]
+
+^<<v47-4-16,16>>^ este povo, que jazia nas trevas, viu resplandecer uma grande luz; e surgiu uma aurora para os que jaziam na região sombria da morte (Is 9,1).
+
+[[v47-4-17]]
+
+^<<v47-4-17,17>>^ Desde então, Jesus começou a pregar: “Fazei penitência, pois o Reino dos céus está próximo”.
+
+[[v47-4-18]]
+
+^<<v47-4-18,18>>^ Caminhando ao longo do mar da Galileia, viu dois irmãos: Simão (chamado Pedro) e André, seu irmão, que lançavam a rede ao mar, pois eram pescadores.
+
+[[v47-4-19]]
+
+^<<v47-4-19,19>>^ E disse-lhes: “Vinde após mim e vos farei pescadores de homens”.
+
+[[v47-4-20]]
+
+^<<v47-4-20,20>>^ Na mesma hora, abandonaram suas redes e o seguiram.
+
+[[v47-4-21]]
+
+^<<v47-4-21,21>>^ Passando adiante, viu outros dois irmãos: Tiago, filho de Zebedeu, e seu irmão João, que estavam com seu pai Zebedeu consertando as redes. Chamou-os,
+
+[[v47-4-22]]
+
+^<<v47-4-22,22>>^ e eles abandonaram a barca e seu pai e o seguiram.
+
+[[v47-4-23]]
+
+^<<v47-4-23,23>>^ Jesus percorria toda a Galileia, ensinando nas suas sinagogas, pregando o Evangelho do Reino, curando todas as doenças e enfermidades entre o povo.^&#42;1^
+
+[[v47-4-24]]
+
+^<<v47-4-24,24>>^ Sua fama espalhou-se por toda a Síria: traziam-lhe os doentes e os enfermos, os possessos, os lunáticos, os paralíticos. E ele curava a todos.^&#42;1^
+
+[[v47-4-25]]
+
+^<<v47-4-25,25>>^ Grandes multidões acompanharam-no da Galileia, da Decápole, de Jerusalém, da Judeia e dos países do outro lado do Jordão.^&#42;1^
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-003.adoc#v47-3-0[&#60; Capítulo Anterior] | <<v47-4-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-005.adoc#v47-5-0[Próximo Capítulo &#62;]

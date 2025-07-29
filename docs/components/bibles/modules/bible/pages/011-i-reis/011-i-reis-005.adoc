@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v11-5-0]]
+=== I Reis, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Reis 5 narra a aliança entre Salomão e Hirão, rei de Tiro, para construir o Templo em Jerusalém. Hirão concorda em fornecer a madeira de cedro e os carpinteiros habilidosos necessários para a construção, em troca de trigo, azeite e vinho. Abaixo estão cinco versículos relacionados com os temas abordados em 1 Reis 5:
+* 2 Crônicas 2:3: "E Salomão enviou a Hirão, rei de Tiro, dizendo: Como fizeste com Davi, meu pai, e lhe enviaste cedros para edificar uma casa em que morasse, assim também faze comigo." Este versículo destaca a continuação da aliança entre os reis de Israel e Tiro na construção do Templo.
+* 2 Crônicas 2:8: "Envia-me, pois, um homem perito para trabalhar em ouro, em prata, em bronze, em ferro, e em púrpura, e em carmesim, e em azul, e que saiba lavrar em esculturas, com os artífices que tenho em Judá e em Jerusalém, os quais Davi, meu pai, preparou." Este versículo mostra que Salomão deseja obter os melhores trabalhadores para a construção do Templo, incluindo especialistas em trabalhar com ouro, prata e outros materiais.
+* 2 Crônicas 2:10-11: "Eis que darei trigo por mantimento a teus servos, e cevada, e azeite, e vinho, que eu mandarei medir deles; e cortarei toda a madeira de cedro e de pinho que quiseres do Líbano, e a farei chegar por mar em jangadas até Jope; daí a levarás a Jerusalém." Este versículo descreve os termos do acordo entre Salomão e Hirão, com Hirão fornecendo a madeira de cedro e os trabalhadores, enquanto Salomão fornece alimentos e outros recursos.
+* 2 Crônicas 2:12: "E Hirão continuou: Bendito seja o SENHOR Deus de Israel, que fez o céu e a terra, que deu ao rei Davi um filho sábio, dotado de prudência e entendimento, que vai edificar uma casa ao SENHOR, e uma casa para o seu reino." Este versículo mostra a aprovação de Hirão sobre a construção do Templo e a sabedoria de Salomão.
+* Salmos 127:1: "Se o SENHOR não edificar a casa, em vão trabalham os que a edificam; se o SENHOR não guardar a cidade, em vão vigia a sentinela." Este versículo destaca a importância de Deus na construção do Templo e na proteção de Jerusalém, um tema que é enfatizado em 1 Reis 5.
+****
+
+[[v11-5-1]]
+
+^<<v11-5-1,1>>^ Salomão dominava sobre todos os reinos, desde o Eufrates até a terra dos filisteus e até a fronteira do Egito. Esses reinos pagavam tributo e ficaram-lhe sujeitos durante todo o tempo de sua vida.
+
+[[v11-5-2]]
+
+^<<v11-5-2,2>>^ A casa de Salomão consumia diariamente para o seu sustento trinta coros de flor de farinha e sessenta de farinha,^&#42;1^
+
+[[v11-5-3]]
+
+^<<v11-5-3,3>>^ dez bois cevados e vinte de pasto, cem cordeiros, além de veados, gazelas, gamos e as aves cevadas.
+
+[[v11-5-4]]
+
+^<<v11-5-4,4>>^ Salomão dominava em toda a terra além do rio e sobre todos os reis dessas regiões, desde Tafsa até Gaza e estava em paz com todos os povos vizinhos.^&#42;1^
+
+[[v11-5-5]]
+
+^<<v11-5-5,5>>^ Judá e Israel, desde Dã até Bersabeia, viviam sem temor algum, cada qual debaixo de sua vinha e de sua figueira, durante todo o tempo que reinou Salomão.
+
+[[v11-5-6]]
+
+^<<v11-5-6,6>>^ Salomão tinha quatro mil manjedouras para os cavalos de seus carros e doze mil cavalos de sela.
+
+[[v11-5-7]]
+
+^<<v11-5-7,7>>^ Os intendentes, cada um no seu mês, proviam às necessidades de Salomão e de todos os que se sentavam com ele à mesa real, de modo que nada lhes faltava.
+
+[[v11-5-8]]
+
+^<<v11-5-8,8>>^ Por seu turno, levavam também ao lugar onde fosse preciso cevada e palha para os cavalos de carga e de montaria.
+
+[[v11-5-9]]
+
+^<<v11-5-9,9>>^ Deus deu a Salomão a sabedoria, uma inteligência penetrante e um espírito de uma visão tão vasta como as areias que estão à beira do mar.
+
+[[v11-5-10]]
+
+^<<v11-5-10,10>>^ Sua sabedoria excedia a de todos os orientais e a de todo o Egito.
+
+[[v11-5-11]]
+
+^<<v11-5-11,11>>^ Ele era o mais sábio de todos os homens, mais sábio do que Etã, o ezraíta, do que Emã, Chacol e Dorda, filhos de Maol; e sua fama espalhou-se por todos os povos vizinhos.
+
+[[v11-5-12]]
+
+^<<v11-5-12,12>>^ Pronunciou três mil sentenças e compôs mil e cinco poemas.
+
+[[v11-5-13]]
+
+^<<v11-5-13,13>>^ Falou das árvores, desde o cedro do Líbano até o hissopo que brota dos muros; falou dos animais, das aves, dos répteis e dos peixes.
+
+[[v11-5-14]]
+
+^<<v11-5-14,14>>^ De todos os povos vinham pessoas ouvir a sabedoria de Salomão, da parte de todos os reis da terra que tinham ouvido falar de sua sabedoria.^&#42;1^
+
+[[v11-5-15]]
+
+^<<v11-5-15,15>>^ Quando Hiram, rei de Tiro, soube que Salomão fora ungido rei em lugar de seu pai, enviou-lhe os seus servos, pois Hiram fora sempre amigo de Davi.
+
+[[v11-5-16]]
+
+^<<v11-5-16,16>>^ Salomão, de seu lado, mandou a Hiram a seguinte mensagem:
+
+[[v11-5-17]]
+
+^<<v11-5-17,17>>^ “Sabes que Davi, meu pai, não pôde edificar um templo em nome do Senhor, seu Deus, por causa das guerras que teve de sustentar até o dia em que o Senhor pôs os seus inimigos sob a planta de seus pés.
+
+[[v11-5-18]]
+
+^<<v11-5-18,18>>^ Agora, porém, o Senhor deu-me paz de todos os lados: não há mais inimigos nem calamidades.
+
+[[v11-5-19]]
+
+^<<v11-5-19,19>>^ Por isso, penso em edificar um templo em nome do Senhor, meu Deus. O Senhor, com efeito, falara disso a Davi, meu pai, nestes termos: ‘Teu filho que farei sentar em teu lugar no trono, ele é que edificará um templo para o meu nome’.
+
+[[v11-5-20]]
+
+^<<v11-5-20,20>>^ Dá ordem, pois, aos teus servos, que me cortem cedros do Líbano. Meus operários trabalharão com os teus e pagarei a estes o salário que pedires, pois sabes que não há ninguém entre nós que saiba cortar árvores como os sidônios”.
+
+[[v11-5-21]]
+
+^<<v11-5-21,21>>^ Hiram, ouvindo a mensagem de Salomão, encheu-se de grande alegria e disse: “Bendito seja o Senhor, que deu a Davi um filho cheio de sabedoria para governar esse grande povo!”.
+
+[[v11-5-22]]
+
+^<<v11-5-22,22>>^ Em seguida, mandou responder a Salomão: “Recebi tua mensagem. Farei tudo o que desejas acerca das madeiras de cedro e de cipreste.
+
+[[v11-5-23]]
+
+^<<v11-5-23,23>>^ Meus servos as descerão do Líbano até o mar e dali as farei conduzir em jangadas até o lugar que me designares. Ali as desatarão e tu as mandarás receber. De teu lado, corresponderás aos meus desejos, fornecendo víveres à minha casa”.
+
+[[v11-5-24]]
+
+^<<v11-5-24,24>>^ Hiram deu, pois, a Salomão, tanta madeira de cedro e de ciprestes quantas ele quis.
+
+[[v11-5-25]]
+
+^<<v11-5-25,25>>^ E Salomão deu-lhe vinte mil coros de trigo para o sustento de sua casa, bem como vinte coros de óleo bruto. Isso fornecia Salomão a Hiram cada ano.
+
+[[v11-5-26]]
+
+^<<v11-5-26,26>>^ O Senhor tinha dado sabedoria a Salomão, conforme prometera. Houve paz entre Hiram e Salomão e fizeram aliança entre si.
+
+[[v11-5-27]]
+
+^<<v11-5-27,27>>^ O rei Salomão escolheu trinta mil operários em todo o Israel.
+
+[[v11-5-28]]
+
+^<<v11-5-28,28>>^ Ele os mandava por seu turno ao Líbano, dez mil cada mês; passavam assim um mês no Líbano e dois meses em sua casa. Adoniram dirigia os trabalhos.
+
+[[v11-5-29]]
+
+^<<v11-5-29,29>>^ Salomão tinha ainda setenta mil carregadores e oitenta mil cortadores de pedras na montanha,
+
+[[v11-5-30]]
+
+^<<v11-5-30,30>>^ sem contar três mil e trezentos contramestres que presidiam os vários trabalhos, os quais davam ordens ao povo e aos operários.
+
+[[v11-5-31]]
+
+^<<v11-5-31,31>>^ O rei ordenou que extraíssem grandes e belas pedras, que deviam ser talhadas para os alicerces do templo.
+
+[[v11-5-32]]
+
+^<<v11-5-32,32>>^ Os operários de Salomão e os de Hiram talharam as pedras, enquanto os giblieus preparavam as madeiras e as pedras para a construção da casa.
+
+'''
+
+xref:011-i-reis/011-i-reis-004.adoc#v11-4-0[&#60; Capítulo Anterior] | <<v11-5-0,Topo>> | xref:011-i-reis/011-i-reis-006.adoc#v11-6-0[Próximo Capítulo &#62;]

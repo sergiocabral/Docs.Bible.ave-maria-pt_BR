@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v10-23-0]]
+=== II Samuel, 23
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Samuel 23 apresenta uma lista dos "últimos" feitos e das últimas palavras de Davi, bem como de seus valentes guerreiros. Os versículos abaixo são relacionados com temas abordados nesse capítulo:
+* Provérbios 29:23: "A soberba do homem o abaterá, mas a honra sustentará o humilde de espírito." Esse provérbio se relaciona com a humildade e a honra, temas presentes no capítulo 23, que destaca os feitos de Davi e seus guerreiros, homens humildes que alcançaram grandes feitos pela graça de Deus.
+* 1 Crônicas 11:22: "Benaia, filho de Joiada, filho de um valente homem de Cabzeel, que havia feito muitas ações; este feriu os dois filhos de Ariel, de Moabe; desceu também, e matou um leão no meio de uma cova, no tempo da neve." Esse versículo fala sobre Benaia, um dos valentes guerreiros de Davi que também é mencionado em 2 Samuel 23, ressaltando a bravura e a coragem desses homens.
+* Salmos 18:2: "O SENHOR é o meu rochedo, a minha fortaleza, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação, e o meu alto refúgio." Esse salmo é atribuído a Davi e se relaciona com o tema da proteção divina presente no capítulo 23, que destaca a fidelidade de Deus em proteger e sustentar Davi e seus guerreiros.
+* 1 Crônicas 12:32: "E dos filhos de Issacar, entendidos no conhecimento dos tempos, para saberem o que Israel devia fazer; duzentos de seus irmãos estavam sob suas ordens." Esse versículo fala sobre a tribo de Issacar, que é mencionada em 2 Samuel 23 como sendo uma das tribos que se juntaram a Davi. Isso destaca a importância da sabedoria e do conhecimento para o sucesso em batalhas.
+* Provérbios 16:7: "Quando os caminhos do homem são agradáveis ao Senhor, até os seus inimigos fazem as pazes com ele." Esse provérbio se relaciona com a ideia presente em 2 Samuel 23 de que Deus é o protetor de Davi e seus guerreiros. Quando seguimos a vontade de Deus e buscamos agradá-lo, ele nos protege e até mesmo nossos inimigos podem se reconciliar conosco.
+****
+
+[[v10-23-1]]
+
+^<<v10-23-1,1>>^ Estas são as últimas palavras de Davi: “Oráculo de Davi, filho de Jessé – oráculo do homem que foi exaltado, do ungido do Deus de Jacó, do cantor dos salmos de Israel.^&#42;1^
+
+[[v10-23-2]]
+
+^<<v10-23-2,2>>^ O Espírito do Senhor fala por mim, sua palavra está na minha língua.
+
+[[v10-23-3]]
+
+^<<v10-23-3,3>>^ Deus de Israel falou, o Rochedo de Israel me disse: ‘O que governa com justiça, o soberano temente a Deus
+
+[[v10-23-4]]
+
+^<<v10-23-4,4>>^ é como a luz da manhã quando se levanta o sol, manhã sem neblina, que faz cintilar de orvalho a relva da terra’.
+
+[[v10-23-5]]
+
+^<<v10-23-5,5>>^ Sim, minha dinastia é estável diante de Deus; ele fez comigo aliança eterna, a ser observada com absoluta fidelidade. Minha salvação e inteira felicidade não é ele quem faz germinar?
+
+[[v10-23-6]]
+
+^<<v10-23-6,6>>^ Os homens maus são como espinhos, que todos evitam e ninguém pega com a mão;
+
+[[v10-23-7]]
+
+^<<v10-23-7,7>>^ que se recolhem com um ferro ou com o cabo da lança e são queimados no fogo.”
+
+[[v10-23-8]]
+
+^<<v10-23-8,8>>^ Eis os nomes dos heróis de Davi: Jesboão, filho de Hacamoni, chefe dos três. Foi ele quem brandiu o seu machado contra oitocentos homens, matando-os de uma só vez.^&#42;1^
+
+[[v10-23-9]]
+
+^<<v10-23-9,9>>^ Depois desse, Eleazar, filho de Dodô, filho de Aoí, um dos três heróis. Achava-se ele em Afes-Domim, quando os filisteus se reuniram ali para o combate. Tendo os israelitas fugido cada um para a sua tenda,
+
+[[v10-23-10]]
+
+^<<v10-23-10,10>>^ Ele se manteve firme e bateu os filisteus até que sua mão se cansou e se crispou sobre a espada. O Senhor operou naquele dia uma grande vitória. Os soldados voltaram para onde estava Eleazar, mas somente para recolher os despojos.
+
+[[v10-23-11]]
+
+^<<v10-23-11,11>>^ Depois dele, Hosama, filho de Ague, o ararita. Reuniram-se os filisteus em Lequi, onde havia um pedaço de terra plantado de lentilhas. Fugindo o exército diante dos filisteus,
+
+[[v10-23-12]]
+
+^<<v10-23-12,12>>^ postou-se Sema no meio do campo, defendeu-o e derrotou os filisteus, operando assim o Senhor uma grande vitória.
+
+[[v10-23-13]]
+
+^<<v10-23-13,13>>^ Três dos trinta desceram e foram ter com Davi, no início da colheita, à gruta de Odolam, estando a tropa dos filisteus acampada no vale dos refains.
+
+[[v10-23-14]]
+
+^<<v10-23-14,14>>^ Davi estava então na fortaleza e havia uma guarnição de filisteus em Belém.
+
+[[v10-23-15]]
+
+^<<v10-23-15,15>>^ Davi revelou este desejo: “Quem me dera beber das águas do poço que está à porta de Belém!”.
+
+[[v10-23-16]]
+
+^<<v10-23-16,16>>^ Então os três valentes penetraram no acampamento dos filisteus e tiraram água do poço que está à porta de Belém. Trouxeram-na a Davi, mas ele não a quis beber e derramou-a em libação ao Senhor,
+
+[[v10-23-17]]
+
+^<<v10-23-17,17>>^ dizendo: “Longe de mim, ó Deus, fazer isso! Vou eu beber o sangue desses homens que para buscá-la arriscaram a sua vida?”. E não quis beber. Eis o que fizeram os três heróis:
+
+[[v10-23-18]]
+
+^<<v10-23-18,18>>^ Abisaí, irmão de Joab, filho de Sárvia, que era também chefe dos trinta, brandiu sua lança contra trezentos homens e os matou, conquistando assim grande renome entre os trinta.
+
+[[v10-23-19]]
+
+^<<v10-23-19,19>>^ Ele era o mais considerado dentre os trinta, mas não chegou a se igualar aos três.
+
+[[v10-23-20]]
+
+^<<v10-23-20,20>>^ Banaías, filho de Joiada, homem de valor e rico em façanhas, originário de Cabseel, feriu os dois filhos de Ariel de Moab. Foi ele também quem desceu, num dia de neve e matou um leão na cisterna.
+
+[[v10-23-21]]
+
+^<<v10-23-21,21>>^ Feriu ainda um egípcio de alta estatura, que tinha uma lança na mão. Banaías desceu contra ele com um simples bastão, arrancou-lhe a lança das mãos e o matou com a sua própria arma.
+
+[[v10-23-22]]
+
+^<<v10-23-22,22>>^ Isso fez Banaías, filho de Joiada, obtendo renome entre os heróis.
+
+[[v10-23-23]]
+
+^<<v10-23-23,23>>^ Foi mais considerado que os trinta, mas não igualou aos três. Davi pô-lo à frente de sua guarda.
+
+[[v10-23-24]]
+
+^<<v10-23-24,24>>^ Entre os trinta contavam-se Asael, irmão de Joab; Elcanã, filho de Dodô, de Belém;
+
+[[v10-23-25]]
+
+^<<v10-23-25,25>>^ Hosama de Harod; Elica de Harod;
+
+[[v10-23-26]]
+
+^<<v10-23-26,26>>^ Heles de Falti; Hira, filho de Aces de Tícua;
+
+[[v10-23-27]]
+
+^<<v10-23-27,27>>^ Abiezer de Anatot; Mobonai, o husatita;
+
+[[v10-23-28]]
+
+^<<v10-23-28,28>>^ Selmon, o aoíta; Maarai de Netofa;
+
+[[v10-23-29]]
+
+^<<v10-23-29,29>>^ Héled, filho de Baana de Netofa; Etai, filho de Ribai de Gabaá dos benjaminitas;
+
+[[v10-23-30]]
+
+^<<v10-23-30,30>>^ Banaías de Faraton; Hedai do vale de Gaás;
+
+[[v10-23-31]]
+
+^<<v10-23-31,31>>^ Abi-Albon de Arabá;
+
+[[v10-23-32]]
+
+^<<v10-23-32,32>>^ Azmavet de Berom; Eliaba de Salabon; Bene-Jassen;
+
+[[v10-23-33]]
+
+^<<v10-23-33,33>>^ Jônatas; Hosama, o ararita; Aião, filho de Sarar, o ararita;
+
+[[v10-23-34]]
+
+^<<v10-23-34,34>>^ Elifelet, filho de Aasbai, o macatita; Eliam, filho de Aquitofel de Gilo;
+
+[[v10-23-35]]
+
+^<<v10-23-35,35>>^ Hesrai de Carmelo;
+
+[[v10-23-36]]
+
+^<<v10-23-36,36>>^ Farai de Arbi; Igaal, filho de Natã de Soba; Boni de Gad;
+
+[[v10-23-37]]
+
+^<<v10-23-37,37>>^ Selec, o amonita; Naarai de Berot, escudeiro de Joab, filho de Sárvia;
+
+[[v10-23-38]]
+
+^<<v10-23-38,38>>^ Ira de Jeter; Gareb de Jeter;
+
+[[v10-23-39]]
+
+^<<v10-23-39,39>>^ Urias, o hiteu. Trinta e sete ao todo.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-022.adoc#v10-22-0[&#60; Capítulo Anterior] | <<v10-23-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-024.adoc#v10-24-0[Próximo Capítulo &#62;]

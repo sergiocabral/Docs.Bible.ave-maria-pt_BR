@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v21-109-0]]
+=== Salmos, 109
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 109 é uma oração do salmista pedindo a Deus para defender e vingá-lo dos seus inimigos que o têm caluniado e perseguindo injustamente. Os versículos relacionados com os temas do capítulo são:
+* Provérbios 3:30: "Não contendas com alguém sem motivo, se ele não te fez mal." O salmista clama por justiça e vingança contra seus inimigos, mas este versículo de Provérbios nos lembra que devemos evitar contendas sem motivo.
+* Mateus 5:44: "Eu, porém, vos digo: amai os vossos inimigos e orai pelos que vos perseguem." Jesus nos ensina a amar e orar pelos nossos inimigos, mesmo quando eles nos perseguem e caluniam injustamente.
+* Romanos 12:19: "Não vos vingueis a vós mesmos, amados, mas dai lugar à ira de Deus, porque está escrito: Minha é a vingança; eu recompensarei, diz o Senhor." O salmista clama por vingança contra seus inimigos, mas aqui Paulo nos exorta a deixar a vingança nas mãos de Deus.
+* 2 Timóteo 4:14: "Alejandro, o ferreiro, causou-me muitos males; o Senhor lhe pague segundo as suas obras." Paulo pede a Deus para julgar e punir aqueles que lhe fizeram mal, o que se relaciona com o desejo do salmista de ver seus inimigos julgados e punidos.
+* 1 Pedro 2:23: "Quando injuriado, não injuriava, e quando padecia, não ameaçava, mas entregava-se àquele que julga justamente." Jesus é nosso exemplo de paciência e humildade diante da perseguição injusta, e Pedro nos exorta a seguir o Seu exemplo.
+****
+
+[[v21-109-1]]
+
+^<<v21-109-1,1>>^ Salmo de Davi. Eis o oráculo do Senhor que se dirige a meu Senhor: “Assenta-te à minha direita, até que eu faça de teus inimigos o escabelo de teus pés”.^&#42;1^
+
+[[v21-109-2]]
+
+^<<v21-109-2,2>>^ O Senhor estenderá desde Sião teu cetro poderoso: “Dominarás – disse ele –, até no meio de teus inimigos.
+
+[[v21-109-3]]
+
+^<<v21-109-3,3>>^ No dia de teu nascimento, já possuis a realeza no esplendor da santidade; semelhante ao orvalho, eu te gerei antes da aurora”.^&#42;1^
+
+[[v21-109-4]]
+
+^<<v21-109-4,4>>^ O Senhor jurou e não se arrependerá: “Tu és sacerdote para sempre, segundo a ordem de Melquisedec”.^&#42;1^
+
+[[v21-109-5]]
+
+^<<v21-109-5,5>>^ O Senhor está à tua direita: ele destruirá os reis no dia de sua cólera.
+
+[[v21-109-6]]
+
+^<<v21-109-6,6>>^ Julgará os povos pagãos, empilhará cadáveres; por toda a terra esmagará cabeças.
+
+[[v21-109-7]]
+
+^<<v21-109-7,7>>^ Beberá da torrente no caminho; por isso, erguerá a sua fronte.^&#42;1^
+
+'''
+
+xref:021-salmos/021-salmos-108.adoc#v21-108-0[&#60; Capítulo Anterior] | <<v21-109-0,Topo>> | xref:021-salmos/021-salmos-110.adoc#v21-110-0[Próximo Capítulo &#62;]

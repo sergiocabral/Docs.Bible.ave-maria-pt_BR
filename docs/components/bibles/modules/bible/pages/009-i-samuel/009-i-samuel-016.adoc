@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v9-16-0]]
+=== I Samuel, 16
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Samuel 16 narra a história de Deus rejeitando Saul como rei de Israel e enviando Samuel para ungir o jovem Davi como seu sucessor. O capítulo trata de temas como a escolha de Deus, a obediência, a importância do caráter e a liderança. A seguir estão cinco versículos relacionados com esses temas, em ordem de proximidade com o capítulo:
+* 1 Crônicas 28:4: "Porém o SENHOR Deus de Israel me escolheu de toda a casa de meu pai, para que perpetuamente fosse rei sobre Israel; porque a Judá escolheu por líder, e a casa de meu pai na casa de Judá; e entre os filhos de meu pai se agradou de mim para me fazer rei sobre todo o Israel." Esse versículo fala sobre a escolha divina de Davi para ser rei, que é um tema central em 1 Samuel 16.
+* 1 Samuel 15:22: "Porém Samuel disse: Tem porventura o SENHOR tanto prazer em holocaustos e sacrifícios, como em que se obedeça à palavra do SENHOR? Eis que o obedecer é melhor do que o sacrificar; e o atender melhor é do que a gordura de carneiros." Este versículo fala da importância da obediência à palavra de Deus, que é um tema importante em 1 Samuel 16, já que Samuel obedece a Deus ao ungir Davi como rei.
+* 1 Pedro 5:2: "Apascentai o rebanho de Deus, que está entre vós, não por força, mas voluntariamente; não por torpe ganância, mas de ânimo pronto." Este versículo fala da importância da liderança e da responsabilidade de cuidar do povo de Deus, como Davi foi escolhido para liderar e pastorear o povo de Israel como seu rei.
+* 1 Timóteo 3:2: "Convém, pois, que o bispo seja irrepreensível, marido de uma mulher, vigilante, sóbrio, honesto, hospitaleiro, apto para ensinar." Este versículo fala da importância do caráter e da integridade do líder, como Deus escolheu Davi por causa de seu coração reto.
+* Salmos 78:70-72: "Escolheu a Davi seu servo, e o tirou dos apriscos das ovelhas; trouxe-o de detrás das que estavam criando, para apascentar a Jacó, seu povo, e a Israel, sua herança. E ele os apascentou, segundo a integridade do seu coração, e os guiou pela perícia de suas mãos." Este versículo fala sobre a escolha de Deus de Davi como rei e como ele foi um líder justo e compassivo para o povo de Israel.
+****
+
+[[v9-16-1]]
+
+^<<v9-16-1,1>>^ O Senhor disse-lhe: “Até quando chorarás tu Saul, tendo-o eu rejeitado da realeza de Israel? Enche o teu corno de óleo. Vai; envio-te a Jessé de Belém, porque escolhi um rei entre os seus filhos”.
+
+[[v9-16-2]]
+
+^<<v9-16-2,2>>^ Samuel respondeu: “Como hei de ir? Se Saul souber, ele me matará”. O Senhor disse: “Levarás contigo uma novilha e dirás que vais oferecer um sacrifício ao Senhor.
+
+[[v9-16-3]]
+
+^<<v9-16-3,3>>^ Convidarás Jessé ao sacrifício e eu te mostrarei o que deverás fazer. Ungirás para mim aquele que eu mandar”.
+
+[[v9-16-4]]
+
+^<<v9-16-4,4>>^ Fez Samuel como o Senhor queria. Ao chegar a Belém, os anciãos da cidade vieram-lhe ao encontro, inquietos: “É de paz a tua vinda?” – perguntaram-lhe –.
+
+[[v9-16-5]]
+
+^<<v9-16-5,5>>^ “Sim” – disse ele –. “Venho oferecer um sacrifício ao Senhor. Purificai-vos para a cerimônia.” Ele mesmo purificou Jessé e seus filhos e os convidou ao sacrifício.
+
+[[v9-16-6]]
+
+^<<v9-16-6,6>>^ Logo que entraram, Samuel viu Eliab e pensou: “Certamente é esse o ungido do Senhor”.
+
+[[v9-16-7]]
+
+^<<v9-16-7,7>>^ Mas, o Senhor disse-lhe: “Não te deixes impressionar pelo seu belo aspecto, nem pela sua alta estatura, porque eu o rejeitei. O que o homem vê não é o que importa: o homem vê a face, mas o Senhor olha o coração”.
+
+[[v9-16-8]]
+
+^<<v9-16-8,8>>^ Jessé chamou Abinadab e fê-lo passar diante de Samuel. “Não é tampouco este – pensou Samuel – que o Senhor escolheu.”
+
+[[v9-16-9]]
+
+^<<v9-16-9,9>>^ Jessé fez passar Hosama. “Não é ainda este que escolheu o Senhor” – pensou Samuel.
+
+[[v9-16-10]]
+
+^<<v9-16-10,10>>^ Jessé mandou vir assim os seus sete filhos diante do profeta, que lhe disse: “O Senhor não escolheu nenhum deles”.
+
+[[v9-16-11]]
+
+^<<v9-16-11,11>>^ E ajuntou: “Estão aqui todos os teus filhos?”. “Resta ainda o mais novo – confessou Jessé –, que está pastoreando as ovelhas.” Samuel ordenou a Jessé: “Manda buscá-lo, pois não nos poremos à mesa antes que ele esteja aqui”.
+
+[[v9-16-12]]
+
+^<<v9-16-12,12>>^ E Jessé mandou buscá-lo. Ele era louro, de belos olhos e de formosa aparência. O Senhor disse: “Vamos, unge-o: é ele”.
+
+[[v9-16-13]]
+
+^<<v9-16-13,13>>^ Samuel tomou o corno de óleo e ungiu-o no meio dos seus irmãos. E, a partir daquele momento, o Espírito do Senhor apoderou-se de Davi. Samuel, porém, retomou o caminho de Ramá.
+
+[[v9-16-14]]
+
+^<<v9-16-14,14>>^ O Espírito do Senhor retirou-se de Saul e um espírito mau veio sobre ele, enviado pelo Senhor.
+
+[[v9-16-15]]
+
+^<<v9-16-15,15>>^ Os homens de Saul disseram-lhe: “Eis que um mau espírito de Deus veio sobre ti.
+
+[[v9-16-16]]
+
+^<<v9-16-16,16>>^ Que nosso senhor ordene e teus servos aqui presentes procurarão um homem que saiba tocar harpa e, quando o mau espírito de Deus estiver sobre ti ele tocará o instrumento para acalmar-te”.
+
+[[v9-16-17]]
+
+^<<v9-16-17,17>>^ “Está bem – respondeu Saul –, procurai-me um bom músico e trazei-mo.”
+
+[[v9-16-18]]
+
+^<<v9-16-18,18>>^ Um dos servos declarou: “Conheço um filho de Jessé de Belém que sabe tocar muito bem: é valente e forte, fala bem, tem um belo rosto e o Senhor está com ele”.
+
+[[v9-16-19]]
+
+^<<v9-16-19,19>>^ Saul mandou mensageiros a Jessé, para dizer-lhe: “Manda-me o teu filho Davi, o pastor”.
+
+[[v9-16-20]]
+
+^<<v9-16-20,20>>^ Jessé tomou um jumento carregado com pão, um odre de vinho e um cabrito e mandou esses presentes a Saul, por seu filho.
+
+[[v9-16-21]]
+
+^<<v9-16-21,21>>^ Davi chegou à casa do rei e apresentou-se a ele. Saul afeiçoou-se a Davi e o fez seu escudeiro.
+
+[[v9-16-22]]
+
+^<<v9-16-22,22>>^ Mandou então dizer a Jessé: “Peço-te que deixes Davi a meu serviço, porque ele me é simpático”.
+
+[[v9-16-23]]
+
+^<<v9-16-23,23>>^ E sempre que o espírito mau de Deus acometia o rei, Davi tomava a harpa e tocava. Saul acalmava-se, sentia-se aliviado e o espírito mau o deixava.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-015.adoc#v9-15-0[&#60; Capítulo Anterior] | <<v9-16-0,Topo>> | xref:009-i-samuel/009-i-samuel-017.adoc#v9-17-0[Próximo Capítulo &#62;]

@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v1-28-0]]
+=== Gênesis, 28
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 28 relata o início da jornada de Jacó, onde ele foge da ira de seu irmão Esaú e tem um encontro com Deus em um sonho, recebendo uma promessa de bênção. Os temas principais abordados incluem a importância das bênçãos divinas, a presença de Deus em nossas vidas e a fidelidade de Deus em cumprir suas promessas.
+* Salmos 139:7-10: "Para onde me ausentarei do teu Espírito? Para onde fugirei da tua face? Se subo aos céus, lá estás; se faço a minha cama no mais profundo abismo, lá estás também; se tomo as asas da alvorada e me detenho nos confins dos mares, ainda lá me haverá de guiar a tua mão, e a tua destra me susterá." Esse versículo fala sobre a presença constante de Deus em nossas vidas, não importa onde estejamos ou o que estejamos passando.
+* Deuteronômio 31:6: "Sê forte e corajoso, não temas, nem te espantes diante deles, porque o Senhor teu Deus é contigo; não te deixará, nem te desamparará." Essa passagem reforça a mensagem de que Deus está sempre conosco e nos protege em todas as situações, assim como Ele protegeu Jacó em sua jornada.
+* Hebreus 13:5: "Sê constante no amor fraternal. Não negligencies a hospitalidade, pois alguns, praticando-a, sem o saber acolheram anjos." Este versículo fala sobre a importância de sermos hospitaleiros e amorosos com as pessoas ao nosso redor, pois assim como Jacó teve um encontro com Deus enquanto estava em uma jornada, também podemos ter encontros com Ele através de nossas interações com outras pessoas.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Essa passagem reforça a mensagem de que Deus é fiel em cumprir suas promessas e que podemos confiar em sua presença e ajuda em todas as circunstâncias.
+* João 1:51: "Em verdade, em verdade vos digo que vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem." Esse versículo é uma referência ao sonho de Jacó, onde ele viu uma escada que se estendia do céu à terra e os anjos subindo e descendo. Ele nos lembra que Jesus é a escada que nos leva ao céu e que Ele é a conexão entre Deus e a humanidade.
+****
+
+[[v1-28-1]]
+
+^<<v1-28-1,1>>^ Isaac chamou Jacó e o abençoou, dando-lhe esta ordem: “Não desposarás uma filha de Canaã.
+
+[[v1-28-2]]
+
+^<<v1-28-2,2>>^ Mas vai a Padã-Aram, à casa de Batuel, pai de tua mãe, e escolhe lá uma mulher entre as filhas de Labão, irmão de tua mãe.
+
+[[v1-28-3]]
+
+^<<v1-28-3,3>>^ Deus Todo-poderoso te abençoe, te faça crescer e multiplicar, de sorte que te tornes uma multidão de povos.
+
+[[v1-28-4]]
+
+^<<v1-28-4,4>>^ Conceda-te ele, como também à tua posteridade, a bênção de Abraão, a fim de que possuas a terra onde moras, e que Deus deu a Abraão”.
+
+[[v1-28-5]]
+
+^<<v1-28-5,5>>^ Isaac despediu Jacó, e este partiu para Padã-Aram, para a casa de Labão, filho de Batuel, o arameu, irmão de Rebeca, mãe de Jacó e de Esaú.
+
+[[v1-28-6]]
+
+^<<v1-28-6,6>>^ Ora, Esaú viu que seu pai tinha abençoado Jacó, e o tinha enviado a Padã-Aram para ali tomar uma mulher e que, depois de o ter abençoado, lhe proibira desposar uma filha de Canaã.
+
+[[v1-28-7]]
+
+^<<v1-28-7,7>>^ Viu também que Jacó, obedecendo aos seus pais, partira para Padã-Aram.
+
+[[v1-28-8]]
+
+^<<v1-28-8,8>>^ E, compreendendo que as filhas de Canaã não eram bem vistas pelo seu pai,
+
+[[v1-28-9]]
+
+^<<v1-28-9,9>>^ foi à casa de Ismael e tomou por mulher, além daquelas que já tinha, a Maelet, filha de Ismael, filho de Abraão, irmã de Nabaiot.
+
+[[v1-28-10]]
+
+^<<v1-28-10,10>>^ Jacó, partindo de Bersabeia, tomou o caminho de Harã.
+
+[[v1-28-11]]
+
+^<<v1-28-11,11>>^ Chegou a um lugar, e ali passou a noite, porque o sol já se tinha posto. Serviu-se como travesseiro de uma das pedras que ali se encontravam, e dormiu naquele mesmo lugar.
+
+[[v1-28-12]]
+
+^<<v1-28-12,12>>^ E teve um sonho: via uma escada, que, apoiando-se na terra, tocava com o cimo o céu; e anjos de Deus subiam e desciam pela escada. No alto estava o Senhor,^&#42;1^
+
+[[v1-28-13]]
+
+^<<v1-28-13,13>>^ que lhe dizia: “Eu sou o Senhor, o Deus de Abraão, teu pai e o Deus de Isaac; darei a ti e à tua descendência a terra em que estás deitado.
+
+[[v1-28-14]]
+
+^<<v1-28-14,14>>^ Tua posteridade será tão numerosa como os grãos de poeira no solo; tu te estenderás, para o ocidente e para o oriente, para o norte e para o meio-dia, e todas as famílias da terra serão benditas em ti e em tua posteridade.
+
+[[v1-28-15]]
+
+^<<v1-28-15,15>>^ Estou contigo, para te guardar aonde quer que fores, e te reconduzirei a esta terra, e não te abandonarei sem ter cumprido o que te prometi”.
+
+[[v1-28-16]]
+
+^<<v1-28-16,16>>^ Jacó, despertando de seu sono, exclamou: “Em verdade, o Senhor está neste lugar, e eu não o sabia!”.
+
+[[v1-28-17]]
+
+^<<v1-28-17,17>>^ E, cheio de pavor, ajuntou: “Quão terrível é este lugar! É nada menos que a casa de Deus; é aqui, a porta do céu”.
+
+[[v1-28-18]]
+
+^<<v1-28-18,18>>^ No dia seguinte, pela manhã, tomou Jacó a pedra: sobre a qual repousara a cabeça e a erigiu em estela, derramando óleo sobre ela.
+
+[[v1-28-19]]
+
+^<<v1-28-19,19>>^ Deu o nome de Betel a este lugar, que antes se chamava Luz.^&#42;1^
+
+[[v1-28-20]]
+
+^<<v1-28-20,20>>^ Jacó fez então este voto: “Se Deus for comigo, se ele me guardar durante esta viagem que empreendi, e me der pão para comer e roupa para vestir,
+
+[[v1-28-21]]
+
+^<<v1-28-21,21>>^ e me fizer voltar em paz à casa paterna, então o Senhor será o meu Deus.
+
+[[v1-28-22]]
+
+^<<v1-28-22,22>>^ Esta pedra da qual fiz uma estela será uma casa de Deus, e pagarei o dízimo de tudo o que me derdes”.
+
+'''
+
+xref:001-genesis/001-genesis-027.adoc#v1-27-0[&#60; Capítulo Anterior] | <<v1-28-0,Topo>> | xref:001-genesis/001-genesis-029.adoc#v1-29-0[Próximo Capítulo &#62;]

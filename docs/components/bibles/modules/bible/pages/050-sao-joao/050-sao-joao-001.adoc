@@ -1,0 +1,223 @@
+include::./index.adoc[]
+
+[[v50-1-0]]
+=== São João, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 1 do Evangelho de João apresenta Jesus como a Palavra de Deus encarnada, que veio para iluminar a todos e revelar a graça e a verdade de Deus ao mundo. Além disso, o capítulo apresenta o testemunho de João Batista a respeito de Jesus e a rejeição de Jesus pelos seus próprios. Seguem abaixo cinco versículos relacionados com os temas abordados em João 1:
+* Isaías 40:3: "Uma voz clama: ‘No deserto preparem o caminho para o Senhor; façam no ermo uma estrada para o nosso Deus.’" Este versículo é citado em João 1:23, quando João Batista se apresenta como aquele que cumpre a profecia de Isaías, preparando o caminho para o Messias.
+* João 3:19-20: "Este é o julgamento: a luz veio ao mundo, mas os homens amaram mais as trevas do que a luz, porque as suas obras eram más. Quem pratica o mal odeia a luz e não se aproxima da luz, temendo que as suas obras sejam expostas." Estes versículos se relacionam com o tema da luz apresentado em João 1:4-5, que afirma que "Nele estava a vida, e esta era a luz dos homens. A luz brilha nas trevas, e as trevas não a derrotaram".
+* João 5:39: "Vocês estudam cuidadosamente as Escrituras, porque pensam que nelas vocês têm a vida eterna. E são as Escrituras que testemunham a meu respeito". Este versículo se relaciona com a ideia apresentada em João 1:1-2, de que Jesus é a Palavra de Deus que existia desde o princípio e estava com Deus.
+* Colossenses 1:15-17: "Ele é a imagem do Deus invisível, o primogênito de toda a criação, pois nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos ou soberanias, poderes ou autoridades; todas as coisas foram criadas por ele e para ele. Ele existe antes de todas as coisas, e nele todas as coisas subsistem." Estes versículos se relacionam com a afirmação de João 1:3 de que todas as coisas foram feitas por meio de Jesus e nada do que foi feito foi feito sem Ele.
+* Hebreus 1:1-2: "No passado Deus falou muitas vezes e de várias maneiras aos nossos antepassados por meio dos profetas, mas nestes últimos dias falou-nos por meio do Filho, a quem constituiu herdeiro de todas as coisas e por meio de quem fez o universo." Este versículo se relaciona com a ideia de João 1:14 de que a Palavra se fez carne e habitou entre nós, revelando a graça e a verdade de Deus ao mundo.
+****
+
+[[v50-1-1]]
+
+^<<v50-1-1,1>>^ No princípio era o Verbo, e o Verbo estava junto de Deus e o Verbo era Deus.^&#42;1^
+
+[[v50-1-2]]
+
+^<<v50-1-2,2>>^ Ele estava no princípio junto de Deus.
+
+[[v50-1-3]]
+
+^<<v50-1-3,3>>^ Tudo foi feito por ele, e sem ele nada foi feito.^&#42;1^
+
+[[v50-1-4]]
+
+^<<v50-1-4,4>>^ Nele havia vida, e a vida era a luz dos homens.
+
+[[v50-1-5]]
+
+^<<v50-1-5,5>>^ A luz resplandece nas trevas, e as trevas não a compreenderam.^&#42;1^
+
+[[v50-1-6]]
+
+^<<v50-1-6,6>>^ Houve um homem, enviado por Deus, que se chamava João.
+
+[[v50-1-7]]
+
+^<<v50-1-7,7>>^ Este veio como testemunha, para dar testemunho da luz, a fim de que todos cressem por meio dele.
+
+[[v50-1-8]]
+
+^<<v50-1-8,8>>^ Não era ele a luz, mas veio para dar testemunho da luz.
+
+[[v50-1-9]]
+
+^<<v50-1-9,9>>^ [O Verbo] era a verdadeira luz que, vindo ao mundo, ilumina todo homem.^&#42;1^
+
+[[v50-1-10]]
+
+^<<v50-1-10,10>>^ Estava no mundo e o mundo foi feito por ele, e o mundo não o reconheceu.
+
+[[v50-1-11]]
+
+^<<v50-1-11,11>>^ Veio para o que era seu, mas os seus não o receberam.
+
+[[v50-1-12]]
+
+^<<v50-1-12,12>>^ Mas a todos aqueles que o receberam, aos que creem no seu nome, deu-lhes o poder de se tornarem filhos de Deus,
+
+[[v50-1-13]]
+
+^<<v50-1-13,13>>^ os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas sim de Deus.^&#42;1^
+
+[[v50-1-14]]
+
+^<<v50-1-14,14>>^ E o Verbo se fez carne e habitou entre nós, e vimos sua glória, a glória que o Filho único recebe do seu Pai, cheio de graça e de verdade.
+
+[[v50-1-15]]
+
+^<<v50-1-15,15>>^ João dá testemunho dele, e exclama: “Eis aquele de quem eu disse: O que vem depois de mim é maior do que eu, porque existia antes de mim”.
+
+[[v50-1-16]]
+
+^<<v50-1-16,16>>^ Todos nós recebemos da sua plenitude graça sobre graça.^&#42;1^
+
+[[v50-1-17]]
+
+^<<v50-1-17,17>>^ Pois a Lei foi dada por Moisés, a graça e a verdade vieram por Jesus Cristo.
+
+[[v50-1-18]]
+
+^<<v50-1-18,18>>^ Ninguém jamais viu Deus. O Filho único, que está no seio do Pai, foi quem o revelou. (= Mt 3,1-17 = Mc 1,1-13 = Lc 3,1-17)
+
+[[v50-1-19]]
+
+^<<v50-1-19,19>>^ Este foi o testemunho de João, quando os judeus lhe enviaram de Jerusalém sacerdotes e levitas para perguntar-lhe: “Quem és tu?”.
+
+[[v50-1-20]]
+
+^<<v50-1-20,20>>^ Ele fez esta declaração que confirmou sem hesitar: “Eu não sou o Cristo”. –
+
+[[v50-1-21]]
+
+^<<v50-1-21,21>>^ “Pois, então, quem és?” – perguntaram-lhe eles. “És tu Elias?”. Disse ele: “Não o sou”. “És tu o profeta?” Ele respondeu: “Não”.^&#42;1^
+
+[[v50-1-22]]
+
+^<<v50-1-22,22>>^ Perguntaram-lhe de novo: “Dize-nos, afinal, quem és, para que possamos dar uma resposta aos que nos enviaram. Que dizes de ti mesmo?”.
+
+[[v50-1-23]]
+
+^<<v50-1-23,23>>^ Ele respondeu: “Eu sou a voz que clama no deserto: Endireitai o caminho do Senhor, como o disse o profeta Isaías” (40,3).
+
+[[v50-1-24]]
+
+^<<v50-1-24,24>>^ Alguns dos emissários eram fariseus.
+
+[[v50-1-25]]
+
+^<<v50-1-25,25>>^ Continuaram a perguntar-lhe: “Como, pois, batizas, se tu não és o Cristo, nem Elias, nem o profeta?”.
+
+[[v50-1-26]]
+
+^<<v50-1-26,26>>^ João respondeu: “Eu batizo com água, mas no meio de vós está quem vós não conheceis.
+
+[[v50-1-27]]
+
+^<<v50-1-27,27>>^ Esse é quem vem depois de mim; e eu não sou digno de lhe desatar a correia do calçado”.
+
+[[v50-1-28]]
+
+^<<v50-1-28,28>>^ Esse diálogo se passou em Betânia, além do Jordão, onde João estava batizando.
+
+[[v50-1-29]]
+
+^<<v50-1-29,29>>^ No dia seguinte, João viu Jesus que vinha a ele e disse: “Eis o Cordeiro de Deus, que tira o pecado do mundo.^&#42;1^
+
+[[v50-1-30]]
+
+^<<v50-1-30,30>>^ É este de quem eu disse: Depois de mim virá um homem, que me é superior, porque existe antes de mim.
+
+[[v50-1-31]]
+
+^<<v50-1-31,31>>^ Eu não o conhecia, mas, se vim batizar em água, é para que ele se torne conhecido em Israel”.
+
+[[v50-1-32]]
+
+^<<v50-1-32,32>>^ (João havia declarado: “Vi o Espírito descer do céu em forma de uma pomba e repousar sobre ele”.)
+
+[[v50-1-33]]
+
+^<<v50-1-33,33>>^ Eu não o conhecia, mas aquele que me mandou batizar com água disse-me: Sobre quem vires descer e repousar o Espírito, este é quem batiza no Espírito Santo.
+
+[[v50-1-34]]
+
+^<<v50-1-34,34>>^ Eu o vi e dou testemunho de que ele é o Filho de Deus”.
+
+[[v50-1-35]]
+
+^<<v50-1-35,35>>^ No dia seguinte, estava lá João outra vez com dois dos seus discípulos.
+
+[[v50-1-36]]
+
+^<<v50-1-36,36>>^ E, avistando Jesus que ia passando, disse: “Eis o Cordeiro de Deus”.
+
+[[v50-1-37]]
+
+^<<v50-1-37,37>>^ Os dois discípulos ouviram-no falar e seguiram Jesus.
+
+[[v50-1-38]]
+
+^<<v50-1-38,38>>^ Voltando-se Jesus e vendo que o seguiam, perguntou-lhes: “Que procurais?”. Disseram-lhe: “Rabi (que quer dizer Mestre), onde moras?”. –
+
+[[v50-1-39]]
+
+^<<v50-1-39,39>>^ “Vinde e vede” – respondeu-lhes ele. Foram aonde ele morava e ficaram com ele aquele dia. Era cerca da hora décima.^&#42;1^
+
+[[v50-1-40]]
+
+^<<v50-1-40,40>>^ André, irmão de Simão Pedro, era um dos dois que tinham ouvido João e que o tinham seguido.^&#42;1^
+
+[[v50-1-41]]
+
+^<<v50-1-41,41>>^ Foi ele então logo à procura de seu irmão e disse-lhe: “Achamos o Messias (que quer dizer o Cristo)”.
+
+[[v50-1-42]]
+
+^<<v50-1-42,42>>^ Levou-o a Jesus, e Jesus, fixando nele o olhar, disse: “Tu és Simão, filho de João; serás chamado Cefas (que quer dizer pedra)”.
+
+[[v50-1-43]]
+
+^<<v50-1-43,43>>^ No dia seguinte, tinha Jesus a intenção de dirigir-se à Galileia. Encontra Filipe e diz-lhe: “Segue-me”.
+
+[[v50-1-44]]
+
+^<<v50-1-44,44>>^ (Filipe era natural de Betsaida, cidade de André e Pedro.)
+
+[[v50-1-45]]
+
+^<<v50-1-45,45>>^ Filipe encontra Natanael e diz-lhe: “Achamos aquele de quem Moisés escreveu na Lei e que os profetas anunciaram: é Jesus de Nazaré, filho de José”.^&#42;1^
+
+[[v50-1-46]]
+
+^<<v50-1-46,46>>^ Respondeu-lhe Natanael: “Pode, porventura, vir coisa boa de Nazaré?” Filipe retrucou: “Vem e vê”.
+
+[[v50-1-47]]
+
+^<<v50-1-47,47>>^ Jesus vê Natanael, que lhe vem ao encontro, e diz: “Eis um verdadeiro israelita, no qual não há falsidade”.^&#42;1^
+
+[[v50-1-48]]
+
+^<<v50-1-48,48>>^ Natanael pergunta-lhe: “Donde me conheces?” Respondeu Jesus: “Antes que Filipe te chamasse, eu te vi quando estavas debaixo da figueira”.
+
+[[v50-1-49]]
+
+^<<v50-1-49,49>>^ Falou-lhe Natanael: “Mestre, tu és o Filho de Deus, tu és o rei de Israel”.
+
+[[v50-1-50]]
+
+^<<v50-1-50,50>>^ Jesus replicou-lhe: “Porque eu te disse que te vi debaixo da figueira, crês! Verás coisas maiores do que esta”.
+
+[[v50-1-51]]
+
+^<<v50-1-51,51>>^ E ajuntou: “Em verdade, em verdade vos digo: vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem”.
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-024.adoc#v49-24-0[&#60; Capítulo Anterior] | <<v50-1-0,Topo>> | xref:050-sao-joao/050-sao-joao-002.adoc#v50-2-0[Próximo Capítulo &#62;]

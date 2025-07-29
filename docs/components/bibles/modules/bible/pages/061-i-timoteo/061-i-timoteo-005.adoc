@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v61-5-0]]
+=== I Timóteo, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Timóteo 5 trata de questões relacionadas à conduta dos líderes da igreja, cuidado com os mais velhos, cuidado com as viúvas e disciplina na igreja. A seguir estão cinco versículos da Bíblia que se relacionam com esses temas e que não fazem parte de 1 Timóteo 5:
+* 1 Pedro 5:1-2: "Portanto, aos presbíteros que há entre vós, rogo eu, presbítero como eles, e testemunha dos sofrimentos de Cristo, e ainda co-participante da glória que há de ser revelada: pastoreai o rebanho de Deus que há entre vós, não por constrangimento, mas espontaneamente, como Deus quer; nem por sórdida ganância, mas de boa vontade." Pedro fala aqui sobre a responsabilidade dos presbíteros (ou anciãos) de pastorear o rebanho de Deus de forma voluntária e não por motivos egoístas.
+* Mateus 15:4: "Porque Deus ordenou: Honra a teu pai e a tua mãe; e: Quem maldisser a seu pai ou a sua mãe, certamente morrerá." Neste versículo, Jesus cita o mandamento de honrar pai e mãe, que é importante para o cuidado com os mais velhos mencionado em 1 Timóteo 5.
+* Tiago 1:27: "A religião pura e sem mácula, para com o nosso Deus e Pai, é esta: visitar os órfãos e as viúvas nas suas tribulações e a si mesmo guardar-se incontaminado do mundo." Tiago enfatiza aqui a importância de cuidar das viúvas e órfãos, o que é um tema importante em 1 Timóteo 5.
+* 2 Coríntios 2:6-8: "Basta-lhe a punição que lhe foi infligida pela maioria; pelo que, pelo contrário, deveis antes perdoar-lhe e consolá-lo, para que não seja o tal consumido por excessiva tristeza. Pelo que vos rogo que confirmeis para com ele o vosso amor." Paulo fala aqui sobre a importância da disciplina na igreja, mas também enfatiza a necessidade de perdão e consolo.
+* Filipenses 2:14-16: "Fazei tudo sem murmurações nem contendas; para que vos torneis irrepreensíveis e sinceros, filhos de Deus inculpáveis no meio de uma geração pervertida e corrupta, na qual resplandeceis como luzeiros no mundo, preservando a palavra da vida." Paulo fala aqui sobre a importância da conduta irrepreensível dos cristãos diante de um mundo corrompido, o que é relevante para a discussão sobre a conduta dos líderes na igreja em 1 Timóteo 5.
+****
+
+[[v61-5-1]]
+
+^<<v61-5-1,1>>^ Ao ancião não repreendas com aspereza, mas adverte-o como a um pai, aos moços como a irmãos,
+
+[[v61-5-2]]
+
+^<<v61-5-2,2>>^ às mulheres de idade como a mães, às jovens como a irmãs, com toda a pureza.
+
+[[v61-5-3]]
+
+^<<v61-5-3,3>>^ Honra as viúvas que são realmente viúvas.^&#42;1^
+
+[[v61-5-4]]
+
+^<<v61-5-4,4>>^ Se uma viúva tem filhos ou netos, como primeira obrigação aprendam estes a exercer com a própria família o dever da piedade filial e a retribuir aos pais o que deles receberam, porque isto é agradável a Deus.
+
+[[v61-5-5]]
+
+^<<v61-5-5,5>>^ Mas a que verdadeiramente é viúva e desamparada, põe a sua esperança em Deus e persevera noite e dia em orações e súplicas.
+
+[[v61-5-6]]
+
+^<<v61-5-6,6>>^ Aquela, pelo contrário, que vive nos prazeres, embora viva, está morta.
+
+[[v61-5-7]]
+
+^<<v61-5-7,7>>^ Recorda-lhes isto, para que sejam irrepreensíveis.
+
+[[v61-5-8]]
+
+^<<v61-5-8,8>>^ Quem se descuida dos seus, e principalmente dos de sua própria família, é um renegado, pior que um infiel.
+
+[[v61-5-9]]
+
+^<<v61-5-9,9>>^ Poderá ser inscrita como viúva apenas quem tenha pelo menos sessenta anos de idade, casada uma só vez,
+
+[[v61-5-10]]
+
+^<<v61-5-10,10>>^ conhecida pelo seu bom comportamento, tenha educado bem os filhos, exercido a hospitalidade, lavado os pés dos santos, socorrido os infelizes e praticado toda espécie de boas obras.
+
+[[v61-5-11]]
+
+^<<v61-5-11,11>>^ Não admitas viúvas jovens, porque, ao sentirem os atrativos da paixão contrária a Cristo, quererão casar-se outra vez
+
+[[v61-5-12]]
+
+^<<v61-5-12,12>>^ e incorrerão na censura de ter violado o primeiro compromisso.^&#42;1^
+
+[[v61-5-13]]
+
+^<<v61-5-13,13>>^ Além disso, habituam-se a andar ociosas de casa em casa; e não só ociosas, mas também indiscretas e curiosas, falando coisas que não devem.
+
+[[v61-5-14]]
+
+^<<v61-5-14,14>>^ Quero, pois, que as viúvas jovens se casem, cumpram os deveres de mãe e cuidem do próprio lar, para não dar a ninguém ensejo de crítica.
+
+[[v61-5-15]]
+
+^<<v61-5-15,15>>^ Algumas já se perverteram, para irem após Satanás.
+
+[[v61-5-16]]
+
+^<<v61-5-16,16>>^ Se algum fiel tem viúvas em casa, procure dar-lhes assistência, de tal maneira que elas não sejam um peso para a Igreja, a fim de que esta possa socorrer as que verdadeiramente são viúvas.
+
+[[v61-5-17]]
+
+^<<v61-5-17,17>>^ Os presbíteros que desempenham bem o encargo de presidir sejam honrados com dupla remuneração, principalmente os que trabalham na pregação e no ensino.
+
+[[v61-5-18]]
+
+^<<v61-5-18,18>>^ Pois diz a Escritura: Não atarás a boca ao boi quando ele pisar o grão (Dt 25,4); e ainda: O operário é digno do seu salário (Lc 10,7).
+
+[[v61-5-19]]
+
+^<<v61-5-19,19>>^ Não recebas acusação contra um presbítero, senão por duas ou três testemunhas.
+
+[[v61-5-20]]
+
+^<<v61-5-20,20>>^ Aos que faltam às suas obrigações, repreende-os diante de todos, para que também os demais se atemorizem.
+
+[[v61-5-21]]
+
+^<<v61-5-21,21>>^ Eu te conjuro, diante de Deus e de Cristo Jesus e dos anjos escolhidos, a que guardes essas regras sem prevenção, nada fazendo por espírito de parcialidade.
+
+[[v61-5-22]]
+
+^<<v61-5-22,22>>^ A ninguém imponhas as mãos inconsideradamente, para que não venhas a tornar-te cúmplice dos pecados alheios. Conserva-te puro.
+
+[[v61-5-23]]
+
+^<<v61-5-23,23>>^ Não continues a beber só água, mas toma também um pouco de vinho, por causa do teu estômago e das tuas frequentes indisposições.
+
+[[v61-5-24]]
+
+^<<v61-5-24,24>>^ Os pecados dos homens às vezes são conhecidos já antes de levados a juízo; outras vezes o serão depois.
+
+[[v61-5-25]]
+
+^<<v61-5-25,25>>^ Da mesma forma, as boas obras: ou já são manifestas ou não poderão permanecer ocultas.
+
+'''
+
+xref:061-i-timoteo/061-i-timoteo-004.adoc#v61-4-0[&#60; Capítulo Anterior] | <<v61-5-0,Topo>> | xref:061-i-timoteo/061-i-timoteo-006.adoc#v61-6-0[Próximo Capítulo &#62;]

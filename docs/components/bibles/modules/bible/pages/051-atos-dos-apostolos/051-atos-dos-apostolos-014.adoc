@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v51-14-0]]
+=== Atos dos Apóstolos, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em Atos dos Apóstolos 14, Paulo e Barnabé continuam a sua jornada missionária, pregando o evangelho em várias cidades. No entanto, eles também enfrentam oposição e perseguição por parte de alguns judeus e gentios. Abaixo estão cinco versículos relacionados com os temas abordados em Atos 14:
+* 2 Timóteo 3:12: "E todos os que desejam viver piedosamente em Cristo Jesus serão perseguidos." Este versículo mostra que a perseguição é uma realidade para aqueles que seguem a Cristo e pregam o evangelho.
+* João 15:18-19: "Se o mundo vos odeia, sabei que, primeiro do que a vós, me odiou a mim. Se vós fôsseis do mundo, o mundo amaria o que era seu, mas porque não sois do mundo, antes eu vos escolhi do mundo, por isso é que o mundo vos odeia." Jesus fala sobre a inimizade do mundo em relação a seus seguidores, que são escolhidos e separados do mundo.
+* 2 Coríntios 4:8-9: "Em tudo somos atribulados, mas não angustiados; perplexos, mas não desanimados. Perseguidos, mas não desamparados; abatidos, mas não destruídos." Este versículo mostra que mesmo em meio às dificuldades e perseguições, os cristãos não são derrotados.
+* Romanos 8:35-37: "Quem nos separará do amor de Cristo? A tribulação, ou a angústia, ou a perseguição, ou a fome, ou a nudez, ou o perigo, ou a espada? Como está escrito: Por amor de ti somos entregues à morte todo o dia; somos reputados como ovelhas para o matadouro. Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou." Paulo mostra que nada pode separar os cristãos do amor de Cristo, e que eles são mais do que vencedores em meio às tribulações.
+* Filipenses 1:29: "Porque a vós vos foi concedido, em relação a Cristo, não somente crer nele, como também padecer por ele." Este versículo mostra que o sofrimento e a perseguição fazem parte do chamado cristão, e que é uma graça concedida a eles em relação a Cristo.
+****
+
+[[v51-14-1]]
+
+^<<v51-14-1,1>>^ Em Icônio, Paulo e Barnabé, segundo seu costume, entraram na sinagoga dos judeus e ali pregaram, de tal modo que uma grande multidão de judeus e de gregos se converteu à fé.
+
+[[v51-14-2]]
+
+^<<v51-14-2,2>>^ Mas os judeus, que tinham permanecido incrédulos, excitaram os ânimos dos pagãos contra os irmãos.
+
+[[v51-14-3]]
+
+^<<v51-14-3,3>>^ Não obstante, eles se demoraram ali por muito tempo, falando com desassombro e confiança no Senhor, que dava testemunho à palavra da sua graça pelos milagres e prodígios que ele operava por mãos dos apóstolos.
+
+[[v51-14-4]]
+
+^<<v51-14-4,4>>^ A população da cidade achava-se dividida: uns eram pelos judeus, outros pelos apóstolos.
+
+[[v51-14-5]]
+
+^<<v51-14-5,5>>^ Mas como se tivesse levantado um motim dos gentios e dos judeus, com os seus chefes, para os ultrajar e apedrejar,
+
+[[v51-14-6]]
+
+^<<v51-14-6,6>>^ ao saberem disso, fugiram para as cidades da Licaônia, Listra e Derbe e suas circunvizinhanças.
+
+[[v51-14-7]]
+
+^<<v51-14-7,7>>^ Ali pregaram o Evangelho.
+
+[[v51-14-8]]
+
+^<<v51-14-8,8>>^ Em Listra, vivia um homem aleijado das pernas, coxo de nascença, que nunca tinha andado.
+
+[[v51-14-9]]
+
+^<<v51-14-9,9>>^ Sentado, ele ouvia Paulo pregar. Este, fixando nele os olhos e vendo que tinha fé para ser curado,
+
+[[v51-14-10]]
+
+^<<v51-14-10,10>>^ disse em alta voz: “Levanta-te direito sobre os teus pés!”. Ele deu um salto e pôs-se a andar.
+
+[[v51-14-11]]
+
+^<<v51-14-11,11>>^ Vendo a multidão o que Paulo fizera, levantou a voz, gritando em língua licaônica: “Deuses em figura de homens baixaram a nós!”.
+
+[[v51-14-12]]
+
+^<<v51-14-12,12>>^ Chamavam a Barnabé Zeus e a Paulo Hermes, porque era este quem dirigia a palavra.
+
+[[v51-14-13]]
+
+^<<v51-14-13,13>>^ Um sacerdote de Zeus Propóleos trouxe para as portas touros ornados de grinaldas, querendo, de acordo com todo o povo, sacrificar-lhos.^&#42;1^
+
+[[v51-14-14]]
+
+^<<v51-14-14,14>>^ Mas os apóstolos Barnabé e Paulo, ao perceberem isso, rasgaram as suas vestes e saltaram no meio da multidão:
+
+[[v51-14-15]]
+
+^<<v51-14-15,15>>^ “Homens” – clamavam eles –, “por que fazeis isso? Também nós somos homens, da mesma condição que vós, e pregamos justamente para que vos convertais das coisas vãs ao Deus vivo, que fez o céu, a terra, o mar e tudo quanto neles há.
+
+[[v51-14-16]]
+
+^<<v51-14-16,16>>^ Ele permitiu nos tempos passados que todas as nações seguissem os seus caminhos.
+
+[[v51-14-17]]
+
+^<<v51-14-17,17>>^ Contudo, nunca deixou de dar testemunho de si mesmo, por seus benefícios: dando-vos do céu as chuvas e os tempos férteis, concedendo abundante alimento e enchendo os vossos corações de alegria”.
+
+[[v51-14-18]]
+
+^<<v51-14-18,18>>^ Apesar dessas palavras, não foi sem dificuldade que contiveram a multidão de sacrificar a eles.
+
+[[v51-14-19]]
+
+^<<v51-14-19,19>>^ Sobrevieram, porém, alguns judeus de Antioquia e de Icônio que persuadiram a multidão. Apedrejaram Paulo e, dando-o por morto, arrastaram-no para fora da cidade.
+
+[[v51-14-20]]
+
+^<<v51-14-20,20>>^ Os discípulos o rodearam. Ele se levantou e entrou na cidade. No dia seguinte, partiu com Barnabé para Derbe.
+
+[[v51-14-21]]
+
+^<<v51-14-21,21>>^ Depois de ter pregado o Evangelho à cidade de Derbe, onde ganharam muitos discípulos, voltaram para Listra, Icônio e Antioquia (da Pisídia).
+
+[[v51-14-22]]
+
+^<<v51-14-22,22>>^ Confirmavam as almas dos discípulos e exortavam-nos a perseverar na fé, dizendo que é necessário entrarmos no Reino de Deus por meio de muitas tribulações.
+
+[[v51-14-23]]
+
+^<<v51-14-23,23>>^ Em cada igreja instituíram anciãos e, após orações com jejuns, encomendaram-nos ao Senhor, em quem tinham confiado.^&#42;1^
+
+[[v51-14-24]]
+
+^<<v51-14-24,24>>^ Atravessaram a Pisídia e chegaram a Panfília.
+
+[[v51-14-25]]
+
+^<<v51-14-25,25>>^ Depois de ter anunciado a palavra do Senhor em Perge, desceram a Atália.
+
+[[v51-14-26]]
+
+^<<v51-14-26,26>>^ Dali navegaram para Antioquia (da Síria), de onde tinham partido, encomendados à graça de Deus para a obra que estavam a completar.^&#42;1^
+
+[[v51-14-27]]
+
+^<<v51-14-27,27>>^ Ali chegados, reuniram a igreja e contaram quão grandes coisas Deus fizera com eles, e como abrira a porta da fé aos gentios.
+
+[[v51-14-28]]
+
+^<<v51-14-28,28>>^ Demoraram-se com os discípulos longo tempo.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-013.adoc#v51-13-0[&#60; Capítulo Anterior] | <<v51-14-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-015.adoc#v51-15-0[Próximo Capítulo &#62;]

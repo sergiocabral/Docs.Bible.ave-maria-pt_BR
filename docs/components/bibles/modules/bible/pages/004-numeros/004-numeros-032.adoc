@@ -1,0 +1,187 @@
+include::./index.adoc[]
+
+[[v4-32-0]]
+=== Números, 32
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 32 aborda a concessão da terra de Gileade para as tribos de Rúben e Gade, bem como para a metade da tribo de Manassés. Eles pedem para habitar a terra ao leste do rio Jordão, que era fértil para os seus rebanhos, e Moisés concorda sob a condição de que essas tribos ajudem as outras tribos a conquistar a terra de Canaã a oeste do Jordão. Abaixo estão cinco versículos relacionados aos temas abordados em Números 32.
+* Deuteronômio 3:18-20: "Naquela época ordenei a vocês que fizessem a seguinte declaração ao Senhor: ‘Ó Senhor Deus, você nos deu a terra a leste do Jordão como nossa propriedade para que a possamos possuir. ’ O Senhor seu Deus lhes respondeu: ‘Vocês estão certos em dizer que eu lhes dei essa terra. Portanto, enviem alguns homens para explorá-la e eles devem trazer um relatório sobre a terra que vão herdar.’" Este versículo descreve a concessão da terra a leste do Jordão e a ordem de Deus para que explorassem a terra antes de se estabelecerem nela.
+* Josué 22:4: "E agora que o Senhor, o seu Deus, deu aos seus irmãos o descanso que lhes prometeu, voltem para as terras que Moisés, servo do Senhor, lhes deu a leste do Jordão." Neste versículo, Josué está lembrando as tribos de Rúben, Gade e metade da tribo de Manassés sobre a concessão da terra a leste do Jordão.
+* Josué 22:9: "Então os rubenitas, os gaditas e a metade da tribo de Manassés deixaram os outros israelitas em Siló, em Canaã, para voltarem à terra de Gileade, que lhes pertencia, conforme havia ordenado Moisés, servo do Senhor." Este versículo mostra que as tribos de Rúben, Gade e metade da tribo de Manassés retornaram à sua terra concedida após ajudar a conquistar a terra a oeste do Jordão.
+* Josué 22:16: "Eles disseram: ‘Toda a comunidade do Senhor se reuniu aqui, e por que vocês estão se rebelando contra o Deus de Israel hoje, construindo um altar para se rebelar contra ele?’" Este versículo relata uma disputa entre as tribos de Rúben, Gade e metade da tribo de Manassés e as outras tribos de Israel devido a um mal-entendido sobre um altar que construíram.
+* Josué 22:33: "Os israelitas ficaram satisfeitos e não falaram mais sobre ir à guerra contra os rubenitas e os gaditas e destruir a terra em que eles viviam." Este versículo mostra que a disputa foi resolvida pacificamente, e as tribos de Rúben, Gade e metade da tribo de Manassés puderam permanecer em sua terra concedida a leste do Jordão.
+****
+
+[[v4-32-1]]
+
+^<<v4-32-1,1>>^ Os filhos de Rúben e os filhos de Gad tinham rebanhos em grande quantidade; e, vendo que a terra de Jazer e a terra de Galaad eram próprias para a criação dos animais,
+
+[[v4-32-2]]
+
+^<<v4-32-2,2>>^ vieram procurar Moisés, o sacerdote Eleazar e os chefes da assembleia, dizendo:
+
+[[v4-32-3]]
+
+^<<v4-32-3,3>>^ “Atarot, Dibon, Jazer, Nemra, Hesebon, Eleale, Sabam, Nebo e Beon,
+
+[[v4-32-4]]
+
+^<<v4-32-4,4>>^ terras que o Senhor feriu diante dos filhos de Israel, são uma terra própria para o pasto dos rebanhos; e teus servos têm muitos animais”.
+
+[[v4-32-5]]
+
+^<<v4-32-5,5>>^ E ajuntaram: “Se achamos graça diante de ti, seja dada essa terra em possessão aos teus servos, para que não tenhamos de atravessar o Jordão”.
+
+[[v4-32-6]]
+
+^<<v4-32-6,6>>^ Moisés respondeu-lhes: “Irão os vossos irmãos à guerra, e vós vos quedareis tranquilamente aqui?
+
+[[v4-32-7]]
+
+^<<v4-32-7,7>>^ Por que quereis desanimar os filhos de Israel, para que não entrem na terra que lhes deu o Senhor?
+
+[[v4-32-8]]
+
+^<<v4-32-8,8>>^ Foi justamente isso que fizeram os vossos pais quando os enviei de Cades Barne para explorar a terra:
+
+[[v4-32-9]]
+
+^<<v4-32-9,9>>^ foram até o vale de Escol, viram a terra, e depois tiraram aos israelitas o desejo de entrar na terra que o Senhor lhes tinha dado.
+
+[[v4-32-10]]
+
+^<<v4-32-10,10>>^ Por isso, naquele dia a cólera do Senhor se inflamou de tal modo que ele fez este juramento:
+
+[[v4-32-11]]
+
+^<<v4-32-11,11>>^ Os homens que subiram do Egito, da idade de vinte anos para cima, não verão jamais a terra que jurei dar a Abraão, a Isaac e a Jacó, porque não me seguiram com fidelidade,
+
+[[v4-32-12]]
+
+^<<v4-32-12,12>>^ exceto somente Caleb, filho de Jefoné, o cenezeu, e Josué, filho de Nun, que obedeceram sempre ao Senhor.
+
+[[v4-32-13]]
+
+^<<v4-32-13,13>>^ E o Senhor, irado contra Israel, fê-lo errar pelo deserto durante quarenta anos, até que se extinguisse toda a geração que tinha feito o mal aos olhos do Senhor.
+
+[[v4-32-14]]
+
+^<<v4-32-14,14>>^ E agora, eis que tomais a sucessão de vossos pais, raça de pecadores, para aumentar ainda mais a cólera do Senhor contra Israel.
+
+[[v4-32-15]]
+
+^<<v4-32-15,15>>^ Se lhe recusais obedecer, ele continuará a vos deixar no deserto, e sereis a causa da ruína de todo o povo”.
+
+[[v4-32-16]]
+
+^<<v4-32-16,16>>^ Mas eles, aproximando-se, disseram a Moisés: “Faremos aqui currais para os nossos rebanhos e construiremos cidades para os nossos filhos.
+
+[[v4-32-17]]
+
+^<<v4-32-17,17>>^ Nós, porém, nos equiparemos para marchar sem demora diante dos israelitas, até os introduzirmos na terra que lhes cabe, enquanto nossos filhos ficarão nas cidades fortes, ao abrigo dos habitantes da terra.
+
+[[v4-32-18]]
+
+^<<v4-32-18,18>>^ Não voltaremos às nossas casas antes que os israelitas tenham tomado posse cada um de sua porção.
+
+[[v4-32-19]]
+
+^<<v4-32-19,19>>^ Nada queremos do lado de lá do Jordão, junto deles, pois que já temos a nossa porção deste lado, ao oriente”.
+
+[[v4-32-20]]
+
+^<<v4-32-20,20>>^ Moisés disse-lhes: “Se fizerdes isso, e vos equipardes para combater diante do Senhor,
+
+[[v4-32-21]]
+
+^<<v4-32-21,21>>^ se todo homem apto para a guerra entre vós passar armado o Jordão diante do Senhor, até que o Senhor expulse seus inimigos,
+
+[[v4-32-22]]
+
+^<<v4-32-22,22>>^ e só voltardes para as vossas casas quando a terra estiver submetida diante do Senhor, então sereis irrepreensíveis aos olhos do Senhor e aos olhos de Israel, e possuireis esta terra que desejais diante do Senhor.
+
+[[v4-32-23]]
+
+^<<v4-32-23,23>>^ Mas se procederdes de outra forma, pecareis diante do Senhor; e sabeis que o vosso pecado cairá sobre vós.
+
+[[v4-32-24]]
+
+^<<v4-32-24,24>>^ Construí, pois, cidades para os vossos filhos e fazei currais para os vossos rebanhos, mas cumpri vossa promessa”.
+
+[[v4-32-25]]
+
+^<<v4-32-25,25>>^ Os filhos de Gad e os filhos de Rúben responderam a Moisés: “Teus servos farão o que o meu senhor ordenar.
+
+[[v4-32-26]]
+
+^<<v4-32-26,26>>^ Nossos filhos, nossas mulheres, nossos rebanhos e nossos animais ficarão nas cidades de Galaad;
+
+[[v4-32-27]]
+
+^<<v4-32-27,27>>^ e teus servos equipados para a guerra marcharão ao combate diante do Senhor, segundo a ordem do meu senhor”.
+
+[[v4-32-28]]
+
+^<<v4-32-28,28>>^ Então Moisés deu ordens a respeito deles ao sacerdote Eleazar, a Josué, filho de Nun, e aos chefes das famílias das tribos de Israel.
+
+[[v4-32-29]]
+
+^<<v4-32-29,29>>^ Disse ele: “Se os filhos de Gad e os filhos de Rúben passarem convosco o Jordão equipados para o combate diante do Senhor, e a terra vos for sujeita, lhes deixareis em possessão a terra de Galaad.
+
+[[v4-32-30]]
+
+^<<v4-32-30,30>>^ Mas, se não passarem armados convosco, deverão estabelecer-se no meio de vós, na terra de Canaã”.
+
+[[v4-32-31]]
+
+^<<v4-32-31,31>>^ Os filhos de Gad e os filhos de Rúben replicaram: “Faremos o que o Senhor disse aos teus servos.
+
+[[v4-32-32]]
+
+^<<v4-32-32,32>>^ Iremos armados diante do Senhor para a terra de Canaã, e nossa parte de terra será deste lado do Jordão”.
+
+[[v4-32-33]]
+
+^<<v4-32-33,33>>^ Então Moisés deu aos filhos de Gad, aos filhos de Rúben e à meia tribo de Manassés, filho de José, o reino de Seon, rei dos amorreus, e o de Og, rei de Basã: a terra, com suas cidades e seus distritos, e as cidades da terra circunvizinha.
+
+[[v4-32-34]]
+
+^<<v4-32-34,34>>^ Os filhos de Gad construíram Dibon, Atarot, Aroer,
+
+[[v4-32-35]]
+
+^<<v4-32-35,35>>^ Atrot-Sofã, Jazer, Jegbaa,
+
+[[v4-32-36]]
+
+^<<v4-32-36,36>>^ Bet-Nemra e Bet-Arã, cidades fortes, e fizeram currais para os rebanhos.
+
+[[v4-32-37]]
+
+^<<v4-32-37,37>>^ Os filhos de Rúben construíram Hesebon, Eleale, Cariataim,
+
+[[v4-32-38]]
+
+^<<v4-32-38,38>>^ Nebo e Baal-Meon, mudando-lhes os nomes, e Sábama; e deram nomes às cidades que edificaram.
+
+[[v4-32-39]]
+
+^<<v4-32-39,39>>^ Os filhos de Maquir, filho de Manassés, foram a Galaad e tomaram-na em possessão, depois de terem expulsado os amorreus que ali habitavam.
+
+[[v4-32-40]]
+
+^<<v4-32-40,40>>^ Moisés deu Galaad a Maquir, filho de Manassés, o qual se estabeleceu ali.
+
+[[v4-32-41]]
+
+^<<v4-32-41,41>>^ Jair, filho de Manassés, foi e ocupou suas aldeias, às quais deu o nome de aldeias de Jair.
+
+[[v4-32-42]]
+
+^<<v4-32-42,42>>^ Nob marchou contra Canat, e apoderou-se dela, bem como das aldeias dependentes, dando-lhe em seguida o nome de Nob, seu próprio nome.
+
+'''
+
+xref:004-numeros/004-numeros-031.adoc#v4-31-0[&#60; Capítulo Anterior] | <<v4-32-0,Topo>> | xref:004-numeros/004-numeros-033.adoc#v4-33-0[Próximo Capítulo &#62;]

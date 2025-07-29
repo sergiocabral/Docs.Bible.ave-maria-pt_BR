@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v19-7-0]]
+=== Ester, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ester 7 narra o momento culminante da história de Ester, quando ela revela a conspiração de Hamã para matar seu povo ao rei Assuero e consegue salvar a si mesma e aos judeus da Pérsia da destruição. Os versículos relacionados com os temas abordados em Ester 7 são:
+* Provérbios 26:27: "O que faz uma cova, nela cairá; e a pedra voltará sobre quem a revolve." Este versículo fala sobre como as más ações de uma pessoa podem se voltar contra ela, o que é exatamente o que acontece com Hamã quando seu plano maligno é revelado e ele é executado na própria forca que havia preparado para Mardoqueu.
+* Salmos 7:15-16: "Ele fez uma cova e a cavou, mas caiu na cova que preparou. A sua violência voltará sobre a sua própria cabeça, e sobre a sua própria fronte descerá a sua maldade." Este versículo também retrata a ideia de que aqueles que planejam o mal acabarão sofrendo as consequências de suas ações.
+* Eclesiastes 10:8: "O que abrir uma cova, nela cairá; e o que romper o muro, uma serpente o morderá." Este versículo tem uma mensagem semelhante aos dois anteriores, que é a de que aqueles que planejam o mal acabarão sofrendo as consequências de suas ações.
+* Provérbios 28:18: "O que anda sinceramente será salvo, mas o perverso em seus caminhos cairá logo." Este versículo destaca a importância de agir com sinceridade e honestidade, o que é exemplificado por Ester em contraste com a maldade e astúcia de Hamã.
+* Provérbios 11:5: "A justiça do sincero endireitará o seu caminho, mas o perverso pela sua perversidade cairá." Este versículo também enfatiza a importância da justiça e da retidão, que é o que prevalece no final da história de Ester quando Hamã é derrotado e a justiça é feita para o povo judeu.
+****
+
+[[v19-7-1]]
+
+^<<v19-7-1,1>>^ O rei e Amã foram, pois, ao banquete de Ester.
+
+[[v19-7-2]]
+
+^<<v19-7-2,2>>^ No segundo dia, bebendo vinho, disse ainda o rei a Ester: “Qual é teu pedido, rainha Ester? Será atendido. Que é que desejas? Ainda que me peças metade do reino, te será concedido!”.
+
+[[v19-7-3]]
+
+^<<v19-7-3,3>>^ A rainha respondeu: “Se achei graça a teus olhos, ó rei, e se ao rei lhe parecer bem, concede-me a vida – eis o meu pedido; salva meu povo – eis o meu desejo.
+
+[[v19-7-4]]
+
+^<<v19-7-4,4>>^ Fomos votados eu e meu povo, ao extermínio, à morte, ao aniquilamento. Se tivéssemos sido vendidos como escravos eu me calaria, mas eis que agora o opressor não poderia compensar o prejuízo que causa ao mesmo rei”.^&#42;1^
+
+[[v19-7-5]]
+
+^<<v19-7-5,5>>^ “Quem é – replicou o rei –, e onde está quem maquina tal projeto em seu coração?”
+
+[[v19-7-6]]
+
+^<<v19-7-6,6>>^ “O opressor, o inimigo – disse a rainha – é Amã – eis aí o infame!”
+
+[[v19-7-7]]
+
+^<<v19-7-7,7>>^ Amã ficou aterrorizado diante do rei e da rainha. O rei, aceso em cólera, levantou-se e deixou o banquete, dirigindo-se ao jardim do palácio, ao passo que Amã permanecia ali, para implorar a Ester o perdão de sua vida, porque via bem que no espírito do rei estava decretada sua perda.
+
+[[v19-7-8]]
+
+^<<v19-7-8,8>>^ Quando o rei voltou do jardim do palácio para a sala do banquete, viu Amã que se tinha deixado cair sobre o divã em que repousava Ester: “Como!” – exclamou. “Ei-lo que quer fazer violência à rainha em minha casa em meu palácio!” Mal tinha saído essa palavra da boca do rei, quando cobriram a face de Amã.^&#42;1^
+
+[[v19-7-9]]
+
+^<<v19-7-9,9>>^ Harbona, um dos eunucos, disse ao rei: “A forca preparada por Amã para Mardoqueu, cuja denúncia em favor do rei tinha sido tão salutar, acha-se levantada na casa de Amã, altura de cinquenta côvados”. “Que o suspendam nela!” – exclamou o rei.
+
+[[v19-7-10]]
+
+^<<v19-7-10,10>>^ E suspenderam Amã na forca que tinha preparado para Mardoqueu. Isso acalmou a cólera do rei.
+
+'''
+
+xref:019-ester/019-ester-006.adoc#v19-6-0[&#60; Capítulo Anterior] | <<v19-7-0,Topo>> | xref:019-ester/019-ester-008.adoc#v19-8-0[Próximo Capítulo &#62;]

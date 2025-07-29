@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v18-12-0]]
+=== Judite, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Judite 12 narra o plano de Judite para escapar do acampamento assírio após assassinar Holofernes. Ela pega a cabeça do general morto e a coloca em um saco, alegando que iria orar a Deus. Quando ela retorna à cidade de Betúlia, os guardas ficam chocados com a cabeça de Holofernes e a deixam entrar na cidade. Abaixo estão cinco versículos relacionados com os temas abordados em Judite 12:
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado e salva os de espírito oprimido." Esse versículo destaca a proximidade e o cuidado de Deus com aqueles que estão sofrendo e oprimidos. Judite estava em uma situação perigosa e angustiante, mas confiava em Deus para sua proteção e salvação.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo enfatiza a importância da confiança e da entrega a Deus em todas as circunstâncias da vida. Judite demonstrou confiança em Deus ao colocar sua vida em risco para salvar seu povo.
+* Salmos 91:11-12: "Pois ele dará ordens aos seus anjos a seu respeito, para que o protejam em todos os seus caminhos; com as mãos eles o segurarão, para que você não tropece em alguma pedra." Esse versículo destaca a proteção divina e o cuidado de Deus com seus filhos. Judite confiou em Deus para sua proteção durante sua jornada de volta a Betúlia.
+* Salmos 121:1-2: "Elevo os meus olhos para os montes: de onde me virá o socorro? O meu socorro vem do Senhor, que fez os céus e a terra." Este versículo enfatiza a importância de olhar para Deus em busca de ajuda e proteção. Judite confiou em Deus como sua fonte de ajuda e proteção durante sua jornada de volta a Betúlia.
+* Salmos 27:1: "O Senhor é a minha luz e a minha salvação; de quem terei temor? O Senhor é o refúgio da minha vida; a quem temerei?" Este versículo destaca a confiança em Deus como fonte de salvação e proteção. Judite confiou em Deus como sua fonte de salvação e proteção durante sua jornada de volta a Betúlia.
+****
+
+[[v18-12-1]]
+
+^<<v18-12-1,1>>^ Mandou então que a introduzissem onde estavam os seus tesouros, ordenando-lhe que ficasse ali e regulou o que se lhe devia dar de sua mesa.
+
+[[v18-12-2]]
+
+^<<v18-12-2,2>>^ Judite respondeu-lhe: “Não posso agora comer do que me mandaste servir, para não cometer infração contra a Lei; comerei do que trouxe comigo”.
+
+[[v18-12-3]]
+
+^<<v18-12-3,3>>^ Holofernes disse-lhe: “E quando acabarem as provisões que trouxeste contigo, que poderemos fazer por ti?”.
+
+[[v18-12-4]]
+
+^<<v18-12-4,4>>^ “Pela tua vida, meu senhor – replicou Judite –, juro que tua serva não gastará todas suas provisões antes que Deus realize pela minha mão o que resolvi fazer.” Os escravos de Holofernes introduziram-na então na tenda que ele tinha designado.
+
+[[v18-12-5]]
+
+^<<v18-12-5,5>>^ Ali entrando, Judite pediu que lhe fosse permitido sair à noite e antes do amanhecer, para fazer suas devoções e orar ao Senhor.
+
+[[v18-12-6]]
+
+^<<v18-12-6,6>>^ Holofernes ordenou aos seus escravos que a deixassem sair e entrar como quisesse, durante três dias, para adorar o seu Deus.
+
+[[v18-12-7]]
+
+^<<v18-12-7,7>>^ Cada noite ela saía ao vale de Betúlia e fazia as suas abluções numa fonte.
+
+[[v18-12-8]]
+
+^<<v18-12-8,8>>^ Ao voltar, rogava ao Senhor, Deus de Israel, que lhe dirigisse os passos para a libertação do seu povo.
+
+[[v18-12-9]]
+
+^<<v18-12-9,9>>^ Entrava em seguida na sua tenda e ali permanecia pura até que tomava a sua refeição pela tarde.
+
+[[v18-12-10]]
+
+^<<v18-12-10,10>>^ No quarto dia, Holofernes deu um banquete aos seus oficiais. E disse a Vagao, seu eunuco: “Vê se persuades a essa judia que consinta espontaneamente em tornar-se minha concubina”.^&#42;1^
+
+[[v18-12-11]]
+
+^<<v18-12-11,11>>^ Entre os assírios era coisa vergonhosa que uma mulher zombasse de um homem, retirando-se sem se ter dado a ele.
+
+[[v18-12-12]]
+
+^<<v18-12-12,12>>^ Vagao foi ter com Judite e disse-lhe: “Não tema a boa jovem entrar na presença de meu senhor. Seria para ele uma honra comer em sua companhia e beber vinho alegremente”.
+
+[[v18-12-13]]
+
+^<<v18-12-13,13>>^ “Quem sou eu – respondeu ela –, para opor-me ao meu senhor?
+
+[[v18-12-14]]
+
+^<<v18-12-14,14>>^ Farei tudo o que parecer bom e melhor aos seus olhos. O que mais lhe agradar isso será também para mim o melhor durante toda a minha vida”.
+
+[[v18-12-15]]
+
+^<<v18-12-15,15>>^ Ela levantou-se e, trajada com requinte, apresentou-se diante dele.
+
+[[v18-12-16]]
+
+^<<v18-12-16,16>>^ O coração de Holofernes agitou-se, porque ardia de paixão por ela.
+
+[[v18-12-17]]
+
+^<<v18-12-17,17>>^ “Come e bebe alegremente – disse-lhe ele –, pois encontraste graça aos meus olhos.”
+
+[[v18-12-18]]
+
+^<<v18-12-18,18>>^ Ao que respondeu Judite: “Eu beberei, senhor, porque nunca em minha vida me senti tão engrandecida como hoje”.
+
+[[v18-12-19]]
+
+^<<v18-12-19,19>>^ Mas ela tomou e comeu do que a sua serva lhe tinha preparado e bebeu com ele.
+
+[[v18-12-20]]
+
+^<<v18-12-20,20>>^ Holofernes alegrou-se grandemente por tê-la junto dele. Bebeu vinho como nunca tinha bebido.
+
+'''
+
+xref:018-judite/018-judite-011.adoc#v18-11-0[&#60; Capítulo Anterior] | <<v18-12-0,Topo>> | xref:018-judite/018-judite-013.adoc#v18-13-0[Próximo Capítulo &#62;]

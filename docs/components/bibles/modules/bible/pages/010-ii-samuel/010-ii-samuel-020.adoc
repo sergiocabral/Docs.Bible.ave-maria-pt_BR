@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v10-20-0]]
+=== II Samuel, 20
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Samuel 20 relata a rebelião de um homem chamado Seba contra o rei Davi. Seba convence as tribos do norte de Israel a se juntarem a ele em sua revolta, e Joabe é enviado para perseguir Seba. O capítulo termina com a decapitação de Seba e o fim da rebelião.
+* Provérbios 6:16-19: "Seis coisas o Senhor odeia, sete coisas abomináveis para ele: olhos altivos, língua mentirosa, mãos que derramam sangue inocente, coração que traça planos perversos, pés que se apressam para fazer o mal, testemunha falsa que profere mentiras e semeia contendas entre irmãos." A rebelião de Seba em 2 Samuel 20 envolve muitos desses pecados abomináveis que o Senhor odeia, incluindo mentiras, violência e contendas entre irmãos.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez de espírito precede a queda." Seba é movido pela sua própria arrogância e desejo de poder ao rebelar-se contra Davi. Este verso em Provérbios adverte sobre o perigo da soberba e a inevitabilidade da queda que ela traz.
+* 1 João 4:20: "Se alguém disser: 'Eu amo a Deus', e odiar seu irmão, é mentiroso. Pois quem não ama seu irmão, a quem viu, não pode amar a Deus, a quem não viu." A rebelião de Seba em 2 Samuel 20 é uma expressão do ódio que ele tem por Davi e pelos israelitas. Este verso em 1 João nos lembra que o amor por Deus e o amor pelos outros são inseparáveis e que o ódio por qualquer irmão é incompatível com o amor por Deus.
+* Mateus 5:9: "Bem-aventurados os pacificadores, pois serão chamados filhos de Deus." Davi envia Amasa para se tornar um pacificador com as tribos do norte de Israel, mas Amasa falha em sua missão e é morto por Joabe. Este verso em Mateus destaca a importância da paz e da reconciliação como um caminho para a filiação divina.
+* João 15:13: "Ninguém tem maior amor do que este: de dar alguém a própria vida pelos seus amigos." Davi mostra grande lealdade e amor pelos seus amigos e aliados em 2 Samuel 20, arriscando sua vida para perseguir Seba e manter a unidade de Israel. Este verso em João destaca o amor sacrificial como a maior forma de amor.
+****
+
+[[v10-20-1]]
+
+^<<v10-20-1,1>>^ Encontrava-se ali um homem perverso chamado Sebá, filho de Bocri, da tribo de Benjamim. Ele tocou a trombeta e exclamou: “Nada temos a ver com Davi. Nada temos de comum com o filho de Jessé! Volte cada qual para a sua tenda, Israel!”.
+
+[[v10-20-2]]
+
+^<<v10-20-2,2>>^ Todos os homens de Israel abandonaram Davi e seguiram Sebá, filho de Bocri, enquanto que os filhos de Judá escoltaram o rei desde o Jordão até Jerusalém.
+
+[[v10-20-3]]
+
+^<<v10-20-3,3>>^ Davi, chegando ao seu palácio em Jerusalém, tomou as dez concubinas que tinha deixado para guardar o palácio e enclausurou-as, ordenando que fossem alimentadas, mas não se uniu mais a elas; ficaram enclausuradas, vivendo como viúvas até o dia de sua morte.
+
+[[v10-20-4]]
+
+^<<v10-20-4,4>>^ O rei disse a Amasa: “Convoca-me dentro de três dias todos os homens de Judá e apresenta-te tu também com eles”.
+
+[[v10-20-5]]
+
+^<<v10-20-5,5>>^ Amasa partiu para convocar Judá, mas demorou-se além do prazo fixado.
+
+[[v10-20-6]]
+
+^<<v10-20-6,6>>^ Então Davi disse a Abisaí: “Sebá, filho de Bocri, vai agora tornar-se mais perigoso que Absalão. Toma contigo os servos de teu senhor e persegue-o, não aconteça que ele encontre cidades fortificadas e nos escape”.
+
+[[v10-20-7]]
+
+^<<v10-20-7,7>>^ Partiram com Abisaí os homens de Joab, os cereteus e os feleteus com todos os valentes. Saíram de Jerusalém em perseguição de Sebá, filho de Bocri.
+
+[[v10-20-8]]
+
+^<<v10-20-8,8>>^ Chegando junto à grande pedra que se encontra em Gabaon, veio-lhes Amasa ao encontro. Joab trazia uma cintura por cima de sua túnica, de onde pendia uma espada embainhada, à altura dos rins. Esta desprendeu-se e caiu.^&#42;1^
+
+[[v10-20-9]]
+
+^<<v10-20-9,9>>^ Joab disse a Amasa: “Como vais, meu irmão?”. Tomou-o pela barba com a mão direita para o beijar.^&#42;1^
+
+[[v10-20-10]]
+
+^<<v10-20-10,10>>^ Amasa, porém, não percebeu a espada na mão esquerda de Joab e este o feriu no ventre, derramando as suas entranhas por terra. Não houve necessidade de um segundo golpe, pois Amasa caiu morto. Depois disso, Joab e seu irmão Abisaí puseram-se a perseguir Sebá, filho de Bocri.
+
+[[v10-20-11]]
+
+^<<v10-20-11,11>>^ Um dos servos de Joab se colocara junto de Amasa e disse: “Todos os que amam Joab e estão com Davi sigam a Joab!”.
+
+[[v10-20-12]]
+
+^<<v10-20-12,12>>^ Entretanto, Amasa estava estendido no meio do caminho, coberto de sangue. Vendo o soldado que todos se detinham para vê-lo, arrastou Amasa para fora do caminho para um campo e cobriu-o com um manto.
+
+[[v10-20-13]]
+
+^<<v10-20-13,13>>^ Uma vez removido do caminho, todos os homens de Israel foram atrás de Joab para continuar a perseguição de Sebá, filho de Bocri.
+
+[[v10-20-14]]
+
+^<<v10-20-14,14>>^ Sebá atravessou todas as tribos de Israel, que o desprezaram e foi até Abel-Bet-Maaca, onde todos os bocritas o seguiram.
+
+[[v10-20-15]]
+
+^<<v10-20-15,15>>^ Vieram então sitiá-lo em Abel-Bet-Maaca e levantaram contra a cidade um aterro que atingiu a altura da muralha. Como todos os que estavam com Joab tentassem fazer cair a muralha,
+
+[[v10-20-16]]
+
+^<<v10-20-16,16>>^ uma mulher prudente se pôs a gritar do muro da cidade: “Ouvi, ouvi! Dizei a Joab que se aproxime para que eu possa falar-lhe!”.
+
+[[v10-20-17]]
+
+^<<v10-20-17,17>>^ Tendo ele se aproximado, disse-lhe a mulher: “És tu Joab?”. “Sou eu” – respondeu ele. Ela prosseguiu: “Ouve as palavras de tua serva”. “Estou ouvindo.”
+
+[[v10-20-18]]
+
+^<<v10-20-18,18>>^ “Outrora – disse ela –, costumava-se dizer: ‘Peça-se conselho a Abel e a Dã’,^&#42;1^
+
+[[v10-20-19]]
+
+^<<v10-20-19,19>>^ para saber se desapareceram os costumes dos fiéis de Israel. Tu, porém, procuras destruir uma cidade e metrópole em Israel. Por que queres aniquilar a herança do Senhor?”
+
+[[v10-20-20]]
+
+^<<v10-20-20,20>>^ Joab respondeu: “Longe de mim, longe de mim; não quero arruinar nem destruir coisa alguma.
+
+[[v10-20-21]]
+
+^<<v10-20-21,21>>^ Não se trata disso; mas um homem da montanha de Efraim, chamado Sebá, filho de Bocri, levantou a mão contra o rei Davi. Entregai-nos só esse e levantarei o cerco”. A mulher disse a Joab: “A cabeça dele te será lançada por cima do muro”.
+
+[[v10-20-22]]
+
+^<<v10-20-22,22>>^ Ela voltou à cidade e falou com discrição a todo o povo. Cortaram a cabeça de Sebá, filho de Bocri, e atiraram-na a Joab. Este tocou a trombeta e todos se retiraram da cidade, indo cada um para a sua tenda. Joab voltou para junto do rei em Jerusalém.
+
+[[v10-20-23]]
+
+^<<v10-20-23,23>>^ Joab comandava todo o exército. Banaías, filho de Joiada, estava à testa dos cereteus e dos feleteus.
+
+[[v10-20-24]]
+
+^<<v10-20-24,24>>^ Adoram presidia os trabalhos. Josafá, filho de Ailud, era o cronista.
+
+[[v10-20-25]]
+
+^<<v10-20-25,25>>^ Siva era o escriba. Sadoc e Abiatar, sacerdotes;
+
+[[v10-20-26]]
+
+^<<v10-20-26,26>>^ Ira, o jairita, era também sacerdote de Davi.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-019.adoc#v10-19-0[&#60; Capítulo Anterior] | <<v10-20-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-021.adoc#v10-21-0[Próximo Capítulo &#62;]

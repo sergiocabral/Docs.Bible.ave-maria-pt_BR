@@ -1,0 +1,263 @@
+include::./index.adoc[]
+
+[[v22-4-0]]
+=== I Macabeus, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Macabeus 4 narra a batalha entre os judeus liderados por Judas Macabeu e o exército grego de Nicanor, que havia sido enviado pelo rei Antíoco IV Epifânio para subjugar a rebelião judaica. No capítulo, é relatada a estratégia utilizada por Judas Macabeu para vencer a batalha, que incluiu táticas de guerrilha e uma forte motivação religiosa. Além disso, também é descrito o processo de purificação do templo após a vitória. Abaixo estão cinco versículos relacionados com os temas abordados em 1 Macabeus 4:
+* 1 Samuel 17:47: "E toda esta congregação saberá que o SENHOR salva, não com espada, nem com lança; porque do SENHOR é a guerra, e ele vos entregará nas nossas mãos." Assim como Davi, que venceu Golias não com a força física, mas com a ajuda de Deus, Judas Macabeu e seus homens confiaram no poder divino para vencer o exército grego.
+* Provérbios 21:31: "O cavalo prepara-se para o dia da batalha, mas o SENHOR é que dá a vitória." Essa passagem destaca a importância de se preparar para a batalha, mas reconhece que a vitória vem somente de Deus. Judas Macabeu e seus homens se prepararam estrategicamente para a batalha, mas também confiaram na ajuda divina.
+* 2 Crônicas 20:15: "Assim diz o SENHOR a respeito deste grande exército: Não temais, nem vos assusteis por causa desta grande multidão; pois a peleja não é vossa, mas de Deus." Essa passagem enfatiza que Deus é o verdadeiro guerreiro e que a vitória em batalha é dada por Ele. Essa crença foi claramente expressa por Judas Macabeu e seus homens.
+* Salmo 30:5: "Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite, mas a alegria vem pela manhã." Essa passagem destaca que, apesar das dificuldades e lutas, a alegria e a vitória podem vir no final. Essa mensagem é relevante para a história de 1 Macabeus 4, onde os judeus experimentaram grande sofrimento antes da vitória.
+* 2 Timóteo 4:7: "Combati o bom combate, acabei a carreira, guardei a fé." Essa passagem de Paulo destaca a importância da perseverança e da fé em momentos de dificuldade. Judas Macabeu e seus homens enfrentaram inúmeros obstáculos na batalha contra os gregos, mas mantiveram sua fé e perseveraram até a vitória.
+****
+
+[[v22-4-1]]
+
+^<<v22-4-1,1>>^ Tomando consigo cinco mil soldados de infantaria e mil cavaleiros de elite, Górgias se pôs a caminho, à noite,
+
+[[v22-4-2]]
+
+^<<v22-4-2,2>>^ para surpreender o acampamento dos judeus e atacá-lo de improviso. A gente da fortaleza servia-lhe de guia.^&#42;1^
+
+[[v22-4-3]]
+
+^<<v22-4-3,3>>^ Mas Judas o soube e com seus destemidos companheiros saiu para esmagar aquelas forças do rei que tinham ficado perto de Emaús,
+
+[[v22-4-4]]
+
+^<<v22-4-4,4>>^ enquanto as tropas estavam espalhadas na planície.
+
+[[v22-4-5]]
+
+^<<v22-4-5,5>>^ Chegou Górgias à noite ao acampamento de Judas, mas não encontrou ninguém. Pôs-se então à sua procura nas montanhas, dizendo: “Fugiram diante de nós”.
+
+[[v22-4-6]]
+
+^<<v22-4-6,6>>^ Todavia, Judas apareceu na planície ao despertar do dia com três mil homens que, excetuando espadas e escudos, não estavam armados como o teriam querido.
+
+[[v22-4-7]]
+
+^<<v22-4-7,7>>^ Entrementes viram eles o campo dos gentios, poderoso, fortificado de cavalaria e os próprios inimigos prontos para o combate.
+
+[[v22-4-8]]
+
+^<<v22-4-8,8>>^ “Não temais seu grande número – disse Judas a seus companheiros – e não temais seu choque.
+
+[[v22-4-9]]
+
+^<<v22-4-9,9>>^ Lembrai-vos como nossos pais foram salvos no mar Vermelho, quando o faraó os perseguia com seu exército.
+
+[[v22-4-10]]
+
+^<<v22-4-10,10>>^ Gritemos agora para o céu para que ele se apiede de nós, que se lembre da Aliança com nossos antepassados e queira hoje esmagar esse exército aos nossos olhos.
+
+[[v22-4-11]]
+
+^<<v22-4-11,11>>^ Todas as nações saberão que Israel possui um libertador e um salvador.”
+
+[[v22-4-12]]
+
+^<<v22-4-12,12>>^ Erguendo os olhos, os gentios viram-nos avançar contra eles,
+
+[[v22-4-13]]
+
+^<<v22-4-13,13>>^ e saíram do acampamento para a luta, enquanto os homens de Judas soavam as trombetas.
+
+[[v22-4-14]]
+
+^<<v22-4-14,14>>^ Travou-se a batalha, mas os inimigos, derrotados, puseram-se em fuga através da planície.
+
+[[v22-4-15]]
+
+^<<v22-4-15,15>>^ Os últimos tombaram todos sob a espada, enquanto eram perseguidos até Gazara e as planícies de Idumeia, de Azoto e de Jâmnia. E sucumbiram cerca de três mil homens.
+
+[[v22-4-16]]
+
+^<<v22-4-16,16>>^ Então, Judas parou de persegui-los, voltou atrás com suas tropas pelo mesmo caminho,
+
+[[v22-4-17]]
+
+^<<v22-4-17,17>>^ e disse: “Não penseis nos despojos, porque outro combate nos aguarda.
+
+[[v22-4-18]]
+
+^<<v22-4-18,18>>^ Górgias está perto de nós nas montanhas, com suas forças. No momento, enfrentai os inimigos e combatei. Depois, podereis apoderar-vos de seus despojos, com toda tranquilidade”.
+
+[[v22-4-19]]
+
+^<<v22-4-19,19>>^ Ainda Judas falava, quando alguns homens apareceram e olharam do alto da montanha.
+
+[[v22-4-20]]
+
+^<<v22-4-20,20>>^ Viram que o exército tinha sido posto em fuga e que o acampamento se queimava porque a fumaça que se percebia indicava o que tinha acontecido.
+
+[[v22-4-21]]
+
+^<<v22-4-21,21>>^ À vista disso, todos foram tomados de grande espanto e, certificando-se de que o exército de Judas se achava na planície, pronto para o combate,
+
+[[v22-4-22]]
+
+^<<v22-4-22,22>>^ fugiram todos para a terra estrangeira.
+
+[[v22-4-23]]
+
+^<<v22-4-23,23>>^ Judas voltou para saquear o acampamento, e seus homens apoderaram-se de muito ouro, prata, jacinto, púrpura marinha e grandes riquezas.
+
+[[v22-4-24]]
+
+^<<v22-4-24,24>>^ Ao voltarem, cantavam hinos e elevavam ao céu os louvores ao Senhor, exclamando: “Ele é bom e sua misericórdia é eterna”.
+
+[[v22-4-25]]
+
+^<<v22-4-25,25>>^ Naquele dia foi grande a vitória que se alcançou em Israel.
+
+[[v22-4-26]]
+
+^<<v22-4-26,26>>^ Os gentios que escaparam vieram contar a Lísias o acontecido.
+
+[[v22-4-27]]
+
+^<<v22-4-27,27>>^ Ele ficou consternado e abatido ouvindo-os, porque Israel não tinha sido tratado como ele quis, e porque as ordens do rei não tinham sido cumpridas.
+
+[[v22-4-28]]
+
+^<<v22-4-28,28>>^ Por isso, no ano seguinte, reuniu Lísias sessenta mil infantes escolhidos e cinco mil cavaleiros para lutar contra os judeus.
+
+[[v22-4-29]]
+
+^<<v22-4-29,29>>^ Esse exército veio da Idumeia acampar em Betsur. Judas foi-lhe ao encontro com dez mil homens.^&#42;1^
+
+[[v22-4-30]]
+
+^<<v22-4-30,30>>^ Tendo ante os olhos esse poderoso exército, rezou nestes termos: “Sede bendito, Salvador de Israel, vós que quebrastes a força do gigante pela mão do vosso servo Davi e entregastes os exércitos estrangeiros às mãos de Jônatas e do seu escudeiro.
+
+[[v22-4-31]]
+
+^<<v22-4-31,31>>^ Entregai esse exército ao poder do povo de Israel e confundi nossos inimigos com suas tropas e sua cavalaria.
+
+[[v22-4-32]]
+
+^<<v22-4-32,32>>^ Inspirai-lhes o terror, fazei derreter seu orgulho audaz. Que eles sejam sacudidos e pisados.
+
+[[v22-4-33]]
+
+^<<v22-4-33,33>>^ Derrubai-os pela espada dos que vos amam e que todos aqueles que conhecem vosso nome cantem vossos louvores”.
+
+[[v22-4-34]]
+
+^<<v22-4-34,34>>^ Travou-se então o combate, e do exército de Lísias tombaram cinco mil homens, que sucumbiram diante deles.
+
+[[v22-4-35]]
+
+^<<v22-4-35,35>>^ Vendo seu exército posto em fuga e os judeus cheios de bravura, prontos a viver ou a morrer valentemente, voltou Lísias a Antioquia para arregimentar tropas de mercenários, com o intuito de reaparecer na Judeia com um exército mais forte.
+
+[[v22-4-36]]
+
+^<<v22-4-36,36>>^ Judas e seus irmãos disseram então: “Eis que nossos inimigos estão aniquilados. Subamos agora para purificar e consagrar de novo os lugares santos”.
+
+[[v22-4-37]]
+
+^<<v22-4-37,37>>^ Reunido todo o exército, subiram ao monte Sião.
+
+[[v22-4-38]]
+
+^<<v22-4-38,38>>^ Contemplaram a desolação dos lugares santos, o altar profanado, as portas queimadas, os átrios cheios de arbustos que tinham nascido como num bosque ou sobre as colinas, os aposentos demolidos.
+
+[[v22-4-39]]
+
+^<<v22-4-39,39>>^ Rasgando suas vestes, eles se lamentaram muito e cobriram as cabeças com cinza.
+
+[[v22-4-40]]
+
+^<<v22-4-40,40>>^ Prostraram-se com o rosto por terra, tocaram as trombetas e ergueram clamores ao céu.
+
+[[v22-4-41]]
+
+^<<v22-4-41,41>>^ Então, Judas encarregou alguns homens para combater os soldados da fortaleza, enquanto purificavam o templo.^&#42;1^
+
+[[v22-4-42]]
+
+^<<v22-4-42,42>>^ Escolheu sacerdotes sem mancha e zelosos da Lei,
+
+[[v22-4-43]]
+
+^<<v22-4-43,43>>^ os quais purificaram o templo, transportando para lugar impuro as pedras contaminadas.
+
+[[v22-4-44]]
+
+^<<v22-4-44,44>>^ Consultaram-se entre si, o que se deveria fazer com o altar dos holocaustos, que havia sido profanado.
+
+[[v22-4-45]]
+
+^<<v22-4-45,45>>^ Tomaram a excelente ideia de demoli-lo, para que não recaísse sobre eles o opróbrio vindo da mancha dos gentios. Destruíram-no, portanto,
+
+[[v22-4-46]]
+
+^<<v22-4-46,46>>^ e transportaram suas pedras a um lugar conveniente sobre a montanha do templo, aguardando a decisão de algum profeta a esse respeito.
+
+[[v22-4-47]]
+
+^<<v22-4-47,47>>^ Tomaram pedras não-talhadas, segundo a Lei, e construíram um novo altar, semelhante ao primeiro.
+
+[[v22-4-48]]
+
+^<<v22-4-48,48>>^ Restauraram o santuário, assim como o interior do templo, e purificaram os átrios.
+
+[[v22-4-49]]
+
+^<<v22-4-49,49>>^ Fizeram novos vasos sagrados e transportaram ao santuário o candelabro, o altar dos perfumes e a mesa.
+
+[[v22-4-50]]
+
+^<<v22-4-50,50>>^ Queimaram incenso sobre o altar e acenderam as lâmpadas do candelabro, que voltaram a brilhar no interior do templo.
+
+[[v22-4-51]]
+
+^<<v22-4-51,51>>^ Colocaram pães sobre a mesa e suspenderam os véus, terminando completamente seu trabalho.
+
+[[v22-4-52]]
+
+^<<v22-4-52,52>>^ No dia vinte e cinco do nono mês, isto é, do mês de Casleu, do ano cento e quarenta e oito, eles se levantaram muito cedo
+
+[[v22-4-53]]
+
+^<<v22-4-53,53>>^ e ofereceram um sacrifício conforme a Lei, sobre o novo altar dos holocaustos, que haviam construído.
+
+[[v22-4-54]]
+
+^<<v22-4-54,54>>^ Foi no mesmo dia e na mesma data em que os gentios o haviam profanado, que o altar foi de novo consagrado ao som de cânticos, das harpas, das liras e dos címbalos.
+
+[[v22-4-55]]
+
+^<<v22-4-55,55>>^ Todo o povo se prostrou com o rosto em terra para adorar e bendizer ao céu aquele que os havia conduzido ao triunfo.
+
+[[v22-4-56]]
+
+^<<v22-4-56,56>>^ Prolongaram por oito dias a dedicação do altar, oferecendo com alegria holocaustos e sacrifícios de ação de graças e de louvor.^&#42;1^
+
+[[v22-4-57]]
+
+^<<v22-4-57,57>>^ Adornaram a fachada do templo com coroas de ouro e pequenos escudos. Consagraram as entradas do templo e os quartos, nos quais colocaram portas.
+
+[[v22-4-58]]
+
+^<<v22-4-58,58>>^ Reinou uma alegria imensa entre o povo e o opróbrio das nações foi afastado.
+
+[[v22-4-59]]
+
+^<<v22-4-59,59>>^ Foi estabelecido por Judas e seus irmãos, e por toda a assembleia de Israel que os dias da dedicação do altar seriam celebrados cada ano em sua data própria, durante oito dias, a partir do dia vinte e cinco do mês de Casleu, e isto com alegria e regozijo.
+
+[[v22-4-60]]
+
+^<<v22-4-60,60>>^ Na mesma época, cercaram o monte Sião com uma alta muralha com fortes torres, para que não fosse mais possível às nações pisá-la aos pés, como outrora.
+
+[[v22-4-61]]
+
+^<<v22-4-61,61>>^ Judas pôs ali tropas para guardá-la e fortificou também Betsur para protegê-la, a fim de que o povo tivesse uma muralha na direção da Idumeia.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-003.adoc#v22-3-0[&#60; Capítulo Anterior] | <<v22-4-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-005.adoc#v22-5-0[Próximo Capítulo &#62;]

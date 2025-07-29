@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v12-13-0]]
+=== II Reis, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 13 de 2 Reis narra a história final do rei Jeoás de Israel, que é descrito como um líder que fez o mal diante do Senhor. Durante seu reinado, ele pede ajuda ao profeta Eliseu para vencer uma batalha contra os sírios, mas mesmo assim, ele não consegue afastar Israel da idolatria. Abaixo estão cinco versículos da Bíblia que se relacionam com os temas abordados em 2 Reis 13:
+* Salmos 106:34-35: "Eles não destruíram os povos, como o Senhor lhes ordenara, mas se misturaram com as nações e aprenderam os seus costumes. Serviram aos seus ídolos, que se tornaram um laço para eles." Esse versículo fala sobre como a mistura com outras nações e a idolatria se tornaram um problema para Israel, que não obedeceu aos mandamentos de Deus.
+* Isaías 31:1: "Ai dos que descem ao Egito em busca de ajuda, que confiam em cavalos, que põem sua confiança em multidões de carros e em cavaleiros, porque são muitos e em cavalos, porque são muito fortes, mas não olham para o Santo de Israel, nem buscam o Senhor!" Este versículo fala sobre a tendência de Israel de buscar ajuda em outros lugares, em vez de confiar em Deus.
+* Jeremias 10:2: "Assim diz o Senhor: Não aprendais o caminho das nações, nem vos assusteis com os sinais do céu, ainda que as nações os temam." Este versículo fala sobre a necessidade de obedecer aos mandamentos de Deus e não seguir os caminhos das nações pagãs.
+* Oséias 4:17: "Efraim está unido aos ídolos; deixai-o." Este versículo fala sobre como Efraim, que é frequentemente usado como um nome alternativo para Israel, se uniu aos ídolos e, por isso, Deus os deixou.
+* Amós 5:14: "Buscai o bem e não o mal, para que vivais, e assim o Senhor, o Deus dos Exércitos, estará convosco, como disseis." Este versículo fala sobre a importância de fazer o bem em vez do mal e seguir a vontade de Deus. Ele reflete o tema de 2 Reis 13, que mostra como a idolatria e a desobediência resultaram em problemas para Israel.
+****
+
+[[v12-13-1]]
+
+^<<v12-13-1,1>>^ No vigésimo terceiro ano do reina-do de Joás, filho de Ocozias, rei de Judá, Joacaz, filho de Jeú, tornou-se rei de Israel em Samaria. Seu reinado durou dezessete anos.
+
+[[v12-13-2]]
+
+^<<v12-13-2,2>>^ Fez o mal aos olhos do Senhor, imitando os pecados de Jeroboão, filho de Nabat, que fizera pecar Israel; e não se desviou deles.
+
+[[v12-13-3]]
+
+^<<v12-13-3,3>>^ Por isso, a cólera do Senhor acendeu-se contra Israel e ele entregou-o nas mãos de Hazael, rei da Síria, e de Ben-Adad, filho de Hazael, durante todo esse período.
+
+[[v12-13-4]]
+
+^<<v12-13-4,4>>^ Mas Joacaz rogou ao Senhor, e este, vendo como os filhos de Israel eram oprimidos pelo rei da Síria, ouviu-o
+
+[[v12-13-5]]
+
+^<<v12-13-5,5>>^ e mandou aos israelitas um salvador. Libertos do poder do rei da Síria, puderam de novo habitar nas suas tendas.
+
+[[v12-13-6]]
+
+^<<v12-13-6,6>>^ Entretanto, não se apartaram dos pecados aos quais a casa de Jeroboão arrastara Israel, mas continuaram a cometê-los. E até mesmo o ídolo de asserá ficou de pé em Samaria.
+
+[[v12-13-7]]
+
+^<<v12-13-7,7>>^ Com efeito, o Senhor só deixou a Joacaz, como exército, cinquenta cavaleiros, dez carros e dez mil soldados de infantaria; pois o rei da Síria lhe tinha aniquilado o resto e reduzido a pó que se calça aos pés.^&#42;1^
+
+[[v12-13-8]]
+
+^<<v12-13-8,8>>^ O restante da história de Joacaz, seus atos e grandes feitos, tudo está consignado no Livro das Crônicas dos reis de Israel.
+
+[[v12-13-9]]
+
+^<<v12-13-9,9>>^ Joacaz adormeceu com seus pais e foi sepultado em Samaria. Joás, seu filho, sucedeu-lhe no trono.
+
+[[v12-13-10]]
+
+^<<v12-13-10,10>>^ No trigésimo sétimo ano do reinado de Joás, rei de Judá, Joás, filho de Joacaz, tornou-se rei de Israel, em Samaria. Reinou durante dezesseis anos.
+
+[[v12-13-11]]
+
+^<<v12-13-11,11>>^ Fez o mal aos olhos do Senhor e não se afastou dos pecados de Jeroboão, filho de Nabat, que fizera pecar Israel, mas continuou a cometê-los.
+
+[[v12-13-12]]
+
+^<<v12-13-12,12>>^ O restante da história de Joás, seus atos e grandes feitos, a guerra que ele fez a Amasias, rei de Judá, tudo se acha consignado no Livro das Crônicas dos reis de Israel.
+
+[[v12-13-13]]
+
+^<<v12-13-13,13>>^ Joás adormeceu com seus pais e Jeroboão sucedeu-lhe no trono. Joás foi sepultado em Samaria com os reis de Israel.
+
+[[v12-13-14]]
+
+^<<v12-13-14,14>>^ Eliseu fora atingido pela enfermidade de que devia morrer. Joás, rei de Israel, desceu para visitá-lo. Inclinado sobre o rosto do profeta, disse-lhe, chorando: “Meu pai! Meu pai! Carro e cavalaria de Israel!”.
+
+[[v12-13-15]]
+
+^<<v12-13-15,15>>^ Eliseu disse-lhe: “Traze-me um arco e flechas”. Joás trouxe-lhe um arco e flechas.
+
+[[v12-13-16]]
+
+^<<v12-13-16,16>>^ Então, Eliseu disse ao rei de Israel: “Põe a tua mão no arco”. E quando ele o empunhou, Eliseu pôs suas mãos nas do rei,
+
+[[v12-13-17]]
+
+^<<v12-13-17,17>>^ dizendo: “Abre a janela do lado do oriente”. Joás abriu-a. “Lança uma flecha” – disse Eliseu –. Ele lançou. “Flecha de vitória para o Senhor – disse o profeta –; flecha de vitória contra os sírios. Baterás os sírios em Afec até exterminá-los.”
+
+[[v12-13-18]]
+
+^<<v12-13-18,18>>^ E ajuntou: “Toma as flechas”. Joás tomou-as. “Fere a terra.” O rei desfechou três golpes e parou.
+
+[[v12-13-19]]
+
+^<<v12-13-19,19>>^ O homem de Deus encolerizou-se contra ele e disse: “Seria preciso dar cinco ou seis golpes. Terias então batido os sírios até exterminá-los. Agora, porém, só os baterás três vezes!”.
+
+[[v12-13-20]]
+
+^<<v12-13-20,20>>^ Eliseu morreu e foi sepultado. Guerrilheiros moabitas faziam cada ano incursões na terra.
+
+[[v12-13-21]]
+
+^<<v12-13-21,21>>^ Ora, aconteceu que um grupo de pessoas, estando a enterrar um homem, viu uma turma desses guerrilheiros e jogou o cadáver no túmulo de Eliseu. O morto, ao tocar os ossos de Eliseu, voltou à vida e pôs-se de pé.
+
+[[v12-13-22]]
+
+^<<v12-13-22,22>>^ Hazael, rei da Síria, tinha oprimido os filhos de Israel durante toda a vida de Joacaz.
+
+[[v12-13-23]]
+
+^<<v12-13-23,23>>^ Mas o Senhor compadeceu-se deles e usou de misericórdia para com eles. Deu-lhes de novo a sua graça por causa de sua aliança com Abraão, Isaac e Jacó. O Senhor não os quis aniquilar, nem rejeitá-los de sua face.
+
+[[v12-13-24]]
+
+^<<v12-13-24,24>>^ Hazael, rei da Síria, morreu e seu filho Ben-Adad sucedeu-lhe no trono.
+
+[[v12-13-25]]
+
+^<<v12-13-25,25>>^ Joás, filho de Joacaz, retomou das mãos de Ben-Adad, filho de Hazael, as cidades que este havia arrebatado ao seu pai. Joás bateu-o três vezes e reconquistou as cidades de Israel.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-012.adoc#v12-12-0[&#60; Capítulo Anterior] | <<v12-13-0,Topo>> | xref:012-ii-reis/012-ii-reis-014.adoc#v12-14-0[Próximo Capítulo &#62;]

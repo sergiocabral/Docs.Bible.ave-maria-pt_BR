@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v9-13-0]]
+=== I Samuel, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 13 de 1 Samuel começa com a nomeação de Jonathan como comandante do exército de Israel e continua com a descrição da batalha contra os filisteus. Durante a batalha, Saul oferece um sacrifício a Deus sem a presença do profeta Samuel, violando a lei de Deus. Abaixo estão cinco versículos relacionados com temas abordados neste capítulo:
+* 1 Samuel 12:13: "Agora, pois, vedes aqui o rei que escolhestes, que pedistes; e eis que o Senhor tem posto sobre vós um rei." Samuel fala ao povo de Israel, lembrando que o rei Saul foi escolhido por Deus para liderar o povo e que, portanto, devem segui-lo.
+* Êxodo 29:43-44: "E ali virei aos filhos de Israel, e o lugar será santificado pela minha glória. E santificarei a tenda da congregação e o altar; santificarei também a Arão e seus filhos, para que me administrem o sacerdócio." Este versículo destaca a importância da santificação do lugar onde o sacrifício é oferecido e dos sacerdotes que administram o sacrifício.
+* 2 Crônicas 16:9: "Porque, quanto ao Senhor, seus olhos passam por toda a terra, para mostrar-se forte para com aqueles cujo coração é perfeito para com ele; nisso agiste loucamente; porque, desde agora, haverá guerras contra ti." Este versículo enfatiza que Deus está sempre vigilante e protege aqueles que o seguem, mas aqueles que se afastam Dele enfrentarão conflitos e dificuldades.
+* Salmo 37:7: "Descansa no Senhor e espera nele; não te indignes por causa daquele que prospera em seu caminho, por causa do homem que executa astutos intentos." Este versículo fala sobre a importância de confiar em Deus e esperar por Sua ajuda, em vez de ficar com raiva ou desesperado quando os ímpios parecem estar prosperando.
+* Isaías 10:1: "Ai dos que decretam leis injustas e dos escrivães que prescrevem opressão." Este versículo fala sobre o perigo de violar as leis de Deus e da justiça, como Saul faz quando oferece um sacrifício sem a presença do profeta Samuel. A história de Saul em 1 Samuel 13 é um exemplo de como a desobediência à vontade de Deus pode levar a consequências negativas.
+****
+
+[[v9-13-1]]
+
+^<<v9-13-1,1>>^ Saul tinha... anos quando se tornou rei. Ele reinou... dois anos sobre Israel.^&#42;1^
+
+[[v9-13-2]]
+
+^<<v9-13-2,2>>^ Saul escolheu para si três mil israelitas: dois mil para ficar com ele em Macmas e no monte Betel e mil com Jônatas em Gabaá de Benjamim. Quanto ao restante do povo, mandou que fosse cada um para a sua tenda.
+
+[[v9-13-3]]
+
+^<<v9-13-3,3>>^ Jônatas destruiu a guarnição dos filisteus de Guibea. E souberam-no os filisteus. Saul mandou por toda a terra tocar a trombeta, dizendo: “Saibam-no os hebreus”.^&#42;1^
+
+[[v9-13-4]]
+
+^<<v9-13-4,4>>^ Todo o Israel ouviu esta notícia: Saul bateu a guarnição dos filisteus e Israel atraiu sobre si o ódio deles. O povo foi convocado diante de Saul em Gálgala.
+
+[[v9-13-5]]
+
+^<<v9-13-5,5>>^ Juntaram-se os filisteus para combater contra Israel, com três mil carros, seis mil cavaleiros e uma multidão tão numerosa como a areia na praia do mar. Partiram e acamparam em Macmas, ao oriente de Bet-Áven.^&#42;1^
+
+[[v9-13-6]]
+
+^<<v9-13-6,6>>^ Os israelitas, vendo o aperto em que se achavam, porque estavam cercados de perto, ocultaram-se nas cavernas, nos matos, nos rochedos, nos fortins e nas cisternas.
+
+[[v9-13-7]]
+
+^<<v9-13-7,7>>^ Vários deles atravessaram o Jordão e foram para a terra de Gad e de Galaad. Saul, entretanto, estava ainda em Gálgala, com todo o seu povo, que tremia de medo.
+
+[[v9-13-8]]
+
+^<<v9-13-8,8>>^ Esperou sete dias, prazo fixado por Samuel, mas este não chegava e o povo começou a afastar-se.
+
+[[v9-13-9]]
+
+^<<v9-13-9,9>>^ Então Saul disse: “Trazei-me o holocausto e os sacrifícios pacíficos”. E ofereceu o holocausto.
+
+[[v9-13-10]]
+
+^<<v9-13-10,10>>^ Apenas acabava de oferecê-lo, chegou Samuel. Saul saiu-lhe ao encontro para saudá-lo.
+
+[[v9-13-11]]
+
+^<<v9-13-11,11>>^ “Que fizeste? – disse Samuel –. Vendo que o povo se dispersava e que tu não chegavas no tempo fixado e que os filisteus se tinham juntado em Macmas,
+
+[[v9-13-12]]
+
+^<<v9-13-12,12>>^ pensei: Agora eles vão cair sobre mim em Gálgala, sem que eu tenha aplacado o Senhor. Por isso, ofereci eu mesmo o holocausto.”
+
+[[v9-13-13]]
+
+^<<v9-13-13,13>>^ Samuel replicou-lhe: “Procedeste insensatamente, não observando o mandamento que te deu o Senhor, teu Deus, que estava pronto a confirmar para sempre o teu trono sobre Israel.
+
+[[v9-13-14]]
+
+^<<v9-13-14,14>>^ Agora o teu reino não subsistirá. O Senhor escolheu para si um homem segundo o seu coração e o fará chefe de seu povo, porque não observaste as suas ordens”.
+
+[[v9-13-15]]
+
+^<<v9-13-15,15>>^ E Samuel partiu, subindo de Gálgala a Gabaá de Benjamim. Quanto a Saul, passando em revista o povo que estava com ele, achou que havia cerca de seiscentos homens.
+
+[[v9-13-16]]
+
+^<<v9-13-16,16>>^ Saul, Jônatas, seu filho e o povo que tinha ficado com eles, concentraram-se em Gabaá de Benjamim, enquanto os filisteus acampavam em Macmas.
+
+[[v9-13-17]]
+
+^<<v9-13-17,17>>^ Três destacamentos saíram do acampamento dos filisteus com o intuito de saquear: um tomou o caminho de Efra, para a terra de Saul.
+
+[[v9-13-18]]
+
+^<<v9-13-18,18>>^ Outro grupo avançou pelo caminho de Bet-Horon; e o terceiro foi pelo caminho da fronteira que domina o vale de Seboim, do lado do deserto.
+
+[[v9-13-19]]
+
+^<<v9-13-19,19>>^ Ora, não se encontrava um ferreiro em toda a terra de Israel, porque os filisteus diziam: “Não deixemos que os hebreus fabriquem espadas ou lanças”.
+
+[[v9-13-20]]
+
+^<<v9-13-20,20>>^ E por isso todos os israelitas tinham que descer aos filisteus para afiar cada um a sua relha, o enxadão, o machado ou a foice,
+
+[[v9-13-21]]
+
+^<<v9-13-21,21>>^ quando o fio das relhas, dos enxadões, dos forcados ou das cunhas se embotava e para aguçar os aguilhões.^&#42;1^
+
+[[v9-13-22]]
+
+^<<v9-13-22,22>>^ E, chegando o dia do combate, não se encontrou nem espada, nem lança nas mãos do povo que acompanhava Saul e Jônatas. Somente Saul e seu filho Jônatas estavam munidos dessas armas.
+
+[[v9-13-23]]
+
+^<<v9-13-23,23>>^ Um grupo de filisteus tinha se postado no desfiladeiro de Macmas.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-012.adoc#v9-12-0[&#60; Capítulo Anterior] | <<v9-13-0,Topo>> | xref:009-i-samuel/009-i-samuel-014.adoc#v9-14-0[Próximo Capítulo &#62;]

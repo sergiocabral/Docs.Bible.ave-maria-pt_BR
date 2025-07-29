@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v28-41-0]]
+=== Eclesiástico, 41
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiástico 41 trata da mortalidade humana e da necessidade de preparação para a morte. O capítulo alerta sobre a inevitabilidade da morte e exorta os leitores a considerar sua própria mortalidade e a se preparar para a vida após a morte. Os versículos selecionados abaixo abordam temas como a brevidade da vida, a sabedoria e a prudência necessárias para se preparar para a morte, e a importância de buscar a misericórdia de Deus.
+* Jó 14:5: "Visto que os seus dias já estão marcados, contigo está o número dos seus meses; tu lhe puseste limites e fronteiras, e ele não passará deles." Este verso fala sobre a brevidade da vida humana e como Deus tem poder sobre a duração da nossa vida.
+* Provérbios 22:3: "O prudente percebe o perigo e busca refúgio; o inexperiente segue adiante e sofre as consequências." Este verso fala sobre a importância da sabedoria e da prudência para se preparar para a morte e evitar o sofrimento.
+* Lucas 12:20: "Porém Deus lhe disse: Louco! Esta noite, a sua vida lhe será exigida. Então, quem ficará com o que você preparou?" Este verso fala sobre a incerteza da vida e a importância de se preparar para a morte antes que seja tarde demais.
+* Salmos 90:12: "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio." Este verso fala sobre a importância de valorizar o tempo que temos na Terra e de nos prepararmos para a vida após a morte.
+* Eclesiastes 7:1: "Melhor é a boa fama do que o melhor ungüento, e o dia da morte do que o dia do nascimento." Este verso fala sobre a importância de se preparar para a morte e de ter uma boa reputação, que durará além da nossa vida terrena.
+****
+
+[[v28-41-1]]
+
+^<<v28-41-1,1>>^ Ó morte, como tua lembrança é amarga para o homem que vive em paz no meio de seus bens,
+
+[[v28-41-2]]
+
+^<<v28-41-2,2>>^ para o homem tranquilo e afortunado em tudo, e que ainda se encontra em condição de saborear o alimento!
+
+[[v28-41-3]]
+
+^<<v28-41-3,3>>^ Ó morte, tua sentença é suave para o indigente, cujas forças se esgotam,
+
+[[v28-41-4]]
+
+^<<v28-41-4,4>>^ para quem está no declínio da idade, carregado de cuidados, para quem não tem mais confiança e perde a paciência.
+
+[[v28-41-5]]
+
+^<<v28-41-5,5>>^ Não temas a sentença da morte; lembra-te dos que te precederam, e de todos os que virão depois de ti: é a sentença pronunciada pelo Senhor sobre todo ser vivo.
+
+[[v28-41-6]]
+
+^<<v28-41-6,6>>^ Que te sobrevirá por vontade do Altíssimo? Dez anos, cem anos, mil anos...^&#42;1^
+
+[[v28-41-7]]
+
+^<<v28-41-7,7>>^ Na habitação dos mortos não se tomam em consideração os anos de vida.
+
+[[v28-41-8]]
+
+^<<v28-41-8,8>>^ Os filhos dos pecadores tornam-se objeto de abominação, assim como os que frequentam as casas dos ímpios.
+
+[[v28-41-9]]
+
+^<<v28-41-9,9>>^ A herança dos filhos dos pecadores perecerá. O opróbrio prende-se à sua posteridade.
+
+[[v28-41-10]]
+
+^<<v28-41-10,10>>^ Os filhos de um homem ímpio queixam-se de seu pai porque é por sua culpa que estão envergonhados.
+
+[[v28-41-11]]
+
+^<<v28-41-11,11>>^ Desgraçados de vós, homens ímpios, que abandonastes a Lei do Senhor, o Altíssimo!
+
+[[v28-41-12]]
+
+^<<v28-41-12,12>>^ Se nasceis, é na maldição, e quando morrerdes, tereis a maldição como herança.
+
+[[v28-41-13]]
+
+^<<v28-41-13,13>>^ Tudo o que vem da terra voltará à terra. Assim os ímpios passam da maldição à ruína.
+
+[[v28-41-14]]
+
+^<<v28-41-14,14>>^ Os homens se entristecem com a perda de seu corpo; porém, até o nome dos ímpios será aniquilado.
+
+[[v28-41-15]]
+
+^<<v28-41-15,15>>^ Cuida em procurar para ti uma boa reputação, pois esse bem te será mais estável que mil tesouros grandes e preciosos.
+
+[[v28-41-16]]
+
+^<<v28-41-16,16>>^ A vida honesta só tem um número de dias; a boa fama, porém, permanece para sempre.
+
+[[v28-41-17]]
+
+^<<v28-41-17,17>>^ Meus filhos, guardai em paz meu ensinamento: pois uma sabedoria oculta e um tesouro invisível, para que servem essas duas coisas?
+
+[[v28-41-18]]
+
+^<<v28-41-18,18>>^ Mais vale um homem que dissimula a sua ignorância que um homem que oculta a sua sabedoria.
+
+[[v28-41-19]]
+
+^<<v28-41-19,19>>^ Tende, pois, vergonha do que vou dizer,
+
+[[v28-41-20]]
+
+^<<v28-41-20,20>>^ porque não é bom ter vergonha de tudo, e nem todas as coisas agradam, na verdade, a todos.^&#42;1^
+
+[[v28-41-21]]
+
+^<<v28-41-21,21>>^ Envergonhai-vos da fornicação, diante de vosso pai e de vossa mãe; e da mentira, diante do que governa e do poderoso;
+
+[[v28-41-22]]
+
+^<<v28-41-22,22>>^ de um delito, diante do príncipe e do juiz; da iniquidade, diante da assembleia e do povo;
+
+[[v28-41-23]]
+
+^<<v28-41-23,23>>^ da injustiça, diante de teu companheiro e de teu amigo;
+
+[[v28-41-24]]
+
+^<<v28-41-24,24>>^ de cometeres um roubo no lugar onde moras, por causa da verdade de Deus e de sua aliança. Envergonha-te de pôr os cotovelos sobre a mesa, de usar de fraude no dar e no receber,
+
+[[v28-41-25]]
+
+^<<v28-41-25,25>>^ de não responder àqueles que te saúdam, de lançar os olhos para uma prostituta,
+
+[[v28-41-26]]
+
+^<<v28-41-26,26>>^ de desviar os olhos de teu próximo, de tirar o que a ele pertence, sem devolver-lhe.
+
+[[v28-41-27]]
+
+^<<v28-41-27,27>>^ Não olhes para a mulher de outrem; não tenhas intimidades com tua criada, e não te ponhas junto do seu leito.
+
+[[v28-41-28]]
+
+^<<v28-41-28,28>>^ Envergonha-te diante de teus amigos de dizer palavras ofensivas; não censures o que deste.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-040.adoc#v28-40-0[&#60; Capítulo Anterior] | <<v28-41-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-042.adoc#v28-42-0[Próximo Capítulo &#62;]

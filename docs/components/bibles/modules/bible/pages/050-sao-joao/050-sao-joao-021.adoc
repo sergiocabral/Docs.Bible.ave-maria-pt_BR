@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v50-21-0]]
+=== São João, 21
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em João 21, o capítulo narra uma das aparições de Jesus aos seus discípulos após a sua ressurreição. Nesse encontro, Jesus realiza um milagre ao permitir que os discípulos pescassem uma grande quantidade de peixes e, em seguida, faz uma refeição com eles. Além disso, Jesus pede a Pedro que o siga e o ame, e profetiza sobre o futuro de Pedro. A seguir, são cinco versículos relacionados com os temas abordados em João 21:
+* Gênesis 22:8: "Respondeu Abraão: Deus proverá para si o cordeiro para o holocausto, meu filho." Nesse versículo, vemos a confiança de Abraão em Deus, que sempre provê para suas necessidades. Essa confiança também é exemplificada pelos discípulos em João 21, quando seguem as instruções de Jesus para pescar no lado direito do barco e acabam capturando uma grande quantidade de peixes.
+* Salmo 23:1: "O SENHOR é o meu pastor; nada me faltará." Esse salmo retrata a confiança do salmista em Deus, que cuida dele e o guia. Essa mesma confiança é demonstrada pelos discípulos em João 21, quando seguem as instruções de Jesus para pescar no lado direito do barco e confiam na sua sabedoria e autoridade.
+* Mateus 28:19: "Portanto, ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo." Esse versículo apresenta a Grande Comissão de Jesus aos seus discípulos, ordenando-lhes que preguem o evangelho a todas as nações. Em João 21, Jesus pede a Pedro que o siga e o ame, e o comissiona para cuidar do seu rebanho.
+* Atos 12:3-4: "Vendo que isso agradara aos judeus, procedeu a prender também a Pedro. Eram então os dias dos pães ázimos." Nesse versículo, vemos Pedro sendo preso por causa da sua fé em Jesus. Em João 21, Jesus profetiza sobre o futuro de Pedro, dizendo que ele também seria levado para onde não queria ir.
+* Apocalipse 22:20: "Aquele que dá testemunho destas coisas diz: Certamente venho sem demora. Amém! Vem, Senhor Jesus!" Esse versículo apresenta a promessa de que Jesus retornará para buscar a sua igreja. Em João 21, Jesus aparece aos seus discípulos após a sua ressurreição, mas deixa claro que esse encontro é temporário e que ele voltará para estar com eles novamente.
+****
+
+[[v50-21-1]]
+
+^<<v50-21-1,1>>^ Depois disso, tornou Jesus a manifestar-se aos seus discípulos junto ao lago de Tiberíades. Manifestou-se deste modo:
+
+[[v50-21-2]]
+
+^<<v50-21-2,2>>^ Estavam juntos Simão Pedro, Tomé (chamado Dídimo), Natanael (que era de Caná da Galileia), os filhos de Zebedeu e outros dois dos seus discípulos.
+
+[[v50-21-3]]
+
+^<<v50-21-3,3>>^ Disse-lhes Simão Pedro: “Vou pescar”. Responderam-lhe eles: “Também nós vamos contigo”. Partiram e entraram na barca. Naquela noite, porém, nada apanharam.
+
+[[v50-21-4]]
+
+^<<v50-21-4,4>>^ Chegada a manhã, Jesus estava na praia. Todavia, os discípulos não o reconheceram.
+
+[[v50-21-5]]
+
+^<<v50-21-5,5>>^ Perguntou-lhes Jesus: “Amigos, não tendes acaso alguma coisa para comer?”. – “Não”, responderam-lhe.
+
+[[v50-21-6]]
+
+^<<v50-21-6,6>>^ Disse-lhes ele: “Lançai a rede ao lado direito da barca e achareis”. Lançaram-na, e já não podiam arrastá-la por causa da grande quantidade de peixes.
+
+[[v50-21-7]]
+
+^<<v50-21-7,7>>^ Então, aquele discípulo a quem Jesus amava, disse a Pedro: “É o Senhor!”. Quando Simão Pedro ouviu dizer que era o Senhor, cingiu-se com a túnica (porque estava nu) e lançou-se às águas.
+
+[[v50-21-8]]
+
+^<<v50-21-8,8>>^ Os outros discípulos vieram na barca, arrastando a rede dos peixes (pois não estavam longe da terra, senão cerca de duzentos côvados).
+
+[[v50-21-9]]
+
+^<<v50-21-9,9>>^ Ao saltarem em terra, viram umas brasas preparadas e um peixe em cima delas, e pão.
+
+[[v50-21-10]]
+
+^<<v50-21-10,10>>^ Disse-lhes Jesus: “Trazei aqui alguns dos peixes que agora apanhastes”.
+
+[[v50-21-11]]
+
+^<<v50-21-11,11>>^ Subiu Simão Pedro e puxou a rede para a terra, cheia de cento e cinquenta e três peixes grandes. Apesar de serem tantos, a rede não se rompeu.
+
+[[v50-21-12]]
+
+^<<v50-21-12,12>>^ Disse-lhes Jesus: “Vinde, comei”. Nenhum dos discípulos ousou perguntar-lhe: “Quem és tu?” –, pois bem sabiam que era o Senhor.
+
+[[v50-21-13]]
+
+^<<v50-21-13,13>>^ Jesus aproximou-se, tomou o pão e lhos deu, e do mesmo modo o peixe.
+
+[[v50-21-14]]
+
+^<<v50-21-14,14>>^ Era esta já a terceira vez que Jesus se manifestava aos seus discípulos, depois de ter ressuscitado.
+
+[[v50-21-15]]
+
+^<<v50-21-15,15>>^ Tendo eles comido, Jesus perguntou a Simão Pedro: “Simão, filho de João, amas-me mais do que estes?”. Respondeu ele: “Sim, Senhor, tu sabes que te amo”. Disse-lhe Jesus: “Apascenta os meus cordeiros”.
+
+[[v50-21-16]]
+
+^<<v50-21-16,16>>^ Perguntou-lhe outra vez: “Simão, filho de João, amas-me?”. Respondeu-lhe: “Sim, Senhor, tu sabes que te amo”. Disse-lhe Jesus: “Apascenta os meus cordeiros”.
+
+[[v50-21-17]]
+
+^<<v50-21-17,17>>^ Perguntou-lhe pela terceira vez: “Simão, filho de João, amas-me?”. Pedro entristeceu-se porque lhe perguntou pela terceira vez: “Amas-me?” –, e respondeu-lhe: “Senhor, sabes tudo, tu sabes que te amo”. Disse-lhe Jesus: “Apascenta as minhas ovelhas.^&#42;1^
+
+[[v50-21-18]]
+
+^<<v50-21-18,18>>^ Em verdade, em verdade te digo: quando eras mais moço, cingias-te e andavas aonde querias. Mas, quando fores velho, estenderás as tuas mãos, e outro te cingirá e te levará para onde não queres”.
+
+[[v50-21-19]]
+
+^<<v50-21-19,19>>^ Por essas palavras, ele indicava o gênero de morte com que havia de glorificar a Deus. E depois de assim ter falado, acrescentou: “Segue-me!”.
+
+[[v50-21-20]]
+
+^<<v50-21-20,20>>^ Voltando-se Pedro, viu que o seguia aquele discípulo que Jesus amava (aquele que estivera reclinado sobre o seu peito, durante a ceia, e lhe perguntara: “Senhor, quem é que te há de trair?”).
+
+[[v50-21-21]]
+
+^<<v50-21-21,21>>^ Vendo-o, Pedro perguntou a Jesus: “Senhor, e este? Que será dele?”.
+
+[[v50-21-22]]
+
+^<<v50-21-22,22>>^ Respondeu-lhe Jesus: “Que te importa se eu quero que ele fique até que eu venha? Segue-me tu”.
+
+[[v50-21-23]]
+
+^<<v50-21-23,23>>^ Correu por isso o boato entre os irmãos de que aquele discípulo não morreria. Mas Jesus não lhe disse: “Não morrerá”, mas: “Que te importa se quero que ele fique assim até que eu venha?”.
+
+[[v50-21-24]]
+
+^<<v50-21-24,24>>^ Este é o discípulo que dá testemunho de todas essas coisas, e as escreveu. E sabemos que é digno de fé o seu testemunho.
+
+[[v50-21-25]]
+
+^<<v50-21-25,25>>^ Jesus fez ainda muitas outras coisas. Se fossem escritas uma por uma, penso que nem o mundo inteiro poderia conter os livros que se deveriam escrever.
+
+'''
+
+xref:050-sao-joao/050-sao-joao-020.adoc#v50-20-0[&#60; Capítulo Anterior] | <<v50-21-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-001.adoc#v51-1-0[Próximo Capítulo &#62;]

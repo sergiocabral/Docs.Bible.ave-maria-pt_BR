@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v28-4-0]]
+=== Eclesiástico, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiástico 4 fala sobre a importância da sabedoria, do amor fraterno, da humildade e da perseverança na vida. O capítulo também alerta sobre as armadilhas do orgulho, da ganância e da inveja, que podem levar à ruína. Abaixo estão cinco versículos relacionados a esses temas:
+* Provérbios 9:10: "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é prudência." Este versículo destaca a importância do temor a Deus para adquirir sabedoria, um dos temas centrais de Eclesiástico 4.
+* 1 Pedro 4:8: "Acima de tudo, porém, tende amor intenso uns para com os outros, porque o amor cobre uma multidão de pecados." O amor fraterno é enfatizado em Eclesiástico 4, e este versículo de Pedro destaca sua importância no contexto cristão.
+* Tiago 4:6: "Mas ele dá maior graça. Portanto, diz: Deus resiste aos soberbos, mas dá graça aos humildes." A humildade é um tema recorrente em Eclesiástico 4, e este versículo de Tiago reforça a ideia de que Deus favorece os humildes.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez do espírito precede a queda." Este versículo adverte sobre o perigo do orgulho, um dos pecados que Eclesiástico 4 alerta como uma armadilha para os tolos.
+* Hebreus 10:36: "Com efeito, tendes necessidade de perseverança, para que, havendo feito a vontade de Deus, alcanceis a promessa." A perseverança é um tema importante em Eclesiástico 4, e este versículo de Hebreus exorta os cristãos a se manterem firmes na fé.
+****
+
+[[v28-4-1]]
+
+^<<v28-4-1,1>>^ Meu filho, não negues esmola ao pobre, nem dele desvies os olhos.
+
+[[v28-4-2]]
+
+^<<v28-4-2,2>>^ Não desprezes o que tem fome, não irrites o pobre em sua indigência.
+
+[[v28-4-3]]
+
+^<<v28-4-3,3>>^ Não aflijas o coração do infeliz, não recuses tua esmola àquele que está na miséria;
+
+[[v28-4-4]]
+
+^<<v28-4-4,4>>^ não rejeites o pedido do aflito, não desvies o rosto do pobre.
+
+[[v28-4-5]]
+
+^<<v28-4-5,5>>^ Não desvies os olhos do indigente, para que ele não se zangue. Aos que pedem não dês motivo de vos amaldiçoarem pelas costas,
+
+[[v28-4-6]]
+
+^<<v28-4-6,6>>^ pois será atendida a imprecação daquele que te amaldiçoa na amargura de sua alma. Aquele que o criou o atenderá.
+
+[[v28-4-7]]
+
+^<<v28-4-7,7>>^ Torna-te afável na assembleia dos pobres, humilha tua alma diante de um ancião; curva a cabeça diante de um poderoso.
+
+[[v28-4-8]]
+
+^<<v28-4-8,8>>^ Dá ouvidos ao pobre de boa vontade. Paga a tua dívida, dá-lhe com doçura uma resposta apaziguadora.
+
+[[v28-4-9]]
+
+^<<v28-4-9,9>>^ Liberta da casa do orgulhoso aquele que sofre injustiça. Quando fizeres um julgamento, não o faças com azedume.^&#42;1^
+
+[[v28-4-10]]
+
+^<<v28-4-10,10>>^ Sê misereclodioso com os órfãos como um pai; e sê como um marido para a mãe deles.
+
+[[v28-4-11]]
+
+^<<v28-4-11,11>>^ E serás como um filho obediente do Altíssimo, que, mais do que uma mãe, terá compaixão de ti.
+
+[[v28-4-12]]
+
+^<<v28-4-12,12>>^ A sabedoria inspira a vida aos seus filhos, ela toma sob a sua proteção aqueles que a procuram; ela os precede no caminho da justiça.^&#42;1^
+
+[[v28-4-13]]
+
+^<<v28-4-13,13>>^ Aquele que a ama, ama a vida; aqueles que velam para encontrá-la sentirão sua doçura.^&#42;1^
+
+[[v28-4-14]]
+
+^<<v28-4-14,14>>^ Aqueles que a possuem terão a vida como herança, e Deus abençoará todo o lugar onde ele entrar.
+
+[[v28-4-15]]
+
+^<<v28-4-15,15>>^ Aqueles que a servem serão obedientes ao Santo; aqueles que a amam serão amados por Deus.^&#42;1^
+
+[[v28-4-16]]
+
+^<<v28-4-16,16>>^ Aquele que a ouve julgará as nações; aquele que é atento em contemplá-la permanecerá seguro.
+
+[[v28-4-17]]
+
+^<<v28-4-17,17>>^ Quem nela põe sua confiança a terá como herança e sua posteridade a possuirá,
+
+[[v28-4-18]]
+
+^<<v28-4-18,18>>^ pois na provação ela anda com ele, e escolhe-o em primeiro lugar.
+
+[[v28-4-19]]
+
+^<<v28-4-19,19>>^ Ela traz-lhe o temor, o pavor e a aprovação. Ela o atormenta com sua penosa disciplina, até que, tendo-o experimentado nos seus pensamentos, ela possa confiar nele.
+
+[[v28-4-20]]
+
+^<<v28-4-20,20>>^ Então ela o porá firme, voltará a ele em linha reta. Ela o cumula de alegria,
+
+[[v28-4-21]]
+
+^<<v28-4-21,21>>^ desvenda-lhe seus segredos e enriquece-o com tesouros de ciência, de inteligência e de justiça.
+
+[[v28-4-22]]
+
+^<<v28-4-22,22>>^ Porém, se ele se transviar, ela o abandonará, e o entregará às mãos do seu inimigo.
+
+[[v28-4-23]]
+
+^<<v28-4-23,23>>^ Meu filho, aproveita-te do tempo, evita o mal;
+
+[[v28-4-24]]
+
+^<<v28-4-24,24>>^ para o bem de tua alma, não te envergonhes de dizer a verdade,^&#42;1^
+
+[[v28-4-25]]
+
+^<<v28-4-25,25>>^ pois há uma vergonha que conduz ao pecado, e uma vergonha que atrai glória e graça.
+
+[[v28-4-26]]
+
+^<<v28-4-26,26>>^ Em teu próprio prejuízo não te mostres parcial, não mintas em prejuízo de tua alma.^&#42;1^
+
+[[v28-4-27]]
+
+^<<v28-4-27,27>>^ Não tenhas complacência com as fragilidades do próximo,^&#42;1^
+
+[[v28-4-28]]
+
+^<<v28-4-28,28>>^ não retenhas uma palavra que pode ser salutar, não escondas tua sabedoria pela tua vaidade.
+
+[[v28-4-29]]
+
+^<<v28-4-29,29>>^ Pois a sabedoria faz-se distinguir pela língua; o bom senso, o saber e a doutrina, pela palavra do sábio; e a firmeza, pelos atos de justiça.
+
+[[v28-4-30]]
+
+^<<v28-4-30,30>>^ Não contradigas de nenhum modo a verdade, envergonha-te da mentira cometida por ignorância.^&#42;1^
+
+[[v28-4-31]]
+
+^<<v28-4-31,31>>^ Não te envergonhes de confessar os teus pecados; não te tornes escravo de nenhum homem que te leve a pecar.^&#42;1^
+
+[[v28-4-32]]
+
+^<<v28-4-32,32>>^ Não resistas face a face ao homem poderoso, não te oponhas ao curso do rio.^&#42;1^
+
+[[v28-4-33]]
+
+^<<v28-4-33,33>>^ Combate pela justiça, a fim de salvares tua vida; até a morte, combate pela justiça, e Deus combaterá por ti contra teus inimigos.
+
+[[v28-4-34]]
+
+^<<v28-4-34,34>>^ Não sejas precipitado em palavras, e (ao mesmo tempo) covarde e negligente em tuas ações.
+
+[[v28-4-35]]
+
+^<<v28-4-35,35>>^ Não sejas como um leão em tua casa, prejudicando os teus domésticos e tiranizando os que te são submissos.
+
+[[v28-4-36]]
+
+^<<v28-4-36,36>>^ Que tua mão não seja aberta para receber, e fechada para dar.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-003.adoc#v28-3-0[&#60; Capítulo Anterior] | <<v28-4-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-005.adoc#v28-5-0[Próximo Capítulo &#62;]

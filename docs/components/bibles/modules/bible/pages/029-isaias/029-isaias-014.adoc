@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v29-14-0]]
+=== Isaías, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 14 começa com a profecia da queda do rei da Babilônia, que havia oprimido o povo de Israel. O capítulo descreve a queda desse rei orgulhoso e arrogante, que agora será reduzido a um simples cadáver como qualquer outro homem. Em seguida, o povo de Israel é convocado a cantar um cântico de triunfo, pois a opressão do inimigo chegou ao fim.
+* Salmos 137:8-9: "Ó filha da Babilônia, devastadora; feliz aquele que te retribuir o que nos fizeste! Feliz aquele que pegar teus filhinhos e esmagá-los contra a rocha!" Este salmo expressa a amargura do povo de Israel em relação à Babilônia, que havia destruído o templo e levado o povo para o exílio.
+* Jeremias 50:34: "Contudo, o seu Redentor é forte, o Senhor dos Exércitos é o seu nome. Ele defenderá vigorosamente o meu povo na sua causa, para que possa dar descanso à terra e causar terror aos moradores da Babilônia." Neste versículo, Jeremias profetiza a derrota final da Babilônia e a libertação do povo de Deus.
+* Apocalipse 18:2: "Ele clamou com voz forte, dizendo: 'Caiu! Caiu a grande Babilônia! Ela se tornou morada de demônios e abrigo de todo espírito imundo, abrigo de toda ave impura e detestável!'" Neste versículo do livro de Apocalipse, a queda da Babilônia é anunciada novamente, desta vez sob a forma de uma cidade corrupta e imoral que atrai a ira de Deus.
+* Zacarias 2:7-9: "Aí, a cidade do Senhor dos Exércitos! Será um esplendor! Ele enviará os seus mensageiros para anunciarem a salvação, dizendo: 'Consolai-vos, consolai-vos, ó povo meu, diz o Senhor. Falai ao coração de Jerusalém, dizendo que ela já cumpriu o seu tempo, que a sua iniquidade está perdoada, que já recebeu em dobro da mão do Senhor, por todos os seus pecados.'" Este trecho de Zacarias fala da restauração de Jerusalém após o exílio babilônico e a queda da Babilônia.
+* Apocalipse 19:1-2: "Depois destas coisas, ouvi no céu como que um grande clamor de uma multidão que dizia: 'Aleluia! A salvação, a glória e o poder pertencem ao nosso Deus, pois verdadeiros e justos são os seus juízos. Ele julgou a grande prostituta que corrompia a terra com a sua prostituição, e vingou o sangue dos seus servos nas mãos dela!'" Este trecho do livro de Apocalipse também fala da queda da Babilônia, agora sob a forma de uma "prostituta" que corrompe a terra e que é finalmente julgada por Deus.
+****
+
+[[v29-14-1]]
+
+^<<v29-14-1,1>>^ Porque o Senhor terá compaixão de Jacó, e ainda dará a Israel a sua predileção e os restabelecerá na sua terra, os estrangeiros se reunirão a eles e se agregarão à casa de Jacó.
+
+[[v29-14-2]]
+
+^<<v29-14-2,2>>^ Os povos virão buscá-los para conduzi-los à sua morada. A casa de Israel os possuirá na terra do Senhor como servos e como servas. Conservarão prisioneiros aqueles que os tinham detido, e dominarão seus opressores.
+
+[[v29-14-3]]
+
+^<<v29-14-3,3>>^ Quando o Senhor te tiver aliviado de tuas penas, de teus tormentos e da dura servidão a que estiveste sujeito,
+
+[[v29-14-4]]
+
+^<<v29-14-4,4>>^ cantarás esta sátira contra o rei de Babilônia, e dirás: “Como? Não existe mais o tirano! Acabou-se a tormenta!^&#42;1^
+
+[[v29-14-5]]
+
+^<<v29-14-5,5>>^ O Senhor despedaçou o bastão dos perversos e o cetro dos opressores.
+
+[[v29-14-6]]
+
+^<<v29-14-6,6>>^ Ele feria os povos com fúria, vibrando golpes sem interrupção, e governava as nações com brutalidade, subjugando-as sem piedade.
+
+[[v29-14-7]]
+
+^<<v29-14-7,7>>^ Toda a terra conhece o repouso e a paz, todos exultam em cantos de alegria.
+
+[[v29-14-8]]
+
+^<<v29-14-8,8>>^ Até os ciprestes se regozijam de tua queda, dizendo com os cedros do Líbano: ‘Desde que caíste, não sobe até nós o lenhador’.
+
+[[v29-14-9]]
+
+^<<v29-14-9,9>>^ Debaixo da terra se agita a morada dos mortos, para receber-te à tua chegada; despertam em tua honra as sombras dos grandes, e todos os senhores da terra, e levantam-se de seus tronos todos os reis das nações.
+
+[[v29-14-10]]
+
+^<<v29-14-10,10>>^ Todos tomam a palavra para dizer-te: ‘Finalmente, eis-te fraco como nós, eis-te semelhante a nós’.
+
+[[v29-14-11]]
+
+^<<v29-14-11,11>>^ Tua majestade desceu à morada dos mortos, acompanhada do som de tuas harpas. Jazes sobre um leito de vermes e os vermes são a tua coberta.
+
+[[v29-14-12]]
+
+^<<v29-14-12,12>>^ Então! Caíste dos céus, astro brilhante, filho da aurora! Então! Foste abatido por terra, tu que prostravas as nações!^&#42;1^
+
+[[v29-14-13]]
+
+^<<v29-14-13,13>>^ Tu dizias: ‘Escalarei os céus e erigirei meu trono acima das estrelas. Eu me assentarei no monte da assembleia, no extremo norte.^&#42;1^
+
+[[v29-14-14]]
+
+^<<v29-14-14,14>>^ Subirei sobre as nuvens mais altas e me tornarei igual ao Altíssimo’.
+
+[[v29-14-15]]
+
+^<<v29-14-15,15>>^ E, entretanto, eis que foste precipitado à morada dos mortos, ao mais profundo abismo.
+
+[[v29-14-16]]
+
+^<<v29-14-16,16>>^ Detêm-se para ver-te melhor, e procuram reconhecer-te: ‘Porventura é aquele que fazia tremer a terra, e abalava os impérios,
+
+[[v29-14-17]]
+
+^<<v29-14-17,17>>^ que fazia do mundo um deserto, e destruía as cidades, e impedia os prisioneiros de voltarem para suas casas?’.
+
+[[v29-14-18]]
+
+^<<v29-14-18,18>>^ Todos os reis das nações, todos repousam com glória, cada um no seu túmulo;
+
+[[v29-14-19]]
+
+^<<v29-14-19,19>>^ tu, porém, foste atirado para longe de teu sepulcro, como um aborto que causa horror. Os cadáveres dos homens mortos à espada jazem sobre as pedras de uma tumba;
+
+[[v29-14-20]]
+
+^<<v29-14-20,20>>^ tal como uma carniça que se calca aos pés, tu não te reunirás a eles no sepulcro, porque arruinaste tua terra, e fizeste perecer o teu povo. Nunca, jamais se falará da raça dos ímpios.^&#42;1^
+
+[[v29-14-21]]
+
+^<<v29-14-21,21>>^ Preparai o massacre dos filhos por causa da iniquidade dos pais. Que eles não se levantem para conquistar o mundo, e invadir toda a face da terra.
+
+[[v29-14-22]]
+
+^<<v29-14-22,22>>^ ‘Eu me levantarei contra eles’ – declara o Senhor dos exércitos –, ‘apagarei o nome e o vestígio de Babilônia, sua raça e sua posteridade’ – diz o Senhor –.
+
+[[v29-14-23]]
+
+^<<v29-14-23,23>>^ ‘Farei dela o domínio da garça real, um lodaçal. Eu, varrerei com a vassoura da destruição’, – palavra do Senhor dos exércitos”.
+
+[[v29-14-24]]
+
+^<<v29-14-24,24>>^ Jurou o Senhor dos exércitos: “Por certo será feito como eu decidi, e o que resolvi se cumprirá.
+
+[[v29-14-25]]
+
+^<<v29-14-25,25>>^ Esmagarei o assírio em minha terra e o calcarei aos pés nos meus montes. Serão livres de seu jugo, e o seu fardo não lhes pesará nos ombros.
+
+[[v29-14-26]]
+
+^<<v29-14-26,26>>^ Eis a decisão tomada para toda a terra; é assim que eu estendo a mão sobre todas as nações”.
+
+[[v29-14-27]]
+
+^<<v29-14-27,27>>^ O Senhor dos exércitos decidiu, quem mudará sua sentença? Sua mão está estendida, quem o fará retirá-la?
+
+[[v29-14-28]]
+
+^<<v29-14-28,28>>^ Este oráculo data do ano da morte do rei Acaz:
+
+[[v29-14-29]]
+
+^<<v29-14-29,29>>^ Não te alegres, ó terra dos filisteus, de que tenha sido quebrada a vara que te feria, porque da estirpe da serpente nascerá uma áspide, e seu fruto será um dragão voador.
+
+[[v29-14-30]]
+
+^<<v29-14-30,30>>^ Os humildes poderão pastar nas minhas pastagens, e os pobres dormirão tranquilos. Eu farei, porém, morrer de fome a tua raça, e matarei tua posteridade.
+
+[[v29-14-31]]
+
+^<<v29-14-31,31>>^ Lamenta-te, ó porta! Grita, ó cidade! Treme, ó terra inteira dos filisteus! Porque do norte vem uma nuvem de poeira, e batalhões em filas cerradas.^&#42;1^
+
+[[v29-14-32]]
+
+^<<v29-14-32,32>>^ E que responderá meu povo aos mensageiros desta nação? Que o Senhor fundou Sião, e que os humildes de seu povo aí encontrarão o refúgio.^&#42;1^
+
+'''
+
+xref:029-isaias/029-isaias-013.adoc#v29-13-0[&#60; Capítulo Anterior] | <<v29-14-0,Topo>> | xref:029-isaias/029-isaias-015.adoc#v29-15-0[Próximo Capítulo &#62;]

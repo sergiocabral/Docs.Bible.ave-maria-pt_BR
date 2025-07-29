@@ -1,0 +1,215 @@
+include::./index.adoc[]
+
+[[v22-14-0]]
+=== I Macabeus, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em 1 Macabeus 14, é descrito como Simão, filho de Matatias, é escolhido como líder e sumo sacerdote pelos judeus. Ele fortalece a cidade de Jerusalém, estabelece alianças com outras nações e é reconhecido como líder pelos romanos. Alguns versículos relacionados com os temas abordados neste capítulo são:
+* Neemias 9:27: "Então tu os entregaste na mão dos seus adversários, que os afligiram; mas no tempo da sua tribulação, quando clamaram a ti, desde os céus tu os ouviste, e segundo a tua grande misericórdia lhes deste libertadores que os salvaram das mãos dos seus adversários." Este versículo fala sobre Deus ouvindo o clamor do povo em tempos de tribulação e enviando libertadores para salvá-los, o que é algo que acontece em 1 Macabeus 14 com a escolha de Simão como líder.
+* Provérbios 21:1: "O coração do rei é como um rio de águas na mão do Senhor; ele o inclina para onde quer." Este versículo fala sobre como Deus tem poder sobre os reis e pode inclinar seus corações para agir de acordo com Sua vontade, o que pode ser visto em 1 Macabeus 14, onde Simão é reconhecido pelos romanos como líder.
+* Isaías 60:10: "E os filhos dos estrangeiros edificarão os teus muros, e os seus reis te servirão; porque no meu furor te feri, mas na minha benignidade tive misericórdia de ti." Este versículo fala sobre como, apesar de terem sofrido por causa da ira de Deus, o povo será ajudado por estrangeiros e seus reis, o que pode ser visto em 1 Macabeus 14 com as alianças que Simão estabelece.
+* Provérbios 11:14: "Onde não há conselho os projetos se dispersam, mas na multidão de conselheiros há firmeza." Este versículo fala sobre a importância de se ter conselheiros sábios para tomar decisões firmes, o que é algo que Simão faz em 1 Macabeus 14 ao estabelecer alianças com outras nações.
+* Jeremias 31:33: "Porque esta é a aliança que firmarei com a casa de Israel depois daqueles dias, diz o Senhor: Porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo." Este versículo fala sobre a aliança de Deus com o povo de Israel, que é um tema recorrente em 1 Macabeus, especialmente em relação à defesa da fé judaica.
+****
+
+[[v22-14-1]]
+
+^<<v22-14-1,1>>^ Pelo ano cento e setenta e dois, o rei Demétrio reuniu suas tropas e partiu para a Média, para aí organizar um exército de socorro na sua luta contra Trifão.
+
+[[v22-14-2]]
+
+^<<v22-14-2,2>>^ Mas Arsaces, rei da Pérsia e da Média, informado de que Demétrio havia entrado no seu território, enviou um de seus generais para pegá-lo vivo.
+
+[[v22-14-3]]
+
+^<<v22-14-3,3>>^ Partiu, pois, este, desbaratou o exército de Demétrio e apoderou-se de sua pessoa. Enviou-o a Arsaces, e este o encarcerou.
+
+[[v22-14-4]]
+
+^<<v22-14-4,4>>^ Na Judeia reinou a paz, enquanto viveu Simão. Ele procurou o bem-estar de seu povo e este se agradou do seu poder e reputação.
+
+[[v22-14-5]]
+
+^<<v22-14-5,5>>^ Com toda a glória que adquiriu, tomou Jope como porto e construiu um acesso para as ilhas do mar.
+
+[[v22-14-6]]
+
+^<<v22-14-6,6>>^ Ampliou as fronteiras de seu povo e estendeu sua autoridade sobre todo o país.
+
+[[v22-14-7]]
+
+^<<v22-14-7,7>>^ Repatriou muitos dos judeus prisioneiros do estrangeiro, apoderou-se de Gazara, de Betsur e da fortaleza de Jerusalém, que purificou de suas impurezas e ninguém ousava opor-lhe resistência.
+
+[[v22-14-8]]
+
+^<<v22-14-8,8>>^ Cada um cultivava em paz sua terra; o solo lhes dava suas colheitas e as árvores dos campos, seus frutos.
+
+[[v22-14-9]]
+
+^<<v22-14-9,9>>^ Os anciãos assentavam-se nas praças públicas e entretinham-se com o bem comum; os jovens revestiam-se de troféus e de equipamentos de guerra.
+
+[[v22-14-10]]
+
+^<<v22-14-10,10>>^ Simão forneceu víveres às cidades e tomou resoluções para edificar praças fortes, de modo que em toda a parte, até as extremidades da terra, celebrava-se seu nome.
+
+[[v22-14-11]]
+
+^<<v22-14-11,11>>^ Estabeleceu a paz em seu país e todo o Israel exultava.
+
+[[v22-14-12]]
+
+^<<v22-14-12,12>>^ Cada um podia assentar-se sob sua parreira ou figueira, sem recear o inimigo.
+
+[[v22-14-13]]
+
+^<<v22-14-13,13>>^ Não houve ninguém para atacá-los, e os reis, nessa época, foram abatidos.
+
+[[v22-14-14]]
+
+^<<v22-14-14,14>>^ Protegeu os humildes do seu povo, zelou pela Lei e exterminou os ímpios e os perversos.
+
+[[v22-14-15]]
+
+^<<v22-14-15,15>>^ Contribuiu para o esplendor do templo e enriqueceu o tesouro.
+
+[[v22-14-16]]
+
+^<<v22-14-16,16>>^ A notícia da morte de Jônatas chegou a Roma e também a Esparta, provocando grandes pesares.
+
+[[v22-14-17]]
+
+^<<v22-14-17,17>>^ Mas, logo que os romanos e os espartanos souberam que seu irmão Simão se tinha tornado sumo sacerdote em seu lugar e governava o país com as cidades que ali se achavam,
+
+[[v22-14-18]]
+
+^<<v22-14-18,18>>^ escreveram-lhe em placas de bronze, para renovar a amizade e a aliança, outrora concluída com seus irmãos Judas e Jônatas.
+
+[[v22-14-19]]
+
+^<<v22-14-19,19>>^ Essas mensagens foram lidas diante da assembleia em Jerusalém. Eis a cópia daquela que enviaram os espartanos:
+
+[[v22-14-20]]
+
+^<<v22-14-20,20>>^ “Os arcontes da cidade de Esparta ao sumo sacerdote Simão, aos anciãos, aos sacerdotes e ao povo judeu, seu irmão, saudações!
+
+[[v22-14-21]]
+
+^<<v22-14-21,21>>^ Os mensageiros que enviastes ao nosso povo contaram-nos vossa celebridade e glória, e nós nos regozijamos com sua chegada.
+
+[[v22-14-22]]
+
+^<<v22-14-22,22>>^ Nós consignamos, como segue, a proposta que eles fizeram às deliberações do povo: ‘Numênio, filho de Antíoco, e Antípatro, filho de Jasão, vieram a nós, da parte dos judeus, para renovar sua amizade conosco.
+
+[[v22-14-23]]
+
+^<<v22-14-23,23>>^ Pareceu bem ao povo recebê-los com honra e depositar uma cópia de suas palavras nos arquivos públicos, para que ficasse na memória do povo de Esparta. Sobre isso enviamos uma cópia a Simão, sumo sacerdote’.”
+
+[[v22-14-24]]
+
+^<<v22-14-24,24>>^ Em seguida, Simão enviou Numênio a Roma com um grande escudo de ouro, que pesava mil minas, para firmar aliança com os romanos.
+
+[[v22-14-25]]
+
+^<<v22-14-25,25>>^ Quando o povo foi informado disso tudo, disse: “Que sinal de reconhecimento daremos a Simão e a seus filhos?
+
+[[v22-14-26]]
+
+^<<v22-14-26,26>>^ Ele mesmo, seus irmãos e a casa de seu pai mostraram-se valorosos, venceram os inimigos de Israel e asseguraram-lhe a liberdade”. Gravaram, pois, uma inscrição em tábuas de bronze e colocaram-nas entre as colunas conservadas no monte Sião.
+
+[[v22-14-27]]
+
+^<<v22-14-27,27>>^ Eis a cópia dessa inscrição: “No dia dezoito do mês de Elul, do ano cento e setenta e dois, o terceiro ano do pontificado de Simão, sumo sacerdote insigne, em Asaramel,^&#42;1^
+
+[[v22-14-28]]
+
+^<<v22-14-28,28>>^ na grande assembleia dos sacerdotes, do povo, dos chefes da nação e dos anciãos do país, foi declarado o seguinte: No momento em que as guerras renasciam sem cessar no país,
+
+[[v22-14-29]]
+
+^<<v22-14-29,29>>^ Simão, filho de Matatias, descendente de Joarib, e seus irmãos expuseram-se ao perigo e resistiram aos inimigos de sua pátria, para salvar o templo e a Lei, levando seu povo a uma grande glória.
+
+[[v22-14-30]]
+
+^<<v22-14-30,30>>^ Jônatas reuniu seu povo e tornou-se o sumo sacerdote; depois foi reunir-se a seu povo.
+
+[[v22-14-31]]
+
+^<<v22-14-31,31>>^ Os inimigos quiseram invadir o país para devastá-lo e lançar a mão sobre os lugares santos,
+
+[[v22-14-32]]
+
+^<<v22-14-32,32>>^ mas então se levantou Simão. Combateu por sua nação, distribuiu uma grande parte de seus bens para armar os homens de seu exército e pagar seu soldo.
+
+[[v22-14-33]]
+
+^<<v22-14-33,33>>^ Fortificou as cidades da Judeia, assim como Betsur, que se situa na fronteira, outrora arsenal do inimigo, onde ele estabeleceu uma guarnição judia;
+
+[[v22-14-34]]
+
+^<<v22-14-34,34>>^ Jope, que se acha na costa; Gazara, na região de Azoto, outrora povoada de inimigos, que ele substituiu por judeus. E muniu todas estas cidades com o que era necessário para sua defesa.
+
+[[v22-14-35]]
+
+^<<v22-14-35,35>>^ O povo viu o procedimento de Simão e a glória que ele queria adquirir para a sua raça; escolheu-o para chefe e sumo sacerdote, por causa de tudo o que ele havia efetuado, pela justiça e fidelidade que guardou à sua pátria e porque procurava de todo modo exaltá-la.
+
+[[v22-14-36]]
+
+^<<v22-14-36,36>>^ Sob sua autoridade o povo tinha chegado a rechaçar os pagãos de seu território e a expulsar os ocupantes da Cidade de Davi em Jerusalém, lugar no qual haviam estabelecido uma fortaleza e da qual saíam para manchar os acessos do templo e profanar gravemente a santidade.
+
+[[v22-14-37]]
+
+^<<v22-14-37,37>>^ Simão colocou ali uma guarnição judia, fortificou-a para proteger o país e a cidade, e ergueu os muros de Jerusalém.
+
+[[v22-14-38]]
+
+^<<v22-14-38,38>>^ Depois disso, o rei Demétrio confirmou Simão no cargo de sumo sacerdote,
+
+[[v22-14-39]]
+
+^<<v22-14-39,39>>^ contou-o no número de seus amigos e demonstrou-lhe uma grande consideração.
+
+[[v22-14-40]]
+
+^<<v22-14-40,40>>^ Com efeito, ele soube que os romanos davam aos judeus o nome de irmãos, de amigos e de aliados e que tinham recebido com honras os enviados de Simão.
+
+[[v22-14-41]]
+
+^<<v22-14-41,41>>^ Soube também que os judeus e seus sacerdotes haviam consentido que Simão se tornasse seu chefe e sumo sacerdote, perpetuamente, até a vinda de um profeta fiel,
+
+[[v22-14-42]]
+
+^<<v22-14-42,42>>^ que tomasse o comando do exército, cuidasse do culto, designasse superintendentes para os trabalhos, as regiões, os armamentos e as fortificações;
+
+[[v22-14-43]]
+
+^<<v22-14-43,43>>^ que se ocupasse do culto e fosse obedecido por todos; que, no país, todos os documentos fossem escritos em seu nome; e que andasse vestido de púrpura e trouxesse fivelas de ouro.
+
+[[v22-14-44]]
+
+^<<v22-14-44,44>>^ Não seria permitido a ninguém do povo ou dos sacerdotes rejeitar uma só de suas disposições, contradizer suas ordens, convocar uma assembleia no país sem sua autorização, vestir-se de púrpura ou usar fivela de ouro.
+
+[[v22-14-45]]
+
+^<<v22-14-45,45>>^ Quem quer que agisse contra essas decisões ou violasse um de seus artigos seria culpado.
+
+[[v22-14-46]]
+
+^<<v22-14-46,46>>^ Aprouve ao povo permitir a Simão agir conforme essas normas.
+
+[[v22-14-47]]
+
+^<<v22-14-47,47>>^ Simão aceitou. Prontificou-se a ser sumo pontífice, chefe do exército, governador dos judeus e dos sacerdotes e exercer a autoridade suprema.
+
+[[v22-14-48]]
+
+^<<v22-14-48,48>>^ Foi ordenado que essa inscrição fosse gravada em placas de bronze e colocada num lugar visível da galeria do templo,
+
+[[v22-14-49]]
+
+^<<v22-14-49,49>>^ ao passo que uma cópia seria depositada na sala do tesouro, à disposição de Simão e de seus filhos”.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-013.adoc#v22-13-0[&#60; Capítulo Anterior] | <<v22-14-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-015.adoc#v22-15-0[Próximo Capítulo &#62;]

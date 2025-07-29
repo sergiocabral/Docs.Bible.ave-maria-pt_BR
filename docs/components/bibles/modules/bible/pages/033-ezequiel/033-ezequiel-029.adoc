@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v33-29-0]]
+=== Ezequiel, 29
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 29 contém uma mensagem de julgamento contra o faraó e o Egito por terem se oposto ao povo de Deus. O capítulo começa com uma declaração de Deus de que Ele está contra o faraó e contra o Egito e termina com uma promessa de restauração para o povo de Israel. Os versículos a seguir fornecem uma ampliação do contexto histórico e das implicações do julgamento de Deus sobre o Egito:
+* Isaías 31:1: "Ai dos que descem ao Egito a buscar socorro, e se estribam em cavalos; e têm confiança em carros, porque são muitos; e nos cavaleiros, porque são poderosíssimos; e não atentam para o Santo de Israel, e não buscam ao Senhor!" Este versículo adverte o povo de Deus contra buscar ajuda no Egito em vez de confiar em Deus. A mensagem de julgamento em Ezequiel 29 é uma consequência direta dessa falta de confiança em Deus.
+* Êxodo 7:5: "E os egípcios saberão que eu sou o Senhor, quando estender a minha mão sobre o Egito, e tirar os filhos de Israel do meio deles." Deus promete libertar os filhos de Israel do Egito e mostrar seu poder sobre os deuses do Egito. A mensagem de julgamento em Ezequiel 29 é um cumprimento dessa promessa.
+* Isaías 19:1: "Peso do Egito. Eis que o Senhor cavalga sobre uma nuvem ligeira, e entra no Egito; e os ídolos do Egito estremecerão diante dele, e o coração dos egípcios se derreterá no meio deles." Este versículo descreve a chegada de Deus ao Egito para julgamento. A mensagem de Ezequiel 29 é um exemplo dessa justiça divina.
+* Jeremias 46:25: "O Senhor dos Exércitos, Deus de Israel, disse: Eis que eu trarei castigo sobre Amom de No, e sobre Faraó, e sobre o Egito, juntamente com os seus deuses, e os seus reis; sim, sobre Faraó, e sobre os que nele confiam." Este versículo prediz o julgamento de Deus sobre o Egito e seus deuses. A mensagem de Ezequiel 29 é uma confirmação desse julgamento.
+* Oséias 9:3: "Eles não habitarão na terra do Senhor; mas voltará Efraim ao Egito, e comerão em Assíria comida impura." Este versículo profetiza a dispersão do povo de Israel e sua subsequente volta ao Egito. A mensagem de Ezequiel 29 é uma resposta a essa ação e uma afirmação da soberania de Deus sobre todas as nações, incluindo o Egito.
+****
+
+[[v33-29-1]]
+
+^<<v33-29-1,1>>^ No décimo ano, no décimo segundo dia do décimo mês, a palavra do Senhor foi-me dirigida nestes termos:
+
+[[v33-29-2]]
+
+^<<v33-29-2,2>>^ “Filho do homem, volta a face para o faraó, rei do Egito, e profetiza contra ele, assim como contra todo o Egito:
+
+[[v33-29-3]]
+
+^<<v33-29-3,3>>^ faze-lhe este discurso: eis o que diz o Senhor Javé: É contra ti, faraó, rei do Egito, que venho; crocodilo monstruoso, que estás deitado no meio dos teus Nilos. E que dizes: meus Nilos são meus, fui eu que os fiz.^&#42;1^
+
+[[v33-29-4]]
+
+^<<v33-29-4,4>>^ Vou pôr freios em tuas mandíbulas, em tuas escamas prenderei os peixes dos teus Nilos eu te tirarei dos teus Nilos com todos os peixes de teus Nilos agarrados às tuas escamas.
+
+[[v33-29-5]]
+
+^<<v33-29-5,5>>^ Irei lançar-te no deserto com todos os peixes de teus Nilos, ficarás estendido sobre a terra, sem ser recolhido nem enterrado. Às feras da terra e aos pássaros do céu te darei por pasto.
+
+[[v33-29-6]]
+
+^<<v33-29-6,6>>^ Todos os egípcios saberão então que eu sou o Senhor. Teu apoio foi o apoio de um caniço para a casa de Israel:
+
+[[v33-29-7]]
+
+^<<v33-29-7,7>>^ quando te tomaram na mão, tu te quebraste, e lhes feriste o ombro todo; quando eles se apoiaram em ti, tu te rompeste, e tu lhes fizeste vacilar os rins.^&#42;1^
+
+[[v33-29-8]]
+
+^<<v33-29-8,8>>^ Eis por que diz o Senhor Javé: vou levar contra ti a espada, para separar de teu meio homens e animais.
+
+[[v33-29-9]]
+
+^<<v33-29-9,9>>^ O Egito se tornará um deserto e uma solidão; dessa forma, se saberá que sou eu o Senhor. Pois disseste: o Nilo é meu, fui eu que o fiz;
+
+[[v33-29-10]]
+
+^<<v33-29-10,10>>^ por isso, vou arremessar-me contra ti, e contra teu Nilo; farei do Egito um deserto e uma solidão, desde Magdol até Siene e até os confins da Etiópia.
+
+[[v33-29-11]]
+
+^<<v33-29-11,11>>^ Nenhum pé humano passará aí, e também nenhum pé de animal; ele ficará inabitado durante quarenta anos.
+
+[[v33-29-12]]
+
+^<<v33-29-12,12>>^ Farei do Egito um deserto entre os desertos e suas cidades ficarão desoladas entre as cidades desoladas durante quarenta anos; dispersarei os egípcios entre os povos e eu os disseminarei entre outros países.
+
+[[v33-29-13]]
+
+^<<v33-29-13,13>>^ Eis o que diz o Senhor Javé: ao fim de quarenta anos, reunirei os egípcios dentre os povos onde estiverem dispersos.
+
+[[v33-29-14]]
+
+^<<v33-29-14,14>>^ Trarei os egípcios cativos e os restabelecerei na terra de Patros, de onde são originários; eles aí constituirão um pequeno reino.
+
+[[v33-29-15]]
+
+^<<v33-29-15,15>>^ Será o Egito o mais modesto de todos os reinos, e não mais se erguerá acima das nações. Reduzirei sua população, para que ele não mais domine outras nações.
+
+[[v33-29-16]]
+
+^<<v33-29-16,16>>^ Ele não será mais para Israel objeto de confiança; porque recordará a falta que cometeu Israel, em se voltando para ele. Assim se saberá que sou eu o Senhor Javé.”^&#42;1^
+
+[[v33-29-17]]
+
+^<<v33-29-17,17>>^ No vigésimo sétimo ano, no primeiro mês, no primeiro dia do mês, a palavra do Senhor foi-me dirigida nestes termos:
+
+[[v33-29-18]]
+
+^<<v33-29-18,18>>^ “Filho do homem, Nabucodonosor, rei da Babilônia, impôs a seu exército a rude faina de guerrear Tiro: calvície em todos os crânios, esfoladuras em todas as espáduas! Todavia, nem ele nem seu exército retirarão de Tiro qualquer vantagem da opressão contra ela dirigida.^&#42;1^
+
+[[v33-29-19]]
+
+^<<v33-29-19,19>>^ Eis por que diz o Senhor Javé: irei dar o Egito a Nabucodonosor, rei da Babilônia; ele pilhará suas riquezas; fará dele a sua presa, e repartirá os seus despojos; tal será o salário de seu exército.
+
+[[v33-29-20]]
+
+^<<v33-29-20,20>>^ Por preço do trabalho feito contra Tiro, eu lhe dou o Egito, pois é para mim que trabalharam – oráculo do Senhor Javé.
+
+[[v33-29-21]]
+
+^<<v33-29-21,21>>^ Naquele dia, farei brotar um chifre na casa de Israel e te darei licença para abrir a boca no meio deles, e assim saberão que sou eu o Senhor”.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-028.adoc#v33-28-0[&#60; Capítulo Anterior] | <<v33-29-0,Topo>> | xref:033-ezequiel/033-ezequiel-030.adoc#v33-30-0[Próximo Capítulo &#62;]

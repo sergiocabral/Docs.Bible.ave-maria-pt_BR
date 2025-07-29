@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v5-23-0]]
+=== Deuteronômio, 23
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Deuteronômio 23 trata de leis e normas sociais que regem a vida da comunidade de Israel. O capítulo começa com as pessoas que não podem fazer parte da assembleia de Deus, incluindo os eunucos, os amonitas e os moabitas. Em seguida, são dadas instruções sobre a limpeza do acampamento, a higiene pessoal e o tratamento dos escravos fugitivos. O capítulo continua com as regras para lidar com os votos feitos a Deus e termina com as orientações sobre a colheita e a partilha dos produtos da terra.
+* 1 Reis 21:1-3: "Sucedeu, depois destas coisas, que Nabote, o jezreelita, tinha uma vinha junto ao palácio de Acabe, rei de Samaria. Então Acabe falou a Nabote, dizendo: Dá-me a tua vinha para que me sirva de horta, pois está perto da minha casa; e dar-te-ei por ela outra vinha melhor; ou, se te apraz, dar-te-ei o seu valor em dinheiro. Porém Nabote disse a Acabe: Guarde-me o Senhor de que eu te dê a herança de meus pais." Esse versículo fala sobre a posse da terra, que é mencionada em Deuteronômio 23:23. A terra pertence a Deus, e o povo de Israel deve respeitar as leis e regulamentos que Ele estabeleceu para a sua posse e uso adequado.
+* Salmos 15:1-2: "Senhor, quem habitará no teu tabernáculo? Quem morará no teu santo monte? Aquele que anda em sinceridade, e pratica a justiça, e fala a verdade no seu coração." Esse versículo fala sobre a pureza moral, que é mencionada em Deuteronômio 23:9-14. A higiene pessoal é importante para a pureza moral, e o povo de Israel deve estar atento para evitar qualquer impureza, tanto física quanto moral.
+* Jeremias 38:6: "Tomaram, pois, a Jeremias, e o lançaram na cisterna de Malquias, filho do rei, que estava no átrio da guarda; e desceram Jeremias com cordas; na cisterna não havia água, mas lama; e atolou-se Jeremias na lama." Esse versículo fala sobre a punição e a tortura, que são mencionadas em Deuteronômio 23:15-16. O povo de Israel não deve tratar os seus escravos fugitivos com crueldade ou punições excessivas.
+* Isaías 56:4-5: "Porque assim diz o Senhor: Aos eunucos que guardam os meus sábados, e escolhem aquilo em que eu me agrado, e abraçam a minha aliança, dar-lhes-ei na minha casa e dentro dos meus muros um memorial e um nome melhor do que o de filhos e filhas; um nome eterno darei a cada um deles, que nunca se apagará." Esse versículo fala sobre os eunucos, que são mencionados em Deuteronômio 23:1 como sendo excluídos da assembleia do Senhor. Aqui, Isaías diz que aqueles que guardam os sábados do Senhor e abraçam a sua aliança serão abençoados com um nome eterno na casa do Senhor.
+* Números 22:12: "E disse Deus a Balaão: Não irás com eles, nem amaldiçoarás este povo, porque bendito é." Esse versículo fala sobre o fato de que Deus proíbe os amonitas e os moabitas de fazerem parte da assembleia do Senhor, que é mencionado em Deuteronômio 23:3-6. Os amonitas e os moabitas não podiam entrar na assembleia do Senhor até a décima geração, por causa da forma como trataram Israel no caminho para Canaã.
+****
+
+[[v5-23-1]]
+
+^<<v5-23-1,1>>^ Ninguém desposará a mulher de seu pai, nem levantará a cobertura do leito paterno.”
+
+[[v5-23-2]]
+
+^<<v5-23-2,2>>^ “O homem, cujos testículos foram esmagados ou cortado o membro viril, não será admitido na assembleia do Senhor.
+
+[[v5-23-3]]
+
+^<<v5-23-3,3>>^ O bastardo não entrará tampouco na assembleia do Senhor, mesmo até a décima geração.
+
+[[v5-23-4]]
+
+^<<v5-23-4,4>>^ O amonita e o moabita não serão admitidos na assembleia do Senhor, mesmo até a décima geração,^&#42;1^
+
+[[v5-23-5]]
+
+^<<v5-23-5,5>>^ nem nunca jamais, porque não quiseram sair ao vosso encontro no caminho com pão e água, quando saístes do Egito, e também porque assalariaram contra ti Balaão, filho de Beor, de Petor, na Mesopotâmia, para que te amaldiçoasse.
+
+[[v5-23-6]]
+
+^<<v5-23-6,6>>^ Mas o Senhor, teu Deus, que te ama, não quis ouvir Balaão e trocou para ti a sua maldição em bênção.
+
+[[v5-23-7]]
+
+^<<v5-23-7,7>>^ Enquanto viveres, não lhes procurarás jamais prosperidade nem bem-estar.
+
+[[v5-23-8]]
+
+^<<v5-23-8,8>>^ Não abominarás o idumeu (ou edomita) porque é teu irmão, nem o egípcio tampouco, porque foste forasteiro em sua terra.
+
+[[v5-23-9]]
+
+^<<v5-23-9,9>>^ Os seus descendentes, à terceira geração, poderão entrar na assembleia do Senhor.”
+
+[[v5-23-10]]
+
+^<<v5-23-10,10>>^ “Quando saíres a combater contra os teus inimigos, guarda-te de toda má ação.
+
+[[v5-23-11]]
+
+^<<v5-23-11,11>>^ Se alguém dentre vós não estiver puro, em consequência de um acidente noturno, sairá do acampamento e não voltará.
+
+[[v5-23-12]]
+
+^<<v5-23-12,12>>^ Pela tarde, deverá banhar-se em água e poderá reintegrar-se ao acampamento ao pôr do sol.
+
+[[v5-23-13]]
+
+^<<v5-23-13,13>>^ Haverá, fora do acampamento, um lugar retirado, aonde poderás dirigir-te.
+
+[[v5-23-14]]
+
+^<<v5-23-14,14>>^ Terás contigo, em tuas bagagens, uma pá de que te servirás para abrir um buraco quando fores à parte e, partindo, cobrirás com terra os teus excrementos.
+
+[[v5-23-15]]
+
+^<<v5-23-15,15>>^ Porque o Senhor, teu Deus, anda pelo meio do acampamento para proteger-te e livrar-te dos teus inimigos; o teu acampamento deverá ser santo; não aconteça que, à vista de alguma coisa chocante, o Senhor se desvie de ti.
+
+[[v5-23-16]]
+
+^<<v5-23-16,16>>^ Não entregarás ao seu senhor o escravo fugitivo que se refugiar em tua casa.
+
+[[v5-23-17]]
+
+^<<v5-23-17,17>>^ Ele ficará contigo, em tua terra, no lugar que tiver escolhido numa de tuas cidades, onde melhor lhe parecer, e não o molestarás.^&#42;1^
+
+[[v5-23-18]]
+
+^<<v5-23-18,18>>^ Não haverá mulher cortesã nem prostituta entre as filhas ou entre os filhos de Israel.^&#42;1^
+
+[[v5-23-19]]
+
+^<<v5-23-19,19>>^ Seja qual for o voto que tiveres feito, não levarás à casa do Senhor, teu Deus, o ganho de uma prostituta nem o salário de um cão; porque uma e outra coisa são abominadas pelo Senhor, teu Deus.
+
+[[v5-23-20]]
+
+^<<v5-23-20,20>>^ Não exigirás juro algum de teu irmão, quer se trate de dinheiro, quer de gêneros alimentícios, ou do que quer que seja que se empreste a juros.
+
+[[v5-23-21]]
+
+^<<v5-23-21,21>>^ Poderás exigi-lo do estrangeiro, mas não de teu irmão, para que o Senhor, teu Deus, te abençoe em todas as tuas empresas na terra em que entrarás para possuí-la.
+
+[[v5-23-22]]
+
+^<<v5-23-22,22>>^ Quando tiveres feito um voto ao Senhor, teu Deus, não demorarás em cumpri-lo, porque o Senhor, teu Deus, não deixará de pedir-te contas dele, e contrairias um pecado.
+
+[[v5-23-23]]
+
+^<<v5-23-23,23>>^ Se não fizeres voto, não pecarás.
+
+[[v5-23-24]]
+
+^<<v5-23-24,24>>^ Mas a promessa saída dos teus lábios, tu a cumprirás, e observarás fielmente o voto que fizeste espontaneamente ao Senhor, teu Deus, como disseste por tua própria boca.
+
+[[v5-23-25]]
+
+^<<v5-23-25,25>>^ Quando entrares na vinha do teu próximo, poderás comer livremente quantas uvas quiseres, mas não as levarás contigo em tua cesta.
+
+[[v5-23-26]]
+
+^<<v5-23-26,26>>^ Quando entrares na seara de trigo do teu próximo, poderás colher espigas com a mão, mas não usarás a foice.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[&#60; Capítulo Anterior] | <<v5-23-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[Próximo Capítulo &#62;]

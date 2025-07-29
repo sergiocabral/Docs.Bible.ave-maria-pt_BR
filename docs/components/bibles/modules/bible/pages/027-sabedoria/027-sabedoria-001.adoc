@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v27-1-0]]
+=== Sabedoria, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O livro de Sabedoria é um livro sapiencial que exorta os leitores a buscar a sabedoria divina e a seguir o caminho da justiça. O capítulo 1 destaca a importância da sabedoria e a responsabilidade que os seres humanos têm de escolher entre a vida e a morte, entre a sabedoria e a loucura. Aqui estão cinco versículos relacionados com os temas abordados em Sabedoria 1:
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento; os loucos desprezam a sabedoria e a instrução." Este versículo enfatiza a importância do temor do Senhor como a base para a sabedoria e o conhecimento verdadeiros.
+* Provérbios 2:6-7: "Porque o Senhor dá a sabedoria, e da sua boca vem o conhecimento e o entendimento. Ele reserva a verdadeira sabedoria para os retos; escudo é para os que caminham na sinceridade." Esses versículos destacam que a sabedoria vem de Deus e é reservada para aqueles que caminham na sinceridade.
+* Provérbios 3:13-18: "Bem-aventurado é o homem que acha sabedoria, e o homem que adquire conhecimento; porque é melhor a sua mercadoria do que a mercadoria de prata, e a sua renda do que o ouro mais fino. É mais preciosa do que as jóias, e tudo o que podes desejar não se pode comparar a ela. Vida longa de dias está na sua mão direita; na sua esquerda, riquezas e honra. Os seus caminhos são caminhos de delícias, e todas as suas veredas são paz." Estes versículos enfatizam as bênçãos que vêm com a busca da sabedoria e destacam que a sabedoria é mais preciosa do que qualquer coisa que o dinheiro possa comprar.
+* Provérbios 4:7: "A sabedoria é a principal coisa; adquire pois a sabedoria, e com todos os teus bens adquire o entendimento." Este versículo reforça a importância da sabedoria como a coisa mais importante a ser buscada.
+* Provérbios 9:10: "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é prudência." Este versículo enfatiza mais uma vez que o temor do Senhor é a base para a sabedoria verdadeira.
+****
+
+[[v27-1-1]]
+
+^<<v27-1-1,1>>^ Amai a justiça, vós que governais a terra, tende para com o Senhor sentimentos perfeitos, e procurai-o na simplicidade do coração,^&#42;1^
+
+[[v27-1-2]]
+
+^<<v27-1-2,2>>^ porque ele é encontrado pelos que não o tentam, e se revela aos que não lhe recusam sua confiança;
+
+[[v27-1-3]]
+
+^<<v27-1-3,3>>^ com efeito, os pensamentos tortuosos afastam de Deus, e o seu poder, posto à prova, triunfa dos insensatos.^&#42;1^
+
+[[v27-1-4]]
+
+^<<v27-1-4,4>>^ A sabedoria não entrará na alma perversa, nem habitará no corpo sujeito ao pecado;
+
+[[v27-1-5]]
+
+^<<v27-1-5,5>>^ o Espírito Santo educador das almas fugirá da perfídia, se afastará dos pensamentos insensatos, e a iniquidade que sobrevém o repelirá.
+
+[[v27-1-6]]
+
+^<<v27-1-6,6>>^ Sim, a sabedoria é um espírito que ama os homens, mas não deixará sem castigo o blasfemador pelo crime de seus lábios, porque Deus lhe sonda os rins, penetra até o fundo de seu coração, e ouve as suas palavras.
+
+[[v27-1-7]]
+
+^<<v27-1-7,7>>^ Com efeito, o Espírito do Senhor enche o universo, e ele, que tem unidas todas as coisas, ouve toda voz.
+
+[[v27-1-8]]
+
+^<<v27-1-8,8>>^ Aquele que profere uma linguagem iníqua, não pode fugir dele, e a justiça vingadora não o deixará escapar;
+
+[[v27-1-9]]
+
+^<<v27-1-9,9>>^ pois os próprios desígnios do ímpio serão cuidadosamente examinados; o som de suas palavras chegará até o Senhor, que lhe imporá o castigo pelos seus pecados.
+
+[[v27-1-10]]
+
+^<<v27-1-10,10>>^ É, com efeito, um ouvido cioso, que tudo ouve: nem a menor murmuração lhe passa despercebida.
+
+[[v27-1-11]]
+
+^<<v27-1-11,11>>^ Acautelai-vos, pois, de queixar-vos inutilmente, evitai que vossa língua se entregue à crítica, porque até mesmo uma palavra secreta não ficará sem castigo, e a boca que acusa com injustiça arrasta a alma à morte.
+
+[[v27-1-12]]
+
+^<<v27-1-12,12>>^ Não procureis a morte por uma vida desregrada, não sejais o próprio artífice de vossa perda.
+
+[[v27-1-13]]
+
+^<<v27-1-13,13>>^ Deus não é o autor da morte, a perdição dos vivos não lhe dá alegria alguma.
+
+[[v27-1-14]]
+
+^<<v27-1-14,14>>^ Ele criou tudo para a existência, e as criaturas do mundo devem cooperar para a salvação. Nelas nenhum princípio é funesto, e a morte não é a rainha da terra,
+
+[[v27-1-15]]
+
+^<<v27-1-15,15>>^ porque a justiça é imortal.^&#42;1^
+
+[[v27-1-16]]
+
+^<<v27-1-16,16>>^ Mas a morte os ímpios a chamam com o gesto e a voz. Crendo-a amiga, consomem-se de desejos, e fazem aliança com ela; de fato, eles merecem ser sua presa.
+
+'''
+
+xref:026-cantico-dos-canticos/026-cantico-dos-canticos-008.adoc#v26-8-0[&#60; Capítulo Anterior] | <<v27-1-0,Topo>> | xref:027-sabedoria/027-sabedoria-002.adoc#v27-2-0[Próximo Capítulo &#62;]

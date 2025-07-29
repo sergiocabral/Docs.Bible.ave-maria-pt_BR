@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v33-1-0]]
+=== Ezequiel, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 1 é o primeiro capítulo do livro de Ezequiel, no qual o profeta descreve uma visão impressionante da glória de Deus em um carro de fogo. O capítulo inclui muitos detalhes impressionantes, como as quatro criaturas vivas, as rodas cheias de olhos e a luz brilhante que rodeava tudo. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Ezequiel 1:
+* Apocalipse 4:6-7: "E havia diante do trono como que um mar de vidro, semelhante ao cristal. E no meio do trono, e ao redor do trono, quatro animais cheios de olhos, por diante e por detrás. E o primeiro animal era semelhante a um leão, e o segundo animal semelhante a um bezerro, e tinha o terceiro animal o rosto como de homem, e o quarto animal era semelhante a uma águia voando". Este versículo descreve as quatro criaturas vivas, que são semelhantes às que Ezequiel viu em sua visão.
+* Isaías 6:1-4: "No ano em que morreu o rei Uzias, eu vi também ao Senhor assentado sobre um alto e sublime trono; e o seu séquito enchia o templo. Serafins estavam por cima dele; cada um tinha seis asas; com duas cobriam os seus rostos, e com duas cobriam os seus pés, e com duas voavam. E clamavam uns aos outros, dizendo: Santo, Santo, Santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória". Este versículo descreve outra visão impressionante da glória de Deus, que também inclui criaturas com asas.
+* Êxodo 3:2-3: "E apareceu-lhe o anjo do Senhor em uma chama de fogo do meio duma sarça; e olhou, e eis que a sarça ardia no fogo, e a sarça não se consumia. Então Moisés disse: Agora me virarei para lá, e verei esta grande visão, porque a sarça não se queima". Este versículo descreve outra visão impressionante da presença divina em uma chama de fogo.
+* Daniel 7:9-10: "Eu estava olhando até que foram postos uns tronos, e um ancião de dias se assentou; a sua veste era branca como a neve, e o cabelo da sua cabeça como a pura lã; o seu trono era de chamas de fogo, e as rodas dele eram fogo ardente. Um rio de fogo manava e saía de diante dele; milhares de milhares o serviam, e miríades de miríades estavam diante dele; assentou-se o juízo, e abriram-se os livros". Este versículo descreve outra visão impressionante da presença divina em um trono de fogo.
+* 1 Reis 22:19: "Então Micaías disse: Portanto ouve a palavra do Senhor; Vi o Senhor assentado no seu trono, e todo o exército dos céus estava ao redor dele, à sua mão direita e à sua esquerda." Este versículo apresenta uma visão de Micaías sobre o trono celestial e o exército celestial presente ao redor do trono. Essa visão pode ser relacionada com a visão que Ezequiel teve no primeiro capítulo de seu livro, onde ele descreve uma visão do trono celestial e seres vivos ao seu redor.
+****
+
+[[v33-1-1]]
+
+^<<v33-1-1,1>>^ No trigésimo ano, no quinto dia do quarto mês, quando me encontrava entre os deportados, às margens do rio Cobar, abriram-se os céus e contemplei visões divinas.^&#42;1^
+
+[[v33-1-2]]
+
+^<<v33-1-2,2>>^ No quinto dia do mês – era o quinto ano de cativeiro do rei Joaquim –
+
+[[v33-1-3]]
+
+^<<v33-1-3,3>>^ foi a palavra do Senhor dirigida ao sacerdote Ezequiel, filho de Buzi, na Caldeia, às margens do rio Cobar. Nesse lugar veio a mão do Senhor sobre mim.^&#42;1^
+
+[[v33-1-4]]
+
+^<<v33-1-4,4>>^ Tive então uma visão: soprava do lado norte um vento impetuoso, uma espessa nuvem com um feixe de fogo resplandecente, e no centro, saído do meio do fogo, algo que possuía um brilho vermelho.
+
+[[v33-1-5]]
+
+^<<v33-1-5,5>>^ Distinguia-se no centro a imagem de quatro seres que aparentavam possuir forma humana.
+
+[[v33-1-6]]
+
+^<<v33-1-6,6>>^ Cada um tinha quatro faces e quatro asas.
+
+[[v33-1-7]]
+
+^<<v33-1-7,7>>^ Suas pernas eram direitas e as plantas de seus pés se assemelhavam às do touro e cintilavam como bronze polido.
+
+[[v33-1-8]]
+
+^<<v33-1-8,8>>^ De seus quatro lados mãos humanas saíam por debaixo de suas asas. Todos os quatro possuíam rostos, e asas.
+
+[[v33-1-9]]
+
+^<<v33-1-9,9>>^ Suas asas tocavam uma na outra. Quando se locomoviam, não se voltavam: cada um andava para a frente.
+
+[[v33-1-10]]
+
+^<<v33-1-10,10>>^ Quanto ao aspecto de seus rostos tinham todos eles figura humana, todos os quatro uma face de leão pela direita, todos os quatro uma face de touro pela esquerda, e todos os quatro uma face de águia.
+
+[[v33-1-11]]
+
+^<<v33-1-11,11>>^ Eis o que havia no tocante às suas faces. Suas asas estendiam-se para o alto; cada qual tinha duas asas que tocavam as dos outros, e duas que lhe cobriam o corpo.
+
+[[v33-1-12]]
+
+^<<v33-1-12,12>>^ Cada qual caminhava para a frente: iam para o lado aonde os impelia o espírito; não se voltavam quando iam andando.
+
+[[v33-1-13]]
+
+^<<v33-1-13,13>>^ No meio desses seres, divisava-se algo parecido com brasas incandescentes, como tochas que circulavam entre eles; e desse fogo, que projetava uma luz deslumbrante, saíam relâmpagos.^&#42;1^
+
+[[v33-1-14]]
+
+^<<v33-1-14,14>>^ Os seres ziguezagueavam como o raio.^&#42;1^
+
+[[v33-1-15]]
+
+^<<v33-1-15,15>>^ Ora, enquanto contemplava esses seres vivos, divisei uma roda sobre a terra ao lado de cada um dos quatro.^&#42;1^
+
+[[v33-1-16]]
+
+^<<v33-1-16,16>>^ O aspecto e a estrutura dessas rodas eram os de uma gema de Társis. Todas as quatro se assemelhavam, e pareciam construídas uma dentro da outra.
+
+[[v33-1-17]]
+
+^<<v33-1-17,17>>^ Podiam deslocar-se em quatro direções, sem retornar em seus movimentos.
+
+[[v33-1-18]]
+
+^<<v33-1-18,18>>^ Seus aros eram de uma altura assombrosa, guarnecidos de olhos em toda a circunferência.
+
+[[v33-1-19]]
+
+^<<v33-1-19,19>>^ Quando os seres vivos se deslocavam ou se erguiam da terra, locomoviam-se as rodas e se elevavam com eles.
+
+[[v33-1-20]]
+
+^<<v33-1-20,20>>^ Para aonde os impulsionava o espírito iam eles, e as rodas com eles se erguiam, pois o espírito do ser vivo de igual modo animava as rodas.
+
+[[v33-1-21]]
+
+^<<v33-1-21,21>>^ Quando caminhavam, elas se moviam; quando paravam, também elas interrompiam o curso; se se erguiam da terra, as rodas do mesmo modo se suspendiam, pois o espírito desses seres vivos estava também nas rodas.
+
+[[v33-1-22]]
+
+^<<v33-1-22,22>>^ Pairando acima desses seres, havia algo que se assemelhava a uma abóbada, límpida como cristal, estendida sobre suas cabeças.
+
+[[v33-1-23]]
+
+^<<v33-1-23,23>>^ Sob essa abóbada, alongavam-se as suas asas até se tocarem, tendo cada um sempre duas que lhe cobriam o corpo.
+
+[[v33-1-24]]
+
+^<<v33-1-24,24>>^ Eu escutava, quando eles caminhavam, o ruído de suas asas, semelhante ao barulho das grandes águas, à voz do Onipotente, um vozerio igual ao de um campo de batalha.^&#42;1^
+
+[[v33-1-25]]
+
+^<<v33-1-25,25>>^ Quando paravam, abaixavam as asas, e fazia-se um ruído acima da abóbada que ficava sobre as cabeças.^&#42;1^
+
+[[v33-1-26]]
+
+^<<v33-1-26,26>>^ Acima dessa abóbada havia uma espécie de trono, semelhante a uma pedra de safira; e, bem no alto dessa espécie de trono, uma silhueta humana.
+
+[[v33-1-27]]
+
+^<<v33-1-27,27>>^ Vi que ela possuía um fulgor vermelho, como se houvesse sido banhada no fogo, desde o que parecia ser a sua cintura, para cima; enquanto que, para baixo, vi algo como fogo que esparzia clarões por todos os lados.
+
+[[v33-1-28]]
+
+^<<v33-1-28,28>>^ Como o arco-íris que aparece nas nuvens em dias de chuva, assim era o resplendor que a envolvia. Era esta visão a imagem da glória do Senhor. Vendo isto, prostrei-me com o rosto por terra e escutei uma voz que dizia:
+
+'''
+
+xref:032-baruc/032-baruc-006.adoc#v32-6-0[&#60; Capítulo Anterior] | <<v33-1-0,Topo>> | xref:033-ezequiel/033-ezequiel-002.adoc#v33-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v21-44-0]]
+=== Salmos, 44
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 44 é uma lamentação do povo de Israel, que se sente abandonado por Deus e sofre derrotas constantes em batalhas. Eles relembram as grandes obras de Deus no passado, mas agora sentem-se esquecidos e rejeitados por Ele. Abaixo estão cinco versículos relacionados aos temas abordados no Salmo 44:
+* Salmos 44:9: "Mas agora tu nos rejeitaste e nos fizeste passar vergonha; já não sais à frente dos nossos exércitos." Neste verso, os escritores do salmo expressam sua sensação de abandono e rejeição por Deus, e como Ele não mais lidera suas batalhas.
+* Salmos 44:23: "Acorda, Senhor! Por que dormes? Desperta! Não nos rejeites para sempre." Aqui, os escritores imploram para que Deus acorde de Seu aparente sono e ajude-os em suas lutas.
+* Salmos 44:26: "Levanta-te! Socorre-nos! Resgata-nos por causa da tua fidelidade." Este verso é um apelo para que Deus ajude Israel em sua luta e os salve por Sua fidelidade.
+* Salmos 44:4: "Tu és o meu Rei e o meu Deus, que dá vitória a Jacó." Aqui, os escritores do salmo reconhecem a grandeza de Deus e Sua capacidade de dar vitória ao povo de Israel.
+* Salmos 44:17: "Tudo isso nos sobreveio, apesar de não te termos esquecido nem traído a tua aliança." Neste verso, o povo de Israel lamenta o fato de que eles estão sofrendo apesar de terem mantido sua fidelidade a Deus e Sua aliança.
+****
+
+[[v21-44-1]]
+
+^<<v21-44-1,1>>^ Ao mestre de canto. Segundo a melodia: “Os lírios”. Hino dos filhos de Coré. Canto nupcial.^&#42;1^
+
+[[v21-44-2]]
+
+^<<v21-44-2,2>>^ Transbordam palavras sublimes do meu coração. Ao rei dedico o meu canto. Minha língua é como o estilo de um ágil escriba.
+
+[[v21-44-3]]
+
+^<<v21-44-3,3>>^ Sois belo, o mais belo dos filhos dos homens. Expande-se a graça em vossos lábios, pelo que Deus vos cumulou de bênçãos eternas.
+
+[[v21-44-4]]
+
+^<<v21-44-4,4>>^ Cingi-vos com vossa espada, ó herói; ela é vosso ornamento e esplendor.
+
+[[v21-44-5]]
+
+^<<v21-44-5,5>>^ Erguei-vos vitorioso em defesa da verdade e da justiça. Que vossa mão se assinale por feitos gloriosos.
+
+[[v21-44-6]]
+
+^<<v21-44-6,6>>^ Aguçadas são as vossas flechas; a vós se submetem os povos; os inimigos do rei perdem o ânimo.
+
+[[v21-44-7]]
+
+^<<v21-44-7,7>>^ Vosso trono, ó Deus, é eterno, de equidade é vosso cetro real.^&#42;1^
+
+[[v21-44-8]]
+
+^<<v21-44-8,8>>^ Amais a justiça e detestais o mal, pelo que o Senhor, vosso Deus, vos ungiu com óleo de alegria, preferindo-vos aos vossos iguais.
+
+[[v21-44-9]]
+
+^<<v21-44-9,9>>^ Exalam vossas vestes perfume de mirra, aloés e incenso; do palácio de marfim os sons das liras vos deleitam.
+
+[[v21-44-10]]
+
+^<<v21-44-10,10>>^ Filhas de reis formam vosso cortejo; posta-se à vossa direita a rainha, ornada de ouro de Ofir.
+
+[[v21-44-11]]
+
+^<<v21-44-11,11>>^ Ouve, filha, vê e presta atenção: esquece o teu povo e a casa de teu pai.
+
+[[v21-44-12]]
+
+^<<v21-44-12,12>>^ De tua beleza se encantará o rei; ele é teu senhor, rende-lhe homenagens.
+
+[[v21-44-13]]
+
+^<<v21-44-13,13>>^ Habitantes de Tiro virão com seus presentes, próceres do povo implorarão teu favor.
+
+[[v21-44-14]]
+
+^<<v21-44-14,14>>^ Toda formosa, entra a filha do rei, com vestes bordadas de ouro.
+
+[[v21-44-15]]
+
+^<<v21-44-15,15>>^ Em roupagens multicores apresenta-se ao rei, após ela vos são apresentadas as virgens, suas companheiras.
+
+[[v21-44-16]]
+
+^<<v21-44-16,16>>^ Levadas entre alegrias e júbilos, ingressam no palácio real.
+
+[[v21-44-17]]
+
+^<<v21-44-17,17>>^ Tomarão os vossos filhos o lugar de vossos pais, vós os estabelecereis príncipes sobre toda a terra.
+
+[[v21-44-18]]
+
+^<<v21-44-18,18>>^ Celebrarei vosso nome através das gerações. E os povos vos louvarão eternamente.
+
+'''
+
+xref:021-salmos/021-salmos-043.adoc#v21-43-0[&#60; Capítulo Anterior] | <<v21-44-0,Topo>> | xref:021-salmos/021-salmos-045.adoc#v21-45-0[Próximo Capítulo &#62;]

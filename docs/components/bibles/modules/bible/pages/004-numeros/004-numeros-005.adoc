@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v4-5-0]]
+=== Números, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 5 descreve um ritual para lidar com a infidelidade conjugal e a suspeita de adultério. O capítulo instrui que um marido ciumento possa levar sua esposa ao sacerdote, que então prepara uma mistura de água santa e terra do chão do tabernáculo para ela beber. Se ela for culpada, o líquido amargo fará com que seu ventre inche e ela se torne amaldiçoada. Se ela for inocente, não sofrerá nenhum dano. Abaixo estão cinco versículos relacionados aos temas abordados em Números 5:
+* Provérbios 6:32: "O que adultera com uma mulher é falto de entendimento; aquele que quer destruir a si mesmo o faz." Este versículo destaca a natureza tola e destrutiva do adultério, que é abordado no ritual descrito em Números 5.
+* Mateus 5:27-28: "Ouvistes que foi dito aos antigos: Não cometerás adultério. Eu, porém, vos digo que todo aquele que olhar para uma mulher com intenção impura, já cometeu adultério com ela em seu coração." Jesus aqui amplia a definição de adultério para incluir a luxúria e a cobiça, destacando que o pecado começa na mente.
+* Tiago 5:16: "Confessai, pois, os vossos pecados uns aos outros e orai uns pelos outros, para serdes curados. Muito pode, por sua eficácia, a súplica do justo." Este versículo enfatiza a importância da confissão e do arrependimento na obtenção de perdão por nossos pecados.
+* Hebreus 13:4: "Digno de honra entre todos seja o matrimônio, bem como o leito sem mácula; porque Deus julgará os impuros e adúlteros." Este versículo destaca a santidade do casamento e a seriedade do pecado do adultério.
+* Gálatas 6:1: "Irmãos, se alguém for surpreendido nalguma falta, vós, que sois espirituais, corrigi-o com espírito de brandura; e guarda-te para que não sejas também tentado." Este versículo enfatiza a necessidade de tratar aqueles que pecam com compaixão e gentileza, lembrando que todos somos suscetíveis à tentação e ao pecado.
+****
+
+[[v4-5-1]]
+
+^<<v4-5-1,1>>^ O Senhor disse a Moisés:
+
+[[v4-5-2]]
+
+^<<v4-5-2,2>>^ “Ordena aos israelitas que expulsem do acampamento todo leproso, todo homem atacado de gonorreia, todo o que está imundo por ter tocado num cadáver.
+
+[[v4-5-3]]
+
+^<<v4-5-3,3>>^ Homens ou mulheres, lançai-os fora do acampamento no meio do qual habito, para que não o manchem”.
+
+[[v4-5-4]]
+
+^<<v4-5-4,4>>^ Os filhos de Israel fizeram assim, e lançaram-nos fora do acampamento; como o Senhor tinha ordenado a Moisés assim o fizeram.
+
+[[v4-5-5]]
+
+^<<v4-5-5,5>>^ O Senhor disse a Moisés: “Dize aos israelitas:
+
+[[v4-5-6]]
+
+^<<v4-5-6,6>>^ se um homem ou uma mulher causa um prejuízo qualquer ao seu próximo, tornando-se assim culpado de uma infidelidade para com o Senhor,
+
+[[v4-5-7]]
+
+^<<v4-5-7,7>>^ ele confessará a sua falta e restituirá integralmente o objeto do delito, ajuntando um quinto a mais àquele que foi lesado.
+
+[[v4-5-8]]
+
+^<<v4-5-8,8>>^ Se, porém, não houver quem o receba, esse objeto será dado ao Senhor, ao sacerdote, além do carneiro de expiação que se oferecerá pelo culpado.
+
+[[v4-5-9]]
+
+^<<v4-5-9,9>>^ Toda oferta tomada das coisas santas que os israelitas apresentam ao sacerdote lhe pertencerá;
+
+[[v4-5-10]]
+
+^<<v4-5-10,10>>^ as coisas consagradas lhe pertencerão; o que se entrega ao sacerdote será dele”.
+
+[[v4-5-11]]
+
+^<<v4-5-11,11>>^ O Senhor disse a Moisés: “Dize aos israelitas o seguinte:
+
+[[v4-5-12]]
+
+^<<v4-5-12,12>>^ Se uma mulher se desviar de seu marido e lhe for infiel,
+
+[[v4-5-13]]
+
+^<<v4-5-13,13>>^ dormindo com outro homem, e isso se passar às ocultas de seu marido, se essa mulher se tiver manchado em segredo, de modo que não haja testemunhas contra ela e ela não tenha sido surpreendida em flagrante delito;
+
+[[v4-5-14]]
+
+^<<v4-5-14,14>>^ se o marido, tomado de um espírito de ciúmes, se abrasar de ciúmes por causa de sua mulher que se manchou, ou se ele for tomado de um espírito de ciúmes contra sua mulher que não se tiver manchado,
+
+[[v4-5-15]]
+
+^<<v4-5-15,15>>^ esse homem conduzirá sua mulher à presença do sacerdote e fará por ela a sua oferta: um décimo de efá de farinha de cevada; não derramará óleo sobre a oferta nem porá sobre ela incenso, porque é uma oblação de ciúme feita em recordação de uma iniquidade.
+
+[[v4-5-16]]
+
+^<<v4-5-16,16>>^ O sacerdote mandará a mulher aproximar-se do altar e a fará estar de pé diante do Senhor.
+
+[[v4-5-17]]
+
+^<<v4-5-17,17>>^ Tomará água santa num vaso de barro e, pegando um pouco de pó do pavimento do tabernáculo, o lançará na água.
+
+[[v4-5-18]]
+
+^<<v4-5-18,18>>^ Estando a mulher de pé diante do Senhor, o sacerdote lhe descobrirá a cabeça e porá em suas mãos a oblação de recordação, a oblação de ciúme. O sacerdote terá na mão as águas amargas que trazem a maldição.
+
+[[v4-5-19]]
+
+^<<v4-5-19,19>>^ E esconjurará a mulher nestes termos: se nenhum homem dormiu contigo, e tu não te manchaste abandonando o leito de teu marido, não te façam mal estas águas que trazem maldição.
+
+[[v4-5-20]]
+
+^<<v4-5-20,20>>^ Mas se tu te apartaste de teu marido e te manchaste, dormindo com outro homem...
+
+[[v4-5-21]]
+
+^<<v4-5-21,21>>^ O sacerdote fará então que a mulher preste o juramento de imprecação, dizendo: O Senhor te faça um objeto de maldição e de execração no meio de teu povo, fazendo emagrecer os teus flancos e inchar o teu ventre.
+
+[[v4-5-22]]
+
+^<<v4-5-22,22>>^ E estas águas, que trazem maldição, penetrem em tuas entranhas para te fazer inchar o ventre e emagrecer os flancos! Ao que a mulher responderá: Amém! Amém!
+
+[[v4-5-23]]
+
+^<<v4-5-23,23>>^ O sacerdote escreverá essas imprecações num rolo e as apagará em seguida com as águas amargas.
+
+[[v4-5-24]]
+
+^<<v4-5-24,24>>^ E fará com que a mulher beba as águas amargas que trazem maldição, e essas águas de maldição penetrarão nela com sua amargura.
+
+[[v4-5-25]]
+
+^<<v4-5-25,25>>^ O sacerdote tomará das mãos da mulher a oblação de ciúme, a agitará diante do Senhor e a aproximará do altar;
+
+[[v4-5-26]]
+
+^<<v4-5-26,26>>^ tomará um punhado dessa oblação como memorial e o queimará sobre o altar; depois disso, dará de beber à mulher as águas amargas.
+
+[[v4-5-27]]
+
+^<<v4-5-27,27>>^ Depois que ela as tiver bebido, se estiver de fato manchada, tendo sido infiel ao seu marido, as águas que trazem maldição lhe trarão sua amargura: seu ventre inchará, seus flancos emagrecerão, e essa mulher será uma maldição no meio de seu povo.
+
+[[v4-5-28]]
+
+^<<v4-5-28,28>>^ Mas, se ela não se tiver manchado, e for pura, ela será preservada e terá filhos.
+
+[[v4-5-29]]
+
+^<<v4-5-29,29>>^ Tal é a lei sobre o ciúme quando uma mulher se desviar de seu marido e se manchar,
+
+[[v4-5-30]]
+
+^<<v4-5-30,30>>^ ou quando o espírito de ciúme se apoderar de seu marido, de modo que ele se torne ciumento de sua mulher; ele a levará diante do Senhor e o sacerdote lhe aplicará integralmente essa lei.
+
+[[v4-5-31]]
+
+^<<v4-5-31,31>>^ O marido ficará sem culpa, mas a mulher pagará a pena da sua iniquidade”.
+
+'''
+
+xref:004-numeros/004-numeros-004.adoc#v4-4-0[&#60; Capítulo Anterior] | <<v4-5-0,Topo>> | xref:004-numeros/004-numeros-006.adoc#v4-6-0[Próximo Capítulo &#62;]

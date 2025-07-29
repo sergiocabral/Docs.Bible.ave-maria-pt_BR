@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v41-3-0]]
+=== Naum, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Naum 3 descreve a destruição de Nínive, a capital do Império Assírio, por sua corrupção, violência e idolatria. O capítulo anuncia a queda da cidade e a derrota de seus habitantes, e descreve o horror e o caos que se seguem à sua queda. Os versículos selecionados abaixo estão relacionados com os temas de juízo, destruição e pecado.
+* Isaías 13:9: "Eis que o dia do Senhor vem, horrendo, com furor e ira ardente, para tornar a terra em assolação, e para destruir dela os pecadores." Este versículo descreve o dia do juízo de Deus, quando ele virá para punir os pecadores e trazer a destruição.
+* Sofonias 1:15: "Aquele dia é um dia de indignação, dia de angústia e de aperto, dia de alvoroço e de assolação, dia de trevas e de escuridão, dia de nuvens e de densas trevas." Este versículo descreve a natureza terrível do dia do juízo de Deus, que trará destruição e sofrimento aos pecadores.
+* Jeremias 50:31-32: "Eis que eu sou contra ti, ó soberbo, diz o Senhor Deus dos Exércitos, porque veio o teu dia, o tempo em que te hei de visitar. E o soberbo tropeçará, e cairá, e não haverá quem o levante; e porei fogo nas suas cidades, e consumirá todos os seus arredores." Este versículo fala da queda de uma cidade soberba e da destruição que se seguirá.
+* Jeremias 51:37: "E Babilônia se tornará em montões, morada de chacais, espanto e assobio, sem habitante." Este versículo descreve a destruição de uma cidade e sua transformação em ruínas.
+* Isaías 47:11: "Pelo que virá sobre ti mal que não saberás conjurar, e tal destruição cairá sobre ti que não poderás de forma alguma adivinhar; e sobre ti virá de repente assolação que não suspeitas." Este versículo fala da destruição que virá sobre os ímpios de forma repentina e inesperada, como um juízo divino sobre o pecado.
+****
+
+[[v41-3-1]]
+
+^<<v41-3-1,1>>^ Ai da cidade sanguinária, cheia de fraude e de violência, e que não põe termo à sua rapinagem!
+
+[[v41-3-2]]
+
+^<<v41-3-2,2>>^ Ruído de chicote! Estrondo de rodas! Cavalos a relinchar, carros a dançar,
+
+[[v41-3-3]]
+
+^<<v41-3-3,3>>^ cavaleiros à brida, espadas que reluzem, lanças que cintilam, multidão de feridos, mortos em massa, cadáveres sem-número, nos quais se tropeça...
+
+[[v41-3-4]]
+
+^<<v41-3-4,4>>^ Eis aí o fruto das numerosas fornicações da meretriz tão cheia de encanto, hábil feiticeira, que enganava as nações com seus atrativos, e os povos com seus sortilégios.^&#42;1^
+
+[[v41-3-5]]
+
+^<<v41-3-5,5>>^ Eis que venho contra ti – oráculo do Senhor dos exércitos. Vou arregaçar teu vestido até teu rosto, e mostrar tua nudez às nações, aos reinos a tua vergonha.
+
+[[v41-3-6]]
+
+^<<v41-3-6,6>>^ Vou cobrir-te de imundícies para te aviltar, e irei te expor como espetáculo.
+
+[[v41-3-7]]
+
+^<<v41-3-7,7>>^ Todos os que te virem fugirão para longe de ti, dizendo: “Nínive está arruinada!”. Quem se apiedará de ti? Aonde te irei buscar consoladores?
+
+[[v41-3-8]]
+
+^<<v41-3-8,8>>^ Vales porventura mais do que Tebas, que está situada entre os braços do Nilo, cercada de água, tendo o mar por defesa, as águas por muralha?^&#42;1^
+
+[[v41-3-9]]
+
+^<<v41-3-9,9>>^ A Etiópia era a sua força, como também o Egito, de enorme população; Fut e os líbios eram seus aliados.
+
+[[v41-3-10]]
+
+^<<v41-3-10,10>>^ Não obstante isso, ela foi levada cativa para o exílio; seus filhos foram esmagados nos cantos das ruas, lançaram-se sortes sobre seus nobres, e todos os seus chefes foram carregados de cadeias.
+
+[[v41-3-11]]
+
+^<<v41-3-11,11>>^ Também tu, em tua embriaguez, desfalecerás. Também tu procurarás um refúgio contra o inimigo.
+
+[[v41-3-12]]
+
+^<<v41-3-12,12>>^ Todas as tuas fortalezas são como figueiras, carregadas de figos maduros: se são sacudidas, os figos caem na boca de quem os quiser comer.
+
+[[v41-3-13]]
+
+^<<v41-3-13,13>>^ Teus guerreiros estão no meio de ti como mulheres. As portas de tua terra abrem-se por si sós ao inimigo. O fogo devorou teus ferrolhos.
+
+[[v41-3-14]]
+
+^<<v41-3-14,14>>^ Abastece-te de água para o cerco; repara tuas fortificações, amassa a argila, pisa o barro, pega na fôrma de tijolos.
+
+[[v41-3-15]]
+
+^<<v41-3-15,15>>^ Aí o fogo te devorará, a espada te exterminará; ela te devorará como o gafanhoto, ainda que fosses numeroso como o gafanhoto, e que te multiplicasses como o grilo.
+
+[[v41-3-16]]
+
+^<<v41-3-16,16>>^ Teus corretores são mais numerosos que as estrelas do céu; o gafanhoto abre suas asas e voa.^&#42;1^
+
+[[v41-3-17]]
+
+^<<v41-3-17,17>>^ Teus guardas são numerosos como os gafanhotos, e teus chefes como uma nuvem de insetos que pousam sobre as sebes em um dia de frio; logo que o sol nasce, fogem, sem que se saiba para onde foram.
+
+[[v41-3-18]]
+
+^<<v41-3-18,18>>^ Teus pastores dormem, ó rei da Assíria, teus heróis estão inertes. Teu povo está disperso pelas montanhas sem que ninguém o ajunte.^&#42;1^
+
+[[v41-3-19]]
+
+^<<v41-3-19,19>>^ Não há remédio para a tua ferida, tua chaga é incurável. Todos os que forem informados de tua sorte aplaudirão pelo que te acontece. Sobre quem, com efeito, não tem passado continuamente a tua malícia?
+
+'''
+
+xref:041-naum/041-naum-002.adoc#v41-2-0[&#60; Capítulo Anterior] | <<v41-3-0,Topo>> | xref:042-habacuc/042-habacuc-001.adoc#v42-1-0[Próximo Capítulo &#62;]

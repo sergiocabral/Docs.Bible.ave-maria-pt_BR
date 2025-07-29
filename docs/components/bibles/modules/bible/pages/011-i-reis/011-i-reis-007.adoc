@@ -1,0 +1,228 @@
+include::./index.adoc[]
+
+[[v11-7-0]]
+=== I Reis, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 7 de 1 Reis descreve a construção do palácio do rei Salomão, incluindo a construção do Templo do Senhor e a casa de Salomão. Além disso, o capítulo também destaca o trabalho do artesão Hiram, que foi contratado para fazer várias obras de bronze para o Templo. Aqui estão cinco versículos relacionados com os temas abordados em 1 Reis 7:
+* Êxodo 31:1-5: "Disse mais o SENHOR a Moisés: Eis que eu chamei por nome a Bezalel, filho de Uri, filho de Hur, da tribo de Judá, e o enchi do Espírito de Deus, de habilidade, de inteligência e de conhecimento em todo artifício, para elaborar projetos e trabalhar em ouro, em prata, em bronze, para lapidação de pedras de engaste, para entalho de madeira, e para toda sorte de lavores."
+Este versículo destaca que Deus capacitou pessoas com habilidades específicas para a construção do Tabernáculo e das obras de arte nele contidas.
+* 1 Crônicas 22:14: "Eis que, na minha aflição, preparei para a casa do SENHOR cem mil talentos de ouro, um milhão de talentos de prata e bronze e ferro em abundância, pois isso é em demasia; e madeira e pedras também preparei, a que acrescentarás ainda mais."
+Esse versículo ilustra a grande quantidade de recursos necessários para a construção do Templo do Senhor.
+* 2 Crônicas 4:16: "Fez também os vasos, as pás e as bacias. Assim acabou Hiram de fazer as obras que lhe foram encomendadas pelo rei Salomão para a casa de Deus."
+Este versículo menciona o artesão Hiram e as obras de bronze que ele fez para o Templo.
+* 2 Crônicas 3:3-4: "E Salomão começou a edificar a casa do SENHOR em Jerusalém, no monte Moriá, onde o SENHOR aparecera a Davi, seu pai, lugar que Davi tinha preparado na eira de Ornã, o jebuseu. Ele começou a edificar no segundo mês do quarto ano do seu reinado."
+Este versículo destaca o início da construção do Templo do Senhor e o lugar em que foi construído.
+* 1 Reis 7:13-14: "E o rei Salomão mandou buscá-lo de Tiro. Era este filho de uma viúva da tribo de Naftali, e seu pai era um homem de Tiro, que trabalhava em bronze. Ele estava cheio de sabedoria, de entendimento e de ciência para toda sorte de obras em bronze. E foi ter com o rei Salomão, e executou toda a sua obra."
+Este versículo fala novamente sobre Hiram, o artesão que fez as obras de bronze para o Templo, destacando suas habilidades e sabedoria.
+****
+
+[[v11-7-1]]
+
+^<<v11-7-1,1>>^ Salomão levou treze anos para terminar a construção do seu palácio.
+
+[[v11-7-2]]
+
+^<<v11-7-2,2>>^ Edificou primeiro a Casa da Floresta do Líbano, que tinha cem côvados de comprimento, cinquenta de largo e trinta de alto, repousando sobre quatro fileiras de colunas de cedro, com traves de cedro sobre as colunas.^&#42;1^
+
+[[v11-7-3]]
+
+^<<v11-7-3,3>>^ Forrou de cedro o teto dos quartos, que se apoiavam nas colunas, em número de quarenta e cinco, ou seja, quinze colunas por fileira.
+
+[[v11-7-4]]
+
+^<<v11-7-4,4>>^ Havia três fileiras de quartos, cujas janelas se correspondiam três vezes.^&#42;1^
+
+[[v11-7-5]]
+
+^<<v11-7-5,5>>^ Todas as portas e suas vigas eram retangulares e as janelas se correspondiam três vezes.
+
+[[v11-7-6]]
+
+^<<v11-7-6,6>>^ Fez um pórtico de colunas, com cinquenta côvados de comprido e trinta de largo, precedido de um segundo pórtico de colunas com degraus.
+
+[[v11-7-7]]
+
+^<<v11-7-7,7>>^ Salomão mandou fazer a sala do trono, onde estava o tribunal, o pórtico do juízo e revestiu-o de cedro desde o pavimento até o teto.
+
+[[v11-7-8]]
+
+^<<v11-7-8,8>>^ Sua residência, construída no segundo pátio, atrás do pórtico, era de trabalho semelhante. Enfim, mandou construir para a filha do faraó, que ele tinha desposado, uma casa do mesmo gênero que esse pórtico.
+
+[[v11-7-9]]
+
+^<<v11-7-9,9>>^ Todas essas construções eram feitas com pedras escolhidas, talhadas sob medida e serradas tanto por dentro como por fora, desde os fundamentos até o alto das cornijas, inclusive o muro do grande pátio.
+
+[[v11-7-10]]
+
+^<<v11-7-10,10>>^ Os fundamentos eram também feitos de pedras escolhidas de grande dimensão, pedras de dez e de oito côvados.
+
+[[v11-7-11]]
+
+^<<v11-7-11,11>>^ Por cima havia ainda pedras escolhidas, talhadas sob medida e traves de cedro.
+
+[[v11-7-12]]
+
+^<<v11-7-12,12>>^ O muro, que cercava o grande pátio, tinha três ordens de pedras talhadas e uma fileira de vigas de cedro, assim como no pátio interior do Templo do Senhor e no pórtico do palácio.
+
+[[v11-7-13]]
+
+^<<v11-7-13,13>>^ O rei Salomão mandara vir de Tiro um homem que trabalhava em bronze, Hiram,
+
+[[v11-7-14]]
+
+^<<v11-7-14,14>>^ filho de uma viúva da tribo de Neftali, cujo pai era de Tiro. Hiram era talentoso, cheio de inteligência e habilidade para fazer toda espécie de trabalhos em bronze. Apresentou-se ao rei Salomão e executou todos os seus trabalhos.
+
+[[v11-7-15]]
+
+^<<v11-7-15,15>>^ Fez duas colunas de bronze: a primeira tinha dezoito côvados de altura; a sua periferia media-se com um fio de doze côvados. Tinham quatro dedos de espessura e eram ocas. A segunda coluna era semelhante à primeira.^&#42;1^
+
+[[v11-7-16]]
+
+^<<v11-7-16,16>>^ Fundiu dois capitéis para os colocar no alto das colunas; ambos tinham cinco côvados de altura
+
+[[v11-7-17]]
+
+^<<v11-7-17,17>>^ e eram ornados de redes de malhas e grinaldas em forma de cadeias; havia sete grinaldas para cada capitel.
+
+[[v11-7-18]]
+
+^<<v11-7-18,18>>^ Dispôs em círculo ao redor de cada uma das malhas duas fileiras de romãs, para ornar cada um dos capitéis que cobriam as colunas.
+
+[[v11-7-19]]
+
+^<<v11-7-19,19>>^ Os capitéis, que sobremontavam as colunas no pórtico, tinham a forma de lírios, com quatro côvados de altura.
+
+[[v11-7-20]]
+
+^<<v11-7-20,20>>^ Os capitéis colocados sobre as duas colunas elevavam-se acima da parte mais grossa da coluna, além da rede. Em volta dos dois capitéis, havia duzentas romãs dispostas em círculo.
+
+[[v11-7-21]]
+
+^<<v11-7-21,21>>^ Hiram levantou as colunas no pórtico do templo: a coluna direita, que chamou Jaquin e a esquerda, que chamou Booz.^&#42;1^
+
+[[v11-7-22]]
+
+^<<v11-7-22,22>>^ Por cima das colunas pôs um trabalho em forma de lírio. E assim foi acabada a obra das colunas.
+
+[[v11-7-23]]
+
+^<<v11-7-23,23>>^ Hiram fez também o mar de bronze, que tinha dez côvados de uma borda à outra, perfeitamente redondo e com altura de cinco côvados; sua circunferência media-se com um fio de trinta côvados.
+
+[[v11-7-24]]
+
+^<<v11-7-24,24>>^ Por baixo de sua borda havia coloquíntidas em número de dez por côvado; elas rodeavam o mar, dispostas em duas ordens, formando com o mar uma só peça.
+
+[[v11-7-25]]
+
+^<<v11-7-25,25>>^ Este apoiava-se sobre doze bois, dos quais três olhavam para o norte, três para o ocidente, três para o sul e três para o oriente. O mar repousava sobre eles e suas ancas estavam para o lado de dentro.
+
+[[v11-7-26]]
+
+^<<v11-7-26,26>>^ A espessura do mar era de um palmo e a borda assemelhava-se à de um copo em forma de lírio; sua capacidade era de dois mil batos.^&#42;1^
+
+[[v11-7-27]]
+
+^<<v11-7-27,27>>^ Fez também duas bases de bronze, tendo cada uma quatro côvados de comprimento, quatro de largura e três de altura.
+
+[[v11-7-28]]
+
+^<<v11-7-28,28>>^ Eis como eram feitas essas bases: eram formadas de painéis e enquadradas de molduras.
+
+[[v11-7-29]]
+
+^<<v11-7-29,29>>^ Nos painéis enquadrados de molduras, havia leões, bois e querubins, assim como nas travessas igualmente. Por cima e por baixo dos leões e dos bois pendiam grinaldas em forma de festões.
+
+[[v11-7-30]]
+
+^<<v11-7-30,30>>^ Cada base tinha quatro rodas de bronze, com seus eixos de bronze e nos quatro cantos havia suportes fundidos que sustinham a bacia, os quais estavam por baixo das grinaldas.
+
+[[v11-7-31]]
+
+^<<v11-7-31,31>>^ A abertura para a bacia era no interior dos suportes e os ultrapassava de um côvado de altura; era cilíndrica e seu diâmetro era de um côvado e meio; e era também ornada de esculturas. Os painéis eram quadrados, e não redondos.
+
+[[v11-7-32]]
+
+^<<v11-7-32,32>>^ Debaixo destes estavam as quatro rodas, cujos eixos eram fixados à base. Cada roda tinha um côvado e meio de altura
+
+[[v11-7-33]]
+
+^<<v11-7-33,33>>^ e era feita como as de um carro. Eixos, aros, raios e cubos, tudo era fundido.
+
+[[v11-7-34]]
+
+^<<v11-7-34,34>>^ Nos quatro ângulos de cada base encontravam-se quatro suportes que faziam parte da mesma base.
+
+[[v11-7-35]]
+
+^<<v11-7-35,35>>^ A parte superior da base era de forma circular, tendo meio-côvado de altura; seus esteios formavam com os painéis uma só peça.
+
+[[v11-7-36]]
+
+^<<v11-7-36,36>>^ Nas placas dos seus esteios e dos painéis assim como no espaço livre entre estas, esculpiu querubins, leões, palmas e grinaldas circulares.
+
+[[v11-7-37]]
+
+^<<v11-7-37,37>>^ Foi dessa maneira que fez as dez bases, todas do mesmo molde, da mesma dimensão e modelo.
+
+[[v11-7-38]]
+
+^<<v11-7-38,38>>^ Fez também dez bacias de bronze, contendo cada uma quarenta batos. Cada uma tinha quatro côvados e repousava sobre um dos dez pedestais.
+
+[[v11-7-39]]
+
+^<<v11-7-39,39>>^ Pôs cinco pedestais do lado direito do templo e cinco do lado esquerdo. O mar foi colocado do lado direito do edifício, para o sudoeste.
+
+[[v11-7-40]]
+
+^<<v11-7-40,40>>^ Hiram fez também caldeirões, pás e bacias. Hiram concluiu, pois, toda a obra que o rei Salomão lhe mandara fazer para o Templo do Senhor:
+
+[[v11-7-41]]
+
+^<<v11-7-41,41>>^ duas colunas, dois capitéis esféricos para o alto das colunas, duas redes para cobrir os capitéis esféricos que estão sobre as colunas;
+
+[[v11-7-42]]
+
+^<<v11-7-42,42>>^ quatrocentas romãs para as redes, duas fileiras de romãs para cada rede, para cobrir os dois capitéis esféricos que estão no alto das colunas;
+
+[[v11-7-43]]
+
+^<<v11-7-43,43>>^ dez pedestais e dez bacias sobre os pedestais;
+
+[[v11-7-44]]
+
+^<<v11-7-44,44>>^ o mar, único, com os doze bois por baixo do mar;
+
+[[v11-7-45]]
+
+^<<v11-7-45,45>>^ os caldeirões, pás e bacias. Todos esses objetos que Hiram fez por ordem do rei Salomão para o Templo do Senhor, eram de bronze polido.
+
+[[v11-7-46]]
+
+^<<v11-7-46,46>>^ O rei mandou-os fundir na planície do Jordão, numa terra argilosa, entre Sucot e Sartã.
+
+[[v11-7-47]]
+
+^<<v11-7-47,47>>^ Era tão grande o número desses objetos, que Salomão não pesou o bronze.
+
+[[v11-7-48]]
+
+^<<v11-7-48,48>>^ Salomão mandou ainda fabricar todos os utensílios que estariam no Templo do Senhor: o altar de ouro, a mesa de ouro sobre a qual se colocavam os pães de proposição;
+
+[[v11-7-49]]
+
+^<<v11-7-49,49>>^ os candelabros de ouro fino, cinco à direita e cinco à esquerda, diante do santuário, com as flores, as lâmpadas e as espevitadeiras de ouro,
+
+[[v11-7-50]]
+
+^<<v11-7-50,50>>^ os copos, as facas, as bacias, as colheres e os cinzeiros de ouro fino; os gonzos de ouro para os batentes da porta do santuário, o Santo dos Santos e da porta do templo, o Santo.
+
+[[v11-7-51]]
+
+^<<v11-7-51,51>>^ Assim foram concluídos todos os trabalhos empreendidos pelo rei Salomão para o Templo do Senhor. E Salomão mandou então que se trouxesse tudo o que Davi, seu pai, tinha consagrado: a prata, o ouro e os utensílios e os depositou nas reservas do Templo do Senhor.
+
+'''
+
+xref:011-i-reis/011-i-reis-006.adoc#v11-6-0[&#60; Capítulo Anterior] | <<v11-7-0,Topo>> | xref:011-i-reis/011-i-reis-008.adoc#v11-8-0[Próximo Capítulo &#62;]

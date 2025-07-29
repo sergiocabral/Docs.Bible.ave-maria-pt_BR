@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v33-20-0]]
+=== Ezequiel, 20
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 20 aborda a rebeldia do povo de Israel ao longo da história e como Deus lidou com essa situação. Os versículos selecionados abaixo estão relacionados com a punição divina e a busca de arrependimento por parte do povo:
+* Jeremias 21:12: "Ó casa de Davi, assim diz o SENHOR: Executai justiça pela manhã e livrai o oprimido das mãos do opressor, para que o meu furor não saia como fogo e arda, sem que haja quem o apague, por causa da maldade das vossas obras." Este versículo reforça a ideia de que a justiça deve ser praticada e que Deus pune aqueles que cometem injustiças.
+* Isaías 55:6-7: "Buscai o SENHOR enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos, e se converta ao SENHOR, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar." Aqui, é enfatizada a importância de buscar a Deus e abandonar o pecado, mostrando que Deus está disposto a perdoar aqueles que se arrependem.
+* Salmo 81:11-12: "Mas o meu povo não quis ouvir a minha voz, e Israel não me quis. Portanto, entreguei-os aos desejos dos seus corações, e andaram nos seus próprios conselhos." Este salmo ilustra como Deus permitiu que as pessoas seguissem seus próprios desejos e sofreram as consequências de suas escolhas.
+* Isaías 5:24: "Portanto, como a língua de fogo consome a palha, e o restolho se desfaz pela chama, assim será a sua raiz como podridão, e a sua flor se desvanecerá como pó; porquanto rejeitaram a lei do SENHOR dos Exércitos, e desprezaram a palavra do Santo de Israel." Esse versículo destaca que aqueles que rejeitam a lei de Deus acabam sendo consumidos pela sua própria maldade.
+* Oséias 14:1: "Volta, ó Israel, para o SENHOR teu Deus, porque pelos teus pecados tens caído." Aqui, vemos um apelo para que o povo se arrependa e volte a Deus, reconhecendo que suas próprias escolhas os levaram à queda.
+****
+
+[[v33-20-1]]
+
+^<<v33-20-1,1>>^ No sétimo ano, no décimo dia do quinto mês, vieram alguns anciãos de Israel consultar o Senhor, e se assentaram diante de mim.^&#42;1^
+
+[[v33-20-2]]
+
+^<<v33-20-2,2>>^ A palavra do Senhor me foi dirigida nestes termos:
+
+[[v33-20-3]]
+
+^<<v33-20-3,3>>^ “Filho do homem, dirige-te como se segue aos anciãos de Israel: eis o que diz o Senhor Javé: viestes para me consultar. Por minha vida! Eu não me deixarei consultar por vós – oráculo do Senhor Javé.
+
+[[v33-20-4]]
+
+^<<v33-20-4,4>>^ Julga-os, julga-os pois, filho do homem. Faze-os reconhecer as abominações de seus pais.
+
+[[v33-20-5]]
+
+^<<v33-20-5,5>>^ Dize-lhes: eis o que diz o Senhor Javé: no dia em que fiz a escolha de Israel, em que levantei a mão para a raça de Jacó, em que me dei a conhecer a eles no Egito, em que ergui a mão para eles, dizendo: sou eu que sou o Senhor, vosso Deus,^&#42;1^
+
+[[v33-20-6]]
+
+^<<v33-20-6,6>>^ foi nesse dia que jurei tirá-los do Egito para conduzi-los à terra que eu escolhera para eles, terra que mana leite e mel, a joia de todos os países.
+
+[[v33-20-7]]
+
+^<<v33-20-7,7>>^ Eu lhes disse então: que cada um lance para fora os ídolos abomináveis que atraem os vossos olhos; não mais vos mancheis com os ídolos do Egito. Eu é que sou o Senhor, vosso Deus.
+
+[[v33-20-8]]
+
+^<<v33-20-8,8>>^ Eles, porém, se rebelaram contra mim e se recusaram a escutar-me; nenhum deles rejeitou os ídolos abomináveis que atraem os olhos e nenhum abandonou os ídolos do Egito. À vista disso, decidi desencadear sobre eles a minha cólera e contra eles e contra o próprio Egito saciar o meu furor.
+
+[[v33-20-9]]
+
+^<<v33-20-9,9>>^ Se eu os tirei do Egito, foi somente em consideração ao meu nome, a fim de que não fosse odiado aos olhos das nações entre as quais viviam, e onde eu me tinha dado a conhecer a eles.
+
+[[v33-20-10]]
+
+^<<v33-20-10,10>>^ Eu os fiz assim sair do Egito e os conduzi ao deserto.
+
+[[v33-20-11]]
+
+^<<v33-20-11,11>>^ Eu lhes dei as minhas leis e lhes ensinei os meus preceitos, em virtude dos quais vive aquele que os observa.
+
+[[v33-20-12]]
+
+^<<v33-20-12,12>>^ Instituí mesmo para eles os meus sábados, como sinal entre mim e eles, a fim de que reconhecessem que sou eu, o Senhor, que os santifica.^&#42;1^
+
+[[v33-20-13]]
+
+^<<v33-20-13,13>>^ No deserto, todavia, os israelitas se rebelaram contra mim; não praticaram as minhas leis e rejeitaram os meus preceitos, em virtude dos quais o homem vive, quando os cumpre; profanaram gravemente os meus sábados. Por isso, tomei a resolução de desencadear sobre eles o meu furor, no deserto, para aniquilá-los.
+
+[[v33-20-14]]
+
+^<<v33-20-14,14>>^ Mas o fiz em consideração ao meu nome, a fim de que não ficasse ele desmoralizado aos olhos das nações, perante as quais eu os tinha feito sair do Egito.
+
+[[v33-20-15]]
+
+^<<v33-20-15,15>>^ Todavia, no deserto, eu lhes fiz o juramento de não levá-los à terra que eu lhes tinha prometido, terra onde corria leite e mel, a mais bela de todas as terras,
+
+[[v33-20-16]]
+
+^<<v33-20-16,16>>^ porque haviam rejeitado as minhas leis, abandonando os meus preceitos, profanando os meus sábados e entregando-se intimamente a seus ídolos.
+
+[[v33-20-17]]
+
+^<<v33-20-17,17>>^ Depois eu me compadeci deles; renunciei à ideia de destruí-los, e não os exterminei completamente no deserto.
+
+[[v33-20-18]]
+
+^<<v33-20-18,18>>^ Eu disse no deserto a seus filhos: não sigais os preceitos dos vossos pais, não imiteis as suas práticas, contaminando-vos com os ídolos.
+
+[[v33-20-19]]
+
+^<<v33-20-19,19>>^ Sou eu, o Senhor, que sou o vosso Deus. Deveis guardar as minhas leis, observar e praticar as minhas ordens.
+
+[[v33-20-20]]
+
+^<<v33-20-20,20>>^ Respeitai santamente os meus sábados, a fim de que sejam um sinal entre mim e vós, e que se saiba que eu, o Senhor, é que sou o vosso Deus.
+
+[[v33-20-21]]
+
+^<<v33-20-21,21>>^ Mas também os filhos se sublevaram contra mim, não cumpriram as minhas leis, não as observaram, pondo em prática os meus preceitos, em virtude dos quais o homem vive, desde que os cumpra; e eles profanaram os meus sábados. Por isso, concebi o desígnio de desencadear contra eles a minha cólera, de fartar minha ira contra eles no deserto.
+
+[[v33-20-22]]
+
+^<<v33-20-22,22>>^ Se retirei a minha mão, foi em atenção ao meu nome, a fim de que não seja desrespeitado entre as nações perante as quais eu os tirei do Egito.
+
+[[v33-20-23]]
+
+^<<v33-20-23,23>>^ Entretanto, fiz, no deserto, o juramento de dispersá-los entre as nações e de disseminá-los através dos países,
+
+[[v33-20-24]]
+
+^<<v33-20-24,24>>^ porque não haviam observado os meus preceitos, tinham rejeitado as minhas leis, profanando os meus sábados e deixando seus olhos se apegar aos ídolos de seus pais.
+
+[[v33-20-25]]
+
+^<<v33-20-25,25>>^ De minha parte, cheguei a dar-lhes estatutos que lhes foram funestos, ordens em virtude das quais não podiam viver;^&#42;1^
+
+[[v33-20-26]]
+
+^<<v33-20-26,26>>^ eu os tornei impuros por suas oferendas – quando faziam passar seus primogênitos pelo fogo – para puni-los e dar-lhes a conhecer que eu sou o Senhor.
+
+[[v33-20-27]]
+
+^<<v33-20-27,27>>^ Por isso, filho do homem, dirige-te à casa de Israel: eis o que diz o Senhor Javé: ainda nisso me ultrajaram os vossos pais, e me foram infiéis.
+
+[[v33-20-28]]
+
+^<<v33-20-28,28>>^ Após haverem sido introduzidos por mim na terra que lhes havia jurado dar à vista de todas as suas colinas elevadas, de todas as árvores frondosas, ofereceram seus sacrifícios e apresentaram as suas oblações que me irritavam; depuseram o agradável odor de suas oferendas e derramaram as suas libações.
+
+[[v33-20-29]]
+
+^<<v33-20-29,29>>^ Então, eu lhes disse: que lugar alto é esse, aonde ides? E esse nome de lugar alto é o que até hoje tem subsistido.^&#42;1^
+
+[[v33-20-30]]
+
+^<<v33-20-30,30>>^ Por isso, dirige-te assim à casa de Israel: eis o que diz o Senhor Javé: vós vos contaminais, à maneira dos vossos pais, e vos prostituís como os seus ídolos.
+
+[[v33-20-31]]
+
+^<<v33-20-31,31>>^ Apresentando as vossas oferendas, fazendo passar vossos filhos pelo fogo, vós ainda hoje vos manchais com todos os vossos ídolos. E eu, casa de Israel, eu me deixarei consultar por vós? Por minha vida – oráculo do Senhor Javé –, não o farei.
+
+[[v33-20-32]]
+
+^<<v33-20-32,32>>^ Nada sucederá daquilo que sonhais quando dizeis: iremos fazer como as nações, como as raças da terra, rendendo culto à árvore e à pedra.
+
+[[v33-20-33]]
+
+^<<v33-20-33,33>>^ Por minha vida – oráculo do Senhor Javé –, é com mão forte, com braço estendido, no desencadeamento do meu furor, que eu reinarei sobre vós.
+
+[[v33-20-34]]
+
+^<<v33-20-34,34>>^ Eu vos tirarei do meio das nações; eu vos reunirei fora dos países onde vos achais dispersos e, com mão poderosa, braço estendido, no desencadear do meu furor,
+
+[[v33-20-35]]
+
+^<<v33-20-35,35>>^ vos conduzirei ao deserto das nações onde, face a face, entrarei em julgamento convosco.^&#42;1^
+
+[[v33-20-36]]
+
+^<<v33-20-36,36>>^ Como entrei em demanda com os vossos pais, no deserto do Egito, assim entrarei em demanda convosco – oráculo do Senhor Javé.
+
+[[v33-20-37]]
+
+^<<v33-20-37,37>>^ Eu vos farei passar sob o bastão e reentrar nos liames da aliança.
+
+[[v33-20-38]]
+
+^<<v33-20-38,38>>^ Segregarei do vosso meio os rebeldes e aqueles que contra mim se revoltaram, e os tirarei da terra onde se estabeleceram, e eles não entrarão na terra de Israel. Assim sabereis que sou eu o Senhor.
+
+[[v33-20-39]]
+
+^<<v33-20-39,39>>^ Quanto a vós, israelitas, eis o que diz o Senhor: ide, servi cada um de vós aos ídolos! Depois disso, juro que me escutareis, e não profanareis o meu santo nome por vossas oferendas e vossos ídolos.
+
+[[v33-20-40]]
+
+^<<v33-20-40,40>>^ É na minha montanha santa, na montanha de Israel – oráculo do Senhor Javé –, é lá que me prestará culto toda a casa de Israel, todos desta nação. Lá vos farei uma acolhida favorável. Lá receberei vossas oferendas e as primícias dos vossos dons, com tudo o que me apresentardes.
+
+[[v33-20-41]]
+
+^<<v33-20-41,41>>^ Em vós eu me deliciarei com perfume agradável, quando vos tiver arrancado do meio dos povos e reunido fora dos países em que vos acháveis dispersos. Aos olhos das nações, manifestarei em vós a minha santidade;
+
+[[v33-20-42]]
+
+^<<v33-20-42,42>>^ e sabereis que eu sou o Senhor, quando vos tiver conduzido à terra de Israel, que jurei dar a vossos pais.
+
+[[v33-20-43]]
+
+^<<v33-20-43,43>>^ Lá reconhecereis vossa má conduta pela qual vos tornastes impuros e sentireis desgosto de vós mesmos, pelo mal que cometestes.
+
+[[v33-20-44]]
+
+^<<v33-20-44,44>>^ E sabereis que eu é que sou o Senhor, quando eu proceder convosco em atenção ao meu nome, não em consideração aos vossos erros e vossos costumes corrompidos, ó casa de Israel – oráculo do Senhor Javé!”.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-019.adoc#v33-19-0[&#60; Capítulo Anterior] | <<v33-20-0,Topo>> | xref:033-ezequiel/033-ezequiel-021.adoc#v33-21-0[Próximo Capítulo &#62;]

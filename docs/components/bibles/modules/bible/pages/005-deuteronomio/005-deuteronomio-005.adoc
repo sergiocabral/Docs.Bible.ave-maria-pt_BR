@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v5-5-0]]
+=== Deuteronômio, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Deuteronômio 5 reconta a entrega dos Dez Mandamentos por Deus a Moisés no Monte Sinai e destaca a importância da obediência a esses mandamentos. Os versículos escolhidos são:
+* Êxodo 20:3: "Não terás outros deuses diante de mim." Esse é o primeiro dos Dez Mandamentos que foram reafirmados em Deuteronômio 5, e que enfatiza a importância da adoração a Deus acima de todos os outros deuses ou ídolos.
+* João 14:15: "Se me amais, guardareis os meus mandamentos." Jesus reforça a importância da obediência aos mandamentos de Deus como prova de amor a Ele.
+* Deuteronômio 5:16: "Honra teu pai e tua mãe, como te ordenou o Senhor, teu Deus, para que se prolonguem os teus dias e para que sejas feliz na terra que te dá o Senhor, teu Deus." Esse é o quinto mandamento que enfatiza a importância da honra aos pais e da manutenção dos laços familiares.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Esse versículo destaca a importância da confiança em Deus e da submissão a Ele em todas as áreas de nossa vida.
+* Deuteronômio 5:22: "Estas palavras o Senhor falou a toda a vossa congregação no monte, do meio do fogo, da nuvem e da escuridão, com grande voz; e nada acrescentou." Esse versículo destaca a importância da mensagem dada por Deus e enfatiza que ela não deve ser modificada ou adulterada de forma alguma.
+****
+
+[[v5-5-1]]
+
+^<<v5-5-1,1>>^ Moisés convocou todo o Israel e disse-lhe: “Ouve, ó Israel, as leis e os preceitos que hoje proclamo aos teus ouvidos: aprende-os e pratica-os cuidadosamente.
+
+[[v5-5-2]]
+
+^<<v5-5-2,2>>^ O Senhor, nosso Deus, fez um pacto conosco em Horeb.
+
+[[v5-5-3]]
+
+^<<v5-5-3,3>>^ Não foi com os nossos pais que o Senhor fez essa aliança, mas conosco, que estamos hoje aqui ainda vivos.
+
+[[v5-5-4]]
+
+^<<v5-5-4,4>>^ Falou-nos o Senhor face a face no monte, do meio do fogo.
+
+[[v5-5-5]]
+
+^<<v5-5-5,5>>^ Durante aquele tempo, eu estava entre o Senhor e vós para vos transmitir suas palavras, porque, aterrados pelo fogo, vós não subistes ao monte. Ele disse:
+
+[[v5-5-6]]
+
+^<<v5-5-6,6>>^ ‘Eu sou o Senhor, teu Deus, que te tirei do Egito, da casa da servidão.
+
+[[v5-5-7]]
+
+^<<v5-5-7,7>>^ Não terás outro deus diante de mim.
+
+[[v5-5-8]]
+
+^<<v5-5-8,8>>^ Não farás para ti imagem de escultura representando o que quer que seja do que está em cima no céu, ou embaixo na terra, ou nas águas debaixo da terra.
+
+[[v5-5-9]]
+
+^<<v5-5-9,9>>^ Não te prostrarás diante delas para render-lhes culto, porque eu, o Senhor, teu Deus, sou um Deus zeloso. Castigo a iniquidade dos pais nos filhos, até a terceira e a quarta geração daqueles que me odeiam,
+
+[[v5-5-10]]
+
+^<<v5-5-10,10>>^ mas uso de misericórdia até a milésima geração com aqueles que me amam e guardam os meus mandamentos.
+
+[[v5-5-11]]
+
+^<<v5-5-11,11>>^ Não pronunciarás em vão o nome do Senhor, teu Deus; porque o Senhor não terá por inocente aquele que tiver pronunciado em vão o seu nome.
+
+[[v5-5-12]]
+
+^<<v5-5-12,12>>^ Guardarás o dia do sábado e o santificarás, como te ordenou o Senhor, teu Deus.
+
+[[v5-5-13]]
+
+^<<v5-5-13,13>>^ Trabalharás seis dias e neles farás todas as tuas obras;
+
+[[v5-5-14]]
+
+^<<v5-5-14,14>>^ mas no sétimo dia, que é o repouso do Senhor, teu Deus, não farás trabalho algum, nem tu, nem teu filho, nem tua filha, nem teu servo, nem tua serva, nem teu boi, nem teu jumento, nem teus animais, nem o estrangeiro que vive dentro de teus muros, para que o teu escravo e a tua serva descansem como tu.
+
+[[v5-5-15]]
+
+^<<v5-5-15,15>>^ Lembra-te de que foste escravo no Egito, de onde a mão forte e o braço poderoso do teu Senhor te tirou. É por isso que o Senhor, teu Deus, te ordenou observasses o dia do sábado.
+
+[[v5-5-16]]
+
+^<<v5-5-16,16>>^ Honra teu pai e tua mãe, como te mandou o Senhor, para que se prolonguem teus dias e prosperes na terra que te deu o Senhor, teu Deus.
+
+[[v5-5-17]]
+
+^<<v5-5-17,17>>^ Não matarás.
+
+[[v5-5-18]]
+
+^<<v5-5-18,18>>^ Não cometerás adultério.
+
+[[v5-5-19]]
+
+^<<v5-5-19,19>>^ Não furtarás.
+
+[[v5-5-20]]
+
+^<<v5-5-20,20>>^ Não levantarás falso testemunho contra o teu próximo.
+
+[[v5-5-21]]
+
+^<<v5-5-21,21>>^ Não cobiçarás a mulher do teu próximo. Não cobiçarás sua casa, nem seu campo, nem seu escravo, nem sua escrava, nem seu boi, nem seu jumento, nem nada do que lhe pertence’.
+
+[[v5-5-22]]
+
+^<<v5-5-22,22>>^ Tais são as palavras que no monte, do meio do fogo, da nuvem e das trevas, o Senhor dirigiu com voz forte a toda a vossa assembleia, sem juntar mais nada. E escreveu-as em duas tábuas de pedra, que me entregou.
+
+[[v5-5-23]]
+
+^<<v5-5-23,23>>^ Ora, depois que ouvistes a voz que saía do meio das trevas e vistes o monte ardendo em fogo, viestes ter comigo com vossos chefes de tribos e vossos anciãos para dizer-me:
+
+[[v5-5-24]]
+
+^<<v5-5-24,24>>^ “Eis que o Senhor, nosso Deus, nos mostrou a sua glória e a sua grandeza, e ouvimos a sua voz do seio do fogo. Hoje vimos que Deus pode falar ao homem sem que este morra.
+
+[[v5-5-25]]
+
+^<<v5-5-25,25>>^ Mas, por que nos exporemos à morte? Esse grande fogo nos devorará. Se continuarmos a ouvir a voz do Senhor, nosso Deus, morreremos.
+
+[[v5-5-26]]
+
+^<<v5-5-26,26>>^ Qual é o mortal que pode ouvir como nós a voz do Deus vivo, que fala do meio do fogo e permanecer ainda vivo?
+
+[[v5-5-27]]
+
+^<<v5-5-27,27>>^ Quanto a ti, aproxima-te para ouvir o que dirá o Senhor, nosso Deus. Depois nos dirás tudo o que ele te disser. E nós, ouvindo-o, obedeceremos.
+
+[[v5-5-28]]
+
+^<<v5-5-28,28>>^ Ouvindo vossas palavras quando me faláveis, o Senhor disse-me: ‘Ouvi as palavras que esse povo te disse. Está bem tudo o que disseram.
+
+[[v5-5-29]]
+
+^<<v5-5-29,29>>^ Ah, se tivessem sempre esse mesmo coração, para me temer e guardar meus mandamentos! Seriam então felizes para sempre, eles e seus filhos.
+
+[[v5-5-30]]
+
+^<<v5-5-30,30>>^ Vai e dize-lhes que voltem para as suas tendas.
+
+[[v5-5-31]]
+
+^<<v5-5-31,31>>^ Tu, porém, fica aqui comigo: vou expor-te todas as ordenações, as leis e os preceitos, que lhes ensinarás, para que os observem na terra que lhes dou em possessão’.
+
+[[v5-5-32]]
+
+^<<v5-5-32,32>>^ Observai, pois, todas as ordens do Senhor, vosso Deus; não vos aparteis delas nem para a direita nem para a esquerda.
+
+[[v5-5-33]]
+
+^<<v5-5-33,33>>^ Seguireis exatamente o caminho que o Senhor, vosso Deus, vos traçou, a fim de que vivais e sejais felizes, e vossos dias se prolonguem na terra que ides possuir”.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-004.adoc#v5-4-0[&#60; Capítulo Anterior] | <<v5-5-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-006.adoc#v5-6-0[Próximo Capítulo &#62;]

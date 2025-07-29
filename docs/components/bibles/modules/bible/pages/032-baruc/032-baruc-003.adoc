@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v32-3-0]]
+=== Baruc, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Baruc 3 é um capítulo do Antigo Testamento que apresenta uma oração em forma de lamento, na qual o povo judeu reconhece que desobedeceu a Deus e que agora sofre as consequências. Eles pedem a misericórdia e o perdão de Deus e se consolam na sua fidelidade. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Baruc 3:
+* Salmo 79:8: "Não te lembres contra nós das iniquidades de nossos antepassados; venha depressa ao nosso encontro a tua compaixão, pois estamos muito abatidos". Este versículo reconhece que o povo de Deus sofre as consequências dos pecados de seus antepassados e pede a compaixão de Deus.
+* Jeremias 3:22: "Voltai, filhos rebeldes, eu curarei a vossa rebeldia". Este versículo mostra a oferta de perdão e cura de Deus, mesmo para aqueles que se rebelaram contra Ele.
+* Isaías 1:18: "Vinde então, e argui-me, diz o Senhor; ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a lã". Este versículo mostra a promessa de Deus de perdoar e purificar os pecados do povo.
+* Joel 2:13: "E rasgai o vosso coração, e não as vossas vestes; e convertei-vos ao Senhor vosso Deus; porque ele é misericordioso e compassivo, tardio em irar-se e grande em benignidade, e se arrepende do mal". Este versículo mostra a importância do arrependimento sincero e a promessa de misericórdia de Deus.
+* Neemias 9:33: "No entanto, és justo em tudo o que nos aconteceu, pois agiste com fidelidade, mas nós pecamos". Este versículo reconhece a justiça de Deus em permitir que o povo sofra as consequências de seus pecados, mas também destaca a fidelidade de Deus em cumprir Suas promessas.
+****
+
+[[v32-3-1]]
+
+^<<v32-3-1,1>>^ Senhor, Todo-poderoso, Deus de Israel, é uma alma angustiada e um coração atormentado que clama a vós:
+
+[[v32-3-2]]
+
+^<<v32-3-2,2>>^ Escutai, Senhor! Tende piedade! Porque pecamos contra vós.
+
+[[v32-3-3]]
+
+^<<v32-3-3,3>>^ Estais sentado sobre um trono eterno, e nós caminhamos para um definitivo aniquilamento.
+
+[[v32-3-4]]
+
+^<<v32-3-4,4>>^ Senhor, Todo-poderoso, Deus de Israel, escutai a prece dos mortos de Israel, dos filhos daqueles que pecaram contra vós, que não atenderam à voz do Senhor, seu Deus, e por isso foram levados à desgraça.
+
+[[v32-3-5]]
+
+^<<v32-3-5,5>>^ Não mais tomeis em conta os crimes de nossos pais; lembrai-vos, apenas, nesta hora, do poder de vosso nome.
+
+[[v32-3-6]]
+
+^<<v32-3-6,6>>^ Sois o Senhor, nosso Deus, e nós queremos louvar-vos, Senhor.
+
+[[v32-3-7]]
+
+^<<v32-3-7,7>>^ Por esse motivo é que nos inspirastes o temor a vós e a necessidade de vos invocar. Agora, em nosso exílio, vos louvamos, já que o nosso coração renunciou às iniquidades de nossos pais, que contra vós pecaram.
+
+[[v32-3-8]]
+
+^<<v32-3-8,8>>^ Olhai! Aqui vivemos em um exílio, para onde nos dispersastes, a fim de sermos objeto de opróbrio, de insultos e maldições, e para carregarmos o peso das culpas de nossos pais, que haviam abandonado o Senhor, nosso Deus.
+
+[[v32-3-9]]
+
+^<<v32-3-9,9>>^ Escuta, Israel, os mandamentos de vida; medita, a fim de que aprendas a prudência.
+
+[[v32-3-10]]
+
+^<<v32-3-10,10>>^ Donde vem, Israel, donde vem, que te encontras em terra inimiga, que definhas em solo estranho, passas por imundo, qual cadáver,
+
+[[v32-3-11]]
+
+^<<v32-3-11,11>>^ e és contado entre os ocupantes dos túmulos?
+
+[[v32-3-12]]
+
+^<<v32-3-12,12>>^ Negligenciaste a fonte da sabedoria.^&#42;1^
+
+[[v32-3-13]]
+
+^<<v32-3-13,13>>^ Se houvesses caminhado pelas sendas de Deus, poderias habitar para sempre na paz.
+
+[[v32-3-14]]
+
+^<<v32-3-14,14>>^ Aprende onde se acha a prudência, a força e a inteligência, a fim de que saibas, ao mesmo tempo, onde se encontram a vida longa e a felicidade, o fulgor dos olhos e a paz.
+
+[[v32-3-15]]
+
+^<<v32-3-15,15>>^ Quem jamais encontrou sua morada, e penetrou em seus domínios?^&#42;1^
+
+[[v32-3-16]]
+
+^<<v32-3-16,16>>^ Onde estão os chefes das nações que domavam os animais da terra,^&#42;1^
+
+[[v32-3-17]]
+
+^<<v32-3-17,17>>^ e brincavam com as aves do céu, que entesouravam prata e ouro, em quem os homens confiavam, e cujos bens são inesgotáveis?
+
+[[v32-3-18]]
+
+^<<v32-3-18,18>>^ Onde estão aqueles que trabalham a prata com dificuldade? Nada resta de suas obras.
+
+[[v32-3-19]]
+
+^<<v32-3-19,19>>^ Desapareceram, desceram à habitação dos mortos, e outros subiram ao lugar deles;
+
+[[v32-3-20]]
+
+^<<v32-3-20,20>>^ os mais jovens viram o dia e habitaram a terra; não descobriram, porém, o caminho da sabedoria,
+
+[[v32-3-21]]
+
+^<<v32-3-21,21>>^ nem conheceram a senda que a ela conduz. Também seus filhos não a alcançaram e longe permaneceram de seu caminho.
+
+[[v32-3-22]]
+
+^<<v32-3-22,22>>^ Dela não se ouviu falar em Canaã nem foi vista em Temã.
+
+[[v32-3-23]]
+
+^<<v32-3-23,23>>^ Mesmo os filhos de Agar, à procura de prudência terrestre, e os negociantes de Mercã e Temã, os amigos de provérbios e os desejosos de prudência, não puderam conhecer o caminho da sabedoria, nem dela obter informações sobre sua pista.
+
+[[v32-3-24]]
+
+^<<v32-3-24,24>>^ Ó Israel, quão imensa é a casa de Deus; como é vasta a extensão de seus domínios!
+
+[[v32-3-25]]
+
+^<<v32-3-25,25>>^ Sim, é vasta, imensa, ampla, ilimitada.
+
+[[v32-3-26]]
+
+^<<v32-3-26,26>>^ Lá nasceram os famosos gigantes antigos, de estatura imensa e alma de guerreiros.^&#42;1^
+
+[[v32-3-27]]
+
+^<<v32-3-27,27>>^ Não os escolheu Deus, nem lhes mostrou o caminho da sabedoria.
+
+[[v32-3-28]]
+
+^<<v32-3-28,28>>^ E por falta de sagacidade pereceram, vítimas da própria estultícia.
+
+[[v32-3-29]]
+
+^<<v32-3-29,29>>^ Quem escalou o céu a fim de procurar a sabedoria, e a trouxe para baixo das nuvens?
+
+[[v32-3-30]]
+
+^<<v32-3-30,30>>^ Quem atravessou o mar para encontrá-la, e a adquiriu, a preço de ouro mais puro?
+
+[[v32-3-31]]
+
+^<<v32-3-31,31>>^ Ninguém conhece o caminho que a ela conduz, nem sabe a pista que lá o possa levar.
+
+[[v32-3-32]]
+
+^<<v32-3-32,32>>^ Somente aquele que tudo sabe a conhece, e por efeito de sua prudência a descobre; aquele que criou a terra para tempos que não findam; aquele que de animais a povoou;^&#42;1^
+
+[[v32-3-33]]
+
+^<<v32-3-33,33>>^ aquele que lança o relâmpago e o faz brilhar, que o chama e ele, bramindo, obedece.
+
+[[v32-3-34]]
+
+^<<v32-3-34,34>>^ Brilham em seus postos as estrelas e se alegram;
+
+[[v32-3-35]]
+
+^<<v32-3-35,35>>^ e as chama, e respondem: “Aqui estamos”. E jubilosas refulgem para o seu Criador.
+
+[[v32-3-36]]
+
+^<<v32-3-36,36>>^ É ele o nosso Deus, com ele nenhum outro se compara.
+
+[[v32-3-37]]
+
+^<<v32-3-37,37>>^ Conhece a fundo os caminhos que conduzem à sabedoria, galardoando com ela Jacó, seu servo, e Israel, seu favorecido.
+
+[[v32-3-38]]
+
+^<<v32-3-38,38>>^ Foi então que ela apareceu sobre a terra, onde permanece entre os homens.^&#42;1^
+
+'''
+
+xref:032-baruc/032-baruc-002.adoc#v32-2-0[&#60; Capítulo Anterior] | <<v32-3-0,Topo>> | xref:032-baruc/032-baruc-004.adoc#v32-4-0[Próximo Capítulo &#62;]

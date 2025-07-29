@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v25-11-0]]
+=== Eclesiastes, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiastes 11 fala sobre a importância da semeadura e da perseverança na incerteza do resultado, uma vez que o ser humano não tem controle sobre tudo o que acontece na vida. Os versículos a seguir estão relacionados com esse tema:
+* Gênesis 8:22: "Enquanto durar a terra, sementeira e colheita, frio e calor, verão e inverno, dia e noite não cessarão." Este versículo fala sobre a constância das estações do ano e da importância da semeadura para a colheita.
+* Provérbios 11:18: "O malvado recebe uma recompensa falsa, mas quem semeia a justiça tem verdadeira recompensa." Esse versículo destaca a importância de semear boas ações e atitudes para receber a recompensa adequada.
+* Lucas 8:15: "Mas a semente que caiu em terra boa são os que ouvem a palavra com coração honesto e bom, retêm-na e perseveram até dar fruto." Este versículo fala sobre a importância da perseverança na fé e nas práticas religiosas para alcançar a salvação.
+* Gálatas 6:7: "Não vos enganeis: de Deus não se zomba. O que o homem semeia, isso mesmo colherá." Este versículo destaca a importância de tomar cuidado com as ações que se pratica na vida, pois o resultado virá de acordo com o que foi semeado.
+* 2 Coríntios 9:6: "Quem semeia pouco, pouco ceifará; e quem semeia muito, muito ceifará." Esse versículo destaca a importância de se investir com generosidade, alegria e devoção, para se obter uma recompensa maior.
+****
+
+[[v25-11-1]]
+
+^<<v25-11-1,1>>^ Atira teu pão sobre a superfície das águas, porque depois de muito tempo o acharás.^&#42;1^
+
+[[v25-11-2]]
+
+^<<v25-11-2,2>>^ Faze de tua riqueza sete e mesmo oito partes, porque não sabes que calamidade sobrevirá à terra.
+
+[[v25-11-3]]
+
+^<<v25-11-3,3>>^ Quando as nuvens estiverem carregadas, derramarão a chuva sobre a terra. Quando tomba uma árvore para o sul ou para o norte, lá onde cai, fica.
+
+[[v25-11-4]]
+
+^<<v25-11-4,4>>^ Quem observa o vento jamais semeará; quem examina as nuvens nunca segará.
+
+[[v25-11-5]]
+
+^<<v25-11-5,5>>^ Do mesmo modo que não sabes qual é o caminho do sopro da vida e como se formam os ossos no seio de uma mãe, assim também ignoras a ação de Deus, que faz todas as coisas.^&#42;1^
+
+[[v25-11-6]]
+
+^<<v25-11-6,6>>^ Semeia a tua semente desde a manhã e não deixes tuas mãos ociosas até a noite. Porque não sabes o que terá bom êxito, se isto ou aquilo, ou se ambas as coisas são igualmente úteis.
+
+[[v25-11-7]]
+
+^<<v25-11-7,7>>^ Doce é a luz, e é um deleite para os olhos ver o sol.^&#42;1^
+
+[[v25-11-8]]
+
+^<<v25-11-8,8>>^ Por mais numerosos que sejam os anos de vida, regozija-se o homem em todos eles, mas deve pensar nos dias obscuros que serão numerosos. Tudo o que acontece é vaidade.
+
+[[v25-11-9]]
+
+^<<v25-11-9,9>>^ Jovem, rejubila-te na tua adolescência e, enquanto ainda és jovem, entrega teu coração à alegria. Anda nos caminhos de teu coração e segundo os olhares de teus olhos, mas fica sabendo que de tudo isso Deus te fará prestar conta!^&#42;1^
+
+[[v25-11-10]]
+
+^<<v25-11-10,10>>^ Afasta a tristeza do teu coração e poupa o sofrimento a teu corpo, porque a juventude e a adolescência são passageiras.
+
+'''
+
+xref:025-eclesiastes/025-eclesiastes-010.adoc#v25-10-0[&#60; Capítulo Anterior] | <<v25-11-0,Topo>> | xref:025-eclesiastes/025-eclesiastes-012.adoc#v25-12-0[Próximo Capítulo &#62;]

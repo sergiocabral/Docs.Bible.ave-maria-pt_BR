@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v28-3-0]]
+=== Eclesiástico, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiástico 3 aborda o tema das relações familiares e sociais, exaltando a sabedoria que deve nortear a conduta dos indivíduos em seus relacionamentos. Os versículos selecionados são:
+* Provérbios 15:33: "O temor do Senhor é o ensino da sabedoria, e a humildade precede a honra." Este versículo ressalta a importância do temor a Deus e da humildade para a aquisição da sabedoria, uma das principais virtudes exaltadas em Eclesiástico 3.
+* Provérbios 22:6: "Instrua a criança segundo os objetivos que você tem para ela, e mesmo com o passar dos anos não se desviará deles." Este versículo destaca a responsabilidade dos pais na formação dos filhos, tema que é tratado em detalhes em Eclesiástico 3.
+* Provérbios 20:11: "Até uma criança mostra o que é certo pelo que faz, pela maneira como age se a sua conduta é pura e correta." Esse versículo aponta que a conduta das pessoas pode revelar sua sabedoria ou insensatez, uma das ideias centrais em Eclesiástico 3.
+* Provérbios 10:1: "Filho sábio alegra o pai; filho insensato entristece a mãe." Esse versículo destaca a alegria e a tristeza que os filhos podem causar aos pais de acordo com sua conduta, um tema recorrente em Eclesiástico 3.
+* Provérbios 18:24: "Há amigos que levam à ruína, e há amigos mais chegados que um irmão." Esse versículo aponta para a importância dos relacionamentos sociais, tema que é tratado em diversos momentos em Eclesiástico 3, principalmente no que se refere à forma como os indivíduos devem se relacionar com suas famílias e amigos.
+****
+
+[[v28-3-1]]
+
+^<<v28-3-1,1>>^ Os filhos da sabedoria formam a assembleia dos justos, e o novo que compõem é, todo ele, obediência e amor.
+
+[[v28-3-2]]
+
+^<<v28-3-2,2>>^ Ouvi, meus filhos, os conselhos de vosso pai, segui-os de tal modo que sejais salvos.
+
+[[v28-3-3]]
+
+^<<v28-3-3,3>>^ Pois Deus quis honrar os pais pelos filhos, e cuidadosamente fortaleceu a autoridade da mãe sobre eles.
+
+[[v28-3-4]]
+
+^<<v28-3-4,4>>^ Aquele que ama a Deus o roga pelos seus pecados, acautela-se para não cometê-los no porvir. Ele é ouvido em sua prece cotidiana.
+
+[[v28-3-5]]
+
+^<<v28-3-5,5>>^ Quem honra sua mãe é semelhante àquele que acumula um tesouro.
+
+[[v28-3-6]]
+
+^<<v28-3-6,6>>^ Quem honra seu pai achará alegria em seus filhos, será ouvido no dia da oração.
+
+[[v28-3-7]]
+
+^<<v28-3-7,7>>^ Quem honra seu pai gozará de vida longa; quem lhe obedece dará consolo à sua mãe.
+
+[[v28-3-8]]
+
+^<<v28-3-8,8>>^ Quem teme o Senhor honra pai e mãe. Servirá aqueles que lhe deram a vida como a seus senhores.
+
+[[v28-3-9]]
+
+^<<v28-3-9,9>>^ Honra teu pai por teus atos, tuas palavras, tua paciência,
+
+[[v28-3-10]]
+
+^<<v28-3-10,10>>^ a fim de que ele te dê sua bênção, e que esta permaneça em ti até o teu último dia.
+
+[[v28-3-11]]
+
+^<<v28-3-11,11>>^ A bênção paterna fortalece a casa de seus filhos, a maldição de uma mãe a arrasa até os alicerces.^&#42;1^
+
+[[v28-3-12]]
+
+^<<v28-3-12,12>>^ Não te glories do que desonra teu pai, pois a vergonha dele não poderia ser glória para ti,
+
+[[v28-3-13]]
+
+^<<v28-3-13,13>>^ pois um homem adquire glória com a honra de seu pai, e um pai sem honra é a vergonha do filho.^&#42;1^
+
+[[v28-3-14]]
+
+^<<v28-3-14,14>>^ Meu filho, ajuda a velhice de teu pai, não o desgostes durante a sua vida.^&#42;1^
+
+[[v28-3-15]]
+
+^<<v28-3-15,15>>^ Se seu espírito desfalecer, sê indulgente, não o desprezes porque te sentes forte, pois tua caridade para com teu pai não será esquecida,^&#42;1^
+
+[[v28-3-16]]
+
+^<<v28-3-16,16>>^ e, por teres suportado os defeitos de tua mãe, te será dada uma recompensa;^&#42;1^
+
+[[v28-3-17]]
+
+^<<v28-3-17,17>>^ tua casa se tornará próspera na justiça. Tu serás lembrado de ti no dia da aflição, e teus pecados se dissolverão como o gelo ao sol forte.^&#42;1^
+
+[[v28-3-18]]
+
+^<<v28-3-18,18>>^ Como é infame aquele que abandona seu pai, como é amaldiçoado por Deus aquele que irrita sua mãe!^&#42;1^
+
+[[v28-3-19]]
+
+^<<v28-3-19,19>>^ Meu filho, faze o que fazes com doçura, e, mais do que a estima dos homens, ganharás o afeto deles.
+
+[[v28-3-20]]
+
+^<<v28-3-20,20>>^ Quanto mais fores elevado, mais te humilharás em tudo, e perante Deus acharás misericórdia;
+
+[[v28-3-21]]
+
+^<<v28-3-21,21>>^ porque só a Deus pertence a onipotência, e é pelos humildes que ele é verdadeiramente honrado.
+
+[[v28-3-22]]
+
+^<<v28-3-22,22>>^ Não procures o que é elevado demais para ti; não procures penetrar o que está acima de ti. Mas pensa sempre no que Deus te ordenou. Não tenhas a curiosidade de conhecer um número elevado demais de suas obras,
+
+[[v28-3-23]]
+
+^<<v28-3-23,23>>^ pois não é preciso que vejas com teus olhos os seus segredos.
+
+[[v28-3-24]]
+
+^<<v28-3-24,24>>^ Acautela-te de uma busca exagerada de coisas inúteis, e de uma curiosidade excessiva nas numerosas obras de Deus,
+
+[[v28-3-25]]
+
+^<<v28-3-25,25>>^ pois a ti foram reveladas muitas coisas, que ultrapassam o alcance do espírito humano.
+
+[[v28-3-26]]
+
+^<<v28-3-26,26>>^ Muitos foram enganados pelas próprias opiniões. Seu sentido os reteve na vaidade.^&#42;1^
+
+[[v28-3-27]]
+
+^<<v28-3-27,27>>^ O coração empedernido acabará por ser infeliz. Quem ama o perigo nele perecerá.
+
+[[v28-3-28]]
+
+^<<v28-3-28,28>>^ O coração de caminhos tortuosos não triunfará, e a alma corrompida neles achará ocasião de queda.
+
+[[v28-3-29]]
+
+^<<v28-3-29,29>>^ O coração perverso ficará acabrunhado de tristeza, e o pecador ajuntará pecado sobre pecado.^&#42;1^
+
+[[v28-3-30]]
+
+^<<v28-3-30,30>>^ Não há nenhuma cura para a assembleia dos soberbos, pois, sem que o saibam, o caule do pecado se enraíza neles.
+
+[[v28-3-31]]
+
+^<<v28-3-31,31>>^ O coração do sábio se manifesta pela sua sabedoria; o bom ouvido ouve a sabedoria com ardente avidez.^&#42;1^
+
+[[v28-3-32]]
+
+^<<v28-3-32,32>>^ O coração sábio e inteligente abstém-se do pecado. Ele triunfará nas obras de justiça.
+
+[[v28-3-33]]
+
+^<<v28-3-33,33>>^ A água apaga o fogo ardente, a esmola enfrenta o pecado.
+
+[[v28-3-34]]
+
+^<<v28-3-34,34>>^ Deus olha para aquele que pratica a misericórdia; dele se lembrará no porvir, no dia de sua infelicidade este achará apoio.^&#42;1^
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-002.adoc#v28-2-0[&#60; Capítulo Anterior] | <<v28-3-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-004.adoc#v28-4-0[Próximo Capítulo &#62;]

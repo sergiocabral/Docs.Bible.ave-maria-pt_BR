@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v5-20-0]]
+=== Deuteronômio, 20
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Deuteronômio 20 fala sobre as leis de guerra para os israelitas. O capítulo apresenta as instruções que devem ser seguidas quando o povo for para a batalha, incluindo quem pode lutar, como se deve se preparar para a guerra e o que fazer com os cativos e despojos. Abaixo estão cinco versículos relacionados com os temas abordados em Deuteronômio 20:
+* Salmos 144:1: "Bendito seja o SENHOR, minha rocha, que treina minhas mãos para a guerra, meus dedos para a batalha." Este versículo destaca a importância da preparação para a guerra, que é enfatizada em Deuteronômio 20.
+* 1 Samuel 17:47: "E toda esta assembléia saberá que o SENHOR não salva pela espada ou pela lança; pois a batalha é do SENHOR, e ele entregará todos vocês em nossas mãos." Este versículo enfatiza que a vitória na guerra vem de Deus e não das habilidades dos combatentes, um tema presente em Deuteronômio 20.
+* 2 Reis 6:16: "Não tenha medo", disse ele, "Aqueles que estão conosco são mais do que aqueles que estão com eles". Este versículo mostra como a confiança em Deus pode ajudar os israelitas a enfrentarem desafios na guerra, como é enfatizado em Deuteronômio 20.
+* Provérbios 21:31: "O cavalo é preparado para o dia da batalha, mas a vitória vem do SENHOR." Este versículo enfatiza a importância da preparação para a guerra, mas também destaca que a vitória vem de Deus, como é enfatizado em Deuteronômio 20.
+* 2 Crônicas 20:15: "Ele disse: Ouça, todos vocês de Judá e de Jerusalém! Não tenha medo ou fique desanimado por causa desta grande multidão, pois a batalha não é sua, mas de Deus." Este versículo enfatiza que a vitória na guerra vem de Deus e não das habilidades dos combatentes, um tema presente em Deuteronômio 20.
+****
+
+[[v5-20-1]]
+
+^<<v5-20-1,1>>^ “Quando saíres à guerra contra teus inimigos e vires cavalos, carros e um exército mais numeroso que o teu, não tenhas medo, porque o Senhor, teu Deus, que te tirou do Egito, está contigo.
+
+[[v5-20-2]]
+
+^<<v5-20-2,2>>^ Quando se aproximar o momento do combate, o sacerdote se adiantará para falar ao povo: ‘Ouve, Israel!’ – lhe dirá ele –.
+
+[[v5-20-3]]
+
+^<<v5-20-3,3>>^ ‘Ides hoje combater contra os vossos inimigos’: que vossa coragem não desfaleça! Não temais, nem vos perturbeis, nem vos deixeis amedrontar por eles.
+
+[[v5-20-4]]
+
+^<<v5-20-4,4>>^ Porque o Senhor, vosso Deus, marcha convosco para combater contra os vossos inimigos e para vos dar a vitória.
+
+[[v5-20-5]]
+
+^<<v5-20-5,5>>^ Os oficiais dirão em seguida ao povo: ‘Há alguém entre vós que tenha edificado uma casa e não a tenha ainda inaugurado? Que esse volte para a sua casa; não suceda que morra no combate e um outro venha a habitar primeiro do que ele em sua casa.
+
+[[v5-20-6]]
+
+^<<v5-20-6,6>>^ Há alguém entre vós que tenha plantado uma vinha e não tenha ainda desfrutado dela? Que esse volte para a sua casa; não suceda que pereça no combate e outro venha a colher os primeiros frutos’.^&#42;1^
+
+[[v5-20-7]]
+
+^<<v5-20-7,7>>^ Há alguém que tenha desposado uma mulher e não a tenha ainda recebido? Que esse volte para a sua casa; não suceda que morra no combate e outro a despose.
+
+[[v5-20-8]]
+
+^<<v5-20-8,8>>^ Os oficiais dirão ainda ao povo: ‘Há alguém medroso e de coração tímido? Que esse volte para a sua casa; não suceda que o coração de seus irmãos desfaleça como o seu’.
+
+[[v5-20-9]]
+
+^<<v5-20-9,9>>^ Quando os oficiais tiverem acabado de falar ao povo, serão colocados os chefes das tropas à testa do povo.
+
+[[v5-20-10]]
+
+^<<v5-20-10,10>>^ Quando te aproximares para combater uma cidade, começarão propondo-lhe a paz.
+
+[[v5-20-11]]
+
+^<<v5-20-11,11>>^ Se ela concordar e te abrir suas portas, toda a população te pagará tributo e te servirá.
+
+[[v5-20-12]]
+
+^<<v5-20-12,12>>^ Se te recusar a paz e começar a guerra contra ti, tu a cercarás,
+
+[[v5-20-13]]
+
+^<<v5-20-13,13>>^ e quando o Senhor, teu Deus, a colocar em tuas mãos, passarás a fio de espada todos os varões que nela houver.
+
+[[v5-20-14]]
+
+^<<v5-20-14,14>>^ Só tomarás para ti as mulheres, as crianças, os rebanhos e tudo o que se encontrar na cidade, e viverás dos despojos dos teus inimigos que o Senhor, teu Deus, te tiver dado.
+
+[[v5-20-15]]
+
+^<<v5-20-15,15>>^ Farás assim a todas as cidades muito afastadas, que não são do número das cidades dessas nações.
+
+[[v5-20-16]]
+
+^<<v5-20-16,16>>^ Quanto às cidades daqueles povos cuja possessão te dá o Senhor, teu Deus, não deixarás nelas alma viva.
+
+[[v5-20-17]]
+
+^<<v5-20-17,17>>^ Segundo a ordem do Senhor, teu Deus, votarás ao interdito os hiteus, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus,
+
+[[v5-20-18]]
+
+^<<v5-20-18,18>>^ para que não suceda que eles vos ensinem a imitar as abominações que praticam em honra de seus deuses, e venhais a pecar contra o Senhor, vosso Deus.
+
+[[v5-20-19]]
+
+^<<v5-20-19,19>>^ Quando sitiares uma cidade durante longo tempo e tiveres de lutar para apoderar-te dela, não cortarás as árvores a golpe de machado; comerás os seus frutos, mas não derrubarás as árvores. A árvore do campo seria porventura um homem para que a ataques?
+
+[[v5-20-20]]
+
+^<<v5-20-20,20>>^ Somente aquelas árvores que souberes não serem frutíferas poderás destruí-las e abatê-las para os trabalhos do cerco contra a cidade inimiga, até que ela sucumba.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-019.adoc#v5-19-0[&#60; Capítulo Anterior] | <<v5-20-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-021.adoc#v5-21-0[Próximo Capítulo &#62;]

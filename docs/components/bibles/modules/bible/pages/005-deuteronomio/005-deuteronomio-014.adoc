@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v5-14-0]]
+=== Deuteronômio, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Deuteronômio 14 trata principalmente sobre as leis alimentares dadas por Deus ao povo de Israel, incluindo quais animais são considerados puros e impuros para consumo. Além disso, o capítulo também aborda a importância de separar o dízimo e apresentá-lo diante do Senhor.
+* Levítico 11:47 - "Para diferençar entre o impuro e o puro, e entre animais que se podem comer e os animais que não se podem comer." Esse versículo mostra que as leis alimentares foram dadas por Deus para diferenciar entre o puro e o impuro.
+* Atos 10:14 - "Mas Pedro respondeu: De maneira nenhuma, Senhor, porque nunca comi coisa alguma comum e imunda." Pedro, um judeu, inicialmente reluta em comer com os gentios, mas Deus o instrui a não chamar de impuro o que Ele purificou.
+* 1 Timóteo 4:4-5 - "Porque toda criatura de Deus é boa, e não há nada que rejeitar, sendo recebido com ações de graças. Porque pela palavra de Deus e pela oração é santificada." Esse versículo mostra que todos os alimentos são puros, desde que sejam recebidos com ações de graças e santificados pela palavra de Deus.
+* Malaquias 3:10 - "Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa, e depois fazei prova de mim, diz o Senhor dos Exércitos, se eu não vos abrir as janelas do céu, e não derramar sobre vós tal bênção, que dela vos advenha a maior abastança." Esse versículo destaca a importância de trazer o dízimo à casa do Senhor e a promessa de bênçãos abundantes em resposta.
+* Lucas 21:1-4 - "E, olhando ele, viu os ricos lançarem as suas ofertas na arca do tesouro; E viu também uma pobre viúva lançar ali duas pequenas moedas; E disse: Em verdade vos digo que lançou mais do que todos esta pobre viúva; Porque todos aqueles deram daquilo que lhes sobejava; mas esta, da sua pobreza, deu tudo o que tinha para o seu sustento." Esse versículo destaca a importância do sacrifício em nossas ofertas e dízimos, independentemente do valor monetário, e que Deus valoriza a sinceridade do coração.
+****
+
+[[v5-14-1]]
+
+^<<v5-14-1,1>>^ “Vós sois os filhos do Senhor, vosso Deus. Não vos fareis incisões e não cortareis o cabelo pela frente em honra de um morto,^&#42;1^
+
+[[v5-14-2]]
+
+^<<v5-14-2,2>>^ porque és um povo consagrado ao Senhor, teu Deus, o qual te escolheu para ser um povo que lhe pertença de um modo exclusivo entre todas as outras nações da terra.”
+
+[[v5-14-3]]
+
+^<<v5-14-3,3>>^ “Não comerás coisa alguma abominável.
+
+[[v5-14-4]]
+
+^<<v5-14-4,4>>^ Eis os animais que comereis: o boi, o cordeiro, a cabra, a gazela,
+
+[[v5-14-5]]
+
+^<<v5-14-5,5>>^ a corça, o gamo, o antílope, o búfalo e a cabra montês.
+
+[[v5-14-6]]
+
+^<<v5-14-6,6>>^ Comereis de todos os animais que têm a unha e o pé fendidos, e que ruminam.
+
+[[v5-14-7]]
+
+^<<v5-14-7,7>>^ Mas não comereis daqueles que somente ruminam ou somente tenham a unha e o pé fendidos, tais como o camelo, a lebre, o coelho, que ruminam mas não têm a unha fendida: esses serão impuros para vós.
+
+[[v5-14-8]]
+
+^<<v5-14-8,8>>^ Igualmente o porco, que tem a unha fendida mas não rumina: vós o considerareis impuro. Não comereis de suas carnes, nem tocareis nos seus cadáveres.
+
+[[v5-14-9]]
+
+^<<v5-14-9,9>>^ Dentre os animais que vivem nas águas, eis os que podereis comer: comereis tudo o que tiver barbatanas e escamas;
+
+[[v5-14-10]]
+
+^<<v5-14-10,10>>^ mas tudo o que não tiver barbatanas nem escamas tereis por impuro e não comereis.
+
+[[v5-14-11]]
+
+^<<v5-14-11,11>>^ Comereis de todas as aves que são puras.
+
+[[v5-14-12]]
+
+^<<v5-14-12,12>>^ Eis as que não podereis comer: a águia, o falcão e o abutre,
+
+[[v5-14-13]]
+
+^<<v5-14-13,13>>^ o milhafre e toda variedade de falcão,
+
+[[v5-14-14]]
+
+^<<v5-14-14,14>>^ toda espécie de corvo,
+
+[[v5-14-15]]
+
+^<<v5-14-15,15>>^ a avestruz, a andorinha, a gaivota e toda variedade de gavião,
+
+[[v5-14-16]]
+
+^<<v5-14-16,16>>^ o mocho, a coruja, o açor,
+
+[[v5-14-17]]
+
+^<<v5-14-17,17>>^ o caburé, o alcatraz, o íbis,
+
+[[v5-14-18]]
+
+^<<v5-14-18,18>>^ a cegonha e toda variedade de garça, a poupa e o morcego.
+
+[[v5-14-19]]
+
+^<<v5-14-19,19>>^ Tereis por impuro todo inseto volátil: não comereis deles.
+
+[[v5-14-20]]
+
+^<<v5-14-20,20>>^ Mas comereis de toda ave pura.
+
+[[v5-14-21]]
+
+^<<v5-14-21,21>>^ Não comereis animal algum encontrado morto. Poderei dá-lo ao estrangeiro que habita dentro de teus muros, e ele o comerá; ou então vendê-lo a um estrangeiro, porque és um povo consagrado ao Senhor, teu Deus. Não cozerás um cabrito no leite de sua mãe.”
+
+[[v5-14-22]]
+
+^<<v5-14-22,22>>^ “Porás à parte o dízimo de todo fruto de tuas semeaduras, de tudo o que o teu campo produzir cada ano.^&#42;1^
+
+[[v5-14-23]]
+
+^<<v5-14-23,23>>^ Comerás na presença do Senhor, teu Deus, no lugar que ele tiver escolhido para nele residir o seu nome, o dízimo de teu trigo, de teu vinho e de teu óleo, bem como os primogênitos de teu rebanho grande e miúdo, para que aprendas a temer o Senhor, teu Deus, para sempre.
+
+[[v5-14-24]]
+
+^<<v5-14-24,24>>^ Mas, se for muito longo o caminho, de modo que não possas transportá-lo – porque o lugar escolhido pelo Senhor, teu Deus, para nele residir o seu nome é afastado demais, e ele te cumulou de muitos bens^&#42;1^ –
+
+[[v5-14-25]]
+
+^<<v5-14-25,25>>^ venderás o dízimo e, levando o dinheiro (dessa venda) em tuas mãos, irás ao lugar escolhido pelo Senhor, teu Deus.
+
+[[v5-14-26]]
+
+^<<v5-14-26,26>>^ Comprarás ali com esse dinheiro tudo o que te aprouver: bois, ovelhas, vinho, bebidas fermentadas, tudo o que desejares, e comerás tudo isso em presença do Senhor, teu Deus, alegrando-te com tua família.
+
+[[v5-14-27]]
+
+^<<v5-14-27,27>>^ Não negligenciarás o levita que vive dentro de teus muros, porque ele não recebeu como tu partilha nem herança.
+
+[[v5-14-28]]
+
+^<<v5-14-28,28>>^ No fim de três anos, porás de lado todos os dízimos da colheita desse (terceiro) ano, e depositando-os dentro de tua cidade,
+
+[[v5-14-29]]
+
+^<<v5-14-29,29>>^ para que o levita que não tem como tu partilha nem herança, o estrangeiro, o órfão e a viúva, que se encontram em teus muros, possam comer à saciedade, e que o Senhor, teu Deus, te abençoe em todas as obras de tuas mãos.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-013.adoc#v5-13-0[&#60; Capítulo Anterior] | <<v5-14-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-015.adoc#v5-15-0[Próximo Capítulo &#62;]

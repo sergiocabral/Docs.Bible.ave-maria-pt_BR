@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v49-5-0]]
+=== São Lucas, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 5 de Lucas começa com a pesca milagrosa realizada por Jesus, que chama a atenção dos discípulos e os leva a segui-lo. Em seguida, Jesus cura um leproso e um paralítico, e chama Levi (também conhecido como Mateus) para segui-lo, o que causa polêmica entre os fariseus. Por fim, Jesus compara a sua mensagem à necessidade de colocar vinho novo em odres novos, indicando que a sua pregação não pode ser compreendida pelas tradições antigas.
+* Provérbios 28:13: "O que encobre as suas transgressões jamais prosperará, mas o que as confessa e deixa alcançará misericórdia." Este versículo enfatiza a importância da confissão e arrependimento, algo que é ilustrado na história do paralítico curado por Jesus em Lucas 5:17-26.
+* Isaías 43:25: "Eu, eu mesmo, sou o que apago as tuas transgressões por amor de mim e dos teus pecados não me lembro." Este versículo destaca o perdão oferecido por Deus, que é mostrado na cura do leproso em Lucas 5:12-16.
+* Mateus 9:12: "E Jesus, ouvindo isso, respondeu: Os sãos não precisam de médico, e sim os doentes." Este versículo mostra a postura de Jesus de se aproximar dos pecadores e enfermos, que é ilustrada na sua escolha de chamar Levi, um publicano, para ser um dos seus discípulos em Lucas 5:27-32.
+* Marcos 2:22: "E ninguém deita vinho novo em odres velhos; do contrário, o vinho romperá os odres e tanto se perde o vinho como os odres; mas deita-se vinho novo em odres novos." Este versículo é similar à metáfora usada por Jesus em Lucas 5:37-39 para explicar que a sua mensagem não pode ser limitada pelas tradições antigas.
+* Lucas 15:7: "Digo-vos que, assim, haverá maior júbilo no céu por um pecador que se arrepende do que por noventa e nove justos que não precisam de arrependimento." Este versículo mostra a importância que Jesus dá ao arrependimento e à salvação dos pecadores, o que é exemplificado na sua interação com Levi em Lucas 5:27-32.
+****
+
+[[v49-5-1]]
+
+^<<v49-5-1,1>>^ Estando Jesus um dia à margem do lago de Genesaré, o povo se comprimia em redor dele para ouvir a Palavra de Deus.
+
+[[v49-5-2]]
+
+^<<v49-5-2,2>>^ Vendo duas barcas estacionadas à beira do lago –, pois os pescadores haviam descido delas para consertar as redes –,
+
+[[v49-5-3]]
+
+^<<v49-5-3,3>>^ subiu a uma das barcas que era de Simão e pediu-lhe que a afastasse um pouco da terra; e sentado, ensinava da barca o povo.
+
+[[v49-5-4]]
+
+^<<v49-5-4,4>>^ Quando acabou de falar, disse a Simão: “Faze-te ao largo, e lançai as vossas redes para pescar”.
+
+[[v49-5-5]]
+
+^<<v49-5-5,5>>^ Simão respondeu-lhe: “Mestre, trabalhamos a noite inteira e nada apanhamos; mas, por causa de tua palavra, lançarei a rede”.
+
+[[v49-5-6]]
+
+^<<v49-5-6,6>>^ Feito isto, apanharam peixes em tanta quantidade, que a rede se lhes rompia.
+
+[[v49-5-7]]
+
+^<<v49-5-7,7>>^ Acenaram aos companheiros, que estavam na outra barca, para que viessem ajudar. Eles vieram e encheram ambas as barcas, de modo que quase iam ao fundo.
+
+[[v49-5-8]]
+
+^<<v49-5-8,8>>^ Vendo isso, Simão Pedro caiu aos pés de Jesus e exclamou: “Retira-te de mim, Senhor, porque sou um homem pecador”.
+
+[[v49-5-9]]
+
+^<<v49-5-9,9>>^ É que tanto ele como seus companheiros estavam assombrados por causa da pesca que haviam feito.
+
+[[v49-5-10]]
+
+^<<v49-5-10,10>>^ O mesmo acontecera a Tiago e João, filhos de Zebedeu, que eram seus companheiros. Então, Jesus disse a Simão: “Não temas; doravante serás pescador de homens”.
+
+[[v49-5-11]]
+
+^<<v49-5-11,11>>^ E, atracando as barcas à terra, deixaram tudo e o seguiram. (= Mt 8,1-4 = Mc 1,40-45)
+
+[[v49-5-12]]
+
+^<<v49-5-12,12>>^ Estando ele numa cidade, apareceu um homem cheio de lepra. Vendo Jesus, lançou-se com o rosto por terra e lhe suplicou: “Senhor, se queres, podes limpar-me”.
+
+[[v49-5-13]]
+
+^<<v49-5-13,13>>^ Jesus estendeu a mão, tocou-o e disse: “Eu quero; sê purificado!”. No mesmo instante desapareceu dele a lepra.
+
+[[v49-5-14]]
+
+^<<v49-5-14,14>>^ Ordenou-lhe Jesus que o não contasse a ninguém, dizendo-lhe, porém: “Vai e mostra-te ao sacerdote, e oferece pela tua purificação o que Moisés prescreveu, para lhes servir de testemunho”.^&#42;1^
+
+[[v49-5-15]]
+
+^<<v49-5-15,15>>^ Entretanto, espalhava-se mais e mais a sua fama e concorriam grandes multidões para o ouvir e ser curadas das suas enfermidades.
+
+[[v49-5-16]]
+
+^<<v49-5-16,16>>^ Mas ele costumava retirar-se a lugares solitários para orar. (= Mt 9,1-8 = Mc 2,1-12)
+
+[[v49-5-17]]
+
+^<<v49-5-17,17>>^ Um dia estava ele ensinando. Ao seu derredor estavam sentados fariseus e doutores da Lei, vindos de todas as localidades da Galileia, da Judeia e de Jerusalém. E o poder do Senhor fazia-o realizar várias curas.
+
+[[v49-5-18]]
+
+^<<v49-5-18,18>>^ Apareceram algumas pessoas trazendo num leito um homem paralítico; e procuravam introduzi-lo na casa e pô-lo diante dele.
+
+[[v49-5-19]]
+
+^<<v49-5-19,19>>^ Mas, não achando por onde o introduzir, por causa da multidão, subiram ao telhado e por entre as telhas o arriaram com o leito ao meio da assembleia, diante de Jesus.
+
+[[v49-5-20]]
+
+^<<v49-5-20,20>>^ Vendo a fé que tinham, disse Jesus: “Meu amigo, os teus pecados te são perdoados”.
+
+[[v49-5-21]]
+
+^<<v49-5-21,21>>^ Então, os escribas e os fariseus começaram a pensar e a dizer consigo mesmos: “Quem é este homem que profere blasfêmias? Quem pode perdoar pecados senão unicamente Deus?”.
+
+[[v49-5-22]]
+
+^<<v49-5-22,22>>^ Jesus, porém, penetrando nos seus pensamentos, replicou-lhes: “Que pensais nos vossos corações?
+
+[[v49-5-23]]
+
+^<<v49-5-23,23>>^ Que é mais fácil dizer: Perdoados te são os pecados; ou dizer: Levanta-te e anda?
+
+[[v49-5-24]]
+
+^<<v49-5-24,24>>^ Ora, para que saibais que o Filho do Homem tem na terra poder de perdoar pecados (disse ele ao paralítico), eu te ordeno: levanta-te, toma o teu leito e vai para tua casa”.
+
+[[v49-5-25]]
+
+^<<v49-5-25,25>>^ No mesmo instante, levantou-se ele à vista deles, tomou o leito e partiu para casa, glorificando a Deus.
+
+[[v49-5-26]]
+
+^<<v49-5-26,26>>^ Todos ficaram transportados de entusiasmo e glorificavam a Deus; e tomados de temor, diziam: “Hoje vimos coisas maravilhosas”.
+
+[[v49-5-27]]
+
+^<<v49-5-27,27>>^ Depois disso, ele saiu e viu sentado ao balcão um coletor de impostos, por nome Levi, e disse-lhe: “Segue-me.”^&#42;1^
+
+[[v49-5-28]]
+
+^<<v49-5-28,28>>^ Deixando ele tudo, levantou-se e o seguiu.
+
+[[v49-5-29]]
+
+^<<v49-5-29,29>>^ Levi deu-lhe um grande banquete em sua casa; vários desses fiscais e outras pessoas estavam sentados à mesa com eles.
+
+[[v49-5-30]]
+
+^<<v49-5-30,30>>^ Os fariseus e os seus escribas puseram-se a criticar e a perguntar aos discípulos: “Por que comeis e bebeis com os publicanos e pessoas de má vida?”.
+
+[[v49-5-31]]
+
+^<<v49-5-31,31>>^ Respondeu-lhes Jesus: “Não são os homens de boa saúde que necessitam de médico, mas sim os enfermos.
+
+[[v49-5-32]]
+
+^<<v49-5-32,32>>^ Não vim chamar à conversão os justos, mas sim os pecadores”. (= Mt 9,9-17 = Mc 2,13-22)
+
+[[v49-5-33]]
+
+^<<v49-5-33,33>>^ Eles então lhe disseram: “Os discípulos de João e os discípulos dos fariseus jejuam com frequência e fazem longas orações, mas os teus comem e bebem...”.
+
+[[v49-5-34]]
+
+^<<v49-5-34,34>>^ Jesus respondeu-lhes: “Porventura podeis vós obrigar a jejuar os amigos do esposo, enquanto o esposo está com eles?
+
+[[v49-5-35]]
+
+^<<v49-5-35,35>>^ Virão dias em que o esposo lhes será tirado; então jejuarão”.
+
+[[v49-5-36]]
+
+^<<v49-5-36,36>>^ Propôs-lhes também esta comparação: “Ninguém rasga um pedaço de roupa nova para remendar uma roupa velha, porque assim estragaria uma roupa nova. Além disso, o remendo novo não assentaria bem na roupa velha.
+
+[[v49-5-37]]
+
+^<<v49-5-37,37>>^ Também ninguém põe vinho novo em odres velhos; do contrário, o vinho novo arrebentará os odres; e entornará o vinho, e os odres se estragarão;
+
+[[v49-5-38]]
+
+^<<v49-5-38,38>>^ mas o vinho novo deve-se pôr em odres novos, e assim ambos se conservam.
+
+[[v49-5-39]]
+
+^<<v49-5-39,39>>^ Demais, ninguém que bebeu do vinho velho quer já do novo, porque diz: “O vinho velho é melhor”^&#42;1^ (= Mt 12,1-8 = Mc 2,23-28)
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-004.adoc#v49-4-0[&#60; Capítulo Anterior] | <<v49-5-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-006.adoc#v49-6-0[Próximo Capítulo &#62;]

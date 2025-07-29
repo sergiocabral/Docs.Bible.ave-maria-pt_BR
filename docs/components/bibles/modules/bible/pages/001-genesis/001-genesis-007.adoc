@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v1-7-0]]
+=== Gênesis, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 7 descreve o dilúvio global que Deus trouxe para destruir toda a vida na terra, exceto por Noé, sua família e os animais que foram levados para a arca. Aqui estão cinco versículos relacionados aos temas deste capítulo:
+* Isaías 54:9: "Porque isto será para mim como as águas de Noé; pois jurei que as águas de Noé não passariam mais sobre a terra; assim jurei que não me irarei mais contra ti, nem te repreenderei." Este versículo lembra a promessa de Deus de nunca mais destruir toda a vida na terra com um dilúvio.
+* Mateus 24:38-39: "Porquanto, assim como nos dias anteriores ao dilúvio, comiam, bebiam, casavam e davam-se em casamento, até o dia em que Noé entrou na arca, e não o perceberam, até que veio o dilúvio e os levou a todos; assim será também a vinda do Filho do homem." Neste versículo, Jesus compara a época anterior à sua segunda vinda com os dias de Noé antes do dilúvio.
+* 2 Pedro 2:5: "E não poupou o mundo antigo, mas preservou a Noé, pregador da justiça, com mais sete pessoas, quando fez vir o dilúvio sobre o mundo de ímpios." Este versículo lembra a escolha de Deus de salvar Noé e sua família do dilúvio.
+* 1 Pedro 3:20: "os quais noutro tempo foram rebeldes, quando a longanimidade de Deus esperava nos dias de Noé, enquanto se preparava a arca; na qual poucas, isto é, oito almas se salvaram através da água." Este versículo fala sobre a longanimidade de Deus durante a época de Noé e sua escolha de salvar apenas Noé e sua família.
+* Gênesis 9:11: "Estabelecerei a minha aliança convosco: não será mais destruída toda a carne pelas águas do dilúvio, nem haverá mais dilúvio para destruir a terra." Este versículo marca o final do dilúvio e a promessa de Deus de nunca mais destruir a terra com um dilúvio.
+****
+
+[[v1-7-1]]
+
+^<<v1-7-1,1>>^ O Senhor disse a Noé: “Entra na arca, tu e toda a tua casa, porque te reconheci justo diante dos meus olhos, entre os de tua geração.
+
+[[v1-7-2]]
+
+^<<v1-7-2,2>>^ De todos os animais puros tomarás sete casais, machos e fêmeas, e de todos os animais impuros tomarás um casal, macho e fêmea;
+
+[[v1-7-3]]
+
+^<<v1-7-3,3>>^ das aves do céu igualmente sete casais, machos e fêmeas, para que se conserve viva a raça sobre a face de toda a terra.
+
+[[v1-7-4]]
+
+^<<v1-7-4,4>>^ Dentro de sete dias farei chover sobre a terra durante quarenta dias e quarenta noites, e exterminarei da superfície da terra todos os seres que eu fiz”.
+
+[[v1-7-5]]
+
+^<<v1-7-5,5>>^ Noé fez tudo o que o Senhor lhe tinha ordenado.
+
+[[v1-7-6]]
+
+^<<v1-7-6,6>>^ Noé tinha seiscentos anos quando veio o dilúvio sobre a terra.
+
+[[v1-7-7]]
+
+^<<v1-7-7,7>>^ Para escapar à inundação, entrou na arca com seus filhos, sua mulher e as mulheres de seus filhos.
+
+[[v1-7-8]]
+
+^<<v1-7-8,8>>^ Dos animais puros e impuros, das aves e de tudo que se arrasta sobre a terra,
+
+[[v1-7-9]]
+
+^<<v1-7-9,9>>^ entraram na arca com Noé um casal macho e fêmea, como o Senhor tinha ordenado a Noé.
+
+[[v1-7-10]]
+
+^<<v1-7-10,10>>^ Passados os sete dias, as águas do dilúvio precipitaram-se sobre a terra.
+
+[[v1-7-11]]
+
+^<<v1-7-11,11>>^ No ano seiscentos da vida de Noé, no segundo mês, no décimo sétimo dia do mês, romperam-se naquele dia todas as fontes do grande abismo, e abriram-se as barreiras do céu.
+
+[[v1-7-12]]
+
+^<<v1-7-12,12>>^ A chuva caiu sobre a terra durante quarenta dias e quarenta noites.
+
+[[v1-7-13]]
+
+^<<v1-7-13,13>>^ Naquele mesmo dia, entrou Noé na arca, com Sem, Cam e Jafé, seus filhos, sua mulher e as três mulheres de seus filhos;
+
+[[v1-7-14]]
+
+^<<v1-7-14,14>>^ e com eles os animais selvagens de toda a espécie, os animais domésticos de toda a espécie, os répteis de toda a espécie que se arrastavam sobre a terra, e tudo o que voa, de toda a espécie, todas as aves e tudo o que tem asas.
+
+[[v1-7-15]]
+
+^<<v1-7-15,15>>^ De cada espécie que tem um sopro de vida um casal entrou na arca com Noé.
+
+[[v1-7-16]]
+
+^<<v1-7-16,16>>^ Eles chegavam, macho e fêmea, de cada espécie. Como Deus tinha ordenado a Noé. E o Senhor fechou a porta atrás dele.
+
+[[v1-7-17]]
+
+^<<v1-7-17,17>>^ O dilúvio caiu sobre a terra durante quarenta dias. As águas incharam e levantaram a arca, que foi elevada acima da terra.
+
+[[v1-7-18]]
+
+^<<v1-7-18,18>>^ As águas inundaram tudo com violência, e cobriram toda a terra, e a arca flutuava na superfície das águas.
+
+[[v1-7-19]]
+
+^<<v1-7-19,19>>^ As águas engrossaram prodigiosamente sobre a terra, e cobriram todos os altos montes que existem debaixo do céu;
+
+[[v1-7-20]]
+
+^<<v1-7-20,20>>^ e elevaram-se quinze côvados acima dos montes que cobriam.
+
+[[v1-7-21]]
+
+^<<v1-7-21,21>>^ Todas as criaturas que se moviam na terra foram exterminadas: aves, animais domésticos, feras selvagens e tudo o que se arrasta na terra, e todos os homens.
+
+[[v1-7-22]]
+
+^<<v1-7-22,22>>^ Tudo o que respira e tem um sopro de vida sobre a terra pereceu.
+
+[[v1-7-23]]
+
+^<<v1-7-23,23>>^ Assim foram exterminados todos os seres que se encontravam sobre a face da terra, desde os homens até os quadrúpedes, tanto os répteis como as aves do céu, tudo foi exterminado da terra. Só Noé ficou e o que se encontrava com ele na arca.
+
+[[v1-7-24]]
+
+^<<v1-7-24,24>>^ As águas cobriram a terra pelo espaço de cento e cinquenta dias.
+
+'''
+
+xref:001-genesis/001-genesis-006.adoc#v1-6-0[&#60; Capítulo Anterior] | <<v1-7-0,Topo>> | xref:001-genesis/001-genesis-008.adoc#v1-8-0[Próximo Capítulo &#62;]

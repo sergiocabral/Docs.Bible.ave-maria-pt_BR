@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v5-15-0]]
+=== Deuteronômio, 15
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Deuteronômio 15 trata sobre as leis da remissão das dívidas e da libertação dos escravos, enfatizando a importância da justiça social e da generosidade. Os versículos relacionados são:
+* Provérbios 22:7 - "O rico domina sobre os pobres; e o que toma emprestado é servo do que empresta." Este versículo aborda a relação desigual entre ricos e pobres na questão das dívidas, que é abordada em Deuteronômio 15.
+* Isaías 58:6 - "Porventura não é este o jejum que escolhi, que soltes as ligaduras da impiedade, que desfaças as ataduras do jugo, e que deixes livres os oprimidos, e despedaces todo o jugo?" Este versículo destaca a importância da libertação dos escravos e da justiça social, que é um tema central em Deuteronômio 15.
+* Mateus 6:14-15 - "Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós; se, porém, não perdoardes aos homens as suas ofensas, também vosso Pai vos não perdoará as vossas ofensas." Este versículo aborda a questão do perdão, que está presente na remissão das dívidas em Deuteronômio 15.
+* Lucas 6:34-35 - "E se emprestais àqueles de quem esperais receber, qual é a vossa gratidão? Também os pecadores emprestam aos pecadores, para receberem outro tanto. Amai, porém, os vossos inimigos, fazei bem e emprestai, sem nada esperardes em troca; e grande será o vosso galardão, e sereis filhos do Altíssimo; porque ele é benigno até para com os ingratos e maus." Este versículo destaca a importância da generosidade e da benevolência, que são incentivadas em Deuteronômio 15.
+* 2 Coríntios 9:7 - "Cada um contribua segundo propôs no seu coração, não com tristeza ou por necessidade; porque Deus ama ao que dá com alegria." Este versículo reforça a ideia da generosidade voluntária, que é um tema presente em Deuteronômio 15, onde a remissão das dívidas e a libertação dos escravos são incentivadas de forma voluntária e generosa.
+****
+
+[[v5-15-1]]
+
+^<<v5-15-1,1>>^ “De sete em sete anos, farás a remissão das dívidas.^&#42;1^
+
+[[v5-15-2]]
+
+^<<v5-15-2,2>>^ Eis no que ela consistirá: todo credor remitirá o empréstimo que tiver feito ao seu próximo. Não exercerá contra o seu próximo ou contra o seu irmão opressão alguma quando for publicada a remissão em honra do Senhor.
+
+[[v5-15-3]]
+
+^<<v5-15-3,3>>^ Poderás obrigar ao estrangeiro; mas quanto às dívidas de teu irmão, farás remissão.^&#42;1^
+
+[[v5-15-4]]
+
+^<<v5-15-4,4>>^ Não deverá haver pobres no meio de ti, porque o Senhor, teu Deus, te abençoará certamente na terra que te dá como posse hereditária,
+
+[[v5-15-5]]
+
+^<<v5-15-5,5>>^ contanto que obedeças fielmente à voz do Senhor, teu Deus, pondo cuidadosamente em prática os mandamentos que hoje te imponho.
+
+[[v5-15-6]]
+
+^<<v5-15-6,6>>^ Sim, o Senhor, teu Deus, te abençoará como ele te disse: Emprestarás a numerosas nações e de nenhuma precisarás receber empréstimo. Dominarás sobre muitas nações, e elas não dominarão sobre ti.
+
+[[v5-15-7]]
+
+^<<v5-15-7,7>>^ Se houver no meio de ti um pobre entre os teus irmãos, em uma de tuas cidades, na terra que te dá o Senhor, teu Deus, não endurecerás o teu coração e não fecharás a mão diante de teu irmão pobre;
+
+[[v5-15-8]]
+
+^<<v5-15-8,8>>^ mas abre a tua mão e empresta-lhe segundo as necessidades de sua indigência.
+
+[[v5-15-9]]
+
+^<<v5-15-9,9>>^ Cuida que não te venha ao coração este ímpio pensamento, eis que se aproxima o sétimo ano, o ano da remissão; guarda-te de olhar o teu irmão pobre com um mau olho, sem nada lhe dar, porque ele clamaria ao Senhor contra ti, e isso se te tornaria um pecado.
+
+[[v5-15-10]]
+
+^<<v5-15-10,10>>^ Deves dar-lhe, e dar-lhe de bom coração, pois, por causa disso, o Senhor, teu Deus, te abençoará em todas as empresas de tuas mãos.
+
+[[v5-15-11]]
+
+^<<v5-15-11,11>>^ Nunca faltarão pobres na terra, e por isso dou-te esta ordem: abre tua mão ao teu irmão necessitado ou pobre que vive em tua terra.^&#42;1^
+
+[[v5-15-12]]
+
+^<<v5-15-12,12>>^ Quando um teu irmão hebreu, homem ou mulher, se tiver vendido a ti, ele te servirá seis anos, mas no sétimo ano tu o despedirás livre de tua casa.
+
+[[v5-15-13]]
+
+^<<v5-15-13,13>>^ Não o deixarás partir com as mãos vazias quando o despedires,
+
+[[v5-15-14]]
+
+^<<v5-15-14,14>>^ mas lhe dá alguma coisa dos teus rebanhos, da tua eira e do teu lagar, uma parte dos bens com que o Senhor, teu Deus, te cumulou.
+
+[[v5-15-15]]
+
+^<<v5-15-15,15>>^ Lembra-te de que estiveste em servidão no Egito, de onde foste resgatado pelo Senhor, teu Deus. É é por isso que hoje te imponho esse mandamento.
+
+[[v5-15-16]]
+
+^<<v5-15-16,16>>^ Se, porém, teu escravo disser que não quer deixar-te, porque, sentindo-se feliz em tua casa, ele se apegou a ti e à tua família,
+
+[[v5-15-17]]
+
+^<<v5-15-17,17>>^ então, com uma sovela, fura-lhe a orelha contra a porta, e ele será para sempre teu escravo. Procederás do mesmo modo com tua escrava.
+
+[[v5-15-18]]
+
+^<<v5-15-18,18>>^ Não te seja penoso libertá-lo, porque o serviço que te prestou durante seis anos valeu bem o dobro do salário de um mercenário. Além do mais, o Senhor, teu Deus, te abençoará em todas as tuas empresas.”
+
+[[v5-15-19]]
+
+^<<v5-15-19,19>>^ “Consagrarás ao Senhor, teu Deus, todo primogênito macho que nascer de teu rebanho grande ou miúdo. Não trabalharás com o primogênito de tua vaca, e não tosquiarás o primogênito de tuas ovelhas,
+
+[[v5-15-20]]
+
+^<<v5-15-20,20>>^ mas o comerás cada ano, tu e tua família, em presença do Senhor, teu Deus, no lugar que ele tiver escolhido.
+
+[[v5-15-21]]
+
+^<<v5-15-21,21>>^ Se ele tiver um defeito, se for coxo ou cego, e se tiver uma deformidade qualquer, tu não o oferecerás em sacrifício ao Senhor, teu Deus.
+
+[[v5-15-22]]
+
+^<<v5-15-22,22>>^ Poderá comê-lo em tua cidade: tanto o homem impuro como o puro poderão comer dele, como se come a gazela ou o veado. Somente não sorverás o sangue, que derramarás por terra como água.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-014.adoc#v5-14-0[&#60; Capítulo Anterior] | <<v5-15-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-016.adoc#v5-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v19-9-0]]
+=== Ester, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ester 9 relata o cumprimento da sentença de morte aos inimigos dos judeus, que havia sido decretada anteriormente. Os judeus venceram seus inimigos e celebraram a vitória com a instituição da Festa de Purim. Seguem abaixo cinco versículos relacionados aos temas abordados neste capítulo:
+* Deuteronômio 25:19: "Portanto, quando o SENHOR teu Deus te houver dado repouso de todos os teus inimigos em redor da terra que o SENHOR teu Deus te dá por herança, para possuí-la, apagarás a memória de Amaleque de debaixo do céu; não te esqueças." Este versículo fala sobre a ordem de Deus para eliminar a memória dos amalequitas, que eram inimigos dos judeus e estavam presentes na história de Ester como descendentes de Agague.
+* Provérbios 11:10: "Quando vai bem ao justo, a cidade se alegra; e quando perecem os ímpios, há festa e júbilo." Este versículo fala sobre a alegria da cidade (ou povo) quando o justo é abençoado e os ímpios são destruídos, o que aconteceu na história de Ester.
+* Salmos 37:39: "Mas a salvação dos justos vem do SENHOR; ele é a sua fortaleza no tempo da angústia." Este versículo fala sobre a salvação dos justos vindo de Deus em tempos difíceis, o que pode ser aplicado aos judeus na história de Ester.
+* Provérbios 28:28: "Quando os ímpios sobem, escondem-se os homens; mas quando perecem, os justos se multiplicam." Este versículo fala sobre os ímpios sendo escondidos quando estão no poder, mas quando são derrotados, os justos se multiplicam. Isso pode ser aplicado à história de Ester, onde Hamã, o ímpio, estava no poder, mas foi derrotado e os judeus foram multiplicados.
+* Isaías 66:10-11: "Alegrai-vos com Jerusalém, e regozijai-vos por ela, todos vós que a amais; enchei-vos por ela de alegria, todos vós que por ela pranteastes; para que mameis e vos farteis dos peitos das suas consolações; para que sugueis, e se deleite o vosso peito com a abundância da sua glória." Este versículo fala sobre a alegria que virá a Jerusalém após a sua restauração, o que pode ser aplicado à celebração dos judeus na história de Ester após a sua vitória.
+****
+
+[[v19-9-1]]
+
+^<<v19-9-1,1>>^ No duodécimo mês, que é o de Adar, no dia treze do mês, data em que entrava em vigor a ordem e o edito do rei, no mesmo dia em que os inimigos dos judeus contavam fazer-lhes mal, aconteceu tudo ao contrário e os judeus dominaram seus inimigos.
+
+[[v19-9-2]]
+
+^<<v19-9-2,2>>^ Estavam reunidos em suas respectivas cidades em todas as províncias do rei Assuero para levantarem a mão contra aqueles que desejavam sua perda. Ninguém pôde resistir-lhes, porque o terror se tinha apoderado de todos os povos.
+
+[[v19-9-3]]
+
+^<<v19-9-3,3>>^ Todos os senhores das províncias, os sátrapas, os governadores, os funcionários do rei tomaram o partido dos judeus, por temor de Mardoqueu.
+
+[[v19-9-4]]
+
+^<<v19-9-4,4>>^ Porque este ocupava um alto lugar no palácio real e sua fama se espalhava em todas as províncias, onde sua influência não cessava de crescer.
+
+[[v19-9-5]]
+
+^<<v19-9-5,5>>^ Os judeus, pois, feriram todos os seus inimigos a golpes de espada: massacre e extermínio de seus opressores, aos quais trataram como quiseram.^&#42;1^
+
+[[v19-9-6]]
+
+^<<v19-9-6,6>>^ Em Susa, na capital, mataram quinhentos homens.
+
+[[v19-9-7]]
+
+^<<v19-9-7,7>>^ Fizeram igualmente perecer Farsandata, Delfon esfata,
+
+[[v19-9-8]]
+
+^<<v19-9-8,8>>^ Forata, Adalia, Aridata,
+
+[[v19-9-9]]
+
+^<<v19-9-9,9>>^ Fermesta, Arisai, Aridai e Jezata,
+
+[[v19-9-10]]
+
+^<<v19-9-10,10>>^ os dez filhos de Amã, filho de Amadates, o opressor dos judeus. Mas se abstiveram de toda pilhagem.
+
+[[v19-9-11]]
+
+^<<v19-9-11,11>>^ Nesse mesmo dia, fizeram conhecer ao rei o número das vítimas na fortaleza de Susa.
+
+[[v19-9-12]]
+
+^<<v19-9-12,12>>^ E o rei disse a Ester: “Na fortaleza de Susa, na capital, os judeus mataram quinhentos homens, bem como os dez filhos de Amã. Que não terão feito nas outras províncias do rei? (Entretanto), pede-me o que quiseres e te será concedido! Tens algum desejo? Será satisfeito”.
+
+[[v19-9-13]]
+
+^<<v19-9-13,13>>^ “Se parecer bem ao rei – respondeu Ester –, seja permitido ainda amanhã, aos judeus de Susa, agir conforme ao decreto de hoje e que se suspendam numa forca os dez filhos de Amã.”
+
+[[v19-9-14]]
+
+^<<v19-9-14,14>>^ O rei deu ordem para que assim se fizesse. O edito foi publicado em Susa e suspenderam na forca os dez filhos de Amã.
+
+[[v19-9-15]]
+
+^<<v19-9-15,15>>^ Os judeus de Susa se reuniram de novo no dia catorze do mês de Adar e mataram na cidade trezentos homens, sem entretanto dar-se à pilhagem.
+
+[[v19-9-16]]
+
+^<<v19-9-16,16>>^ Os outros judeus que estavam disseminados pelas províncias do rei se juntaram para defender suas vidas e se pôr a salvo dos ataques de seus inimigos. Massacraram setenta e cinco mil, sem entretanto entregar-se à pilhagem.
+
+[[v19-9-17]]
+
+^<<v19-9-17,17>>^ Era o dia treze do mês de Adar. No dia catorze repousaram e fizeram um dia de banquete de alegria.
+
+[[v19-9-18]]
+
+^<<v19-9-18,18>>^ Quanto aos judeus de Susa, que se juntaram no dia treze e catorze do mesmo mês, repousaram no dia quinze, fazendo-o um dia de alegre banquete.
+
+[[v19-9-19]]
+
+^<<v19-9-19,19>>^ Eis por que os judeus do campo, que habitam nas cidades não-fortificadas, fazem no dia catorze do mês de Adar um dia de festa com banquetes de alegria, dia em que mandam presentes uns aos outros.
+
+[[v19-9-20]]
+
+^<<v19-9-20,20>>^ Mardoqueu consignou por escrito todos esses acontecimentos. Enviou cartas a todos os judeus das províncias do rei Assuero, próximas ou longínquas,
+
+[[v19-9-21]]
+
+^<<v19-9-21,21>>^ para lhes ordenar que celebrassem cada ano o dia catorze e o dia quinze do mês de Adar,
+
+[[v19-9-22]]
+
+^<<v19-9-22,22>>^ como sendo dias em que tinham sido postos a salvo dos ataques de seus inimigos e mês em que sua angústia tinha sido trocada em alegria e sua dor em felicidade. Deviam, pois, nesses dias, oferecer alegres banquetes, dar-se presentes e praticar generosidade com os pobres.
+
+[[v19-9-23]]
+
+^<<v19-9-23,23>>^ Os judeus erigiram em costume o que tinham feito na primeira vez e o que Mardoqueu lhes tinha mandado.
+
+[[v19-9-24]]
+
+^<<v19-9-24,24>>^ Porque Amã, filho de Amadates, o agagita, o opressor dos judeus, tinha resolvido perdê-los e lançado (contra eles) o “pur”, isto é, a sorte, para exterminá-los e destruí-los.
+
+[[v19-9-25]]
+
+^<<v19-9-25,25>>^ Mas quando Ester se apresentou diante do rei este ordenou por escrito que a perversa maquinação, tramada contra os judeus, recaísse sobre a cabeça de seu autor e que este e seus filhos fossem suspensos à forca.
+
+[[v19-9-26]]
+
+^<<v19-9-26,26>>^ É por isso que se chamam esses dias “Purim”, da palavra “pur”. Assim, conforme o conteúdo dessa carta, conforme o que eles mesmos tinham visto e o que lhes tinha acontecido,
+
+[[v19-9-27]]
+
+^<<v19-9-27,27>>^ os judeus instituíram e estabeleceram para si, para sua posteridade e para seus adeptos, o costume irrevogável de celebrar anualmente esses dois dias, segundo a forma prescrita e no tempo marcado.^&#42;1^
+
+[[v19-9-28]]
+
+^<<v19-9-28,28>>^ Esses dias deviam ser recordados e celebrados de geração em geração em cada família, em cada província e em cada cidade. Jamais poderiam ser abolidos esses dias dos Purim entre os judeus, nem sua recordação se apagar entre seus descendentes.^&#42;1^
+
+[[v19-9-29]]
+
+^<<v19-9-29,29>>^ A rainha Ester, filha de Abigail, e o judeu Mardoqueu escreveram uma segunda vez com insistência para confirmar a carta sobre os Purim.
+
+[[v19-9-30]]
+
+^<<v19-9-30,30>>^ Depois enviaram a todos os judeus das cento e vinte e sete províncias do rei Assuero cartas com palavras de paz
+
+[[v19-9-31]]
+
+^<<v19-9-31,31>>^ e a recomendação de celebrarem fielmente esses dias dos Purim no tempo marcado, como o judeu Mardoqueu e a rainha Ester os tinham instituído e como eles tinham estabelecido, tanto para si mesmos, como para seus descendentes, com os jejuns e as lamentações.^&#42;1^
+
+[[v19-9-32]]
+
+^<<v19-9-32,32>>^ Desse modo, a ordem de Ester confirmou a instituição dos Purim e tudo isso foi consignado num livro.
+
+'''
+
+xref:019-ester/019-ester-008.adoc#v19-8-0[&#60; Capítulo Anterior] | <<v19-9-0,Topo>> | xref:019-ester/019-ester-010.adoc#v19-10-0[Próximo Capítulo &#62;]

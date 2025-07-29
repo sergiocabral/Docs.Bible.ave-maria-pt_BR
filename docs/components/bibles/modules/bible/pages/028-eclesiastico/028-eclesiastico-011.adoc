@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v28-11-0]]
+=== Eclesiástico, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiástico 11 discute a importância de ser humilde e confiar em Deus em vez de depender da riqueza e dos bens materiais. O capítulo também adverte sobre a inconstância da vida e a incerteza do futuro, incentivando as pessoas a aproveitarem ao máximo o tempo que têm.
+* Provérbios 23:4-5: "Não te canses para enriqueceres; não apliques nisso a tua inteligência. Desvia os teus olhos dele e não o verás mais; porque certamente criará asas como a águia e voará ao céu." Este versículo adverte sobre o perigo de colocar muito valor nas riquezas materiais, em vez de confiar em Deus.
+* Mateus 6:19-21: "Não ajunteis para vós tesouros na terra, onde a traça e a ferrugem corroem e onde os ladrões furtam e roubam; mas ajuntai para vós tesouros no céu, onde nem a traça nem a ferrugem corrói, e onde os ladrões não furtam nem roubam. Porque onde estiver o teu tesouro, aí estará também o teu coração." Esse versículo reforça a importância de investir em coisas que duram, em vez de se concentrar em bens materiais temporários.
+* Filipenses 4:11-13: "Não digo isto como por necessidade, porque já aprendi a contentar-me com o que tenho. Sei estar abatido e sei também ter abundância; em toda a maneira, e em todas as coisas estou instruído, tanto a ter fartura, como a ter fome; tanto a ter abundância, como a padecer necessidade. Posso todas as coisas em Cristo que me fortalece." Esse versículo destaca a importância da humildade e contentamento em todas as circunstâncias.
+* Lucas 12:15: "E disse-lhes: Acautelai-vos e guardai-vos da avareza; porque a vida de qualquer homem não consiste na abundância do que possui." Este versículo enfatiza que a vida não é sobre a quantidade de posses materiais que alguém tem.
+* Tiago 4:13-14: "Eia agora vós, que dizeis: Hoje, ou amanhã, iremos a tal cidade, e lá passaremos um ano, e contrataremos, e ganharemos; digo-vos que não sabeis o que acontecerá amanhã. Porque, que é a vossa vida? É um vapor que aparece por um pouco, e depois se desvanece." Este versículo destaca a incerteza da vida e a importância de viver cada dia com sabedoria e propósito.
+****
+
+[[v28-11-1]]
+
+^<<v28-11-1,1>>^ A sabedoria do humilde levantará a sua cabeça e o fará sentar-se no meio dos grandes.
+
+[[v28-11-2]]
+
+^<<v28-11-2,2>>^ Não avalies um homem pela sua aparência, não desprezes um homem pelo seu aspecto.
+
+[[v28-11-3]]
+
+^<<v28-11-3,3>>^ Pequena é a abelha entre os seres alados: o que produz, entretanto, é o que há de mais doce.
+
+[[v28-11-4]]
+
+^<<v28-11-4,4>>^ Não te glories nunca de tuas vestes, não te engrandeças no dia em que fores homenageado, pois só as obras do Altíssimo são admiráveis, dignas de glória, misteriosas e invisíveis.^&#42;1^
+
+[[v28-11-5]]
+
+^<<v28-11-5,5>>^ Muitos príncipes ocuparam o trono, e alguém, em quem se não pensava, usou o diadema.^&#42;1^
+
+[[v28-11-6]]
+
+^<<v28-11-6,6>>^ Muitos poderosos foram grandemente oprimidos, e homens ilustres foram entregues às mãos de outrem.
+
+[[v28-11-7]]
+
+^<<v28-11-7,7>>^ Não censures ninguém antes de estares bem informado; e quando te tiveres informado, repreende com equidade;
+
+[[v28-11-8]]
+
+^<<v28-11-8,8>>^ nada respondas antes de ter ouvido, não interrompas ninguém no meio do seu discurso.
+
+[[v28-11-9]]
+
+^<<v28-11-9,9>>^ Não indagues das coisas que não te dizem respeito; não te assentes com os maus para julgar.^&#42;1^
+
+[[v28-11-10]]
+
+^<<v28-11-10,10>>^ Meu filho, não empreendas coisas em demasia, porque, se adquirires riquezas, não ficarás isento de culpa; se empreenderes muitos negócios, não poderás abrangê-los; se te antecipares, não te sairás bem deles.^&#42;1^
+
+[[v28-11-11]]
+
+^<<v28-11-11,11>>^ Há ímpio que trabalha, se apressa e se queixa, porém só se torna menos rico.
+
+[[v28-11-12]]
+
+^<<v28-11-12,12>>^ Há homem esgotado e em grande necessidade de alívio, pobre de energia e rico em necessidades,
+
+[[v28-11-13]]
+
+^<<v28-11-13,13>>^ que o olhar de Deus considera com benevolência, e ele o tira do desalento para lhe dar ânimo; muitos, ao verem isso, ficam surpreendidos e dão glória a Deus.
+
+[[v28-11-14]]
+
+^<<v28-11-14,14>>^ Bens e males, vida e morte, pobreza e riqueza vêm de Deus.
+
+[[v28-11-15]]
+
+^<<v28-11-15,15>>^ Em Deus se encontram a sabedoria, o conhecimento e a ciência da lei; nele residem a caridade e as boas obras.
+
+[[v28-11-16]]
+
+^<<v28-11-16,16>>^ O erro e as trevas foram criados com os pecadores; aqueles que se comprazem no mal envelhecerão no mal.
+
+[[v28-11-17]]
+
+^<<v28-11-17,17>>^ O dom de Deus permanece nos justos, e seu aproveitamento assegura um triunfo eterno.
+
+[[v28-11-18]]
+
+^<<v28-11-18,18>>^ Há homem que enriquece, vivendo com economia, e a única recompensa que dela usufrui é a
+
+[[v28-11-19]]
+
+^<<v28-11-19,19>>^ de poder dizer: “Achei o repouso, vou agora desfrutar meus haveres sozinho”.
+
+[[v28-11-20]]
+
+^<<v28-11-20,20>>^ E ele não considera que o tempo passa, que vem a morte, e que, ao morrer, tudo deixará para os outros.
+
+[[v28-11-21]]
+
+^<<v28-11-21,21>>^ Permanece firme em tua aliança com Deus; que isto seja sempre o assunto de tuas conversas. E envelhece praticando os mandamentos.
+
+[[v28-11-22]]
+
+^<<v28-11-22,22>>^ Não prestes atenção ao que fazem os pecadores; põe tua confiança em Deus, e limita-te ao que fazes.
+
+[[v28-11-23]]
+
+^<<v28-11-23,23>>^ É, com efeito, coisa fácil aos olhos de Deus enriquecer repentinamente o pobre.
+
+[[v28-11-24]]
+
+^<<v28-11-24,24>>^ A bênção divina não se faz esperar para recompensar o justo. Em pouco tempo ele o faz crescer e dar fruto.
+
+[[v28-11-25]]
+
+^<<v28-11-25,25>>^ Não digas: “De que preciso eu? Que tenho a esperar doravante?”.
+
+[[v28-11-26]]
+
+^<<v28-11-26,26>>^ Não digas tampouco: “Eu me basto a mim mesmo; que mal posso temer para o futuro?”.
+
+[[v28-11-27]]
+
+^<<v28-11-27,27>>^ No dia feliz não percas a recordação dos males, nem a recordação do bem no dia infeliz.
+
+[[v28-11-28]]
+
+^<<v28-11-28,28>>^ Pois no dia da morte é fácil para Deus dar a cada um conforme o seu comportamento.
+
+[[v28-11-29]]
+
+^<<v28-11-29,29>>^ A dor de um instante faz esquecer os maiores prazeres; com a morte do homem, todos os seus atos serão desvendados.
+
+[[v28-11-30]]
+
+^<<v28-11-30,30>>^ Não louves a homem algum antes de sua morte, pois é em seus filhos que se reconhece um homem.^&#42;1^
+
+[[v28-11-31]]
+
+^<<v28-11-31,31>>^ Não tragas um homem qualquer à tua casa, pois numerosas são as armadilhas do que engana.
+
+[[v28-11-32]]
+
+^<<v28-11-32,32>>^ Assim como sai um hálito fétido de um estômago estragado, assim como a perdiz atrai para a armadilha, e o cabrito para os laços, assim é o coração dos soberbos, e daquele que está à espreita para ver a ruína do próximo.
+
+[[v28-11-33]]
+
+^<<v28-11-33,33>>^ Transformando o bem em mal, ele arma ciladas, e põe nódoas nas coisas mais puras.
+
+[[v28-11-34]]
+
+^<<v28-11-34,34>>^ Uma centelha basta para acender uma grande fogueira; um só rebanho é causa de múltiplos morticínios, e o pecador procura traiçoeiramente derramar sangue.
+
+[[v28-11-35]]
+
+^<<v28-11-35,35>>^ Acautela-te contra o corruptor que trama a iniquidade, para não acontecer que ele faça de ti um eterno objeto de mofa.
+
+[[v28-11-36]]
+
+^<<v28-11-36,36>>^ Dás entrada em tua casa ao estrangeiro? Ele aí suscitará uma discórdia que te derrubará e te tornará inimigo das pessoas de tua própria casa.^&#42;1^
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-010.adoc#v28-10-0[&#60; Capítulo Anterior] | <<v28-11-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-012.adoc#v28-12-0[Próximo Capítulo &#62;]

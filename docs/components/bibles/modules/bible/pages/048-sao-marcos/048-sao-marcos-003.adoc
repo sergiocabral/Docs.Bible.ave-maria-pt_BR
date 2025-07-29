@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v48-3-0]]
+=== São Marcos, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Marcos 3 relata a oposição crescente dos fariseus contra Jesus e seus ensinamentos, incluindo a cura de um homem com a mão mirrada no sábado. Além disso, Jesus escolhe os doze apóstolos e ensina sobre a blasfêmia contra o Espírito Santo. Seguem abaixo cinco versículos selecionados de outros livros da Bíblia que estão relacionados com os temas abordados em São Marcos 3.
+* Mateus 12:30: "Quem não é comigo é contra mim; e quem comigo não ajunta, espalha." Este versículo fala sobre a necessidade de escolher um lado na relação com Jesus e sua mensagem. Ele mostra a clareza da divisão entre aqueles que seguem Jesus e aqueles que se opõem a ele, incluindo os fariseus que se opunham a ele em São Marcos 3.
+* Êxodo 31:14: "Assim, pois, guardareis o sábado, porque é santo para vós outros; aquele que o profanar certamente será morto; porque qualquer que nele fizer alguma obra, aquela alma será eliminada do meio do seu povo." Este versículo fala sobre a importância do sábado como um dia santo para os judeus e a punição para aqueles que o profanam. Ele mostra a tensão entre Jesus e os fariseus em relação à interpretação e observância da lei do sábado.
+* Isaías 42:1-3: "Eis aqui o meu servo, a quem sustenho, o meu escolhido, em quem a minha alma se compraz; pus sobre ele o meu Espírito, e ele promulgará o direito aos gentios. Não clamará, nem gritará, nem fará ouvir a sua voz na praça. Não esmagará a cana quebrada, nem apagará a torcida que fumega; em verdade, promulgará o direito." Este versículo se refere ao servo de Deus que seria enviado para anunciar a justiça aos gentios, que é identificado pelos cristãos como Jesus. Ele mostra a escolha divina de Jesus como seu servo e o envio do Espírito Santo sobre ele, que é discutido em São Marcos 3.
+* Mateus 12:32: "Qualquer que falar contra o Filho do Homem, lhe será perdoado; mas quem falar contra o Espírito Santo, não lhe será perdoado, nem neste mundo, nem no porvir." Este versículo fala sobre a blasfêmia contra o Espírito Santo, que Jesus ensina em São Marcos 3. Ele mostra a gravidade desse pecado e a importância de reconhecer e honrar o Espírito Santo.
+* Isaías 11:2: "Repousará sobre ele o Espírito do SENHOR, o Espírito de sabedoria e de entendimento, o Espírito de conselho e de fortaleza, o Espírito de conhecimento e de temor do SENHOR." Este versículo fala sobre o Espírito de Deus que repousaria sobre o Messias, que é identificado pelos cristãos como Jesus. Ele mostra a presença e a importância do Espírito Santo no ministério de Jesus e nos ensinamentos sobre a blasfêmia contra ele em São Marcos 3.
+****
+
+[[v48-3-1]]
+
+^<<v48-3-1,1>>^ Noutra vez, entrou ele na sinagoga e achava-se ali um homem que tinha a mão seca.
+
+[[v48-3-2]]
+
+^<<v48-3-2,2>>^ Ora, estavam-no observando se o curaria no dia de sábado, para o acusarem.
+
+[[v48-3-3]]
+
+^<<v48-3-3,3>>^ Ele diz ao homem da mão seca: “Vem para o meio”.
+
+[[v48-3-4]]
+
+^<<v48-3-4,4>>^ Então, lhes pergunta: “É permitido fazer o bem ou o mal no sábado? Salvar uma vida ou matar?”. Mas eles se calavam.
+
+[[v48-3-5]]
+
+^<<v48-3-5,5>>^ Então, lançando um olhar indignado sobre eles, e contristado com a dureza de seus corações, diz ao homem: “Estende tua mão!”. Ele estendeu-a e a mão foi curada.
+
+[[v48-3-6]]
+
+^<<v48-3-6,6>>^ Saindo os fariseus dali, deliberaram logo com os herodianos como o haviam de prender.^&#42;1^
+
+[[v48-3-7]]
+
+^<<v48-3-7,7>>^ Jesus retirou-se com os seus discípulos para o mar, e seguia-o uma grande multidão, vinda da Galileia.
+
+[[v48-3-8]]
+
+^<<v48-3-8,8>>^ E da Judeia, de Jerusalém, da Idumeia, do além-Jordão e dos arredores de Tiro e de Sidônia veio a ele uma grande multidão, ao ouvir o que ele fazia.
+
+[[v48-3-9]]
+
+^<<v48-3-9,9>>^ Ele ordenou a seus discípulos que lhe aprontassem uma barca, para que a multidão não o comprimisse.
+
+[[v48-3-10]]
+
+^<<v48-3-10,10>>^ Curou a muitos, de modo que todos os que padeciam de algum mal se arrojavam a ele para o tocar.
+
+[[v48-3-11]]
+
+^<<v48-3-11,11>>^ Quando os espíritos imundos o viam, prostravam-se diante dele e gritavam: “Tu és o Filho de Deus!”.
+
+[[v48-3-12]]
+
+^<<v48-3-12,12>>^ Ele os proibia severamente que o dessem a conhecer. (= Mt 10,1-4 = Lc 6,12-16)
+
+[[v48-3-13]]
+
+^<<v48-3-13,13>>^ Depois, subiu ao monte e chamou os que ele quis. E foram a ele.
+
+[[v48-3-14]]
+
+^<<v48-3-14,14>>^ Designou doze dentre eles para ficar em sua companhia.
+
+[[v48-3-15]]
+
+^<<v48-3-15,15>>^ Ele os enviaria a pregar, com o poder de expulsar os demônios.
+
+[[v48-3-16]]
+
+^<<v48-3-16,16>>^ Escolheu estes doze: Simão, a quem pôs o nome de Pedro;
+
+[[v48-3-17]]
+
+^<<v48-3-17,17>>^ Tiago, filho de Zebedeu, e João, seu irmão, aos quais pôs o nome de Boanerges, que quer dizer Filhos do Trovão.
+
+[[v48-3-18]]
+
+^<<v48-3-18,18>>^ Ele escolheu também André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu; Tadeu, Simão, o Zelador;
+
+[[v48-3-19]]
+
+^<<v48-3-19,19>>^ e Judas Iscariotes, que o entregou. (Mt 12,22-32 = Lc 11,14-26)
+
+[[v48-3-20]]
+
+^<<v48-3-20,20>>^ Dirigiram-se em seguida a uma casa. Aí afluiu de novo tanta gente, que nem podiam tomar alimento.
+
+[[v48-3-21]]
+
+^<<v48-3-21,21>>^ Quando os seus o souberam, saíram para o reter; pois diziam: “Ele está fora de si”.
+
+[[v48-3-22]]
+
+^<<v48-3-22,22>>^ Também os escribas, que haviam descido de Jerusalém, diziam: “Ele está possuído de Beelzebul: é pelo príncipe dos demônios que ele expele os demônios”.^&#42;1^
+
+[[v48-3-23]]
+
+^<<v48-3-23,23>>^ Mas, havendo-os convocado, dizia-lhes em parábolas: “Como pode Satanás expulsar a Satanás?
+
+[[v48-3-24]]
+
+^<<v48-3-24,24>>^ Pois, se um reino estiver dividido contra si mesmo, não pode durar.
+
+[[v48-3-25]]
+
+^<<v48-3-25,25>>^ E se uma casa está dividida contra si mesma, tal casa não pode permanecer.
+
+[[v48-3-26]]
+
+^<<v48-3-26,26>>^ E se Satanás se levanta contra si mesmo, está dividido e não poderá continuar, mas desaparecerá.
+
+[[v48-3-27]]
+
+^<<v48-3-27,27>>^ Ninguém pode entrar na casa do homem forte e roubar-lhe os bens, se antes não o prender; e então saqueará sua casa.”
+
+[[v48-3-28]]
+
+^<<v48-3-28,28>>^ Em verdade vos digo: “Todos os pecados serão perdoados aos filhos dos homens, mesmo as suas blasfêmias;
+
+[[v48-3-29]]
+
+^<<v48-3-29,29>>^ mas todo o que tiver blasfemado contra o Espírito Santo jamais terá perdão, mas será culpado de um pecado eterno”.^&#42;1^
+
+[[v48-3-30]]
+
+^<<v48-3-30,30>>^ Jesus falava assim porque tinham dito: “Ele tem um espírito imundo”. (= Mt 12,46-50 = Lc 8,19ss)
+
+[[v48-3-31]]
+
+^<<v48-3-31,31>>^ Chegaram sua mãe e seus irmãos e, estando do lado de fora, mandaram chamá-lo.^&#42;1^
+
+[[v48-3-32]]
+
+^<<v48-3-32,32>>^ Ora, a multidão estava sentada ao redor dele; e disseram-lhe: “Tua mãe e teus irmãos estão aí fora e te procuram”.
+
+[[v48-3-33]]
+
+^<<v48-3-33,33>>^ Ele respondeu-lhes: “Quem é minha mãe e quem são meus irmãos?”.
+
+[[v48-3-34]]
+
+^<<v48-3-34,34>>^ E, correndo o olhar sobre a multidão, que estava sentada ao redor dele, disse: “Eis aqui minha mãe e meus irmãos.
+
+[[v48-3-35]]
+
+^<<v48-3-35,35>>^ Aquele que faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe”. (= Mt 13,1-23 = Lc 8,4-15)
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-002.adoc#v48-2-0[&#60; Capítulo Anterior] | <<v48-3-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-004.adoc#v48-4-0[Próximo Capítulo &#62;]

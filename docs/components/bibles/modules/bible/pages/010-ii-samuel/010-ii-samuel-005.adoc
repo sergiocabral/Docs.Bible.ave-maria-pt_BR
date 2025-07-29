@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v10-5-0]]
+=== II Samuel, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Samuel 5 narra a unificação das tribos de Judá e Israel sob o reinado do rei Davi. O capítulo começa com os líderes de Israel vindo a Davi em Hebrom para reconhecê-lo como seu rei, após a morte de Saul. Em seguida, Davi lidera uma batalha bem-sucedida contra os jebuseus e toma Jerusalém como sua capital. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Samuel 5:
+* Gênesis 49:10: "O cetro não se apartará de Judá, nem o bastão de comando dentre seus descendentes, até que venha aquele a quem ele pertence, e a ele as nações obedecerão." Este versículo é uma profecia de Jacó sobre seu filho Judá, que se tornaria a tribo real de Israel. A unificação das tribos sob o reinado de Davi é uma realização dessa profecia.
+* Números 27:17: "Que o Senhor, o Deus dos espíritos de toda a humanidade, designe alguém sobre esta comunidade para liderá-la." Este versículo foi falado por Moisés quando pediu a Deus para escolher um sucessor para liderar os israelitas após sua morte. Davi foi escolhido por Deus para ser o sucessor de Saul e liderar os israelitas.
+* 1 Crônicas 11:4-5: "Davi e todo o Israel foram a Jerusalém (isto é, Jebus). Os jebuseus que ali habitavam disseram a Davi: 'Jamais entrarás aqui!' Mas Davi tomou a fortaleza de Sião, que é a cidade de Davi." Este versículo descreve a batalha de Davi contra os jebuseus para tomar Jerusalém como sua capital. A vitória de Davi sobre os jebuseus é um marco importante na história de Israel.
+* Salmos 2:6-7: "Fui eu que ungi o meu rei sobre Sião, meu santo monte". Este salmo é uma profecia sobre o Messias, que seria ungido por Deus para governar as nações. A unção de Davi como rei de Israel é um prenúncio desse evento.
+* Isaías 9:6-7: "Porque um menino nos nasceu, um filho nos foi dado, e o governo está sobre os seus ombros. E ele será chamado Maravilhoso Conselheiro, Deus Poderoso, Pai Eterno, Príncipe da Paz. De aumentar o seu governo e da paz não haverá fim sobre o trono de Davi e sobre o seu reino, para o firmar e o fortificar com juízo e com justiça, desde agora e para sempre". Este versículo é uma profecia sobre o Messias que viria da linhagem de Davi. A unificação das tribos de Israel sob o reinado de Davi é um prenúncio do governo eterno do Messias sobre todas as nações.
+****
+
+[[v10-5-1]]
+
+^<<v10-5-1,1>>^ Todas as tribos de Israel vieram ter com Davi em Hebron e disseram-lhe: “Vê: não somos nós teus ossos e tua carne.
+
+[[v10-5-2]]
+
+^<<v10-5-2,2>>^ Já antes, quando Saul era nosso rei, eras tu que dirigias os negócios de Israel. O Senhor te disse: ‘Es tu que apascentarás o meu povo e serás o chefe de Israel’.”
+
+[[v10-5-3]]
+
+^<<v10-5-3,3>>^ Vieram, pois, todos os anciãos de Israel ter com o rei em Hebron. Davi fez com eles um tratado diante do Senhor e eles ungiram-no rei de Israel.
+
+[[v10-5-4]]
+
+^<<v10-5-4,4>>^ Davi tinha trinta anos quando começou a reinar e seu reinado durou quarenta anos:
+
+[[v10-5-5]]
+
+^<<v10-5-5,5>>^ sete anos e meio sobre Judá, em Hebron, e depois trinta e três anos em Jerusalém, sobre todo o Israel e Judá.
+
+[[v10-5-6]]
+
+^<<v10-5-6,6>>^ Davi partiu com seus homens para Jerusalém, contra os jebuseus que ocupavam a terra. Estes disseram a Davi: “Tu não entrarás aqui! Cegos e coxos te repelirão!”. Significando que jamais Davi entraria lá.
+
+[[v10-5-7]]
+
+^<<v10-5-7,7>>^ Mas Davi apoderou-se da fortaleza de Sião, que é a Cidade de Davi.
+
+[[v10-5-8]]
+
+^<<v10-5-8,8>>^ Naquele dia, Davi dissera: “Quem quiser abater os jebuseus, siga o canal para atingir esses cegos e coxos, inimigos de Davi”. Daí vem o ditado: “Nem cegos nem coxos entrarão na casa”.^&#42;1^
+
+[[v10-5-9]]
+
+^<<v10-5-9,9>>^ Davi estabeleceu-se na fortaleza e chamou-a Cidade de Davi. Cercou-a de muralhas desde Milo e construiu no interior.^&#42;1^
+
+[[v10-5-10]]
+
+^<<v10-5-10,10>>^ Davi ia-se fortificando e o Senhor Deus dos exércitos estava com ele.
+
+[[v10-5-11]]
+
+^<<v10-5-11,11>>^ O rei de Tiro, Hiram, mandou-lhe mensageiros, com madeira de cedro, carpinteiros e pedreiros, para construir-lhe um palácio.
+
+[[v10-5-12]]
+
+^<<v10-5-12,12>>^ Davi reconheceu que o Senhor firmava o seu trono em Israel e exaltava a sua realeza por causa de seu povo.
+
+[[v10-5-13]]
+
+^<<v10-5-13,13>>^ Davi tomou mais concubinas e mulheres em Jerusalém, depois que deixou Hebron e teve delas filhos e filhas.
+
+[[v10-5-14]]
+
+^<<v10-5-14,14>>^ Eis os nomes dos filhos que teve em Jerusalém:
+
+[[v10-5-15]]
+
+^<<v10-5-15,15>>^ Samua, Sobab, Natã, Salomão, Jebaar, Elisua, Nafeg,
+
+[[v10-5-16]]
+
+^<<v10-5-16,16>>^ Jáfia, Elisama, Eliada e Elifalet.
+
+[[v10-5-17]]
+
+^<<v10-5-17,17>>^ Quando os filisteus souberam que Davi fora ungido como rei de Israel, puseram-se todos em campanha para apoderar-se dele. Informado disso, Davi desceu à fortaleza.
+
+[[v10-5-18]]
+
+^<<v10-5-18,18>>^ Os filisteus, desde que chegaram, espalharam-se pelo vale dos Gigantes.
+
+[[v10-5-19]]
+
+^<<v10-5-19,19>>^ Davi consultou o Senhor, dizendo: “Devo subir ao encontro dos filisteus? Tu os entregarás nas minhas mãos?”. “Vai – respondeu o Senhor –, eu os entregarei certamente nas tuas mãos.”
+
+[[v10-5-20]]
+
+^<<v10-5-20,20>>^ Veio Davi a Baal-Farasim, onde os derrotou. “O Senhor – disse ele – rompeu os meus inimigos diante de mim, como as águas rompem os diques.” Por isso, chamou àquele lugar Baal-Farasim.^&#42;1^
+
+[[v10-5-21]]
+
+^<<v10-5-21,21>>^ Os filisteus abandonaram ali seus ídolos; Davi e seus homens os levaram.
+
+[[v10-5-22]]
+
+^<<v10-5-22,22>>^ Os filisteus voltaram ao ataque, espalhando-se pelo vale dos Gigantes.
+
+[[v10-5-23]]
+
+^<<v10-5-23,23>>^ Davi consultou o Senhor, que lhe respondeu: “Não vás ao seu encontro, mas dá a volta por detrás deles e os atingirás do lado das amoreiras.
+
+[[v10-5-24]]
+
+^<<v10-5-24,24>>^ Quando ouvires um rumor de passos, então apressa-te e ataca, porque o Senhor irá adiante de ti para esmagar o exército dos filisteus”.
+
+[[v10-5-25]]
+
+^<<v10-5-25,25>>^ Davi fez como lhe ordenara o Senhor e feriu os filisteus desde Gabaá até Gazer.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-004.adoc#v10-4-0[&#60; Capítulo Anterior] | <<v10-5-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-006.adoc#v10-6-0[Próximo Capítulo &#62;]

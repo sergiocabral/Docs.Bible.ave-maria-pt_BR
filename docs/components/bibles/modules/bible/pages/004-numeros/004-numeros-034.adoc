@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v4-34-0]]
+=== Números, 34
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 34 apresenta a descrição das fronteiras da terra que Deus havia prometido a Israel, e que deveriam ser divididas entre as tribos de Israel. A descrição detalhada é fornecida por meio dos pontos de referência, começando no sul, passando pelo leste, norte e oeste. Aqui estão cinco versículos relacionados aos temas deste capítulo:
+* Josué 13:6: "Todos os habitantes das colinas, desde o Líbano até Misrefote-Maím, isto é, todos os sidônios, eu os expulsarei de diante dos israelitas. Somente distribua isto por sorteio entre as tribos de Israel como herança, como lhes ordenei." Este versículo refere-se à promessa de Deus de dar a terra de Canaã aos filhos de Israel e à instrução para que eles dividissem a terra entre as tribos.
+* Josué 13:33: "No entanto, aos levitas não foi dado nenhuma herança. O Senhor, Deus de Israel, é a sua herança, conforme lhes havia prometido." Este versículo destaca que os levitas, como sacerdotes do Senhor, não receberam herança territorial na divisão da terra.
+* Josué 14:1-2: "Estes são os territórios que os israelitas receberam por sorteio na terra de Canaã, que o sacerdote Eleazar, Josué, filho de Num, e os líderes das tribos de Israel distribuíram entre eles. Suas heranças foram designadas por sorteio, como o Senhor havia ordenado por meio de Moisés, para as nove tribos e meia." Este versículo apresenta a divisão da terra de Canaã entre as tribos de Israel, que foi feita por sorteio, conforme a instrução do Senhor.
+* Josué 19:51: "São estas as heranças que Eleazar, o sacerdote, Josué, filho de Num, e os chefes dos clãs das tribos de Israel distribuíram por sorteio em Siló, perante o Senhor, à entrada da Tenda do Encontro. E assim terminaram de dividir a terra." Este versículo descreve como a divisão da terra de Canaã foi concluída em Siló, na presença do Senhor.
+* Josué 21:43: "Assim o Senhor deu a Israel toda a terra que havia prometido sob juramento aos seus antepassados, e eles a conquistaram e dela se apossaram." Este versículo destaca a fidelidade de Deus em cumprir sua promessa de dar a terra de Canaã aos filhos de Israel e a fidelidade de Israel em conquistá-la e possuí-la.
+****
+
+[[v4-34-1]]
+
+^<<v4-34-1,1>>^ O Senhor disse a Moisés: “Eis uma ordem para os israelitas:
+
+[[v4-34-2]]
+
+^<<v4-34-2,2>>^ Quando entrardes na terra de Canaã, eis a terra que vos tocará como herança: a terra de Canaã, com estes limites:
+
+[[v4-34-3]]
+
+^<<v4-34-3,3>>^ para o lado do meio-dia, vossa fronteira começará no deserto de Sin ao longo de Edom. Essa fronteira meridional partirá, ao oriente, da extremidade do mar Salgado
+
+[[v4-34-4]]
+
+^<<v4-34-4,4>>^ e irá para o lado do meio-dia pela subida de Acrabim. Passará por Sin e chegará até o sul de Cades Barne, de onde irá até Hatsar-Adar, estendendo-se para Asemon.
+
+[[v4-34-5]]
+
+^<<v4-34-5,5>>^ De Asemon se dirigirá para a torrente do Egito, e terminará no mar.
+
+[[v4-34-6]]
+
+^<<v4-34-6,6>>^ Vossa fronteira ocidental será o mar Grande, que fará o vosso limite ao ocidente.
+
+[[v4-34-7]]
+
+^<<v4-34-7,7>>^ Eis vossa fronteira setentrional: partindo do mar Grande, tereis por limite o monte Hor;
+
+[[v4-34-8]]
+
+^<<v4-34-8,8>>^ desde o monte Hor marcareis até a entrada de Emat, terminando em Sedada;
+
+[[v4-34-9]]
+
+^<<v4-34-9,9>>^ estenderá em seguida para Zefrona até Hatsar-Enã. Esse será o vosso limite setentrional.
+
+[[v4-34-10]]
+
+^<<v4-34-10,10>>^ Para vossa fronteira oriental, marcareis uma linha de Hasar-Enon a Sefana;
+
+[[v4-34-11]]
+
+^<<v4-34-11,11>>^ descerá de Sefana a Rebla, ao oriente de Ain; depois, continuando, atingirá a praia oriental do mar de Genesaré,
+
+[[v4-34-12]]
+
+^<<v4-34-12,12>>^ e enfim, descerá ao longo do Jordão, terminando no mar Salgado. Tal será a vossa terra em todo o perímetro de vossas fronteiras”.
+
+[[v4-34-13]]
+
+^<<v4-34-13,13>>^ Moisés ordenou aos israelitas o seguinte: “Esta será a terra que possuireis por sorte, e que o Senhor mandou que se desse às nove tribos e à meia tribo,
+
+[[v4-34-14]]
+
+^<<v4-34-14,14>>^ porque a tribo dos rubenitas, por suas famílias, assim como a tribo dos gaditas, por suas famílias, e a meia tribo de Manassés receberam já a sua porção.
+
+[[v4-34-15]]
+
+^<<v4-34-15,15>>^ Essas duas tribos e a meia tribo têm a sua herança além do Jordão, defronte de Jericó, para o levante”.
+
+[[v4-34-16]]
+
+^<<v4-34-16,16>>^ O Senhor disse a Moisés:
+
+[[v4-34-17]]
+
+^<<v4-34-17,17>>^ “Eis os nomes dos homens que dividirão a terra entre vós: o sacerdote Eleazar, e Josué, filho de Nun.
+
+[[v4-34-18]]
+
+^<<v4-34-18,18>>^ Tomareis, além disso, um príncipe de cada tribo para proceder à divisão”.
+
+[[v4-34-19]]
+
+^<<v4-34-19,19>>^ Eis os nomes desses príncipes: da tribo de Judá, Caleb, filho de Jefoné;
+
+[[v4-34-20]]
+
+^<<v4-34-20,20>>^ da tribo dos filhos de Simeão, Samuel, filho de Amiud;
+
+[[v4-34-21]]
+
+^<<v4-34-21,21>>^ da tribo de Benjamim, Elidad, filho de Caselon;
+
+[[v4-34-22]]
+
+^<<v4-34-22,22>>^ da tribo dos filhos de Dã, um príncipe, Boci, filho de Jogli;
+
+[[v4-34-23]]
+
+^<<v4-34-23,23>>^ dos filhos de José, da tribo dos filhos de Manassés, um príncipe, Haniel, filho de Efod,
+
+[[v4-34-24]]
+
+^<<v4-34-24,24>>^ e da tribo dos filhos de Efraim, um príncipe, Camuel, filho de Seftã;
+
+[[v4-34-25]]
+
+^<<v4-34-25,25>>^ da tribo dos filhos de Zabulon, um príncipe, Elisafã, filho de Farnac;
+
+[[v4-34-26]]
+
+^<<v4-34-26,26>>^ da tribo dos filhos de Issacar, um príncipe, Faltiel, filho de Ozã;
+
+[[v4-34-27]]
+
+^<<v4-34-27,27>>^ da tribo dos filhos de Aser, um príncipe, Aiud, filho de Salomi;
+
+[[v4-34-28]]
+
+^<<v4-34-28,28>>^ da tribo dos filhos de Neftali, um príncipe, Fedael, filho de Amiud.
+
+[[v4-34-29]]
+
+^<<v4-34-29,29>>^ Tais são os que o Senhor designou para repartir entre os israelitas a terra de Canaã.
+
+'''
+
+xref:004-numeros/004-numeros-033.adoc#v4-33-0[&#60; Capítulo Anterior] | <<v4-34-0,Topo>> | xref:004-numeros/004-numeros-035.adoc#v4-35-0[Próximo Capítulo &#62;]

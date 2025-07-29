@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v3-19-0]]
+=== Levítico, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Levítico 19 é um capítulo que aborda diversas leis e mandamentos que o povo de Israel deveria seguir para viver em santidade e justiça diante de Deus. Os temas incluem condutas éticas, respeito aos pais, honestidade nos negócios, justiça social, relações sexuais, entre outros.
+* Deuteronômio 6:5 - "Amarás, pois, o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu poder." Esse versículo se relaciona com o tema central do capítulo 19 de Levítico, que é a santidade diante de Deus. Amar a Deus acima de tudo é o princípio fundamental que orienta todas as outras leis e mandamentos.
+* Mateus 5:44 - "Eu, porém, vos digo: Amai aos vossos inimigos, e orai pelos que vos perseguem." Esse versículo se relaciona com o mandamento de amar o próximo como a si mesmo, que é uma das principais leis do capítulo 19. Essa lei inclui o amor aos inimigos e a oração por aqueles que nos perseguem.
+* Levítico 19:18 - "Não te vingarás, nem guardarás ira contra os filhos do teu povo; mas amarás o teu próximo como a ti mesmo. Eu sou o Senhor." Esse versículo resume o mandamento de amar o próximo e mostra que a vingança e a ira não devem ter lugar na vida dos filhos de Deus.
+* Provérbios 11:1 - "A balança enganosa é abominação para o Senhor, mas o peso justo é o seu prazer." Esse versículo se relaciona com as leis de justiça social mencionadas no capítulo 19 de Levítico, que incluem a honestidade nos negócios e o respeito aos pobres e estrangeiros.
+* 1 Coríntios 6:18 - "Fugi da prostituição. Todo o pecado que o homem comete é fora do corpo; mas o que se prostitui peca contra o seu próprio corpo." Esse versículo se relaciona com as leis que regulam as relações sexuais mencionadas no capítulo 19 de Levítico, que incluem a proibição da prostituição e do adultério.
+****
+
+[[v3-19-1]]
+
+^<<v3-19-1,1>>^ O Senhor disse a Moisés:
+
+[[v3-19-2]]
+
+^<<v3-19-2,2>>^ “Dirás a toda a assembleia de Israel o seguinte: Sede santos, porque eu, o Senhor, vosso Deus, sou santo.
+
+[[v3-19-3]]
+
+^<<v3-19-3,3>>^ Cada um de vós respeite a sua mãe e o seu pai, e guarde os meus sábados. Eu sou o Senhor, vosso Deus.
+
+[[v3-19-4]]
+
+^<<v3-19-4,4>>^ Não vos volteis para os ídolos, e não façais para vós deuses de metal fundido. Eu sou o Senhor, vosso Deus.
+
+[[v3-19-5]]
+
+^<<v3-19-5,5>>^ Quando oferecerdes ao Senhor um sacrifício pacífico, oferecei-o de maneira que seja aceito.
+
+[[v3-19-6]]
+
+^<<v3-19-6,6>>^ A vítima deverá ser comida no mesmo dia ou no dia seguinte. O que sobrar no terceiro dia será queimado no fogo.
+
+[[v3-19-7]]
+
+^<<v3-19-7,7>>^ Se se comer dela no terceiro dia, será uma abominação: o sacrifício não será aceito.
+
+[[v3-19-8]]
+
+^<<v3-19-8,8>>^ Quem o comer levará sua iniquidade, porque terá profanado o que é consagrado ao Senhor. Esse será cortado do seu povo.
+
+[[v3-19-9]]
+
+^<<v3-19-9,9>>^ Quando fizerdes a ceifa em vossa terra, não cortareis as espigas até os limites de vosso campo, e não recolhereis o que resta a respigar de vossas colheitas.
+
+[[v3-19-10]]
+
+^<<v3-19-10,10>>^ Não respigareis tampouco a vossa vinha, nem colhereis os grãos caídos no campo. Deverá deixar isso para o pobre e o estrangeiro. Eu sou o Senhor, vosso Deus.
+
+[[v3-19-11]]
+
+^<<v3-19-11,11>>^ Não furtareis, não usareis de embustes nem de mentiras uns para com os outros.
+
+[[v3-19-12]]
+
+^<<v3-19-12,12>>^ Não jurareis falso em meu nome, porque profanaríeis o nome de vosso Deus. Eu sou o Senhor.^&#42;1^
+
+[[v3-19-13]]
+
+^<<v3-19-13,13>>^ Não oprimirás o teu próximo, e não o despojarás. O salário do teu operário não ficará contigo até o dia seguinte.
+
+[[v3-19-14]]
+
+^<<v3-19-14,14>>^ Não amaldiçoarás um surdo; não porás algo como tropeço diante do cego; mas temerás o teu Deus. Eu sou o Senhor.
+
+[[v3-19-15]]
+
+^<<v3-19-15,15>>^ Não sereis injustos em vossos juízos: Não favorecerás o pobre nem terás complacência com o grande; mas segundo a justiça julgarás o teu próximo.
+
+[[v3-19-16]]
+
+^<<v3-19-16,16>>^ Não semearás a difamação no meio de teu povo, nem te apresentarás como testemunha contra a vida do teu próximo. Eu sou o Senhor.
+
+[[v3-19-17]]
+
+^<<v3-19-17,17>>^ Não odiarás o teu irmão no teu coração. Repreenderás o teu próximo para que não incorras em pecado por sua causa.
+
+[[v3-19-18]]
+
+^<<v3-19-18,18>>^ Não te vingarás; não guardarás rancor contra os filhos de teu povo. Amarás o teu próximo como a ti mesmo. Eu sou o Senhor.^&#42;1^
+
+[[v3-19-19]]
+
+^<<v3-19-19,19>>^ Guardareis os meus mandamentos. Não juntarás animais de espécies diferentes. Não semearás no teu campo grãos de espécies diferentes. Não usarás roupas tecidas de duas espécies de fios.
+
+[[v3-19-20]]
+
+^<<v3-19-20,20>>^ Se um homem se deitar com uma mulher escrava desposada com outro, mas não resgatada nem posta em liberdade, serão ambos castigados, mas não morrerão, porque ela não era livre.
+
+[[v3-19-21]]
+
+^<<v3-19-21,21>>^ Em expiação o homem oferecerá ao Senhor, à entrada da tenda de reunião, um carneiro como sacrifício de reparação.
+
+[[v3-19-22]]
+
+^<<v3-19-22,22>>^ O sacerdote fará por ele a expiação diante do Senhor com o carneiro do sacrifício de reparação pelo pecado cometido; e o seu pecado lhe será perdoado.
+
+[[v3-19-23]]
+
+^<<v3-19-23,23>>^ Quando entrardes na terra e tiverdes plantado toda a sorte de árvores frutíferas, considerareis os seus primeiros frutos como incircuncisos. Eles o serão durante três anos, e não se comerá deles.
+
+[[v3-19-24]]
+
+^<<v3-19-24,24>>^ No quarto ano todos os seus frutos serão consagrados ao Senhor com ações de graças.
+
+[[v3-19-25]]
+
+^<<v3-19-25,25>>^ No quinto ano, comereis de seus frutos para que a árvore continue a produzi-los. Eu sou o Senhor, vosso Deus.
+
+[[v3-19-26]]
+
+^<<v3-19-26,26>>^ Não comereis nada que contenha sangue. Não praticareis a adivinhação nem a magia.
+
+[[v3-19-27]]
+
+^<<v3-19-27,27>>^ Não cortareis o cabelo em redondo, nem rapareis a barba pelos lados.^&#42;1^
+
+[[v3-19-28]]
+
+^<<v3-19-28,28>>^ Não fareis incisões na vossa carne por um morto, nem fareis figura alguma no vosso corpo. Eu sou o Senhor.
+
+[[v3-19-29]]
+
+^<<v3-19-29,29>>^ Não prostituas tua filha, para que a terra não se entregue à prostituição e não se encha de crimes.
+
+[[v3-19-30]]
+
+^<<v3-19-30,30>>^ Observareis meus sábados e respeitareis meu santuário. Eu sou o Senhor.
+
+[[v3-19-31]]
+
+^<<v3-19-31,31>>^ Não vos dirijais aos necromantes nem aos adivinhos: não os consulteis, para que não sejais contaminados por eles. Eu sou o Senhor, vosso Deus.
+
+[[v3-19-32]]
+
+^<<v3-19-32,32>>^ Levanta-te diante dos cabelos brancos; honra a pessoa do velho e teme a teu Deus. Eu sou o Senhor.
+
+[[v3-19-33]]
+
+^<<v3-19-33,33>>^ Se um estrangeiro vier habitar convosco na vossa terra, não o oprimireis,
+
+[[v3-19-34]]
+
+^<<v3-19-34,34>>^ mas esteja ele entre vós como um compatriota, e tu o amarás como a ti mesmo, porque fostes já estrangeiros no Egito. Eu sou o Senhor, vosso Deus.
+
+[[v3-19-35]]
+
+^<<v3-19-35,35>>^ Não cometereis injustiça nos juízos, nem na vara, nem no peso, nem na medida.
+
+[[v3-19-36]]
+
+^<<v3-19-36,36>>^ Tereis balanças justas, pesos justos, um efá justo e um hin justo. Eu sou o Senhor, vosso Deus, que vos tirei do Egito.
+
+[[v3-19-37]]
+
+^<<v3-19-37,37>>^ Observareis todas as minhas leis e meus mandamentos, e os praticareis. Eu sou o Senhor”.
+
+'''
+
+xref:003-levitico/003-levitico-018.adoc#v3-18-0[&#60; Capítulo Anterior] | <<v3-19-0,Topo>> | xref:003-levitico/003-levitico-020.adoc#v3-20-0[Próximo Capítulo &#62;]

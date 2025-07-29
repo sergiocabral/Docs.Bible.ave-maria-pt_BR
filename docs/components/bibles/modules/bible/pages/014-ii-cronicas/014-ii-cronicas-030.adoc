@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v14-30-0]]
+=== II Crônicas, 30
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Crônicas 30 conta a história de Ezequias, rei de Judá, convocando o povo para celebrar a Páscoa no templo de Jerusalém. Ezequias reconheceu que o povo havia se afastado dos caminhos de Deus e decidiu renovar o compromisso de Judá com o Senhor. Ele enviou mensageiros por todo o país, convidando os israelitas para se juntarem a ele na celebração da Páscoa em Jerusalém. Aqui estão cinco versículos relacionados aos temas deste capítulo:
+* Êxodo 12:14: "Este dia será para vós um memorial que celebrareis como festa solene ao Senhor; de geração em geração o celebrareis por estatuto perpétuo." Este versículo fala sobre a celebração da Páscoa, que era um memorial do livramento que Deus deu aos israelitas da escravidão no Egito. A Páscoa era uma celebração importante para o povo de Deus, e Ezequias queria renovar a sua observância.
+* Deuteronômio 30:2: "E voltarás para o Senhor teu Deus, e darás ouvidos à sua voz conforme tudo o que eu te ordeno hoje, tu e teus filhos, com todo o teu coração e com toda a tua alma." Este versículo fala sobre o arrependimento e a volta para Deus, que era o objetivo de Ezequias ao convocar o povo para celebrar a Páscoa. Ele queria que o povo de Judá renovasse seu compromisso com Deus e se voltasse para ele de todo o coração.
+* 2 Crônicas 15:12-13: "E eles entraram em um acordo para buscar ao Senhor Deus de seus pais, de todo o seu coração e de toda a sua alma. E todo aquele que não buscar ao Senhor Deus de Israel será morto, desde o pequeno até o grande, tanto homens como mulheres." Este versículo fala sobre a importância de buscar a Deus de todo o coração, que era exatamente o que Ezequias estava pedindo ao povo de Judá que fizesse ao celebrar a Páscoa.
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado e salva os contritos de espírito." Este versículo fala sobre a natureza misericordiosa de Deus para com aqueles que se arrependem e têm o coração quebrantado diante dele. Ezequias sabia que a única maneira de Judá se reconciliar com Deus era por meio do arrependimento e da humildade.
+* Isaías 55:6: "Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto." Este versículo fala sobre a necessidade de buscar a Deus enquanto ele pode ser encontrado. Ezequias sabia que a oportunidade de se arrepender e se voltar para Deus poderia ser perdida se o povo de Judá não respondesse ao seu convite para celebrar a Páscoa. Ele queria que o povo buscasse a Deus enquanto ainda havia tempo.
+****
+
+[[v14-30-1]]
+
+^<<v14-30-1,1>>^ Ezequias enviou mensageiros a todo o Israel e a todo o Judá e também escreveu também cartas a Efraim e a Manassés para convidá-los a vir ao templo de Jerusalém, a fim de celebrarem a Páscoa em honra do Senhor, Deus de Israel.^&#42;1^
+
+[[v14-30-2]]
+
+^<<v14-30-2,2>>^ O rei, seus chefes e toda a multidão de Jerusalém tinham resolvido celebrar a Páscoa no segundo mês;
+
+[[v14-30-3]]
+
+^<<v14-30-3,3>>^ não puderam fazê-lo em tempo, porque não estavam santificados sacerdotes em número suficiente e o povo não se tinha ainda reunido em Jerusalém.
+
+[[v14-30-4]]
+
+^<<v14-30-4,4>>^ Tendo isso agradado ao rei e à assembleia,
+
+[[v14-30-5]]
+
+^<<v14-30-5,5>>^ decidiram publicar em todo o Israel, desde Bersabeia até Dã, a ordem de vir a Jerusalém para celebrar a Páscoa em honra do Senhor, Deus de Israel, pois desde muito tempo não mais fora celebrada como estava prescrito.
+
+[[v14-30-6]]
+
+^<<v14-30-6,6>>^ Partiram, então, os correios com as cartas do rei e dos chefes, para todo o Israel e Judá. Por ordem do rei, eles diziam: “Israelitas, voltai ao Senhor, o Deus de Abraão, de Isaac e de Israel, a fim de que ele se volte àqueles dentre vós que conseguiram escapar das mãos do rei da Assíria.^&#42;1^
+
+[[v14-30-7]]
+
+^<<v14-30-7,7>>^ Não sejais como vossos pais e vossos irmãos que prevaricaram contra o Senhor, o Deus de seus pais, o qual os entregou à desolação, como vedes.
+
+[[v14-30-8]]
+
+^<<v14-30-8,8>>^ Não endureçais vossa cerviz como fizeram vossos pais. Dai a mão ao Senhor, vinde a seu santuário que ele consagrou para sempre e servi ao Senhor, vosso Deus, a fim de que ele afaste de vós o ardor de sua cólera.
+
+[[v14-30-9]]
+
+^<<v14-30-9,9>>^ Se voltardes para o Senhor, vossos irmãos e vossos filhos acharão misericórdia diante daqueles que os levaram para o cativeiro e voltarão à sua terra, pois o Senhor Deus é generoso e misericordioso e não desviará os olhos de vós, se voltardes para ele”.
+
+[[v14-30-10]]
+
+^<<v14-30-10,10>>^ Assim, os correios passaram de cidade em cidade, na terra de Efraim, de Manassés e até de Zabulon. Zombaram deles e os escarneceram.
+
+[[v14-30-11]]
+
+^<<v14-30-11,11>>^ Contudo, alguns homens de Aser, de Manassés e de Zabulon humilharam-se e dirigiram-se a Jerusalém.
+
+[[v14-30-12]]
+
+^<<v14-30-12,12>>^ Também em Judá, a mão de Deus operou sobre os habitantes para dar-lhes um mesmo desejo de executar o mandato do rei e de seus chefes, conforme a palavra do Senhor.
+
+[[v14-30-13]]
+
+^<<v14-30-13,13>>^ Grandes multidões afluíram a Jerusalém para celebrar a festa dos Ázimos, no segundo mês. Foi uma imensa afluência de povo.
+
+[[v14-30-14]]
+
+^<<v14-30-14,14>>^ Eles puseram-se a destruir os altares que se encontravam em Jerusalém, a destruir todos os altares dos perfumes e os atiraram na torrente do Cedron.
+
+[[v14-30-15]]
+
+^<<v14-30-15,15>>^ Imolaram a Páscoa no décimo quarto dia do segundo mês. Os sacerdotes e os levitas, cheios de confusão, tinham se santificado e ofereceram holocaustos no templo.
+
+[[v14-30-16]]
+
+^<<v14-30-16,16>>^ Ocupavam seu lugar normal, como o prescreve a Lei de Moisés, homem de Deus. Os sacerdotes aspergiam o sangue que lhes davam os levitas.
+
+[[v14-30-17]]
+
+^<<v14-30-17,17>>^ Como houvesse na assistência muitos que não se tinham purificado, os levitas encarregaram-se de imolar a Páscoa, para todos os que não estavam puros, a fim de consagrá-los ao Senhor.
+
+[[v14-30-18]]
+
+^<<v14-30-18,18>>^ Grande parte do povo, com efeito, muitos de Efraim, de Manassés, de Issacar e de Zabulon, comeu a Páscoa, contrariamente à prescrição, sem ter-se purificado. Mas Ezequias fez por eles esta prece: “Digne-se o Senhor, na sua bondade,
+
+[[v14-30-19]]
+
+^<<v14-30-19,19>>^ perdoar todos os que aplicaram seu coração à procura do Senhor Deus, o Deus de seus pais, conquanto não tivessem a purificação exigida para o santuário!”.
+
+[[v14-30-20]]
+
+^<<v14-30-20,20>>^ O Senhor escutou Ezequias e perdoou o povo.
+
+[[v14-30-21]]
+
+^<<v14-30-21,21>>^ Os israelitas que se encontravam em Jerusalém celebraram alegremente a festa dos Ázimos durante uma semana. E cada dia os levitas e os sacerdotes louvaram o Senhor com instrumentos possantes, em honra do Senhor.
+
+[[v14-30-22]]
+
+^<<v14-30-22,22>>^ Ezequias dirigiu palavras de encorajamento a todos os levitas que se tinham mostrado compreensivos no serviço do Senhor. Durante sete dias comeram as vítimas da festa, ofereceram sacrifícios pacíficos e glorificaram o Senhor, o Deus de seus pais.
+
+[[v14-30-23]]
+
+^<<v14-30-23,23>>^ Mas a opinião de toda a multidão era de prolongar a festa por mais uma semana; e esses sete dias suplementares foram celebrados com alegria.
+
+[[v14-30-24]]
+
+^<<v14-30-24,24>>^ Ezequias tinha dado à multidão mil touros e sete mil ovelhas. Os chefes ajuntaram a isso mil touros e dez mil ovelhas. Os sacerdotes, em grande número, se tinham purificado.
+
+[[v14-30-25]]
+
+^<<v14-30-25,25>>^ A alegria reinava em toda a multidão dos homens de Judá, entre os sacerdotes e os levitas, a multidão vinda de Israel e os estrangeiros vindos de Israel ou estabelecidos em Judá.
+
+[[v14-30-26]]
+
+^<<v14-30-26,26>>^ Em Jerusalém houve grande júbilo, tanto que nada de semelhante se tinha visto na cidade desde o tempo de Salomão, filho de Davi, rei de Israel.
+
+[[v14-30-27]]
+
+^<<v14-30-27,27>>^ Finalmente, os sacerdotes e os levitas levantaram-se para abençoar a multidão. A voz deles foi ouvida e a prece deles chegou até a morada santa do Senhor, no céu.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-029.adoc#v14-29-0[&#60; Capítulo Anterior] | <<v14-30-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-031.adoc#v14-31-0[Próximo Capítulo &#62;]

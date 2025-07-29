@@ -1,0 +1,223 @@
+include::./index.adoc[]
+
+[[v47-24-0]]
+=== São Mateus, 24
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Mateus 24 é conhecido como o "Discurso do Monte das Oliveiras", no qual Jesus fala sobre os sinais do fim dos tempos e do seu retorno. Ele descreve a destruição do templo em Jerusalém, guerras, fomes, terremotos, perseguições e a propagação do Evangelho por todo o mundo. Aqui estão cinco versículos relacionados com os temas abordados em São Mateus 24:
+* Marcos 13:7: "Quando, porém, ouvirdes falar de guerras e rumores de guerras, não vos assusteis; é necessário assim acontecer, mas ainda não é o fim." Jesus fala sobre as guerras e conflitos que ocorrerão antes do fim dos tempos, mas adverte que eles não são um sinal imediato do fim.
+* 2 Timóteo 3:1: "Sabe, porém, isto: nos últimos dias, sobrevirão tempos difíceis." Paulo alerta Timóteo que haverá tempos difíceis no fim dos tempos, marcados por uma crescente falta de amor e uma busca pelo prazer pessoal.
+* Apocalipse 6:8: "E olhei, e eis um cavalo amarelo e o seu cavaleiro, sendo este chamado Morte; e o Inferno o estava seguindo, e foi-lhes dada autoridade sobre a quarta parte da terra, para matar à espada, pela fome, pela mortandade e por meio das feras da terra." O livro do Apocalipse descreve a morte e a destruição que ocorrerão nos últimos dias, incluindo a fome e as feras da terra.
+* Mateus 24:31: "E ele enviará os seus anjos com grande clangor de trombeta, os quais lhe ajuntarão os escolhidos desde os quatro ventos, de uma à outra extremidade dos céus." Jesus descreve a vinda dos anjos para reunir os escolhidos de Deus no fim dos tempos.
+* Apocalipse 22:20: "Aquele que testifica estas coisas diz: Certamente, venho sem demora. Amém! Vem, Senhor Jesus!" O livro do Apocalipse termina com um apelo à vinda de Jesus, a quem os cristãos aguardam para vir e reinar em glória.
+****
+
+[[v47-24-1]]
+
+^<<v47-24-1,1>>^ Ao sair do templo, os discípulos aproximaram-se de Jesus e fizeram-no apreciar as construções.
+
+[[v47-24-2]]
+
+^<<v47-24-2,2>>^ Jesus, porém, respondeu-lhes: “Vedes todos estes edifícios? Em verdade vos declaro: não ficará aqui pedra sobre pedra; tudo será destruído”.
+
+[[v47-24-3]]
+
+^<<v47-24-3,3>>^ Indo ele assentar-se no monte das Oliveiras, achegaram-se os discípulos e, estando a sós com ele, perguntaram-lhe: “Quando acontecerá isto? E qual será o sinal de tua volta e do fim do mundo?”.^&#42;1^
+
+[[v47-24-4]]
+
+^<<v47-24-4,4>>^ Respondeu-lhes Jesus: “Cuidai que ninguém vos seduza.^&#42;1^
+
+[[v47-24-5]]
+
+^<<v47-24-5,5>>^ Muitos virão em meu nome, dizendo: Sou eu o Cristo. E seduzirão a muitos.
+
+[[v47-24-6]]
+
+^<<v47-24-6,6>>^ Ouvireis falar de guerras e de rumores de guerra. Atenção: que isso não vos perturbe, porque é preciso que isso aconteça. Mas ainda não será o fim.
+
+[[v47-24-7]]
+
+^<<v47-24-7,7>>^ Irá levantar-se nação contra nação, reino contra reino, e haverá fome, peste e grandes desgraças em diversos lugares.
+
+[[v47-24-8]]
+
+^<<v47-24-8,8>>^ Tudo isso será apenas o início das dores.
+
+[[v47-24-9]]
+
+^<<v47-24-9,9>>^ Então, sereis entregues aos tormentos, sereis mortos e sereis por minha causa, sereis objeto de ódio para todas as nações.
+
+[[v47-24-10]]
+
+^<<v47-24-10,10>>^ Muitos sucumbirão, serão traídos mutuamente e mutuamente se odiarão.
+
+[[v47-24-11]]
+
+^<<v47-24-11,11>>^ Irão levantar-se muitos falsos profetas e seduzirão a muitos.
+
+[[v47-24-12]]
+
+^<<v47-24-12,12>>^ E, ante o progresso crescente da iniquidade, a caridade de muitos esfriará.
+
+[[v47-24-13]]
+
+^<<v47-24-13,13>>^ Entretanto, aquele que perseverar até o fim será salvo.
+
+[[v47-24-14]]
+
+^<<v47-24-14,14>>^ Este Evangelho do Reino será pregado pelo mundo inteiro para servir de testemunho a todas as nações, e então chegará o fim.
+
+[[v47-24-15]]
+
+^<<v47-24-15,15>>^ Quando virdes estabelecida no lugar santo a abominação da desolação que foi predita pelo profeta Daniel (9,27) – o leitor entenda bem –,^&#42;1^
+
+[[v47-24-16]]
+
+^<<v47-24-16,16>>^ então os habitantes da Judeia fujam para as montanhas.
+
+[[v47-24-17]]
+
+^<<v47-24-17,17>>^ Aquele que está no terraço da casa não desça para tomar o que está em sua casa.
+
+[[v47-24-18]]
+
+^<<v47-24-18,18>>^ E aquele que está no campo não volte para buscar suas vestimentas.
+
+[[v47-24-19]]
+
+^<<v47-24-19,19>>^ Ai das mulheres que estiverem grávidas ou amamentarem naqueles dias!
+
+[[v47-24-20]]
+
+^<<v47-24-20,20>>^ Rogai para que vossa fuga não seja no inverno, nem em dia de sábado;^&#42;1^
+
+[[v47-24-21]]
+
+^<<v47-24-21,21>>^ porque então a tribulação será tão grande como nunca foi vista, desde o começo do mundo até o presente, nem jamais será.
+
+[[v47-24-22]]
+
+^<<v47-24-22,22>>^ Se aqueles dias não fossem abreviados, criatura alguma escaparia; mas, por causa dos escolhidos, aqueles dias serão abreviados.
+
+[[v47-24-23]]
+
+^<<v47-24-23,23>>^ Então, se alguém vos disser: Eis, aqui está o Cristo! Ou: Ei-lo acolá!, não creiais.^&#42;1^
+
+[[v47-24-24]]
+
+^<<v47-24-24,24>>^ Porque se levantarão falsos cristos e falsos profetas, que farão milagres a ponto de seduzir, se isso fosse possível, até mesmo os escolhidos.
+
+[[v47-24-25]]
+
+^<<v47-24-25,25>>^ Eis que estais prevenidos.
+
+[[v47-24-26]]
+
+^<<v47-24-26,26>>^ Se, pois, vos disserem: Vinde, ele está no deserto, não saiais. Ou: Lá está ele em casa, não o creiais.
+
+[[v47-24-27]]
+
+^<<v47-24-27,27>>^ Porque, como o relâmpago parte do Oriente e ilumina até o Ocidente, assim será a volta do Filho do Homem.
+
+[[v47-24-28]]
+
+^<<v47-24-28,28>>^ Onde houver um cadáver, aí se ajuntarão os abutres”.
+
+[[v47-24-29]]
+
+^<<v47-24-29,29>>^ “Logo após esses dias de tribulação, o sol escurecerá, a lua não terá claridade, cairão do céu as estrelas e as potências dos céus serão abaladas.
+
+[[v47-24-30]]
+
+^<<v47-24-30,30>>^ Então, aparecerá no céu o sinal do Filho do Homem. Todas as tribos da terra baterão no peito e verão o Filho do Homem vir sobre as nuvens do céu cercado de glória e de majestade.
+
+[[v47-24-31]]
+
+^<<v47-24-31,31>>^ Ele enviará seus anjos com estridentes trombetas, e juntarão seus escolhidos dos quatro ventos, de uma extremidade do céu à outra.
+
+[[v47-24-32]]
+
+^<<v47-24-32,32>>^ Compreendei isso pela comparação da figueira: quando seus ramos estão tenros e crescem as folhas, pressentis que o verão está próximo.
+
+[[v47-24-33]]
+
+^<<v47-24-33,33>>^ Do mesmo modo, quando virdes tudo isso, sabei que o Filho do Homem está próximo, à porta.
+
+[[v47-24-34]]
+
+^<<v47-24-34,34>>^ Em verdade vos declaro: não passará esta geração antes que tudo isso aconteça.^&#42;1^
+
+[[v47-24-35]]
+
+^<<v47-24-35,35>>^ O céu e a terra passarão, mas as minhas palavras não passarão.
+
+[[v47-24-36]]
+
+^<<v47-24-36,36>>^ Quanto àquele dia e àquela hora, ninguém o sabe, nem mesmo os anjos do céu, mas somente o Pai.^&#42;1^
+
+[[v47-24-37]]
+
+^<<v47-24-37,37>>^ Assim como foi nos tempos de Noé, assim acontecerá na vinda do Filho do Homem.
+
+[[v47-24-38]]
+
+^<<v47-24-38,38>>^ Nos dias que precederam o dilúvio, comiam, bebiam, casavam-se e davam-se em casamento, até o dia em que Noé entrou na arca.
+
+[[v47-24-39]]
+
+^<<v47-24-39,39>>^ E os homens de nada sabiam, até o momento em que veio o dilúvio e os levou a todos. Assim será também na volta do Filho do Homem.
+
+[[v47-24-40]]
+
+^<<v47-24-40,40>>^ Dois homens estarão no campo: um será tomado, o outro será deixado.
+
+[[v47-24-41]]
+
+^<<v47-24-41,41>>^ Duas mulheres estarão moendo no mesmo moinho: uma será tomada e a outra será deixada.
+
+[[v47-24-42]]
+
+^<<v47-24-42,42>>^ Vigiai, pois, porque não sabeis a hora em que virá o Senhor.
+
+[[v47-24-43]]
+
+^<<v47-24-43,43>>^ Sabei que se o pai de família soubesse em que hora da noite viria o ladrão, vigiaria e não deixaria arrombar a sua casa.
+
+[[v47-24-44]]
+
+^<<v47-24-44,44>>^ Por isso, estai também vós preparados porque o Filho do Homem virá numa hora em que menos pensardes.”
+
+[[v47-24-45]]
+
+^<<v47-24-45,45>>^ “Quem é, pois, o servo fiel e prudente que o Senhor constituiu sobre os de sua família, para dar-lhes o alimento no momento oportuno?
+
+[[v47-24-46]]
+
+^<<v47-24-46,46>>^ Bem-aventurado aquele servo a quem seu senhor, na sua volta, encontrar procedendo assim!
+
+[[v47-24-47]]
+
+^<<v47-24-47,47>>^ Em verdade vos digo: ele o estabelecerá sobre todos os seus bens.
+
+[[v47-24-48]]
+
+^<<v47-24-48,48>>^ Mas, se é um mau servo que imagina consigo:
+
+[[v47-24-49]]
+
+^<<v47-24-49,49>>^ ‘Meu senhor tarda a vir’, e se põe a bater em seus companheiros e a comer e a beber com os ébrios,
+
+[[v47-24-50]]
+
+^<<v47-24-50,50>>^ o senhor desse servo virá no dia em que ele não o espera e na hora em que ele não sabe,
+
+[[v47-24-51]]
+
+^<<v47-24-51,51>>^ e o despedirá e o mandará ao destino dos hipócritas; ali haverá choro e ranger de dentes.”
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-023.adoc#v47-23-0[&#60; Capítulo Anterior] | <<v47-24-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-025.adoc#v47-25-0[Próximo Capítulo &#62;]

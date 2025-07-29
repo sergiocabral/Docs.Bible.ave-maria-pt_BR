@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v19-14-0]]
+=== Ester, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Deuteronômio 30:9: "O Senhor teu Deus te concederá a abundância em todas as obras das tuas mãos, no fruto do teu ventre, no fruto dos teus animais e no fruto da tua terra, para o teu bem; porque o Senhor tornará a alegrar-se em ti para o teu bem, como se alegrou em teus pais," Este versículo destaca a ideia de que Deus deseja a prosperidade de seu povo, incluindo bênçãos materiais.
+* Salmos 21:2-3: "Concedeste-lhe o desejo do seu coração e não lhe negaste as súplicas dos seus lábios. Pois o apresentaste com bênçãos excelentes; puseste-lhe na cabeça uma coroa de ouro fino." Este salmo fala da generosidade de Deus ao conceder ao seu povo suas petições e bênçãos.
+* Provérbios 11:10: "Quando vai bem ao justo, a cidade se alegra; quando os ímpios perecem, há júbilo." Este provérbio fala da alegria que é experimentada quando o justo é bem-sucedido e prospera.
+* Isaías 61:7: "Em lugar da vossa vergonha, tereis dupla honra; e em lugar da afronta, exultareis na vossa parte; por isso na sua terra possuirão o dobro, e terão perpétua alegria." Este versículo traz a ideia de que Deus trará honra e alegria para o seu povo, substituindo a vergonha e a afronta com bênçãos duplas e perpétua alegria.
+****
+
+[[v19-14-1]]
+
+^<<v19-14-1,1>>^ Por sua parte, a rainha Ester, tomada de uma angústia mortal, recorreu ao Senhor.
+
+[[v19-14-2]]
+
+^<<v19-14-2,2>>^ Depôs suas vestes suntuosas e vestiu-se com roupas de aflição e de luto. No lugar de essências preciosas, cobriu a cabeça com cinzas e poeira. Afligiu duramente seu corpo e por todos os lugares onde costumava alegrar-se espalhou os cabelos que se arrancava.
+
+[[v19-14-3]]
+
+^<<v19-14-3,3>>^ Dirigiu esta prece ao Senhor, Deus de Israel: “Meu Senhor, nosso Rei, assisti-me no meu desamparo, porque não tenho outro socorro senão vós
+
+[[v19-14-4]]
+
+^<<v19-14-4,4>>^ e o perigo que me ameaça eu o toco já com as mãos.
+
+[[v19-14-5]]
+
+^<<v19-14-5,5>>^ Aprendi desde a infância, no seio da minha família, que vós, Senhor, tendes escolhido Israel entre todas as nações e nossos pais entre todos os seus antepassados, para deles fazer vossa herança perpétua e que tendes executado todas as vossas promessas.
+
+[[v19-14-6]]
+
+^<<v19-14-6,6>>^ Agora pecamos na vossa presença e nos tendes entregado nas mãos de nossos inimigos,
+
+[[v19-14-7]]
+
+^<<v19-14-7,7>>^ por termos adorado seus deuses. Vós sois justo, Senhor!
+
+[[v19-14-8]]
+
+^<<v19-14-8,8>>^ Ora, presentemente não lhes basta a amargura de nossa escravidão, mas colocaram suas mãos sobre as mãos dos ídolos,
+
+[[v19-14-9]]
+
+^<<v19-14-9,9>>^ em sinal de que querem abolir o que vossos lábios decretaram, aniquilar vossa herança, fechar a boca daqueles que vos louvam, extinguir a glória de vosso templo e de vosso altar,
+
+[[v19-14-10]]
+
+^<<v19-14-10,10>>^ a fim de proclamar pela boca dos povos pagãos o poder de seus ídolos e de magnificar eternamente um rei de carne.
+
+[[v19-14-11]]
+
+^<<v19-14-11,11>>^ Ó Senhor, não entregueis vosso cetro àqueles que não existem! Que eles não se riam de nossa ruína! Fazei cair sobre eles o seu projeto e tornai um exemplo para todo aquele que por primeiro nos atacou.
+
+[[v19-14-12]]
+
+^<<v19-14-12,12>>^ Lembrai-vos de nós, Senhor! Manifestai-vos no dia da tribulação! Dai-nos coragem, Senhor, Rei dos deuses e dominador de todo principado!
+
+[[v19-14-13]]
+
+^<<v19-14-13,13>>^ Colocai em seus lábios palavras prudentes na presença do leão e fazei passar seu coração para o ódio daquele que nos é hostil, a fim de que ele pereça, ele e todos os seus parceiros.
+
+[[v19-14-14]]
+
+^<<v19-14-14,14>>^ E a nós, que a vossa mão nos livre! Assisti-me no meu abandono, a mim que não tenho senão a vós, Senhor. Conheceis tudo:
+
+[[v19-14-15]]
+
+^<<v19-14-15,15>>^ sabeis que detesto a glória dos ímpios e que tenho horror ao leito dos incircuncisos e estrangeiros.
+
+[[v19-14-16]]
+
+^<<v19-14-16,16>>^ Conheceis a necessidade a que estou reduzida e como abomino a insígnia da dignidade que está sobre minha cabeça nos dias em que devo aparecer em público. Sim, eu a abomino como um pano manchado e não a levo nos dias de meu retiro.
+
+[[v19-14-17]]
+
+^<<v19-14-17,17>>^ Vossa serva não comeu à mesa de Amã, nem honrou com sua presença os banquetes do rei, nem bebeu o vinho das libações.
+
+[[v19-14-18]]
+
+^<<v19-14-18,18>>^ Jamais, desde o dia de sua elevação até hoje, vossa serva não experimentou alegria a não ser em vós, Senhor, Deus de Abraão.
+
+[[v19-14-19]]
+
+^<<v19-14-19,19>>^ Ó Deus, que sois poderoso sobre todas as coisas, ouvi a voz daqueles que não têm outra esperança; livrai-nos das mãos dos malvados e livrai-me de minha angústia”.
+
+'''
+
+xref:019-ester/019-ester-013.adoc#v19-13-0[&#60; Capítulo Anterior] | <<v19-14-0,Topo>> | xref:019-ester/019-ester-015.adoc#v19-15-0[Próximo Capítulo &#62;]

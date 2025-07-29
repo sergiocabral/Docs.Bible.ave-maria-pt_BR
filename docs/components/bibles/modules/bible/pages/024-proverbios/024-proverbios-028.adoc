@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v24-28-0]]
+=== Provérbios, 28
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Provérbios 28 aborda temas como justiça, prosperidade, honestidade, sabedoria e disciplina. Abaixo estão cinco versículos que se relacionam com esses temas:
+* Provérbios 21:21: "Aquele que segue a justiça e a bondade encontra a vida, a justiça e a honra." Este versículo destaca a importância da justiça como um valor fundamental para alcançar uma vida plena e honrosa.
+* Salmos 112:1: "Feliz aquele que teme ao Senhor e anda em seus caminhos!" Este verso enfatiza a importância do temor do Senhor como a base para uma vida de sabedoria e prosperidade.
+* Provérbios 12:22: "Os lábios mentirosos são detestáveis ao Senhor, mas os que agem com fidelidade lhe dão prazer." Este versículo ressalta a importância da honestidade e da fidelidade como valores fundamentais para uma vida abençoada.
+* Provérbios 2:6: "Porque o Senhor dá a sabedoria; da sua boca é que vem o conhecimento e o entendimento." Este verso destaca a importância de buscar a sabedoria divina, em vez de depender apenas do nosso próprio entendimento limitado.
+* Hebreus 12:11: "Nenhuma disciplina parece ser motivo de alegria no momento, mas sim de tristeza. Mais tarde, porém, produz fruto de justiça e paz para aqueles que por ela foram exercitados." Este versículo enfatiza a importância da disciplina como um meio para alcançar a justiça e a paz.
+****
+
+[[v24-28-1]]
+
+^<<v24-28-1,1>>^ O ímpio foge sem que ninguém o persiga, mas o justo sente-se seguro como um leão.
+
+[[v24-28-2]]
+
+^<<v24-28-2,2>>^ Por causa do pecado de um país, multiplicam-se os chefes, mas sob um homem sábio e sensato a ordem perdura.^&#42;1^
+
+[[v24-28-3]]
+
+^<<v24-28-3,3>>^ Um pobre que oprime miseráveis é qual chuva torrencial, causa de fome.
+
+[[v24-28-4]]
+
+^<<v24-28-4,4>>^ Quem abandona a instrução, louva o ímpio; quem a observa, faz-lhe guerra.
+
+[[v24-28-5]]
+
+^<<v24-28-5,5>>^ Os homens maus não compreendem o que é justo; os que buscam o Senhor tudo entendem.
+
+[[v24-28-6]]
+
+^<<v24-28-6,6>>^ Mais vale um pobre que caminha na integridade do que um rico em caminhos tortuosos.
+
+[[v24-28-7]]
+
+^<<v24-28-7,7>>^ Um filho inteligente segue a instrução; quem convive com os devassos, torna-se a vergonha de seu pai.
+
+[[v24-28-8]]
+
+^<<v24-28-8,8>>^ Quem aumenta sua fortuna por usuras e logro, ajunta para o que tem piedade dos pequenos.^&#42;1^
+
+[[v24-28-9]]
+
+^<<v24-28-9,9>>^ Aquele que afasta o ouvido para não ouvir a instrução, até em sua oração é um objeto de horror.
+
+[[v24-28-10]]
+
+^<<v24-28-10,10>>^ Quem seduz os homens corretos para um mau caminho, cairá no fosso que ele mesmo cavou e para os íntegros caberá a herança da felicidade.
+
+[[v24-28-11]]
+
+^<<v24-28-11,11>>^ O rico julga-se sábio, mas o pobre inteligente penetra-o a fundo.
+
+[[v24-28-12]]
+
+^<<v24-28-12,12>>^ Quando os justos triunfam, há muita alegria; quando os ímpios se erguem, cada qual se esconde.
+
+[[v24-28-13]]
+
+^<<v24-28-13,13>>^ Quem dissimula suas faltas não há de prosperar; quem as confessa e as detesta obtém misericórdia.
+
+[[v24-28-14]]
+
+^<<v24-28-14,14>>^ Feliz daquele que vive em temor contínuo; mas o que endurece seu coração cairá na desgraça.^&#42;1^
+
+[[v24-28-15]]
+
+^<<v24-28-15,15>>^ Leão rugidor, urso esfaimado: tal é o ímpio que domina sobre um povo pobre.
+
+[[v24-28-16]]
+
+^<<v24-28-16,16>>^ Um príncipe, destituído de senso, é rico em extorsões, mas o que odeia o lucro viverá longos dias.
+
+[[v24-28-17]]
+
+^<<v24-28-17,17>>^ O homem sobre o qual pesa o sangue de outro fugirá até o fosso: não o retenhas.^&#42;1^
+
+[[v24-28-18]]
+
+^<<v24-28-18,18>>^ O que caminha na integridade será salvo; quem seguir por caminhos tortuosos cairá no fosso.
+
+[[v24-28-19]]
+
+^<<v24-28-19,19>>^ O que cultiva seu solo terá pão à vontade; o que corre atrás das vaidades se fartará de miséria.
+
+[[v24-28-20]]
+
+^<<v24-28-20,20>>^ O homem leal será cumulado de bênçãos; o que, porém, tem pressa de se enriquecer não ficará impune.
+
+[[v24-28-21]]
+
+^<<v24-28-21,21>>^ Não é bom mostrar-se parcial: há quem cometa este pecado por um pedaço de pão.
+
+[[v24-28-22]]
+
+^<<v24-28-22,22>>^ O homem invejoso precipita-se atrás da fortuna: não sabe que vai cair sobre ele a indigência.
+
+[[v24-28-23]]
+
+^<<v24-28-23,23>>^ Quem corrige alguém encontra no fim mais gratidão do que lisonjas.
+
+[[v24-28-24]]
+
+^<<v24-28-24,24>>^ Quem furta de seu pai ou de sua mãe, dizendo: “Isto não é pecado!”, é colega do bandoleiro.
+
+[[v24-28-25]]
+
+^<<v24-28-25,25>>^ O homem cobiçoso provoca contendas, mas o que se fia no Senhor será saciado.
+
+[[v24-28-26]]
+
+^<<v24-28-26,26>>^ O que se fia em seu próprio coração é um tolo; quem caminha com sabedoria escapará do perigo.
+
+[[v24-28-27]]
+
+^<<v24-28-27,27>>^ O que dá ao pobre não padecerá penúria, mas quem fecha os olhos ficará cheio de maldições.^&#42;1^
+
+[[v24-28-28]]
+
+^<<v24-28-28,28>>^ Quando se erguem os ímpios, cada qual se oculta; quando eles perecem, multiplicam-se os justos.
+
+'''
+
+xref:024-proverbios/024-proverbios-027.adoc#v24-27-0[&#60; Capítulo Anterior] | <<v24-28-0,Topo>> | xref:024-proverbios/024-proverbios-029.adoc#v24-29-0[Próximo Capítulo &#62;]

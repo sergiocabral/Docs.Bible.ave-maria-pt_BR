@@ -1,0 +1,199 @@
+include::./index.adoc[]
+
+[[v6-21-0]]
+=== Josué, 21
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 21 de Josué trata da distribuição das cidades de refúgio e das cidades levíticas aos levitas dentro das heranças das tribos de Israel. As cidades de refúgio eram cidades designadas para oferecer proteção aos que cometeram homicídio acidentalmente, enquanto as cidades levíticas eram cidades para os levitas, onde eles poderiam viver e servir ao Senhor.
+* Êxodo 21:13: "Mas se ele não armou emboscada e Deus permitiu que ele caísse em suas mãos, eu designarei um lugar para você, onde ele possa fugir." Este versículo fala sobre a ideia de um lugar seguro para alguém que cometeu homicídio acidentalmente, o que é relevante para as cidades de refúgio em Josué 21.
+* Números 35:6-7: "As cidades que vocês atribuírem aos levitas serão seis cidades de refúgio, onde alguém que matar uma pessoa possa fugir, além dessas cidades, vocês darão 42 outras cidades aos levitas." Esse versículo fala sobre a atribuição de cidades de refúgio aos levitas, o que é relevante para o capítulo 21 de Josué, onde as cidades de refúgio são distribuídas entre as tribos.
+* Levítico 25:32-33: "Com relação às cidades dos levitas, a propriedade permanente das cidades que possuírem será para sempre dos levitas; eles têm direito de resgate perpétuo por todas as suas propriedades nas cidades dos levitas." Este versículo fala sobre a propriedade permanente das cidades dos levitas, o que é relevante para o capítulo 21 de Josué, onde as cidades levíticas são distribuídas entre as tribos.
+* Números 35:12: "Terão cidades para viver e pastagens para seus rebanhos, junto com suas cidades que lhes foram dadas." Esse versículo fala sobre o direito dos levitas a cidades e pastagens para seus rebanhos, o que é relevante para o capítulo 21 de Josué, onde as cidades levíticas são distribuídas entre as tribos.
+* Números 35:26-28: "Mas se o assassino sair do limite da cidade de refúgio para a qual fugiu, e o vingador do sangue o encontrar fora do limite da cidade de refúgio e matá-lo, não haverá derramamento de sangue. O assassino deve ficar na cidade de refúgio até a morte do sumo sacerdote, que foi ungido com o óleo santo." Esse versículo fala sobre as leis que regem o assassinato acidental e a necessidade de permanecer na cidade de refúgio, o que é relevante para o capítulo 21 de Josué, onde as cidades de refúgio são distribuídas entre as tribos.
+****
+
+[[v6-21-1]]
+
+^<<v6-21-1,1>>^ Os chefes de família dos levitas vieram ter com o sacerdote Eleazar, com Josué, filho de Nun, e com os chefes de família das tribos israelitas,
+
+[[v6-21-2]]
+
+^<<v6-21-2,2>>^ e disseram-lhes em Silo, na terra de Canaã: “O Senhor ordenou por Moisés que se nos dessem cidades para habitar, e juntamente seus arredores para nossos animais”.
+
+[[v6-21-3]]
+
+^<<v6-21-3,3>>^ E os israelitas deram, pois, de suas possessões, as seguintes cidades com seus arrabaldes aos levitas, segundo a ordem do Senhor:
+
+[[v6-21-4]]
+
+^<<v6-21-4,4>>^ A sorte foi lançada para as famílias dos caatitas; e os levitas, filhos do sacerdote Aarão, obtiveram por sorte treze cidades das tribos de Judá, de Simeão e de Benjamim;
+
+[[v6-21-5]]
+
+^<<v6-21-5,5>>^ os outros filhos de Caat obtiveram por sorte dez cidades das famílias das tribos de Efraim, de Dã e da meia tribo de Manassés.
+
+[[v6-21-6]]
+
+^<<v6-21-6,6>>^ Tocaram por sorte aos filhos de Gérson treze cidades das famílias das tribos de Issacar, de Aser, de Neftali e da meia tribo de Manassés, em Basã.
+
+[[v6-21-7]]
+
+^<<v6-21-7,7>>^ Os filhos de Merari, segundo suas famílias, obtiveram doze cidades das tribos de Rúben, de Gad e de Zabulon.
+
+[[v6-21-8]]
+
+^<<v6-21-8,8>>^ Os israelitas deram aos levitas essas cidades com seus arrabaldes, repartindo-as por sorte, como o Senhor tinha ordenado Moisés.
+
+[[v6-21-9]]
+
+^<<v6-21-9,9>>^ Da tribo dos juditas e da tribo dos filhos de Simeão, deram as cidades cujos nomes seguem.
+
+[[v6-21-10]]
+
+^<<v6-21-10,10>>^ Elas foram dadas aos filhos de Aarão, dentre as famílias dos caatitas, filhos de Levi, a quem caiu a primeira sorte.
+
+[[v6-21-11]]
+
+^<<v6-21-11,11>>^ Foi-lhes dada na montanha de Judá a cidade de Arbe, pai de Enac, que é Hebron, com seus arrabaldes.
+
+[[v6-21-12]]
+
+^<<v6-21-12,12>>^ Os campos, porém, e as aldeias dessa cidade foram dados como propriedade a Caleb, filho de Jefoné.
+
+[[v6-21-13]]
+
+^<<v6-21-13,13>>^ Aos filhos do sacerdote Aarão deram Hebron e seus arrabaldes, a cidade de refúgio para o homicida, assim como Lebna com seus arredores,
+
+[[v6-21-14]]
+
+^<<v6-21-14,14>>^ Jeter com seus arredores, Estemo e seus arredores,
+
+[[v6-21-15]]
+
+^<<v6-21-15,15>>^ Holon e seus arredores, Dabir e seus arredores,
+
+[[v6-21-16]]
+
+^<<v6-21-16,16>>^ Ain e seus arredores, Jeta e seus arredores, Bet-Sames e seus arredores; nove cidades dessas duas tribos.
+
+[[v6-21-17]]
+
+^<<v6-21-17,17>>^ Da tribo de Benjamim deram-lhes Gabaon e seus arredores,
+
+[[v6-21-18]]
+
+^<<v6-21-18,18>>^ Gabaá e seus arredores, Anatot e seus arredores, Almon e seus arredores; quatro cidades.
+
+[[v6-21-19]]
+
+^<<v6-21-19,19>>^ Total das cidades dos sacerdotes, filhos de Aarão: treze cidades com seus arredores.
+
+[[v6-21-20]]
+
+^<<v6-21-20,20>>^ Os levitas das outras famílias dos filhos de Caat receberam por sorte cidades da tribo de Efraim.
+
+[[v6-21-21]]
+
+^<<v6-21-21,21>>^ Deram-lhes Siquém, cidade de refúgio para o homicida, e seus arredores, na montanha de Efraim, Gazer e seus arredores,
+
+[[v6-21-22]]
+
+^<<v6-21-22,22>>^ Cibsaim e seus arredores, Bet-Horon e seus arredores; quatro cidades.
+
+[[v6-21-23]]
+
+^<<v6-21-23,23>>^ Da tribo de Dã, foram-lhes dadas Eltece e seus arredores,
+
+[[v6-21-24]]
+
+^<<v6-21-24,24>>^ Gebiton e seus arredores, Aialon e seus arredores, Gat-Remon e seus arredores; quatro cidades.
+
+[[v6-21-25]]
+
+^<<v6-21-25,25>>^ Da meia tribo de Manassés: Tanac e seus arredores, Gat-Remon e seus arredores; duas cidades.
+
+[[v6-21-26]]
+
+^<<v6-21-26,26>>^ Total: dez cidades com seus arredores para as famílias dos outros filhos de Caat.
+
+[[v6-21-27]]
+
+^<<v6-21-27,27>>^ Aos filhos de Gérson, uma das famílias de Levi, foram dadas da meia tribo de Manassés: Golã, cidade de refúgio para o homicida, em Basã, com seus arredores, e Beesterá com seus arredores; duas cidades.
+
+[[v6-21-28]]
+
+^<<v6-21-28,28>>^ Da tribo de Issacar, Cesion e seus arredores, Daberat e seus arredores,
+
+[[v6-21-29]]
+
+^<<v6-21-29,29>>^ Jarmut e seus arredores, En-Ganin e seus arredores; quatro cidades.
+
+[[v6-21-30]]
+
+^<<v6-21-30,30>>^ Da tribo de Aser, Masal e seus arredores; Abdon e seus arredores,
+
+[[v6-21-31]]
+
+^<<v6-21-31,31>>^ Helcat e seus arredores, Roob e seus arredores; quatro cidades.
+
+[[v6-21-32]]
+
+^<<v6-21-32,32>>^ Da tribo de Neftali, Cedes na Galileia, cidade de refúgio para o homicida e seus arredores, Emat-Dor e seus arredores. Cartã e seus arredores; três cidades.
+
+[[v6-21-33]]
+
+^<<v6-21-33,33>>^ Total das cidades dos gersonitas segundo suas famílias: treze cidades com seus arredores.
+
+[[v6-21-34]]
+
+^<<v6-21-34,34>>^ Às famílias dos filhos de Merari, o resto dos levitas, deram, da tribo de Zabulon, Jecnaam e seus arredores, Carta e seus arredores,
+
+[[v6-21-35]]
+
+^<<v6-21-35,35>>^ Démna e seus arredores, Naalol e seus arredores; quatro cidades;
+
+[[v6-21-36]]
+
+^<<v6-21-36,36>>^ da tribo de Rúben, Bosor e seus arredores, Jasa e seus arredores,
+
+[[v6-21-37]]
+
+^<<v6-21-37,37>>^ Cedimot e seus arredores, Mefaat e seus arredores; quatro cidades.
+
+[[v6-21-38]]
+
+^<<v6-21-38,38>>^ Da tribo de Gad: a cidade de refúgio para o homicida, Ramot em Galaad e seus arredores, Maanaim e seus arredores,
+
+[[v6-21-39]]
+
+^<<v6-21-39,39>>^ Hesebon e seus arredores, Jazer e seus arredores; ao todo, quatro cidades.
+
+[[v6-21-40]]
+
+^<<v6-21-40,40>>^ Total das cidades dadas por sorte aos filhos de Merari, segundo suas famílias, que formavam o resto dos levitas: doze cidades.
+
+[[v6-21-41]]
+
+^<<v6-21-41,41>>^ Total das cidades dos levitas no meio das possessões dos israelitas: quarenta e oito cidades com seus arredores.
+
+[[v6-21-42]]
+
+^<<v6-21-42,42>>^ Cada uma dessas cidades tinha os seus arrabaldes ao redor: assim foi com todas as cidades.
+
+[[v6-21-43]]
+
+^<<v6-21-43,43>>^ Foi assim que o Senhor deu a Israel toda a terra que ele tinha jurado dar a seus pais. Eles possuíram-na e estabeleceram-se nela.
+
+[[v6-21-44]]
+
+^<<v6-21-44,44>>^ E o Senhor deu-lhes repouso em todo o derredor de sua terra, como tinha jurado a seus pais; nenhum dos seus inimigos pôde resistir-lhes, pois o Senhor entregou-os todos nas suas mãos.
+
+[[v6-21-45]]
+
+^<<v6-21-45,45>>^ Não falhou nenhuma de todas as boas palavras que o Senhor tinha dito a Israel. Todas se cumpriram.
+
+'''
+
+xref:006-josue/006-josue-020.adoc#v6-20-0[&#60; Capítulo Anterior] | <<v6-21-0,Topo>> | xref:006-josue/006-josue-022.adoc#v6-22-0[Próximo Capítulo &#62;]

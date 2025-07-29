@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v3-6-0]]
+=== Levítico, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Levítico 6 apresenta instruções específicas para o sacerdócio sobre o oferecimento de sacrifícios, o uso do altar e a manipulação das cinzas. Os versículos a seguir estão relacionados com esses temas:
+* Levítico 6:9: "Dá ordem a Arão e a seus filhos, dizendo: Esta é a lei do holocausto; é o holocausto queimando sobre o altar toda a noite até pela manhã, e o fogo do altar arderá nele." Este versículo é uma continuação das instruções para o oferecimento do holocausto e indica que deve ser queimado continuamente no altar, mantendo o fogo aceso.
+* Levítico 6:13: "O fogo arderá continuamente sobre o altar; não se apagará." Este versículo enfatiza a importância do fogo nunca se apagar no altar.
+* Levítico 6:25: "Fala a Arão e a seus filhos, dizendo: Esta é a lei do sacrifício pelo pecado: no lugar em que se degolam o holocausto, degolarão o sacrifício pelo pecado perante o Senhor; é coisa santíssima." Aqui, são apresentadas instruções para o oferecimento do sacrifício pelo pecado, que deve ser feito no mesmo lugar do holocausto, diante do Senhor.
+* Levítico 6:26: "O sacerdote que o oferecer por pecado o comerá; em lugar santo será comido, no átrio da tenda da congregação." Este versículo descreve que o sacerdote que oferece o sacrifício pelo pecado é quem deve comê-lo em um lugar santo.
+* Levítico 6:30: "Mas nenhum sacrifício cujo sangue é trazido à tenda da congregação para fazer expiação no santuário será comido; será queimado no fogo." Esse versículo indica que certos sacrifícios, cujo sangue é trazido ao santuário para fazer expiação, não devem ser comidos, mas queimados no fogo.
+****
+
+[[v3-6-1]]
+
+^<<v3-6-1,1>>^ O Senhor disse a Moisés: “Eis as ordenações que darás a Aarão e a seus filhos:
+
+[[v3-6-2]]
+
+^<<v3-6-2,2>>^ Esta é a lei do holocausto: O holocausto ficará na lareira do altar toda a noite até pela manhã, e se conservará ali aceso o fogo do altar.
+
+[[v3-6-3]]
+
+^<<v3-6-3,3>>^ O sacerdote, revestido da túnica de linho e com os calções de linho no corpo, tirará a cinza do fogo que houver consumido o holocausto sobre o altar e a porá ao lado.
+
+[[v3-6-4]]
+
+^<<v3-6-4,4>>^ Deixará suas vestes e porá outras para levar a cinza fora do acampamento, a um lugar limpo.
+
+[[v3-6-5]]
+
+^<<v3-6-5,5>>^ O fogo deverá ser alimentado no altar, sem jamais se apagar. O sacerdote nele acenderá lenha todas as manhãs; disporá sobre ele o holocausto e sobre ele queimará a gordura dos sacrifícios pacíficos.
+
+[[v3-6-6]]
+
+^<<v3-6-6,6>>^ O fogo se conservará perpetuamente aceso no altar, sem jamais se apagar.
+
+[[v3-6-7]]
+
+^<<v3-6-7,7>>^ Eis a lei da oblação: os filhos de Aarão a apresentarão ao Senhor diante do altar.
+
+[[v3-6-8]]
+
+^<<v3-6-8,8>>^ Tomarão dela um punhado de flor de farinha com o azeite e todo o incenso que está por cima, e queimarão sobre o altar como memorial, em oferta de agradável odor ao Senhor.
+
+[[v3-6-9]]
+
+^<<v3-6-9,9>>^ Aarão e seus filhos comerão o que sobrar da oblação. E o comerão sem fermento em um lugar santo, a saber: no átrio da tenda de reunião. Não será cozido com fermento.
+
+[[v3-6-10]]
+
+^<<v3-6-10,10>>^ Essa é a parte que lhes tenho dado das ofertas que me são feitas, consumidas pelo fogo. Essa é uma coisa santíssima, como o sacrifício pelo pecado e o sacrifício de reparação.
+
+[[v3-6-11]]
+
+^<<v3-6-11,11>>^ Todo varão entre os filhos de Aarão comerá dela. Essa é uma lei perpétua, no tocante às partes destinadas a vossos descendentes, das ofertas feitas pelo fogo ao Senhor. Todo aquele que tocar essas coisas será santo”.
+
+[[v3-6-12]]
+
+^<<v3-6-12,12>>^ O Senhor disse a Moisés:
+
+[[v3-6-13]]
+
+^<<v3-6-13,13>>^ “Eis a oferta que Aarão e seus filhos farão ao Senhor no dia em que receberem a unção: um décimo de efá de flor de farinha em oblação perpétua, metade pela manhã e metade à tarde.
+
+[[v3-6-14]]
+
+^<<v3-6-14,14>>^ Será preparada na assadeira com óleo; tu a trarás quando estiver misturada, e oferecerás os pedaços fritos da oferta dividida, em agradável odor ao Senhor.
+
+[[v3-6-15]]
+
+^<<v3-6-15,15>>^ O filho do sacerdote que lhe suceder e receber a unção fará também essa oblação. Essa é uma lei perpétua diante do Senhor; a oblação será consumida inteiramente.
+
+[[v3-6-16]]
+
+^<<v3-6-16,16>>^ Toda oferta de um sacerdote será consumida integralmente, e dela não se comerá nada”.
+
+[[v3-6-17]]
+
+^<<v3-6-17,17>>^ O Senhor disse a Moisés: “Dize o seguinte a Aarão e seus filhos:
+
+[[v3-6-18]]
+
+^<<v3-6-18,18>>^ Eis a lei do sacrifício pelo pecado: a vítima do sacrifício pelo pecado será imolada diante do Senhor, no lugar onde se imola a vítima do holocausto. Essa é uma coisa santíssima.
+
+[[v3-6-19]]
+
+^<<v3-6-19,19>>^ O sacerdote que oferecer a vítima do sacrifício pelo pecado a comerá em um lugar santo, a saber: no átrio da tenda de reunião.
+
+[[v3-6-20]]
+
+^<<v3-6-20,20>>^ Todo aquele que tocar a sua carne será santo; se se salpicar do seu sangue sobre uma veste, tu a lavarás em um lugar santo.
+
+[[v3-6-21]]
+
+^<<v3-6-21,21>>^ O vaso de barro em que se cozer a vítima será quebrado; mas, se o vaso for de bronze, será esfregado e lavado com água.
+
+[[v3-6-22]]
+
+^<<v3-6-22,22>>^ Todo varão entre os sacerdotes comerá dela; essa é uma coisa santíssima.
+
+[[v3-6-23]]
+
+^<<v3-6-23,23>>^ A vítima, porém, imolada pelo pecado, cujo sangue se leva à tenda de reunião para se fazer a expiação no santuário, não será de forma alguma comida, mas queimada no fogo”.
+
+'''
+
+xref:003-levitico/003-levitico-005.adoc#v3-5-0[&#60; Capítulo Anterior] | <<v3-6-0,Topo>> | xref:003-levitico/003-levitico-007.adoc#v3-7-0[Próximo Capítulo &#62;]

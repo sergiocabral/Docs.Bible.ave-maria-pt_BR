@@ -1,0 +1,291 @@
+include::./index.adoc[]
+
+[[v22-5-0]]
+=== I Macabeus, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 5 de 1 Macabeus narra uma série de batalhas entre os exércitos judaicos liderados por Judas Macabeu e os exércitos dos reis estrangeiros que buscavam subjugar o povo judeu. Os temas abordados incluem a coragem na batalha, a dependência de Deus em momentos de crise e a importância da liderança justa.
+* 2 Samuel 22:40: "Tu me cinges de força para a batalha; fazes curvarem-se sob mim os meus adversários." Esse versículo fala sobre a proteção que Deus dá em momentos de batalha e como Ele fortalece seus filhos para vencerem seus inimigos, o que pode ser relacionado com a luta dos judeus contra os reis estrangeiros.
+* Salmos 121:1-2: "Elevo os olhos para os montes: de onde me virá o socorro? O meu socorro vem do Senhor, que fez os céus e a terra." Esse salmo fala sobre a confiança que o salmista tem em Deus, que é seu protetor e socorro. Essa confiança na proteção divina pode ser relacionada com a dependência dos judeus em Deus durante as batalhas narradas em 1 Macabeus 5.
+* Provérbios 11:14: "Não havendo sábios conselhos, o povo cai; mas na multidão de conselheiros há segurança." Esse provérbio destaca a importância da liderança justa e sábia, que pode trazer segurança ao povo. Isso pode ser relacionado com a liderança de Judas Macabeu, que liderou o exército judeu com sabedoria e coragem.
+* Salmos 18:2: "O Senhor é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em que me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Esse salmo fala sobre a proteção que Deus dá a seus filhos, sendo seu refúgio, escudo e libertador. Essa proteção divina pode ser relacionada com a segurança que os judeus encontravam em Deus durante as batalhas narradas em 1 Macabeus 5.
+* Isaías 54:17: "Nenhuma arma forjada contra você prevalecerá, e você refutará toda língua que a acusar. Esta é a herança dos servos do Senhor, e esta é a defesa que faço do nome deles", declara o Senhor. Esse versículo fala sobre a proteção que Deus dá a seus servos, garantindo que nenhuma arma ou acusação prevalecerá contra eles. Esse tema de proteção divina pode ser relacionado com a segurança que os judeus encontravam em Deus durante as batalhas narradas em 1 Macabeus 5.
+****
+
+[[v22-5-1]]
+
+^<<v22-5-1,1>>^ Ora, ouvindo falar da reconstrução do altar e da restauração do templo, os povos circunvizinhos encolerizaram-se muito e,
+
+[[v22-5-2]]
+
+^<<v22-5-2,2>>^ tomada a resolução de exterminar toda a raça de Jacó, que viviam entre eles, puseram-se a matá-los e a persegui-los.
+
+[[v22-5-3]]
+
+^<<v22-5-3,3>>^ Por eles perseguirem desse modo Israel, Judas atacou os filhos de Esaú na Idumeia, junto de Acrabatena, infligiu-lhes uma grande derrota, esmagou-os e apoderou-se de seus despojos.
+
+[[v22-5-4]]
+
+^<<v22-5-4,4>>^ Lembrou-se igualmente da malícia dos filhos de Beã, armadilha e perigo para seu povo, por causa das emboscadas que eles armavam nos caminhos.
+
+[[v22-5-5]]
+
+^<<v22-5-5,5>>^ Foram rechaçados em suas torres, onde ele os sitiou e os exterminou, queimando as torres com todos os que ali se achavam.
+
+[[v22-5-6]]
+
+^<<v22-5-6,6>>^ Em seguida atacou os amonitas, entre os quais ele descobriu um forte exército e numeroso povo, sob a chefia de Timóteo.
+
+[[v22-5-7]]
+
+^<<v22-5-7,7>>^ Travou com eles numerosos combates e os aniquilou por completo.
+
+[[v22-5-8]]
+
+^<<v22-5-8,8>>^ Apoderou-se da cidade de Jazer e de seus arrabaldes e voltou depois à Judeia.
+
+[[v22-5-9]]
+
+^<<v22-5-9,9>>^ No entanto, as nações de Galaad se coligaram contra os israelitas, que habitavam em seu território, com a intenção de exterminá-los, mas estes se refugiaram no forte de Datema.
+
+[[v22-5-10]]
+
+^<<v22-5-10,10>>^ Dali enviaram uma mensagem a Judas e a seus irmãos, nestes termos: “As nações, que nos cercam, se uniram contra nós e querem exterminar-nos.
+
+[[v22-5-11]]
+
+^<<v22-5-11,11>>^ Prepararam-se para vir tomar a fortaleza em que nos achamos refugiados. É Timóteo quem comanda suas tropas.
+
+[[v22-5-12]]
+
+^<<v22-5-12,12>>^ Vinde, pois, agora nos livrar de suas mãos, porque muitos dos nossos foram mortos.
+
+[[v22-5-13]]
+
+^<<v22-5-13,13>>^ Mataram todos os nossos irmãos que se achavam na região de Tobias, levaram consigo suas mulheres, seus filhos e seus bens e mataram lá perto de cem mil homens.”
+
+[[v22-5-14]]
+
+^<<v22-5-14,14>>^ Quando ainda se estava lendo essa carta, eis que chegam outros mensageiros da Galileia, com as vestes em farrapos e portadores de notícias idênticas,
+
+[[v22-5-15]]
+
+^<<v22-5-15,15>>^ dizendo: “Congregaram-se contra nós nações de Ptolemaida, de Tiro e de Sidônia e de toda a Galileia das Nações, para nos destruir inteiramente”.^&#42;1^
+
+[[v22-5-16]]
+
+^<<v22-5-16,16>>^ Logo que Judas e o povo souberam da situação, organizaram uma grande assembleia para deliberar sobre o que deviam fazer em favor dos irmãos atacados e provados.
+
+[[v22-5-17]]
+
+^<<v22-5-17,17>>^ Disse Judas a seu irmão Simão: “Escolhe alguns homens e põe-te a caminho para livrar teus irmãos da Galileia. Jônatas, meu irmão, e eu iremos à terra de Galaad”.
+
+[[v22-5-18]]
+
+^<<v22-5-18,18>>^ Para guardar a Judeia deixou ali José, filho de Zacarias, e Azarias, chefe do povo, à frente do restante do exército,
+
+[[v22-5-19]]
+
+^<<v22-5-19,19>>^ com esta ordem: “Governai este povo e, até nossa volta, evitai toda luta com os gentios”.
+
+[[v22-5-20]]
+
+^<<v22-5-20,20>>^ A Simão foram dados três mil homens para se dirigir à Galileia, e a Judas oito mil para ocupar a terra de Galaad.
+
+[[v22-5-21]]
+
+^<<v22-5-21,21>>^ Simão tomou, portanto, o caminho da Galileia e travou muitos combates, esmagando diante de si as nações,
+
+[[v22-5-22]]
+
+^<<v22-5-22,22>>^ as quais perseguiu até as portas de Ptolemaida. Perto de três mil gentios caíram e ele se apoderou de seus despojos.^&#42;1^
+
+[[v22-5-23]]
+
+^<<v22-5-23,23>>^ Com grandes manifestações de regozijo, conduziu à Judeia os judeus que se achavam na Galileia e em Arbates, bem como suas mulheres, seus filhos e tudo o que eles possuíam.
+
+[[v22-5-24]]
+
+^<<v22-5-24,24>>^ Por seu lado, Judas Macabeu e seu irmão Jônatas atravessaram o Jordão e marcharam três dias pelo deserto.
+
+[[v22-5-25]]
+
+^<<v22-5-25,25>>^ Encontraram-se com os nabateus, os quais se aproximaram deles pacificamente e lhes contaram tudo aquilo que tinha acontecido a seus irmãos em Galaad,
+
+[[v22-5-26]]
+
+^<<v22-5-26,26>>^ dizendo que muitos dentre eles haviam sido encerrados em Bosora e em Bosor, em Alimas, em Casfo, em Maced e em Carnain, todas elas cidades grandes e fortificadas.
+
+[[v22-5-27]]
+
+^<<v22-5-27,27>>^ “Eles estão também reunidos – acrescentaram eles – nas outras cidades de Galaad. Seus inimigos se preparam para atacar amanhã suas fortificações, apoderar-se deles e exterminá-los num só dia.”
+
+[[v22-5-28]]
+
+^<<v22-5-28,28>>^ Judas mudou de caminho e atravessou o deserto para alcançar Bosora de improviso. Tomou a cidade, mandou passar a fio de espada todos os homens, apoderou-se dos espólios e incendiou a cidade.
+
+[[v22-5-29]]
+
+^<<v22-5-29,29>>^ Na mesma noite, partiu e atacou a fortaleza.
+
+[[v22-5-30]]
+
+^<<v22-5-30,30>>^ No entanto, ao romper do dia, seus homens, erguendo os olhos, viram uma multidão incalculável carregando escadas e máquinas para escalar de assalto a fortaleza. Era o ataque aos sitiados.
+
+[[v22-5-31]]
+
+^<<v22-5-31,31>>^ Enquanto a cidade erguia um clamor, misturado ao som das trombetas e um ruído formidável, viu Judas que o ataque se travava
+
+[[v22-5-32]]
+
+^<<v22-5-32,32>>^ e disse a seus homens: “Pelejai hoje por vossos irmãos”.
+
+[[v22-5-33]]
+
+^<<v22-5-33,33>>^ Separou-os em três batalhões e apareceu na retaguarda do inimigo, tocando as trombetas e erguendo preces em alta voz.
+
+[[v22-5-34]]
+
+^<<v22-5-34,34>>^ O exército de Timóteo conheceu que era Macabeu e fugiu diante dele. Sofreu uma grande derrota e tombaram nesse dia oito mil homens.
+
+[[v22-5-35]]
+
+^<<v22-5-35,35>>^ Judas voltou-se em seguida para Alimas. Atacou-a e conquistou-a de assalto. Matou todos os homens, tomou seus despojos e incendiou-a.
+
+[[v22-5-36]]
+
+^<<v22-5-36,36>>^ Dali continuou e apoderou-se de Casfo, de Maced, de Bosor e das outras cidades do Galaad.
+
+[[v22-5-37]]
+
+^<<v22-5-37,37>>^ Depois de tudo o que temos acabado de dizer, Timóteo reuniu um novo exército, acampou do outro lado da corrente, defronte de Rafon.
+
+[[v22-5-38]]
+
+^<<v22-5-38,38>>^ Imediatamente Judas mandou alguém espionar sua posição e trouxeram-lhe a notícia: “Todas as nações circunvizinhas se uniram contra nós formando um poderoso exército.
+
+[[v22-5-39]]
+
+^<<v22-5-39,39>>^ Tomaram em seu auxílio mercenários árabes e se estabeleceram do outro lado do rio, prontos a atravessá-lo, para vir atacar-te”. Judas foi então contra ele.
+
+[[v22-5-40]]
+
+^<<v22-5-40,40>>^ Ao chegar Judas com suas tropas à torrente, disse Timóteo, por sua vez, aos oficiais de seu exército: “Se ele atravessar primeiro a torrente contra nós, não lhe poderemos resistir, porque terá vantagem sobre nós.
+
+[[v22-5-41]]
+
+^<<v22-5-41,41>>^ Mas, se ele temer passar e acampar do outro lado do rio, atravessaremos e teremos vantagem sobre ele!”.
+
+[[v22-5-42]]
+
+^<<v22-5-42,42>>^ Ora, logo que chegaram à torrente, Judas dispôs ao longo do rio os escribas do povo, com a seguinte ordem: “Não deixeis ninguém se instalar por aqui, mas venham todos ao combate”.^&#42;1^
+
+[[v22-5-43]]
+
+^<<v22-5-43,43>>^ E foi ele o primeiro a se arrojar e todo o povo o seguiu. Os gentios foram derrotados diante de seus olhos, lançaram suas armas e fugiram para o templo de Carnain.
+
+[[v22-5-44]]
+
+^<<v22-5-44,44>>^ Os judeus, porém, apoderaram-se da cidade e incendiaram o templo com todos aqueles que lá se achavam. Carnain foi assolada e ninguém pôde mais resistir a Judas.
+
+[[v22-5-45]]
+
+^<<v22-5-45,45>>^ Este reuniu então todos os judeus da terra do Galaad, do menor ao maior, as mulheres, as crianças e seus haveres, uma multidão enorme que ele resolveu conduzir à terra de Judá.
+
+[[v22-5-46]]
+
+^<<v22-5-46,46>>^ Caminharam até Efron, cidade grande e bem fortificada, que se achava no caminho. Não se podia contorná-la nem pela direita, nem pela esquerda, mas era preciso atravessá-la.
+
+[[v22-5-47]]
+
+^<<v22-5-47,47>>^ Os habitantes fecharam as portas e se entrincheiraram com pedras. Judas, todavia, enviou-lhes mensageiros com palavras de paz:
+
+[[v22-5-48]]
+
+^<<v22-5-48,48>>^ “Atravessaremos vossa terra para irmos à nossa. Ninguém vos molestará, apenas queremos passar”. Mas eles não lhes quiseram abrir o acesso.
+
+[[v22-5-49]]
+
+^<<v22-5-49,49>>^ Então, Judas ordenou que cada um em seu posto se dispusesse para a luta.
+
+[[v22-5-50]]
+
+^<<v22-5-50,50>>^ Todos os homens do exército se prepararam, pois. Durante todo o dia e toda a noite a cidade foi atacada, até cair em suas mãos.
+
+[[v22-5-51]]
+
+^<<v22-5-51,51>>^ Passaram a fio de espada todos os homens, destruíram completamente a cidade, apoderaram-se dos espólios e atravessaram por cima dos seus cadáveres.
+
+[[v22-5-52]]
+
+^<<v22-5-52,52>>^ Depois a caravana passou o Jordão, para chegar à grande planície, em frente de Betsã.
+
+[[v22-5-53]]
+
+^<<v22-5-53,53>>^ Em caminho, Judas não cessava de ajuntar os retardatários e de encorajar a multidão até que chegassem à terra de Judá.
+
+[[v22-5-54]]
+
+^<<v22-5-54,54>>^ Escalaram o monte Sião com alegria e regozijo e ofereceram holocaustos por terem voltado em paz, sem que nenhum deles tivesse sucumbido.
+
+[[v22-5-55]]
+
+^<<v22-5-55,55>>^ Ora, enquanto Judas se achava em Galaad com Jônatas, e seu irmão Simão na Galileia diante de Ptolemaida,
+
+[[v22-5-56]]
+
+^<<v22-5-56,56>>^ José, filho de Zacarias, e Azarias, à frente de suas tropas, souberam de seus feitos heroicos e de suas proezas.
+
+[[v22-5-57]]
+
+^<<v22-5-57,57>>^ “Façamos também célebre nosso nome – disse um para o outro – e vamos combater nações vizinhas.”
+
+[[v22-5-58]]
+
+^<<v22-5-58,58>>^ Transmitiram ordens às forças, que eles tinham consigo e marcharam contra Jâmnia.
+
+[[v22-5-59]]
+
+^<<v22-5-59,59>>^ Mas Górgias saiu da cidade com seus homens para opor-se à sua investida.
+
+[[v22-5-60]]
+
+^<<v22-5-60,60>>^ José e Azarias foram postos em fuga e perseguidos até as fronteiras da Judeia. Pereceram nesse dia cerca de dois mil homens de Israel, e foi grande a derrota do povo,
+
+[[v22-5-61]]
+
+^<<v22-5-61,61>>^ isso porque não ouviram Judas, supondo que mostrariam seu valor,
+
+[[v22-5-62]]
+
+^<<v22-5-62,62>>^ mas não pertenciam à raça desses homens a quem era dado salvar Israel.
+
+[[v22-5-63]]
+
+^<<v22-5-63,63>>^ O valente Judas e seus irmãos foram de modo particular honrados por todo o povo de Israel e por todas as nações onde se ouviam seus nomes.
+
+[[v22-5-64]]
+
+^<<v22-5-64,64>>^ Vinham em grande número para aclamá-los.
+
+[[v22-5-65]]
+
+^<<v22-5-65,65>>^ Entrementes, Judas e seus irmãos partiram para combater os filhos de Esaú, que habitavam no sul. Abateu Hebron e seus arrabaldes, destruiu as fortificações e queimou todas as torres dos arredores.
+
+[[v22-5-66]]
+
+^<<v22-5-66,66>>^ Partiu ainda para atingir a terra dos estrangeiros e atravessou Marisa.
+
+[[v22-5-67]]
+
+^<<v22-5-67,67>>^ Naquele dia, pereceram alguns sacerdotes no combate, por terem querido mostrar sua valentia, saindo imprudentemente para travarem combate.
+
+[[v22-5-68]]
+
+^<<v22-5-68,68>>^ Judas voltou para Azoto, na terra dos estrangeiros, derrubou seus altares, queimou seus ídolos, sujeitou suas cidades à pilhagem e em seguida voltou para a terra de Judá.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-004.adoc#v22-4-0[&#60; Capítulo Anterior] | <<v22-5-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-006.adoc#v22-6-0[Próximo Capítulo &#62;]

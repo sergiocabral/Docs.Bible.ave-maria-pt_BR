@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v30-19-0]]
+=== Jeremias, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 19 fala sobre a mensagem que Deus deu a Jeremias para transmitir ao povo de Judá e aos habitantes de Jerusalém. Deus ordenou a Jeremias que comprasse uma jarra de barro e que fosse ao vale de Ben-Hinom para proclamar a mensagem que o Senhor havia dado. A mensagem era que Deus traria sobre Judá e Jerusalém uma destruição tão grande que os ouvidos de quem ouvisse sobre isso ficariam zumbindo. Aqui estão cinco versículos relacionados com os temas abordados em Jeremias 19:
+* Isaías 29:16: "Vocês desviam as coisas, como se o oleiro fosse igual ao barro! Acaso o objeto que o artista faz dirá dele: ‘Ele não me fez’? Acaso o vaso que o oleiro forma dirá dele: ‘Ele nada entende’?” Este versículo enfatiza que Deus é o oleiro e que nós somos o barro em Suas mãos. Assim como o oleiro tem o poder de moldar o barro, Deus tem o poder de moldar nossas vidas.
+* Isaías 45:9: "Ai daquele que contende com o seu Criador! O caco entre outros cacos de barro! Acaso o barro pode dizer ao que o modela: ‘Que é que estás fazendo?’ ou: ‘Não tens habilidade’?" Este versículo continua com a analogia do oleiro e do barro, enfatizando que não devemos questionar ou contender com Deus, o nosso Criador.
+* Romanos 9:21: "Ou não tem o oleiro direito sobre o barro, para dele fazer um vaso para honra e outro, para desonra?" Este versículo também fala sobre Deus como oleiro e nos lembra que Ele tem o direito de moldar nossas vidas da maneira que Ele quiser.
+* 2 Coríntios 4:7: "Temos, porém, este tesouro em vasos de barro, para que a excelência do poder seja de Deus e não de nós." Este versículo fala sobre o fato de que, embora sejamos fracos e frágeis como vasos de barro, temos um tesouro em nós que vem de Deus.
+* Apocalipse 2:27: "E ele as regerá com cetro de ferro e as despedaçará como objetos de barro;” Este versículo fala sobre o poder e autoridade que Cristo terá sobre aqueles que se recusam a se arrepender de seus pecados.
+****
+
+[[v30-19-1]]
+
+^<<v30-19-1,1>>^ Eis o que me diz o Senhor: “Vai à casa do oleiro e compra um vaso de barro. Tomarás então contigo anciãos do povo e anciãos dos sacerdotes,
+
+[[v30-19-2]]
+
+^<<v30-19-2,2>>^ e te dirigirás ao vale de Ben-Enom, próximo da saída da Porta dos Cacos. E lá pronunciarás o oráculo que te ditar.
+
+[[v30-19-3]]
+
+^<<v30-19-3,3>>^ Tu lhes dirás, então: Escutai a palavra do Senhor, reis de Judá e vós todos, habitantes de Jerusalém. Eis o que diz o Senhor dos exércitos, Deus de Israel: Sobre este lugar vou mandar desgraça tamanha que fará tinir os ouvidos a quem dela ouvir falar.
+
+[[v30-19-4]]
+
+^<<v30-19-4,4>>^ Abandonaram-me, profanaram este lugar e ofereceram incenso a outros deuses que nem eles conheceram nem seus pais e nem os reis de Judá. Macularam este lugar com o sangue dos inocentes,
+
+[[v30-19-5]]
+
+^<<v30-19-5,5>>^ e ergueram o lugar alto a Baal para, em honra dele, queimarem os seus filhos em holocausto. Tais coisas não as prescrevi, delas não falei e nem ao pensamento me vieram.
+
+[[v30-19-6]]
+
+^<<v30-19-6,6>>^ Por tudo isso, virão dias – oráculo do Senhor – em que este lugar não mais se chamará Tofet, nem vale de Ben-Enom, mas sim, vale da Matança.
+
+[[v30-19-7]]
+
+^<<v30-19-7,7>>^ Aí aniquilarei os planos de Judá e Jerusalém, e ordenarei que caiam seus habitantes sob a espada dos inimigos e pelas mãos daqueles que odeiam a sua vida. Entregarei seus cadáveres como pasto às aves do céu e aos animais da terra.
+
+[[v30-19-8]]
+
+^<<v30-19-8,8>>^ Farei dessa cidade objeto de assombro, causa de zombaria. E a vista de suas chagas será motivo de escárnio a quem por ela passar.
+
+[[v30-19-9]]
+
+^<<v30-19-9,9>>^ Na angústia e na miséria a que a reduzirão os inimigos que lhe odeiam a vida, se verá mesmo compelida a comer a carne de seus filhos e de suas filhas; e eles se devorarão uns aos outros.
+
+[[v30-19-10]]
+
+^<<v30-19-10,10>>^ Em seguida, sob o olhar dos que forem contigo, partirás a bilha,
+
+[[v30-19-11]]
+
+^<<v30-19-11,11>>^ exclamando: Eis o que diz o Senhor dos exércitos: quebrarei este povo e a cidade como se parte um vaso de barro, sem que possa ser refeito. (E, por falta de outro local, será enterrado em Tofet.)
+
+[[v30-19-12]]
+
+^<<v30-19-12,12>>^ Eis o que farei desse lugar – oráculo do Senhor – e dos seus habitantes: de tal modo o farei, que o tornarei semelhante a Tofet.^&#42;1^
+
+[[v30-19-13]]
+
+^<<v30-19-13,13>>^ As casas de Jerusalém e os palácios dos reis de Judá ficarão imundos como o solo de Tofet, casas sobre cujos tetos foi queimado o incenso às milícias dos céus e oferecidas libações a deuses estranhos”.
+
+[[v30-19-14]]
+
+^<<v30-19-14,14>>^ Regressou então Jeremias de Tofet, aonde o Senhor o enviara a profetizar. De pé, no átrio do Templo do Senhor, exclamou à multidão:
+
+[[v30-19-15]]
+
+^<<v30-19-15,15>>^ “Eis o que diz o Senhor dos exércitos, o Deus de Israel: Vou despejar sobre esta cidade e sobre as aldeias de sua jurisdição os flagelos de que as ameacei, porque seus habitantes endureceram a cerviz para não acatar minhas palavras”.
+
+'''
+
+xref:030-jeremias/030-jeremias-018.adoc#v30-18-0[&#60; Capítulo Anterior] | <<v30-19-0,Topo>> | xref:030-jeremias/030-jeremias-020.adoc#v30-20-0[Próximo Capítulo &#62;]

@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v3-21-0]]
+=== Levítico, 21
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 21 do livro de Levítico trata das leis e exigências para os sacerdotes em relação à sua pureza e santidade, a fim de que possam se aproximar de Deus e servir no templo. Os versículos selecionados são os seguintes:
+* Números 16:5: "E falou a Corá e a todo o seu grupo, dizendo: Amanhã de manhã, o Senhor fará saber quem é seu, e quem é o santo, e quem fará chegar a ele; e a quem ele escolher, ele fará chegar a ele." Este versículo mostra que Deus escolhe aqueles que são santos e dignos de se aproximar dele, e que ele fará essa escolha clara.
+* Deuteronômio 23:1: "Não entrará na congregação do Senhor aquele que tiver os testículos feridos ou mutilados, ou o membro viril cortado." Este versículo destaca a importância da integridade física para o sacerdote, que deve estar completo e sem defeito para se aproximar de Deus.
+* Isaías 52:11: "Apartai-vos, apartai-vos, saí daí, não toqueis em coisa imunda; saí do meio dela, purificai-vos, vós que levais os vasos do Senhor." Este versículo enfatiza a importância da pureza para aqueles que carregam os vasos do Senhor, ou seja, aqueles que servem em seu templo.
+* Efésios 5:27: "Para que a apresente a si mesmo igreja gloriosa, sem mácula, nem ruga, nem qualquer coisa semelhante, mas santa e irrepreensível." Este versículo descreve o ideal de santidade para a igreja, que deve ser sem mancha ou defeito, e enfatiza a importância da pureza para se aproximar de Deus.
+* Hebreus 7:26: "Porque nos convinha tal sumo sacerdote, santo, inocente, imaculado, separado dos pecadores e feito mais elevado do que os céus." Este versículo descreve Jesus como o sumo sacerdote perfeito, que é santo, inocente e imaculado, e é separado dos pecadores para se aproximar de Deus em nosso favor. Ele exemplifica a importância da pureza e da santidade para o serviço sagrado.
+****
+
+[[v3-21-1]]
+
+^<<v3-21-1,1>>^ O Senhor disse a Moisés: “Dize aos sacerdotes, filhos de Aarão, o seguinte: Ninguém será considerado como impuro no meio de seu povo por causa de um morto,
+
+[[v3-21-2]]
+
+^<<v3-21-2,2>>^ exceto quando se trate de seu parente próximo, mãe, pai, filho, filha, irmão,
+
+[[v3-21-3]]
+
+^<<v3-21-3,3>>^ irmã virgem que não se casou e vive junto dele. Por ela poderá contaminar-se.
+
+[[v3-21-4]]
+
+^<<v3-21-4,4>>^ Ele, sendo chefe no meio de seu povo, não se tornará impuro, para não se profanar.
+
+[[v3-21-5]]
+
+^<<v3-21-5,5>>^ Os sacerdotes não rasparão a cabeça, nem os lados de sua barba, e não farão incisões em sua carne.
+
+[[v3-21-6]]
+
+^<<v3-21-6,6>>^ Serão santos para o seu Deus e não profanarão o seu nome, porque oferecem ao Senhor os sacrifícios consumidos pelo fogo, o pão de seu Deus. Serão santos.
+
+[[v3-21-7]]
+
+^<<v3-21-7,7>>^ Não desposarão uma mulher prostituída ou desonrada, nem uma mulher repudiada pelo marido, porque são santos para o seu Deus.
+
+[[v3-21-8]]
+
+^<<v3-21-8,8>>^ Terás, pois, o sacerdote por santo, porque ele oferece o pão de teu Deus. Ele será santo para ti, porque eu, o Senhor que vos santifico, sou santo.
+
+[[v3-21-9]]
+
+^<<v3-21-9,9>>^ Se a filha de um sacerdote se desonrar pela prostituição, desonrará seu pai e será queimada no fogo.
+
+[[v3-21-10]]
+
+^<<v3-21-10,10>>^ O sumo sacerdote, superior a seus irmãos, sobre cuja cabeça se derramou o óleo da unção, e que foi estabelecido para revestir as vestes sagradas, não descobrirá a sua cabeça, e não rasgará as suas vestes.
+
+[[v3-21-11]]
+
+^<<v3-21-11,11>>^ Não se aproximará de morto algum; e não se contaminará por seu pai, nem por sua mãe.
+
+[[v3-21-12]]
+
+^<<v3-21-12,12>>^ Não sairá do santuário de seu Deus, e não o profanará, porque o óleo da unção de seu Deus está sobre ele como um diadema. Eu sou o Senhor.
+
+[[v3-21-13]]
+
+^<<v3-21-13,13>>^ Tomará por mulher uma virgem.
+
+[[v3-21-14]]
+
+^<<v3-21-14,14>>^ Não desposará nem viúva, nem mulher repudiada, nem mulher prostituída ou desonrada, mas desposará uma virgem do meio de seu povo.
+
+[[v3-21-15]]
+
+^<<v3-21-15,15>>^ Não desonrará sua linhagem no meio de seu povo, porque sou eu, o Senhor, que o santifico”.
+
+[[v3-21-16]]
+
+^<<v3-21-16,16>>^ O Senhor disse a Moisés:
+
+[[v3-21-17]]
+
+^<<v3-21-17,17>>^ “Dize a Aarão o seguinte: Homem algum de tua linhagem, por todas as gerações, que tenha algum defeito físico, oferecerá o pão de seu Deus.
+
+[[v3-21-18]]
+
+^<<v3-21-18,18>>^ Desse modo, serão excluídos todos aqueles que tiverem uma deformidade: cegos, coxos, mutilados, pessoas de membros desproporcionais,
+
+[[v3-21-19]]
+
+^<<v3-21-19,19>>^ ou tenha uma fratura no pé ou na mão,
+
+[[v3-21-20]]
+
+^<<v3-21-20,20>>^ corcundas ou anões, os que tiverem uma mancha no olho, ou a sarna, uma inflamação, ou os testículos esmagados.
+
+[[v3-21-21]]
+
+^<<v3-21-21,21>>^ Homem algum da linhagem de Aarão, o sacerdote, que for deformado, oferecerá os sacrifícios consumidos pelo fogo. Sendo vítima de uma deformidade, não poderá apresentar-se para oferecer o pão de seu Deus.
+
+[[v3-21-22]]
+
+^<<v3-21-22,22>>^ Mas poderá comer o pão de seu Deus, proveniente das ofertas santíssimas e das ofertas santas.
+
+[[v3-21-23]]
+
+^<<v3-21-23,23>>^ Não se aproximará, porém, do véu nem do altar, porque é deformado. Não profanará meus santuários, porque eu sou o Senhor que os santifico”.
+
+[[v3-21-24]]
+
+^<<v3-21-24,24>>^ Tais foram as palavras de Moisés a Aarão e a seus filhos, bem como a todos os israelitas.
+
+'''
+
+xref:003-levitico/003-levitico-020.adoc#v3-20-0[&#60; Capítulo Anterior] | <<v3-21-0,Topo>> | xref:003-levitico/003-levitico-022.adoc#v3-22-0[Próximo Capítulo &#62;]

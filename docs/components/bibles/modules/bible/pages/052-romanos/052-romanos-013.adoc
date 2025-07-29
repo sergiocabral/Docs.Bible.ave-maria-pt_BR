@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v52-13-0]]
+=== Romanos, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 13 da Epístola aos Romanos aborda o tema da submissão às autoridades governamentais. Paulo incentiva os cristãos a obedecerem às autoridades, pois elas foram instituídas por Deus para manter a ordem na sociedade. Além disso, ele enfatiza que aqueles que se rebelam contra as autoridades estão se rebelando contra a própria ordem de Deus.
+* 1 Pedro 2:13-14: "Por causa do Senhor, sujeitai-vos a toda instituição humana, quer seja ao rei, como soberano, quer às autoridades, como enviadas por ele para punir os malfeitores e elogiar os que fazem o bem." Este versículo reforça a ideia de que as autoridades foram instituídas por Deus para manter a ordem na sociedade, e que os cristãos devem se submeter a elas.
+* Atos 5:29: "Respondeu Pedro e os apóstolos: Mais importa obedecer a Deus do que aos homens." Embora Paulo incentive a submissão às autoridades governamentais em Romanos 13, este versículo nos mostra que há momentos em que a obediência a Deus é mais importante do que a obediência às autoridades.
+* Tito 3:1: "Lembra-lhes que se sujeitem aos governantes e autoridades, sejam obedientes, estejam sempre prontos a fazer tudo o que é bom." Este versículo também enfatiza a importância da submissão às autoridades governamentais.
+* 1 Timóteo 2:1-2: "Recomendo, antes de tudo, que se façam súplicas, orações, intercessões e ações de graças por todos os homens; pelos reis e por todos os que exercem autoridade, para que tenhamos uma vida tranquila e pacífica, com toda a piedade e dignidade." Paulo incentiva a oração pelas autoridades, para que a sociedade possa ter paz e tranquilidade.
+* Hebreus 13:17: "Obedecei aos vossos guias e sede submissos para com eles, pois velam pelas vossas almas como quem há de prestar contas delas." Este versículo reforça a ideia de que as autoridades têm a responsabilidade de cuidar da sociedade, e que os cristãos devem se submeter a elas para que possam viver em paz e segurança.
+****
+
+[[v52-13-1]]
+
+^<<v52-13-1,1>>^ Cada qual seja submisso às autoridades constituídas, porque não há autoridade que não venha de Deus; as que existem foram instituídas por Deus.
+
+[[v52-13-2]]
+
+^<<v52-13-2,2>>^ Assim, aquele que resiste à autoridade opõe-se à ordem estabelecida por Deus; e os que a ela se opõem atraem sobre si a condenação.
+
+[[v52-13-3]]
+
+^<<v52-13-3,3>>^ Em verdade, as autoridades inspiram temor, não porém a quem pratica o bem, e sim a quem faz o mal! Queres não ter o que temer a autoridade? Faze o bem e terás o seu louvor.
+
+[[v52-13-4]]
+
+^<<v52-13-4,4>>^ Porque ela é instrumento de Deus para teu bem. Mas, se fizeres o mal, teme, porque não é sem razão que leva a espada: é ministro de Deus, para fazer justiça e para exercer a ira contra aquele que pratica o mal.
+
+[[v52-13-5]]
+
+^<<v52-13-5,5>>^ Portanto, é necessário submeter-se, não somente por temor do castigo, mas também por dever de consciência.
+
+[[v52-13-6]]
+
+^<<v52-13-6,6>>^ É também por essa razão que pagais os impostos, pois os magistrados são ministros de Deus, quando exercem pontualmente esse ofício.
+
+[[v52-13-7]]
+
+^<<v52-13-7,7>>^ Pagai a cada um o que lhe compete: o imposto, a quem deveis o imposto; o tributo, a quem deveis o tributo; o temor e o respeito, a quem deveis o temor e o respeito.
+
+[[v52-13-8]]
+
+^<<v52-13-8,8>>^ A ninguém fiqueis devendo coisa alguma, a não ser o amor recíproco; porque aquele que ama o seu próximo cumpriu toda a Lei.
+
+[[v52-13-9]]
+
+^<<v52-13-9,9>>^ Pois os preceitos: Não cometerás adultério, não matarás, não furtarás, não cobiçarás, e ainda outros mandamentos que existam, eles se resumem nestas palavras: Amarás o teu próximo como a ti mesmo.^&#42;1^
+
+[[v52-13-10]]
+
+^<<v52-13-10,10>>^ A caridade não pratica o mal contra o próximo. Portanto, a caridade é o pleno cumprimento da Lei.
+
+[[v52-13-11]]
+
+^<<v52-13-11,11>>^ Isso é tanto mais importante porque sabeis em que tempo vivemos. Já é hora de despertardes do sono. A salvação está mais perto do que quando abraçamos a fé.^&#42;1^
+
+[[v52-13-12]]
+
+^<<v52-13-12,12>>^ A noite vai adiantada, e o dia vem chegando. Despojemo-nos das obras das trevas e vistamo-nos das armas da luz.
+
+[[v52-13-13]]
+
+^<<v52-13-13,13>>^ Comportemo-nos honestamente, como em pleno dia: nada de orgias, nada de bebedeira; nada de desonestidades nem dissoluções; nada de contendas, nada de ciúmes.
+
+[[v52-13-14]]
+
+^<<v52-13-14,14>>^ Ao contrário, revesti-vos do Senhor Jesus Cristo e não façais caso da carne nem lhe satisfaçais aos apetites.^&#42;1^
+
+'''
+
+xref:052-romanos/052-romanos-012.adoc#v52-12-0[&#60; Capítulo Anterior] | <<v52-13-0,Topo>> | xref:052-romanos/052-romanos-014.adoc#v52-14-0[Próximo Capítulo &#62;]

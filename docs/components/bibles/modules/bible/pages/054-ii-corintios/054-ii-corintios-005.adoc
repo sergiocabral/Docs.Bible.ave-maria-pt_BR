@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v54-5-0]]
+=== II Coríntios, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 5 de 2 Coríntios fala sobre a perspectiva cristã da morte e da vida eterna. Paulo discute a importância de estar em Cristo e o impacto que isso tem em nossa vida e em nosso destino final. Também fala sobre nossa responsabilidade como embaixadores de Cristo em compartilhar a mensagem da reconciliação com Deus. Aqui estão cinco versículos relacionados com esses temas:
+* Romanos 8:38-39: "Porque estou certo de que, nem a morte, nem a vida, nem anjos, nem principados, nem coisas presentes, nem futuras, nem potestades, nem a altura, nem a profundidade, nem qualquer outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor." Este versículo fala sobre a segurança que temos em Cristo, que nada pode nos separar do amor de Deus, nem mesmo a morte.
+* João 11:25-26: "Disse-lhe Jesus: Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá; e todo o que vive e crê em mim não morrerá, eternamente. Crês isto?" Jesus promete vida eterna àqueles que creem nele, mesmo que morram fisicamente.
+* Colossenses 3:4: "Quando Cristo, que é a nossa vida, se manifestar, então também vós vos manifestareis com ele em glória." Este versículo fala sobre a nossa identidade em Cristo e o fato de que nossa vida está nele. Quando ele voltar, estaremos com ele em glória.
+* 2 Timóteo 1:10: "Mas que agora foi manifestada pela aparição de nosso Salvador Jesus Cristo, o qual aboliu a morte, e trouxe à luz a vida e a incorrupção pelo evangelho." Jesus aboliu a morte e trouxe vida eterna através do evangelho.
+* 2 Coríntios 5:20: "De sorte que somos embaixadores da parte de Cristo, como se Deus por nós rogasse. Rogamo-vos, pois, da parte de Cristo, que vos reconcilieis com Deus." Este versículo fala sobre a nossa responsabilidade como embaixadores de Cristo, de compartilhar a mensagem da reconciliação com Deus com aqueles ao nosso redor.
+****
+
+[[v54-5-1]]
+
+^<<v54-5-1,1>>^ Sabemos, com efeito, que ao se desfazer a tenda que habitamos neste mundo, recebemos uma casa preparada por Deus e não por mãos humanas, uma habitação eterna no céu.^&#42;1^
+
+[[v54-5-2]]
+
+^<<v54-5-2,2>>^ E por isso suspiramos e anelamos ser sobrevestidos da nossa habitação celeste,^&#42;1^
+
+[[v54-5-3]]
+
+^<<v54-5-3,3>>^ contanto que sejamos achados vestidos e não despidos.^&#42;1^
+
+[[v54-5-4]]
+
+^<<v54-5-4,4>>^ Pois, enquanto permanecemos nesta tenda, gememos oprimidos: desejamos ser não despojados, mas revestidos de uma veste nova por cima da outra, de modo que o que há de mortal em nós seja absorvido pela vida.
+
+[[v54-5-5]]
+
+^<<v54-5-5,5>>^ Aquele que nos formou para este destino é Deus mesmo, que nos deu por penhor o seu Espírito.
+
+[[v54-5-6]]
+
+^<<v54-5-6,6>>^ Por isso, estamos sempre cheios de confiança. Sabemos que todo o tempo que passamos no corpo é um exílio longe do Senhor.
+
+[[v54-5-7]]
+
+^<<v54-5-7,7>>^ Andamos na fé e não na visão.
+
+[[v54-5-8]]
+
+^<<v54-5-8,8>>^ Estamos, repito, cheios de confiança, preferindo ausentar-nos deste corpo para ir habitar junto do Senhor.
+
+[[v54-5-9]]
+
+^<<v54-5-9,9>>^ É também por isso que, vivos ou mortos, nos esforçamos por agradar-lhe.^&#42;1^
+
+[[v54-5-10]]
+
+^<<v54-5-10,10>>^ Porque teremos de comparecer diante do tribunal de Cristo. Ali cada um receberá o que mereceu, conforme o bem ou o mal que tiver feito enquanto estava no corpo.
+
+[[v54-5-11]]
+
+^<<v54-5-11,11>>^ Compenetrados do temor do Senhor, procuramos persuadir os homens. Estamos a descoberto aos olhos de Deus, e espero que o estejamos também ante as vossas consciências.
+
+[[v54-5-12]]
+
+^<<v54-5-12,12>>^ Não estamos a gabar-nos ante os vossos olhos, mas damo-vos ocasião de vos gloriardes por nossa causa. Tereis assim o que responder àqueles que se prevalecem das aparências e não do que há no coração.
+
+[[v54-5-13]]
+
+^<<v54-5-13,13>>^ De fato, se ficamos arrebatados fora dos sentidos, é por Deus; e, se raciocinamos sobriamente, é por vós.^&#42;1^
+
+[[v54-5-14]]
+
+^<<v54-5-14,14>>^ O amor de Cristo nos constrange, considerando que, se um só morreu por todos, logo todos morreram.
+
+[[v54-5-15]]
+
+^<<v54-5-15,15>>^ Sim, ele morreu por todos, a fim de que os que vivem já não vivam para si, mas para aquele que por eles morreu e ressurgiu.
+
+[[v54-5-16]]
+
+^<<v54-5-16,16>>^ Por isso, nós daqui em diante a ninguém conhecemos de um modo humano. Muito embora tenhamos considerado Cristo dessa maneira, agora já não o julgamos assim.^&#42;1^
+
+[[v54-5-17]]
+
+^<<v54-5-17,17>>^ Todo aquele que está em Cristo é uma nova criatura. Passou o que era velho; eis que tudo se fez novo!
+
+[[v54-5-18]]
+
+^<<v54-5-18,18>>^ Tudo isso vem de Deus, que nos reconciliou consigo, por Cristo, e nos confiou o ministério dessa reconciliação.
+
+[[v54-5-19]]
+
+^<<v54-5-19,19>>^ Porque é Deus que, em Cristo, reconciliava consigo o mundo, não levando mais em conta os pecados dos homens, e pôs em nossos lábios a mensagem da reconciliação.
+
+[[v54-5-20]]
+
+^<<v54-5-20,20>>^ Portanto, desempenhamos o encargo de embaixadores em nome de Cristo, e é Deus mesmo que exorta por nosso intermédio. Em nome de Cristo vos rogamos: reconciliai-vos com Deus!
+
+[[v54-5-21]]
+
+^<<v54-5-21,21>>^ Aquele que não conheceu o pecado, Deus o fez pecado por nós, para que nele nós nos tornássemos justiça de Deus.
+
+'''
+
+xref:054-ii-corintios/054-ii-corintios-004.adoc#v54-4-0[&#60; Capítulo Anterior] | <<v54-5-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-006.adoc#v54-6-0[Próximo Capítulo &#62;]

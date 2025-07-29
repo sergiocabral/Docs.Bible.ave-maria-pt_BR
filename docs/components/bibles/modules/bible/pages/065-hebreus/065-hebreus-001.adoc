@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v65-1-0]]
+=== Hebreus, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Hebreus 1 aborda a superioridade de Jesus em relação aos anjos, destacando sua posição como Filho de Deus e Criador do universo. Para encontrar cinco versículos relacionados com os temas abordados em Hebreus 1, vamos explorar a Bíblia em busca de passagens que falam sobre a posição de Jesus como Filho de Deus e Criador.
+* João 1:1-3: "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus. Ele estava no princípio com Deus. Todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez." Este versículo destaca que Jesus é o Verbo de Deus, que existia desde o princípio com Deus e por meio de quem todas as coisas foram criadas.
+* Colossenses 1:15-17: "Ele é a imagem do Deus invisível, o primogênito de toda a criação; pois nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos, sejam soberanias, quer principados, quer autoridades; todas as coisas foram criadas por ele e para ele. Ele é antes de todas as coisas, e nele subsistem todas as coisas." Esses versículos reforçam que Jesus é o Criador de todas as coisas e a imagem do Deus invisível.
+* Salmo 2:7: "Proclamarei o decreto do Senhor: Ele me disse: Tu és meu Filho, eu hoje te gerei." Este salmo é uma referência ao Messias como Filho de Deus, uma posição que Hebreus 1 enfatiza.
+* Romanos 8:29: "Porque os que dantes conheceu, também os predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos." Este versículo destaca que Jesus é o Filho primogênito de Deus e que os crentes são chamados a serem conformes à sua imagem.
+* 1 Coríntios 8:6: "Todavia para nós há um só Deus, o Pai, de quem são todas as coisas e para quem nós vivemos; e um só Senhor, Jesus Cristo, pelo qual são todas as coisas, e nós por ele." Este versículo reforça a posição de Jesus como Senhor e Criador de todas as coisas, conforme abordado em Hebreus 1.
+****
+
+[[v65-1-1]]
+
+^<<v65-1-1,1>>^ Muitas vezes e de diversos modos outrora falou Deus aos nossos pais pelos profetas.
+
+[[v65-1-2]]
+
+^<<v65-1-2,2>>^ Ultimamente nos falou por seu Filho, que constituiu herdeiro universal, pelo qual criou todas as coisas.
+
+[[v65-1-3]]
+
+^<<v65-1-3,3>>^ Esplendor da glória (de Deus) e imagem do seu ser, sustenta o universo com o poder da sua palavra. Depois de ter realizado a purificação dos pecados, está sentado à direita da Majestade no mais alto dos céus,
+
+[[v65-1-4]]
+
+^<<v65-1-4,4>>^ tão superior aos anjos quanto excede o deles o nome que herdou.
+
+[[v65-1-5]]
+
+^<<v65-1-5,5>>^ Pois a quem dentre os anjos disse Deus alguma vez: Tu és meu Filho; eu hoje te gerei (Sl 2,7)? Ou, então: Eu serei para ele um pai e ele será para mim um Filho (2Sm 7,14)?
+
+[[v65-1-6]]
+
+^<<v65-1-6,6>>^ E novamente, ao introduzir o seu Primogênito na terra, diz: Todos os anjos de Deus o adorem (Sl 96,7).
+
+[[v65-1-7]]
+
+^<<v65-1-7,7>>^ Por outro lado, a respeito dos anjos, diz: Ele faz dos seus anjos sopros de vento e dos seus ministros chamas de fogo (Sl 103,4),
+
+[[v65-1-8]]
+
+^<<v65-1-8,8>>^ ao passo que do Filho diz: O teu trono, ó Deus, subsiste para a eternidade. O cetro do teu Reino é cetro de justiça.
+
+[[v65-1-9]]
+
+^<<v65-1-9,9>>^ Amaste a justiça e odiaste a iniquidade. Por isso, ó Deus, o teu Deus te ungiu com óleo de alegria, mais que aos teus companheiros (Sl 44,7s);
+
+[[v65-1-10]]
+
+^<<v65-1-10,10>>^ e ainda: Tu, Senhor, no princípio dos tempos fundaste a terra, e os céus são obra de tuas mãos.
+
+[[v65-1-11]]
+
+^<<v65-1-11,11>>^ Eles passarão, mas tu permaneces. Todos envelhecerão como uma veste;
+
+[[v65-1-12]]
+
+^<<v65-1-12,12>>^ tu os envolvas como uma capa, e serão mudados. Tu, ao contrário, és sempre o mesmo e os teus anos não acabarão (Sl 103,26s).
+
+[[v65-1-13]]
+
+^<<v65-1-13,13>>^ Pois a qual dos anjos disse alguma vez: Assenta-te à minha direita até que eu ponha os teus inimigos por escabelo dos teus pés (Sl 109,1)?
+
+[[v65-1-14]]
+
+^<<v65-1-14,14>>^ Não são todos os anjos espíritos a serviço de Deus, que lhes confia missões para o bem daqueles que devem herdar a salvação?
+
+'''
+
+xref:064-filemon/064-filemon-001.adoc#v64-1-0[&#60; Capítulo Anterior] | <<v65-1-0,Topo>> | xref:065-hebreus/065-hebreus-002.adoc#v65-2-0[Próximo Capítulo &#62;]

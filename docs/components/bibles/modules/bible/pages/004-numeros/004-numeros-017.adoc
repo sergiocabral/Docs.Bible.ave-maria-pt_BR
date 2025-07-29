@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v4-17-0]]
+=== Números, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 17 apresenta a história de Arão e sua vara florida. Deus ordenou que cada líder das doze tribos de Israel depositasse sua vara no tabernáculo para que a vara do homem que Ele escolhesse florescesse, indicando que essa tribo seria a escolhida por Deus. No dia seguinte, a vara de Arão floresceu e produziu amêndoas, provando que Deus o havia escolhido para ser o sumo sacerdote. Abaixo estão cinco versículos relacionados com os temas abordados em Números 17:
+* Êxodo 4:2-4: "Então, perguntou-lhe o Senhor: Que é isso na tua mão? Respondeu-lhe ele: Uma vara. E ele lhe disse: Lança-a na terra. Ele a lançou na terra, e ela se tornou em cobra; e Moisés fugia dela. Disse o Senhor a Moisés: Estende a mão e pega-lhe pela cauda. Ele estendeu a mão, pegou-lhe pela cauda, e ela se tornou em vara na sua mão." Esse versículo apresenta uma situação em que Deus transformou uma vara em cobra, demonstrando o Seu poder e autoridade.
+* Levítico 8:12: "E derramou do azeite da unção sobre a cabeça de Arão, e ungiu-o para santificá-lo." Esse versículo descreve a unção de Arão como sumo sacerdote e mostra como ele foi consagrado para o serviço a Deus.
+* Hebreus 5:4-5: "E ninguém toma para si esta honra, senão quando chamado por Deus, como Arão. Assim, também Cristo a si mesmo não se glorificou para se tornar sumo sacerdote, mas o glorificou aquele que lhe disse: Tu és meu Filho, hoje te gerei." Esse versículo compara a escolha de Arão como sumo sacerdote à escolha de Cristo por Deus para ser o sumo sacerdote dos cristãos.
+* Êxodo 25:10-11: "Farás também uma arca de madeira de acácia; o seu comprimento será de dois côvados e meio, a sua largura de um côvado e meio, e a sua altura de um côvado e meio. E cobri-la-ás de ouro puro por dentro e por fora, e farás sobre ela uma bordadura de ouro ao redor." Esse versículo descreve a arca da aliança, que era um dos objetos sagrados no tabernáculo e representava a presença de Deus.
+* Hebreus 9:3-4: "Por detrás do segundo véu achava-se a tenda que se chama Santo dos Santos, tendo um altar de ouro para o incenso e a arca da aliança, toda coberta de ouro, na qual estava um vaso de ouro contendo o maná, a vara de Arão, que floresceu, e as tábuas da aliança." Esse versículo descreve o Santo dos Santos no tabernáculo, que era o lugar mais sagrado onde apenas o sumo sacerdote podia entrar uma vez por ano.
+****
+
+[[v4-17-1]]
+
+^<<v4-17-1,1>>^ O Senhor disse a Moisés:
+
+[[v4-17-2]]
+
+^<<v4-17-2,2>>^ “Dize a Eleazar, filho do sacerdote Aarão, que tire os turíbulos que estão no meio do incêndio e espalhe ao longe o fogo, pois são objetos consagrados.
+
+[[v4-17-3]]
+
+^<<v4-17-3,3>>^ Com os turíbulos desses homens que pecaram e perderam a vida, façam-se lâminas para cobrir o altar, porque foram apresentados ao Senhor e estão santificados. Ficarão como um sinal para os israelitas”.
+
+[[v4-17-4]]
+
+^<<v4-17-4,4>>^ O sacerdote Eleazar tirou, pois, os turíbulos de bronze que os homens consumidos pelo fogo tinham apresentado ao Senhor, e fez deles lâminas para cobrir o altar.
+
+[[v4-17-5]]
+
+^<<v4-17-5,5>>^ Isso devia servir de memorial para os israelitas, a fim de que nenhum estranho à linhagem de Aarão se aproximasse para oferecer incenso ao Senhor, temendo lhe acontecesse o mesmo que a Coré e a seus homens, como o Senhor tinha declarado pela boca de Moisés.
+
+[[v4-17-6]]
+
+^<<v4-17-6,6>>^ Ora, no dia seguinte, toda a comunidade dos israelitas murmurou contra Moisés e Aarão: “Matastes o povo do Senhor” – diziam eles.
+
+[[v4-17-7]]
+
+^<<v4-17-7,7>>^ E, crescendo o tumulto, Moisés e Aarão voltaram-se para o lado da tenda de reunião e viram a nuvem que a cobria; e apareceu a glória do Senhor.
+
+[[v4-17-8]]
+
+^<<v4-17-8,8>>^ Eles foram e colocaram-se diante da tenda de reunião,
+
+[[v4-17-9]]
+
+^<<v4-17-9,9>>^ e o Senhor falou a Moisés:
+
+[[v4-17-10]]
+
+^<<v4-17-10,10>>^ “Afastai-vos do meio dessa assembleia, pois vou devorá-la num instante”. Prostraram-se por terra,
+
+[[v4-17-11]]
+
+^<<v4-17-11,11>>^ e Moisés disse a Aarão: “Toma o turíbulo, põe-lhe fogo do altar, deita-lhe incenso por cima e vai depressa ao povo para fazer expiação por ele; porque acendeu-se a cólera do Senhor, e o flagelo começa”.^&#42;1^
+
+[[v4-17-12]]
+
+^<<v4-17-12,12>>^ Aarão, obedecendo à palavra de Moisés, tomou o turíbulo e correu ao meio da assembleia, pois a praga começava já no meio do povo; deitou nele o incenso e fez a expiação pelo povo.
+
+[[v4-17-13]]
+
+^<<v4-17-13,13>>^ Colocando-se de pé entre os mortos e os vivos, deteve o flagelo.
+
+[[v4-17-14]]
+
+^<<v4-17-14,14>>^ Com esse golpe morreram catorze mil e setecentos, além dos que tinham perecido na rebelião de Coré.
+
+[[v4-17-15]]
+
+^<<v4-17-15,15>>^ Aarão voltou para junto de Moisés, à entrada da tenda de reunião, e o flagelo terminou.
+
+[[v4-17-16]]
+
+^<<v4-17-16,16>>^ O Senhor disse a Moisés:
+
+[[v4-17-17]]
+
+^<<v4-17-17,17>>^ “Fala aos israelitas. Que eles te deem uma vara por tribo, ou seja, doze varas de todos os príncipes das doze casas patriarcais. Escreverás o nome de cada um na sua vara;
+
+[[v4-17-18]]
+
+^<<v4-17-18,18>>^ na vara de Levi escreverás o nome de Aarão, porque haverá uma vara por tribo.
+
+[[v4-17-19]]
+
+^<<v4-17-19,19>>^ Colocarás as varas na tenda de reunião, diante do testemunho, no lugar onde me encontro convosco.
+
+[[v4-17-20]]
+
+^<<v4-17-20,20>>^ E eis que a vara de meu eleito florescerá e, desse modo, farei cessar diante de mim as murmurações dos filhos de Israel contra vós”.
+
+[[v4-17-21]]
+
+^<<v4-17-21,21>>^ Moisés falou aos israelitas e todos os príncipes lhe deram a vara, um de cada tribo, ou seja, doze varas pelas doze tribos, entre as quais também a de Aarão.
+
+[[v4-17-22]]
+
+^<<v4-17-22,22>>^ Moisés as pôs diante do Senhor na tenda do testemunho.
+
+[[v4-17-23]]
+
+^<<v4-17-23,23>>^ Voltando no dia seguinte, entrou no pavilhão e eis que tinha florescido a vara de Aarão, pela tribo de Levi: tinham aparecido botões, saído flores e amadurecido amêndoas.
+
+[[v4-17-24]]
+
+^<<v4-17-24,24>>^ Moisés levou todas as varas de diante do Senhor aos israelitas. Eles viram o (prodígio) e receberam cada um a sua vara.
+
+[[v4-17-25]]
+
+^<<v4-17-25,25>>^ O Senhor disse então a Moisés: “Torna a levar a vara de Aarão para diante da tenda do testemunho, e seja ali conservada como um sinal para todos aqueles que quiserem revoltar-se, e assim possas pôr um termo às murmurações diante de mim, para que não morram”.
+
+[[v4-17-26]]
+
+^<<v4-17-26,26>>^ Moisés executou a ordem que o Senhor lhe tinha dado.
+
+[[v4-17-27]]
+
+^<<v4-17-27,27>>^ Os israelitas disseram a Moisés: “Nós pereceremos, estamos perdidos, sim, estamos todos perdidos!
+
+[[v4-17-28]]
+
+^<<v4-17-28,28>>^ Qualquer que se aproxime do tabernáculo do Senhor, morre. Acaso seremos todos exterminados?”.
+
+'''
+
+xref:004-numeros/004-numeros-016.adoc#v4-16-0[&#60; Capítulo Anterior] | <<v4-17-0,Topo>> | xref:004-numeros/004-numeros-018.adoc#v4-18-0[Próximo Capítulo &#62;]

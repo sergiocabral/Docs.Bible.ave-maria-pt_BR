@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v12-22-0]]
+=== II Reis, 22
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 22 de 2 Reis relata a descoberta do Livro da Lei no templo pelo rei Josias e sua subsequente reforma religiosa em Judá. O capítulo destaca a importância da obediência à Lei de Deus e a necessidade de se arrepender dos pecados e se voltar para Deus. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Reis 22:
+* Deuteronômio 17:18-19: "E, quando se assentar no trono do seu reino, escreverá para si, num livro, uma cópia desta lei, que está diante dos sacerdotes, levitas. E o terá consigo e nele lerá todos os dias da sua vida, para que aprenda a temer o SENHOR, seu Deus, a guardar todas as palavras desta lei e estes estatutos, para cumpri-los". Este versículo destaca a importância de um rei conhecer e seguir a Lei de Deus.
+* Josué 1:8: "Não cesses de falar deste Livro da Lei; antes, medita nele dia e noite, para que tenhas cuidado de fazer conforme tudo quanto nele está escrito; porque, então, farás prosperar o teu caminho e, então, prudentemente te conduzirás". Este versículo reforça a importância da obediência à Lei de Deus.
+* 2 Crônicas 34:31: "E o rei se pôs em pé no seu lugar e fez uma aliança perante o SENHOR, para andar após o SENHOR e para guardar os seus mandamentos, os seus testemunhos e os seus estatutos, de todo o seu coração e de toda a sua alma, cumprindo as palavras da aliança que estão escritas naquele livro". Este versículo é semelhante à reforma religiosa liderada pelo rei Josias, onde ele se compromete a seguir a Lei de Deus.
+* Neemias 8:9-10: "Então, Neemias (que é o tirsata) e Esdras, o sacerdote e escriba, e os levitas que ensinavam o povo, disseram a todo o povo: Este dia é consagrado ao SENHOR, vosso Deus; não vos lamenteis, nem choreis. Porque todo o povo chorava, ouvindo as palavras da Lei. Disse-lhes mais: Ide, comei as gorduras, bebei as doçuras e enviai porções aos que não têm nada preparado para si; porque este dia é consagrado ao nosso Senhor; portanto, não vos entristeçais, porque a alegria do SENHOR é a vossa força". Este versículo destaca a importância da alegria em seguir a Lei de Deus e obedecer aos seus mandamentos.
+* Mateus 4:4: "Mas ele, respondendo, disse: Está escrito: Nem só de pão viverá o homem, mas de toda palavra que sai da boca de Deus". Este versículo destaca a importância da Palavra de Deus e a necessidade de seguir seus ensinamentos para obter vida espiritual e orientação.
+****
+
+[[v12-22-1]]
+
+^<<v12-22-1,1>>^ Josias tinha oito anos quando começou a reinar. Seu reinado em Jerusalém durou trinta e um anos. Sua mãe chamava-se Idida, filha de Hadai, natural de Besecat.
+
+[[v12-22-2]]
+
+^<<v12-22-2,2>>^ Fez o que é bom aos olhos do Senhor, seguindo fielmente o exemplo de Davi, seu antepassado, sem se desviar nem para a direita nem para a esquerda.
+
+[[v12-22-3]]
+
+^<<v12-22-3,3>>^ No décimo oitavo ano do reinado de Josias, o rei enviou ao Templo do Senhor o escriba Safã, filho de Aslias, filho de Mesolam, dizendo-lhe:
+
+[[v12-22-4]]
+
+^<<v12-22-4,4>>^ “Vai ter com o sumo sacerdote Helcias, e dize-lhe para aprontar o dinheiro que tem sido levado ao Templo do Senhor e entregue pelo povo nas mãos dos porteiros do templo.
+
+[[v12-22-5]]
+
+^<<v12-22-5,5>>^ Seja dado esse dinheiro aos encarregados dos trabalhos do templo, para o pagamento daqueles que trabalham na reparação do templo,
+
+[[v12-22-6]]
+
+^<<v12-22-6,6>>^ carpinteiros, construtores e pedreiros; e também para a compra da madeira e das pedras de cantaria necessárias às reparações do edifício.
+
+[[v12-22-7]]
+
+^<<v12-22-7,7>>^ Todavia, não se lhes exigirão contas do dinheiro que lhes é confiado porque são pessoas íntegras”.
+
+[[v12-22-8]]
+
+^<<v12-22-8,8>>^ O sumo sacerdote Helcias disse ao escriba Safã: “Encontrei no Templo do Senhor o Livro da Lei”. Helcias deu esse livro a Safã,
+
+[[v12-22-9]]
+
+^<<v12-22-9,9>>^ o qual, depois de tê-lo lido, voltou ao rei e prestou-lhe contas da missão que lhe fora confiada: “Teus servos juntaram o dinheiro que se encontrava no templo e o entregaram aos encarregados do Templo do Senhor”.
+
+[[v12-22-10]]
+
+^<<v12-22-10,10>>^ O escriba Safã disse ainda ao rei: “O sacerdote Helcias entregou-me um livro.”
+
+[[v12-22-11]]
+
+^<<v12-22-11,11>>^ E leu-o em presença do rei. Quando o rei ouviu a leitura do livro da Lei, rasgou as vestes,
+
+[[v12-22-12]]
+
+^<<v12-22-12,12>>^ e ordenou ao sacerdote Helcias, a Aicam, filho de Safã, a Acobor, filho de Mica, ao escriba Safã e ao seu oficial Azarias, o seguinte:
+
+[[v12-22-13]]
+
+^<<v12-22-13,13>>^ “Ide e consultai o Senhor de minha parte, da parte do povo e de toda a Judá, acerca do conteúdo deste livro que acaba de ser descoberto. A cólera do Senhor deve ser grande contra nós, porque nossos pais não obedeceram às palavras deste livro, nem puseram em prática tudo o que aí está prescrito”.
+
+[[v12-22-14]]
+
+^<<v12-22-14,14>>^ O sacerdote Helcias, Aicam, Acobor, Safã e Azarias foram ter com a profetisa Hulda, mulher de Selum, filho de Tícua, filho de Haraas, guardião do vestuário. Ela habitava em Jerusalém, no segundo quarteirão. Quando eles lhe falaram,
+
+[[v12-22-15]]
+
+^<<v12-22-15,15>>^ ela respondeu: “Eis o que diz o Senhor, Deus de Israel: ‘Dizei àquele que vos mandou ter comigo:
+
+[[v12-22-16]]
+
+^<<v12-22-16,16>>^ Assim fala o Senhor: Vou mandar a calamidade sobre esse lugar e sobre os seus habitantes, conforme todas as ameaças do livro que o rei de Judá leu,
+
+[[v12-22-17]]
+
+^<<v12-22-17,17>>^ porque eles me abandonaram e queimaram incenso a deuses estrangeiros, irritando-me com a sua conduta; minha indignação inflamou-se contra essa terra e não se extinguirá mais’.
+
+[[v12-22-18]]
+
+^<<v12-22-18,18>>^ Quanto ao rei de Judá, que vos mandou consultar o Senhor, lhe falarei: ‘Isto diz o Senhor:
+
+[[v12-22-19]]
+
+^<<v12-22-19,19>>^ Porque ouviste as palavras do livro e o teu coração se abrandou e te humilhaste diante do Senhor ao ouvir minha sentença contra esse lugar e contra os seus habitantes, condenando-os a ser objeto de espanto e de maldição, porque rasgaste as tuas vestes e choraste diante de mim, eu também te ouvi, diz o Senhor.
+
+[[v12-22-20]]
+
+^<<v12-22-20,20>>^ Por isso, vou reunir-te a teus pais e serás sepultado em paz no teu sepulcro, para que os teus olhos não vejam as calamidades que vou mandar sobre essa terra’.” Eles referiram ao rei o que a profetisa respondera.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-021.adoc#v12-21-0[&#60; Capítulo Anterior] | <<v12-22-0,Topo>> | xref:012-ii-reis/012-ii-reis-023.adoc#v12-23-0[Próximo Capítulo &#62;]

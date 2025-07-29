@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v73-1-0]]
+=== Apocalipse, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O primeiro capítulo do livro de Apocalipse descreve a visão de João na ilha de Patmos, onde ele recebeu revelações de Jesus Cristo. Essa visão inclui a descrição de Jesus como o Filho do Homem, seu papel como juiz e redentor, e a mensagem que ele deseja transmitir às sete igrejas da Ásia Menor. Além disso, João enfatiza a importância da obediência e do testemunho cristão. Aqui estão cinco versículos relacionados com os temas abordados em Apocalipse 1:
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento; os loucos desprezam a sabedoria e a instrução." Este versículo destaca a importância do temor do Senhor, que é um tema recorrente no livro de Apocalipse. O conhecimento de Deus e sua vontade são fundamentais para o entendimento das revelações contidas no livro.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Esse versículo enfatiza a presença e a proteção de Deus em meio às dificuldades e tribulações, o que é uma mensagem importante para as igrejas mencionadas em Apocalipse.
+* Romanos 1:16: "Porque não me envergonho do evangelho de Cristo, pois é o poder de Deus para salvação de todo aquele que crê, primeiro do judeu e também do grego." Esse versículo destaca a importância do testemunho cristão e da pregação do evangelho, um tema central em Apocalipse.
+* 1 Pedro 1:7: "Para que a prova da vossa fé, mais preciosa do que o ouro que perece e é provado pelo fogo, redunde para louvor, honra e glória na revelação de Jesus Cristo." Esse versículo fala sobre a importância da fé, que é testada por meio das tribulações e dificuldades, e que é essencial para a revelação de Jesus Cristo.
+* 2 Pedro 3:18: "Antes crescei na graça e conhecimento de nosso Senhor e Salvador Jesus Cristo. A ele seja dada a glória, assim agora como no dia da eternidade. Amém." Esse versículo destaca a importância do crescimento espiritual e do conhecimento de Jesus Cristo, um tema que está presente em toda a Bíblia, inclusive em Apocalipse.
+****
+
+[[v73-1-1]]
+
+^<<v73-1-1,1>>^ Revelação de Jesus Cristo, que lhe foi confiada por Deus para manifestar aos seus servos o que deve acontecer em breve. Ele, por sua vez, por intermédio de seu anjo, comunicou ao seu servo João,^&#42;1^
+
+[[v73-1-2]]
+
+^<<v73-1-2,2>>^ o qual atesta, como Palavra de Deus, o testemunho de Jesus Cristo e tudo o que viu.
+
+[[v73-1-3]]
+
+^<<v73-1-3,3>>^ Feliz o leitor e os ouvintes se observarem as coisas nela escritas, porque o tempo está próximo.
+
+[[v73-1-4]]
+
+^<<v73-1-4,4>>^ João às sete igrejas que estão na Ásia: a vós, graça e paz da parte daquele que é, que era e que vem da parte dos sete Espíritos que estão diante do seu trono^&#42;1^
+
+[[v73-1-5]]
+
+^<<v73-1-5,5>>^ e da parte de Jesus Cristo, testemunha fiel, primogênito dentre os mortos e soberano dos reis da terra. Àquele que nos ama, que nos lavou de nossos pecados no seu sangue
+
+[[v73-1-6]]
+
+^<<v73-1-6,6>>^ e que fez de nós um reino de sacerdotes para Deus e seu Pai, glória e poder pelos séculos dos séculos! Amém.
+
+[[v73-1-7]]
+
+^<<v73-1-7,7>>^ Ei-lo que vem com as nuvens. Todos os olhos o verão, mesmo aqueles que o traspassaram. Por sua causa, hão de lamentar-se todas as raças da terra. Sim. Amém.^&#42;1^
+
+[[v73-1-8]]
+
+^<<v73-1-8,8>>^ Eu sou o Alfa e o Ômega, diz o Senhor Deus, aquele que é, que era e que vem, o Dominador.^&#42;1^
+
+[[v73-1-9]]
+
+^<<v73-1-9,9>>^ Eu, João, vosso irmão e companheiro nas tribulações, na realeza e na paciência em união com Jesus, estava na ilha de Patmos por causa da Palavra de Deus e do testemunho de Jesus.^&#42;1^
+
+[[v73-1-10]]
+
+^<<v73-1-10,10>>^ Em um domingo, fui arrebatado em êxtase, e ouvi, por trás de mim, voz forte como de trombeta,
+
+[[v73-1-11]]
+
+^<<v73-1-11,11>>^ que dizia: “O que vês, escreve-o num livro e manda-o às sete igrejas: a Éfeso, a Esmirna, a Pérgamo, a Tiatira, a Sardes, a Filadélfia e a Laodiceia”.
+
+[[v73-1-12]]
+
+^<<v73-1-12,12>>^ Voltei-me para saber que voz falava comigo. Tendo-me voltado, vi sete candelabros de ouro
+
+[[v73-1-13]]
+
+^<<v73-1-13,13>>^ e, no meio dos candelabros, alguém semelhante ao Filho do Homem, vestindo longa túnica até os pés, cingido o peito por um cinto de ouro.^&#42;1^
+
+[[v73-1-14]]
+
+^<<v73-1-14,14>>^ Tinha ele cabeça e cabelos brancos como lã cor de neve. Seus olhos eram como chamas de fogo.
+
+[[v73-1-15]]
+
+^<<v73-1-15,15>>^ Seus pés se pareciam ao bronze fino incandescido na fornalha. Sua voz era como o ruído de muitas águas.
+
+[[v73-1-16]]
+
+^<<v73-1-16,16>>^ Segurava na mão direita sete estrelas. De sua boca saía uma espada afiada, de dois gumes. O seu rosto se assemelhava ao sol, quando brilha com toda a força.^&#42;1^
+
+[[v73-1-17]]
+
+^<<v73-1-17,17>>^ Ao vê-lo, caí como morto aos seus pés. Ele, porém, pôs sobre mim sua mão direita e disse: “Não temas! Eu sou o Primeiro e o Último, e o que vive.
+
+[[v73-1-18]]
+
+^<<v73-1-18,18>>^ Pois estive morto, e eis-me de novo vivo pelos séculos dos séculos; tenho as chaves da morte e da região dos mortos.
+
+[[v73-1-19]]
+
+^<<v73-1-19,19>>^ Escreve, pois, o que viste, tanto as coisas atuais como as futuras.^&#42;1^
+
+[[v73-1-20]]
+
+^<<v73-1-20,20>>^ Eis o simbolismo das sete estrelas que viste na minha mão direita e dos sete candelabros de ouro: as sete estrelas são os anjos das sete igrejas, e os sete candelabros, as sete igrejas”.^&#42;1^
+
+'''
+
+xref:072-sao-judas/072-sao-judas-001.adoc#v72-1-0[&#60; Capítulo Anterior] | <<v73-1-0,Topo>> | xref:073-apocalipse/073-apocalipse-002.adoc#v73-2-0[Próximo Capítulo &#62;]

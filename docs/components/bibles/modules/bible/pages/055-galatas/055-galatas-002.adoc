@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v55-2-0]]
+=== Gálatas, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gálatas 2 trata do conflito entre Paulo e os judaizantes que ensinavam que os gentios precisavam seguir a lei mosaica para serem salvos. Neste capítulo, Paulo defende sua autoridade apostólica e sua mensagem de salvação pela fé em Jesus Cristo, não pelas obras da lei. Ele também relata seu encontro com Pedro em Antioquia, onde Pedro agiu hipocritamente ao se afastar dos gentios por causa da pressão dos judaizantes. Abaixo estão cinco versículos relacionados com os temas abordados em Gálatas 2:
+* Romanos 3:28: "Concluímos, pois, que o homem é justificado pela fé, independentemente das obras da lei." Este verso reafirma a mensagem central de Paulo em Gálatas 2 de que a salvação é pela fé em Jesus Cristo, não pelas obras da lei.
+* Efésios 2:8-9: "Porque pela graça sois salvos, mediante a fé; e isto não vem de vós; é dom de Deus; não de obras, para que ninguém se glorie." Este verso também reforça a ideia de que a salvação é pela graça de Deus, recebida pela fé, e não pelas obras da lei.
+* Atos 15:1: "Então, alguns homens que tinham descido da Judeia ensinavam aos irmãos: Se não vos circuncidardes segundo o costume de Moisés, não podeis ser salvos." Este verso ilustra o conflito entre os judaizantes e os cristãos gentios, que acreditavam que a circuncisão e a obediência à lei eram necessárias para a salvação.
+* Atos 15:10: "Agora, pois, por que tentais a Deus, pondo sobre a cerviz dos discípulos um jugo que nem nossos pais nem nós pudemos suportar?" Este verso é uma declaração de Pedro durante o Concílio de Jerusalém, onde ele reconheceu que a lei mosaica era um fardo pesado demais para os gentios e que eles eram salvos pela graça de Deus, assim como os judeus.
+* Colossenses 2:16-17: "Portanto, ninguém vos julgue pelo comer, ou pelo beber, ou por causa dos dias de festa, ou da lua nova, ou dos sábados, que são sombras das coisas que hão de vir; mas o corpo é de Cristo." Este verso enfatiza que as práticas da lei mosaica, como os dias de festa e os sábados, eram sombras do que estava por vir em Cristo e não eram mais necessárias para a salvação.
+****
+
+[[v55-2-1]]
+
+^<<v55-2-1,1>>^ Catorze anos mais tarde, subi outra vez a Jerusalém com Barnabé, levando também Tito comigo.
+
+[[v55-2-2]]
+
+^<<v55-2-2,2>>^ E subi em consequência de uma revelação. Expus-lhes o Evangelho que prego entre os pagãos, e isso particularmente aos que eram de maior consideração, a fim de não correr ou de não ter corrido em vão.^&#42;1^
+
+[[v55-2-3]]
+
+^<<v55-2-3,3>>^ Entretanto, nem sequer meu companheiro Tito, embora gentio, foi obrigado a circuncidar-se.
+
+[[v55-2-4]]
+
+^<<v55-2-4,4>>^ Mas, por causa dos falsos irmãos, intrusos – que furtivamente se introduziram entre nós para espionar a liberdade de que gozávamos em Cristo Jesus, a fim de nos escravizar –,
+
+[[v55-2-5]]
+
+^<<v55-2-5,5>>^ fomos, por esta vez, condescendentes, para que o Evangelho permanecesse em sua integridade.^&#42;1^
+
+[[v55-2-6]]
+
+^<<v55-2-6,6>>^ Quanto aos que eram de autoridade – o que antes tenham sido não me importa, pois Deus não se deixa levar por consideração de pessoas –, estas autoridades, digo, nada me impuseram.
+
+[[v55-2-7]]
+
+^<<v55-2-7,7>>^ Ao contrário, viram que a evangelização dos incircuncisos me era confiada, como a dos circuncisos a Pedro
+
+[[v55-2-8]]
+
+^<<v55-2-8,8>>^ (porque aquele cuja ação fez de Pedro o apóstolo dos circuncisos fez também de mim o dos pagãos).
+
+[[v55-2-9]]
+
+^<<v55-2-9,9>>^ Tiago, Cefas e João, que são considerados as colunas, reconhecendo a graça que me foi dada, deram as mãos a mim e a Barnabé em sinal de pleno acordo:
+
+[[v55-2-10]]
+
+^<<v55-2-10,10>>^ iríamos aos pagãos, e eles aos circuncidados. Recomendaram-nos apenas que nos lembrássemos dos pobres, o que era precisamente a minha intenção.
+
+[[v55-2-11]]
+
+^<<v55-2-11,11>>^ Quando, porém, Cefas veio a Antioquia, resisti-lhe francamente, porque era censurável.
+
+[[v55-2-12]]
+
+^<<v55-2-12,12>>^ Pois, antes de chegarem alguns homens da parte de Tiago, ele comia com os pagãos convertidos. Mas, quando aqueles vieram, retraiu-se e separou-se destes, temendo os circuncidados.
+
+[[v55-2-13]]
+
+^<<v55-2-13,13>>^ Os demais judeus convertidos seguiram-lhe a atitude equívoca, de maneira que mesmo Barnabé foi levado por eles a essa dissimulação.
+
+[[v55-2-14]]
+
+^<<v55-2-14,14>>^ Quando vi que o seu procedimento não era segundo a verdade do Evangelho, disse a Cefas, em presença de todos: “Se tu, que és judeu, vives como os gentios, e não como os judeus, com que direito obrigas os pagãos convertidos a viver como os judeus?”.^&#42;1^
+
+[[v55-2-15]]
+
+^<<v55-2-15,15>>^ Nós, judeus de nascença, e não pecadores dentre os pagãos,
+
+[[v55-2-16]]
+
+^<<v55-2-16,16>>^ sabemos, contudo, que ninguém se justifica pela prática da Lei, mas somente pela fé em Jesus Cristo. Também nós cremos em Jesus Cristo, e tiramos assim a nossa justificação da fé em Cristo, e não pela prática da Lei. Pois, pela prática da Lei, nenhum homem será justificado.
+
+[[v55-2-17]]
+
+^<<v55-2-17,17>>^ Pois, se nós, que aspiramos à justificação em Cristo, retornamos, todavia, ao pecado, seria porventura Cristo ministro do pecado? Por certo que não!
+
+[[v55-2-18]]
+
+^<<v55-2-18,18>>^ Se torno a edificar o que destruí, confesso-me transgressor.^&#42;1^
+
+[[v55-2-19]]
+
+^<<v55-2-19,19>>^ Na realidade, pela fé eu morri para a Lei, a fim de viver para Deus. Estou pregado à cruz de Cristo.
+
+[[v55-2-20]]
+
+^<<v55-2-20,20>>^ Eu vivo, mas já não sou eu; é Cristo que vive em mim. A minha vida presente, na carne, eu a vivo na fé no Filho de Deus, que me amou e se entregou por mim.
+
+[[v55-2-21]]
+
+^<<v55-2-21,21>>^ Não menosprezo a graça de Deus; mas, em verdade, se a justiça se obtém pela Lei, Cristo morreu em vão.
+
+'''
+
+xref:055-galatas/055-galatas-001.adoc#v55-1-0[&#60; Capítulo Anterior] | <<v55-2-0,Topo>> | xref:055-galatas/055-galatas-003.adoc#v55-3-0[Próximo Capítulo &#62;]

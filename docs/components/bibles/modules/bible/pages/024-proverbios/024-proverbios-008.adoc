@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v24-8-0]]
+=== Provérbios, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 8 de Provérbios é um poema que celebra a sabedoria como um atributo divino que existia desde o princípio da criação. Ele retrata a sabedoria como um guia confiável e valioso para aqueles que a buscam, oferecendo discernimento, conhecimento e prudência. Os versículos a seguir foram escolhidos por sua relevância aos temas tratados neste capítulo:
+* Colossenses 2:3: "Nele estão escondidos todos os tesouros da sabedoria e do conhecimento." Este versículo destaca a importância de buscar a sabedoria em Deus e encontrar nela um tesouro precioso e inestimável.
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento, mas os insensatos desprezam a sabedoria e a disciplina." Este versículo enfatiza que a sabedoria começa com um temor reverente a Deus e que aqueles que ignoram a sabedoria estão se arriscando a seguir um caminho de insensatez e tolice.
+* 1 Coríntios 1:30: "É por iniciativa dele que vocês estão em Cristo Jesus, que se tornou sabedoria da parte de Deus para nós, justiça, santificação e redenção." Este versículo destaca que Jesus Cristo é a personificação da sabedoria divina e que aqueles que o seguem estão recebendo a sabedoria de Deus para suas próprias vidas.
+* Provérbios 3:13-14: "Como é feliz o homem que encontra a sabedoria, o homem que obtém entendimento, pois a sabedoria é mais proveitosa do que a prata e rende mais do que o ouro." Este versículo reforça a mensagem central de Provérbios 8, enfatizando que a sabedoria é um tesouro valioso que supera em muito as riquezas materiais.
+* Tiago 1:5: "Se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá livremente, de boa vontade; e lhe será concedida." Este versículo destaca a disponibilidade da sabedoria divina para todos aqueles que a buscam com um coração sincero e humilde, prometendo que Deus generosamente a concederá àqueles que a pedem.
+****
+
+[[v24-8-1]]
+
+^<<v24-8-1,1>>^ Porventura não clama a Sabedoria e a inteligência não eleva a sua voz?
+
+[[v24-8-2]]
+
+^<<v24-8-2,2>>^ No cume das montanhas posta-se ela, e nas encruzilhadas dos caminhos.
+
+[[v24-8-3]]
+
+^<<v24-8-3,3>>^ Alça sua voz na entrada das torres, junto às portas, nas proximidades da cidade.
+
+[[v24-8-4]]
+
+^<<v24-8-4,4>>^ “É a vós, ó homens, que eu apelo; minha voz se dirige aos filhos dos homens.
+
+[[v24-8-5]]
+
+^<<v24-8-5,5>>^ Ó simples, aprendei a prudência, adquiri a inteligência, ó insensatos.
+
+[[v24-8-6]]
+
+^<<v24-8-6,6>>^ Prestai atenção, pois! Coisas magníficas vos anuncio, de meus lábios só sairá retidão,
+
+[[v24-8-7]]
+
+^<<v24-8-7,7>>^ porque minha boca proclama a verdade e meus lábios detestam a iniquidade.
+
+[[v24-8-8]]
+
+^<<v24-8-8,8>>^ Todas as palavras de minha boca são justas, nelas nada há de falso nem de tortuoso.
+
+[[v24-8-9]]
+
+^<<v24-8-9,9>>^ São claras para os que as entendem e retas para o que chegou à ciência.^&#42;1^
+
+[[v24-8-10]]
+
+^<<v24-8-10,10>>^ Recebei a instrução e não o dinheiro. Preferi a ciência ao fino ouro,
+
+[[v24-8-11]]
+
+^<<v24-8-11,11>>^ pois a Sabedoria vale mais que as pérolas e joia alguma a pode igualar.
+
+[[v24-8-12]]
+
+^<<v24-8-12,12>>^ Eu, a Sabedoria, sou amiga da prudência, possuo uma ciência profunda.
+
+[[v24-8-13]]
+
+^<<v24-8-13,13>>^ O temor do Senhor é o ódio ao mal. Orgulho, arrogância, caminho perverso, boca mentirosa: eis o que eu detesto.
+
+[[v24-8-14]]
+
+^<<v24-8-14,14>>^ Meu é o conselho e o bom êxito, minha a inteligência, minha a força.^&#42;1^
+
+[[v24-8-15]]
+
+^<<v24-8-15,15>>^ Por mim reinam os reis e os legisladores decretam a justiça;^&#42;1^
+
+[[v24-8-16]]
+
+^<<v24-8-16,16>>^ por mim governam os magistrados e os magnatas regem a terra.
+
+[[v24-8-17]]
+
+^<<v24-8-17,17>>^ Amo os que me amam. Quem me procura, encontra-me.
+
+[[v24-8-18]]
+
+^<<v24-8-18,18>>^ Comigo estão a riqueza e a glória, os bens duráveis e a justiça.
+
+[[v24-8-19]]
+
+^<<v24-8-19,19>>^ Mais precioso que o mais fino ouro é o meu fruto, meu produto tem mais valor que a mais fina prata.
+
+[[v24-8-20]]
+
+^<<v24-8-20,20>>^ Sigo o caminho da justiça, no meio da senda da equidade.
+
+[[v24-8-21]]
+
+^<<v24-8-21,21>>^ Deixo os meus haveres para os que me amam e acumulo seus tesouros.
+
+[[v24-8-22]]
+
+^<<v24-8-22,22>>^ O Senhor me criou, como primícia de suas obras, desde o princípio, antes do começo da terra.^&#42;1^
+
+[[v24-8-23]]
+
+^<<v24-8-23,23>>^ Desde a eternidade fui formada, antes de suas obras dos tempos antigos.
+
+[[v24-8-24]]
+
+^<<v24-8-24,24>>^ Ainda não havia abismo quando fui concebida, e ainda as fontes das águas não tinham brotado.
+
+[[v24-8-25]]
+
+^<<v24-8-25,25>>^ Antes que assentados fossem os montes, antes dos outeiros, fui dada à luz;
+
+[[v24-8-26]]
+
+^<<v24-8-26,26>>^ antes que fossem feitos a terra e os campos e os primeiros elementos da poeira do mundo.
+
+[[v24-8-27]]
+
+^<<v24-8-27,27>>^ Quando ele preparava os céus, ali estava eu; quando traçou o horizonte na superfície do abismo,^&#42;1^
+
+[[v24-8-28]]
+
+^<<v24-8-28,28>>^ quando firmou as nuvens no alto, quando dominou as fontes do abismo,
+
+[[v24-8-29]]
+
+^<<v24-8-29,29>>^ quando impôs regras ao mar, para que suas águas não transpusessem os limites, quando assentou os fundamentos da terra,
+
+[[v24-8-30]]
+
+^<<v24-8-30,30>>^ junto a ele estava eu como artífice, brincando todo o tempo diante dele,^&#42;1^
+
+[[v24-8-31]]
+
+^<<v24-8-31,31>>^ brincando sobre o globo de sua terra, achando as minhas delícias junto aos filhos dos homens.
+
+[[v24-8-32]]
+
+^<<v24-8-32,32>>^ E agora, meus filhos, escutai-me: felizes aqueles que guardam os meus caminhos.
+
+[[v24-8-33]]
+
+^<<v24-8-33,33>>^ Ouvi minha instrução para serdes sábios, não a rejeiteis.
+
+[[v24-8-34]]
+
+^<<v24-8-34,34>>^ Feliz o homem que me ouve e que vela todos os dias à minha porta e guarda os umbrais de minha casa!
+
+[[v24-8-35]]
+
+^<<v24-8-35,35>>^ Pois quem me acha encontra a vida e alcança o favor do Senhor.
+
+[[v24-8-36]]
+
+^<<v24-8-36,36>>^ Mas quem me ofende, prejudica-se a si mesmo; quem me odeia, ama a morte.”
+
+'''
+
+xref:024-proverbios/024-proverbios-007.adoc#v24-7-0[&#60; Capítulo Anterior] | <<v24-8-0,Topo>> | xref:024-proverbios/024-proverbios-009.adoc#v24-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,207 @@
+include::./index.adoc[]
+
+[[v48-15-0]]
+=== São Marcos, 15
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Marcos 15 descreve a prisão, julgamento e crucificação de Jesus. O capítulo é rico em detalhes e emoção, e revela a injustiça que Jesus sofreu nas mãos dos líderes religiosos e políticos de seu tempo. Aqui estão cinco versículos da Bíblia que estão relacionados aos temas abordados em São Marcos 15:
+* Isaías 53:5: "Mas ele foi ferido pelas nossas transgressões, e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados." Este versículo profético de Isaías fala sobre o sofrimento que Jesus suportou em nome da humanidade. Ele carregou nossos pecados e foi punido em nosso lugar.
+* Romanos 5:8: "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores." Este versículo nos lembra que, embora sejamos pecadores, Deus nos amou tanto que enviou seu filho Jesus para morrer por nós na cruz.
+* João 19:17: "E ele, levando a sua cruz, saiu para o lugar chamado Calvário, que em hebraico se chama Gólgota." Esse versículo nos lembra do fardo que Jesus carregou quando foi para a cruz. Ele carregou sua própria cruz pelas ruas de Jerusalém antes de ser crucificado no Calvário.
+* Filipenses 2:8: "E, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz." Este versículo fala sobre a humildade de Jesus, que se tornou homem e se submeteu à morte na cruz para salvar a humanidade.
+* Hebreus 12:2: "Olhando para Jesus, autor e consumador da fé, o qual pelo gozo que lhe estava proposto suportou a cruz, desprezando a afronta, e assentou-se à destra do trono de Deus." Este versículo nos encoraja a seguir o exemplo de Jesus, que suportou a cruz e superou a tentação, para que possamos ter a vida eterna com ele no céu.
+****
+
+[[v48-15-1]]
+
+^<<v48-15-1,1>>^ Logo pela manhã, se reuniram os sumos sacerdotes com os anciãos, os escribas e com todo o conselho. E tendo amarrado Jesus, levaram-no e entregaram-no a Pilatos.
+
+[[v48-15-2]]
+
+^<<v48-15-2,2>>^ Este lhe perguntou: “És tu o rei dos judeus?”. Ele lhe respondeu: “Sim”.
+
+[[v48-15-3]]
+
+^<<v48-15-3,3>>^ Os sumos sacerdotes acusavam-no de muitas coisas.
+
+[[v48-15-4]]
+
+^<<v48-15-4,4>>^ Pilatos perguntou-lhe outra vez: “Nada respondes? Vê de quantos delitos te acusam!”.
+
+[[v48-15-5]]
+
+^<<v48-15-5,5>>^ Mas Jesus nada mais respondeu, de modo que Pilatos ficou admirado.
+
+[[v48-15-6]]
+
+^<<v48-15-6,6>>^ Ora, costumava ele soltar-lhes em cada festa qualquer dos presos que pedissem.
+
+[[v48-15-7]]
+
+^<<v48-15-7,7>>^ Havia na prisão um, chamado Barrabás, que fora preso com seus cúmplices, o qual na sedição perpetrara um homicídio.
+
+[[v48-15-8]]
+
+^<<v48-15-8,8>>^ O povo que tinha subido começou a pedir-lhe aquilo que sempre lhes costumava conceder.
+
+[[v48-15-9]]
+
+^<<v48-15-9,9>>^ Pilatos respondeu-lhes: “Quereis que vos solte o rei dos judeus?”.
+
+[[v48-15-10]]
+
+^<<v48-15-10,10>>^ (Porque sabia que os sumos sacerdotes o haviam entregue por inveja.)
+
+[[v48-15-11]]
+
+^<<v48-15-11,11>>^ Mas os pontífices instigaram o povo para que pedissem de preferência que lhes soltasse Barrabás.
+
+[[v48-15-12]]
+
+^<<v48-15-12,12>>^ Pilatos falou-lhes outra vez: “E que quereis que eu faça daquele a quem chamais o rei dos judeus?”.
+
+[[v48-15-13]]
+
+^<<v48-15-13,13>>^ Eles tornaram a gritar: “Crucifica-o!”.
+
+[[v48-15-14]]
+
+^<<v48-15-14,14>>^ Pilatos replicou: “Mas que mal fez ele?”. Eles clamavam mais ainda: “Crucifica-o!”.
+
+[[v48-15-15]]
+
+^<<v48-15-15,15>>^ Querendo Pilatos satisfazer o povo, soltou-lhes Barrabás e entregou Jesus, depois de açoitado, para que fosse crucificado. (= Mt 27,27-31 = Jo 19,2s)
+
+[[v48-15-16]]
+
+^<<v48-15-16,16>>^ Os soldados conduziram-no ao interior do pátio, isto é, ao pretório, onde convocaram toda a coorte.
+
+[[v48-15-17]]
+
+^<<v48-15-17,17>>^ Vestiram Jesus de púrpura, teceram uma coroa de espinhos e a colocaram na sua cabeça.
+
+[[v48-15-18]]
+
+^<<v48-15-18,18>>^ E começaram a saudá-lo: “Salve, rei dos judeus!”.
+
+[[v48-15-19]]
+
+^<<v48-15-19,19>>^ Davam-lhe na cabeça com uma vara, cuspiam nele e punham-se de joelhos como para homenageá-lo.
+
+[[v48-15-20]]
+
+^<<v48-15-20,20>>^ Depois de terem escarnecido dele, tiraram-lhe a púrpura, deram-lhe de novo as vestes e conduziram-no fora para o crucificar. (= Mt 27,32-56 = Lc 23,26-49 = Jo 19,17-30)
+
+[[v48-15-21]]
+
+^<<v48-15-21,21>>^ Passava por ali certo homem de Cirene, chamado Simão, que vinha do campo, pai de Alexandre e de Rufo, e obrigaram-no a que lhe levasse a cruz.
+
+[[v48-15-22]]
+
+^<<v48-15-22,22>>^ Conduziram Jesus ao lugar chamado Gólgota, que quer dizer lugar do crânio.
+
+[[v48-15-23]]
+
+^<<v48-15-23,23>>^ Deram-lhe de beber vinho misturado com mirra, mas ele não o aceitou.
+
+[[v48-15-24]]
+
+^<<v48-15-24,24>>^ Depois de o terem crucificado, repartiram as suas vestes, tirando à sorte sobre elas, para ver o que tocaria a cada um.
+
+[[v48-15-25]]
+
+^<<v48-15-25,25>>^ Era a hora terceira quando o crucificaram.
+
+[[v48-15-26]]
+
+^<<v48-15-26,26>>^ A inscrição que motivava a sua condenação dizia: “O rei dos judeus”.
+
+[[v48-15-27]]
+
+^<<v48-15-27,27>>^ Crucificaram com ele dois bandidos: um à sua direita e outro à esquerda.
+
+[[v48-15-28]]
+
+^<<v48-15-28,28>>^ [Cumpriu-se assim a passagem da Escritura que diz: Ele foi contado entre os malfeitores (Is 53,12).]
+
+[[v48-15-29]]
+
+^<<v48-15-29,29>>^ Os que iam passando injuriavam-no e abanavam a cabeça, dizendo: “Olá! Tu que destróis o templo e o reedificas em três dias,
+
+[[v48-15-30]]
+
+^<<v48-15-30,30>>^ salva-te a ti mesmo! Desce da cruz!”.
+
+[[v48-15-31]]
+
+^<<v48-15-31,31>>^ Dessa maneira, escarneciam dele também os sumos sacerdotes e os escribas, dizendo uns para os outros: “Salvou a outros e a si mesmo não pode salvar!
+
+[[v48-15-32]]
+
+^<<v48-15-32,32>>^ Que o Cristo, rei de Israel, desça agora da cruz, para que vejamos e creiamos!”. Também os que haviam sido crucificados com ele o insultavam.
+
+[[v48-15-33]]
+
+^<<v48-15-33,33>>^ Desde a hora sexta até a hora nona, houve trevas por toda a terra.
+
+[[v48-15-34]]
+
+^<<v48-15-34,34>>^ E à hora nona, Jesus bradou em alta voz: “Elói, Elói, lammá sabactáni?”, que quer dizer: “Meu Deus, meu Deus, por que me abandonaste?”.
+
+[[v48-15-35]]
+
+^<<v48-15-35,35>>^ Ouvindo isso, alguns dos circunstantes diziam: “Ele chama por Elias!”.
+
+[[v48-15-36]]
+
+^<<v48-15-36,36>>^ Um deles correu e ensopou uma esponja em vinagre e, pondo-a na ponta de uma vara, deu-lho para beber, dizendo: “Deixai, vejamos se Elias vem tirá-lo”.
+
+[[v48-15-37]]
+
+^<<v48-15-37,37>>^ Jesus deu um grande brado e expirou.
+
+[[v48-15-38]]
+
+^<<v48-15-38,38>>^ O véu do templo rasgou-se então de alto a baixo em duas partes.
+
+[[v48-15-39]]
+
+^<<v48-15-39,39>>^ O centurião que estava diante de Jesus, ao ver que ele tinha expirado assim, disse: “Este homem era realmente o Filho de Deus”.
+
+[[v48-15-40]]
+
+^<<v48-15-40,40>>^ Achavam-se ali também umas mulheres, observando de longe, entre as quais Maria Madalena, Maria, mãe de Tiago, o Menor, e de José, e Salomé,
+
+[[v48-15-41]]
+
+^<<v48-15-41,41>>^ que o tinham seguido e o haviam assistido, quando ele estava na Galileia; e muitas outras que haviam subido juntamente com ele a Jerusalém. (= Mt 27,57-66 = Lc 23,50-56 = Jo 19,38-42)
+
+[[v48-15-42]]
+
+^<<v48-15-42,42>>^ Quando já era tarde – era a Preparação, isto é, a véspera do sábado –,
+
+[[v48-15-43]]
+
+^<<v48-15-43,43>>^ veio José de Arimateia, ilustre membro do conselho, que também esperava o Reino de Deus; ele foi resoluto à presença de Pilatos e pediu o corpo de Jesus.
+
+[[v48-15-44]]
+
+^<<v48-15-44,44>>^ Pilatos admirou-se de que ele tivesse morrido tão depressa. E, chamando o centurião, perguntou se já havia muito tempo que Jesus tinha morrido.
+
+[[v48-15-45]]
+
+^<<v48-15-45,45>>^ Obtida a resposta afirmativa do centurião, mandou dar-lhe o corpo.
+
+[[v48-15-46]]
+
+^<<v48-15-46,46>>^ Depois de ter comprado um pano de linho, José tirou-o da cruz, envolveu-o no pano e depositou-o num sepulcro escavado na rocha, rolando uma pedra para fechar a entrada.
+
+[[v48-15-47]]
+
+^<<v48-15-47,47>>^ Maria Madalena e Maria, mãe de José, observavam onde o depositavam. (= Mt 28,1-8 = Lc 24,1-12 = Jo 20,1-13)
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-014.adoc#v48-14-0[&#60; Capítulo Anterior] | <<v48-15-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-016.adoc#v48-16-0[Próximo Capítulo &#62;]

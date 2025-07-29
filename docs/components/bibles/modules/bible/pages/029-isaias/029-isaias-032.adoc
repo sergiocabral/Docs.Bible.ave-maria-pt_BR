@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v29-32-0]]
+=== Isaías, 32
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 32 é um capítulo que fala sobre a justiça e a sabedoria de Deus e como isso se manifesta na vida daqueles que o seguem. O capítulo começa com a promessa de que um rei justo governará a terra, trazendo paz e estabilidade para o povo de Deus. Também é mencionada a importância da sabedoria e da justiça individual, e como isso afeta a sociedade como um todo. Abaixo estão cinco versículos relacionados aos temas abordados em Isaías 32:
+* Provérbios 2:6-8: "Porque o Senhor dá a sabedoria, e da sua boca vem o conhecimento e o entendimento. Ele guarda a verdadeira sabedoria para os retos; é escudo para os que caminham com integridade. Ele protege os caminhos do juízo e guarda o caminho dos seus santos." Este versículo fala sobre como a sabedoria e a justiça vêm de Deus, e como aqueles que o seguem são guardados e protegidos.
+* Provérbios 11:10: "Quando os justos prosperam, a cidade se alegra; quando os ímpios caem, há festa." Esse versículo fala sobre como a justiça individual afeta a sociedade como um todo, trazendo prosperidade e alegria quando as pessoas agem corretamente.
+* Salmo 72:1-2: "Ó Deus, concede ao rei a justiça e ao filho do rei, a tua justiça. Ele julgará o teu povo com justiça e os teus pobres com equidade." Este salmo fala sobre o papel do rei em governar com justiça e equidade, e como isso é importante para o bem-estar do povo.
+* Isaías 33:22: "Porque o Senhor é o nosso juiz, o Senhor é o nosso legislador, o Senhor é o nosso rei; ele nos salvará." Este versículo enfatiza a soberania de Deus e como Ele é o juiz, legislador e rei de Seu povo. Ele é quem traz salvação e justiça.
+* Provérbios 21:3: "Fazer o que é justo e certo é mais aceitável ao Senhor do que oferecer sacrifícios." Esse versículo destaca a importância da justiça e da retidão individual, enfatizando que isso é mais importante para Deus do que ofertas e sacrifícios.
+****
+
+[[v29-32-1]]
+
+^<<v29-32-1,1>>^ Eis que um rei reinará segundo a justiça, e os príncipes governarão com equidade.
+
+[[v29-32-2]]
+
+^<<v29-32-2,2>>^ Cada um deles será como um abrigo contra o vento, um refúgio contra a chuva torrencial; como um fio de água num chão ressecado, e como a sombra de um alto rochedo em terra ressequida.
+
+[[v29-32-3]]
+
+^<<v29-32-3,3>>^ Os olhos dos que veem não mais serão ofuscados, e os ouvidos dos que ouvem estarão atentos.
+
+[[v29-32-4]]
+
+^<<v29-32-4,4>>^ Os espíritos insensatos se disporão a compreender, e a língua dos gagos falará prontamente e com clareza;
+
+[[v29-32-5]]
+
+^<<v29-32-5,5>>^ não mais se qualificará de nobre ao perverso, nem de grande trapaceiro.^&#42;1^
+
+[[v29-32-6]]
+
+^<<v29-32-6,6>>^ Porque o insensato profere loucuras e seu coração dá-se ao mal; comete impiedades, forma sobre o Senhor conceitos errôneos, deixa o faminto queixar-se de sua miséria, priva da bebida àquele que tem sede.^&#42;1^
+
+[[v29-32-7]]
+
+^<<v29-32-7,7>>^ As intrigas do trapaceiro são desleais, ele maquina desígnios criminosos para perder os humildes com mentiras, e o pobre que faz valer seu direito;^&#42;1^
+
+[[v29-32-8]]
+
+^<<v29-32-8,8>>^ o fidalgo, porém, tem pensamentos dignos, e um procedimento nobre.
+
+[[v29-32-9]]
+
+^<<v29-32-9,9>>^ Mulheres descuidadas, escutai minha voz. Jovens confiantes demais, ouvi minhas palavras.
+
+[[v29-32-10]]
+
+^<<v29-32-10,10>>^ Dentro de um ano e alguns dias, tremereis, indolentes, porque a vindima estará perdida e a colheita, frustrada.
+
+[[v29-32-11]]
+
+^<<v29-32-11,11>>^ Fremi, descuidadas, tremei, confiantes. Despi-vos até estardes nuas. Cingi os vossos rins,^&#42;1^
+
+[[v29-32-12]]
+
+^<<v29-32-12,12>>^ batei nos vossos peitos, chorando sobre a sorte dos campos férteis e das vinhas fecundas,^&#42;1^
+
+[[v29-32-13]]
+
+^<<v29-32-13,13>>^ sobre as terras de meu povo, onde só crescem sarças, sobre todas as casas de prazer da cidade alegre.
+
+[[v29-32-14]]
+
+^<<v29-32-14,14>>^ O palácio está deserto, a cidade barulhenta está abandonada. Ofel e a torre de guarda serão para sempre planaltos desnudos, onde vagueiam os asnos selvagens e pastam os rebanhos.^&#42;1^
+
+[[v29-32-15]]
+
+^<<v29-32-15,15>>^ Até que sobre nós se derrame o espírito do alto, então o deserto se mudará em vergel, e o vergel tomará o aspecto de uma floresta;
+
+[[v29-32-16]]
+
+^<<v29-32-16,16>>^ no deserto reinará o direito, e a justiça residirá no vergel.
+
+[[v29-32-17]]
+
+^<<v29-32-17,17>>^ A justiça produzirá a paz e o direito assegurará a tranquilidade;
+
+[[v29-32-18]]
+
+^<<v29-32-18,18>>^ meu povo habitará em mansão serena, em moradas seguras, em abrigos tranquilos.
+
+[[v29-32-19]]
+
+^<<v29-32-19,19>>^ A floresta será abatida e a cidade, humilhada.^&#42;1^
+
+[[v29-32-20]]
+
+^<<v29-32-20,20>>^ Bem-aventurados sereis por semear à margem de todos os cursos de água, e por deixar o boi e o asno sem peias.
+
+'''
+
+xref:029-isaias/029-isaias-031.adoc#v29-31-0[&#60; Capítulo Anterior] | <<v29-32-0,Topo>> | xref:029-isaias/029-isaias-033.adoc#v29-33-0[Próximo Capítulo &#62;]

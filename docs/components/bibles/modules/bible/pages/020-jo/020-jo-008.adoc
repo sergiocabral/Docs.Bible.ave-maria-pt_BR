@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v20-8-0]]
+=== Jó, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em Jó 8, o amigo de Jó, Bildade, continua a argumentar que a aflição de Jó é resultado de seu pecado e que a solução é se arrepender e buscar a Deus. Bildade também enfatiza que Deus é justo e recompensará os justos. Os versículos relacionados com os temas abordados em Jó 8 são:
+* Jó 4:7-9: "Lembra-te, pois: quem jamais pereceu, sendo inocente? Ou quando foram os justos destruídos? Como eu tenho visto, os que lavram iniquidade e semeiam o mal segam essas coisas. Pelo sopro de Deus perecem, e pela ventania da sua ira são consumidos."
+Este versículo reflete a crença de Bildade de que a aflição de Jó é resultado de seu pecado e que apenas os ímpios sofrem.
+* Provérbios 11:18: "O perverso faz obra falsa, mas para o que semeia justiça haverá galardão fiel."
+Bildade enfatiza que Deus recompensa os justos e pune os ímpios, o que é refletido neste versículo de Provérbios.
+* Isaías 55:7: "Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos, e se converta ao Senhor, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar."
+Bildade sugere que a solução para a aflição de Jó é se arrepender e buscar a Deus, o que é enfatizado neste versículo de Isaías.
+* Tiago 5:11: "Eis que temos por bem-aventurados os que sofreram. Ouvistes qual foi a paciência de Jó e vistes o fim que o Senhor lhe deu; porque o Senhor é muito misericordioso e piedoso."
+Este versículo destaca a paciência de Jó e sua recompensa final, o que contradiz a crença de Bildade de que apenas os ímpios sofrem.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda a injustiça."
+Este versículo reflete a crença de Bildade de que a solução para a aflição de Jó é se arrepender e buscar a Deus, mas também enfatiza a misericórdia e a justiça de Deus em perdoar os pecados.
+****
+
+[[v20-8-1]]
+
+^<<v20-8-1,1>>^ Bildad de Suás tomou a palavra e disse:
+
+[[v20-8-2]]
+
+^<<v20-8-2,2>>^ Até quando dirás semelhantes coisas, e tuas palavras serão como um furacão?
+
+[[v20-8-3]]
+
+^<<v20-8-3,3>>^ Porventura Deus fará curvar o que é reto? E o Todo-poderoso subverterá a justiça?
+
+[[v20-8-4]]
+
+^<<v20-8-4,4>>^ Se teus filhos o ofenderam, ele os entregou às consequências de suas culpas.^&#42;1^
+
+[[v20-8-5]]
+
+^<<v20-8-5,5>>^ Se recorreres a Deus, e implorares ao Todo-poderoso,
+
+[[v20-8-6]]
+
+^<<v20-8-6,6>>^ se fores puro e reto, ele atenderá a tua oração e restaurará a morada de tua justiça.
+
+[[v20-8-7]]
+
+^<<v20-8-7,7>>^ Teu começo parecerá pouca coisa diante da grandeza do que se seguirá.^&#42;1^
+
+[[v20-8-8]]
+
+^<<v20-8-8,8>>^ Interroga, pois, as gerações passadas e examina com cuidado a experiência dos antepassados.
+
+[[v20-8-9]]
+
+^<<v20-8-9,9>>^ Porque somos de ontem e nada sabemos, e nossos dias sobre a terra passam como a sombra.
+
+[[v20-8-10]]
+
+^<<v20-8-10,10>>^ Elas podem instruir-te, falar-te e de seu coração tirar estas palavras:
+
+[[v20-8-11]]
+
+^<<v20-8-11,11>>^ “Pode o papiro crescer fora do brejo ou o junco germinar sem água?
+
+[[v20-8-12]]
+
+^<<v20-8-12,12>>^ Verde ainda, e sem ser colhido, ele seca antes de todas as ervas.
+
+[[v20-8-13]]
+
+^<<v20-8-13,13>>^ Assim acabam todos os que esquecem de Deus, pois a esperança do ímpio perecerá.
+
+[[v20-8-14]]
+
+^<<v20-8-14,14>>^ A sua confiança será quebrada e a sua segurança é teia de aranha.
+
+[[v20-8-15]]
+
+^<<v20-8-15,15>>^ Ele se apoia sobre uma casa que não se sustenta, atém-se a uma morada que não se mantém de pé.
+
+[[v20-8-16]]
+
+^<<v20-8-16,16>>^ Cheio de vigor, ao sol, faz brotar seus ramos em seu jardim.
+
+[[v20-8-17]]
+
+^<<v20-8-17,17>>^ Suas raízes se entrelaçam num montão de pedras e penetram entre as rochas.
+
+[[v20-8-18]]
+
+^<<v20-8-18,18>>^ Mas se é arrancado de seu lugar, este o renega e diz: ‘Não te conheço!’.
+
+[[v20-8-19]]
+
+^<<v20-8-19,19>>^ Eis onde termina seu destino, e outros germinarão do solo”.
+
+[[v20-8-20]]
+
+^<<v20-8-20,20>>^ De fato, Deus não rejeita o homem íntegro, nem dá a mão aos malvados.^&#42;1^
+
+[[v20-8-21]]
+
+^<<v20-8-21,21>>^ Ele porá de novo o riso em tua boca e em teus lábios, gritos de alegria.
+
+[[v20-8-22]]
+
+^<<v20-8-22,22>>^ Teus inimigos serão cobertos de vergonha e a tenda dos maus desaparecerá.
+
+'''
+
+xref:020-jo/020-jo-007.adoc#v20-7-0[&#60; Capítulo Anterior] | <<v20-8-0,Topo>> | xref:020-jo/020-jo-009.adoc#v20-9-0[Próximo Capítulo &#62;]

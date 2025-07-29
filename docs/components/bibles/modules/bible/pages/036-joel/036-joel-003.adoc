@@ -1,0 +1,39 @@
+include::./index.adoc[]
+
+[[v36-3-0]]
+=== Joel, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 3 de Joel descreve uma visão escatológica do julgamento de Deus sobre as nações que se opõem a Israel e a restauração do povo de Deus. O tema principal é o Dia do Senhor, um evento que trará juízo sobre os ímpios e libertação para os justos. Os versículos escolhidos, em ordem de proximidade com os temas do capítulo, são:
+* Isaías 13:6: "Uivai, porque o dia do Senhor está perto; vem do Todo-Poderoso como assolação." Este versículo fala sobre o "dia do Senhor", o dia do juízo de Deus, que também é mencionado em Joel 3.
+* Sofonias 1:15: "Aquele dia é um dia de indignação, dia de tribulação e de angústia, dia de alvoroço e de desolação, dia de trevas e de escuridão, dia de nuvens e de densas trevas." Este versículo descreve o "dia do Senhor" como um dia de julgamento e destruição.
+* Zacarias 14:1: "Eis que vem o dia do Senhor, em que os teus despojos se repartirão pelo meio de ti." Este versículo se refere ao "dia do Senhor" como um dia em que os despojos dos inimigos serão tomados pelos vencedores, algo que é mencionado em Joel 3:13.
+* Apocalipse 16:14: "Porque são espíritos de demônios, que operam sinais; os quais vão ao encontro dos reis de todo o mundo para os congregar para a batalha do grande dia do Deus Todo-Poderoso." Este versículo fala sobre o "grande dia" de Deus Todo-Poderoso, que também é mencionado em Joel 3:14.
+* Apocalipse 21:3: "E ouvi uma grande voz do céu, que dizia: Eis aqui o tabernáculo de Deus com os homens, pois com eles habitará, e eles serão o seu povo, e o mesmo Deus estará com eles, e será o seu Deus." Este versículo fala sobre a restauração do povo de Deus e sua habitação com Ele, algo que é mencionado em Joel 3:20-21.
+****
+
+[[v36-3-1]]
+
+^<<v36-3-1,1>>^ Depois disso, acontecerá que derramarei o meu Espírito sobre todo ser vivo: vossos filhos e vossas filhas profetizarão; vossos anciãos terão sonhos, e vossos jovens terão visões.^&#42;1^
+
+[[v36-3-2]]
+
+^<<v36-3-2,2>>^ Naqueles dias, derramarei também o meu Espírito sobre os escravos e as escravas.
+
+[[v36-3-3]]
+
+^<<v36-3-3,3>>^ Farei aparecer prodígios no céu e na terra, sangue, fogo e turbilhões de fumo.^&#42;1^
+
+[[v36-3-4]]
+
+^<<v36-3-4,4>>^ O sol se converterá em trevas e a lua, em sangue, ao se aproximar o grandioso e temível dia do Senhor.
+
+[[v36-3-5]]
+
+^<<v36-3-5,5>>^ Mas todo o que invocar o nome do Senhor será poupado, porque, sobre o monte Sião e em Jerusalém, haverá um resto, como o Senhor disse, e entre os sobreviventes estarão os que o Senhor tiver chamado.^&#42;1^
+
+'''
+
+xref:036-joel/036-joel-002.adoc#v36-2-0[&#60; Capítulo Anterior] | <<v36-3-0,Topo>> | xref:036-joel/036-joel-004.adoc#v36-4-0[Próximo Capítulo &#62;]

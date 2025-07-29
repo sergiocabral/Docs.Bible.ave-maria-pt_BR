@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v21-108-0]]
+=== Salmos, 108
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 108 é uma combinação de partes dos salmos 57 e 60, onde o salmista Davi expressa sua confiança em Deus e pede ajuda em tempos difíceis. Ele começa com louvor a Deus e depois pede que Ele o ajude em suas batalhas. Aqui estão cinco versículos relacionados com os temas abordados em Salmo 108:
+* Salmos 57:7: "Meu coração está firme, ó Deus, meu coração está firme; eu cantarei e louvarei!" Este verso é semelhante ao início de Salmo 108, onde o salmista expressa seu desejo de cantar e louvar a Deus.
+* Salmos 60:11: "Dá-nos ajuda contra o adversário, pois inútil é o socorro do homem." Este verso está relacionado com o pedido de ajuda do salmista em Salmo 108:12, onde ele pede a Deus que o ajude contra seus inimigos.
+* Salmos 57:3: "Ele enviará dos céus e me salvará; ele me humilhará aquele que procura devorar-me." Este verso está relacionado com a confiança do salmista em Deus em Salmo 108:6, onde ele afirma que Deus está acima dos céus e que a sua misericórdia está sobre a terra.
+* Salmos 60:12: "Com Deus realizaremos proezas, e ele esmagará os nossos adversários." Este verso está relacionado com o tema de Deus ajudando o salmista em suas batalhas em Salmo 108:13, onde ele pede a Deus que o ajude a prevalecer sobre seus inimigos.
+* Salmos 57:9: "Eu te louvarei entre os povos, Senhor; eu te cantarei entre as nações." Este verso está relacionado com o tema de louvor a Deus em Salmo 108:3, onde o salmista afirma que irá louvar a Deus entre os povos e cantar louvores entre as nações.
+****
+
+[[v21-108-1]]
+
+^<<v21-108-1,1>>^ Ao mestre de canto. Salmo de Davi. Ó Deus de meu louvor, não fiqueis insensível,
+
+[[v21-108-2]]
+
+^<<v21-108-2,2>>^ porque contra mim se abriu boca ímpia e pérfida.
+
+[[v21-108-3]]
+
+^<<v21-108-3,3>>^ Falaram-me com palavras mentirosas, com discursos odiosos me envolveram; e sem motivo me atacaram.
+
+[[v21-108-4]]
+
+^<<v21-108-4,4>>^ Em resposta ao meu afeto me acusaram. Eu, porém, orava.
+
+[[v21-108-5]]
+
+^<<v21-108-5,5>>^ Pagaram-me o bem com o mal, e o amor com o ódio.
+
+[[v21-108-6]]
+
+^<<v21-108-6,6>>^ Suscitai contra ele um ímpio, levante-se à sua direita um acusador.^&#42;1^
+
+[[v21-108-7]]
+
+^<<v21-108-7,7>>^ Quando o julgarem, saia condenado, e sem efeito o seu recurso.
+
+[[v21-108-8]]
+
+^<<v21-108-8,8>>^ Sejam abreviados os seus dias, tome outro o seu encargo.^&#42;1^
+
+[[v21-108-9]]
+
+^<<v21-108-9,9>>^ Fiquem órfãos os seus filhos, e viúva a sua esposa.
+
+[[v21-108-10]]
+
+^<<v21-108-10,10>>^ Andem errantes e mendigos os seus filhos, expulsos de suas casas devastadas.
+
+[[v21-108-11]]
+
+^<<v21-108-11,11>>^ Arrebate o credor todos os seus bens, estrangeiros pilhem o fruto de seu trabalho.
+
+[[v21-108-12]]
+
+^<<v21-108-12,12>>^ Ninguém lhes tenha misericórdia, nem haja quem se condoa de seus órfãos.
+
+[[v21-108-13]]
+
+^<<v21-108-13,13>>^ Exterminada seja a sua descendência, extinga-se o seu nome desde a segunda geração.
+
+[[v21-108-14]]
+
+^<<v21-108-14,14>>^ Conserve o Senhor a lembrança da culpa de seus pais, jamais se apague o pecado de sua mãe.
+
+[[v21-108-15]]
+
+^<<v21-108-15,15>>^ Deus os tenha sempre presentes na memória, e risque-se da terra a sua lembrança,
+
+[[v21-108-16]]
+
+^<<v21-108-16,16>>^ porque jamais pensou em ter misericórdia, mas perseguiu o pobre e desvalido e teve ódio mortal ao homem de coração abatido.
+
+[[v21-108-17]]
+
+^<<v21-108-17,17>>^ Amou a maldição: que ela caia sobre ele! Recusou a bênção: que ela o abandone!
+
+[[v21-108-18]]
+
+^<<v21-108-18,18>>^ Seja coberto de maldição como de um manto: que ela penetre em suas entranhas como água e se infiltre em seus ossos como óleo.
+
+[[v21-108-19]]
+
+^<<v21-108-19,19>>^ Seja-lhe como a veste que o cobre, como um cinto que o cinja para sempre.
+
+[[v21-108-20]]
+
+^<<v21-108-20,20>>^ Esta, a paga do Senhor àqueles que me acusam e que só dizem mal de mim.
+
+[[v21-108-21]]
+
+^<<v21-108-21,21>>^ Mas vós, Senhor Deus, tratai-me segundo a honra de vosso nome. Salvai-me em nome de vossa benigna misericórdia,
+
+[[v21-108-22]]
+
+^<<v21-108-22,22>>^ porque sou pobre e miserável; trago, dentro de mim, um coração ferido.
+
+[[v21-108-23]]
+
+^<<v21-108-23,23>>^ Vou-me extinguindo como a sombra da tarde que declina, sou levado para longe como o gafanhoto.^&#42;1^
+
+[[v21-108-24]]
+
+^<<v21-108-24,24>>^ Vacilam-me os joelhos à força de jejuar, e meu corpo se definha de magreza.
+
+[[v21-108-25]]
+
+^<<v21-108-25,25>>^ Fizeram-me objeto de escárnio, abanam a cabeça ao me ver.
+
+[[v21-108-26]]
+
+^<<v21-108-26,26>>^ Ajudai-me, Senhor, meu Deus. Salvai-me segundo a vossa misericórdia.
+
+[[v21-108-27]]
+
+^<<v21-108-27,27>>^ Que reconheçam aqui a vossa mão, e saibam que fostes vós que assim fizestes.
+
+[[v21-108-28]]
+
+^<<v21-108-28,28>>^ Enquanto amaldiçoam, abençoai-me. Sejam confundidos os que se insurgem contra mim, e que vosso servo seja cumulado de alegria.
+
+[[v21-108-29]]
+
+^<<v21-108-29,29>>^ Cubram-se de ignomínia meus detratores, e envolvam-se de vergonha como de um manto.
+
+[[v21-108-30]]
+
+^<<v21-108-30,30>>^ Celebrarei altamente o Senhor, e o louvarei em meio à multidão,
+
+[[v21-108-31]]
+
+^<<v21-108-31,31>>^ porque ele se pôs à direita do pobre, para o salvar dos que o condenam.
+
+'''
+
+xref:021-salmos/021-salmos-107.adoc#v21-107-0[&#60; Capítulo Anterior] | <<v21-108-0,Topo>> | xref:021-salmos/021-salmos-109.adoc#v21-109-0[Próximo Capítulo &#62;]

@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v8-2-0]]
+=== Rute, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Rute 2 trata da história de Rute, uma viúva moabita que vai colher espigas no campo de Boaz, um parente próximo de seu falecido marido. Nesse capítulo, é apresentada a generosidade e bondade de Boaz, que permite que Rute colha espigas em seu campo e ainda a protege e cuida dela. Além disso, o capítulo também mostra a relação de cuidado e lealdade entre Rute e sua sogra Noemi.
+* Provérbios 19:17: "Quem trata bem os pobres empresta ao Senhor, e ele o recompensará, dando-lhe tudo o que precisa." Este versículo mostra que Deus abençoa aqueles que tratam bem os necessitados, como Boaz fez ao permitir que Rute colhesse espigas em seu campo.
+* Deuteronômio 24:19: "Quando você estiver colhendo as uvas na sua vinha, não volte para apanhar o que tiver deixado. Deixe-o para o estrangeiro, o órfão e a viúva, para que o Senhor, o seu Deus, o abençoe em tudo o que fizer." Esse versículo mostra a importância de deixar restos nas colheitas para os necessitados, um costume que Boaz segue ao ordenar que seus trabalhadores deixem espigas para Rute.
+* Isaías 58:7: "Não é partilhar sua comida com o faminto, dar abrigo aos pobres sem teto, vestir o nu e não ignorar o seu semelhante necessitado?" Este versículo destaca a importância da generosidade e cuidado com os necessitados, uma atitude que Boaz demonstra ao proteger e cuidar de Rute.
+* 1 Samuel 20:14-17: "E, se eu ainda viver, faça comigo a lealdade do Senhor, para que não apenas você, mas também a sua descendência depois de mim, nunca retire a sua lealdade para com a minha família." Este versículo fala sobre a lealdade e compromisso entre amigos, uma relação que também é demonstrada entre Rute e Noemi.
+* Salmos 91:4: "Ele o cobrirá com as suas penas, e sob as suas asas você encontrará refúgio; a fidelidade dele será o seu escudo protetor." Este versículo fala sobre a proteção divina e a fidelidade de Deus, algo que é evidenciado na história de Rute por meio da proteção e cuidado que Boaz oferece a ela.
+****
+
+[[v8-2-1]]
+
+^<<v8-2-1,1>>^ Noemi tinha um parente, por parte de seu marido, homem poderoso e rico da família de Elimelec, chamado Booz.
+
+[[v8-2-2]]
+
+^<<v8-2-2,2>>^ Rute, a moabita, disse a Noemi: “Peço-te que me deixes ir respigar nos campos de quem me quiser acolher favoravelmente”. “Vai, minha filha” – respondeu-lhe ela.
+
+[[v8-2-3]]
+
+^<<v8-2-3,3>>^ Rute partiu, pois, e entrou num campo, atrás dos segadores. Ora, aconteceu que aquele era justamente o campo de Booz, parente de Elimelec.
+
+[[v8-2-4]]
+
+^<<v8-2-4,4>>^ Booz acabava de voltar de Belém e saudou os segadores: “O Senhor esteja convosco!”. “Deus te abençoe” – responderam eles.
+
+[[v8-2-5]]
+
+^<<v8-2-5,5>>^ Booz dirigiu-se ao servo que tomava conta dos segadores: “Quem é esta moça?”.
+
+[[v8-2-6]]
+
+^<<v8-2-6,6>>^ “Esta é uma jovem moabita – respondeu ele – que veio com Noemi da terra de Moab.
+
+[[v8-2-7]]
+
+^<<v8-2-7,7>>^ Pediu-nos que a deixássemos respigar entre os feixes de trigo e apanhar as espigas atrás dos segadores. Está, aí, sempre de pé, desde a manhã até agora. Nesse momento, ela descansa um pouco sob a tenda.”
+
+[[v8-2-8]]
+
+^<<v8-2-8,8>>^ Booz disse a Rute: “Ouve, minha filha: não vás respigar em outro campo, nem te afastes daqui, mas junta-te com minhas servas.
+
+[[v8-2-9]]
+
+^<<v8-2-9,9>>^ Olha em que campo vão ceifar e segue-as. Proibi aos meus servos que te molestassem. Se tiveres sede, vai ao cântaro e bebe da água que elas tiverem buscado”.
+
+[[v8-2-10]]
+
+^<<v8-2-10,10>>^ Rute, caindo aos seus pés, prostrou-se por terra: “De onde me vem a dita – disse ela – de que te interesses por mim, uma estrangeira?”.
+
+[[v8-2-11]]
+
+^<<v8-2-11,11>>^ “Contaram-me – replicou Booz – tudo o que fizeste por tua sogra depois que morreu o teu marido, como deixaste teu pai, tua mãe e a tua pátria e vieste para um povo que antes não conhecias.
+
+[[v8-2-12]]
+
+^<<v8-2-12,12>>^ O Senhor te remunere pelo bem que fizeste e recebas uma plena recompensa do Senhor, Deus de Israel, sob cujas asas te acolheste!”
+
+[[v8-2-13]]
+
+^<<v8-2-13,13>>^ Ela respondeu: “Encontre eu graça diante dos teus olhos, meu senhor, pois me consolaste e encorajaste a tua serva, ainda que eu não seja como uma de tuas escravas”.
+
+[[v8-2-14]]
+
+^<<v8-2-14,14>>^ À hora de comer, Booz disse-lhe: “Vem, come tua parte do pão e molha o teu bocado no vinagre”. Ela assentou-se ao lado dos segadores e Booz ofereceu-lhe grão torrado. Ela comeu até ficar satisfeita e guardou o resto. Levantou-se em seguida e recomeçou a respigar.
+
+[[v8-2-15]]
+
+^<<v8-2-15,15>>^ Booz disse aos seus servos: “Deixai-a respigar mesmo entre os feixes e não a molesteis.
+
+[[v8-2-16]]
+
+^<<v8-2-16,16>>^ Deixai cair de vossos feixes, como por descuido, algumas espigas e deixai-as para que ela as apanhe; sobretudo, não a censurais de forma alguma”.
+
+[[v8-2-17]]
+
+^<<v8-2-17,17>>^ Rute esteve, pois, respigando no campo até a tarde; tendo depois batido as espigas que tinha colhido, encontrou quase um efá de cevada.
+
+[[v8-2-18]]
+
+^<<v8-2-18,18>>^ Carregando a cevada, entrou na cidade e sua sogra viu o que ela tinha colhido. Rute tirou então o que lhe sobrou de seu almoço e ofereceu à sogra.
+
+[[v8-2-19]]
+
+^<<v8-2-19,19>>^ Noemi perguntou-lhe: “Onde respigaste hoje?”. “Onde trabalhaste? Bendito seja quem te acolheu!” Ela contou à sua sogra em que propriedade tinha trabalhado. “O homem – disse ela – em cuja terra trabalhei hoje chama-se Booz.”
+
+[[v8-2-20]]
+
+^<<v8-2-20,20>>^ “Bendito seja ele do Senhor – respondeu Noemi – porque mostrou-se misericordioso tanto para com os vivos como para com os mortos.” E acrescentou: “Esse homem é nosso parente próximo, um dos que têm direito de resgate sobre nós”.
+
+[[v8-2-21]]
+
+^<<v8-2-21,21>>^ “Ele disse-me também – continuou Rute –, a moabita, que ficasse com os seus servos até que se acabasse toda a ceifa.”
+
+[[v8-2-22]]
+
+^<<v8-2-22,22>>^ Noemi respondeu-lhe: “É melhor, minha filha, que sigas as suas servas e que não te encontrem noutro campo”.
+
+[[v8-2-23]]
+
+^<<v8-2-23,23>>^ Ela ficou, pois, com as servas de Booz, respigando até o fim da ceifa da cevada e do trigo. E morava com a sua sogra.
+
+'''
+
+xref:008-rute/008-rute-001.adoc#v8-1-0[&#60; Capítulo Anterior] | <<v8-2-0,Topo>> | xref:008-rute/008-rute-003.adoc#v8-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,142 @@
+include::./index.adoc[]
+
+[[v4-28-0]]
+=== Números, 28
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 28 detalha as ofertas diárias e semanais que deveriam ser apresentadas a Deus pelos israelitas. As ofertas incluem sacrifícios de animais, ofertas de grãos e ofertas de vinho. As ofertas eram uma forma de os israelitas demonstrarem sua devoção a Deus e reconhecer sua dependência dele. Abaixo estão quatro versículos relacionados aos temas abordados em Números 28:
+* Levítico 23:37-38: "Estes são os dias de reunião do Senhor, quando vocês convocarão assembleias sagradas e apresentarão ofertas queimadas ao Senhor, sacrifícios de cereal e ofertas de vinho derramado, cada um em seu dia designado. Além dos sábados do Senhor e além do que vocês já deram, ofereçam ao Senhor uma oferta para cumprir um voto ou como oferta voluntária." Este versículo faz referência às ofertas que os israelitas deveriam apresentar em dias sagrados, além das ofertas diárias e semanais mencionadas em Números 28.
+* Salmos 51:16-17: "Pois não te deleitas em sacrifícios, do contrário eu os ofereceria; tu não te comprazes em holocaustos. Os sacrifícios que agradam a Deus são um espírito quebrantado; um coração quebrantado e contrito, ó Deus, não desprezarás." Este verso enfatiza que, embora as ofertas e sacrifícios fossem uma parte importante da adoração a Deus, o que mais importava era o coração e a disposição do adorador.
+* Hebreus 10:11-14: "Dia após dia, todo sacerdote apresenta repetidamente os mesmos sacrifícios, que nunca podem tirar os pecados. Mas quando este sacerdote [Jesus] ofereceu um único sacrifício pelos pecados, ele se assentou à direita de Deus. [...] pois com um único sacrifício ele aperfeiçoou para sempre os que estão sendo santificados." Este verso faz referência ao sacrifício final de Jesus, que foi oferecido uma vez por todas e substituiu a necessidade de sacrifícios contínuos.
+* Efésios 5:1-2: "Portanto, sigam o exemplo de Deus, como filhos amados, e vivam em amor, como Cristo nos amou e se entregou por nós como oferta e sacrifício de aroma agradável a Deus." Este verso destaca que a oferta final de Jesus foi a oferta perfeita e aceitável a Deus, simbolizada pelas ofertas de aroma agradável mencionadas em Números 28.
+****
+
+[[v4-28-1]]
+
+^<<v4-28-1,1>>^ O Senhor disse a Moisés:
+
+[[v4-28-2]]
+
+^<<v4-28-2,2>>^ “Ordena o seguinte aos israelitas: Cuidareis de apresentar no devido tempo a minha oblação, o meu alimento, em sacrifícios de agradável odor consumidos pelo fogo.
+
+[[v4-28-3]]
+
+^<<v4-28-3,3>>^ Dize-lhes: Eis o sacrifício pelo fogo que oferecereis ao Senhor: um holocausto cotidiano e perpétuo de dois cordeiros de um ano, sem defeito.
+
+[[v4-28-4]]
+
+^<<v4-28-4,4>>^ Oferecerás um pela manhã e outro entre as duas tardes,
+
+[[v4-28-5]]
+
+^<<v4-28-5,5>>^ juntando, à guisa de oblação, um décimo de efá de flor de farinha amassada com um quarto de hin de óleo de olivas esmagadas.
+
+[[v4-28-6]]
+
+^<<v4-28-6,6>>^ Esse é o holocausto perpétuo tal como foi feito no monte Sinai, um sacrifício pelo fogo de suave odor para o Senhor.
+
+[[v4-28-7]]
+
+^<<v4-28-7,7>>^ A libação será de um quarto de hin para cada cordeiro; é no santuário que farás ao Senhor a libação de vinho fermentado.
+
+[[v4-28-8]]
+
+^<<v4-28-8,8>>^ Oferecerás, entre as duas tardes, o segundo cordeiro; e farás a mesma oblação e a mesma libação como de manhã: este é um sacrifício pelo fogo, de suave odor para o Senhor.
+
+[[v4-28-9]]
+
+^<<v4-28-9,9>>^ No dia de sábado oferecereis dois cordeiros de um ano sem defeito, com dois décimos de flor de farinha amassada com óleo, à guisa de oblação, e a libação.
+
+[[v4-28-10]]
+
+^<<v4-28-10,10>>^ Esse é o holocausto de cada sábado, além do holocausto perpétuo com a sua libação.
+
+[[v4-28-11]]
+
+^<<v4-28-11,11>>^ No início de cada mês oferecereis, em holocausto ao Senhor, dois novilhos, um carneiro, sete cordeiros de um ano sem defeito,
+
+[[v4-28-12]]
+
+^<<v4-28-12,12>>^ bem como, com cada touro, três décimos de flor de farinha amassada com óleo, à guisa de oblação; com o carneiro, uma oblação de dois décimos de flor de farinha amassada com óleo,
+
+[[v4-28-13]]
+
+^<<v4-28-13,13>>^ e com cada cordeiro, um décimo de flor de farinha amassada com óleo. Esse é um holocausto de suave odor consumido pelo fogo para o Senhor.
+
+[[v4-28-14]]
+
+^<<v4-28-14,14>>^ As respectivas libações serão de meio-hin de vinho por touro, um terço de hin por carneiro, e um quarto de hin pelo cordeiro. Esse será o holocausto do mês para cada mês do ano.
+
+[[v4-28-15]]
+
+^<<v4-28-15,15>>^ Além do holocausto perpétuo e sua libação, será também oferecido ao Senhor um bode em sacrifício pelo pecado.
+
+[[v4-28-16]]
+
+^<<v4-28-16,16>>^ No décimo quarto dia do primeiro mês será a Páscoa do Senhor.
+
+[[v4-28-17]]
+
+^<<v4-28-17,17>>^ No décimo quinto desse mês começará a festa: durante sete dias só comerão pães sem fermento.
+
+[[v4-28-18]]
+
+^<<v4-28-18,18>>^ No primeiro dia haverá uma santa assembleia: não fareis nenhum trabalho servil.
+
+[[v4-28-19]]
+
+^<<v4-28-19,19>>^ Oferecereis em holocausto pelo fogo, ao Senhor, dois novilhos, um carneiro e sete cordeiros de um ano sem defeito,
+
+[[v4-28-20]]
+
+^<<v4-28-20,20>>^ com flor de farinha amassada com óleo, à guisa de oblação: três décimos por touro, dois décimos para o carneiro
+
+[[v4-28-21]]
+
+^<<v4-28-21,21>>^ e um décimo para cada um dos sete cordeiros;
+
+[[v4-28-22]]
+
+^<<v4-28-22,22>>^ além disso, um bode, em sacrifício pelo pecado, para fazer expiação por vós.
+
+[[v4-28-23]]
+
+^<<v4-28-23,23>>^ Tudo isso, vós o fareis sem prejuízo do holocausto da manhã, que é perpétuo.
+
+[[v4-28-24]]
+
+^<<v4-28-24,24>>^ Assim fareis cada dia, durante sete dias: este é o alimento consumido pelo fogo, de suave odor para o Senhor. Isso se fará além do holocausto perpétuo e sua libação.
+
+[[v4-28-25]]
+
+^<<v4-28-25,25>>^ No sétimo dia, haverá de novo uma santa assembleia e a cessação de toda obra servil.
+
+[[v4-28-26]]
+
+^<<v4-28-26,26>>^ No dia das Primícias, quando apresentardes ao Senhor uma oblação de grão novo na vossa festa das Semanas, tereis uma santa assembleia e a suspensão de todo o trabalho servil.
+
+[[v4-28-27]]
+
+^<<v4-28-27,27>>^ Oferecereis em holocausto de suave odor ao Senhor, dois novilhos, um carneiro e sete cordeiros de um ano,
+
+[[v4-28-28]]
+
+^<<v4-28-28,28>>^ com flor de farinha amassada com óleo, à guisa de oblação: três décimos por touro, dois décimos para o carneiro
+
+[[v4-28-29]]
+
+^<<v4-28-29,29>>^ e um décimo para cada um dos sete cordeiros;
+
+[[v4-28-30]]
+
+^<<v4-28-30,30>>^ além disso, um bode, para a expiação de vossos pecados.
+
+[[v4-28-31]]
+
+^<<v4-28-31,31>>^ Isso, sem prejuízo do holocausto perpétuo e de sua oblação. Os animais serão sem defeito e acompanhados de suas libações”.
+
+'''
+
+xref:004-numeros/004-numeros-027.adoc#v4-27-0[&#60; Capítulo Anterior] | <<v4-28-0,Topo>> | xref:004-numeros/004-numeros-029.adoc#v4-29-0[Próximo Capítulo &#62;]

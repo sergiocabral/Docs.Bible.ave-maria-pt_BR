@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v28-6-0]]
+=== Eclesiástico, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiástico 6 fala sobre a importância de se ter amigos verdadeiros e da sabedoria em escolher bem as amizades. Também enfatiza a necessidade de ser humilde e aprender com os mais sábios. Abaixo seguem cinco versículos relacionados com esses temas:
+* Provérbios 17:17: "Em todo tempo ama o amigo e na angústia se faz o irmão" Este versículo destaca a importância da amizade verdadeira, que se mantém presente em todos os momentos, inclusive nos mais difíceis.
+* Provérbios 27:17: "Como o ferro com o ferro se aguça, assim o homem afia o rosto do seu amigo" Esse versículo ressalta a importância da amizade na busca pela sabedoria e crescimento pessoal. Amigos verdadeiros nos ajudam a nos aprimorar e a sermos melhores.
+* Eclesiástico 6:14: "Um amigo fiel é uma poderosa proteção: quem o achou, descobriu um tesouro." Esse verso destaca o valor inestimável de ter amigos verdadeiros e leais, que são uma fonte de apoio e proteção em nossas vidas.
+* Provérbios 22:24-25: "Não te associes com o homem iracundo nem andes com o colérico, para que não aprendas as suas veredas e tomes um laço para a tua alma." Esse versículo alerta sobre a importância de escolher bem nossas amizades, evitando pessoas que podem nos influenciar negativamente.
+* Eclesiástico 6:36: "Se quiseres adquirir sabedoria, ama a justiça e o Senhor te dará uma sábia compreensão." Esse verso destaca a importância da humildade em nossa busca pela sabedoria. Para aprender e crescer, precisamos ser humildes e buscar a justiça e a verdade.
+****
+
+[[v28-6-1]]
+
+^<<v28-6-1,1>>^ De amigo não te tornes inimigo de teu próximo, pois o malvado terá por sorte a vergonha e a ignomínia, como todo pecador invejoso e de língua fingida.
+
+[[v28-6-2]]
+
+^<<v28-6-2,2>>^ Não te eleves como um touro nos pensamentos de teu coração, para não suceder que a tua loucura quebre a tua força,^&#42;1^
+
+[[v28-6-3]]
+
+^<<v28-6-3,3>>^ devore as tuas folhas, apodreça os teus frutos e te deixe como uma árvore seca no deserto.
+
+[[v28-6-4]]
+
+^<<v28-6-4,4>>^ Pois uma alma perversa é a perda de quem a possui; ele o tornará motivo de zombaria para seus inimigos, e irá conduzi-lo à sorte dos ímpios.
+
+[[v28-6-5]]
+
+^<<v28-6-5,5>>^ Uma boa palavra multiplica os amigos e apazigua os inimigos; a linguagem elegante do homem virtuoso é uma opulência.^&#42;1^
+
+[[v28-6-6]]
+
+^<<v28-6-6,6>>^ Dá-te bem com muitos, mas escolhe para conselheiro um entre mil.
+
+[[v28-6-7]]
+
+^<<v28-6-7,7>>^ Se adquirires um amigo, adquire-o na provação, não confies nele tão depressa.
+
+[[v28-6-8]]
+
+^<<v28-6-8,8>>^ Pois há amigos em certas horas que deixarão de o ser no dia da aflição.
+
+[[v28-6-9]]
+
+^<<v28-6-9,9>>^ Há amigo que se torna inimigo, e há amigo que desvendará ódios, querelas e disputas;
+
+[[v28-6-10]]
+
+^<<v28-6-10,10>>^ há amigo que só o é para a mesa, e que deixará de o ser no dia da desgraça.
+
+[[v28-6-11]]
+
+^<<v28-6-11,11>>^ Se teu amigo for constante, ele te será como um igual, e agirá livremente com os de tua casa.^&#42;1^
+
+[[v28-6-12]]
+
+^<<v28-6-12,12>>^ Se se rebaixa em tua presença e se retrai diante de ti, terás aí, na união dos corações, uma excelente amizade.^&#42;1^
+
+[[v28-6-13]]
+
+^<<v28-6-13,13>>^ Separa-te daqueles que são teus inimigos, e fica de sobreaviso diante de teus amigos.
+
+[[v28-6-14]]
+
+^<<v28-6-14,14>>^ Um amigo fiel é uma poderosa proteção: quem o achou, descobriu um tesouro.
+
+[[v28-6-15]]
+
+^<<v28-6-15,15>>^ Nada é comparável a um amigo fiel, o ouro e a prata não merecem ser postos em paralelo com a sinceridade de sua fé.^&#42;1^
+
+[[v28-6-16]]
+
+^<<v28-6-16,16>>^ Um amigo fiel é um remédio de vida e imortalidade; quem teme o Senhor, achará esse amigo.
+
+[[v28-6-17]]
+
+^<<v28-6-17,17>>^ Quem teme o Senhor terá também uma excelente amizade, pois seu amigo lhe será semelhante.
+
+[[v28-6-18]]
+
+^<<v28-6-18,18>>^ Meu filho, aceita a instrução desde teus jovens anos; ganharás uma sabedoria que durará até a velhice.
+
+[[v28-6-19]]
+
+^<<v28-6-19,19>>^ Vai ao encontro dela, como aquele que lavra e semeia, espera pacientemente seus excelentes frutos,
+
+[[v28-6-20]]
+
+^<<v28-6-20,20>>^ terás alguma pena em cultivá-la, mas, em breve, comerás os seus frutos.
+
+[[v28-6-21]]
+
+^<<v28-6-21,21>>^ Quanto a sabedoria é amarga para os ignorantes! O insensato não permanecerá junto a ela.
+
+[[v28-6-22]]
+
+^<<v28-6-22,22>>^ Ela lhes será como uma pesada pedra de provação, eles não tardarão a desfazer-se dela.^&#42;1^
+
+[[v28-6-23]]
+
+^<<v28-6-23,23>>^ Pois a sabedoria que instrui justifica o seu nome, não se manifesta a muitos; mas, naqueles que a conhecem, persevera, até tê-los levado à presença de Deus.
+
+[[v28-6-24]]
+
+^<<v28-6-24,24>>^ Escuta, meu filho, recebe um sábio conselho, não rejeites minha advertência.
+
+[[v28-6-25]]
+
+^<<v28-6-25,25>>^ Mete os teus pés nos seus grilhões, e teu pescoço em suas correntes.
+
+[[v28-6-26]]
+
+^<<v28-6-26,26>>^ Abaixa teu ombro para carregá-la, não sejas impaciente em suportar seus liames.
+
+[[v28-6-27]]
+
+^<<v28-6-27,27>>^ Vem a ela com todo o teu coração. Guarda seus caminhos com todas as tuas forças.
+
+[[v28-6-28]]
+
+^<<v28-6-28,28>>^ Segue-lhe os passos e ela se dará a conhecer; quando a tiveres abraçado, não a deixes.
+
+[[v28-6-29]]
+
+^<<v28-6-29,29>>^ Pois acharás finalmente nela o teu repouso. E ela se transformará para ti em um motivo de alegria.
+
+[[v28-6-30]]
+
+^<<v28-6-30,30>>^ Seus grilhões serão uma proteção, um firme apoio; suas correntes te serão um adorno glorioso;^&#42;1^
+
+[[v28-6-31]]
+
+^<<v28-6-31,31>>^ pois nela há uma beleza que dá vida, e seus liames são ligaduras que curam.
+
+[[v28-6-32]]
+
+^<<v28-6-32,32>>^ Como ele te revestirás como de uma vestimenta de glória, e a porás sobre ti como uma coroa de júbilo.
+
+[[v28-6-33]]
+
+^<<v28-6-33,33>>^ Meu filho, se me ouvires com atenção, serás instruído; se submeteres o teu espírito, tu te tornarás sábio.
+
+[[v28-6-34]]
+
+^<<v28-6-34,34>>^ Se me deres ouvido, receberás a doutrina. Se gostares de ouvir, adquirirás a sabedoria.
+
+[[v28-6-35]]
+
+^<<v28-6-35,35>>^ Permanece na companhia dos doutos anciãos, une-te de coração à sua sabedoria, a fim de que possas ouvir o que dizem de Deus, e não te escapem suas louváveis máximas.
+
+[[v28-6-36]]
+
+^<<v28-6-36,36>>^ Se vires um homem sensato, madruga para ir ter com ele, desgaste o teu pé o limiar de sua porta.
+
+[[v28-6-37]]
+
+^<<v28-6-37,37>>^ Concentra teu pensamento nos preceitos de Deus, sê assíduo à meditação de seus mandamentos. Ele próprio te dará um coração, e a sabedoria que desejas te será concedida.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-005.adoc#v28-5-0[&#60; Capítulo Anterior] | <<v28-6-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-007.adoc#v28-7-0[Próximo Capítulo &#62;]

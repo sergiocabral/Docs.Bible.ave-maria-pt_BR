@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v20-23-0]]
+=== Jó, 23
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em Jó 23, Jó expressa sua angústia e desejo de encontrar Deus, mas sente que Ele está inacessível. Jó clama por um julgamento justo e acredita que, se ele pudesse comparecer diante de Deus, ele seria justificado. Abaixo estão cinco versículos relacionados aos temas abordados em Jó 23:
+* Salmos 139:7-10: "Para onde poderia eu escapar do teu Espírito? Para onde poderia fugir da tua presença? Se subisse aos céus, lá estarias; se fizesse a minha cama na sepultura, também lá estarias. Se eu subisse com as asas da alvorada e fosse morar nos confins do mar, mesmo ali a tua mão direita me guiará e me susterá." Este versículo mostra que Deus está sempre presente, em todos os lugares e situações, e que não há lugar onde possamos escapar de Sua presença.
+* Isaías 55:6: "Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto." Este versículo enfatiza a importância de buscarmos a Deus enquanto podemos encontrá-lo e invocá-lo enquanto Ele está próximo.
+* Deuteronômio 4:29: "Mas se dali buscares ao Senhor teu Deus, o acharás, se o buscares de todo o teu coração e de toda a tua alma." Este versículo fala sobre a importância de buscar a Deus de todo o coração e de toda a alma, e que se O buscarmos assim, O encontraremos.
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado e salva os de espírito oprimido." Este versículo fala sobre a proximidade de Deus com aqueles que têm o coração quebrantado e espírito oprimido, mostrando que Ele está presente em tempos de angústia.
+* Hebreus 4:16: "Cheguemos, pois, com confiança ao trono da graça, para que possamos alcançar misericórdia e achar graça, a fim de sermos ajudados em tempo oportuno." Este versículo nos encoraja a nos aproximarmos do trono da graça de Deus com confiança, para que possamos encontrar misericórdia e graça em tempos de necessidade.
+****
+
+[[v20-23-1]]
+
+^<<v20-23-1,1>>^ Então, Jó tomou a palavra nestes termos:
+
+[[v20-23-2]]
+
+^<<v20-23-2,2>>^ “Sim, hoje minha queixa é uma revolta, ainda que sua mão reprima meus suspiros.^&#42;1^
+
+[[v20-23-3]]
+
+^<<v20-23-3,3>>^ Oxalá pudesse eu encontrá-lo e chegar até seu trono!
+
+[[v20-23-4]]
+
+^<<v20-23-4,4>>^ xporia diante de Deus a minha causa, encheria minha boca de argumentos.
+
+[[v20-23-5]]
+
+^<<v20-23-5,5>>^ Saberia o que ele iria responder-me e veria o que ele teria para me dizer.
+
+[[v20-23-6]]
+
+^<<v20-23-6,6>>^ Oporia ele contra mim com prepotência? Não! Bastaria que lançasse os olhos em mim.
+
+[[v20-23-7]]
+
+^<<v20-23-7,7>>^ Seria então um justo a discutir com ele, e eu iria embora definitivamente absolvido pelo meu juiz.
+
+[[v20-23-8]]
+
+^<<v20-23-8,8>>^ Mas se eu for ao Oriente, lá ele não está; ao Ocidente, não o encontrarei;
+
+[[v20-23-9]]
+
+^<<v20-23-9,9>>^ se o procuro ao Norte, não o vejo; se me volto para o Sul, não o descubro.
+
+[[v20-23-10]]
+
+^<<v20-23-10,10>>^ Contudo, ele conhece o meu caminho; se me põe à prova, dela sairei puro como o ouro.
+
+[[v20-23-11]]
+
+^<<v20-23-11,11>>^ Meus pés seguiram os seus traços, guardei o seu caminho sem me desviar.
+
+[[v20-23-12]]
+
+^<<v20-23-12,12>>^ Não me afastei dos preceitos de seus lábios, guardei no meu íntimo as palavras de sua boca.
+
+[[v20-23-13]]
+
+^<<v20-23-13,13>>^ Ele decidiu alguma coisa, quem o fará voltar atrás? Ele faz o que bem lhe agrada.
+
+[[v20-23-14]]
+
+^<<v20-23-14,14>>^ Realizará seu desígnio a meu respeito e tem muitos projetos iguais a este.
+
+[[v20-23-15]]
+
+^<<v20-23-15,15>>^ Eis por que sua presença me atemoriza. Basta o seu pensamento para me fazer tremer.
+
+[[v20-23-16]]
+
+^<<v20-23-16,16>>^ Foi Deus que me fundiu o coração, o Todo-poderoso me enche de terror.
+
+[[v20-23-17]]
+
+^<<v20-23-17,17>>^ Sucumbo diante das trevas. Elas cobriram-me o rosto.
+
+'''
+
+xref:020-jo/020-jo-022.adoc#v20-22-0[&#60; Capítulo Anterior] | <<v20-23-0,Topo>> | xref:020-jo/020-jo-024.adoc#v20-24-0[Próximo Capítulo &#62;]

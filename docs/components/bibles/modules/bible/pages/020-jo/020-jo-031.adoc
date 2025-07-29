@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v20-31-0]]
+=== Jó, 31
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* No capítulo 31 de Jó, o personagem faz uma declaração solene de inocência, afirmando ter evitado todos os tipos de pecados, especialmente aqueles relacionados à luxúria e à injustiça. Ele se justifica diante de seus amigos e de Deus, afirmando que não merece a punição que está sofrendo. Os versículos relacionados com os temas abordados em Jó 31 são:
+* Provérbios 6:25: "Não cobices no teu coração a sua formosura, nem te deixes prender pelos seus olhares." Jó afirma que não cobiçou a formosura de outras mulheres, nem se deixou prender pela tentação da luxúria.
+* Mateus 5:28: "Eu, porém, vos digo que qualquer que olhar para uma mulher com intenção impura, em seu coração, já adulterou com ela." Jó afirma que não olhou para nenhuma mulher com intenção impura.
+* Êxodo 22:21: "Ao estrangeiro não o afligirás, nem o oprimirás, pois estrangeiros fostes na terra do Egito." Jó afirma que não oprimiu nenhum estrangeiro, mas antes, ajudou a todos que precisavam de ajuda.
+* Jó 24:2: "Há os que mudam os limites, roubam rebanhos e os apascentam." Jó afirma que não mudou os limites de ninguém nem roubou rebanhos.
+* Isaías 33:15: "O que anda em justiça, e o que fala com retidão; o que rejeita o ganho da opressão, o que sacode das suas mãos todo o presente; o que tapa os seus ouvidos para não ouvir falar de sangue, e fecha os seus olhos para não ver o mal." Jó afirma que andou em justiça, falou com retidão e rejeitou o ganho da opressão.
+****
+
+[[v20-31-1]]
+
+^<<v20-31-1,1>>^ Eu havia feito um pacto com os meus olhos, para não desejar nunca olhar para uma virgem.
+
+[[v20-31-2]]
+
+^<<v20-31-2,2>>^ Que parte me daria Deus lá do alto, que sorte o Todo-poderoso me enviaria do céu?
+
+[[v20-31-3]]
+
+^<<v20-31-3,3>>^ Acaso a infelicidade não está reservada ao injusto e o infortúnio ao iníquo?
+
+[[v20-31-4]]
+
+^<<v20-31-4,4>>^ Não conhece Deus os meus caminhos e não conta todos os meus passos?
+
+[[v20-31-5]]
+
+^<<v20-31-5,5>>^ Se caminhei com a mentira e meu pé correu atrás da fraude,
+
+[[v20-31-6]]
+
+^<<v20-31-6,6>>^ que Deus me pese na balança da justiça e reconhecerá a minha integridade.
+
+[[v20-31-7]]
+
+^<<v20-31-7,7>>^ Se meus passos se desviaram do caminho e meu coração seguiu meus olhos, e se às minhas mãos se apegou qualquer mácula,
+
+[[v20-31-8]]
+
+^<<v20-31-8,8>>^ que semeie eu e outro o coma, e minhas plantações sejam desenraizadas!
+
+[[v20-31-9]]
+
+^<<v20-31-9,9>>^ Se meu coração foi seduzido por uma mulher, se fiquei à espreita à porta de meu vizinho,
+
+[[v20-31-10]]
+
+^<<v20-31-10,10>>^ que minha mulher gire a mó para um outro e que estranhos a possuam!
+
+[[v20-31-11]]
+
+^<<v20-31-11,11>>^ Pois isso seria um crime, um delito digno de julgamento,
+
+[[v20-31-12]]
+
+^<<v20-31-12,12>>^ um fogo que devoraria até o abismo e que teria arruinado todos os meus bens.
+
+[[v20-31-13]]
+
+^<<v20-31-13,13>>^ Nunca violei o direito de meu escravo ou de minha serva, em suas discussões comigo.
+
+[[v20-31-14]]
+
+^<<v20-31-14,14>>^ Que farei eu quando Deus se levantar? Quando me interrogar, que lhe responderei?
+
+[[v20-31-15]]
+
+^<<v20-31-15,15>>^ Aquele que me criou no ventre, não o criou também a ele? Um mesmo criador nos formou!
+
+[[v20-31-16]]
+
+^<<v20-31-16,16>>^ Acaso recusei aos pobres aquilo que desejavam e fiz desfalecer os olhos da viúva?
+
+[[v20-31-17]]
+
+^<<v20-31-17,17>>^ Ou comi sozinho meu pedaço de pão, sem que o órfão tivesse a sua parte?
+
+[[v20-31-18]]
+
+^<<v20-31-18,18>>^ Antes, desde minha infância cuidei-o como um pai e desde o ventre materno fui o seu guia.
+
+[[v20-31-19]]
+
+^<<v20-31-19,19>>^ Se vi perecer um homem por falta de roupa e um pobre que não tinha com que cobrir-se,
+
+[[v20-31-20]]
+
+^<<v20-31-20,20>>^ sem que seus rins me tenham abençoado, aquecido como estava com a lã de minhas ovelhas;
+
+[[v20-31-21]]
+
+^<<v20-31-21,21>>^ se levantei a mão contra o órfão, quando me via apoiado pelos juízes,^&#42;1^
+
+[[v20-31-22]]
+
+^<<v20-31-22,22>>^ que meu ombro caia de minhas costas e meu braço seja arrancado de seu cotovelo!
+
+[[v20-31-23]]
+
+^<<v20-31-23,23>>^ Pois o terror de Deus me invadiu e diante de sua majestade não posso subsistir.
+
+[[v20-31-24]]
+
+^<<v20-31-24,24>>^ Nunca pus no ouro minha segurança e jamais disse ao ouro puro: ‘És minha esperança!’.
+
+[[v20-31-25]]
+
+^<<v20-31-25,25>>^ Nunca me rejubilei por ser grande a minha riqueza, nem pelo fato de minha mão ter ajuntado muito.
+
+[[v20-31-26]]
+
+^<<v20-31-26,26>>^ Quando via o sol brilhar e a lua levantar-se em seu esplendor,
+
+[[v20-31-27]]
+
+^<<v20-31-27,27>>^ jamais meu coração deixou-se seduzir em segredo e minha mão não foi levada à boca para um beijo.^&#42;1^
+
+[[v20-31-28]]
+
+^<<v20-31-28,28>>^ Isso seria um crime digno de castigo, pois eu teria renegado o Deus que está no alto.
+
+[[v20-31-29]]
+
+^<<v20-31-29,29>>^ Nunca me alegrei com a ruína de meu inimigo, nem exultei quando a infelicidade o feriu.
+
+[[v20-31-30]]
+
+^<<v20-31-30,30>>^ Não permiti que minha boca pecasse, reclamando sua morte por uma imprecação.
+
+[[v20-31-31]]
+
+^<<v20-31-31,31>>^ Jamais as pessoas de minha tenda me disseram: ‘Há alguém que não tenha ficado satisfeito da carne?’.^&#42;1^
+
+[[v20-31-32]]
+
+^<<v20-31-32,32>>^ O estrangeiro não passava a noite fora, eu abria a minha porta ao viajante.
+
+[[v20-31-33]]
+
+^<<v20-31-33,33>>^ Nunca dissimulei minha culpa aos homens, escondendo em meu peito minha iniquidade,
+
+[[v20-31-34]]
+
+^<<v20-31-34,34>>^ como se temesse a multidão e receasse o desprezo das famílias, a ponto de me manter quieto sem pôr o pé fora da porta.
+
+[[v20-31-35]]
+
+^<<v20-31-35,35>>^ Oh! Se eu tivesse alguém para me ouvir! Eis a minha assinatura: que o Todo-poderoso me responda! Que o meu adversário escreva também um memorial.
+
+[[v20-31-36]]
+
+^<<v20-31-36,36>>^ Por certo eu o carregaria sobre meus ombros e cingiria minha fronte com ele como de uma coroa!
+
+[[v20-31-37]]
+
+^<<v20-31-37,37>>^ Eu lhe prestaria contas de todos os meus passos e me apresentaria diante dele altivo como um príncipe.
+
+[[v20-31-38]]
+
+^<<v20-31-38,38>>^ Se minha terra clamou contra mim e seus sulcos derramaram lágrimas,^&#42;1^
+
+[[v20-31-39]]
+
+^<<v20-31-39,39>>^ se comi seus frutos sem pagar, se afligi os seus donos,
+
+[[v20-31-40]]
+
+^<<v20-31-40,40>>^ que em vez de trigo nasçam espinhos e joio em vez de cevada!”. Aqui terminam os discursos de Jó.^&#42;1^
+
+'''
+
+xref:020-jo/020-jo-030.adoc#v20-30-0[&#60; Capítulo Anterior] | <<v20-31-0,Topo>> | xref:020-jo/020-jo-032.adoc#v20-32-0[Próximo Capítulo &#62;]

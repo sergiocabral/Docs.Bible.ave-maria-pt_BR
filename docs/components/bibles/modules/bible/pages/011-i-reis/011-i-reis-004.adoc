@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v11-4-0]]
+=== I Reis, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 4 de 1 Reis descreve a organização do reino de Salomão. Ele nomeou doze oficiais para cuidar de diferentes áreas do país, incluindo o abastecimento de alimentos para o palácio real e a provisão de cavalos para o exército. A seguir estão cinco versículos da Bíblia relacionados com os temas abordados em 1 Reis 4.
+* Deuteronômio 17:16: "Porém não multiplicará para si cavalos, nem fará voltar o povo ao Egito, para multiplicar cavalos; pois o Senhor vos disse: Nunca mais voltareis por este caminho." Este versículo fala sobre como os reis de Israel não deveriam acumular cavalos ou voltar para o Egito para adquirir mais. Isso se relaciona com o capítulo 4 de 1 Reis, onde Salomão adquire cavalos e carruagens de outros países para o seu exército.
+* Provérbios 28:19: "Quem lavra a sua terra terá fartura de pão, mas quem segue os ociosos se encherá de pobreza." Este provérbio fala sobre a importância do trabalho árduo e da produtividade na obtenção de riqueza e prosperidade. Isso se relaciona com o capítulo 4 de 1 Reis, onde há uma descrição dos oficiais de Salomão que trabalham arduamente para fornecer alimentos e suprimentos para o palácio.
+* Isaías 55:2: "Por que gastais o dinheiro naquilo que não é pão? E o produto do vosso trabalho naquilo que não pode satisfazer?" Este versículo fala sobre a importância de investir em coisas que são verdadeiramente valiosas e satisfatórias. Isso se relaciona com o capítulo 4 de 1 Reis, onde Salomão investe em infraestrutura e suprimentos para o seu reino, a fim de garantir a prosperidade e segurança de seu povo.
+* Provérbios 22:29: "Vês um homem diligente na sua obra? Ele ficará perante reis; não ficará perante homens de negócios." Este provérbio fala sobre a recompensa da diligência e do trabalho árduo, que pode levar à posição de honra e sucesso. Isso se relaciona com o capítulo 4 de 1 Reis, onde Salomão escolhe homens diligentes para liderar seu reino.
+* Provérbios 13:23: "A terra dos pobres produz muito mantimento, mas há quem a destrua pela injustiça." Este versículo fala sobre a importância da justiça na administração da terra e dos recursos. Isso se relaciona com o capítulo 4 de 1 Reis, onde Salomão nomeia oficiais justos para cuidar das áreas do país e garantir a prosperidade e segurança de seu povo.
+****
+
+[[v11-4-1]]
+
+^<<v11-4-1,1>>^ O rei Salomão reinava sobre todo o Israel.
+
+[[v11-4-2]]
+
+^<<v11-4-2,2>>^ Estes são os ministros que o assistiam: Azarias, filho do sacerdote Sadoc;
+
+[[v11-4-3]]
+
+^<<v11-4-3,3>>^ Elioref e Aías, filhos de Sisa, escribas; Josafá, filho de Ailud, cronista;
+
+[[v11-4-4]]
+
+^<<v11-4-4,4>>^ Banaías, filho de Joiada, general do exército; Sadoc e Abiatar, sacerdotes;
+
+[[v11-4-5]]
+
+^<<v11-4-5,5>>^ Azarias, filho de Natã, chefe dos intendentes; Zabud, filho de Natã, conselheiro privado do rei;
+
+[[v11-4-6]]
+
+^<<v11-4-6,6>>^ Aisar, prefeito do palácio; e Adoniram, filho de Abda, dirigente dos trabalhos.
+
+[[v11-4-7]]
+
+^<<v11-4-7,7>>^ Salomão tinha doze intendentes estabelecidos sobre todo o Israel, que proviam às necessidades do rei e de sua casa, cada um durante um mês do ano.
+
+[[v11-4-8]]
+
+^<<v11-4-8,8>>^ Estes são os seus nomes: o filho de Hur, na montanha de Efraim;
+
+[[v11-4-9]]
+
+^<<v11-4-9,9>>^ o filho de Decar, em Maces, em Salebim, em Bet-Sames e em Aialon de Bet-Hanã;
+
+[[v11-4-10]]
+
+^<<v11-4-10,10>>^ o filho de Hesed, em Arubot, do qual dependia Soco e toda a terra de Héfer;
+
+[[v11-4-11]]
+
+^<<v11-4-11,11>>^ o filho de Abinadab, que tinha os altos de Dor e era casado com Tabaat, filha de Salomão;
+
+[[v11-4-12]]
+
+^<<v11-4-12,12>>^ Baana, filho de Ailud, que tinha Tanac e Meguido e todo o Betsã, perto de Sartana, debaixo de Jezrael, desde Betsã, até Abel-Meúla e até além de Jecmaam;
+
+[[v11-4-13]]
+
+^<<v11-4-13,13>>^ o filho de Gaber, em Ramot de Galaad, que tinha as aldeias de Jair, filho de Manassés, situadas em Galaad, toda a região de Argob em Basã, sessenta cidades grandes e muradas, que tinham fechaduras de bronze;
+
+[[v11-4-14]]
+
+^<<v11-4-14,14>>^ Ainadab, filho de Ado, em Maanaim;
+
+[[v11-4-15]]
+
+^<<v11-4-15,15>>^ Aquimaás, em Neftali, casado também com uma filha de Salomão, chamada Basemat;
+
+[[v11-4-16]]
+
+^<<v11-4-16,16>>^ Baana, filho de Husi, em Aser e em Baalot;
+
+[[v11-4-17]]
+
+^<<v11-4-17,17>>^ Josafá, filho de Farué, em Issacar;
+
+[[v11-4-18]]
+
+^<<v11-4-18,18>>^ Semei, filho de Ela, em Benjamim;
+
+[[v11-4-19]]
+
+^<<v11-4-19,19>>^ Gaber, filho de Uri, na terra de Galaad, pátria de Seon, rei dos amorreus e de Og, rei de Basã; havia um só intendente para toda essa região.
+
+[[v11-4-20]]
+
+^<<v11-4-20,20>>^ A população de Judá e de Israel era tão numerosa como a areia na praia do mar; comiam, bebiam e alegravam-se.
+
+'''
+
+xref:011-i-reis/011-i-reis-003.adoc#v11-3-0[&#60; Capítulo Anterior] | <<v11-4-0,Topo>> | xref:011-i-reis/011-i-reis-005.adoc#v11-5-0[Próximo Capítulo &#62;]

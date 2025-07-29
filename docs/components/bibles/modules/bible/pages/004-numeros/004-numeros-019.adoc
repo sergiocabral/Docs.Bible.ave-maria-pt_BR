@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v4-19-0]]
+=== Números, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 19 fala sobre a ordenança da vaca vermelha, um ritual de purificação para aqueles que tocaram um cadáver ou estiveram em contato com uma pessoa morta. A vaca vermelha, que deveria ser completamente vermelha e sem defeito, era sacrificada fora do acampamento e suas cinzas eram usadas para preparar a água da purificação. Aqueles que eram impuros precisavam ser aspergidos com a água da purificação no terceiro e no sétimo dia, para que pudessem ser considerados limpos novamente. Abaixo estão quatro versículos relacionados a temas abordados em Números 19:
+* Levítico 16:26 - "Aquele que soltar a cabra para Azazel lavará as suas vestes e banhará o seu corpo em água, e depois entrará no arraial." Este versículo fala sobre o Dia da Expiação, outro dia de purificação para o povo de Israel, que envolvia o sacrifício de dois bodes, um para o Senhor e outro para Azazel.
+* Hebreus 9:13-14 - "Porque se o sangue dos touros e dos bodes e a cinza duma novilha esparzida sobre os imundos os santifica, quanto à purificação da carne, muito mais o sangue de Cristo, que pelo Espírito eterno se ofereceu a si mesmo imaculado a Deus, purificará a vossa consciência das obras mortas, para servirdes ao Deus vivo?" Este versículo mostra que a purificação através de sacrifícios de animais não era suficiente para a purificação total dos pecados, e que somente o sacrifício de Cristo poderia purificar completamente.
+* Hebreus 9:19-22 - "Porque, havendo Moisés anunciado a todo o povo todos os mandamentos segundo a lei, tomou o sangue dos bezerros e dos bodes, com água, lã purpúrea, hissopo e esparziu tanto o mesmo livro como todo o povo, dizendo: Este é o sangue do testamento que Deus vos tem mandado. E semelhantemente esparziu com sangue o tabernáculo e todos os vasos do ministério. E quase todas as coisas, segundo a lei, se purificam com sangue; e sem derramamento de sangue não há remissão." Este versículo fala sobre a importância do derramamento de sangue nos rituais de purificação, e como isso se aplica à purificação pelo sangue de Cristo.
+* 1 João 1:7 - "Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado." Este versículo fala sobre a importância de viver em comunhão com Deus e com os outros, e como o sangue de Jesus pode nos purificar de todos os pecados.
+****
+
+[[v4-19-1]]
+
+^<<v4-19-1,1>>^ O Senhor disse a Moisés e a Aarão:
+
+[[v4-19-2]]
+
+^<<v4-19-2,2>>^ “Eis a prescrição legal que o Senhor vos dá: Dize aos israelitas que te tragam uma vaca vermelha sem defeito, sem mancha e que não tenha ainda levado o jugo.
+
+[[v4-19-3]]
+
+^<<v4-19-3,3>>^ Entregareis ao sacerdote Eleazar, o qual, levando-a para fora do acampamento, a imolará à vista de todos.
+
+[[v4-19-4]]
+
+^<<v4-19-4,4>>^ O sacerdote Eleazar tomará o sangue do animal com o dedo e fará com ele sete aspersões para o lado da entrada da tenda de reunião.
+
+[[v4-19-5]]
+
+^<<v4-19-5,5>>^ A vaca será em seguida queimada à vista de todos. Serão queimados o couro, a carne, o sangue e os excrementos.
+
+[[v4-19-6]]
+
+^<<v4-19-6,6>>^ O sacerdote tomará pau de cedro, hissopo e carmesim e os jogará na chama em que arde a vaca.
+
+[[v4-19-7]]
+
+^<<v4-19-7,7>>^ O sacerdote lavará suas vestes e a banhará em água. Depois disso, voltará ao acampamento e será impuro até a tarde.
+
+[[v4-19-8]]
+
+^<<v4-19-8,8>>^ Aquele que tiver queimado a vaca lavará suas vestes e se banhará em água, e será impuro até a tarde.
+
+[[v4-19-9]]
+
+^<<v4-19-9,9>>^ Um homem puro recolherá a cinza da vaca e a deporá em um lugar puro fora do acampamento, onde será guardada pela assembleia dos israelitas para a água lustral. Esse é um sacrifício pelo pecado.^&#42;1^
+
+[[v4-19-10]]
+
+^<<v4-19-10,10>>^ Aquele que tiver recolhido a cinza da vaca lavará suas vestes e será impuro até a tarde. Essa será uma lei perpétua para os israelitas e para o estrangeiro que habita no meio deles.
+
+[[v4-19-11]]
+
+^<<v4-19-11,11>>^ Quem tocar o cadáver de um homem qualquer será impuro sete dias.
+
+[[v4-19-12]]
+
+^<<v4-19-12,12>>^ Deverá purificar-se com essa água ao terceiro e ao sétimo dia, e ficará puro; mas se ele não se purificar ao terceiro e ao sétimo dia, não ficará puro.
+
+[[v4-19-13]]
+
+^<<v4-19-13,13>>^ Todo que tiver tocado o cadáver de um homem qualquer, e não se purificar, manchará a casa do Senhor. Essa pessoa será eliminada de Israel. Não tendo corrido sobre ela a água lustral, ficará impura, e sua impureza permanecerá sobre ela.
+
+[[v4-19-14]]
+
+^<<v4-19-14,14>>^ Esta é a lei: Tudo o que penetrar na tenda em que morrer um homem será impuro durante sete dias, e igualmente tudo o que ali se encontrar.
+
+[[v4-19-15]]
+
+^<<v4-19-15,15>>^ O vaso aberto, sem tampa, será também impuro.
+
+[[v4-19-16]]
+
+^<<v4-19-16,16>>^ Se alguém, em pleno campo, tocar em um homem morto pela espada, em um cadáver, em ossos humanos, ou em um sepulcro, será impuro durante sete dias.
+
+[[v4-19-17]]
+
+^<<v4-19-17,17>>^ Para quem se tiver assim manchado, se tomará da cinza da vítima queimada pelo pecado, e se despejará por cima dela, dentro de um vaso, água viva.
+
+[[v4-19-18]]
+
+^<<v4-19-18,18>>^ Em seguida, um homem puro, depois de ter molhado nela um hissopo, aspergirá com ele a tenda, todo o seu mobiliário, todas as pessoas que aí se encontram, bem como a pessoa que tocou nos ossos, ou no homem assassinado, ou no cadáver, ou no sepulcro.
+
+[[v4-19-19]]
+
+^<<v4-19-19,19>>^ O homem puro aspergirá o impuro ao terceiro e ao sétimo dia e o purificará no sétimo dia. Lavará as suas vestes e a si mesmo, e à tarde será puro.
+
+[[v4-19-20]]
+
+^<<v4-19-20,20>>^ O homem impuro que não se purificar será eliminado da assembleia, porque ele mancha o santuário do Senhor. Não tendo corrido sobre ele a água lustral, ele permanece impuro.
+
+[[v4-19-21]]
+
+^<<v4-19-21,21>>^ Essa será para eles uma lei perpétua. Aquele que tiver feito a aspersão com a água lustral deverá lavar suas vestes. Todo o que tocar a água lustral será impuro até a tarde.^&#42;1^
+
+[[v4-19-22]]
+
+^<<v4-19-22,22>>^ Todo o que tocar o impuro será manchado, e a pessoa que o tocar ficará impura até a tarde”.
+
+'''
+
+xref:004-numeros/004-numeros-018.adoc#v4-18-0[&#60; Capítulo Anterior] | <<v4-19-0,Topo>> | xref:004-numeros/004-numeros-020.adoc#v4-20-0[Próximo Capítulo &#62;]

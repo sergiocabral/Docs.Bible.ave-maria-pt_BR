@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v13-19-0]]
+=== I Crônicas, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Crônicas 19 relata a história da guerra entre Davi e os amonitas. O capítulo começa com Davi mostrando bondade a Hanum, filho do rei amonita, mas Hanum o insulta e o humilha, o que leva à guerra entre os dois povos. Davi envia seus generais para lutar contra os amonitas, e a batalha se desenrola. Aqui estão cinco versículos relacionados com os temas abordados em 1 Crônicas 19:
+* Deuteronômio 20:4 - "Porque o Senhor, vosso Deus, é o que vai convosco, a pelejar contra os vossos inimigos, para vos salvar." Este versículo mostra que Davi sabia que Deus estava com ele na batalha contra os amonitas, e isso lhe deu confiança para lutar.
+* Salmos 23:4 - "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo: a tua vara e o teu cajado me consolam." Este versículo mostra que Davi confiava em Deus mesmo quando enfrentava o perigo, e que Deus o guiava e o protegia.
+* Provérbios 16:18 - "A soberba precede a ruína, e a altivez do espírito precede a queda." Este versículo é uma lição para Hanum, que se orgulhou e insultou Davi, levando à guerra entre seus povos.
+* Isaías 41:10 - "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo mostra que Deus está sempre presente para ajudar e apoiar aqueles que confiam nele, como Davi.
+* 2 Coríntios 10:3-4 - "Porque, embora andemos na carne, não militamos segundo a carne, porque as armas da nossa milícia não são carnais, e sim poderosas em Deus, para destruição das fortalezas." Este versículo mostra que Davi confiava em Deus e em suas armas espirituais para lutar contra os amonitas, e não em suas próprias habilidades ou força física.
+****
+
+[[v13-19-1]]
+
+^<<v13-19-1,1>>^ Depois disso, Naás, rei dos amo- nitas, faleceu e seu filho lhe sucedeu.
+
+[[v13-19-2]]
+
+^<<v13-19-2,2>>^ Davi disse: “Quero mostrar-me amável a Hanon, filho de Naás, porque seu pai foi gentil comigo”. E Davi enviou-lhe, por meio de mensageiros, suas condolências pela morte de seu pai. Mas quando os servos de Davi chegaram à terra dos amonitas, junto de Hanon, para o consolarem,
+
+[[v13-19-3]]
+
+^<<v13-19-3,3>>^ os chefes dos amonitas disseram: “Pensas que é para honrar teu pai que Davi te enviou consoladores? Não é antes para reconhecer e explorar a terra e preparar-lhe a ruína, que seus servos vieram à tua casa?”.
+
+[[v13-19-4]]
+
+^<<v13-19-4,4>>^ Hanon, então, prendeu os servos de Davi, raspou-lhes os cabelos e a barba e cortou-lhes as vestes à meia altura, até o alto das coxas; em seguida, despediu-os.
+
+[[v13-19-5]]
+
+^<<v13-19-5,5>>^ Quando Davi foi informado do que tinha acontecido a esses homens, enviou-lhes homens ao encontro, pois estavam muito envergonhados. O rei mandou-lhes dizer: “Ficai em Jericó esperando que vossa barba cresça e depois podeis voltar”.
+
+[[v13-19-6]]
+
+^<<v13-19-6,6>>^ Viram os amonitas que se tinham tornado odiosos a Davi. Então, Hanon e os filhos de Amon enviaram mil talentos de prata para assalariar carros e cavaleiros entre os sírios da Mesopotâmia, de Maaca e de Soba.
+
+[[v13-19-7]]
+
+^<<v13-19-7,7>>^ Assalariaram trinta e dois mil carros e o rei de Maaca com seu exército, o qual veio acampar perto de Mádaba, enquanto os amonitas, deixando suas cidades, se reuniam e iam para a guerra.
+
+[[v13-19-8]]
+
+^<<v13-19-8,8>>^ Davi o soube e mandou contra eles Joab com todo o exército de homens valentes.
+
+[[v13-19-9]]
+
+^<<v13-19-9,9>>^ Os amonitas saíram e formaram-se em linha de batalha à porta da cidade. Os reis que tinham vindo mantinham-se à parte, no campo.
+
+[[v13-19-10]]
+
+^<<v13-19-10,10>>^ Vendo Joab que o ataque contra ele tinha sido disposto pela frente e pela retaguarda, escolheu dentre o escol de Israel um batalhão e o colocou em linha de batalha diante dos sírios.
+
+[[v13-19-11]]
+
+^<<v13-19-11,11>>^ Confiou o resto do povo sob o comando de seu irmão Abisaí, para fazer frente aos amonitas.
+
+[[v13-19-12]]
+
+^<<v13-19-12,12>>^ E disse: “Se os sírios forem mais fortes que eu, virás em meu socorro; se os amonitas forem mais fortes que tu, eu te socorrerei.
+
+[[v13-19-13]]
+
+^<<v13-19-13,13>>^ Sê forte! Todos nós juntos queremos ser corajosos, por amor ao nosso povo e às cidades de nosso Deus. Faça o Senhor o que lhe parecer melhor!”.
+
+[[v13-19-14]]
+
+^<<v13-19-14,14>>^ Joab, pois, avançou com o exército que o acompanhava, ao encontro dos sírios, para travar o combate e estes fugiram diante dele.
+
+[[v13-19-15]]
+
+^<<v13-19-15,15>>^ Quando os amonitas viram que os sírios se punham em fuga, fugiram eles também diante de Abisaí, irmão de Joab, e tornaram a entrar na cidade. E Joab entrou em Jerusalém.
+
+[[v13-19-16]]
+
+^<<v13-19-16,16>>^ Vendo-se derrotados por Israel, os sírios enviaram mensageiros para fazer vir os sírios que estavam do outro lado do rio: Sofac, comandante do exército de Adadezer, estava à frente deles.
+
+[[v13-19-17]]
+
+^<<v13-19-17,17>>^ Davi, informado disso, reuniu todo o Israel, atravessou o Jordão, dirigiu-se a eles e preparou-se para atacá-los, colocando o seu exército em linha de batalha contra os sírios.
+
+[[v13-19-18]]
+
+^<<v13-19-18,18>>^ Estes começaram o combate contra ele, mas fugiram diante de Israel e Davi matou os cavalos de seus sete mil carros e quarenta mil soldados de infantaria; matou também Sofac, comandante do exército.
+
+[[v13-19-19]]
+
+^<<v13-19-19,19>>^ Os súditos de Adadezer, vendo-se vencidos por Israel, fizeram as pazes com Davi e sujeitaram-se a ele. E os sírios não mais quiseram prestar auxílio aos amonitas.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-018.adoc#v13-18-0[&#60; Capítulo Anterior] | <<v13-19-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-020.adoc#v13-20-0[Próximo Capítulo &#62;]

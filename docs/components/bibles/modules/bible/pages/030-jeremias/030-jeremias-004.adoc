@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v30-4-0]]
+=== Jeremias, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 4 aborda a temática do juízo vindouro de Deus sobre o povo de Judá, bem como a necessidade de arrependimento e retorno à fidelidade a Deus. A seguir, apresento cinco versículos relacionados com esses temas:
+* Isaías 26:20: "Vai, meu povo, entra nos teus quartos, e fecha as tuas portas sobre ti; esconde-te só por um momento, até que passe a ira." Este verso traz uma mensagem semelhante à de Jeremias 4, alertando o povo de Deus a se refugiar diante da ira vindoura de Deus.
+* Sofonias 2:3: "Buscai ao SENHOR, vós todos os mansos da terra, que tendes posto por obra o seu juízo; buscai a justiça, buscai a mansidão; pode ser que sejais escondidos no dia da ira do SENHOR." Esse versículo encoraja as pessoas a buscarem a Deus e praticarem a justiça e a mansidão, como forma de encontrarem refúgio durante o dia da ira de Deus.
+* Ezequiel 18:30: "Portanto, eu vos julgarei, a cada um conforme os seus caminhos, ó casa de Israel, diz o Senhor JEOVÁ. Tornai-vos e convertei-vos de todas as vossas transgressões, e a iniquidade não vos servirá de tropeço." Esse verso reforça a ideia de que o juízo de Deus será baseado nas ações de cada pessoa, e encoraja as pessoas a se arrependerem e abandonarem seus pecados.
+* Oséias 10:12: "Semeai para vós em justiça, colhei segundo a misericórdia; lavrai o campo de lavoura; porque é tempo de buscar ao SENHOR, até que venha e chova a justiça sobre vós." Esse verso enfatiza a importância de buscar a Deus e praticar a justiça, como forma de se preparar para o juízo vindouro.
+* Isaías 55:6-7: "Buscai ao SENHOR enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos; volte-se ao SENHOR, que se compadecerá dele; e para o nosso Deus, porque é abundante em perdoar." Este versículo encoraja as pessoas a buscarem a Deus enquanto há tempo, abandonando seus caminhos pecaminosos e voltando-se para o Senhor, que é abundante em perdoar.
+****
+
+[[v30-4-1]]
+
+^<<v30-4-1,1>>^ “Se tu, Israel, voltares – oráculo do Senhor, se voltares para mim, se ante meu olhar te despojares de tuas práticas abomináveis; se não andares a vaguear de um lado para outro,
+
+[[v30-4-2]]
+
+^<<v30-4-2,2>>^ se pela vida do Senhor jurares, lealmente, com retidão e justiça, então as nações te incluirão em suas bênçãos, e almejarão partilhar de tua glória.
+
+[[v30-4-3]]
+
+^<<v30-4-3,3>>^ Assim fala o Senhor aos homens de Judá e Jerusalém: ‘Desbravai um novo campo, evitai semear entre espinhos, ó homens de Judá e Jerusalém.
+
+[[v30-4-4]]
+
+^<<v30-4-4,4>>^ Circuncidai-vos em honra do Senhor, tirai os prepúcios de vossos corações, para que meu furor se não converta em fogo, e não vos consuma, sem que ninguém possa extingui-lo, por causa da perversidade de vossos atos’.”^&#42;1^
+
+[[v30-4-5]]
+
+^<<v30-4-5,5>>^ Dai o alarme ao povo de Judá, avisai Jerusalém; mandai soar a trombeta pela terra inteira; gritai em altas vozes! Proclamai: “Reuni-vos! Retiremo-nos para as cidades fortificadas!”.
+
+[[v30-4-6]]
+
+^<<v30-4-6,6>>^ Erguei um estandarte dos lados de Sião! Abrigai-vos, não vos detenhais! Pois que vou desencadear do norte uma desgraça, catástrofe imensa.
+
+[[v30-4-7]]
+
+^<<v30-4-7,7>>^ Do seu covil parte um leão, e qual demolidor de nações se põe a caminho, saindo de seu refúgio para transformar em deserto a tua terra, e as cidades em desolação, onde ninguém mais habitará.
+
+[[v30-4-8]]
+
+^<<v30-4-8,8>>^ Revesti-vos, pois, de saco, chorai e gemei, pois que a tremenda cólera do Senhor não se afastou de nós.
+
+[[v30-4-9]]
+
+^<<v30-4-9,9>>^ Naquele dia – oráculo do Senhor –, faltará a coragem tanto ao rei como aos chefes; os sacerdotes serão tomados de terror; e os profetas, de espanto.
+
+[[v30-4-10]]
+
+^<<v30-4-10,10>>^ Alguém dirá: “Ah! Senhor JAVÉ! Na verdade, enganastes este povo e Jerusalém, quando lhe dissestes: Tereis a paz, no momento em que a espada ia feri-los de morte”.^&#42;1^
+
+[[v30-4-11]]
+
+^<<v30-4-11,11>>^ Naquele tempo, se dirá a esse povo e a Jerusalém: “Qual vento abrasador desencadeado das colinas do deserto; incapaz de joeirar e purificar, assim é o proceder da filha do meu povo;
+
+[[v30-4-12]]
+
+^<<v30-4-12,12>>^ vento impetuoso chega de lá até mim, mas, por minha vez, vou agora pronunciar minha sentença”.
+
+[[v30-4-13]]
+
+^<<v30-4-13,13>>^ Eis que alguém se levanta, como nuvens tempestuosas. São seus carros semelhantes ao furacão, seus cavalos, mais ligeiros que águias. Ai de nós! Estamos perdidos!
+
+[[v30-4-14]]
+
+^<<v30-4-14,14>>^ Jerusalém, limpa o coração da maldade, a fim de que consigas a salvação. Até quando abrigarás no coração pensamentos que te são funestos?
+
+[[v30-4-15]]
+
+^<<v30-4-15,15>>^ Eis que uma voz, vinda de Dã, dá o alarme, e desde os montes de Efraim anuncia a calamidade.
+
+[[v30-4-16]]
+
+^<<v30-4-16,16>>^ Proclamai-a às nações, ei-la! Levai a notícia até Jerusalém: assaltantes chegam de terra longínqua, lançando clamores contra as cidades de Judá.^&#42;1^
+
+[[v30-4-17]]
+
+^<<v30-4-17,17>>^ Quais guardiães de campo, circundam a cidade, por se haver ela revoltado contra mim – oráculo do Senhor.
+
+[[v30-4-18]]
+
+^<<v30-4-18,18>>^ É o teu proceder, são os teus atos que te acarretam essas desgraças. Eis o fruto de tua malícia, uma amargura que te fere o coração.
+
+[[v30-4-19]]
+
+^<<v30-4-19,19>>^ Minhas entranhas! Minhas entranhas! Sofro! Oh! As fibras de meu coração! O coração me bate, não me posso calar! Ouço o som das trombetas e o fragor da batalha.
+
+[[v30-4-20]]
+
+^<<v30-4-20,20>>^ Anunciam-se desastres sobre desastres, todo o país foi devastado. Foram de repente destruídas minhas tendas; num instante, meus pavilhões.
+
+[[v30-4-21]]
+
+^<<v30-4-21,21>>^ Até quando verei o estandarte, e ouvirei o som da trombeta?
+
+[[v30-4-22]]
+
+^<<v30-4-22,22>>^ Está louco o meu povo; nem mais me conhece. São filhos insensatos, desprovidos de inteligência, hábeis em praticar o mal, incapazes do bem.
+
+[[v30-4-23]]
+
+^<<v30-4-23,23>>^ Olho para a terra: tudo é caótico e deserto; para o céu: dele desapareceu toda a luz.
+
+[[v30-4-24]]
+
+^<<v30-4-24,24>>^ Olho para as montanhas e as vejo vacilar; e as colinas todas estremecem.
+
+[[v30-4-25]]
+
+^<<v30-4-25,25>>^ Olho: já não há nenhum ser humano; todas as aves do céu fugiram.
+
+[[v30-4-26]]
+
+^<<v30-4-26,26>>^ Olho: tornaram-se desertos os campos; todas as cidades foram destruídas diante do Senhor, ante a fúria de sua cólera.
+
+[[v30-4-27]]
+
+^<<v30-4-27,27>>^ Porque toda a terra será devastada – oráculo do Senhor –, mas não a exterminarei completamente.^&#42;1^
+
+[[v30-4-28]]
+
+^<<v30-4-28,28>>^ Eis a razão pela qual a terra cobriu-se de luto, e o céu, lá no alto, revestiu-se de negror. Pois que eu disse, e assim decretei: não voltarei atrás e não me retratarei.
+
+[[v30-4-29]]
+
+^<<v30-4-29,29>>^ Ao grito de: “Cavaleiros! Arqueiros!’’, toda a terra desandou em fuga. Lançaram-se nos esconderijos e galgaram rochedos, as cidades foram abandonadas e os habitantes desapareceram.
+
+[[v30-4-30]]
+
+^<<v30-4-30,30>>^ E tu, devastada, para que revestir-te de púrpura, engalanar-te com ornamentos de ouro, e alongar-te os olhos com pinturas? Em vão tentas ser bela; desprezam-te os amantes. É tua vida que odeiam.
+
+[[v30-4-31]]
+
+^<<v30-4-31,31>>^ Ouço gritos como os da mulher ao dar à luz, gritos de angústia quais os do primeiro parto. São os clamores da filha de Sião; geme e ergue as mãos: “Desgraçada de mim! Desfaleço ante os algozes”.
+
+'''
+
+xref:030-jeremias/030-jeremias-003.adoc#v30-3-0[&#60; Capítulo Anterior] | <<v30-4-0,Topo>> | xref:030-jeremias/030-jeremias-005.adoc#v30-5-0[Próximo Capítulo &#62;]

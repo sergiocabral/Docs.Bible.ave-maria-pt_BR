@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v3-18-0]]
+=== Levítico, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Levítico 18 trata das proibições sexuais na lei de Deus para o povo de Israel. Os versículos selecionados abaixo tratam de diferentes aspectos dos relacionamentos sexuais proibidos e suas consequências:
+* Deuteronômio 27:20: "Maldito aquele que se deitar com a mulher de seu pai, pois profanou o leito de seu pai." Este versículo condena a relação sexual com a esposa do pai, uma das proibições mencionadas em Levítico 18:8.
+* Provérbios 6:32: "O que comete adultério não tem juízo; destrói a si mesmo." Este versículo adverte sobre a gravidade do adultério, um pecado sexual proibido em Levítico 18:20.
+* I Coríntios 6:9: "Não sabeis que os injustos não herdarão o Reino de Deus? Não vos enganeis: nem impuros, nem idólatras, nem adúlteros, nem efeminados, nem homossexuais." Este versículo menciona alguns dos pecados sexuais proibidos em Levítico 18 e reforça a importância de obedecer a lei de Deus para herdar o Reino de Deus.
+* II Samuel 13:14: "Mas ele não quis ouvir e, sendo mais forte, a violentou e a possuiu." Este versículo descreve o estupro de Tamar por Amnon, um pecado sexual proibido em Levítico 18:25.
+* Romanos 1:26-27: "Por causa disso, os entregou Deus a paixões infames; porque até as mulheres mudaram o modo natural de suas relações íntimas por outro, contrário à natureza; semelhantemente, os homens também, deixando o contato natural da mulher, se inflamaram mutuamente em sua sensualidade, cometendo torpeza, homens com homens, e recebendo em si mesmos a merecida punição do seu erro." Este versículo menciona o pecado da homossexualidade, que é proibido em Levítico 18:22.
+****
+
+[[v3-18-1]]
+
+^<<v3-18-1,1>>^ O Senhor disse a Moisés:
+
+[[v3-18-2]]
+
+^<<v3-18-2,2>>^ “Dize aos israelitas o seguinte: Eu sou o Senhor, vosso Deus.
+
+[[v3-18-3]]
+
+^<<v3-18-3,3>>^ Não procedereis conforme os costumes do Egito onde habitastes, ou de Canaã aonde vos conduzi: não seguireis seus costumes.
+
+[[v3-18-4]]
+
+^<<v3-18-4,4>>^ Praticareis meus preceitos e observareis minhas leis e a elas obedecereis. Eu sou o Senhor, vosso Deus.
+
+[[v3-18-5]]
+
+^<<v3-18-5,5>>^ Observareis meus preceitos e minhas leis, pois o homem que o observar viverá por eles. Eu sou o Senhor.^&#42;1^
+
+[[v3-18-6]]
+
+^<<v3-18-6,6>>^ Nenhum de vós se achegará àquela que lhe é próxima por sangue, para descobrir sua nudez. Eu sou o Senhor.
+
+[[v3-18-7]]
+
+^<<v3-18-7,7>>^ Não descobrirás a nudez de teu pai, nem a de tua mãe. Ela é tua mãe: não descobrirás a sua nudez.
+
+[[v3-18-8]]
+
+^<<v3-18-8,8>>^ Não descobrirás a nudez da mulher de teu pai: é a nudez de teu pai.
+
+[[v3-18-9]]
+
+^<<v3-18-9,9>>^ Nem a de tua irmã, filha de teu pai ou de tua mãe, nascida na casa ou fora dela.
+
+[[v3-18-10]]
+
+^<<v3-18-10,10>>^ Não descobrirás a nudez da filha de teu filho ou da filha de tua filha, porque é tua nudez.
+
+[[v3-18-11]]
+
+^<<v3-18-11,11>>^ Nem a da filha da mulher de teu pai, nascida de teu pai: é tua irmã.
+
+[[v3-18-12]]
+
+^<<v3-18-12,12>>^ Não descobrirás a nudez da irmã de teu pai: ela é da mesma carne que teu pai.
+
+[[v3-18-13]]
+
+^<<v3-18-13,13>>^ Nem a da irmã de tua mãe; porque ela é da mesma carne que tua mãe.
+
+[[v3-18-14]]
+
+^<<v3-18-14,14>>^ Não descobrirás a nudez do irmão de teu pai, aproximando-te de sua mulher: é tua tia.
+
+[[v3-18-15]]
+
+^<<v3-18-15,15>>^ Não descobrirás a nudez de tua nora: é a mulher de teu filho. Não descobrirás, pois, a sua nudez.
+
+[[v3-18-16]]
+
+^<<v3-18-16,16>>^ Nem a da mulher de teu irmão: é a nudez de teu irmão.
+
+[[v3-18-17]]
+
+^<<v3-18-17,17>>^ Não descobrirás a nudez de uma mulher e de sua filha, e não tomarás a filha de seu filho, nem a filha de sua filha, para descobrir a sua nudez: elas são tuas próximas parentas, e isso seria um crime.
+
+[[v3-18-18]]
+
+^<<v3-18-18,18>>^ Não tomarás a irmã de tua mulher, de modo que lhe seja um rival, descobrindo a sua nudez com a de tua mulher durante a sua vida.
+
+[[v3-18-19]]
+
+^<<v3-18-19,19>>^ Não te achegarás a uma mulher durante a sua menstruação para descobrir a sua nudez.
+
+[[v3-18-20]]
+
+^<<v3-18-20,20>>^ Não dormirás com a mulher de teu próximo, contaminando-te com ela.
+
+[[v3-18-21]]
+
+^<<v3-18-21,21>>^ Não darás nenhum de teus filhos para ser sacrificado a Moloc; e não profanarás o nome de teu Deus. Eu sou o Senhor.^&#42;1^
+
+[[v3-18-22]]
+
+^<<v3-18-22,22>>^ Não te deitarás com um homem, como se fosse mulher: isso é uma abominação.
+
+[[v3-18-23]]
+
+^<<v3-18-23,23>>^ Não te deitarás com animal algum, para não te contaminares com ele. Uma mulher não se prostituirá com um animal: isso é uma abominação.
+
+[[v3-18-24]]
+
+^<<v3-18-24,24>>^ Não vos contamineis com nenhuma dessas coisas, porque é assim que se contaminaram as nações que vou expulsar diante de vós.
+
+[[v3-18-25]]
+
+^<<v3-18-25,25>>^ A terra está contaminada; punirei suas iniquidades e a terra vomitará seus habitantes.
+
+[[v3-18-26]]
+
+^<<v3-18-26,26>>^ Vós, porém, observareis minhas leis e minhas ordens e não cometereis nenhuma dessas abominações, tanto o aborígine como o estrangeiro que habita no meio de vós,
+
+[[v3-18-27]]
+
+^<<v3-18-27,27>>^ porque todas essas abominações cometeram os habitantes da terra que vos precederam e a terra está contaminada.
+
+[[v3-18-28]]
+
+^<<v3-18-28,28>>^ Desse modo, a terra não vos vomitará por havê-la contaminado, como vomitou os povos que a habitaram antes de vós.
+
+[[v3-18-29]]
+
+^<<v3-18-29,29>>^ Todos aqueles, com efeito, que cometerem qualquer dessas abominações, serão cortados do meio de seu povo.
+
+[[v3-18-30]]
+
+^<<v3-18-30,30>>^ Guardareis, pois, os meus mandamentos, e não seguireis nenhum dos costumes abomináveis que se praticavam antes de vós, e não vos contaminareis por eles. Eu sou o Senhor, vosso Deus”.
+
+'''
+
+xref:003-levitico/003-levitico-017.adoc#v3-17-0[&#60; Capítulo Anterior] | <<v3-18-0,Topo>> | xref:003-levitico/003-levitico-019.adoc#v3-19-0[Próximo Capítulo &#62;]

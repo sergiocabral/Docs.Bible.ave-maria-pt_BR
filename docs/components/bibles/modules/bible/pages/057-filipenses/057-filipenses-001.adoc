@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v57-1-0]]
+=== Filipenses, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Filipenses 1 é um capítulo que fala sobre a alegria que Paulo tinha em sua prisão, sua oração pelos filipenses e seu desejo de que Cristo seja glorificado em sua vida. A seguir, estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Filipenses 1.
+* 2 Coríntios 12:10: "Por isso sinto prazer nas fraquezas, nas injúrias, nas necessidades, nas perseguições, nas angústias, por amor de Cristo. Porque quando sou fraco, então é que sou forte." Este versículo fala sobre o prazer que Paulo tinha nas dificuldades, o que é abordado em Filipenses 1, onde ele fala sobre a alegria que tinha em sua prisão.
+* Colossenses 1:9-12: "Por esta razão, também nós, desde o dia em que o ouvimos, não cessamos de orar por vós, e de pedir que sejais cheios do conhecimento da sua vontade, em toda a sabedoria e entendimento espiritual; para que possais andar de maneira digna do Senhor, agradando-lhe em tudo, frutificando em toda boa obra, e crescendo no conhecimento de Deus; sendo fortalecidos com todo o poder, segundo a força da sua glória, para que tenhais toda a perseverança e paciência com gozo; dando graças ao Pai, que vos fez idôneos para participar da herança dos santos na luz." Este versículo fala sobre a oração de Paulo pelos colossenses, o que é abordado em Filipenses 1, onde ele fala sobre sua oração pelos filipenses.
+* 1 Coríntios 10:31: "Portanto, quer comais, quer bebais ou façais qualquer outra coisa, fazei tudo para a glória de Deus." Este versículo fala sobre a importância de glorificar a Deus em todas as coisas, o que é abordado em Filipenses 1, onde Paulo expressa seu desejo de que Cristo seja glorificado em sua vida.
+* 2 Coríntios 1:3-4: "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda consolação, que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em qualquer tribulação, com a consolação com que nós mesmos somos consolados por Deus." Este versículo fala sobre a consolação que Deus oferece em meio às tribulações, o que é abordado em Filipenses 1, onde Paulo fala sobre a alegria que tinha mesmo em meio a sua prisão.
+* 1 Coríntios 1:8-9: "O qual também vos confirmará até o fim, para serdes irrepreensíveis no dia de nosso Senhor Jesus Cristo. Fiel é Deus, pelo qual fostes chamados para a comunhão de seu Filho Jesus Cristo nosso Senhor." Este versículo fala sobre a fidelidade de Deus em nos confirmar até o fim, o que é abordado em Filipenses 1, onde Paulo expressa sua confiança de que aquele que começou a boa obra nos filipenses irá completá-la.
+****
+
+[[v57-1-1]]
+
+^<<v57-1-1,1>>^ Paulo e Timóteo, servos de Jesus Cristo, a todos os santos em Jesus Cristo, que se acham em Filipos, juntamente com os bispos e diáconos:^&#42;1^
+
+[[v57-1-2]]
+
+^<<v57-1-2,2>>^ a vós, graça e paz da parte de Deus, nosso Pai, e da parte do Senhor Jesus Cristo!
+
+[[v57-1-3]]
+
+^<<v57-1-3,3>>^ Dou graças a meu Deus, cada vez que de vós me lembro.
+
+[[v57-1-4]]
+
+^<<v57-1-4,4>>^ Em todas as minhas orações, rezo sempre com alegria por todos vós,
+
+[[v57-1-5]]
+
+^<<v57-1-5,5>>^ recordando-me da cooperação que haveis dado na difusão do Evangelho, desde o primeiro dia até agora.
+
+[[v57-1-6]]
+
+^<<v57-1-6,6>>^ Estou persuadido de que aquele que iniciou em vós esta obra excelente lhe dará o acabamento até o dia de Jesus Cristo.^&#42;1^
+
+[[v57-1-7]]
+
+^<<v57-1-7,7>>^ É justo que eu tenha bom conceito de todos vós, porque vos trago no coração, por terdes tomado parte na graça que me foi dada, tanto na minha prisão como na defesa e na confirmação do Evangelho.
+
+[[v57-1-8]]
+
+^<<v57-1-8,8>>^ Deus me é testemunha da ternura que vos consagro a todos, pelo entranhado amor de Jesus Cristo!
+
+[[v57-1-9]]
+
+^<<v57-1-9,9>>^ Peço, na minha oração, que a vossa caridade se enriqueça cada vez mais de compreensão e critério,
+
+[[v57-1-10]]
+
+^<<v57-1-10,10>>^ com que possais discernir o que é mais perfeito e vos torneis puros e irrepreensíveis para o dia de Cristo,
+
+[[v57-1-11]]
+
+^<<v57-1-11,11>>^ cheios de frutos da justiça, que provêm de Jesus Cristo, para a glória e louvor de Deus.
+
+[[v57-1-12]]
+
+^<<v57-1-12,12>>^ Meus irmãos, quero fazer-vos saber que os acontecimentos que me envolvem estão redundando em maior proveito do Evangelho.
+
+[[v57-1-13]]
+
+^<<v57-1-13,13>>^ Em todo o pretório e por toda parte tornou-se conhecido que é por causa de Cristo que estou preso.^&#42;1^
+
+[[v57-1-14]]
+
+^<<v57-1-14,14>>^ A maior parte dos irmãos, ante a notícia das minhas cadeias, cobrou nova confiança no Senhor e maior entusiasmo em anunciar sem temor a Palavra de Deus.
+
+[[v57-1-15]]
+
+^<<v57-1-15,15>>^ É verdade que alguns pregam Cristo por inveja a mim e por discórdia, mas outros o fazem com a melhor boa vontade.
+
+[[v57-1-16]]
+
+^<<v57-1-16,16>>^ Estes, por caridade, sabendo que tenho por missão a defesa do Evangelho;
+
+[[v57-1-17]]
+
+^<<v57-1-17,17>>^ aqueles, ao contrário, pregam Cristo por espírito de intriga, e não com reta intenção, no intuito de agravar meu sofrimento nesta prisão.
+
+[[v57-1-18]]
+
+^<<v57-1-18,18>>^ Mas não faz mal! Contanto que de todas as maneiras, por pretexto ou por verdade, Cristo seja anunciado, nisto não só me alegro, mas sempre me alegrarei.
+
+[[v57-1-19]]
+
+^<<v57-1-19,19>>^ Pois sei que isto me resultará em salvação, graças às vossas orações e ao socorro do Espírito de Jesus Cristo.
+
+[[v57-1-20]]
+
+^<<v57-1-20,20>>^ Meu ardente desejo e minha esperança são que em nada serei confundido, mas que, hoje como sempre, Cristo será glorificado no meu corpo (tenho toda a certeza disto), quer pela minha vida, quer pela minha morte.
+
+[[v57-1-21]]
+
+^<<v57-1-21,21>>^ Porque para mim o viver é Cristo e o morrer é lucro.
+
+[[v57-1-22]]
+
+^<<v57-1-22,22>>^ Mas, se o viver no corpo é útil para o meu trabalho, não sei então o que devo preferir.
+
+[[v57-1-23]]
+
+^<<v57-1-23,23>>^ Sinto-me pressionado dos dois lados: por uma parte, desejaria desprender-me para estar com Cristo – o que seria imensamente melhor;
+
+[[v57-1-24]]
+
+^<<v57-1-24,24>>^ mas, de outra parte, continuar a viver é mais necessário, por causa de vós...
+
+[[v57-1-25]]
+
+^<<v57-1-25,25>>^ Persuadido disso, sei que ficarei e continuarei com todos vós, para proveito vosso e consolação da vossa fé.
+
+[[v57-1-26]]
+
+^<<v57-1-26,26>>^ Assim, minha volta para junto de vós vos dará um novo motivo de alegria em Cristo Jesus.
+
+[[v57-1-27]]
+
+^<<v57-1-27,27>>^ Cumpre, somente, que vos mostreis em vosso proceder dignos do Evangelho de Cristo. Quer eu vá ter convosco, quer permaneça ausente, desejo ouvir que estais firmes em um só espírito, lutando unanimemente pela fé do Evangelho,
+
+[[v57-1-28]]
+
+^<<v57-1-28,28>>^ sem vos deixardes intimidar em nada pelos vossos adversários. Isso para eles é motivo de perdição; para vós outros, de salvação. E é a vontade de Deus,
+
+[[v57-1-29]]
+
+^<<v57-1-29,29>>^ porque a vós vos é dado não somente crer em Cristo, mas ainda por ele sofrer.
+
+[[v57-1-30]]
+
+^<<v57-1-30,30>>^ Sustentais o mesmo combate que me tendes visto travar e no qual sabeis que eu continuo agora.
+
+'''
+
+xref:056-efesios/056-efesios-006.adoc#v56-6-0[&#60; Capítulo Anterior] | <<v57-1-0,Topo>> | xref:057-filipenses/057-filipenses-002.adoc#v57-2-0[Próximo Capítulo &#62;]

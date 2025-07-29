@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v28-15-0]]
+=== Eclesiástico, 15
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 15 do livro de Eclesiástico trata da escolha entre a sabedoria e a insensatez, enfatizando a importância de seguir os caminhos do Senhor. Os versículos selecionados a seguir abordam temas relacionados, como a liberdade de escolha, o papel da sabedoria e a necessidade de viver uma vida justa.
+* Provérbios 3:13-14: "Feliz é o homem que acha sabedoria, e o homem que adquire entendimento; pois é melhor a sua mercadoria do que a mercadoria de prata, e a sua renda do que o ouro mais fino." Este versículo destaca a importância da sabedoria, afirmando que aqueles que a buscam são mais bem sucedidos do que aqueles que buscam riquezas materiais.
+* Josué 24:15: "Porém, se vos parece mal servir ao Senhor, escolhei hoje a quem sirvais: se aos deuses a quem serviram vossos pais, que estavam além do rio, ou aos deuses dos amorreus, em cuja terra habitais; porém eu e a minha casa serviremos ao Senhor." Este versículo enfatiza a liberdade de escolha, mas também destaca a importância de servir ao Senhor.
+* Provérbios 10:27: "O temor do Senhor prolonga os dias; mas os anos dos ímpios serão abreviados." Este versículo fala sobre a importância do temor do Senhor e como ele pode afetar a duração da vida de uma pessoa.
+* 1 João 3:7: "Filhinhos, não vos deixeis enganar por ninguém; aquele que pratica a justiça é justo, assim como Ele é justo." Este versículo enfatiza a importância de viver uma vida justa e seguir os caminhos do Senhor.
+* Salmo 37:23-24: "Os passos de um homem bom são confirmados pelo Senhor, e ele se deleita no seu caminho. Ainda que caia, não ficará prostrado, pois o Senhor o sustém com a sua mão." Este versículo fala sobre como o Senhor protege aqueles que seguem seus caminhos, mesmo quando enfrentam dificuldades.
+****
+
+[[v28-15-1]]
+
+^<<v28-15-1,1>>^ Aquele que teme a Deus praticará o bem. Aquele que exerce a justiça possuirá a sabedoria.
+
+[[v28-15-2]]
+
+^<<v28-15-2,2>>^ Ela virá ao seu encontro como mãe cumulada de honrarias, e ela o receberá como uma esposa virgem;
+
+[[v28-15-3]]
+
+^<<v28-15-3,3>>^ irá alimentá-lo com o pão da vida e da inteligência, e ela o saciará com a água salutar da sabedoria. Ela se fortalecerá nele e o tornará inabalável,^&#42;1^
+
+[[v28-15-4]]
+
+^<<v28-15-4,4>>^ ela o sustentará para que não seja confundido, e o exaltará entre os seus próximos.
+
+[[v28-15-5]]
+
+^<<v28-15-5,5>>^ Ela lhe abrirá a boca no meio da assembleia, o encherá do espírito de sabedoria e de inteligência, e o revestirá com um manto glorioso.
+
+[[v28-15-6]]
+
+^<<v28-15-6,6>>^ Acumulará sobre ele um tesouro de alegria e de júbilo, e lhe dará por herança um nome eterno.
+
+[[v28-15-7]]
+
+^<<v28-15-7,7>>^ Os homens insensatos não a alcançarão, mas os homens de bom senso irão ao encontro dela; os insensatos não a verão, porque ela está longe do orgulho e da fraude.
+
+[[v28-15-8]]
+
+^<<v28-15-8,8>>^ Os mentirosos dela não se recordarão, mas os homens sinceros se acharão com ela, e prosperarão até a visita de Deus.
+
+[[v28-15-9]]
+
+^<<v28-15-9,9>>^ O louvor não é belo na boca do pecador,
+
+[[v28-15-10]]
+
+^<<v28-15-10,10>>^ porque a sabedoria vem de Deus; o louvor a Deus acompanha a sabedoria, enche a boca fiel, e lhe é inspirada pelo Dominador.^&#42;1^
+
+[[v28-15-11]]
+
+^<<v28-15-11,11>>^ Não digas: “É por causa de Deus que ela me falta”. Pois cabe a ti não fazer o que ele abomina.^&#42;1^
+
+[[v28-15-12]]
+
+^<<v28-15-12,12>>^ Não digas: “Foi ele que me transviou”, pois que Deus não necessita dos pecadores.
+
+[[v28-15-13]]
+
+^<<v28-15-13,13>>^ O Senhor detesta todo o erro e toda a abominação; aqueles que o temem não amam essas coisas.
+
+[[v28-15-14]]
+
+^<<v28-15-14,14>>^ No princípio Deus criou o homem, e o entregou ao seu próprio juízo;^&#42;1^
+
+[[v28-15-15]]
+
+^<<v28-15-15,15>>^ deu-lhe ainda os mandamentos e os preceitos.
+
+[[v28-15-16]]
+
+^<<v28-15-16,16>>^ Se quiseres guardar os mandamentos, e praticar sempre fielmente o que é agradável a Deus, eles te guardarão.^&#42;1^
+
+[[v28-15-17]]
+
+^<<v28-15-17,17>>^ Ele pôs diante de ti a água e o fogo: estende a mão para aquilo que desejares.
+
+[[v28-15-18]]
+
+^<<v28-15-18,18>>^ A vida e a morte, o bem e o mal estão diante do homem; o que ele escolher, isso lhe será dado,
+
+[[v28-15-19]]
+
+^<<v28-15-19,19>>^ porque é grande a sabedoria de Deus. Forte e poderoso, ele vê sem cessar todos os homens.
+
+[[v28-15-20]]
+
+^<<v28-15-20,20>>^ Os olhos do Senhor estão sobre os que o temem, e ele conhece todo o comportamento dos homens.
+
+[[v28-15-21]]
+
+^<<v28-15-21,21>>^ Ele não deu ordem a ninguém para fazer o mal, e a ninguém deu licença para pecar;
+
+[[v28-15-22]]
+
+^<<v28-15-22,22>>^ pois não deseja uma multidão de filhos infiéis e inúteis.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-014.adoc#v28-14-0[&#60; Capítulo Anterior] | <<v28-15-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-016.adoc#v28-16-0[Próximo Capítulo &#62;]

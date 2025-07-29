@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v14-10-0]]
+=== II Crônicas, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 10 de 2 Crônicas narra a história de como o rei Roboão, filho de Salomão, se tornou o rei de Judá após a morte de seu pai. Ele é confrontado por Jeroboão, líder do reino de Israel do norte, que pede a Roboão para diminuir a carga tributária imposta sobre o povo. Roboão se recusa a fazê-lo, o que leva à divisão do reino de Israel em duas partes. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Crônicas 10.
+* 1 Reis 12:15: "Então o rei não ouviu o povo; pois esta mudança veio do Senhor, para que cumprisse a palavra que o Senhor falara por intermédio de Aías, o silonita, a Jeroboão, filho de Nebate." Este versículo fala sobre como a divisão do reino de Israel foi profetizada por Deus. Isso mostra que a divisão não foi apenas uma consequência das ações de Roboão, mas também uma parte do plano divino.
+* Provérbios 15:1: "A resposta branda desvia o furor, mas a palavra dura suscita a ira." Este versículo enfatiza a importância da comunicação efetiva e gentil. Se Roboão tivesse respondido a Jeroboão de maneira mais branda e compassiva, a história pode ter sido diferente.
+* Mateus 12:25: "Jesus, porém, conhecendo-lhes os pensamentos, disse: Todo reino dividido contra si mesmo é devastado; e toda cidade ou casa dividida contra si mesma não subsistirá." Este versículo destaca como a divisão entre o reino de Israel levou a conflitos internos e a enfraquecimento de ambas as partes. Isso mostra que a união é importante para a sobrevivência de um reino.
+* 1 Samuel 8:7: "Disse o Senhor a Samuel: Atende à voz do povo em tudo quanto te diz, pois não te rejeitaram a ti, porém a mim me rejeitaram, para eu não reinar sobre eles." Este versículo é semelhante à profecia de 1 Reis 12:15, mostrando que o desejo do povo por um líder diferente foi visto como um rejeição a Deus como seu rei.
+* Gálatas 5:14: "Porque toda a lei se cumpre numa só palavra, nesta: Amarás o teu próximo como a ti mesmo." Este versículo enfatiza a importância do amor e da empatia ao lidar com outras pessoas. Se Roboão tivesse amado seu povo e considerado suas necessidades, ele poderia ter evitado a divisão do reino de Israel.
+****
+
+[[v14-10-1]]
+
+^<<v14-10-1,1>>^ Roboão foi a Siquém, onde todo o Israel se tinha reunido para proclamá-lo rei.
+
+[[v14-10-2]]
+
+^<<v14-10-2,2>>^ Jeroboão, filho de Nabat, estava nesse tempo no Egito, para onde tinha fugido para escapar ao rei Salomão. Soube disso e retornou. Tinham-no mandado chamar.
+
+[[v14-10-3]]
+
+^<<v14-10-3,3>>^ Jeroboão e todo o Israel vieram, portanto, dizer a Roboão:
+
+[[v14-10-4]]
+
+^<<v14-10-4,4>>^ “Teu pai nos impôs um jugo pesado. Alivia, portanto, esta dura servidão e este jugo pesado que ele nos impôs. Nós seremos teus servos”.
+
+[[v14-10-5]]
+
+^<<v14-10-5,5>>^ “Voltai – respondeu ele – a mim daqui a três dias.” E a multidão se retirou.
+
+[[v14-10-6]]
+
+^<<v14-10-6,6>>^ O rei Roboão aconselhou-se então com os anciãos que tinham cercado seu pai Salomão durante sua vida. “Que me aconselhais vós – disse-lhes ele – a responder a esse povo?”
+
+[[v14-10-7]]
+
+^<<v14-10-7,7>>^ Disseram: “Se tu te mostras bom para com esse povo e dás atenção a ele, se lhe falas com benevolência, será teu servo para sempre”.
+
+[[v14-10-8]]
+
+^<<v14-10-8,8>>^ Mas Roboão negligenciou o conselho que lhe davam os anciãos para, por sua vez, consultar os jovens de sua roda, que tinham crescido com ele:
+
+[[v14-10-9]]
+
+^<<v14-10-9,9>>^ “Que me aconselhais vós – disse-lhes ele – a responder a esse povo que me pede que eu alivie o jugo imposto a ele por meu pai?”.
+
+[[v14-10-10]]
+
+^<<v14-10-10,10>>^ Os jovens que tinham crescido com ele lhe responderam: “Eis as palavras que terás para o povo que te disse: ‘Teu pai colocou sobre nós um jugo pesado, tu nos alivia’. Tu lhes dirá assim: ‘Meu dedo mínimo é mais grosso que a cintura de meu pai.
+
+[[v14-10-11]]
+
+^<<v14-10-11,11>>^ Impôs-vos meu pai um jugo pesado? Eu o tornarei mais pesado ainda. Ele vos castigou com açoites? Eu vos castigarei com escorpiões’.”
+
+[[v14-10-12]]
+
+^<<v14-10-12,12>>^ Três dias depois, Jeroboão, seguido de toda uma multidão, apresentou-se diante de Roboão, uma vez que o rei tinha dito: “Voltai a mim depois de três dias”.
+
+[[v14-10-13]]
+
+^<<v14-10-13,13>>^ O rei respondeu-lhes com dureza.
+
+[[v14-10-14]]
+
+^<<v14-10-14,14>>^ Desprezou o conselho dos anciãos e deu-lhes uma resposta, no sentido do conselho de seus companheiros: “Meu pai – disse ele – impôs-vos um jugo pesado? Eu o tornarei mais pesado ainda. Castigou-vos meu pai com açoites? Eu vos castigarei com escorpiões”.^&#42;1^
+
+[[v14-10-15]]
+
+^<<v14-10-15,15>>^ Assim, pois, o rei não escutou o povo. Era isso uma disposição divina para a realização da promessa que Deus fizera a Jeroboão, filho de Nabat, por meio de Aías de Silo.
+
+[[v14-10-16]]
+
+^<<v14-10-16,16>>^ Ao ver que o rei não os escutava, o povo israelita lhe fez esta declaração: “Que parte temos nós com Davi? Nada temos em comum com o filho de Jessé. Cada um para suas tendas, ó Israel! A ti compete cuidar de tua casa, Davi!”. E todos os israelitas voltaram para suas casas.
+
+[[v14-10-17]]
+
+^<<v14-10-17,17>>^ Roboão só exerceu seu poder sobre os israelitas que ainda habitavam nas cidades de Judá.
+
+[[v14-10-18]]
+
+^<<v14-10-18,18>>^ Enviou Aduram com a missão de aliviar os impostos, mas os israelitas o apedrejaram e ele morreu. Então, o rei teve que se apressar em subir num carro e fugir para Jerusalém.
+
+[[v14-10-19]]
+
+^<<v14-10-19,19>>^ Foi assim que se produziu a dissidência da casa de Israel, que dura ainda hoje.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-009.adoc#v14-9-0[&#60; Capítulo Anterior] | <<v14-10-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-011.adoc#v14-11-0[Próximo Capítulo &#62;]

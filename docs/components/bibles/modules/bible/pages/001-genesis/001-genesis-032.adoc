@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v1-32-0]]
+=== Gênesis, 32
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 32 relata a preparação de Jacó para se encontrar com seu irmão Esaú, a quem ele havia enganado e traído anos antes. O capítulo narra a luta de Jacó com um homem misterioso, que alguns interpretam como sendo Deus. Jacó também envia presentes a Esaú na esperança de aplacar sua ira e se reconciliar com ele. Abaixo estão cinco versículos relacionados aos temas do capítulo:
+* Salmos 34:19 - "Muitas são as aflições do justo, mas o SENHOR o livra de todas." Este verso reflete o estado de espírito de Jacó enquanto se preparava para se encontrar com Esaú. Ele estava temeroso e aflito, preocupado com a ira de seu irmão e as possíveis consequências de seus atos passados.
+* Oséias 12:3-4 - "No ventre, ele suplantou o irmão, e na sua força lutou com Deus. Lutou com o anjo e prevaleceu; chorou e lhe suplicou. Em Betel o encontrou e ali falou conosco." Este verso faz referência à luta de Jacó com o homem misterioso em Gênesis 32, que alguns interpretam como sendo Deus ou um anjo enviado por ele. A luta representa o esforço de Jacó para confrontar e superar seu passado.
+* Provérbios 16:7 - "Quando os caminhos do homem agradam ao Senhor, ele faz até que os seus inimigos tenham paz com ele." Este verso é relevante para a situação de Jacó, que estava tentando aplacar a ira de seu irmão Esaú enviando presentes e demonstrando humildade. A ideia é que, quando um homem agrada a Deus, ele pode esperar que seus inimigos sejam pacificados e a paz seja restaurada.
+* Ezequiel 36:26 - "Dar-vos-ei um coração novo e porei dentro de vós um espírito novo; e tirarei da vossa carne o coração de pedra e vos darei um coração de carne." Este verso fala da transformação que Deus opera nos corações das pessoas que o buscam. É uma ideia relevante para o processo de transformação pessoal pelo qual Jacó estava passando, ao confrontar seu passado e buscar a reconciliação com seu irmão.
+* Gálatas 6:7 - "Não vos enganeis: de Deus não se zomba; pois aquilo que o homem semear, isso também ceifará." Este verso enfatiza a importância da responsabilidade pessoal e da justiça divina. É uma advertência a Jacó e a todos os que buscam seguir a Deus, para que se lembrem de que suas escolhas e ações terão consequências, e que devem assumir a responsabilidade por elas.
+****
+
+[[v1-32-1]]
+
+^<<v1-32-1,1>>^ No dia seguinte, pela manhã, Labão beijou seus filhos e suas filhas; abençoou-os e retomou o caminho de sua casa.
+
+[[v1-32-2]]
+
+^<<v1-32-2,2>>^ Jacó prosseguiu o seu caminho e encontrou uns anjos de Deus.^&#42;1^
+
+[[v1-32-3]]
+
+^<<v1-32-3,3>>^ Ao vê-los, exclamou: “É aqui o acampamento de Deus!”. Por isso, deu àquele lugar o nome de Maanaim.
+
+[[v1-32-4]]
+
+^<<v1-32-4,4>>^ Despachou diante de si mensageiros a seu irmão Esaú, na terra de Seir, nos campos de Edom.
+
+[[v1-32-5]]
+
+^<<v1-32-5,5>>^ E deu-lhes esta ordem: “Eis o que direis ao meu senhor Esaú: Assim fala o teu servo Jacó: Habitei em casa de Labão onde estive até o dia de hoje.
+
+[[v1-32-6]]
+
+^<<v1-32-6,6>>^ Possuo bois, jumentos, ovelhas, servos e servas, e mando agora anunciá-lo ao meu senhor para encontrar graça diante dele”.
+
+[[v1-32-7]]
+
+^<<v1-32-7,7>>^ Os mensageiros voltaram a Jacó, dizendo: “Fomos ter com Esaú: ele vem ao teu encontro com quatrocentos homens”.
+
+[[v1-32-8]]
+
+^<<v1-32-8,8>>^ Jacó foi tomado de pavor e de angústia. Dividiu em dois grupos a gente que estava com ele, assim como as ovelhas, os bois e os camelos.
+
+[[v1-32-9]]
+
+^<<v1-32-9,9>>^ “Se Esaú – disse ele consigo – atacar um dos grupos e o destruir, ao menos o outro se salvará.”
+
+[[v1-32-10]]
+
+^<<v1-32-10,10>>^ Depois Jacó disse: “Deus de meu pai Abraão, Deus de meu pai Isaac, Senhor que me dissesses: Volta para a tua terra, para o meio de tua parentela, e eu te beneficiarei,
+
+[[v1-32-11]]
+
+^<<v1-32-11,11>>^ eu sou indigno de todos os favores e de toda a fidelidade que tendes testemunhado ao vosso servo. Só tinha o meu bastão quando atravessei este Jordão, e eis que possuo agora dois acampamentos.
+
+[[v1-32-12]]
+
+^<<v1-32-12,12>>^ Salvai-me, eu vos peço, das mãos de meu irmão Esaú, pois temo que ele me venha atacar, sem poupar nem mãe nem filhos.
+
+[[v1-32-13]]
+
+^<<v1-32-13,13>>^ Entretanto, vós me dissestes: Eu te beneficiarei e tornarei tua posteridade inumerável como os grãos de areia do mar”.
+
+[[v1-32-14]]
+
+^<<v1-32-14,14>>^ Jacó passou a noite naquele lugar. Escolheu entre os bens que possuía um presente para o seu irmão Esaú:
+
+[[v1-32-15]]
+
+^<<v1-32-15,15>>^ duzentas cabras, vinte bodes, duzentas ovelhas, vinte carneiros,
+
+[[v1-32-16]]
+
+^<<v1-32-16,16>>^ trinta camelas com suas crias, quarenta vacas, dez touros, vinte jumentas e dez jumentos.
+
+[[v1-32-17]]
+
+^<<v1-32-17,17>>^ Entregou-os aos servos, cada rebanho à parte, e disse-lhes: “Ide adiante de mim, e haja uma distância entre cada rebanho”.
+
+[[v1-32-18]]
+
+^<<v1-32-18,18>>^ E deu esta ordem ao primeiro: “Quando meu irmão Esaú te encontrar e te perguntar quem és, aonde vais e a quem pertence o rebanho que conduzes,
+
+[[v1-32-19]]
+
+^<<v1-32-19,19>>^ responderás: Pertence ao teu servo Jacó; é um presente que ele manda ao meu senhor Esaú; ele mesmo vem atrás de nós”.
+
+[[v1-32-20]]
+
+^<<v1-32-20,20>>^ Deu a mesma ordem ao segundo, ao terceiro e a todos os que conduziam os rebanhos: “Quando encontrardes Esaú – disse ele – vós lhe direis a mesma coisa.
+
+[[v1-32-21]]
+
+^<<v1-32-21,21>>^ E direis que seu servo Jacó vos segue”. “Eu o aplacarei – pensou ele – com este presente que me precede; e depois o verei pessoalmente; talvez me fará ele bom acolhimento.”
+
+[[v1-32-22]]
+
+^<<v1-32-22,22>>^ Foi, pois, o presente adiante dele, e ele ficou aquela noite no acampamento.
+
+[[v1-32-23]]
+
+^<<v1-32-23,23>>^ Naquela mesma noite, ele se levantou com suas duas mulheres, suas duas servas e seus onze filhos e passou o vau do Jaboc.
+
+[[v1-32-24]]
+
+^<<v1-32-24,24>>^ Tomou-os, e os fez passar a torrente com tudo o que lhe pertencia.
+
+[[v1-32-25]]
+
+^<<v1-32-25,25>>^ Jacó ficou só; e alguém lutava com ele até o romper da aurora.
+
+[[v1-32-26]]
+
+^<<v1-32-26,26>>^ Vendo que não podia vencê-lo, tocou-lhe aquele homem na articulação da coxa e esta deslocou-se, enquanto Jacó lutava com ele.
+
+[[v1-32-27]]
+
+^<<v1-32-27,27>>^ E disse-lhe: “Deixa-me partir, porque a aurora se levanta”. “Não te deixarei partir – respondeu Jacó – antes que me tenhas abençoado.”
+
+[[v1-32-28]]
+
+^<<v1-32-28,28>>^ Ele perguntou-lhe: “Qual é o teu nome?”. “Jacó.”^&#42;1^
+
+[[v1-32-29]]
+
+^<<v1-32-29,29>>^ “Teu nome não será mais Jacó – tornou ele – mas Israel, porque lutaste com Deus e com os homens, e venceste.” Jacó pediu-lhe:
+
+[[v1-32-30]]
+
+^<<v1-32-30,30>>^ “Peço-te que me digas qual é o teu nome”. “Por que me perguntas o meu nome?” – respondeu ele. E abençoou-o no mesmo lugar.^&#42;1^
+
+[[v1-32-31]]
+
+^<<v1-32-31,31>>^ Jacó chamou àquele lugar Fanuel, “porque – disse ele – eu vi a Deus face a face, e minha vida foi poupada”.
+
+[[v1-32-32]]
+
+^<<v1-32-32,32>>^ O sol levantava-se no horizonte, quando ele atravessou Fanuel. E coxeava de uma perna.
+
+[[v1-32-33]]
+
+^<<v1-32-33,33>>^ É por isso que os israelitas, ainda hoje, não comem o nervo da articulação da coxa, porque aquele homem tinha tocado nesse nervo da articulação da coxa de Jacó.
+
+'''
+
+xref:001-genesis/001-genesis-031.adoc#v1-31-0[&#60; Capítulo Anterior] | <<v1-32-0,Topo>> | xref:001-genesis/001-genesis-033.adoc#v1-33-0[Próximo Capítulo &#62;]

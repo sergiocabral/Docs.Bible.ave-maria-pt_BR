@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v28-42-0]]
+=== Eclesiástico, 42
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 42 do livro de Eclesiástico fala sobre a sabedoria divina e a importância de conhecê-la. Ele também fala sobre a criação e a diversidade da natureza e dos seres humanos, e destaca a importância de cuidar da saúde e da higiene pessoal. Abaixo estão cinco versículos relacionados com os temas abordados em Eclesiástico 42:
+* Salmos 104:24: "Como são numerosas as tuas obras, Senhor! Fizeste todas elas com sabedoria; a terra está cheia das tuas criaturas." Este versículo fala sobre a criação divina e a grande sabedoria empregada por Deus ao criá-la, tema abordado em Eclesiástico 42.
+* Provérbios 2:6: "Porque o Senhor dá a sabedoria; da sua boca é que vem o conhecimento e o entendimento." Este versículo destaca a importância da sabedoria divina, mencionada em Eclesiástico 42.
+* 1 Coríntios 6:19-20: "Ou não sabeis que o vosso corpo é santuário do Espírito Santo, que habita em vós, o qual possuís da parte de Deus, e que não sois de vós mesmos? Porque fostes comprados por preço. Agora, pois, glorificai a Deus no vosso corpo." Este versículo fala sobre a importância de cuidar do corpo, que é considerado um santuário do Espírito Santo, tema abordado em Eclesiástico 42.
+* 1 Timóteo 4:8: "Pois o exercício físico para pouco é proveitoso, mas a piedade para tudo é proveitosa, porque tem a promessa da vida presente e da que há de vir." Este versículo fala sobre a importância da piedade em relação ao exercício físico, tema abordado em Eclesiástico 42.
+* Mateus 6:25-26: "Por isso, vos digo: não andeis ansiosos pela vossa vida, quanto ao que haveis de comer ou beber; nem pelo vosso corpo, quanto ao que haveis de vestir. Não é a vida mais do que o alimento, e o corpo, mais do que as vestes? Observai as aves do céu: não semeiam, não colhem, nem ajuntam em celeiros; contudo, vosso Pai celeste as sustenta. Não tendes vós muito mais valor do que as aves?" Este versículo destaca a importância de confiar em Deus e não se preocupar demasiadamente com o corpo e suas necessidades materiais, tema abordado em Eclesiástico 42.
+****
+
+[[v28-42-1]]
+
+^<<v28-42-1,1>>^ Não repitas o que ouviste. Não reveles um segredo. Assim estarás verdadeiramente isento de confusão, e acharás graça diante de todos os homens. Não te envergonhes de tudo o que vou dizer, e não faças acepção de pessoas até a ponto de pecar.
+
+[[v28-42-2]]
+
+^<<v28-42-2,2>>^ Não te envergonhes da Lei e da aliança do Altíssimo, de uma sentença que justifique o ímpio,^&#42;1^
+
+[[v28-42-3]]
+
+^<<v28-42-3,3>>^ de um negócio entre teus amigos e estranhos, da doação de uma herança em favor de teus amigos.
+
+[[v28-42-4]]
+
+^<<v28-42-4,4>>^ Não te envergonhes de usar uma balança fiel e de peso certo, de adquirir pouco ou muito,
+
+[[v28-42-5]]
+
+^<<v28-42-5,5>>^ de não fazer diferença na venda e com os mercadores, de corrigir frequentemente os teus filhos, de golpear até sangrar as costas de um escravo ruim.^&#42;1^
+
+[[v28-42-6]]
+
+^<<v28-42-6,6>>^ Sobre uma mulher má, é bom pôr-se o selo.
+
+[[v28-42-7]]
+
+^<<v28-42-7,7>>^ Onde há muitas mãos, emprega a chave. Conta e pesa tudo o que entregas; assenta o que dás e o que recebes.
+
+[[v28-42-8]]
+
+^<<v28-42-8,8>>^ Não te envergonhes de corrigir o insensato e o tolo; não te envergonhes dos anciãos julgados pelos jovens. Assim te mostrarás verdadeiramente instruído, e serás aprovado por todos.^&#42;1^
+
+[[v28-42-9]]
+
+^<<v28-42-9,9>>^ Uma filha é uma preocupação secreta para seu pai; o cuidado dela tira-lhe o sono. Ele teme que passe a flor de sua idade sem se casar, ou que, casada, torne-se odiosa para o marido;
+
+[[v28-42-10]]
+
+^<<v28-42-10,10>>^ receia que seja seduzida na sua virgindade, e que se torne grávida na casa paterna. Teme que, casada, ela viole a fidelidade, ou que, em todo caso, seja estéril.
+
+[[v28-42-11]]
+
+^<<v28-42-11,11>>^ Exerce severa vigilância sobre uma filha libertina, para que ela te não exponha aos insultos dos teus inimigos, e te torne o assunto de troça da cidade, o objeto de mofa pública, e te desonre aos olhos de toda a população.
+
+[[v28-42-12]]
+
+^<<v28-42-12,12>>^ Não detenhas o olhar sobre a beleza de ninguém, não te demores no meio de mulheres,
+
+[[v28-42-13]]
+
+^<<v28-42-13,13>>^ pois assim como a traça sai das roupas, assim a malícia do homem vem da mulher.^&#42;1^
+
+[[v28-42-14]]
+
+^<<v28-42-14,14>>^ Um homem mau vale mais que uma mulher que vos faz bem, mas que se torna causa de vergonha e de confusão.
+
+[[v28-42-15]]
+
+^<<v28-42-15,15>>^ Relembrarei agora as obras do Senhor, proclamarei o que vi. Pelas palavras do Senhor foram produzidas as suas obras.
+
+[[v28-42-16]]
+
+^<<v28-42-16,16>>^ O sol contempla todas as coisas que ilumina; a obra do Senhor está cheia de sua glória.
+
+[[v28-42-17]]
+
+^<<v28-42-17,17>>^ Porventura não fez o Senhor com que seus santos proclamassem todas as suas maravilhas, maravilhas que ele, o Senhor Todo-poderoso, consolidou, a fim de que subsistam para a sua glória?^&#42;1^
+
+[[v28-42-18]]
+
+^<<v28-42-18,18>>^ Ele sonda o abismo e o coração humano, e penetra os seus pensamentos mais sutis,
+
+[[v28-42-19]]
+
+^<<v28-42-19,19>>^ pois o Senhor conhece tudo o que se pode saber. Ele vê os sinais dos tempos futuros, anuncia o passado e o porvir, descobre os vestígios das coisas ocultas.
+
+[[v28-42-20]]
+
+^<<v28-42-20,20>>^ Nenhum pensamento lhe escapa, nenhum fato se esconde a seus olhos.
+
+[[v28-42-21]]
+
+^<<v28-42-21,21>>^ Ele enalteceu as maravilhas de sua sabedoria, ele é antes de todos os séculos e será eternamente.
+
+[[v28-42-22]]
+
+^<<v28-42-22,22>>^ Nada se pode acrescentar ao que ele é, nem nada lhe tirar; não necessita do conselho de ninguém.
+
+[[v28-42-23]]
+
+^<<v28-42-23,23>>^ Como são agradáveis as suas obras! E todavia delas não podemos ver mais que uma centelha.
+
+[[v28-42-24]]
+
+^<<v28-42-24,24>>^ Essas obras vivem e subsistem para sempre, e em tudo o que é preciso, todas lhe obedecem.
+
+[[v28-42-25]]
+
+^<<v28-42-25,25>>^ Todas as coisas existem duas a duas, uma oposta à outra; ele nada fez que seja defeituoso.
+
+[[v28-42-26]]
+
+^<<v28-42-26,26>>^ Ele fortaleceu o que cada um tem de bom. Quem se saciará de ver a glória do Senhor?
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-041.adoc#v28-41-0[&#60; Capítulo Anterior] | <<v28-42-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-043.adoc#v28-43-0[Próximo Capítulo &#62;]

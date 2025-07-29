@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v30-49-0]]
+=== Jeremias, 49
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 49 do livro de Jeremias traz uma série de profecias de julgamento contra várias nações vizinhas de Israel, incluindo Edom, Amom, Moabe e Babilônia. Os versículos relacionados com esses temas são:
+* Isaías 21:9: "Eis que aqui vem um homem num carro com um par de cavalos. Ele os chama e diz: 'Caiu, caiu Babilônia; todas as imagens de seus deuses foram quebradas no chão.'" Este verso fala sobre a queda de Babilônia, uma das nações que recebe uma profecia de julgamento em Jeremias 49.
+* Ezequiel 25:4: "Portanto, eis que entregarei Moabe para os orientais como herança, juntamente com os filhos de Amom." Esse verso fala sobre a punição que Deus trará sobre Moabe e Amom, dois dos povos que também são alvos das profecias de julgamento em Jeremias 49.
+* Obadias 1:8: "Não naquele dia, diz o Senhor, eu destruirei os sábios de Edom e o entendimento da montanha de Esaú." Esse verso fala sobre a destruição que virá sobre Edom, outra nação mencionada em Jeremias 49.
+* Isaías 16:6: "Ouvimos falar da arrogância de Moabe, de sua arrogância insuportável, de sua arrogância, orgulho e revolta; mas sua fanfarronice não é nada." Esse verso fala sobre a arrogância de Moabe, uma das nações que receberão a punição de Deus em Jeremias 49.
+* Ezequiel 35:5: "Porque você mostrou uma inimizade eterna e entregou os israelitas ao fio da espada no tempo da calamidade final, no tempo da sua iniqüidade final." Este verso fala sobre a hostilidade que Edom mostrou para com Israel, o que levará a nação a receber a ira de Deus em Jeremias 49.
+****
+
+[[v30-49-1]]
+
+^<<v30-49-1,1>>^ Aos amonitas – Eis o que diz o Senhor: “Israel não possui filhos nem herdeiros? Por que Melcom apoderou-se de Gad, e instalou seu povo nas suas cidades?^&#42;1^
+
+[[v30-49-2]]
+
+^<<v30-49-2,2>>^ Dias virão – oráculo do Senhor – em que farei ouvir gritos de guerra em Rabá dos amonitas; ficará ela reduzida a um montão de escombros; suas filhas serão entregues às chamas, e Israel herdará dos que dele herdaram – oráculo do Senhor.^&#42;1^
+
+[[v30-49-3]]
+
+^<<v30-49-3,3>>^ Lamenta-te, Hesebon, porque Hai foi devastada; gritai, filhas de Rabá, revesti-vos de cilícios e cobri-vos de saco, errando pelo redil, porquanto Melcom vai ser levado ao exílio com todos os seus sacerdotes e chefes.
+
+[[v30-49-4]]
+
+^<<v30-49-4,4>>^ Por que orgulhar-te da fertilidade de teus vales? Filha esquiva que tanto confias em teus tesouros, dizendo: ‘Quem ousaria atacar-me?’.
+
+[[v30-49-5]]
+
+^<<v30-49-5,5>>^ Vou desencadear em volta de ti o terror – oráculo do Senhor dos exércitos. Sereis expulsos, um por um, sem que ninguém consiga reunir os fugitivos.
+
+[[v30-49-6]]
+
+^<<v30-49-6,6>>^ Em seguida, mudarei a sorte dos amonitas”.
+
+[[v30-49-7]]
+
+^<<v30-49-7,7>>^ Contra Edom. – Eis o que diz o Senhor dos exércitos: “Não existe mais sabedoria em Temã? Perdeu-se o conselho dos clarividentes, desvaneceu-se a inteligência?^&#42;1^
+
+[[v30-49-8]]
+
+^<<v30-49-8,8>>^ Fugi, voltai as costas, ocultai-vos nos esconderijos, habitantes de Dadã, pois que trago a ruína sobre Esaú: chegou a hora da devastação.
+
+[[v30-49-9]]
+
+^<<v30-49-9,9>>^ Se vierem a ti vindimadores, nenhum cacho deixarão. Se forem ladrões noturnos, pilharão à saciedade.
+
+[[v30-49-10]]
+
+^<<v30-49-10,10>>^ Porquanto eu sondei Esaú, e lhe descobri os esconderijos: ele não se pode mais ocultar. Foi arruinada a raça, seus irmãos e seus vizinhos. E não subsistirá mais.
+
+[[v30-49-11]]
+
+^<<v30-49-11,11>>^ Abandona teus órfãos, eu lhes darei do que viver; ponham tuas viúvas sua confiança em mim!
+
+[[v30-49-12]]
+
+^<<v30-49-12,12>>^ Porque assim falou o Senhor: Aqueles que não deviam beber deste cálice, terão de beber. E tu? Estarias isento dele? Não, tu beberás;
+
+[[v30-49-13]]
+
+^<<v30-49-13,13>>^ juro-o por mim mesmo – oráculo do Senhor. Será Bosra objeto de pasmo e de opróbrio, uma solidão maldita; e suas cidades serão eterna ruína”.
+
+[[v30-49-14]]
+
+^<<v30-49-14,14>>^ Chegou-me uma notícia da parte do Senhor; um arauto foi-me enviado dentre as nações: “Uni-vos! Atacai-o! Erguei-vos para a guerra!”.
+
+[[v30-49-15]]
+
+^<<v30-49-15,15>>^ Olha: faço-te pequeno entre as nações, desprezado entre os homens.
+
+[[v30-49-16]]
+
+^<<v30-49-16,16>>^ O terror... o orgulho do teu coração enganou-te, a ti, que habitas nas concavidades dos rochedos, e que ocupas o cume das colinas. Ainda que colocasses teu ninho tão alto quanto o da águia, de lá te precipitaria – oráculo do Senhor.
+
+[[v30-49-17]]
+
+^<<v30-49-17,17>>^ Será transformada Edom em objeto de espanto, e o transeunte, estupefato, mofará de suas ruínas.
+
+[[v30-49-18]]
+
+^<<v30-49-18,18>>^ Irá se repetir a catástrofe de Sodoma e Gomorra, e das cidades vizinhas – oráculo do Senhor. Ninguém mais habitará lá e nenhum ser humano a povoará.
+
+[[v30-49-19]]
+
+^<<v30-49-19,19>>^ Qual leão o inimigo que sobe dos espinheiros do Jordão para uma pastagem sem fim, assim, em um instante, farei fugir daqui Edom e aí estabelecerei aquele que eu escolher. Quem se iguala a mim? Quem poderia provocar-me? Qual o pastor que poderia afrontar-me?
+
+[[v30-49-20]]
+
+^<<v30-49-20,20>>^ Escutai a decisão do Senhor acerca de Edom, e seus desígnios contra os homens de Temã: Serão arrastados para a morte, como débeis cordeiros, e seus campos serão devastados;
+
+[[v30-49-21]]
+
+^<<v30-49-21,21>>^ ao estrondo de sua queda, treme a terra e até o mar Vermelho ressoa o seu fragor.
+
+[[v30-49-22]]
+
+^<<v30-49-22,22>>^ Qual uma águia, eis que desprende o voo, estendendo suas asas sobre Bosra; e o coração dos guerreiros de Edom, naquele dia, se assemelhará ao coração da mulher em parto.
+
+[[v30-49-23]]
+
+^<<v30-49-23,23>>^ Contra Damasco: “Foram confundidos Emat e Arfad porque uma notícia funesta lhes adveio, e de medo desfaleceram: é o mar em tormenta que não se pode acalmar.
+
+[[v30-49-24]]
+
+^<<v30-49-24,24>>^ Damasco perdeu a coragem, desejaria fugir. O terror, porém, a paralisa, e a angústia e a dor dela se apoderam, qual mulher em parto.
+
+[[v30-49-25]]
+
+^<<v30-49-25,25>>^ Como não foi abandonada a cidade gloriosa, a cidade que fazia minhas delícias?
+
+[[v30-49-26]]
+
+^<<v30-49-26,26>>^ Porquanto, cairão os jovens em suas praças, e seus homens de guerra nesse dia perecerão – oráculo do Senhor dos exércitos.
+
+[[v30-49-27]]
+
+^<<v30-49-27,27>>^ Vou lançar fogo nas muralhas de Damasco para devorar os palácios de Ben-Adad”.
+
+[[v30-49-28]]
+
+^<<v30-49-28,28>>^ A Cedar e os reinos de Hasor, vencidos por Nabucodonosor, rei da Babilônia. Eis o que diz o Senhor: “Erguei-vos! Atacai Cedar! Aniquilai os filhos do Oriente!^&#42;1^
+
+[[v30-49-29]]
+
+^<<v30-49-29,29>>^ Sejam-lhes as tendas arrebatadas e os rebanhos! E que se lhes tirem os pavilhões, bagagens e camelos ao grito de: ‘Que o terror se espalhe!’.
+
+[[v30-49-30]]
+
+^<<v30-49-30,30>>^ Salvai-vos! Fugi a toda pressa, ocultai-vos em esconderijos, habitantes de Hasor – oráculo do Senhor.
+
+[[v30-49-31]]
+
+^<<v30-49-31,31>>^ Erguei-vos! Atacai um povo pacífico que vive em segurança – oráculo do Senhor – e que habita sozinho, sem portas nem ferrolhos.
+
+[[v30-49-32]]
+
+^<<v30-49-32,32>>^ Sejam seus camelos a vossa presa e seus rebanhos numerosos o vosso espólio! Espalharei por todos os ventos esses homens de cabelos raspados, e de toda parte lançarei sobre eles a desgraça – oráculo do Senhor.
+
+[[v30-49-33]]
+
+^<<v30-49-33,33>>^ Hasor se tornará guarida de chacais, eterna solidão onde ninguém mais habitará, e onde doravante nenhum ser humano permanecerá.
+
+[[v30-49-34]]
+
+^<<v30-49-34,34>>^ Palavra do Senhor dirigida ao profeta Jeremias acerca de Elam, no começo do reinado de Sedecias, rei de Judá, nestes termos:^&#42;1^
+
+[[v30-49-35]]
+
+^<<v30-49-35,35>>^ “Eis o que diz o Senhor dos exércitos: Vou quebrar o arco de Elam, e o melhor de sua força.
+
+[[v30-49-36]]
+
+^<<v30-49-36,36>>^ Mandarei vir sobre Elam os quatro ventos, dos quatro cantos do céu. E esses ventos os dispersarei. Não haverá nação onde não cheguem fugitivos de Elam.
+
+[[v30-49-37]]
+
+^<<v30-49-37,37>>^ Farei tremer os elamitas diante de seus inimigos, e ante aqueles que tramam contra sua vida; precipitarei calamidades sobre eles: o fogo de minha cólera – oráculo do Senhor – e lançarei sobre eles a espada até que sejam exterminados.
+
+[[v30-49-38]]
+
+^<<v30-49-38,38>>^ Colocarei meu trono em Elam, e mandarei matar o rei e os chefes – oráculo do Senhor.
+
+[[v30-49-39]]
+
+^<<v30-49-39,39>>^ Com o correr dos tempos, porém, mudarei a sorte de Elam – oráculo do Senhor”.
+
+'''
+
+xref:030-jeremias/030-jeremias-048.adoc#v30-48-0[&#60; Capítulo Anterior] | <<v30-49-0,Topo>> | xref:030-jeremias/030-jeremias-050.adoc#v30-50-0[Próximo Capítulo &#62;]

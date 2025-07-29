@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v35-10-0]]
+=== Oséias, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 10 de Oséias fala sobre a punição que Israel sofrerá por causa de sua idolatria e infidelidade. O profeta compara o povo a uma vinha rebelde e prediz a destruição de seus altares e ídolos. A seguir estão cinco versículos de outras partes da Bíblia que se relacionam com os temas abordados em Oséias 10.
+* Deuteronômio 28:58-59: "Se você não obedecer a todas as palavras desta lei, que estão escritas neste livro, e não temer este nome glorioso e temível, o Senhor, o seu Deus, enviarei sobre vocês e sobre seus descendentes desgraças terríveis e doenças duradouras e graves calamidades." Este trecho descreve as consequências da desobediência a Deus e seu julgamento sobre aqueles que se rebelam contra Ele.
+* 2 Reis 17:7-8: "Isso aconteceu porque os israelitas tinham pecado contra o Senhor, seu Deus, que os havia tirado do Egito, da mão do faraó, rei do Egito. Eles adoraram outros deuses e seguiram os costumes das nações que o Senhor tinha expulsado de diante deles, assim como os costumes que os reis de Israel haviam introduzido." Este versículo fala sobre como o povo de Israel se afastou do caminho de Deus e se voltou para deuses falsos, seguindo as práticas dos povos pagãos ao seu redor.
+* Jeremias 4:3-4: "Porque assim diz o Senhor aos homens de Judá e Jerusalém: ‘Lavrem para si um campo novo, e não semeiem entre os espinhos. Circuncidem-se ao Senhor, circuncidem o coração de vocês, ó homens de Judá e de Jerusalém, para que a minha ira não irrompa como fogo e queime, sem que ninguém a apague, por causa da maldade de vocês.’" Este trecho enfatiza a importância da verdadeira circuncisão do coração e do arrependimento para evitar a ira de Deus.
+* Salmos 51:17: "Os sacrifícios que agradam a Deus são um espírito quebrantado; um coração quebrantado e contrito, ó Deus, não desprezarás." Este versículo mostra que Deus valoriza a humildade e a contrição em vez de sacrifícios externos ou formalidades religiosas.
+* Isaías 45:9: "Ai daquele que contende com o seu Criador! O caco entre outros cacos de barro! Acaso o barro pode dizer ao oleiro que o modelou: ‘O que você está fazendo?’ ou: ‘A sua obra não tem alças’?" Este versículo destaca a soberania de Deus e a futilidade da rebelião contra Ele.
+****
+
+[[v35-10-1]]
+
+^<<v35-10-1,1>>^ Israel era uma vinha frondosa, que dava muitos frutos. Porém, quanto mais frutos, mais multiplicava seus altares; quanto mais prosperou a terra, mais ricas estelas construiu.
+
+[[v35-10-2]]
+
+^<<v35-10-2,2>>^ Hipócrita é o seu coração: vai receber o devido castigo; ele mesmo vai derrubar seus altares e quebrar suas estelas.^&#42;1^
+
+[[v35-10-3]]
+
+^<<v35-10-3,3>>^ E dizem, com efeito: “Não temos rei, porque não tememos o Senhor; e que nos fará o nosso rei?”.^&#42;1^
+
+[[v35-10-4]]
+
+^<<v35-10-4,4>>^ Proferem vãos discursos e juram falso quando concluem suas alianças; os processos brotam como a erva venenosa nos sulcos.
+
+[[v35-10-5]]
+
+^<<v35-10-5,5>>^ Os habitantes de Samaria tremerão por causa do bezerro de Bet-Áven. Seu povo toma luto por ele, e o bando dos seus sacerdotes lamenta-se por causa dele, temendo que sua riqueza lhes seja tirada.^&#42;1^
+
+[[v35-10-6]]
+
+^<<v35-10-6,6>>^ Também ele será levado para a Assíria para ser oferecido em homenagem ao grande rei. A confusão se apoderará de Efraim. E Israel se envergonhará de seu ídolo.
+
+[[v35-10-7]]
+
+^<<v35-10-7,7>>^ Samaria está aniquilada, seu rei é como espuma à tona da água.
+
+[[v35-10-8]]
+
+^<<v35-10-8,8>>^ Serão destruídos os lugares altos de Bet-Áven, o pecado de Israel. Espinhos e abrolhos crescerão nos seus altares; dirão, então, às montanhas: “Cobri-nos!”. E às colinas: “Caí sobre nós!”.^&#42;1^
+
+[[v35-10-9]]
+
+^<<v35-10-9,9>>^ Desde os dias de Gabaá, tens pecado, ó Israel. Ali se revoltaram contra mim; não os atingirá em Gabaá a guerra contra os maus?^&#42;1^
+
+[[v35-10-10]]
+
+^<<v35-10-10,10>>^ Virei castigá-los; os povos se unirão contra eles, porque devem ser punidos pelo seu duplo crime.^&#42;1^
+
+[[v35-10-11]]
+
+^<<v35-10-11,11>>^ Efraim é uma novilha bem tratada, que gosta de calcar a eira; mas porei a canga em seu pescoço; atrelarei Efraim, Judá lavrará, Jacó puxará o arado.
+
+[[v35-10-12]]
+
+^<<v35-10-12,12>>^ Semeai na justiça, e colhereis bondade em proporção. Lavrai novas terras! É tempo de buscar o Senhor, até que venha espalhar a justiça sobre vós.
+
+[[v35-10-13]]
+
+^<<v35-10-13,13>>^ Cultivastes o mal e colhestes o pecado; comestes o fruto da mentira; confiastes em vossa política e no grande número de vossos soldados.^&#42;1^
+
+[[v35-10-14]]
+
+^<<v35-10-14,14>>^ O tumulto da guerra vai elevar-se em tuas cidades, e todas as tuas fortalezas vão ser destruídas, assim como Sálmana destruiu a dinastia de Jeroboão, no dia do combate em que a mãe foi esmagada com seus filhos.^&#42;1^
+
+[[v35-10-15]]
+
+^<<v35-10-15,15>>^ Assim sereis tratada, Betel, por causa de vossa maldade; desde a aurora desaparecerá o rei de Israel.
+
+'''
+
+xref:035-oseias/035-oseias-009.adoc#v35-9-0[&#60; Capítulo Anterior] | <<v35-10-0,Topo>> | xref:035-oseias/035-oseias-011.adoc#v35-11-0[Próximo Capítulo &#62;]

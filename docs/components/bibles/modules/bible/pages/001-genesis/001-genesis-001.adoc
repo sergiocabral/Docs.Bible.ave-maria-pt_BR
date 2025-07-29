@@ -1,3 +1,143 @@
-= Título da Tradução Aqui
+include::./index.adoc[]
 
-Este é um arquivo modelo. Coloque o conteúdo da tradução da Bíblia desejada na pasta acima deste arquivo.
+[[v1-1-0]]
+=== Gênesis, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 1 é o primeiro capítulo da Bíblia e trata da criação do mundo por Deus. Ele descreve como Deus criou o universo, a terra, os céus, a luz, as águas, a vegetação, o sol, a lua, as estrelas, os animais e o homem. A seguir, estão cinco versículos da Bíblia que se relacionam com temas abordados em Gênesis 1:
+* Salmos 8:3-4: "Quando contemplo os teus céus, obra dos teus dedos, a lua e as estrelas que estabeleceste, que é o homem, para que te lembres dele? E o filho do homem, para que o visites?" Esse salmo destaca a obra da criação de Deus, incluindo a lua e as estrelas mencionadas em Gênesis 1, e questiona o papel do homem no universo.
+* Isaías 45:12: "Eu fiz a terra, e criei nela o homem; eu o fiz; as minhas mãos estenderam os céus, e a todo o seu exército dei as minhas ordens." Esse versículo reafirma a criação da terra e do homem por Deus, conforme descrito em Gênesis 1.
+* João 1:3: "Todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez." Esse versículo se refere a Jesus como o criador de todas as coisas, incluindo o mundo criado por Deus em Gênesis 1.
+* Colossenses 1:16: "Porque nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades. Tudo foi criado por ele e para ele." Esse versículo enfatiza a criação de todas as coisas por meio de Jesus e como todas as coisas são destinadas para ele.
+* Apocalipse 4:11: "Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas." Esse versículo destaca a glória de Deus como criador de todas as coisas, incluindo o mundo criado em Gênesis 1.
+****
+
+[[v1-1-1]]
+
+^<<v1-1-1,1>>^ No princípio, Deus criou o céu e a terra.
+
+[[v1-1-2]]
+
+^<<v1-1-2,2>>^ A terra estava sem forma e vazia; as trevas cobriam o abismo e o Espírito de Deus pairava sobre as águas.
+
+[[v1-1-3]]
+
+^<<v1-1-3,3>>^ Deus disse: “Faça-se a luz!”. E a luz foi feita.
+
+[[v1-1-4]]
+
+^<<v1-1-4,4>>^ Deus viu que a luz era boa, e separou a luz das trevas.
+
+[[v1-1-5]]
+
+^<<v1-1-5,5>>^ Deus chamou à luz dia, e às trevas noite. Sobreveio a tarde e depois a manhã: foi o primeiro dia.
+
+[[v1-1-6]]
+
+^<<v1-1-6,6>>^ Deus disse: “Faça-se um firmamento entre as águas, e separe ele umas das outras”.
+
+[[v1-1-7]]
+
+^<<v1-1-7,7>>^ Deus fez o firmamento e separou as águas que estavam debaixo do firmamento daquelas que estavam por cima.
+
+[[v1-1-8]]
+
+^<<v1-1-8,8>>^ E assim se fez. Deus chamou ao firmamento céu. Sobreveio a tarde e depois a manhã: foi o segundo dia.^&#42;1^
+
+[[v1-1-9]]
+
+^<<v1-1-9,9>>^ Deus disse: “Que as águas que estão debaixo do céu se juntem num mesmo lugar, e apareça o elemento árido”. E assim se fez.
+
+[[v1-1-10]]
+
+^<<v1-1-10,10>>^ Deus chamou ao elemento árido terra, e ao ajuntamento das águas mar. E Deus viu que isso era bom.
+
+[[v1-1-11]]
+
+^<<v1-1-11,11>>^ Deus disse: “Produza a terra plantas, ervas que contenham semente e árvores frutíferas que deem fruto segundo a sua espécie e o fruto contenha a sua semente”. E assim foi feito.
+
+[[v1-1-12]]
+
+^<<v1-1-12,12>>^ A terra produziu plantas, ervas que contêm semente segundo a sua espécie, e árvores que produzem fruto segundo a sua espécie, contendo o fruto a sua semente. E Deus viu que isso era bom.
+
+[[v1-1-13]]
+
+^<<v1-1-13,13>>^ Sobreveio a tarde e depois a manhã: foi o terceiro dia.
+
+[[v1-1-14]]
+
+^<<v1-1-14,14>>^ Deus disse: “Façam-se luzeiros no firmamento do céu para separar o dia da noite. Que sirvam eles de sinais e marquem o tempo, os dias e os anos,
+
+[[v1-1-15]]
+
+^<<v1-1-15,15>>^ e resplandeçam no firmamento do céu para iluminar a terra”. E assim se fez.
+
+[[v1-1-16]]
+
+^<<v1-1-16,16>>^ Deus fez os dois grandes luzeiros: o maior para presidir o dia e o menor para presidir a noite; e fez também as estrelas.
+
+[[v1-1-17]]
+
+^<<v1-1-17,17>>^ Deus colocou-os no firmamento do céu para que iluminassem a terra,
+
+[[v1-1-18]]
+
+^<<v1-1-18,18>>^ presidissem o dia e a noite, e separassem a luz das trevas. E Deus viu que isso era bom.
+
+[[v1-1-19]]
+
+^<<v1-1-19,19>>^ Sobreveio a tarde e depois a manhã: foi o quarto dia.
+
+[[v1-1-20]]
+
+^<<v1-1-20,20>>^ Deus disse: “Pululem as águas de uma multidão de seres vivos, e voem aves sobre a terra, debaixo do firmamento do céu”.
+
+[[v1-1-21]]
+
+^<<v1-1-21,21>>^ Deus criou os monstros marinhos e toda a multidão de seres vivos que enchem as águas, segundo a sua espécie, e todas as aves segundo a sua espécie. E Deus viu que isso era bom.
+
+[[v1-1-22]]
+
+^<<v1-1-22,22>>^ E Deus os abençoou: “Frutificai – disse ele – e multiplicai-vos, e enchei as águas do mar, e que as aves se multipliquem sobre a terra”.
+
+[[v1-1-23]]
+
+^<<v1-1-23,23>>^ Sobreveio a tarde e depois a manhã: foi o quinto dia.
+
+[[v1-1-24]]
+
+^<<v1-1-24,24>>^ Deus disse: “Produza a terra seres vivos segundo a sua espécie: animais domésticos, répteis e animais selvagens, segundo a sua espécie”. E assim se fez.^&#42;1^
+
+[[v1-1-25]]
+
+^<<v1-1-25,25>>^ Deus fez os animais selvagens segundo a sua espécie, os animais domésticos igualmente, e da mesma forma todos os animais, que se arrastam sobre a terra. E Deus viu que isso era bom.
+
+[[v1-1-26]]
+
+^<<v1-1-26,26>>^ Então Deus disse: “Façamos o homem à nossa imagem e semelhança. Que ele reine sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos e sobre toda a terra, e sobre todos os répteis que se arrastam sobre a terra”.
+
+[[v1-1-27]]
+
+^<<v1-1-27,27>>^ Deus criou o homem à sua imagem; criou-o à imagem de Deus, criou o homem e a mulher.^&#42;1^
+
+[[v1-1-28]]
+
+^<<v1-1-28,28>>^ Deus os abençoou: “Frutificai – disse ele – e multiplicai-vos, enchei a terra e submetei-a. Dominai sobre os peixes do mar, sobre as aves do céu e sobre todos os animais que se arrastam sobre a terra”.
+
+[[v1-1-29]]
+
+^<<v1-1-29,29>>^ Deus disse: “Eis que eu vos dou toda a erva que dá semente sobre a terra, e todas as árvores frutíferas que contêm em si mesmas a sua semente, para que vos sirvam de alimento.
+
+[[v1-1-30]]
+
+^<<v1-1-30,30>>^ E a todos os animais da terra, a todas as aves do céu, a tudo o que se arrasta sobre a terra, e em que haja sopro de vida, eu dou toda a erva verde por alimento”. E assim se fez.
+
+[[v1-1-31]]
+
+^<<v1-1-31,31>>^ Deus contemplou toda a sua obra, e viu que tudo era muito bom. Sobreveio a tarde e depois a manhã: foi o sexto dia.
+
+'''
+
+**&#60; Capítulo Anterior** | <<v1-1-0,Topo>> | xref:001-genesis/001-genesis-002.adoc#v1-2-0[Próximo Capítulo &#62;]

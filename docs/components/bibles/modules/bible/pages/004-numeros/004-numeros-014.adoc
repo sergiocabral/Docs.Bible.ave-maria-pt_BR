@@ -1,0 +1,199 @@
+include::./index.adoc[]
+
+[[v4-14-0]]
+=== Números, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 14 é um capítulo que relata a rebelião dos filhos de Israel contra Deus após terem recebido o relato dos espias que foram enviados à terra prometida. Eles se recusam a entrar na terra e questionam a liderança de Moisés e de Deus. Como resultado, Deus ameaça destruir o povo, mas Moisés intercede por eles e Deus decide perdoá-los, mas com consequências. Abaixo estão quatro versículos relacionados aos temas abordados em Números 14.
+* Deuteronômio 1:21: "Eis aqui o SENHOR, teu Deus, tem posto diante de ti a terra; sobe e toma posse dela, como te falou o SENHOR, Deus de teus pais; não temas, nem te assustes." Este versículo é uma exortação de Moisés ao povo para que tenham coragem e tomem posse da terra prometida. Isso pode ser relacionado à recusa dos filhos de Israel em entrar na terra em Números 14.
+* Êxodo 34:6-7: "E, passando o SENHOR perante a sua face, clamou: SENHOR, SENHOR Deus compassivo, clemente e longânimo e abundante em benignidade e verdade; que guarda a benignidade em milhares, que perdoa a iniquidade, a transgressão e o pecado; que ao culpado não tem por inocente; que visita a iniquidade dos pais sobre os filhos e sobre os filhos dos filhos até à terceira e quarta geração." Este versículo fala sobre a natureza compassiva e misericordiosa de Deus, mas também menciona a visita da iniquidade dos pais sobre os filhos. Isso pode ser relacionado às consequências que Deus ameaça impor ao povo por causa de sua rebelião em Números 14.
+* Salmos 106:13-14: "Cedo, porém, se esqueceram das suas obras maravilhosas; não aguardaram o seu conselho; mas no deserto, deixaram-se levar pela cobiça, e tentaram a Deus no ermo." Este versículo menciona a tendência do povo em esquecer as maravilhas que Deus havia feito por eles e em tentá-Lo no deserto. Isso pode ser relacionado à rebelião dos filhos de Israel em Números 14.
+* Isaías 43:18-19: "Não vos lembreis das coisas passadas, nem considereis as antigas. Eis que faço uma coisa nova, agora mesmo sairá à luz; porventura, não a percebeis? Eis que porei um caminho no deserto e rios, no ermo." Este versículo fala sobre Deus fazendo algo novo e inesperado, colocando um caminho no deserto e rios no ermo. Isso pode ser relacionado ao perdão de Deus ao povo em Números 14 e a possibilidade de uma nova chance para eles.
+* Hebreus 3:12-13: "Vede, irmãos, que nunca haja em qualquer de vós um coração mau e infiel, para se apartar do Deus vivo. Antes, exortai-vos uns aos outros todos os dias, durante o tempo que se chama Hoje, para que nenhum de vós se endureça pelo engano do pecado." Este versículo fala da importância de exortar uns aos outros para não se afastarem de Deus e cair no pecado. Pode ser relacionado à história de Números 14, em que os filhos de Israel se rebelaram contra Deus e se endureceram em seu pecado.
+****
+
+[[v4-14-1]]
+
+^<<v4-14-1,1>>^ Toda a assembleia pôs-se a gritar e chorou aquela noite.
+
+[[v4-14-2]]
+
+^<<v4-14-2,2>>^ Todos os israelitas murmuraram contra Moisés e Aarão, dizendo: “Oxalá tivéssemos morrido no Egito ou neste deserto!
+
+[[v4-14-3]]
+
+^<<v4-14-3,3>>^ Por que nos conduziu o Senhor a esta terra para morrermos pela espada? Nossas mulheres e nossos filhos serão a presa do inimigo. Não seria melhor que voltássemos para o Egito?”.
+
+[[v4-14-4]]
+
+^<<v4-14-4,4>>^ E diziam uns para os outros: “Escolhamos um chefe e voltemos para o Egito”.
+
+[[v4-14-5]]
+
+^<<v4-14-5,5>>^ Moisés e Aarão caíram com o rosto por terra diante de toda a assembleia dos israelitas.
+
+[[v4-14-6]]
+
+^<<v4-14-6,6>>^ Josué, filho de Nun, e Caleb, filho de Jefoné, que tinham explorado a terra,
+
+[[v4-14-7]]
+
+^<<v4-14-7,7>>^ rasgaram as suas vestes e disseram a toda a assembleia dos israelitas: “A terra que percorremos é muito boa.
+
+[[v4-14-8]]
+
+^<<v4-14-8,8>>^ Se o Senhor nos for propício, nos introduzirá nela e no-la dará. É uma terra onde corre leite e mel.
+
+[[v4-14-9]]
+
+^<<v4-14-9,9>>^ Somente não vos revolteis contra o Senhor, e não tenhais medo do povo dessa terra: o devoraremos como pão. Não há mais salvação para eles, porque o Senhor está conosco. Não tenhais medo deles”.
+
+[[v4-14-10]]
+
+^<<v4-14-10,10>>^ Toda a assembleia estava a ponto de apedrejá-los, quando a glória do Senhor apareceu sobre a tenda de reunião a todos os israelitas.
+
+[[v4-14-11]]
+
+^<<v4-14-11,11>>^ O Senhor disse a Moisés: “Até quando me desprezará esse povo? Até quando não acreditará em mim, apesar de todos os prodígios que fiz no meio dele?
+
+[[v4-14-12]]
+
+^<<v4-14-12,12>>^ Vou destruí-lo, ferindo-o de peste, mas farei de ti uma nação maior e mais poderosa do que ele”.
+
+[[v4-14-13]]
+
+^<<v4-14-13,13>>^ Moisés disse ao Senhor: “Os egípcios viram que, por vosso poder, tirastes este povo do meio deles e o disseram aos habitantes dessa terra.
+
+[[v4-14-14]]
+
+^<<v4-14-14,14>>^ Todo mundo sabe, ó Senhor, que estais no meio desse povo, e sois visto face a face, ó Senhor, que vossa nuvem está sobre eles e marchais diante deles de dia numa coluna de nuvem, e de noite numa coluna de fogo.
+
+[[v4-14-15]]
+
+^<<v4-14-15,15>>^ Se fizerdes morrer todo esse povo, as nações que ouviram falar de vós dirão:
+
+[[v4-14-16]]
+
+^<<v4-14-16,16>>^ O Senhor foi incapaz de introduzir o povo na terra que lhe havia jurado dar, e exterminou-o no deserto.
+
+[[v4-14-17]]
+
+^<<v4-14-17,17>>^ Agora, pois, rogo-vos que o poder do Senhor se manifeste em toda a sua grandeza, como o dissestes:
+
+[[v4-14-18]]
+
+^<<v4-14-18,18>>^ O Senhor é lento para a cólera e rico em bondade; ele perdoa a iniquidade e o pecado, mas não tem por inocente o culpado, e castiga a iniquidade dos pais nos filhos até a terceira e a quarta geração.
+
+[[v4-14-19]]
+
+^<<v4-14-19,19>>^ Perdoai o pecado desse povo segundo a vossa grande misericórdia, como já o tendes feito desde o Egito até aqui”.
+
+[[v4-14-20]]
+
+^<<v4-14-20,20>>^ O Senhor respondeu: “Eu perdoo, conforme o teu pedido.
+
+[[v4-14-21]]
+
+^<<v4-14-21,21>>^ Mas, pela minha vida e pela minha glória que enche toda a terra,
+
+[[v4-14-22]]
+
+^<<v4-14-22,22>>^ nenhum dos homens que viram a minha glória e os prodígios que fiz no Egito e no deserto, que me provocaram já dez vezes e não me ouviram,
+
+[[v4-14-23]]
+
+^<<v4-14-23,23>>^ verá a terra que prometi com juramento aos seus pais. Nenhum daqueles que me desprezaram a verá.
+
+[[v4-14-24]]
+
+^<<v4-14-24,24>>^ Quanto ao meu servo Caleb, porém, que animado de outro espírito me obedeceu fielmente, eu o introduzirei na terra que ele percorreu, e a sua posteridade a possuirá.
+
+[[v4-14-25]]
+
+^<<v4-14-25,25>>^ Visto que os amalecitas e os cananeus habitam no vale, voltai amanhã e parti para o deserto em direção ao mar Vermelho”.
+
+[[v4-14-26]]
+
+^<<v4-14-26,26>>^ O Senhor disse a Moisés e a Aarão:
+
+[[v4-14-27]]
+
+^<<v4-14-27,27>>^ “Até quando sofrerei eu essa assembleia revoltada que murmura contra mim? Ouvi as murmurações que os israelitas proferem contra mim.
+
+[[v4-14-28]]
+
+^<<v4-14-28,28>>^ Dize-lhes: Juro por mim mesmo – diz o Senhor – eu vos tratarei como vos ouvi dizer.^&#42;1^
+
+[[v4-14-29]]
+
+^<<v4-14-29,29>>^ Vossos cadáveres cairão nesse deserto. Todos vós que fostes recenseados da idade de vinte anos para cima, e que murmurastes contra mim,
+
+[[v4-14-30]]
+
+^<<v4-14-30,30>>^ não entrareis na terra onde jurei estabelecer-vos, exceto Caleb, filho de Jefoné, e Josué, filho de Nun.^&#42;1^
+
+[[v4-14-31]]
+
+^<<v4-14-31,31>>^ Todavia, introduzirei nela os vossos filhinhos, dos quais dizíeis que seriam a presa do inimigo, e eles conhecerão a terra que desprezastes.
+
+[[v4-14-32]]
+
+^<<v4-14-32,32>>^ Quanto a vós, os vossos cadáveres ficarão nesse deserto,
+
+[[v4-14-33]]
+
+^<<v4-14-33,33>>^ onde os vossos filhos guardarão os seus rebanhos durante quarenta anos, pagando a pena de vossas infidelidades, até que vossos cadáveres apodreçam no deserto.^&#42;1^
+
+[[v4-14-34]]
+
+^<<v4-14-34,34>>^ Explorastes a terra em quarenta dias; tantos anos quantos foram esses dias pagareis a pena de vossas iniquidades, ou seja, durante quarenta anos, e vereis o que significa ser objeto de minha vingança.
+
+[[v4-14-35]]
+
+^<<v4-14-35,35>>^ Eu, o Senhor, o disse. Eis como hei de tratar essa assembleia rebelde que se revoltou contra mim. Eles serão consumidos e mortos nesse deserto!”.
+
+[[v4-14-36]]
+
+^<<v4-14-36,36>>^ Os homens que Moisés tinha enviado a explorar a terra e que, depois de terem voltado, tinham feito murmurar contra ele toda a assembleia,
+
+[[v4-14-37]]
+
+^<<v4-14-37,37>>^ depreciando a terra, morreram feridos por uma praga, diante do Senhor.^&#42;1^
+
+[[v4-14-38]]
+
+^<<v4-14-38,38>>^ Somente Josué, filho de Nun, e Caleb, filho de Jefoné, sobreviveram entre todos os que tinham explorado a terra.
+
+[[v4-14-39]]
+
+^<<v4-14-39,39>>^ Moisés referiu tudo isso aos filhos de Israel e o povo ficou profundamente desolado.
+
+[[v4-14-40]]
+
+^<<v4-14-40,40>>^ Levantaram-se de madrugada e se puseram a caminho para o cimo do monte, dizendo: “Estamos prontos a subir para o lugar de que falou o Senhor, porque pecamos”.
+
+[[v4-14-41]]
+
+^<<v4-14-41,41>>^ Moisés disse-lhes: “Por que transgredis a ordem do Senhor? Isso não será bem sucedido.
+
+[[v4-14-42]]
+
+^<<v4-14-42,42>>^ Não subais; sereis derrotados por vossos inimigos, pois o Senhor não está no meio de vós.
+
+[[v4-14-43]]
+
+^<<v4-14-43,43>>^ Os amalecitas e os cananeus estão diante de vós, e sucumbireis sob a sua espada, porque vos desviastes do Senhor. O Senhor não estará convosco”.
+
+[[v4-14-44]]
+
+^<<v4-14-44,44>>^ Eles obstinaram-se em querer subir até o cimo do monte; a arca da aliança do Senhor, porém, e Moisés, não saíram do acampamento.
+
+[[v4-14-45]]
+
+^<<v4-14-45,45>>^ Então os amalecitas e os cananeus, que habitavam nessa montanha, desceram e, tendo-os batido e retalhado, perseguiram-nos até Horma.
+
+'''
+
+xref:004-numeros/004-numeros-013.adoc#v4-13-0[&#60; Capítulo Anterior] | <<v4-14-0,Topo>> | xref:004-numeros/004-numeros-015.adoc#v4-15-0[Próximo Capítulo &#62;]

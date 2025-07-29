@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v13-17-0]]
+=== I Crônicas, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Crônicas 17 narra a história de como o rei Davi desejava construir um templo para Deus, mas Deus prometeu estabelecer a dinastia de Davi para sempre e que seu filho construiria o templo. Davi então agradece a Deus por sua bondade e promessa.
+* 1 Reis 8:20-21: "O Senhor cumpriu a palavra que falou. Eu sucedi a Davi, meu pai, e me assentei no trono de Israel, conforme o Senhor prometeu, e construí um templo em honra do nome do Senhor, o Deus de Israel." Este versículo mostra como Salomão, filho de Davi, construiu o templo que seu pai desejava construir.
+* 2 Samuel 7:13-14: "Ele será o que construirá um templo em honra do meu nome, e eu estabelecerei o trono dele para sempre. Serei pai dele e ele será meu filho. Quando ele errar, castigá-lo-ei com vara de homem e com açoites de homens." Este versículo mostra a promessa de Deus a Davi, de que seu filho construiria o templo e que sua dinastia seria estabelecida para sempre.
+* 1 Crônicas 22:7-8: "Meu filho, eu queria construir um templo em honra do nome do Senhor, meu Deus. Mas a palavra do Senhor veio a mim, dizendo: ‘Você derramou muito sangue e travou muitas guerras. Não construirá um templo em honra do meu nome, pois derramou muito sangue na terra perante os meus olhos." Este versículo mostra como Davi foi impedido por Deus de construir o templo por causa do derramamento de sangue em guerras.
+* Salmos 89:35-37: "De maneira alguma retirarei minha fidelidade de Davi, nem quebrarei minha aliança com ele. Estabelecerei sua descendência para sempre e seu trono, como os dias dos céus." Este versículo fala da fidelidade de Deus à sua promessa de estabelecer a dinastia de Davi para sempre.
+* Jeremias 23:5: "Virão dias, declara o Senhor, em que levantarei para Davi um descendente justo, um rei que reinará com sabedoria e fará o que é justo e correto na terra." Este versículo fala da profecia de que Jesus, descendente de Davi, viria a reinar como um rei justo e sábio.
+****
+
+[[v13-17-1]]
+
+^<<v13-17-1,1>>^ Quando Davi se instalou em sua casa, disse ao profeta Natã: “Eis que moro numa casa de cedro e a arca da aliança do Senhor está debaixo de uma tenda”.^&#42;1^
+
+[[v13-17-2]]
+
+^<<v13-17-2,2>>^ Natã respondeu: “Faze o que teu coração te sugere, porque Deus está contigo”.
+
+[[v13-17-3]]
+
+^<<v13-17-3,3>>^ Mas, na noite seguinte, a palavra de Deus foi dirigida a Natã, nestes termos:
+
+[[v13-17-4]]
+
+^<<v13-17-4,4>>^ “Vai e dize a Davi, meu servo: ‘Eis o que diz o Senhor: Não és tu que me construirás a casa em que habitarei.
+
+[[v13-17-5]]
+
+^<<v13-17-5,5>>^ Nunca habitei numa casa, desde o dia em que fiz sair Israel do Egito, até hoje, mas tenho estado de tenda em tenda, de morada em morada.
+
+[[v13-17-6]]
+
+^<<v13-17-6,6>>^ Durante todo o tempo em que viajei com todo o Israel, jamais propus esta questão a algum dos juízes de Israel, aos quais encarregara de apascentar meu povo: Por que não me edificais uma casa de cedro?’.
+
+[[v13-17-7]]
+
+^<<v13-17-7,7>>^ Agora dirás ao meu servo Davi: Eis o que diz o Senhor dos exércitos: Eu te tirei dos campos de pastagens e do pastoreio das ovelhas, para seres chefe de meu povo Israel.
+
+[[v13-17-8]]
+
+^<<v13-17-8,8>>^ Em toda parte por onde foste, estive contigo, exterminei diante de ti teus inimigos e dei-te um nome igual ao dos grandes da terra.
+
+[[v13-17-9]]
+
+^<<v13-17-9,9>>^ Dei um lugar para meu povo de Israel e o fixei. Ele está estabelecido e não será mais inquietado e os iníquos não mais o oprimirão, como outrora,
+
+[[v13-17-10]]
+
+^<<v13-17-10,10>>^ como nos dias em que estabeleci juízes sobre Israel, meu povo. Humilhei todos os teus inimigos. Eu te anuncio que o Senhor há de fundar para ti uma casa.
+
+[[v13-17-11]]
+
+^<<v13-17-11,11>>^ Quando teus dias se acabarem e tiveres ido juntar-te a teus pais, levantarei tua posteridade após ti, na pessoa de um de teus filhos e firmarei seu reino.
+
+[[v13-17-12]]
+
+^<<v13-17-12,12>>^ É ele que me construirá uma casa e firmarei seu trono para sempre.
+
+[[v13-17-13]]
+
+^<<v13-17-13,13>>^ Serei para ele um pai e ele será para mim um filho. Nunca retirarei dele o meu favor como retirei daquele que reinou antes de ti.
+
+[[v13-17-14]]
+
+^<<v13-17-14,14>>^ Eu o estabelecerei na minha casa e no meu reino para sempre e seu trono será firme por todos os séculos”.
+
+[[v13-17-15]]
+
+^<<v13-17-15,15>>^ Natã referiu a Davi todas as palavras que tinha ouvido em visão.
+
+[[v13-17-16]]
+
+^<<v13-17-16,16>>^ Então, Davi foi e se apresentou diante do Senhor e disse: “Quem sou eu, Senhor Deus, e que é minha casa, para que me façais chegar ao que sou?
+
+[[v13-17-17]]
+
+^<<v13-17-17,17>>^ E é ainda pouco aos vossos olhos, ó Deus! Falastes da casa de vosso servo para os tempos longínquos e olhastes para mim como a um homem de alta dignidade, ó Senhor Deus.
+
+[[v13-17-18]]
+
+^<<v13-17-18,18>>^ Que mais poderia te dizer Davi sobre a honra que fazeis ao vosso servo? Vós conheceis o vosso servo.
+
+[[v13-17-19]]
+
+^<<v13-17-19,19>>^ Senhor, é por causa de vosso servo e segundo o impulso de vosso coração que executastes todas estas grandes coisas, para que se saiba como és grande.
+
+[[v13-17-20]]
+
+^<<v13-17-20,20>>^ Senhor, ninguém é semelhante a vós e, conforme tudo que ouvimos dizer, não há outro Deus além de vós.
+
+[[v13-17-21]]
+
+^<<v13-17-21,21>>^ Há sobre a terra outra nação comparável ao nosso povo de Israel, o qual seu Deus veio redimir para dele fazer seu povo, para vos fazer célebre, por meio de milagres e prodígios, repelindo nações diante de vosso povo que redimistes do Egito?
+
+[[v13-17-22]]
+
+^<<v13-17-22,22>>^ De Israel, fizestes vosso povo para sempre e vós, Senhor, tornastes-vos seu Deus.
+
+[[v13-17-23]]
+
+^<<v13-17-23,23>>^ E agora, Senhor, possa a palavra que pronunciastes acerca de vosso servo e de sua casa subsistir eternamente! Fazei como o dissestes.
+
+[[v13-17-24]]
+
+^<<v13-17-24,24>>^ Que ela subsista; então vosso nome será eternamente exaltado. Dirão: ‘O Senhor dos exércitos é o Deus de Israel. É um Deus para Israel’. E que seja sólida diante de vós a casa de vosso servo Davi.
+
+[[v13-17-25]]
+
+^<<v13-17-25,25>>^ Porque fostes vós mesmo, ó meu Deus, que revelastes a vosso servo que lhe constituiríeis uma casa. Eis por que vosso servo ousa dirigir-vos esta prece.
+
+[[v13-17-26]]
+
+^<<v13-17-26,26>>^ Agora, Senhor, vós sois Deus e dissestes a vosso servo essa palavra agradável.
+
+[[v13-17-27]]
+
+^<<v13-17-27,27>>^ Dignai-vos, portanto, abençoar a casa de vosso servo para que ela subsista perpetuamente diante de vós. Porque o que abençoais, Senhor, é para sempre bendito”.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-016.adoc#v13-16-0[&#60; Capítulo Anterior] | <<v13-17-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-018.adoc#v13-18-0[Próximo Capítulo &#62;]

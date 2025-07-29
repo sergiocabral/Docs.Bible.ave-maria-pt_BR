@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v9-31-0]]
+=== I Samuel, 31
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 31 de 1 Samuel narra a batalha final entre Israel e os filisteus, na qual Saul e seus filhos são mortos. Os versículos selecionados abordam temas como morte, luto e derrota:
+* Salmo 116:15 "Preciosa é à vista do SENHOR a morte dos seus santos." Esse versículo fala sobre como Deus considera preciosa a morte dos seus servos fiéis, indicando que a morte pode ser vista como um momento de transição para uma vida melhor.
+* Salmo 126:5 "Os que semeiam em lágrimas, com cânticos de júbilo ceifarão." Este salmo fala sobre como aqueles que passam por tempos de tristeza e dificuldade, eventualmente colherão alegria e felicidade.
+* Eclesiastes 7:2 "Melhor é ir à casa onde há luto do que ir à casa onde há banquete; porque naquela se vê o fim de todos os homens, e os vivos o aplicam ao seu coração." Este versículo ensina que é mais sábio estar presente em um funeral do que em uma festa, pois isso nos lembra da brevidade da vida e da importância de valorizá-la.
+* Jeremias 22:10 "Não choreis o morto, nem o lastimeis; chorai antes aquele que sai, porque nunca mais voltará, nem verá a terra em que nasceu." Neste versículo, Jeremias aconselha que não devemos chorar aqueles que morreram, mas sim aqueles que estão partindo, pois eles nunca mais voltarão.
+* 2 Coríntios 4:8-9 "Em tudo somos atribulados, mas não angustiados; perplexos, mas não desanimados. Perseguidos, mas não desamparados; abatidos, mas não destruídos." Paulo aqui fala sobre as dificuldades que enfrentamos na vida, mas nos encoraja a perseverar, confiando em Deus. Este versículo pode ser aplicado à derrota de Israel na batalha, mas também a qualquer situação em que nos encontramos em dificuldades.
+****
+
+[[v9-31-1]]
+
+^<<v9-31-1,1>>^ Entretanto, os filisteus atacaram Israel e os israelitas fugiram diante deles, caindo feridos de morte no monte de Gelboé.
+
+[[v9-31-2]]
+
+^<<v9-31-2,2>>^ Os filisteus investiram contra Saul e seus filhos, matando Jônatas, Abinadab e Melquisua, filhos de Saul.
+
+[[v9-31-3]]
+
+^<<v9-31-3,3>>^ A violência do combate concentrou-se contra Saul. Os arqueiros descobriram-no e ele foi ferido no ventre.^&#42;1^
+
+[[v9-31-4]]
+
+^<<v9-31-4,4>>^ Disse ao seu escudeiro: “Tira a tua espada e traspassa-me para que não o venham fazer esses incircuncisos, ultrajando-me!”. Mas o escudeiro não o quis fazer, porque se apoderou dele um grande terror. Então tomou Saul a sua espada e jogou-se sobre ela.
+
+[[v9-31-5]]
+
+^<<v9-31-5,5>>^ O escudeiro, vendo que Saul estava morto, arremessou-se também ele sobre a sua espada e morreu com ele.
+
+[[v9-31-6]]
+
+^<<v9-31-6,6>>^ Assim, morreram naquele mesmo dia, Saul e seus três filhos, seu escudeiro e todos os seus homens.
+
+[[v9-31-7]]
+
+^<<v9-31-7,7>>^ Os israelitas que moravam além do vale e além do Jordão, vendo a derrota do exército de Israel e a morte de Saul com seus filhos, abandonaram as suas cidades e fugiram; e os filisteus vieram e estabeleceram-se nelas.
+
+[[v9-31-8]]
+
+^<<v9-31-8,8>>^ No dia seguinte, vieram os filisteus para despojar os cadáveres e encontraram Saul e seus três filhos caídos no monte Gelboé.
+
+[[v9-31-9]]
+
+^<<v9-31-9,9>>^ Cortaram-lhe a cabeça, despojaram-no de suas armas e as enviaram por toda a terra dos filisteus, para que se publicasse essa boa-nova nos templos de seus ídolos e entre o povo.
+
+[[v9-31-10]]
+
+^<<v9-31-10,10>>^ Puseram as armas de Saul no templo de Astarte e suspenderam o seu cadáver nos muros de Betsã.
+
+[[v9-31-11]]
+
+^<<v9-31-11,11>>^ Quando os habitantes de Jabes em Galaad souberam do que os filisteus tinham feito a Saul,
+
+[[v9-31-12]]
+
+^<<v9-31-12,12>>^ puseram-se a caminho os mais valentes dentre eles e andaram toda a noite. Tiraram das muralhas de Betsã os cadáveres de Saul e de seus filhos e voltaram a Jabes, onde os queimaram.
+
+[[v9-31-13]]
+
+^<<v9-31-13,13>>^ Tomaram os ossos e os enterraram debaixo da tamareira, em Jabes. Depois disso jejuaram sete dias.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-030.adoc#v9-30-0[&#60; Capítulo Anterior] | <<v9-31-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-001.adoc#v10-1-0[Próximo Capítulo &#62;]

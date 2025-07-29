@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v32-2-0]]
+=== Baruc, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Baruc 2 é um capítulo do Antigo Testamento que apresenta uma oração penitencial escrita pelo profeta Baruc em nome do povo de Israel, que está sofrendo as consequências do exílio na Babilônia devido a sua desobediência a Deus. Nesta oração, Baruc reconhece os pecados do povo e pede a Deus que tenha misericórdia e perdoe seus pecados. A seguir estão cinco versículos relacionados aos temas abordados em Baruc 2, em ordem de proximidade com o capítulo:
+* Jeremias 14:20: "Nós reconhecemos, ó Senhor, nossas impiedades, a iniquidade de nossos pais; porque pecamos contra ti." Este versículo reconhece a culpa do povo de Israel pelos pecados que cometeu contra Deus, tema central da oração de Baruc.
+* Salmos 106:6: "Pecamos como nossos pais, cometemos iniquidade, fomos ímpios." Este verso reconhece a conexão entre os pecados do povo de Israel e os pecados de seus antepassados, como mencionado por Baruc em sua oração.
+* Salmos 130:3-4: "Se tu, Senhor, observares as iniquidades, Senhor, quem subsistirá? Mas contigo está o perdão, para que sejas temido." Este versículo destaca a natureza misericordiosa de Deus, um tema que é central na oração de Baruc.
+* Neemias 9:17: "Recusaram-se a obedecer e não se lembraram dos teus maravilhosos feitos que fizeste entre eles; endureceram a sua nuca e, na sua rebelião, propuseram pôr um chefe para voltarem à sua escravidão. Mas tu és um Deus que perdoa, clemente e misericordioso, tardio em irar-se e grande em bondade, e não os abandonaste." Este versículo destaca a natureza perdoadora de Deus, um tema importante na oração de Baruc.
+* Isaías 55:6-7: "Buscai o Senhor enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno, os seus pensamentos e se converta ao Senhor, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar." Este versículo destaca a importância da busca por Deus e do arrependimento, temas centrais na oração de Baruc.
+****
+
+[[v32-2-1]]
+
+^<<v32-2-1,1>>^ Assim sendo, pôs o Senhor em execução a ameaça que, contra nós, havia pronunciado, e contra os nossos chefes que governavam Israel, os nossos reis e príncipes e todo Israel e Judá;
+
+[[v32-2-2]]
+
+^<<v32-2-2,2>>^ a ameaça de lançar sobre nós calamidades tais como nunca, sob o céu, ocorreram semelhantes ao que se passou em Jerusalém. Foi visto realizar-se o que na Lei de Moisés se encontra:^&#42;1^
+
+[[v32-2-3]]
+
+^<<v32-2-3,3>>^ chegar cada um de nós a comer a carne do filho ou da filha.
+
+[[v32-2-4]]
+
+^<<v32-2-4,4>>^ Entregou-os ao domínio de todos os reinos que nos cercavam, e os tornou objeto de opróbrio e maldição para todos os povos, em cujo meio o Senhor os havia dispersado.
+
+[[v32-2-5]]
+
+^<<v32-2-5,5>>^ Assim passaram a ser súditos em lugar de senhores, porque cometemos o pecado contra o Senhor, nosso Deus, e lhe desatendemos à voz.
+
+[[v32-2-6]]
+
+^<<v32-2-6,6>>^ O Senhor, nosso Deus, é justo. Nós é que hoje devemos corar de pejo, assim como nossos pais.
+
+[[v32-2-7]]
+
+^<<v32-2-7,7>>^ Aconteceram todas as calamidades de que nos ameaçara o Senhor.
+
+[[v32-2-8]]
+
+^<<v32-2-8,8>>^ E nós não tentamos abrandar a cólera do Senhor contra nós, renunciando aos pensamentos perversos de nosso coração.
+
+[[v32-2-9]]
+
+^<<v32-2-9,9>>^ E assim, o Senhor que velava sobre a calamidade, desencadeou-a sobre nós. Todavia, o Senhor é justo em todos os acontecimentos que nos impôs
+
+[[v32-2-10]]
+
+^<<v32-2-10,10>>^ porque nenhuma atenção prestamos ao seu aviso que consistia em seguir os mandamentos que o Senhor nos havia imposto.
+
+[[v32-2-11]]
+
+^<<v32-2-11,11>>^ E agora, Senhor, Deus de Israel, que fizestes sair o vosso povo do Egito pela força de vossa mão, com milagres e prodígios por um efeito do poder de vosso braço, que criastes um nome até hoje:
+
+[[v32-2-12]]
+
+^<<v32-2-12,12>>^ pecamos, é verdade, e procedemos como ímpios, Senhor, nosso Deus, praticando o mal contra todos os vossos preceitos.
+
+[[v32-2-13]]
+
+^<<v32-2-13,13>>^ Dignai-vos desviar de nós a vossa cólera, porque não passamos de uns poucos restantes entre as nações pelas quais nos dispersastes!^&#42;1^
+
+[[v32-2-14]]
+
+^<<v32-2-14,14>>^ Atendei, Senhor, à nossa prece suplicante e, por vosso amor, salvai-nos. Fazei-nos encontrar perdão ante os olhos daqueles que nos deportaram,
+
+[[v32-2-15]]
+
+^<<v32-2-15,15>>^ a fim de que o mundo saiba que vós sois o Senhor, nosso Deus. Porventura, não é de vosso nome que provém o de Israel e de sua linhagem?
+
+[[v32-2-16]]
+
+^<<v32-2-16,16>>^ Lançai, Senhor, o vosso olhar sobre nós lá do alto de vossa morada santa e atendei à nossa voz. Inclinai vossos ouvidos, Senhor, a fim de nos ouvir.
+
+[[v32-2-17]]
+
+^<<v32-2-17,17>>^ Abri os vossos olhos, e volvei-os sobre nós! Não são os mortos das moradas subterrâneas, cujo sopro se lhes desprendeu das entranhas, que rendem glória ao Senhor, e louvam sua justiça,
+
+[[v32-2-18]]
+
+^<<v32-2-18,18>>^ e sim a alma viva, por mais acabrunhada que esteja de tristeza, aquele que caminha curvado e esfalfado, o olhar desfalecido, e a alma a penar de fome – estes vos rendem glória e louvam a vossa justiça, ó Senhor.^&#42;1^
+
+[[v32-2-19]]
+
+^<<v32-2-19,19>>^ Não é em nome dos méritos de nossos pais e reis que vos apresentamos nossa súplica, Senhor, nosso Deus.
+
+[[v32-2-20]]
+
+^<<v32-2-20,20>>^ Pois (é com razão) que desencadeastes sobre nós a vossa cólera e furor, como o predissestes por intermédio dos profetas, vossos servos.
+
+[[v32-2-21]]
+
+^<<v32-2-21,21>>^ ‘Eis o que diz o Senhor: dobrai a cerviz e servi ao rei da Babilônia; assim ficareis na terra que dei a vossos pais.^&#42;1^
+
+[[v32-2-22]]
+
+^<<v32-2-22,22>>^ Se não atenderdes ao aviso que vos deu o Senhor, vosso Deus, de submeter-vos ao rei da Babilônia,
+
+[[v32-2-23]]
+
+^<<v32-2-23,23>>^ farei calar nas cidades de Judá e nas ruas de Jerusalém os gritos de alegria e júbilo, o cântico do noivo e da noiva, e a terra inteira se transformará em deserto inabitável.’
+
+[[v32-2-24]]
+
+^<<v32-2-24,24>>^ Não escutamos, entretanto, vosso apelo para que nos submetêssemos ao rei da Babilônia. E executastes a ameaça que havíeis ordenado proferissem os profetas, vossos servos, de que os ossos de nossos reis e pais fossem arrebatados de suas sepulturas.
+
+[[v32-2-25]]
+
+^<<v32-2-25,25>>^ E lá estão eles, expostos ao calor dos dias e ao frio das noites, após a morte de nossos pais, no sofrimento cruel da fome, da espada e da peste.^&#42;1^
+
+[[v32-2-26]]
+
+^<<v32-2-26,26>>^ Assim, foi por causa da malícia da casa de Israel e de Judá, que reduzistes o povo, que de vós recebeu o nome, ao estado em que hoje se encontra.
+
+[[v32-2-27]]
+
+^<<v32-2-27,27>>^ E ainda, foi pela vossa bondade e misericórdia, Senhor, nosso Deus, que agistes conosco,
+
+[[v32-2-28]]
+
+^<<v32-2-28,28>>^ como o declarastes por intermédio de vosso servo Moisés, no dia em que o impelistes a gravar por escrito a vossa Lei na presença dos israelitas:^&#42;1^
+
+[[v32-2-29]]
+
+^<<v32-2-29,29>>^ “Se não escutardes a minha voz, esta grande e vasta multidão será reduzida a um punhado de homens entre as nações, pelas quais os dispersarei.
+
+[[v32-2-30]]
+
+^<<v32-2-30,30>>^ Bem sei que não me escutam. É um povo recalcitrante. Contudo, na terra do exílio, tomarão a peito esse caso,^&#42;1^
+
+[[v32-2-31]]
+
+^<<v32-2-31,31>>^ reconhecendo que sou eu o Senhor e Deus. Eu lhes darei então um coração apto a compreender e dóceis ouvidos.
+
+[[v32-2-32]]
+
+^<<v32-2-32,32>>^ E lá na terra do exílio, eles me renderão louvores e se hão de recordar de meu nome.
+
+[[v32-2-33]]
+
+^<<v32-2-33,33>>^ Ante a lembrança do destino de seus pais que pecaram contra o Senhor, renunciarão às suas obstinações e ao seu perverso proceder.
+
+[[v32-2-34]]
+
+^<<v32-2-34,34>>^ Eu os trarei então para a terra que, sob juramento, havia prometido a seus pais, Abraão, Isaac e Jacó. Dela retomarão posse, e eu lá os multiplicarei, e seu número não mais diminuirá.
+
+[[v32-2-35]]
+
+^<<v32-2-35,35>>^ Com eles estabelecerei eterna aliança; e serei o seu Deus, e eles serão o meu povo. E jamais expulsarei Israel, meu povo, da terra que lhe outorguei”.
+
+'''
+
+xref:032-baruc/032-baruc-001.adoc#v32-1-0[&#60; Capítulo Anterior] | <<v32-2-0,Topo>> | xref:032-baruc/032-baruc-003.adoc#v32-3-0[Próximo Capítulo &#62;]

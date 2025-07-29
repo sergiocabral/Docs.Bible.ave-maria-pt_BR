@@ -1,0 +1,303 @@
+include::./index.adoc[]
+
+[[v49-22-0]]
+=== São Lucas, 22
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Lucas 22 narra a última ceia de Jesus com seus discípulos antes da sua crucificação, incluindo a instituição da Santa Ceia e a traição de Judas. O capítulo também aborda a oração de Jesus no Getsêmani, a prisão de Jesus e o julgamento diante do Sinédrio. Abaixo estão cinco versículos relacionados aos temas abordados em São Lucas 22:
+* Salmos 41:9: "Até o meu melhor amigo em quem eu confiava e que partilhava do meu pão, levantou contra mim o calcanhar" Este versículo profético do Salmo 41:9 se refere à traição de Judas contra Jesus, que era considerado seu amigo e companheiro.
+* Marcos 14:22-24: "Enquanto comiam, Jesus tomou o pão, deu graças, partiu-o, e o deu aos seus discípulos, dizendo: "Tomem; isto é o meu corpo". Em seguida, tomou o cálice, deu graças e o ofereceu aos seus discípulos, e todos beberam dele. E lhes disse: "Isto é o meu sangue, o sangue da aliança, que é derramado em favor de muitos"" Esses versículos do Evangelho de Marcos relatam a instituição da Santa Ceia por Jesus durante a última ceia com seus discípulos, um evento também descrito em São Lucas 22.
+* Mateus 26:41: "Vigiem e orem para que não caiam em tentação. O espírito está pronto, mas a carne é fraca". Jesus disse essas palavras aos seus discípulos no Getsêmani, quando pediu que eles o acompanhassem em oração, mas encontrou-os dormindo. Essas palavras de Jesus reforçam a importância da oração e da vigilância espiritual.
+* Isaías 53:7: "Ele foi oprimido e afligido, contudo não abriu a sua boca; como um cordeiro foi levado para o matadouro, e como uma ovelha que diante dos seus tosquiadores fica calada, ele não abriu a sua boca." Este versículo profético de Isaías 53:7 descreve a submissão pacífica de Jesus durante seu julgamento e crucificação, que é narrado em São Lucas 22.
+* João 18:38: "Pilatos lhe perguntou: "O que é a verdade?"" Essa é a pergunta feita por Pilatos a Jesus durante seu julgamento, uma cena também descrita em São Lucas 22. A resposta de Jesus não é registrada, mas essa pergunta de Pilatos continua a ecoar em questões filosóficas e teológicas sobre a natureza da verdade.
+****
+
+[[v49-22-1]]
+
+^<<v49-22-1,1>>^ Aproximava-se a festa dos pães sem fermento, chamada Páscoa.^&#42;1^
+
+[[v49-22-2]]
+
+^<<v49-22-2,2>>^ Os príncipes dos sacerdotes e os escribas buscavam um meio de matar Jesus, mas temiam o povo.
+
+[[v49-22-3]]
+
+^<<v49-22-3,3>>^ Entretanto, Satanás entrou em Judas, que tinha por sobrenome Iscariotes, um dos Doze.
+
+[[v49-22-4]]
+
+^<<v49-22-4,4>>^ Judas foi procurar os príncipes dos sacerdotes e os oficiais para se entender com eles sobre o modo de lho entregar.
+
+[[v49-22-5]]
+
+^<<v49-22-5,5>>^ Eles se alegraram com isso, e concordaram em lhe dar dinheiro.
+
+[[v49-22-6]]
+
+^<<v49-22-6,6>>^ Também ele se obrigou. E buscava ocasião oportuna para o trair, sem que a multidão o soubesse. (= Mt 26,17-29 = Mc 14,12-25)
+
+[[v49-22-7]]
+
+^<<v49-22-7,7>>^ Raiou o dia dos pães sem fermento, em que se devia imolar a Páscoa.^&#42;1^
+
+[[v49-22-8]]
+
+^<<v49-22-8,8>>^ Jesus enviou Pedro e João, dizendo: “Ide e preparai-nos a ceia da Páscoa”.
+
+[[v49-22-9]]
+
+^<<v49-22-9,9>>^ Perguntaram-lhe eles: “Onde queres que a preparemos?”.
+
+[[v49-22-10]]
+
+^<<v49-22-10,10>>^ Ele respondeu: “Ao entrardes na cidade, encontrareis um homem carregando uma bilha de água; segui-o até a casa em que ele entrar,
+
+[[v49-22-11]]
+
+^<<v49-22-11,11>>^ e direis ao dono da casa: O Mestre pergunta-te: Onde está a sala em que comerei a Páscoa com os meus discípulos?
+
+[[v49-22-12]]
+
+^<<v49-22-12,12>>^ Ele vos mostrará no andar superior uma grande sala mobiliada, e ali fazei os preparativos”.
+
+[[v49-22-13]]
+
+^<<v49-22-13,13>>^ Foram, pois, e acharam tudo como Jesus lhes dissera; e prepararam a Páscoa.
+
+[[v49-22-14]]
+
+^<<v49-22-14,14>>^ Chegada que foi a hora, Jesus pôs-se à mesa, e com ele os apóstolos.
+
+[[v49-22-15]]
+
+^<<v49-22-15,15>>^ Disse-lhes: “Tenho desejado ardentemente comer convosco esta Páscoa, antes de sofrer.
+
+[[v49-22-16]]
+
+^<<v49-22-16,16>>^ Pois vos digo: não tornarei a comê-la, até que ela se cumpra no Reino de Deus”.
+
+[[v49-22-17]]
+
+^<<v49-22-17,17>>^ Pegando o cálice, deu graças e disse: “Tomai este cálice e distribuí-o entre vós.
+
+[[v49-22-18]]
+
+^<<v49-22-18,18>>^ Pois vos digo: já não tornarei a beber do fruto da videira, até que venha o Reino de Deus”.
+
+[[v49-22-19]]
+
+^<<v49-22-19,19>>^ Tomou em seguida o pão e depois de ter dado graças, partiu-o e deu-lho, dizendo: “Isto é o meu corpo, que é dado por vós; fazei isto em memória de mim”.
+
+[[v49-22-20]]
+
+^<<v49-22-20,20>>^ Do mesmo modo tomou também o cálice, depois de cear, dizendo: “Este cálice é a Nova Aliança em meu sangue, que é derramado por vós...^&#42;1^
+
+[[v49-22-21]]
+
+^<<v49-22-21,21>>^ Entretanto, eis que a mão de quem me trai está à mesa comigo.
+
+[[v49-22-22]]
+
+^<<v49-22-22,22>>^ O Filho do Homem vai, segundo o que está determinado, mas ai daquele homem por quem ele é traído!”.
+
+[[v49-22-23]]
+
+^<<v49-22-23,23>>^ Perguntavam então os discípulos entre si quem deles seria o que tal haveria de fazer. (= Mt 20,25-28 = Mc 10,42-45 = Jo 13,1-20)
+
+[[v49-22-24]]
+
+^<<v49-22-24,24>>^ Surgiu também entre eles uma discussão: qual deles seria o maior.
+
+[[v49-22-25]]
+
+^<<v49-22-25,25>>^ E Jesus disse-lhes: “Os reis dos pagãos dominam como senhores, e os que exercem sobre eles autoridade chamam-se benfeitores.^&#42;1^
+
+[[v49-22-26]]
+
+^<<v49-22-26,26>>^ Que não seja assim entre vós; mas o que entre vós é o maior, torne-se como o último; e o que governa seja como o servo.
+
+[[v49-22-27]]
+
+^<<v49-22-27,27>>^ Pois qual é o maior: o que está sentado à mesa ou o que serve? Não é aquele que está sentado à mesa? Todavia, eu estou no meio de vós, como aquele que serve.
+
+[[v49-22-28]]
+
+^<<v49-22-28,28>>^ E vós tendes permanecido comigo nas minhas provações;
+
+[[v49-22-29]]
+
+^<<v49-22-29,29>>^ eu, pois, disponho do Reino a vosso favor, assim como meu Pai o dispôs a meu favor,
+
+[[v49-22-30]]
+
+^<<v49-22-30,30>>^ para que comais e bebais à minha mesa no meu Reino e vos senteis em tronos, para julgar as doze tribos de Israel”. (= Mt 26,30-35 = Mc 14,26-31 = Jo 13,36ss)
+
+[[v49-22-31]]
+
+^<<v49-22-31,31>>^ “Simão, Simão, eis que Satanás vos reclamou para vos peneirar como o trigo;
+
+[[v49-22-32]]
+
+^<<v49-22-32,32>>^ mas eu roguei por ti, para que a tua confiança não desfaleça; e tu, por tua vez, confirma os teus irmãos.”^&#42;1^
+
+[[v49-22-33]]
+
+^<<v49-22-33,33>>^ Pedro disse-lhe: “Senhor, estou pronto a ir contigo tanto para a prisão como para a morte”.
+
+[[v49-22-34]]
+
+^<<v49-22-34,34>>^ Jesus respondeu-lhe: “Digo-te, Pedro, não cantará hoje o galo, até que três vezes hajas negado que me conheces”.
+
+[[v49-22-35]]
+
+^<<v49-22-35,35>>^ Depois ajuntou: “Quando vos mandei sem bolsa, sem mochila e sem calçado, faltou-vos porventura alguma coisa?”. Eles responderam: “Nada”.
+
+[[v49-22-36]]
+
+^<<v49-22-36,36>>^ “Mas agora” – disse-lhes ele –, “aquele que tem uma bolsa, tome-a; aquele que tem uma mochila, tome-a igualmente; e aquele que não tiver uma espada, venda sua capa para comprar uma.
+
+[[v49-22-37]]
+
+^<<v49-22-37,37>>^ Pois vos digo: é necessário que se cumpra em mim ainda este oráculo: E foi contado entre os malfeitores (Is 53,12). Com efeito, aquilo que me diz respeito está próximo de se cumprir.”
+
+[[v49-22-38]]
+
+^<<v49-22-38,38>>^ Eles replicaram: “Senhor, eis aqui duas espadas”. “Basta” – respondeu ele.^&#42;1^ (= Mt 26,36-46 = Mc 14,32-42)
+
+[[v49-22-39]]
+
+^<<v49-22-39,39>>^ Conforme o seu costume, Jesus saiu dali e dirigiu-se para o monte das Oliveiras, seguido dos seus discípulos.
+
+[[v49-22-40]]
+
+^<<v49-22-40,40>>^ Ao chegar àquele lugar, disse-lhes: “Orai para que não caiais em tentação”.
+
+[[v49-22-41]]
+
+^<<v49-22-41,41>>^ Depois se afastou deles à distância de um tiro de pedra e, ajoelhando-se, orava:
+
+[[v49-22-42]]
+
+^<<v49-22-42,42>>^ “Pai, se é de teu agrado, afasta de mim este cálice! Não se faça, todavia, a minha vontade, mas sim a tua”.
+
+[[v49-22-43]]
+
+^<<v49-22-43,43>>^ Apareceu-lhe então um anjo do céu para confortá-lo.
+
+[[v49-22-44]]
+
+^<<v49-22-44,44>>^ Ele entrou em agonia e orava ainda com mais instância, e seu suor tornou-se como gotas de sangue a escorrer pela terra.
+
+[[v49-22-45]]
+
+^<<v49-22-45,45>>^ Depois de ter rezado, levantou-se, foi ter com os discípulos e achou-os adormecidos de tristeza.
+
+[[v49-22-46]]
+
+^<<v49-22-46,46>>^ Disse-lhes: “Por que dormis? Levantai-vos, orai, para não cairdes em tentação”. (= Mt 26,47-56 = Mc 14,43-52 = Jo 18,1-11)
+
+[[v49-22-47]]
+
+^<<v49-22-47,47>>^ Ele ainda falava, quando apareceu uma multidão de gente; e à testa deles vinha um dos Doze, que se chamava Judas. Achegou-se de Jesus para o beijar.
+
+[[v49-22-48]]
+
+^<<v49-22-48,48>>^ Jesus perguntou-lhe: “Judas, com um beijo trais o Filho do Homem!”.
+
+[[v49-22-49]]
+
+^<<v49-22-49,49>>^ Os que estavam ao redor dele, vendo o que ia acontecer, perguntaram: “Senhor, devemos atacá-los à espada?”.
+
+[[v49-22-50]]
+
+^<<v49-22-50,50>>^ E um deles feriu o servo do príncipe dos sacerdotes, decepando-lhe a orelha direita.
+
+[[v49-22-51]]
+
+^<<v49-22-51,51>>^ Mas Jesus interveio: “Deixai, basta”. E, tocando na orelha daquele homem, curou-o.
+
+[[v49-22-52]]
+
+^<<v49-22-52,52>>^ Voltando-se para os príncipes dos sacerdotes, para os oficiais do templo e para os anciãos que tinham vindo contra ele, disse-lhes: “Saístes armados de espadas e cacetes, como se viésseis contra um ladrão.
+
+[[v49-22-53]]
+
+^<<v49-22-53,53>>^ Entretanto, eu estava todos os dias convosco no templo, e não estendestes as mãos contra mim; mas esta é a vossa hora e do poder das trevas”. (= Mt 26,69-75 = Mc 14,66-72 = Jo 18,13-27)
+
+[[v49-22-54]]
+
+^<<v49-22-54,54>>^ Prenderam-no então e conduziram-no à casa do príncipe dos sacerdotes. Pedro seguia-o de longe.
+
+[[v49-22-55]]
+
+^<<v49-22-55,55>>^ Acenderam um fogo no meio do pátio, e sentaram-se em redor. Pedro veio sentar-se com eles.
+
+[[v49-22-56]]
+
+^<<v49-22-56,56>>^ Uma criada percebeu-o sentado junto ao fogo, encarou-o de perto e disse: “Também este homem estava com ele”.
+
+[[v49-22-57]]
+
+^<<v49-22-57,57>>^ Mas ele negou-o: “Mulher, não o conheço”.
+
+[[v49-22-58]]
+
+^<<v49-22-58,58>>^ Pouco depois, viu-o outro e disse-lhe: “Também tu és um deles”. Pedro respondeu: “Não, eu não o sou”.
+
+[[v49-22-59]]
+
+^<<v49-22-59,59>>^ Passada quase uma hora, afirmava um outro: “Certamente também este homem estava com ele, pois também é galileu”.
+
+[[v49-22-60]]
+
+^<<v49-22-60,60>>^ Mas Pedro disse: “Meu amigo, não sei o que queres dizer.” E, no mesmo instante, quando ainda falava, cantou o galo.
+
+[[v49-22-61]]
+
+^<<v49-22-61,61>>^ Voltando-se o Senhor, olhou para Pedro. Então, Pedro se lembrou da palavra do Senhor: “Hoje, antes que o galo cante, tu me negarás três vezes”.
+
+[[v49-22-62]]
+
+^<<v49-22-62,62>>^ Saiu dali e chorou amargamente. (= Mt 26,57-68 = Mc 14,61-64 = Jo 18,19-24)
+
+[[v49-22-63]]
+
+^<<v49-22-63,63>>^ Entretanto, os homens que guardavam Jesus escarneciam dele e davam-lhe bofetadas.
+
+[[v49-22-64]]
+
+^<<v49-22-64,64>>^ Cobriam-lhe o rosto e diziam: “Adivinha quem te bateu!”.
+
+[[v49-22-65]]
+
+^<<v49-22-65,65>>^ E injuriavam-no ainda de outros modos.
+
+[[v49-22-66]]
+
+^<<v49-22-66,66>>^ Ao amanhecer, reuniram-se os anciãos do povo, os príncipes dos sacerdotes e os escribas, e mandaram trazer Jesus ao seu conselho.
+
+[[v49-22-67]]
+
+^<<v49-22-67,67>>^ Perguntaram-lhe: “Dize-nos se és o Cristo!” Respondeu-lhes ele: “Se eu vo-lo disser, não me acreditareis;
+
+[[v49-22-68]]
+
+^<<v49-22-68,68>>^ e se vos fizer qualquer pergunta, não me respondereis.
+
+[[v49-22-69]]
+
+^<<v49-22-69,69>>^ Mas, doravante, o Filho do Homem estará sentado à direita do poder de Deus”.
+
+[[v49-22-70]]
+
+^<<v49-22-70,70>>^ Então, perguntaram todos: “Logo, tu és o Filho de Deus?”. Respondeu: “Sim, eu sou.
+
+[[v49-22-71]]
+
+^<<v49-22-71,71>>^ Eles então exclamaram: “Temos nós ainda necessidade de testemunho? Nós mesmos o ouvimos de sua boca”. (= Mt 27,11-26 = Mc 15,1-15 = Jo 18,28-19,16)
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-021.adoc#v49-21-0[&#60; Capítulo Anterior] | <<v49-22-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-023.adoc#v49-23-0[Próximo Capítulo &#62;]

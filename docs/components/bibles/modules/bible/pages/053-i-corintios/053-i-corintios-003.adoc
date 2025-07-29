@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v53-3-0]]
+=== I Coríntios, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 3 de 1 Coríntios aborda a questão da maturidade espiritual e da construção da igreja como um edifício espiritual. Paulo exorta os coríntios a deixarem de lado a inveja e as divisões causadas por seguir diferentes líderes religiosos e a se unirem em Cristo. Ele ensina que os líderes religiosos são apenas servos de Deus e que é Deus quem faz crescer a igreja. Paulo também adverte sobre a importância de construir sobre o fundamento de Cristo e da necessidade de se livrar de qualquer coisa que possa destruir a obra de Deus.
+* Efésios 2:19-20: "Assim que já não sois estrangeiros, nem forasteiros, mas concidadãos dos santos e da família de Deus, edificados sobre o fundamento dos apóstolos e dos profetas, sendo o próprio Jesus Cristo a pedra angular." Este versículo destaca a importância do fundamento de Cristo e dos apóstolos na construção da igreja como um edifício espiritual.
+* Salmos 127:1: "Se o Senhor não edificar a casa, em vão trabalham os que a edificam; se o Senhor não guardar a cidade, em vão vigia a sentinela." Este versículo enfatiza a necessidade da presença e da obra de Deus na construção de qualquer obra espiritual.
+* 1 Pedro 2:5: "E vós também, como pedras vivas, sois edificados casa espiritual e sacerdócio santo, para oferecer sacrifícios espirituais agradáveis a Deus por Jesus Cristo." Este versículo destaca a participação dos crentes na construção da igreja como um edifício espiritual, sendo eles mesmos pedras vivas que compõem a casa espiritual.
+* Mateus 7:24-25: "Todo aquele, pois, que escuta estas minhas palavras e as pratica, assemelhá-lo-ei ao homem prudente, que edificou a sua casa sobre a rocha. E desceu a chuva, correram as torrentes, sopraram os ventos e bateram com ímpeto contra aquela casa; contudo não caiu, porque estava fundada sobre a rocha." Este versículo enfatiza a importância de construir sobre um fundamento sólido e resistente, assim como na construção da igreja como um edifício espiritual.
+* 1 Coríntios 12:12-13: "Porque, assim como o corpo é um e tem muitos membros, e todos os membros, sendo muitos, são um só corpo, assim é Cristo também. Pois todos nós fomos batizados em um Espírito, formando um corpo, quer judeus, quer gregos, quer servos, quer livres, e todos temos bebido de um só Espírito." Este versículo destaca a importância da unidade entre os crentes e da participação de todos na construção da igreja como um edifício espiritual.
+****
+
+[[v53-3-1]]
+
+^<<v53-3-1,1>>^ A vós, irmãos, não vos pude falar como a homens espirituais, mas como a carnais, como a criancinhas em Cristo.
+
+[[v53-3-2]]
+
+^<<v53-3-2,2>>^ Eu vos dei leite a beber, e não alimento sólido que ainda não podíeis suportar. Nem ainda agora o podeis, porque ainda sois carnais.
+
+[[v53-3-3]]
+
+^<<v53-3-3,3>>^ Com efeito, enquanto houver entre vós ciúmes e contendas, não será porque sois carnais e procedeis de um modo totalmente humano?
+
+[[v53-3-4]]
+
+^<<v53-3-4,4>>^ Quando, entre vós, um diz: “Eu sou de Paulo” – e outro –: “Eu, de Apolo” –, não é isso um modo de pensar totalmente humano?^&#42;1^
+
+[[v53-3-5]]
+
+^<<v53-3-5,5>>^ Pois quem é Apolo? E quem é Paulo? Simples servos, por cujo intermédio abraçastes a fé, e isso conforme a medida que o Senhor repartiu a cada um deles:
+
+[[v53-3-6]]
+
+^<<v53-3-6,6>>^ eu plantei, Apolo regou, mas Deus é quem fez crescer.
+
+[[v53-3-7]]
+
+^<<v53-3-7,7>>^ Assim, nem o que planta é alguma coisa nem o que rega, mas só Deus, que faz crescer.
+
+[[v53-3-8]]
+
+^<<v53-3-8,8>>^ O que planta ou o que rega são iguais; cada um receberá a sua recompensa, segundo o seu trabalho.
+
+[[v53-3-9]]
+
+^<<v53-3-9,9>>^ Nós somos operários com Deus. Vós, o campo de Deus, o edifício de Deus.^&#42;1^
+
+[[v53-3-10]]
+
+^<<v53-3-10,10>>^ Segundo a graça que Deus me deu, como sábio arquiteto lancei o fundamento, mas outro edifica sobre ele.
+
+[[v53-3-11]]
+
+^<<v53-3-11,11>>^ Quanto ao fundamento, ninguém pode pôr outro diverso daquele que já foi posto: Jesus Cristo.
+
+[[v53-3-12]]
+
+^<<v53-3-12,12>>^ Agora, se alguém edifica sobre este fundamento, com ouro, ou com prata, ou com pedras preciosas, com madeira, ou com feno, ou com palha,
+
+[[v53-3-13]]
+
+^<<v53-3-13,13>>^ a obra de cada um aparecerá. O dia (do julgamento) irá demonstrá-lo. Será descoberto pelo fogo; o fogo provará o que vale o trabalho de cada um.
+
+[[v53-3-14]]
+
+^<<v53-3-14,14>>^ Se a construção resistir, o construtor receberá a recompensa.
+
+[[v53-3-15]]
+
+^<<v53-3-15,15>>^ Se pegar fogo, arcará com os danos. Ele será salvo, porém passando de alguma maneira através do fogo.
+
+[[v53-3-16]]
+
+^<<v53-3-16,16>>^ Não sabeis que sois o Templo de Deus, e que o Espírito de Deus habita em vós?^&#42;1^
+
+[[v53-3-17]]
+
+^<<v53-3-17,17>>^ Se alguém destruir o Templo de Deus, Deus o destruirá. Porque o templo de Deus é sagrado – e isso sois vós.^&#42;1^
+
+[[v53-3-18]]
+
+^<<v53-3-18,18>>^ Ninguém se engane a si mesmo. Se alguém dentre vós se julga sábio à maneira deste mundo, faça-se louco para tornar-se sábio,
+
+[[v53-3-19]]
+
+^<<v53-3-19,19>>^ porque a sabedoria deste mundo é loucura diante de Deus; pois (diz a Escritura) ele apanhará os sábios na sua própria astúcia (Jó 5,13).
+
+[[v53-3-20]]
+
+^<<v53-3-20,20>>^ E em outro lugar: O Senhor conhece os pensamentos dos sábios, e ele sabe que são vãos (Sl 93,11).
+
+[[v53-3-21]]
+
+^<<v53-3-21,21>>^ Portanto, ninguém ponha sua glória nos homens. Tudo é vosso:
+
+[[v53-3-22]]
+
+^<<v53-3-22,22>>^ Paulo, Apolo, Cefas, o mundo, a vida, a morte, o presente e o futuro. Tudo é vosso!
+
+[[v53-3-23]]
+
+^<<v53-3-23,23>>^ Mas vós sois de Cristo, e Cristo é de Deus.
+
+'''
+
+xref:053-i-corintios/053-i-corintios-002.adoc#v53-2-0[&#60; Capítulo Anterior] | <<v53-3-0,Topo>> | xref:053-i-corintios/053-i-corintios-004.adoc#v53-4-0[Próximo Capítulo &#62;]

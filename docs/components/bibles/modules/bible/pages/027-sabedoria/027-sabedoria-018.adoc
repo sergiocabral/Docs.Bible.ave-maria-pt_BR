@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v27-18-0]]
+=== Sabedoria, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Sabedoria 18 narra a história da noite da libertação do povo de Israel da escravidão no Egito e da passagem pelo Mar Vermelho. O capítulo destaca o papel de Deus como protetor e libertador do seu povo e a importância da fé em sua intervenção divina.
+* Êxodo 14:21: "Então Moisés estendeu a mão sobre o mar, e o Senhor, por um forte vento oriental toda aquela noite, fez o mar recuar. Ele o transformou em terra seca, e as águas se dividiram." Este versículo descreve o milagre da abertura do Mar Vermelho, que foi um dos eventos mais significativos da história de Israel e é mencionado em Sabedoria 18:15.
+* Êxodo 15:1: "Então Moisés e os israelitas cantaram este cântico ao Senhor: ‘Cantarei ao Senhor, pois ele é grandioso! Precipitou no mar o cavalo e o seu cavaleiro!’" Este cântico de louvor a Deus é uma resposta ao seu livramento poderoso do povo de Israel do exército egípcio no Mar Vermelho. A canção de Moisés mencionada em Sabedoria 18:9-10 também celebra esse evento.
+* Êxodo 14:13: "Moisés respondeu ao povo: ‘Não tenham medo! Fiquem firmes e vejam o livramento que o Senhor trará hoje para vocês. Os egípcios que hoje vocês estão vendo, nunca mais vocês os verão!’" Moisés encorajou o povo de Israel a confiar em Deus e a acreditar que Ele seria capaz de libertá-los do poder dos egípcios. Essa mensagem de esperança e confiança é um tema importante em Sabedoria 18.
+* Êxodo 15:13: "Com a tua graça conduziste o povo que resgataste; com teu poder os levaste à tua santa habitação." Este versículo é parte do cântico de Moisés e destaca o papel de Deus como salvador e guia do seu povo. Sabedoria 18 também enfatiza o poder salvador de Deus e a importância de confiar nele.
+* Êxodo 15:16: "Estremecerão de medo os povos; agarrarão os habitantes da Filístia um pavor súbito." O poder de Deus e a sua intervenção no livramento do seu povo foram tão significativos que as nações vizinhas tremiam de medo. A resposta divina à opressão dos egípcios e a libertação do povo de Israel são temas centrais em Sabedoria 18.
+****
+
+[[v27-18-1]]
+
+^<<v27-18-1,1>>^ Contudo, para vossos santos havia uma luz brilhantíssima. Sem verem seus semblantes, os outros ouviam-lhes a voz, e julgavam-nos felizes por não sofrerem os mesmos tormentos.
+
+[[v27-18-2]]
+
+^<<v27-18-2,2>>^ Davam-lhes graças, porque não se vingavam dos maus-tratos suportados, e pediam-lhes perdão de sua inimizade.^&#42;1^
+
+[[v27-18-3]]
+
+^<<v27-18-3,3>>^ Pelo contrário, vós destes uma coluna luminosa para guiá-los na sua marcha para o desconhecido, como um sol que sem incomodá-los alumiava seu glorioso êxodo.^&#42;1^
+
+[[v27-18-4]]
+
+^<<v27-18-4,4>>^ Mas eles bem mereciam ser privados da luz e aprisionados nas trevas, eles, que tinham encerrado em prisões os vossos filhos, através dos quais a incorruptível luz da Lei se devia comunicar ao mundo.^&#42;1^
+
+[[v27-18-5]]
+
+^<<v27-18-5,5>>^ Também tinham resolvido levar à morte os filhos dos santos, mas um deles foi exposto e salvo, e para puni-los fizestes perecer em multidão os seus filhos, e, todos juntos, vós os aniquilastes na profundeza das águas.^&#42;1^
+
+[[v27-18-6]]
+
+^<<v27-18-6,6>>^ Esta mesma noite tinha sido conhecida de antemão por nossos pais, para que, conhecendo bem em que juramentos confiavam, ficassem cheios de coragem.^&#42;1^
+
+[[v27-18-7]]
+
+^<<v27-18-7,7>>^ Assim vosso povo esperava tanto a salvação dos justos como a perdição dos ímpios,
+
+[[v27-18-8]]
+
+^<<v27-18-8,8>>^ e, pelo mesmo fato de terdes destruído nossos inimigos, vós nos convidastes a ser vossos e nos honrastes.^&#42;1^
+
+[[v27-18-9]]
+
+^<<v27-18-9,9>>^ Por isso, os santos filhos dos justos ofereciam secretamente um sacrifício; de comum acordo estabeleciam o pacto divino: que os santos participariam dos mesmos bens e correriam os mesmos perigos; e entoavam já os hinos de seus pais,^&#42;1^
+
+[[v27-18-10]]
+
+^<<v27-18-10,10>>^ quando se elevaram os gritos confusos dos inimigos e se espalharam as lamentações dos que choravam seus filhos.
+
+[[v27-18-11]]
+
+^<<v27-18-11,11>>^ Uma mesma sentença feria o escravo e o senhor, o homem do povo sofria o mesmo castigo que o rei.
+
+[[v27-18-12]]
+
+^<<v27-18-12,12>>^ Todos igualmente tinham um número incalculável de mortos abatidos da mesma maneira; os sobreviventes não eram suficientes para sepultá-los, porque, num instante, sua melhor geração era exterminada.
+
+[[v27-18-13]]
+
+^<<v27-18-13,13>>^ Depois de terem permanecido incrédulos por causa de seus sortilégios, reconheceram, vendo morrer seus primogênitos, que esse povo era verdadeiramente filho de Deus,^&#42;1^
+
+[[v27-18-14]]
+
+^<<v27-18-14,14>>^ porque, quando um profundo silêncio envolvia todas as coisas, e a noite chegava ao meio de seu curso,
+
+[[v27-18-15]]
+
+^<<v27-18-15,15>>^ vossa palavra todo-poderosa desceu dos céus e do trono real, e, qual um implacável guerreiro, arremessou-se sobre a terra condenada à ruína.^&#42;1^
+
+[[v27-18-16]]
+
+^<<v27-18-16,16>>^ De pé, ela tudo encheu de morte, e, pisando a terra, tocava os céus.
+
+[[v27-18-17]]
+
+^<<v27-18-17,17>>^ No mesmo instante, visões e sonhos terríveis os perturbaram, e temores inesperados os assaltaram;^&#42;1^
+
+[[v27-18-18]]
+
+^<<v27-18-18,18>>^ tombando aqui e acolá, semimortos, revelavam a causa da morte que os atingia;
+
+[[v27-18-19]]
+
+^<<v27-18-19,19>>^ porque os sonhos que os tinham agitado tinham-nos informado antecipadamente, para que eles não perecessem sem conhecer a causa de sua desgraça.
+
+[[v27-18-20]]
+
+^<<v27-18-20,20>>^ Verdade é que a prova da morte feriu também os justos, e numerosos foram os que ela abateu no deserto, mas a ira de Deus não durou muito tempo,
+
+[[v27-18-21]]
+
+^<<v27-18-21,21>>^ porque um homem irrepreensível se apressou a tomar sua defesa, servindo-se das armas de seu ministério pessoal, a oração e o sacrifício expiatório do incenso. Opôs-se à ira, e pôs fim ao flagelo, mostrando que era vosso servo.^&#42;1^
+
+[[v27-18-22]]
+
+^<<v27-18-22,22>>^ Dominou a revolta, não pela força física, nem pela força das armas, mas pela sua palavra deteve aquele que castigava, relembrando-lhe os juramentos feitos aos antepassados e a aliança estabelecida.
+
+[[v27-18-23]]
+
+^<<v27-18-23,23>>^ Já os mortos se amontoavam uns sobre os outros, quando ele interveio, deteve a cólera e afastou-a dos vivos.
+
+[[v27-18-24]]
+
+^<<v27-18-24,24>>^ Na sua longa vestimenta estava representado o universo inteiro; nas quatro fileiras de pedras os nomes gloriosos dos patriarcas; e no diadema de sua cabeça vossa Majestade.^&#42;1^
+
+[[v27-18-25]]
+
+^<<v27-18-25,25>>^ Diante destas coisas cedeu o exterminador e foi diante destas coisas que retrocedeu: porque a simples demonstração de vossa ira era suficiente.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-017.adoc#v27-17-0[&#60; Capítulo Anterior] | <<v27-18-0,Topo>> | xref:027-sabedoria/027-sabedoria-019.adoc#v27-19-0[Próximo Capítulo &#62;]

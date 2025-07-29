@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v24-10-0]]
+=== Provérbios, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 10 de Provérbios apresenta uma série de provérbios que contrastam as consequências da sabedoria e da tolice, da justiça e da injustiça, da diligência e da preguiça. Ele enfatiza que as escolhas que fazemos têm consequências diretas em nossas vidas, e que a sabedoria divina nos guiará na escolha do caminho certo. Os versículos a seguir foram escolhidos por sua relevância aos temas tratados neste capítulo:
+* Salmos 37:27: "Afaste-se do mal e faça o bem; e você terá sempre onde morar." Este versículo destaca a importância da justiça e da retidão, prometendo que aqueles que escolhem esses caminhos encontrarão segurança e estabilidade em suas vidas.
+* Provérbios 16:3: "Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos." Este versículo destaca a importância de colocar Deus em primeiro lugar em nossas vidas e confiar em sua direção e orientação para o sucesso.
+* Provérbios 12:24: "As mãos diligentes governarão, mas os preguiçosos acabarão escravos." Este versículo destaca a importância do trabalho árduo e da diligência na vida, prometendo que aqueles que trabalham duro encontrarão sucesso e liberdade, enquanto aqueles que são preguiçosos acabarão se tornando escravos de suas próprias escolhas.
+* Provérbios 14:15: "O inexperiente acredita em qualquer coisa, mas o prudente dá atenção aos seus passos." Este versículo destaca a importância de ser cauteloso e prudente em nossas escolhas, evitando a credulidade e a tolice que podem nos levar a consequências negativas.
+* Provérbios 15:1: "A resposta branda acalma a fúria, mas a palavra dura atiça a raiva." Este versículo destaca a importância da comunicação eficaz e compassiva, prometendo que aqueles que respondem com gentileza e sabedoria terão melhores resultados em suas relações interpessoais.
+****
+
+[[v24-10-1]]
+
+^<<v24-10-1,1>>^ O filho sábio é a alegria de seu pai; o insensato, porém, a aflição de sua mãe.
+
+[[v24-10-2]]
+
+^<<v24-10-2,2>>^ Tesouros mal adquiridos de nada servem, mas a justiça livra da morte.^&#42;1^
+
+[[v24-10-3]]
+
+^<<v24-10-3,3>>^ O Senhor não deixa o justo passar fome, mas repele a cobiça do ímpio.
+
+[[v24-10-4]]
+
+^<<v24-10-4,4>>^ A mão preguiçosa causa a indigência; a mão diligente se enriquece.
+
+[[v24-10-5]]
+
+^<<v24-10-5,5>>^ Quem recolhe no verão é um filho prudente; quem dorme na ceifa merece a vergonha.
+
+[[v24-10-6]]
+
+^<<v24-10-6,6>>^ As bênçãos descansam sobre a cabeça do justo, mas a boca dos maus oculta a injustiça.
+
+[[v24-10-7]]
+
+^<<v24-10-7,7>>^ A memória do justo alcança as bênçãos; o nome dos ímpios apodrecerá.
+
+[[v24-10-8]]
+
+^<<v24-10-8,8>>^ O sábio de coração recebe os preceitos, mas o insensato caminha para a ruína.
+
+[[v24-10-9]]
+
+^<<v24-10-9,9>>^ Quem anda na integridade caminha com segurança, mas quem emprega astúcias será descoberto.
+
+[[v24-10-10]]
+
+^<<v24-10-10,10>>^ Quem pisca os olhos traz desgosto, mas o que repreende com franqueza procura a paz.^&#42;1^
+
+[[v24-10-11]]
+
+^<<v24-10-11,11>>^ A boca do justo é uma fonte de vida; a do ímpio, porém, esconde injustiça.
+
+[[v24-10-12]]
+
+^<<v24-10-12,12>>^ O ódio desperta rixas; a caridade, porém, supre todas as faltas.^&#42;1^
+
+[[v24-10-13]]
+
+^<<v24-10-13,13>>^ Nos lábios do sábio encontra-se a sabedoria; no dorso do insensato a correção.
+
+[[v24-10-14]]
+
+^<<v24-10-14,14>>^ Os sábios entesouram a sabedoria, mas a boca do tolo é uma desgraça sempre ameaçadora.
+
+[[v24-10-15]]
+
+^<<v24-10-15,15>>^ A fortuna do rico é a sua cidade forte; a pobreza dos indigentes ocasiona-lhes ruína.
+
+[[v24-10-16]]
+
+^<<v24-10-16,16>>^ O salário do justo é para a vida; o fruto do ímpio produz o pecado.^&#42;1^
+
+[[v24-10-17]]
+
+^<<v24-10-17,17>>^ O que observa a disciplina está no caminho da vida; anda errado o que esquece a repressão.
+
+[[v24-10-18]]
+
+^<<v24-10-18,18>>^ Quem dissimula o ódio é um mistificador; um insensato o que profere calúnias.
+
+[[v24-10-19]]
+
+^<<v24-10-19,19>>^ Não pode faltar o pecado num caudal de palavras; quem modera os lábios é um homem prudente.
+
+[[v24-10-20]]
+
+^<<v24-10-20,20>>^ A língua do justo é prata finíssima; o coração dos maus, porém, para nada serve.
+
+[[v24-10-21]]
+
+^<<v24-10-21,21>>^ Os lábios dos justos nutrem a muitos; mas os néscios perecem por falta de inteligência.
+
+[[v24-10-22]]
+
+^<<v24-10-22,22>>^ É a bênção do Senhor que enriquece; o labor nada acrescenta a ela.
+
+[[v24-10-23]]
+
+^<<v24-10-23,23>>^ É um divertimento para o ímpio praticar o mal; e para o sensato, ser sábio.
+
+[[v24-10-24]]
+
+^<<v24-10-24,24>>^ O que receia o mal, este cai sobre ele. O desejo do justo lhe é concedido.
+
+[[v24-10-25]]
+
+^<<v24-10-25,25>>^ Quando passa a tormenta, desaparece o perverso, mas o justo descansa sobre fundamentos duráveis.
+
+[[v24-10-26]]
+
+^<<v24-10-26,26>>^ Como o vinagre nos dentes e a fumaça nos olhos, assim é o preguiçoso para os que o mandam.
+
+[[v24-10-27]]
+
+^<<v24-10-27,27>>^ O temor do Senhor prolonga os dias, mas os anos dos ímpios serão abreviados.
+
+[[v24-10-28]]
+
+^<<v24-10-28,28>>^ A expectativa dos justos causa alegria; a esperança dos ímpios, porém, perecerá.
+
+[[v24-10-29]]
+
+^<<v24-10-29,29>>^ Para o homem íntegro o Senhor é uma fortaleza, mas é a ruína dos que fazem o mal.
+
+[[v24-10-30]]
+
+^<<v24-10-30,30>>^ Jamais o justo será abalado, mas os ímpios não habitarão a terra.^&#42;1^
+
+[[v24-10-31]]
+
+^<<v24-10-31,31>>^ A boca do justo produz sabedoria, mas a língua perversa será arrancada.
+
+[[v24-10-32]]
+
+^<<v24-10-32,32>>^ Os lábios do justo sabem dizer o que é agradável; a boca dos maus, o que é mau.
+
+'''
+
+xref:024-proverbios/024-proverbios-009.adoc#v24-9-0[&#60; Capítulo Anterior] | <<v24-10-0,Topo>> | xref:024-proverbios/024-proverbios-011.adoc#v24-11-0[Próximo Capítulo &#62;]

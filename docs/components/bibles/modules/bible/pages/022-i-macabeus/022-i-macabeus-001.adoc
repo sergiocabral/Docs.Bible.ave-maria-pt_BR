@@ -1,0 +1,275 @@
+include::./index.adoc[]
+
+[[v22-1-0]]
+=== I Macabeus, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O livro de 1 Macabeus narra a história dos judeus no período intertestamentário, entre o fim do Antigo Testamento e o início do Novo Testamento. O capítulo 1 descreve a profanação do Templo de Jerusalém pelo rei Antíoco Epifânio IV e sua tentativa de impor a cultura e religião grega aos judeus. Abaixo estão cinco versículos relacionados com os temas abordados em 1 Macabeus 1:
+* 2 Macabeus 4:15: "Não mais se preocupando com os ritos sagrados dos pais, mas tendo em vista a glória dos gregos e o seu modo de vida" Esse versículo retrata a influência da cultura grega e a falta de respeito pelos ritos e tradições religiosas judaicas, que foi uma das principais causas da profanação do Templo.
+* Daniel 8:11-12: "Ele se engrandeceu até o próprio Príncipe do exército; de sua parte foi tirado o sacrifício contínuo, e foi deitado por terra o lugar do seu santuário. E um exército foi posto em pé contra o sacrifício contínuo, por causa da transgressão; e lançou a verdade por terra, e o que fez prosperou." Esses versículos profetizam a profanação do templo e a suspensão do sacrifício contínuo, que é um elemento central da adoração judaica.
+* 2 Macabeus 5:11-12: "E, chegando a Jerusalém com grande exército, mandou Antíoco Epifânio seus amigos, os quais eram líderes da sua hoste, a Jerusalém, para falarem com os judeus com engano, dizendo: Vinde, façamos um acordo de paz convosco, e com o que concordarem todos nós, vos será lícito, no dia de sábado, fazer negócio, e compras, e vender no país dos judeus, sem que ninguém vos inquiete." Esses versículos descrevem a tentativa de Antíoco Epifânio de enganar os judeus e convencê-los a abandonar suas práticas religiosas em troca de liberdade para fazer negócios.
+* Ezequiel 7:22-23: "Farei vir sobre eles a maldade dos estranhos, e os entregarei à violência dos ímpios, e a terra será profanada pelo seu sangue. E farei cessar a arrogância dos fortes, e os seus lugares santos serão profanados." Esses versículos falam sobre a profanação dos lugares sagrados pelos estrangeiros e a violência contra os judeus, um tema semelhante ao que é retratado em 1 Macabeus 1.
+* Jeremias 25:9-11: "Eis que enviarei, e tomarei a todas as tribos do norte, diz o Senhor, e a Nabucodonosor, rei de babilônia, meu servo, e os trarei contra esta terra, e contra os seus moradores, e contra todas estas nações em redor, e os destruirei totalmente, e farei deles objeto de espanto, e de assobio, e de perpétuo deserto." Estes versículos profetizam a invasão da Babilônia e a destruição da terra e seus moradores, um tema que é retomado em 1 Macabeus 1.
+****
+
+[[v22-1-1]]
+
+^<<v22-1-1,1>>^ Ora, aconteceu que, já senhor da Grécia, Alexandre, filho de Filipe da Macedônia, oriundo da terra de Cetim, derrotou Dario, rei dos persas e dos medos, e reinou em seu lugar.
+
+[[v22-1-2]]
+
+^<<v22-1-2,2>>^ Empreendeu inúmeras guerras, apoderou-se de muitas cidades e matou vários reis da região.
+
+[[v22-1-3]]
+
+^<<v22-1-3,3>>^ Avançou até os confins da terra e apoderou-se dos despojos de uma multidão de nações. A terra calou-se diante dele. Tornando-se altivo, seu coração ensoberbeceu-se.
+
+[[v22-1-4]]
+
+^<<v22-1-4,4>>^ Reuniu um imenso exército,
+
+[[v22-1-5]]
+
+^<<v22-1-5,5>>^ impôs seu poderio aos países, às nações e reis, e todos se tornaram seus tributários.
+
+[[v22-1-6]]
+
+^<<v22-1-6,6>>^ Mas, em seguida, adoeceu e viu que a morte se aproximava.
+
+[[v22-1-7]]
+
+^<<v22-1-7,7>>^ Convocou então os mais considerados dentre os seus cortesãos, companheiros desde sua juventude, e, ainda em vida, repartiu entre eles o império.
+
+[[v22-1-8]]
+
+^<<v22-1-8,8>>^ Alexandre reinou durante doze anos, e morreu.
+
+[[v22-1-9]]
+
+^<<v22-1-9,9>>^ Seus oficiais exerceram o poder, cada qual em seu próprio reino.
+
+[[v22-1-10]]
+
+^<<v22-1-10,10>>^ Puseram todos o diadema depois de sua morte e, após eles, seus filhos durante muitos anos. E males em quantidade multiplicaram-se sobre a terra.
+
+[[v22-1-11]]
+
+^<<v22-1-11,11>>^ Desses reis originou-se uma raiz de pecado: Antíoco Epífanes, filho do rei Antíoco, que havia estado em Roma como refém e que reinou no ano cento e trinta e sete do reino dos gregos.^&#42;1^
+
+[[v22-1-12]]
+
+^<<v22-1-12,12>>^ Nessa época, saíram também de Israel uns filhos perversos que seduziram a muitos outros, dizendo: “Vamos e façamos uma aliança com os povos que nos cercam, porque, desde que nos separamos deles, caímos em infortúnios sem conta”.
+
+[[v22-1-13]]
+
+^<<v22-1-13,13>>^ Semelhante linguagem pareceu-lhes boa
+
+[[v22-1-14]]
+
+^<<v22-1-14,14>>^ e houve entre o povo quem se apressasse a ir ter com o rei, o qual concedeu a licença de adotarem os costumes pagãos.
+
+[[v22-1-15]]
+
+^<<v22-1-15,15>>^ Edificaram em Jerusalém um ginásio, como os gentios. Dissimularam os sinais da circuncisão e afastaram-se da aliança com Deus para se unirem aos gentios. E se venderam para praticar o mal.
+
+[[v22-1-16]]
+
+^<<v22-1-16,16>>^ Quando seu reino lhe pareceu bem consolidado, concebeu Antíoco o desejo de conquistar também o Egito, a fim de reinar sobre dois reinos.
+
+[[v22-1-17]]
+
+^<<v22-1-17,17>>^ Invadiu, pois, o Egito com um poderoso exército, com carros, elefantes, cavaleiros e uma numerosa esquadra.
+
+[[v22-1-18]]
+
+^<<v22-1-18,18>>^ Investiu contra Ptolomeu, rei do Egito, o qual, tomado de pânico, fugiu. Foram muitos os que sucumbiram sob seus golpes.
+
+[[v22-1-19]]
+
+^<<v22-1-19,19>>^ Tornou-se ele senhor das fortalezas do Egito e apoderou-se das riquezas do país.
+
+[[v22-1-20]]
+
+^<<v22-1-20,20>>^ Após ter derrotado o Egito, pelo ano cento e quarenta e três, regressou Antíoco e atacou Israel, subindo a Jerusalém com um enorme exército.
+
+[[v22-1-21]]
+
+^<<v22-1-21,21>>^ Entrou com arrogância no santuário, tomou o altar de ouro, o candelabro da luz com todos os seus acessórios,
+
+[[v22-1-22]]
+
+^<<v22-1-22,22>>^ a mesa da proposição, os vasos, as alfaias, os turíbulos de ouro, o véu, as coroas, os ornamentos de ouro da fachada e arrancou todo o revestimento.
+
+[[v22-1-23]]
+
+^<<v22-1-23,23>>^ Tomou a prata, o ouro, os vasos preciosos e os tesouros ocultos que encontrou.
+
+[[v22-1-24]]
+
+^<<v22-1-24,24>>^ Arrebatando tudo consigo, regressou à sua terra, após massacrar muitos judeus e pronunciar palavras injuriosas.
+
+[[v22-1-25]]
+
+^<<v22-1-25,25>>^ Foi isso um motivo de desolação em extremo para todo o Israel.
+
+[[v22-1-26]]
+
+^<<v22-1-26,26>>^ Príncipes e anciãos gemeram, jovens e moças perderam sua alegria e murchou a beleza das mulheres.
+
+[[v22-1-27]]
+
+^<<v22-1-27,27>>^ O recém-casado lamentava-se e a esposa chorava no leito nupcial.
+
+[[v22-1-28]]
+
+^<<v22-1-28,28>>^ A própria terra tremia por todos os seus habitantes e a casa de Jacó cobriu-se de vergonha.
+
+[[v22-1-29]]
+
+^<<v22-1-29,29>>^ Dois anos após, Antíoco enviou um oficial a cobrar o tributo nas cidades de Judá. Chegou ele a Jerusalém com uma numerosa tropa.^&#42;1^
+
+[[v22-1-30]]
+
+^<<v22-1-30,30>>^ Dirigiu-se aos habitantes com palavras pacíficas, mas astuciosas, nas quais acreditaram. Em seguida, lançou-se de improviso sobre a cidade, pilhou-a seriamente e matou muita gente de Israel.
+
+[[v22-1-31]]
+
+^<<v22-1-31,31>>^ Saqueou-a, incendiou-a, destruiu as casas e os muros em derredor.
+
+[[v22-1-32]]
+
+^<<v22-1-32,32>>^ Seus soldados conduziram ao cativeiro as mulheres e as crianças e apoderaram-se do gado.
+
+[[v22-1-33]]
+
+^<<v22-1-33,33>>^ Cercaram a Cidade de Davi com uma extensa e sólida muralha, com possantes torres, tornando-a sua fortaleza.^&#42;1^
+
+[[v22-1-34]]
+
+^<<v22-1-34,34>>^ Instalaram ali uma guarnição brutal de gente sem leis, e se fortificaram.
+
+[[v22-1-35]]
+
+^<<v22-1-35,35>>^ Ajuntaram armas e provisões. Reunindo todos os espólios do saque de Jerusalém, ali os acumularam. Constituíram-se desse modo em grande ameaça.
+
+[[v22-1-36]]
+
+^<<v22-1-36,36>>^ Serviram de cilada para o templo, um inimigo constantemente incitado contra o povo de Israel,
+
+[[v22-1-37]]
+
+^<<v22-1-37,37>>^ derramando sangue inocente ao redor do templo e profanando o santuário.
+
+[[v22-1-38]]
+
+^<<v22-1-38,38>>^ Por causa deles, os habitantes de Jerusalém fugiram, e só ficaram lá os estrangeiros. Jerusalém tornou-se estranha a seus próprios filhos e estes a abandonaram.
+
+[[v22-1-39]]
+
+^<<v22-1-39,39>>^ Seu templo ficou desolado como um deserto, seus dias de festa se transformaram em dias de luto, seus sábados, em dias de vergonha e sua glória em desonra.
+
+[[v22-1-40]]
+
+^<<v22-1-40,40>>^ Quanto fora ela honrada, agora foi desprezada e sua exaltação converteu-se em tormento.
+
+[[v22-1-41]]
+
+^<<v22-1-41,41>>^ Então, o rei Antíoco publicou para todo o reino um edito, prescrevendo que todos os povos formassem um único povo.
+
+[[v22-1-42]]
+
+^<<v22-1-42,42>>^ Cada um devia renunciar a seus costumes particulares. Todos os gentios se conformaram a essa ordem do rei, e
+
+[[v22-1-43]]
+
+^<<v22-1-43,43>>^ muitos de Israel adotaram a sua religião, sacrificando aos ídolos e violando o sábado.
+
+[[v22-1-44]]
+
+^<<v22-1-44,44>>^ Por intermédio de mensageiros, o rei enviou, a Jerusalém e às cidades de Judá, cartas prescrevendo que aceitassem os costumes dos outros povos da terra.
+
+[[v22-1-45]]
+
+^<<v22-1-45,45>>^ Deviam suprimir holocaustos, sacrifícios e libações no templo; violar os sábados e as festas;
+
+[[v22-1-46]]
+
+^<<v22-1-46,46>>^ profanar o santuário e os santos;
+
+[[v22-1-47]]
+
+^<<v22-1-47,47>>^ erigir altares, templos e ídolos; sacrificar porcos e outros animais impuros.
+
+[[v22-1-48]]
+
+^<<v22-1-48,48>>^ Deviam também deixar seus filhos incircuncidados e macular suas almas com toda sorte de impurezas e abominações, de maneira
+
+[[v22-1-49]]
+
+^<<v22-1-49,49>>^ a obrigarem-nos a esquecer a Lei e a transgredir as prescrições.
+
+[[v22-1-50]]
+
+^<<v22-1-50,50>>^ Todo aquele que não obedecesse à ordem do rei seria morto.
+
+[[v22-1-51]]
+
+^<<v22-1-51,51>>^ Foi nesse teor que o rei escreveu a todo o seu reino e nomeou comissários para vigiar o cumprimento de sua vontade pelo povo. Ordenou às cidades de Judá que oferecessem sacrifícios, cada uma por sua vez.
+
+[[v22-1-52]]
+
+^<<v22-1-52,52>>^ Houve muitos dentre o povo que colaboraram com eles e abandonaram a Lei. Fizeram muito mal no país e
+
+[[v22-1-53]]
+
+^<<v22-1-53,53>>^ constrangeram os israelitas a se refugiarem em asilos e refúgios ocultos.
+
+[[v22-1-54]]
+
+^<<v22-1-54,54>>^ No dia quinze do mês de Casleu, no ano cento e quarenta e cinco, Antíoco fez erigir a Abominação da desolação sobre o altar. Também construíram altares em todas as cidades vizinhas de Judá.^&#42;1^
+
+[[v22-1-55]]
+
+^<<v22-1-55,55>>^ Ofereciam sacrifícios diante das portas das casas e nas praças públicas.
+
+[[v22-1-56]]
+
+^<<v22-1-56,56>>^ Rasgavam e queimavam todos os livros da Lei que achavam.
+
+[[v22-1-57]]
+
+^<<v22-1-57,57>>^ Em toda parte, todo aquele em poder do qual fosse encontrado um livro do testamento, ou todo aquele que mostrasse gosto pela Lei, morreria por ordem do rei.
+
+[[v22-1-58]]
+
+^<<v22-1-58,58>>^ Com esse poder que tinham, tratavam assim, cada mês, os judeus que eles encontravam nas cidades.
+
+[[v22-1-59]]
+
+^<<v22-1-59,59>>^ No dia vinte e cinco de cada mês, sacrificavam no altar, que sobressaía ao altar do templo.
+
+[[v22-1-60]]
+
+^<<v22-1-60,60>>^ As mulheres, que levavam seus filhos a circuncidar eram mortas conforme a ordem do rei,
+
+[[v22-1-61]]
+
+^<<v22-1-61,61>>^ com os filhos suspensos ao pescoço. Massacravam-se também seus próximos e os que tinham feito a circuncisão.
+
+[[v22-1-62]]
+
+^<<v22-1-62,62>>^ Numerosos foram os israelitas que tomaram a firme resolução de não comer nada que fosse impuro. Preferiram a morte antes que se manchar com alimentos impuros;
+
+[[v22-1-63]]
+
+^<<v22-1-63,63>>^ não quiseram violar a santa lei e foram trucidados.
+
+[[v22-1-64]]
+
+^<<v22-1-64,64>>^ Caiu assim sobre Israel uma imensa cólera.
+
+'''
+
+xref:021-salmos/021-salmos-150.adoc#v21-150-0[&#60; Capítulo Anterior] | <<v22-1-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-002.adoc#v22-2-0[Próximo Capítulo &#62;]

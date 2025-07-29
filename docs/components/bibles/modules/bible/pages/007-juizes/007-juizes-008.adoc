@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v7-8-0]]
+=== Juízes, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Juízes 8 continua a história de Gideão após sua vitória sobre os midianitas. No entanto, em vez de celebrar a vitória, Gideão se envolve em conflitos com as tribos de Efraim e Sucote e com o rei Zeba e Salmuna. Gideão eventualmente morre, mas a paz é temporariamente mantida em Israel. Aqui estão cinco versículos relacionados com os temas abordados em Juízes 8, excluindo versículos do próprio capítulo:
+* Números 32:23: "Mas se vocês não fizerem isso, estarão pecando contra o Senhor, e vocês podem ter certeza de que o pecado de vocês os encontrará." Este versículo fala sobre as consequências do pecado e como ele pode afetar as pessoas ao longo do tempo. As ações de Gideão em Juízes 8 levaram a conflitos que podem ser considerados pecaminosos, e o versículo de Números mostra como o pecado pode ter consequências duradouras.
+* 1 Samuel 8:6-7: "Mas, quando pediram um rei, isso os desagradou a Samuel, e ele orou ao Senhor. E o Senhor disse a Samuel: 'Atenda ao pedido deles, mas advirta-os solenemente e mostre-lhes como o rei governará'". Este versículo mostra como o desejo por um líder terreno pode ser tentador para o povo de Deus, mesmo que isso signifique afastar-se de Deus. Gideão era um líder escolhido por Deus, mas as tribos de Efraim e Sucote queriam um líder terreno e questionaram a liderança de Gideão.
+* Provérbios 16:18: "O orgulho precede a ruína; a arrogância, a queda." Este versículo fala sobre como o orgulho pode levar à queda. Gideão, em Juízes 8, pode ser considerado arrogante em sua vitória sobre os midianitas, o que levou a conflitos com as tribos de Efraim e Sucote.
+* Colossenses 3:12: "Portanto, como escolhidos de Deus, santos e amados, revistam-se de compaixão, bondade, humildade, mansidão e paciência." Este versículo fala sobre como devemos nos comportar como escolhidos de Deus, demonstrando compaixão, bondade, humildade, mansidão e paciência. Gideão, em Juízes 8, pode ter faltado em algumas dessas qualidades em seus conflitos com as tribos de Efraim e Sucote.
+* 2 Timóteo 2:3-4: "Junte-se a mim numa mesma mente de sofrimento, como soldado de Cristo Jesus. Nenhum soldado em serviço se envolve em negócios desta vida, porque o seu objetivo é satisfazer aquele que o alistou." Este versículo fala sobre a importância de manter o foco em Deus e em sua missão, em vez de se envolver em assuntos mundanos. Gideão foi chamado por Deus para liderar Israel, mas seus conflitos com as tribos de Efraim e Sucote podem ser considerados distrações de sua missão divina.
+****
+
+[[v7-8-1]]
+
+^<<v7-8-1,1>>^ Os homens de Efraim disseram a Gedeão: “Por que nos trataste assim, não nos chamando a pelejar contigo contra Madiã?”. E houve entre eles uma violenta discussão.
+
+[[v7-8-2]]
+
+^<<v7-8-2,2>>^ Gedeão respondeu-lhes: “Que fiz eu, ao lado do que vós fizestes? Porventura não valem mais os cachos de Efraim que as vindimas de Abiezer?
+
+[[v7-8-3]]
+
+^<<v7-8-3,3>>^ Foi nas vossas mãos que o Senhor entregou os príncipes de Madiã, Oreb e Zeb. Que pude eu, pois, fazer em comparação ao que vós fizestes?”. E, com essas palavras, aquietaram-se.
+
+[[v7-8-4]]
+
+^<<v7-8-4,4>>^ Gedeão chegou ao Jordão e passou-o com seus trezentos homens, continuando a perseguir o inimigo, apesar de sua fadiga.
+
+[[v7-8-5]]
+
+^<<v7-8-5,5>>^ Chegando a Sucot, disse aos seus moradores: “Dai, peço-vos, pão aos homens que me acompanham, porque estão muito cansados; estou perseguindo Zebá e Sálmana, reis de Madiã”.
+
+[[v7-8-6]]
+
+^<<v7-8-6,6>>^ Os chefes de Sucot responderam-lhe: “Tens já talvez em teu poder o punho de Zebá e de Sálmana para que possamos dar pão à tua tropa?”.
+
+[[v7-8-7]]
+
+^<<v7-8-7,7>>^ “Pois bem – replicou Gedeão – quando o Senhor me houver entregue nas mãos Zebá e Sálmana, eu vos rasgarei a pele com espinhos e abrolhos do deserto!”
+
+[[v7-8-8]]
+
+^<<v7-8-8,8>>^ Dali subiu a Fanuel, onde fez o mesmo pedido, mas obteve a mesma resposta que em Sucot.
+
+[[v7-8-9]]
+
+^<<v7-8-9,9>>^ Gedeão disse-lhes: “Quando eu voltar vitorioso, destruirei esta torre”.
+
+[[v7-8-10]]
+
+^<<v7-8-10,10>>^ Zebá e Sálmana estavam então em Carcar com o seu forte exército, cerca de quinze mil homens, que eram o restante de todo o exército dos filhos do oriente, pois haviam já perecido cento e vinte mil combatentes que manejavam a espada.
+
+[[v7-8-11]]
+
+^<<v7-8-11,11>>^ Gedeão subiu pelo caminho dos nômades, ao oriente de Nob e de Jegbaa, e feriu o acampamento dos inimigos que se julgavam perfeitamente seguros.
+
+[[v7-8-12]]
+
+^<<v7-8-12,12>>^ Zebá e Sálmana, reis de Madiã, fugiram, mas foram perseguidos e presos por Gedeão, depois de ter derrotado toda a sua guarnição.
+
+[[v7-8-13]]
+
+^<<v7-8-13,13>>^ Gedeão, filho de Joás, voltou da batalha pela subida de Hares.
+
+[[v7-8-14]]
+
+^<<v7-8-14,14>>^ Deteve um jovem entre os habitantes de Sucot e fez-lhe perguntas. Este escreveu-lhe uma lista com setenta e sete nomes dos chefes de Sucot e dos anciãos.
+
+[[v7-8-15]]
+
+^<<v7-8-15,15>>^ Gedeão veio ter com os habitantes de Sucot e disse-lhes: “Eis aqui Zebá e Sálmana a respeito dos quais me insultastes, dizendo: ‘Tens já talvez em teu poder o punho de Zebá e de Sálmana, para que possamos dar pão aos teus homens fatigados?’.”
+
+[[v7-8-16]]
+
+^<<v7-8-16,16>>^ Tomou então os anciãos da cidade e açoitou-os com espinhos e abrolhos do deserto.
+
+[[v7-8-17]]
+
+^<<v7-8-17,17>>^ Destruiu também a torre de Fanuel e matou os habitantes da cidade.
+
+[[v7-8-18]]
+
+^<<v7-8-18,18>>^ E disse a Zebá e a Sálmana: “Como eram aqueles homens que matastes no Tabor?”. “Eram – responderam-lhe – semelhantes a ti; cada um deles parecia um filho de rei.”
+
+[[v7-8-19]]
+
+^<<v7-8-19,19>>^ “Eram meus irmãos, filhos de minha mãe! Juro pelo Senhor, se os tivésseis deixado com vida, eu não vos mataria.”
+
+[[v7-8-20]]
+
+^<<v7-8-20,20>>^ E disse a Jeter, seu filho primogênito: “Levanta-te e mata-os!”. Mas o jovem não ousou tirar a espada, porque, sendo ainda muito novo, tinha medo.
+
+[[v7-8-21]]
+
+^<<v7-8-21,21>>^ “Vem tu mesmo – disseram-lhe Zebá e Sálmana – e mata-nos; porque o homem se mede pela sua força.” Gedeão matou Zebá e Sálmana, e tomou os colares que os camelos traziam ao pescoço.
+
+[[v7-8-22]]
+
+^<<v7-8-22,22>>^ Os israelitas disseram a Gedeão: “Sê o nosso rei, tu, teu filho e teu neto, porque tu nos livraste das mãos dos madianitas”.
+
+[[v7-8-23]]
+
+^<<v7-8-23,23>>^ “Não – respondeu ele – não reinarei sobre vós, nem meu filho tampouco; é o Senhor quem será o vosso rei”.
+
+[[v7-8-24]]
+
+^<<v7-8-24,24>>^ E ajuntou: “Tenho um pedido a vos fazer: que cada um de vós me dê as argolas de vosso despojo”. Os inimigos, que eram os ismaelitas, usavam argolas de ouro.
+
+[[v7-8-25]]
+
+^<<v7-8-25,25>>^ Eles responderam: “Daremos com prazer!”. E, estendendo no chão um manto, lançaram nele as argolas de sua presa.
+
+[[v7-8-26]]
+
+^<<v7-8-26,26>>^ O peso das argolas de ouro que ele tinha pedido era de mil e setecentos siclos de ouro, sem contar os colares, brincos e ornamentos de púrpura que costumavam usar os reis de Madiã, afora ainda os colares que traziam seus camelos no pescoço.
+
+[[v7-8-27]]
+
+^<<v7-8-27,27>>^ Gedeão fez de tudo isso um efod e o expôs em sua cidade de Efra. Mas todos os israelitas se prostituíram ante esse efod que se tornou, assim, um laço para Gedeão e sua casa.
+
+[[v7-8-28]]
+
+^<<v7-8-28,28>>^ Os madianitas foram humilhados diante dos israelitas e não puderam mais levantar a cabeça, de sorte que a terra pôde gozar um repouso de quarenta anos, no tempo de Gedeão.
+
+[[v7-8-29]]
+
+^<<v7-8-29,29>>^ Jerobaal, filho de Joás, retirou-se e foi habitar em sua casa.
+
+[[v7-8-30]]
+
+^<<v7-8-30,30>>^ Teve setenta filhos, saídos todos dele, porque tinha numerosas mulheres.
+
+[[v7-8-31]]
+
+^<<v7-8-31,31>>^ Sua concubina, que estava em Siquém, deu-lhe também um filho, que foi chamado Abimelec.
+
+[[v7-8-32]]
+
+^<<v7-8-32,32>>^ Morreu Gedeão, filho de Joás, numa ditosa velhice e foi sepultado no túmulo de Joás, seu pai, em Efra de Abiezer.
+
+[[v7-8-33]]
+
+^<<v7-8-33,33>>^ Depois de sua morte, os filhos de Israel prostituíram-se de novo com os baals, e tomaram Baal-Berit por seu deus.^&#42;1^
+
+[[v7-8-34]]
+
+^<<v7-8-34,34>>^ Não se lembraram os israelitas do Senhor, seu Deus, que os livrou das mãos de todos os inimigos que os cercavam,
+
+[[v7-8-35]]
+
+^<<v7-8-35,35>>^ nem testemunharam gratidão alguma pela casa de Jerobaal-Gedeão por todos os benefícios que ele tinha feito a Israel.
+
+'''
+
+xref:007-juizes/007-juizes-007.adoc#v7-7-0[&#60; Capítulo Anterior] | <<v7-8-0,Topo>> | xref:007-juizes/007-juizes-009.adoc#v7-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v21-41-0]]
+=== Salmos, 41
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 41 é uma oração de Davi por proteção e cura diante de seus inimigos e dores físicas. Os versículos selecionados a seguir se relacionam com os temas de confiança em Deus, proteção divina e cura.
+* Provérbios 19:23: "O temor do Senhor conduz à vida; aquele que o teme pode descansar tranqüilo, livre de qualquer mal." Este versículo fala da importância de temer a Deus para ter uma vida plena e tranquila, confiando que Ele é capaz de proteger de todo mal.
+* Salmos 27:1: "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é o baluarte da minha vida; de quem terei medo?" Nesse versículo, Davi reconhece que sua proteção vem do Senhor e não há motivo para temer.
+* Salmos 147:3: "Ele cura os de coração quebrantado e cuida das suas feridas." Esse versículo fala da capacidade de Deus em curar as dores emocionais e físicas de Seus filhos.
+* Isaías 41:10: "Não tenha medo, pois estou com você; não se apavore, pois eu sou o seu Deus. Eu o fortalecerei e o ajudarei; eu o segurarei com a minha mão direita vitoriosa." Esse versículo enfatiza a proteção e o cuidado divino para aqueles que confiam Nele.
+* 2 Coríntios 12:9: "Mas ele me disse: ‘Minha graça é suficiente para você, pois o meu poder se aperfeiçoa na fraqueza’. Portanto, eu me gloriarei ainda mais alegremente em minhas fraquezas, para que o poder de Cristo repouse em mim." Esse versículo fala da graça de Deus que é suficiente para nos sustentar em nossas fraquezas e dificuldades, assim como Davi busca a força e a cura de Deus em sua fraqueza física e emocional.
+****
+
+[[v21-41-1]]
+
+^<<v21-41-1,1>>^ Ao mestre de canto. Hino dos filhos de Coré.^&#42;1^
+
+[[v21-41-2]]
+
+^<<v21-41-2,2>>^ Como a corça anseia pelas águas vivas, assim minha alma suspira por vós, ó meu Deus.
+
+[[v21-41-3]]
+
+^<<v21-41-3,3>>^ Minha alma tem sede de Deus, do Deus vivo; quando irei contemplar a face de Deus?
+
+[[v21-41-4]]
+
+^<<v21-41-4,4>>^ Minhas lágrimas se converteram em alimento dia e noite, enquanto me repetem sem cessar: “Teu Deus, onde está?”.
+
+[[v21-41-5]]
+
+^<<v21-41-5,5>>^ Lembro-me, e esta recordação me parte a alma, como ia entre a turba, e os conduzia à casa de Deus, entre gritos de júbilo e louvor de uma multidão em festa.
+
+[[v21-41-6]]
+
+^<<v21-41-6,6>>^ Por que te deprimes, ó minha alma, e te inquietas dentro de mim? Espera em Deus, porque ainda hei de louvá-lo:
+
+[[v21-41-7]]
+
+^<<v21-41-7,7>>^ ele é minha salvação e meu Deus. Desfalece-me a alma dentro de mim; por isso, penso em vós do longínquo país do Jordão, perto do Hermon e do monte Misar.^&#42;1^
+
+[[v21-41-8]]
+
+^<<v21-41-8,8>>^ Uma vaga traz outra no fragor das águas revoltas, todos os vagalhões de vossas torrentes passaram sobre mim.
+
+[[v21-41-9]]
+
+^<<v21-41-9,9>>^ Conceda-me o Senhor de dia a sua graça; e de noite eu cantarei, louvarei ao Deus de minha vida.
+
+[[v21-41-10]]
+
+^<<v21-41-10,10>>^ Digo a Deus: “Ó meu rochedo, por que me esqueceis? Por que ando eu triste, sob a opressão do inimigo?”.
+
+[[v21-41-11]]
+
+^<<v21-41-11,11>>^ Sinto meus ossos se quebrarem quando, em seus insultos, meus adversários me repetem todos os dias: “Teu Deus, onde está ele?’’.
+
+[[v21-41-12]]
+
+^<<v21-41-12,12>>^ Por que te deprimes, ó minha alma, e te inquietas dentro de mim? Espera em Deus, porque ainda hei de louvá-lo: ele é minha salvação e meu Deus.
+
+'''
+
+xref:021-salmos/021-salmos-040.adoc#v21-40-0[&#60; Capítulo Anterior] | <<v21-41-0,Topo>> | xref:021-salmos/021-salmos-042.adoc#v21-42-0[Próximo Capítulo &#62;]

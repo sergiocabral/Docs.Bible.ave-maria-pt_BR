@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v28-1-0]]
+=== Eclesiástico, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiástico 1 apresenta um discurso que destaca a importância da sabedoria e do temor a Deus como fundamentais para uma vida feliz e bem-sucedida. O capítulo também exorta o leitor a evitar o orgulho e a arrogância, e a ter humildade e piedade. Abaixo estão cinco versículos relacionados com esses temas:
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento, mas os tolos desprezam a sabedoria e a disciplina." Esse versículo enfatiza a importância do temor a Deus, que é mencionado várias vezes em Eclesiástico 1, como o começo da sabedoria e do conhecimento.
+* Tiago 1:5: "Se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá livremente, de boa vontade; e lhe será concedida." Esse versículo destaca que a sabedoria vem de Deus e pode ser obtida por meio da oração e da humildade, um tema presente em Eclesiástico 1.
+* 1 Pedro 5:5: "Semelhantemente, vocês que são mais jovens, sujeitem-se aos mais velhos. Todos vocês, revistam-se de humildade uns para com os outros, porque 'Deus se opõe aos orgulhosos, mas concede graça aos humildes'." Este versículo incentiva a humildade e a sujeição aos mais velhos, que também são abordadas em Eclesiástico 1 como características importantes de uma vida sábia.
+* Provérbios 16:18: "O orgulho precede a destruição; a arrogância precede a queda." Esse versículo adverte contra o perigo do orgulho e da arrogância, que são fortemente condenados em Eclesiástico 1, e apresentados como impedimentos à sabedoria e à felicidade.
+* Salmos 34:11: "Venham, meus filhos, ouçam-me; eu lhes ensinarei o temor do Senhor." Este versículo ecoa o tema central de Eclesiástico 1, que é a importância do temor a Deus como o começo da sabedoria. O Salmista aqui incentiva os filhos a aprenderem essa sabedoria.
+****
+
+[[v28-1-1]]
+
+^<<v28-1-1,1>>^ Toda a sabedoria vem do Senhor Deus, ela sempre esteve com ele. Ela existe antes de todos os séculos.
+
+[[v28-1-2]]
+
+^<<v28-1-2,2>>^ Quem pode contar os grãos de areia do mar, as gotas de chuva, os dias do tempo? Quem pode medir a altura do céu, a extensão da terra, a profundidade do abismo?
+
+[[v28-1-3]]
+
+^<<v28-1-3,3>>^ Quem pode penetrar a sabedoria divina, anterior a tudo?
+
+[[v28-1-4]]
+
+^<<v28-1-4,4>>^ A sabedoria foi criada antes de todas as coisas, a inteligência prudente existe antes dos séculos!
+
+[[v28-1-5]]
+
+^<<v28-1-5,5>>^ O Verbo de Deus nos céus é fonte de sabedoria, seus caminhos são os mandamentos eternos.
+
+[[v28-1-6]]
+
+^<<v28-1-6,6>>^ A quem foi revelada a raiz da sabedoria? Quem pode discernir os seus artifícios?
+
+[[v28-1-7]]
+
+^<<v28-1-7,7>>^ A quem foi mostrada e revelada a ciência da sabedoria? Quem pode compreender a multiplicidade de seus caminhos?
+
+[[v28-1-8]]
+
+^<<v28-1-8,8>>^ Somente o Altíssimo, criador onipotente, rei poderoso e infinitamente temível, Deus dominador, sentado no seu trono;
+
+[[v28-1-9]]
+
+^<<v28-1-9,9>>^ foi ele quem a criou no Espírito Santo, quem a viu, numerada e medida;^&#42;1^
+
+[[v28-1-10]]
+
+^<<v28-1-10,10>>^ ele a aspergiu em todas as suas obras, sobre toda a carne, à medida que a repartiu, e deu-a àqueles que a amavam.
+
+[[v28-1-11]]
+
+^<<v28-1-11,11>>^ O temor do Senhor é uma glória, um motivo de glória, uma fonte de alegria, uma coroa de regozijo.
+
+[[v28-1-12]]
+
+^<<v28-1-12,12>>^ O temor do Senhor alegra o coração. Ele nos dá alegria, regozijo e longa vida.
+
+[[v28-1-13]]
+
+^<<v28-1-13,13>>^ Quem teme o Senhor se sentirá bem no instante derradeiro, no dia da morte será abençoado.
+
+[[v28-1-14]]
+
+^<<v28-1-14,14>>^ O amor de Deus é uma sabedoria digna de ser honrada.
+
+[[v28-1-15]]
+
+^<<v28-1-15,15>>^ Aqueles a quem ela se mostra amam-na logo que a veem, logo que reconhecem os prodígios que realiza.
+
+[[v28-1-16]]
+
+^<<v28-1-16,16>>^ O temor do Senhor é o início da sabedoria. Ela foi criada com os homens fiéis no seio de sua mãe, ela caminha com as mulheres de escol, vemo-la na companhia dos justos e dos fiéis.
+
+[[v28-1-17]]
+
+^<<v28-1-17,17>>^ O temor do Senhor é a religião da ciência.^&#42;1^
+
+[[v28-1-18]]
+
+^<<v28-1-18,18>>^ Essa religião guarda e santifica o coração; ela lhe traz satisfação e alegria.
+
+[[v28-1-19]]
+
+^<<v28-1-19,19>>^ Aquele que teme ao Senhor será confortado, no dia da morte será abençoado.
+
+[[v28-1-20]]
+
+^<<v28-1-20,20>>^ O temor do Senhor é a plenitude da sabedoria, a plenitude de seus frutos, para aquele que a possui
+
+[[v28-1-21]]
+
+^<<v28-1-21,21>>^ ela enche toda a sua casa com os bens que produz, e seus celeiros com seus tesouros.
+
+[[v28-1-22]]
+
+^<<v28-1-22,22>>^ O temor do Senhor é a coroa da sabedoria: dá uma plenitude de paz e de frutos de salvação.
+
+[[v28-1-23]]
+
+^<<v28-1-23,23>>^ Ele a viu e numerou-a; ora, um e outra são um dom de Deus.
+
+[[v28-1-24]]
+
+^<<v28-1-24,24>>^ A sabedoria distribui a ciência e a prudente inteligência; eleva à glória aqueles que a possuem.
+
+[[v28-1-25]]
+
+^<<v28-1-25,25>>^ O temor do Senhor é a raiz da sabedoria, seus ramos são de longa duração.
+
+[[v28-1-26]]
+
+^<<v28-1-26,26>>^ A inteligência e a religião da ciência se acham nos tesouros da sabedoria, mas a sabedoria é abominada pelos pecadores.
+
+[[v28-1-27]]
+
+^<<v28-1-27,27>>^ O temor do Senhor expulsa o pecado,
+
+[[v28-1-28]]
+
+^<<v28-1-28,28>>^ pois aquele que não tem esse temor não poderá tornar-se justo. A violência de sua paixão causará sua ruína.
+
+[[v28-1-29]]
+
+^<<v28-1-29,29>>^ O homem paciente esperará até um determinado tempo, após o qual a alegria lhe será restituída.
+
+[[v28-1-30]]
+
+^<<v28-1-30,30>>^ O homem de bom senso guarda suas palavras; muitos falarão, em voz alta, de sua prudência.
+
+[[v28-1-31]]
+
+^<<v28-1-31,31>>^ O sentido da instrução está encerrado nos celeiros da sabedoria.
+
+[[v28-1-32]]
+
+^<<v28-1-32,32>>^ Mas o culto de Deus é abominado pelo pecador.
+
+[[v28-1-33]]
+
+^<<v28-1-33,33>>^ Meu filho, tu que desejas ardentemente a sabedoria, sê justo e Deus te concederá.
+
+[[v28-1-34]]
+
+^<<v28-1-34,34>>^ Pois o temor do Senhor é sabedoria e instrução, e o que lhe é agradável
+
+[[v28-1-35]]
+
+^<<v28-1-35,35>>^ é fidelidade e doçura; ele encherá os celeiros daqueles (que as possuem).
+
+[[v28-1-36]]
+
+^<<v28-1-36,36>>^ Não sejas rebelde ao temor do Senhor, não vás a ele com um coração fingido.
+
+[[v28-1-37]]
+
+^<<v28-1-37,37>>^ Não sejas hipócrita diante dos homens, e que teus lábios não sejam motivo de queda.
+
+[[v28-1-38]]
+
+^<<v28-1-38,38>>^ Vela sobre eles para que não caias, e não atraias sobre tua alma a desonra;
+
+[[v28-1-39]]
+
+^<<v28-1-39,39>>^ e para que Deus, revelando teus segredos, não te destrua no meio da assembleia,
+
+[[v28-1-40]]
+
+^<<v28-1-40,40>>^ por te teres aproximado do Senhor sorrateiramente, com o coração cheio de astúcia e engano.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-019.adoc#v27-19-0[&#60; Capítulo Anterior] | <<v28-1-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-002.adoc#v28-2-0[Próximo Capítulo &#62;]

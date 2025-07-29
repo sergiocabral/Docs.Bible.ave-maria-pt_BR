@@ -1,0 +1,211 @@
+include::./index.adoc[]
+
+[[v21-105-0]]
+=== Salmos, 105
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 105 é um cântico de louvor que recorda as maravilhas realizadas por Deus em favor do seu povo, desde a escolha de Abraão até a conquista da terra prometida. O salmista exorta o povo a sempre lembrar-se dessas maravilhas e a confiar em Deus em todas as circunstâncias da vida. Abaixo estão cinco versículos relacionados com os temas abordados nesse salmo:
+* Gênesis 12:2-3: "De ti farei uma grande nação; abençoar-te-ei e engrandecerei o teu nome; e tu, sê uma bênção. Abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem; em ti serão benditas todas as famílias da terra". Esse versículo mostra o início da história do povo de Deus, com a escolha de Abraão e a promessa de que, por meio dele, todas as nações seriam abençoadas.
+* Êxodo 6:6-7: "Portanto, dize aos filhos de Israel: Eu sou o Senhor. Eu vos tirarei de debaixo das cargas dos egípcios, e vos livrarei da servidão deles; e vos resgatarei com braço estendido e com grandes juízos. E vos tomarei por meu povo, e serei vosso Deus; e sabereis que eu sou o Senhor vosso Deus, que vos tiro de debaixo das cargas dos egípcios". Esse versículo faz referência ao tempo em que Deus libertou o povo de Israel da escravidão no Egito, cumprindo sua promessa de cuidar deles e ser o seu Deus.
+* Deuteronômio 8:3: "Ele te humilhou, e te deixou ter fome, e te sustentou com o maná, que tu não conhecias, nem teus pais o conheciam; para te dar a entender que o homem não viverá só de pão, mas que de tudo o que sai da boca do Senhor viverá o homem". Esse versículo lembra o tempo em que Deus sustentou o povo no deserto com o maná, ensinando-lhes a depender dele para todas as coisas.
+* 1 Crônicas 16:8-9: "Rendei graças ao Senhor, invocai o seu nome, fazei conhecidas entre os povos as suas obras. Cantai-lhe, cantai-lhe louvores, falai de todas as suas maravilhas". Esse versículo incentiva o povo a louvar a Deus e a contar suas maravilhas para os outros, assim como o Salmo 105 faz.
+* Isaías 43:2: "Quando passares pelas águas, estarei contigo, e quando pelos rios, eles não te submergirão; quando passares pelo fogo, não te queimarás, nem a chama arderá em ti". Esse versículo fala da fidelidade de Deus em proteger o seu povo em todas as situações, assim como ele fez ao conduzir Israel através do deserto e na conquista da terra prometida.
+****
+
+[[v21-105-1]]
+
+^<<v21-105-1,1>>^ Aleluia. Louvai o Senhor porque ele é bom, porque a sua misericórdia é eterna.^&#42;1^
+
+[[v21-105-2]]
+
+^<<v21-105-2,2>>^ Quem contará os poderosos feitos do Senhor? Quem poderá apregoar os seus louvores?
+
+[[v21-105-3]]
+
+^<<v21-105-3,3>>^ Felizes aqueles que observam os preceitos, aqueles que, em todo o tempo, fazem o que é reto.
+
+[[v21-105-4]]
+
+^<<v21-105-4,4>>^ Lembrai-vos de mim, Senhor, pela benevolência que tendes com o vosso povo. Assisti-me com o vosso socorro,
+
+[[v21-105-5]]
+
+^<<v21-105-5,5>>^ para que eu prove a felicidade de vossos eleitos, compartilhe do júbilo de vosso povo e me glorie com os que constituem vossa herança.
+
+[[v21-105-6]]
+
+^<<v21-105-6,6>>^ Como nossos pais, nós também pecamos, cometemos a iniquidade, praticamos o mal.
+
+[[v21-105-7]]
+
+^<<v21-105-7,7>>^ Nossos pais, no Egito, não prezaram os vossos milagres, esqueceram a multidão de vossos benefícios e se revoltaram contra o Altíssimo no mar Vermelho.
+
+[[v21-105-8]]
+
+^<<v21-105-8,8>>^ Mas ele os poupou para a honra de seu nome, para tornar patente o seu poder.
+
+[[v21-105-9]]
+
+^<<v21-105-9,9>>^ Ameaçou o mar e ele se tornou seco, e os conduziu por entre as ondas como através de um deserto.
+
+[[v21-105-10]]
+
+^<<v21-105-10,10>>^ Livrou-os das mãos daquele que os odiava, e os salvou do poder inimigo.
+
+[[v21-105-11]]
+
+^<<v21-105-11,11>>^ As águas recobriram seus adversários, nenhum deles escapou.
+
+[[v21-105-12]]
+
+^<<v21-105-12,12>>^ Então acreditaram em sua palavra, e cantaram os seus louvores.
+
+[[v21-105-13]]
+
+^<<v21-105-13,13>>^ Depressa, porém, esqueceram suas obras, e não confiaram em seus desígnios.
+
+[[v21-105-14]]
+
+^<<v21-105-14,14>>^ Entregaram-se à concupiscência no deserto, e tentaram a Deus na solidão.
+
+[[v21-105-15]]
+
+^<<v21-105-15,15>>^ Ele lhes concedeu o que pediam, mas os feriu de um mal mortal.
+
+[[v21-105-16]]
+
+^<<v21-105-16,16>>^ Em seus acampamentos invejaram Moisés e Aarão, o eleito do Senhor.
+
+[[v21-105-17]]
+
+^<<v21-105-17,17>>^ Abriu-se a terra e tragou Datã, e sepultou os sequazes de Abiram.^&#42;1^
+
+[[v21-105-18]]
+
+^<<v21-105-18,18>>^ Um fogo devassou as suas tropas e as chamas consumiram os ímpios.
+
+[[v21-105-19]]
+
+^<<v21-105-19,19>>^ Fabricaram um bezerro de ouro no sopé do Horeb, e adoraram um ídolo de ouro fundido.
+
+[[v21-105-20]]
+
+^<<v21-105-20,20>>^ Eles trocaram a sua glória pela estátua de um touro que come feno.^&#42;1^
+
+[[v21-105-21]]
+
+^<<v21-105-21,21>>^ Esqueceram a Deus que os salvara, que obrara prodígios no Egito,
+
+[[v21-105-22]]
+
+^<<v21-105-22,22>>^ maravilhas na terra de Cam, estupendos feitos no mar Vermelho.
+
+[[v21-105-23]]
+
+^<<v21-105-23,23>>^ Já cogitava em exterminá-los se Moisés, seu eleito, não intercedesse junto dele para impedir que sua cólera os destruísse.
+
+[[v21-105-24]]
+
+^<<v21-105-24,24>>^ Depois, eles desprezaram uma terra de delícias, desconfiados de sua palavra.^&#42;1^
+
+[[v21-105-25]]
+
+^<<v21-105-25,25>>^ Em suas tendas se puseram a murmurar, e desobedeceram ao Senhor.
+
+[[v21-105-26]]
+
+^<<v21-105-26,26>>^ Então, com a mão alçada, ele jurou que havia de prostrá-los no deserto
+
+[[v21-105-27]]
+
+^<<v21-105-27,27>>^ e dispersar sua descendência entre as nações pagãs, disseminando-os por toda a terra.
+
+[[v21-105-28]]
+
+^<<v21-105-28,28>>^ Aderiram também ao Baal de Fegor, comeram vítimas oferecidas a deuses sem vida.^&#42;1^
+
+[[v21-105-29]]
+
+^<<v21-105-29,29>>^ E, provocando-o com seus crimes, uma peste irrompeu entre eles.
+
+[[v21-105-30]]
+
+^<<v21-105-30,30>>^ Mas levantou-se Fineias para fazer justiça: cessou a peste.
+
+[[v21-105-31]]
+
+^<<v21-105-31,31>>^ Seu zelo lhe foi imputado como mérito, de geração em geração, para sempre.
+
+[[v21-105-32]]
+
+^<<v21-105-32,32>>^ Em seguida, irritaram a Deus nas águas de Meriba, e adveio o mal a Moisés por causa deles.^&#42;1^
+
+[[v21-105-33]]
+
+^<<v21-105-33,33>>^ Porque o provocaram tanto, palavras temerárias saíram-lhe dos lábios.
+
+[[v21-105-34]]
+
+^<<v21-105-34,34>>^ Não exterminaram os povos, como o Senhor lhes havia ordenado,
+
+[[v21-105-35]]
+
+^<<v21-105-35,35>>^ mas se misturaram com as nações pagãs e aprenderam seus costumes.
+
+[[v21-105-36]]
+
+^<<v21-105-36,36>>^ Prestaram culto aos seus ídolos, que se tornaram um laço para eles.
+
+[[v21-105-37]]
+
+^<<v21-105-37,37>>^ Imolaram os seus filhos e suas filhas aos demônios.
+
+[[v21-105-38]]
+
+^<<v21-105-38,38>>^ Derramaram o sangue inocente: o sangue de seus filhos e de suas filhas, que aos ídolos de Canaã sacrificaram; seu país ficou manchado com esse sangue.
+
+[[v21-105-39]]
+
+^<<v21-105-39,39>>^ Eles se contaminaram com homicídios, e se prostituíram com seus crimes.
+
+[[v21-105-40]]
+
+^<<v21-105-40,40>>^ Então se inflamou contra seu povo a cólera divina, e Deus teve aversão de sua herança.
+
+[[v21-105-41]]
+
+^<<v21-105-41,41>>^ Ele os entregou nas mãos das nações pagãs, e foram dominados pelos que os odiavam.
+
+[[v21-105-42]]
+
+^<<v21-105-42,42>>^ Oprimiram-nos os seus inimigos; foram submetidos ao seu jugo.
+
+[[v21-105-43]]
+
+^<<v21-105-43,43>>^ Muitas vezes ele os libertou, mas sua conduta o exasperou de tal modo que foram abatidos por causa de suas iniquidades.
+
+[[v21-105-44]]
+
+^<<v21-105-44,44>>^ Entretanto, vendo a sua aflição, ouviu-lhes as orações.
+
+[[v21-105-45]]
+
+^<<v21-105-45,45>>^ Em favor deles lembrou-se de sua aliança, e por sua misericórdia deles se apiedou.
+
+[[v21-105-46]]
+
+^<<v21-105-46,46>>^ E fez com que encontrassem a clemência junto aos que os tinham aprisionado.
+
+[[v21-105-47]]
+
+^<<v21-105-47,47>>^ Salvai-nos, Senhor, nosso Deus, e recolhei-nos de entre as nações, para que possamos celebrar o vosso santo nome e ter a satisfação de vos louvar.
+
+[[v21-105-48]]
+
+^<<v21-105-48,48>>^ Bendito seja o Senhor, Deus de Israel, pelos séculos dos séculos! E que todo o povo diga: “Amém!”.^&#42;1^
+
+'''
+
+xref:021-salmos/021-salmos-104.adoc#v21-104-0[&#60; Capítulo Anterior] | <<v21-105-0,Topo>> | xref:021-salmos/021-salmos-106.adoc#v21-106-0[Próximo Capítulo &#62;]

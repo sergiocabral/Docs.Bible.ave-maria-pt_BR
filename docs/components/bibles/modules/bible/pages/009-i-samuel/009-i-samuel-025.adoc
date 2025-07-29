@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v9-25-0]]
+=== I Samuel, 25
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Samuel 25 narra a história de Abigail, esposa de Nabal, um homem rude e tolo que se recusa a ajudar Davi e seus homens em um momento de necessidade. Abigail, por sua vez, toma a iniciativa de fornecer alimento e suprimentos para Davi, evitando assim uma guerra entre seu marido e o futuro rei. Os versículos a seguir estão relacionados com temas abordados neste capítulo:
+* Provérbios 15:1: "A resposta branda desvia o furor, mas a palavra dura suscita a ira." Abigail é um exemplo de como uma resposta gentil pode evitar conflitos e promover a paz.
+* Provérbios 21:9: "É melhor morar num canto de telhado do que ter como companheira em casa ampla uma mulher briguenta." Nabal é um exemplo de um homem rude e briguento, que acaba se colocando em uma situação perigosa por causa de seu comportamento.
+* Provérbios 25:21-22: "Se o teu inimigo tiver fome, dá-lhe pão para comer; e se tiver sede, dá-lhe água para beber; porque assim amontoarás brasas vivas sobre a sua cabeça, e o Senhor te recompensará." Abigail demonstra generosidade e compaixão ao fornecer alimento e suprimentos para Davi e seus homens, mesmo sabendo que seu marido era um homem rude e tolo.
+* Eclesiastes 7:9: "Não te apresses em teu espírito a irar-te, porque a ira repousa no íntimo dos tolos." Davi mostra sabedoria ao recusar-se a retaliar contra Nabal e seus homens, apesar de ter sido insultado e desrespeitado.
+* Romanos 12:19: "Não vos vingueis a vós mesmos, amados, mas dai lugar à ira de Deus, porque está escrito: Minha é a vingança; eu recompensarei, diz o Senhor." Davi confia em Deus para lidar com aqueles que o ofendem, em vez de buscar vingança por conta própria.
+****
+
+[[v9-25-1]]
+
+^<<v9-25-1,1>>^ Samuel morreu. Todo o Israel se juntou para chorá-lo. Sepultaram-no na sua propriedade em Ramá. E Davi retirou-se para o deserto de Farã.
+
+[[v9-25-2]]
+
+^<<v9-25-2,2>>^ Havia um homem em Maon, cujas propriedades estavam em Carmelo. Era um homem muito rico e possuía três mil ovelhas e mil cabras. Ele encontrava-se então em Carmelo para a tosquia de suas ovelhas.
+
+[[v9-25-3]]
+
+^<<v9-25-3,3>>^ Chamava-se Nabal e sua esposa Abigail, mulher de grande inteligência e formosura. Ele, porém, era grosseiro e mau; descendia de Caleb.
+
+[[v9-25-4]]
+
+^<<v9-25-4,4>>^ Davi, no deserto, sabendo que Nabal tosquiava o seu rebanho,
+
+[[v9-25-5]]
+
+^<<v9-25-5,5>>^ mandou-lhe dez homens com esta ordem: “Subi a Carmelo e dirigi-vos a Nabal,
+
+[[v9-25-6]]
+
+^<<v9-25-6,6>>^ saudando-o em meu nome e dizendo-lhe: Pela vida! A paz seja contigo! Paz à tua casa e paz a todos os teus bens!
+
+[[v9-25-7]]
+
+^<<v9-25-7,7>>^ Soube que há tosquia em tua casa. Ora, os teus pastores estiveram perto de nós e nunca lhes fizemos mal algum. Nada lhes faltou durante todo o tempo que ficaram em Carmelo.
+
+[[v9-25-8]]
+
+^<<v9-25-8,8>>^ Pergunta-o aos teus servos e eles o confirmarão. Que os meus encontrem agora graça aos teus olhos, porque chegamos em um dia de festa. Rogo-te que dês aos teus servos e ao teu filho Davi o que tiveres à mão”.
+
+[[v9-25-9]]
+
+^<<v9-25-9,9>>^ Os homens de Davi foram e repetiram a Nabal todas essas palavras em nome de Davi e ficaram esperando.
+
+[[v9-25-10]]
+
+^<<v9-25-10,10>>^ Nabal, porém, respondeu-lhes: “Quem é Davi? E quem é o filho de Jessé? Há hoje muitos escravos que fogem da casa de seus senhores!
+
+[[v9-25-11]]
+
+^<<v9-25-11,11>>^ Irei eu tomar meu pão, minha água e a carne que preparei para os meus tosquiadores e dá-los a homens que vêm não se sabe de onde?”.
+
+[[v9-25-12]]
+
+^<<v9-25-12,12>>^ Os servos de Davi retomaram o caminho e voltaram. Ao chegarem, contaram tudo ao seu senhor.
+
+[[v9-25-13]]
+
+^<<v9-25-13,13>>^ Então disse Davi aos seus homens: “Cinja cada um a sua espada!”. Todos o fizeram, inclusive Davi. Cerca de quatrocentos homens seguiram Davi, ficando duzentos com as bagagens.
+
+[[v9-25-14]]
+
+^<<v9-25-14,14>>^ Mas Abigail, mulher de Nabal, fora informada por um dos servos de seu marido: “Davi mandou, do deserto, mensageiros para saudar o nosso amo, mas ele os recebeu mal.
+
+[[v9-25-15]]
+
+^<<v9-25-15,15>>^ No entanto, esses homens nos trataram sempre muito bem e jamais nos fizeram mal algum, nem nos causaram prejuízo durante todo o tempo que estivemos com eles no campo.
+
+[[v9-25-16]]
+
+^<<v9-25-16,16>>^ Pelo contrário, serviram-nos de defesa, dia e noite, durante todo o tempo em que estivemos com eles apascentando os rebanhos.
+
+[[v9-25-17]]
+
+^<<v9-25-17,17>>^ Vê, pois, o que tens a fazer, porque nosso amo e toda a sua casa está ameaçada de ruína e ele é um malvado com quem não se pode falar”.
+
+[[v9-25-18]]
+
+^<<v9-25-18,18>>^ Apressou-se então Abigail e tomou duzentos pães, dois odres de vinho, cinco cordeiros preparados, cinco medidas de grão torrado, cem tortas de uvas secas, duzentas de figos secos, e os carregou nos jumentos.
+
+[[v9-25-19]]
+
+^<<v9-25-19,19>>^ E disse aos seus servos: “Ide adiante de mim; eu vos seguirei”. Mas não disse nada a Nabal, seu marido.
+
+[[v9-25-20]]
+
+^<<v9-25-20,20>>^ Quando descia por um caminho secreto da montanha, montada num jumento, encontrou Davi com os seus homens que vinham em sentido inverso.
+
+[[v9-25-21]]
+
+^<<v9-25-21,21>>^ Ora, Davi dizia: “Em vão, pois, guardei tudo o que esse homem possuía no deserto, sem que lhe fosse tirada coisa alguma! E ele paga-me o bem com o mal.
+
+[[v9-25-22]]
+
+^<<v9-25-22,22>>^ Deus trate com todo o seu rigor os inimigos de Davi! E que ele não me poupe, se de hoje até amanhã eu deixar vivo um só homem de tudo o que pertence a Nabal!”.
+
+[[v9-25-23]]
+
+^<<v9-25-23,23>>^ Quando Abigail avistou Davi, desceu prontamente do jumento e prostrou-se com o rosto por terra diante dele.
+
+[[v9-25-24]]
+
+^<<v9-25-24,24>>^ Assim prostrada aos seus pés, disse-lhe: “Sobre mim, meu senhor, caia a culpa! Deixa falar a tua serva e ouve minhas palavras.
+
+[[v9-25-25]]
+
+^<<v9-25-25,25>>^ Que o meu senhor não faça caso desse malvado Nabal, pois ele é bem o que o seu nome indica: Nabal, louco; e ele o é. Mas eu, tua escrava, não vi os homens que o meu senhor mandou.
+
+[[v9-25-26]]
+
+^<<v9-25-26,26>>^ Agora, por Deus e por tua vida, foi o Senhor quem te impediu de derramar sangue e de te vingar por tua mão. Sejam como Nabal os teus inimigos e os que procuram fazer mal ao meu senhor.
+
+[[v9-25-27]]
+
+^<<v9-25-27,27>>^ Aceita, pois, este presente que tua serva trouxe ao meu senhor e reparte-o entre os homens que te seguem.
+
+[[v9-25-28]]
+
+^<<v9-25-28,28>>^ Rogo-te que perdoes a culpa de tua serva. Certamente o Senhor dará à casa de meu senhor uma existência durável, porque o meu senhor combate nas guerras de Deus e nenhum mal te atingirá em todos os dias de tua vida.
+
+[[v9-25-29]]
+
+^<<v9-25-29,29>>^ Se alguém te perseguir ou conspirar contra a tua vida, a alma de meu senhor será guardada no escrínio dos vivos junto do Senhor, teu Deus, enquanto a vida de teus inimigos será lançada pelo Senhor ao longe, como a pedra de uma funda.^&#42;1^
+
+[[v9-25-30]]
+
+^<<v9-25-30,30>>^ Quando o Senhor tiver feito ao meu senhor todo o bem que lhe prometeu e te tiver estabelecido chefe sobre Israel,
+
+[[v9-25-31]]
+
+^<<v9-25-31,31>>^ não terás no coração este pesar, nem este remorso de ter derramado sangue sem motivo e de se ter vingado por si mesmo! Quando o Senhor te tiver feito bem, ó meu Senhor, lembra-te de tua serva”.
+
+[[v9-25-32]]
+
+^<<v9-25-32,32>>^ Davi respondeu a Abigail: “Bendito seja o Senhor, Deus de Israel, que te mandou hoje ao meu encontro!
+
+[[v9-25-33]]
+
+^<<v9-25-33,33>>^ Bendita seja a tua prudência! E bendita sejas tu mesma, que me impediste hoje de derramar sangue e vingar-me pela minha mão!
+
+[[v9-25-34]]
+
+^<<v9-25-34,34>>^ Mas, pelo Senhor, Deus de Israel, que me impediu de te fazer mal, se não tivesses vindo tão depressa ao meu encontro, nada teria ficado de Nabal até amanhã cedo, nem mesmo o último homem!”.
+
+[[v9-25-35]]
+
+^<<v9-25-35,35>>^ Davi aceitou o que lhe trazia Abigail e ajuntou: “Volta em paz para a tua casa. Vê que te ouvi e te fiz boa acolhida”.
+
+[[v9-25-36]]
+
+^<<v9-25-36,36>>^ Quando Abigail chegou à casa de Nabal, havia lá um grande banquete, um verdadeiro festim de rei. Nabal tinha o coração alegre e estava completamente ébrio. Por isso nada lhe disse, nem pouco nem muito, até o amanhecer.
+
+[[v9-25-37]]
+
+^<<v9-25-37,37>>^ Mas pela manhã, tendo Nabal acordado de sua bebedeira, sua mulher contou-lhe tudo. Seu coração gelou-se no peito e ele tornou-se como uma pedra.
+
+[[v9-25-38]]
+
+^<<v9-25-38,38>>^ Dez dias depois Nabal, ferido pelo Senhor, morreu.
+
+[[v9-25-39]]
+
+^<<v9-25-39,39>>^ Tendo Davi notícia da morte de Nabal, exclamou: “Bendito seja o Senhor que me fez justiça do ultraje recebido de sua mão e impediu-me de fazer-lhe mal! O Senhor fez cair sobre sua cabeça a sua própria maldade!”. Depois disso, Davi mandou propor a Abigail tornar-se sua mulher.
+
+[[v9-25-40]]
+
+^<<v9-25-40,40>>^ Seus servos, chegando a Carmelo, disseram-lhe: “Davi mandou-nos a ti, porque deseja tomar-te por mulher”.
+
+[[v9-25-41]]
+
+^<<v9-25-41,41>>^ Levantou-se então Abigail e prostrou-se com o rosto por terra, dizendo: “Eis a tua serva, que será uma escrava para lavar os pés dos servos de meu Senhor”.
+
+[[v9-25-42]]
+
+^<<v9-25-42,42>>^ Levantou-se depressa, montou num jumento e, seguida de cinco moças, partiu com os enviados de Davi para tornar-se sua mulher.
+
+[[v9-25-43]]
+
+^<<v9-25-43,43>>^ Davi desposara também Aquinoam, de Jezrael e ambas foram suas mulheres.
+
+[[v9-25-44]]
+
+^<<v9-25-44,44>>^ Quanto à sua mulher Micol, filha de Saul, este a tinha dado por esposa a Falti, de Galim, filho de Lais.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-024.adoc#v9-24-0[&#60; Capítulo Anterior] | <<v9-25-0,Topo>> | xref:009-i-samuel/009-i-samuel-026.adoc#v9-26-0[Próximo Capítulo &#62;]

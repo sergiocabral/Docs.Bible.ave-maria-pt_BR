@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v34-7-0]]
+=== Daniel, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 7 do livro de Daniel é um dos mais enigmáticos da Bíblia e descreve uma visão que o profeta teve sobre quatro animais que representam quatro reinos diferentes que se sucedem na história do mundo. Em seguida, Daniel vê um trono e o Ancião de Dias, que julga os reinos da terra e dá o domínio eterno ao Filho do Homem. Abaixo estão cinco versículos relacionados aos temas abordados nesse capítulo:
+* Daniel 2:44: "E, nos dias desses reis, o Deus dos céus estabelecerá um reino que jamais será destruído, nem será deixado a outro povo; esmiuçará e consumirá todos esses reinos, mas ele mesmo subsistirá para sempre." Este versículo fala da profecia do reino eterno de Deus, que é estabelecido no final dos tempos e substitui todos os reinos terrenos. É uma mensagem semelhante àquela que Daniel recebe na visão do capítulo 7.
+* Mateus 24:36: "Quanto ao dia e à hora ninguém sabe, nem os anjos dos céus, nem o Filho, mas unicamente o Pai." Este versículo fala da incerteza em relação ao tempo da volta de Cristo e do fim dos tempos. É uma mensagem que se relaciona com a ideia de que o julgamento final e a inauguração do reino eterno de Deus são eventos que acontecerão em um momento inesperado.
+* Apocalipse 20:12: "Vi os mortos, grandes e pequenos, em pé diante do trono, e os livros foram abertos. Outro livro foi aberto, o livro da vida. Os mortos foram julgados de acordo com o que tinham feito, conforme o que estava registrado nos livros." Este versículo fala do julgamento final, que é uma das imagens presentes na visão do capítulo 7 de Daniel. É um momento em que todas as pessoas são julgadas por suas ações e o destino eterno é decidido.
+* 1 Coríntios 15:52: "Num momento, num abrir e fechar de olhos, ao som da última trombeta. Pois a trombeta soará, os mortos ressuscitarão incorruptíveis, e nós seremos transformados." Este versículo fala da transformação que acontecerá nos crentes no momento da volta de Cristo. É uma mensagem semelhante àquela que Daniel recebe na visão, quando vê o Filho do Homem recebendo o domínio eterno e reinando sobre todos os povos.
+* Mateus 25:31-32: "Quando o Filho do Homem vier em sua glória, e todos os anjos com ele, assentar-se-á em seu trono na glória celestial. Todas as nações serão reunidas diante dele, e ele separará umas das outras como o pastor separa as ovelhas dos bodes." Este versículo fala da volta de Cristo e do julgamento final, que são temas centrais na visão de Daniel. É um momento em que as nações são reunidas e julgadas de acordo com suas ações, e o destino eterno é decidido.
+****
+
+[[v34-7-1]]
+
+^<<v34-7-1,1>>^ No primeiro ano do reinado de Baltazar, rei da Babilônia, Daniel, estando em seu leito, teve um sonho e visões surgiram em seu espírito. Consignou por escrito esse sonho e a substância dos fatos.
+
+[[v34-7-2]]
+
+^<<v34-7-2,2>>^ Assim se manifestou: Via, no transcurso de minha visão noturna, os quatro ventos do céu precipitarem-se sobre o Grande Mar.^&#42;1^
+
+[[v34-7-3]]
+
+^<<v34-7-3,3>>^ Surgiram das águas quatro grandes animais, diferentes uns dos outros.^&#42;1^
+
+[[v34-7-4]]
+
+^<<v34-7-4,4>>^ O primeiro parecia-se com um leão, mas tinha asas de águia. Enquanto o olhava, suas asas foram-lhe arrancadas, foi levantado da terra e erguido sobre seus pés como um homem, e um coração humano lhe foi dado.^&#42;1^
+
+[[v34-7-5]]
+
+^<<v34-7-5,5>>^ Apareceu em seguida outro animal semelhante a um urso; erguia-se sobre um lado e tinha à boca, entre seus dentes, três costelas. Diziam-lhe: “Vamos! Devora bastante carne!”.^&#42;1^
+
+[[v34-7-6]]
+
+^<<v34-7-6,6>>^ Depois disso, vi um terceiro animal, idêntico a uma pantera, que tinha nas costas quatro asas de pássaro; tinha ele também quatro cabeças. O império lhe foi atribuído.^&#42;1^
+
+[[v34-7-7]]
+
+^<<v34-7-7,7>>^ Finalmente, como eu contemplasse essas visões noturnas, vi um quarto animal, medonho, pavoroso e de uma força excepcional. Possuía enormes dentes de ferro; devorava, depois triturava e pisava aos pés o que sobrava. Ao contrário dos animais precedentes, ostentava dez chifres.
+
+[[v34-7-8]]
+
+^<<v34-7-8,8>>^ Como estivesse ocupado em observar esses chifres, eis que surgiu, entre eles outro chifre menor, e três dos primeiros foram arrancados para dar-lhe lugar. Este chifre tinha olhos idênticos aos olhos humanos e uma boca que proferia palavras arrogantes.^&#42;1^
+
+[[v34-7-9]]
+
+^<<v34-7-9,9>>^ Continuei a olhar, até o momento em que foram colocados os tronos e um ancião chegou e se sentou. Brancas como a neve eram suas vestes, e tal como a pura lã era sua cabeleira; seu trono era feito de chamas, com rodas de fogo ardente.^&#42;1^
+
+[[v34-7-10]]
+
+^<<v34-7-10,10>>^ Saído de diante dele, corria um rio de fogo. Milhares e milhares o serviam, dezenas de milhares o assistiam! O tribunal deu audiência e os livros foram abertos.^&#42;1^
+
+[[v34-7-11]]
+
+^<<v34-7-11,11>>^ Olhei então, devido à balbúrdia causada pelos discursos arrogantes do chifre, olhei até o momento em que o animal foi morto, seu corpo subjugado e a fera jogada ao fogo.
+
+[[v34-7-12]]
+
+^<<v34-7-12,12>>^ Quanto aos outros animais, o domínio lhes foi igualmente retirado, mas a duração de sua vida foi fixada até um tempo e uma data.
+
+[[v34-7-13]]
+
+^<<v34-7-13,13>>^ Olhando sempre a visão noturna, vi um ser, semelhante ao filho do homem, vir sobre as nuvens do céu: dirigiu-se para o lado do ancião, diante de quem foi conduzido.^&#42;1^
+
+[[v34-7-14]]
+
+^<<v34-7-14,14>>^ A ele foram dados império, glória e realeza, e todos os povos, todas as nações e os povos de todas as línguas serviram-no. Seu domínio será eterno; nunca cessará e o seu reino jamais será destruído.
+
+[[v34-7-15]]
+
+^<<v34-7-15,15>>^ Quanto a mim, Daniel, senti minha alma desfalecer dentro de mim, e fiquei perturbado por essas visões de meu espírito.
+
+[[v34-7-16]]
+
+^<<v34-7-16,16>>^ Aproximando-me de um dos assistentes, perguntei-lhe sobre a realidade de tudo isso. Respondeu-me dando a explicação seguinte:^&#42;1^
+
+[[v34-7-17]]
+
+^<<v34-7-17,17>>^ “Esses grandes animais” – disse –, “em número de quatro, são quatro reis que se levantarão da terra.
+
+[[v34-7-18]]
+
+^<<v34-7-18,18>>^ Mas os santos do Altíssimo receberão a realeza e a conservarão por toda a eternidade”.
+
+[[v34-7-19]]
+
+^<<v34-7-19,19>>^ Quis então saber exatamente o que representava o quarto animal, diferente dos demais, pavoroso em extremo, cujos dentes eram de ferro e as garras de bronze, que devorava, depois triturava e calcava aos pés o que sobrava.
+
+[[v34-7-20]]
+
+^<<v34-7-20,20>>^ Quis ser informado sobre os dez chifres que tinha na cabeça, bem como a respeito desse outro chifre que havia surgido e diante do qual três chifres haviam caído, esse chifre que tinha olhos e uma boca que proferia palavras arrogantes, e parecia maior do que os outros.
+
+[[v34-7-21]]
+
+^<<v34-7-21,21>>^ Tinha visto esse chifre fazer guerra aos santos e levar-lhes vantagem, até o momento em que veio o ancião,
+
+[[v34-7-22]]
+
+^<<v34-7-22,22>>^ quando foi feita justiça aos santos do Altíssimo e quando lhes chegou a hora de obterem a realeza.
+
+[[v34-7-23]]
+
+^<<v34-7-23,23>>^ Ele me respondeu: “O quarto animal é um quarto reino terrestre, diferente de todos os demais, que devorará, calcará e aniquilará o mundo.
+
+[[v34-7-24]]
+
+^<<v34-7-24,24>>^ Os dez chifres indicam dez reis levantando-se nesse reino. Mas depois deles surgirá outro, diferente, que destronará três.^&#42;1^
+
+[[v34-7-25]]
+
+^<<v34-7-25,25>>^ Proferirá insultos contra o Altíssimo, e formará o projeto de mudar os tempos e a Lei; e os santos serão entregues ao seu poder durante um tempo, tempos e metade de um tempo.^&#42;1^
+
+[[v34-7-26]]
+
+^<<v34-7-26,26>>^ Mas o julgamento se realizará e lhe será arrancado seu domínio, para destruí-lo e suprimi-lo definitivamente.
+
+[[v34-7-27]]
+
+^<<v34-7-27,27>>^ A realeza, o império e a suserania de todos os reinos situados sob os céus serão devolvidos ao povo dos santos do Altíssimo, cujo reino é eterno e a quem todas as soberanias renderão seu tributo de obediência”.
+
+[[v34-7-28]]
+
+^<<v34-7-28,28>>^ Aqui terminou o discurso a mim dirigido. Quanto a mim, Daniel, meus pensamentos transtornaram-me a ponto de me mudar de cor. Mas conservei tudo isso em meu coração.
+
+'''
+
+xref:034-daniel/034-daniel-006.adoc#v34-6-0[&#60; Capítulo Anterior] | <<v34-7-0,Topo>> | xref:034-daniel/034-daniel-008.adoc#v34-8-0[Próximo Capítulo &#62;]

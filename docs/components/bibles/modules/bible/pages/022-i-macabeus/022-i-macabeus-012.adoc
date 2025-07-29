@@ -1,0 +1,235 @@
+include::./index.adoc[]
+
+[[v22-12-0]]
+=== I Macabeus, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Macabeus 12 relata a continuação da aliança entre o rei Demétrio e Jônatas, o líder judeu. O capítulo descreve o envio de embaixadores para confirmar a aliança, bem como a realização de uma expedição conjunta para combater um inimigo comum. Os versículos selecionados a seguir abordam temas como alianças, traição e vitória em batalha:
+* Provérbios 27:17: "Assim como o ferro afia o ferro, o homem afia o seu amigo." A aliança entre Jônatas e Demétrio é baseada em uma amizade mútua e em interesses em comum. O versículo mostra a importância de amizades que nos ajudam a crescer e nos fortalecem.
+* Salmos 146:3: "Não confieis em príncipes, nem nos filhos dos homens, em quem não há salvação." A aliança entre Jônatas e Demétrio foi importante para os judeus, mas não devemos colocar nossa confiança em líderes humanos, mas sim em Deus.
+* Provérbios 11:14: "Não havendo sábia direção, cai um povo; mas na multidão de conselhos há segurança." Os embaixadores enviados por Jônatas e Demétrio discutiram e planejaram cuidadosamente a aliança e a expedição conjunta, mostrando a importância de buscar conselhos sábios antes de tomar decisões importantes.
+* 2 Timóteo 2:3-4: "Sofre, pois, comigo, as aflições, como bom soldado de Jesus Cristo. Ninguém que milita se embaraça com negócios desta vida, a fim de agradar àquele que o alistou para a guerra." Jônatas e seus homens eram soldados em uma batalha espiritual, e seu objetivo era agradar a Deus, não agradar a si mesmos ou a outros.
+* Deuteronômio 20:4: "Porque o Senhor vosso Deus é quem vai convosco, para pelejar por vós contra os vossos inimigos, para vos salvar." A vitória em batalha de Jônatas e seus homens não foi conquistada por suas habilidades ou força, mas porque Deus lutava por eles e os salvava. O versículo mostra a importância de confiar em Deus em todas as situações, incluindo a guerra.
+****
+
+[[v22-12-1]]
+
+^<<v22-12-1,1>>^ Jônatas aproveitou-se das circunstâncias favoráveis e escolheu alguns homens, que enviou a confirmar e renovar a amizade com os romanos.
+
+[[v22-12-2]]
+
+^<<v22-12-2,2>>^ Com esse mesmo objetivo enviou cartas também aos espartanos e a outros países.
+
+[[v22-12-3]]
+
+^<<v22-12-3,3>>^ Os embaixadores chegaram a Roma e dirigiram-se ao senado, onde disseram: “O sumo sacerdote Jônatas e o povo judeu enviaram-nos a vós, para a renovação da amizade e da aliança com eles como outrora”.
+
+[[v22-12-4]]
+
+^<<v22-12-4,4>>^ E deram-lhes, para as autoridades locais, um salvo-conduto, recomendando que os deixassem voltar sãos e salvos à Judeia.
+
+[[v22-12-5]]
+
+^<<v22-12-5,5>>^ Eis a cópia da carta que Jônatas escreveu aos espartanos:
+
+[[v22-12-6]]
+
+^<<v22-12-6,6>>^ “O sumo sacerdote Jônatas, o conselho da nação, os sacerdotes e todo o povo judeu, a seus irmãos espartanos, saudações!
+
+[[v22-12-7]]
+
+^<<v22-12-7,7>>^ Outrora, o sumo sacerdote Onias recebeu de Ario, vosso rei, uma mensagem em que se dizia que éreis nossos irmãos, como o comprova a cópia anexa.
+
+[[v22-12-8]]
+
+^<<v22-12-8,8>>^ Onias acolheu o enviado com honras e aceitou a carta, na qual havia referências à aliança e à amizade.
+
+[[v22-12-9]]
+
+^<<v22-12-9,9>>^ Por nosso lado, embora não tenhamos necessidade dessas vantagens, tendo para nossa consolação os livros santos, que estão em nossas mãos,
+
+[[v22-12-10]]
+
+^<<v22-12-10,10>>^ resolvemos renovar os laços de fraternidade e de amizade convosco, com receio de que nos tornássemos estranhos a vós, porque já decorreu muito tempo após vossa passagem junto a nós.
+
+[[v22-12-11]]
+
+^<<v22-12-11,11>>^ Sem cessar, em toda ocasião, nas grandes festas e em outros dias solenes, nós nos lembramos de vós, nos sacrifícios que oferecemos e nas nossas preces, como é justo e conveniente pensar nos irmãos.
+
+[[v22-12-12]]
+
+^<<v22-12-12,12>>^ Alegramo-nos com o que ouvimos dizer de vós.
+
+[[v22-12-13]]
+
+^<<v22-12-13,13>>^ Quanto a nós, vivemos entre tribulações e guerras incontáveis. Todos os reis que nos cercam nos têm combatido.
+
+[[v22-12-14]]
+
+^<<v22-12-14,14>>^ Em todas essas guerras não quisemos, todavia, ser pesados, nem a vós, nem aos outros aliados e amigos,
+
+[[v22-12-15]]
+
+^<<v22-12-15,15>>^ porque temos por auxílio o socorro do céu. Com isso, pudemos escapar dos nossos inimigos, os quais foram humilhados.
+
+[[v22-12-16]]
+
+^<<v22-12-16,16>>^ Escolhemos, pois, a Numênio, filho de Antíoco, e Antípatro, filho de Jasão, e nós os enviamos a renovar, com os romanos, a amizade e a aliança de outrora.
+
+[[v22-12-17]]
+
+^<<v22-12-17,17>>^ Do mesmo modo, encarregamo-los de ir-vos saudar e de entregar-vos, de nossa parte, esta carta, que tem como objetivo reavivar nossa fraternidade.
+
+[[v22-12-18]]
+
+^<<v22-12-18,18>>^ Teríamos muito prazer em receber uma resposta vossa sobre esse assunto.”
+
+[[v22-12-19]]
+
+^<<v22-12-19,19>>^ Eis a cópia da carta enviada outrora:
+
+[[v22-12-20]]
+
+^<<v22-12-20,20>>^ “Ario, rei dos espartanos, ao sumo sacerdote Onias, saudações!
+
+[[v22-12-21]]
+
+^<<v22-12-21,21>>^ Achou-se, num documento sobre os espartanos e os judeus, que estes povos são irmãos e descendem de Abraão.
+
+[[v22-12-22]]
+
+^<<v22-12-22,22>>^ Agora que chegamos ao conhecimento disso, faríeis bem em nos escrever sobre a vossa situação.
+
+[[v22-12-23]]
+
+^<<v22-12-23,23>>^ De nossa parte vos escrevemos: vossos rebanhos e vossos bens são nossos e os nossos são vossos. Enviamo-vos esta mensagem para que sejais informados disso”.
+
+[[v22-12-24]]
+
+^<<v22-12-24,24>>^ Soube Jônatas que os generais de Demétrio tinham voltado com tropas muito mais numerosas que anteriormente, para guerreá-lo.
+
+[[v22-12-25]]
+
+^<<v22-12-25,25>>^ Partiu, pois, de Jerusalém e marchou ao seu encontro no país de Emat, sem lhes deixar tempo para invadir seu próprio país.
+
+[[v22-12-26]]
+
+^<<v22-12-26,26>>^ Mandou espiões ao acampamento dos inimigos. Eles regressaram e lhe contaram que os inimigos se preparavam para lançar-se sobre eles durante a noite.
+
+[[v22-12-27]]
+
+^<<v22-12-27,27>>^ Ao pôr do sol, ordenou Jônatas a seus homens que velassem e empunhassem as armas, prontos para o combate, durante toda a noite, enquanto ele postava sentinelas ao redor de todo o acampamento.
+
+[[v22-12-28]]
+
+^<<v22-12-28,28>>^ Ouvindo falar que Jônatas e seus soldados estavam prontos para o combate, os inimigos ficaram tomados de sobressalto e pavor, e retiraram-se, acendendo fogueiras em seu acampamento.
+
+[[v22-12-29]]
+
+^<<v22-12-29,29>>^ Jônatas e seus companheiros viram queimar os fogos e não perceberam nada até de manhã.
+
+[[v22-12-30]]
+
+^<<v22-12-30,30>>^ Puseram-se então a persegui-los, mas não os apanharam, porque eles haviam atravessado o rio Elêutero.
+
+[[v22-12-31]]
+
+^<<v22-12-31,31>>^ Voltou-se então Jônatas contra os árabes, chamados zabadeus e os derrotou, tomando seus despojos.
+
+[[v22-12-32]]
+
+^<<v22-12-32,32>>^ Em seguida, reuniu seu exército, alcançou Damasco e percorreu toda a região.
+
+[[v22-12-33]]
+
+^<<v22-12-33,33>>^ Por seu lado, Simão investiu até Ascalon e as fortalezas vizinhas. De lá dirigiu-se a Jope e apoderou-se da cidade,
+
+[[v22-12-34]]
+
+^<<v22-12-34,34>>^ porque ouvira falar que os habitantes tinham a intenção de entregar a fortaleza às tropas de Demétrio. Ele colocou, pois, ali, uma guarnição para defendê-la.
+
+[[v22-12-35]]
+
+^<<v22-12-35,35>>^ De volta a Jerusalém, Jônatas convocou os anciãos do povo e tomou com eles a decisão de edificar fortalezas na Judeia,
+
+[[v22-12-36]]
+
+^<<v22-12-36,36>>^ de erguer muralhas em Jerusalém e de construir um muro elevado entre a fortaleza e a cidade, para separá-la desta, isolá-la completamente e impedir que ali se vendesse ou comprasse alguma coisa.
+
+[[v22-12-37]]
+
+^<<v22-12-37,37>>^ Formaram-se grupos para reconstruir a cidade, os quais ergueram de novo o muro da torrente do lado leste, e restauraram a parte cognominada Cafenata.
+
+[[v22-12-38]]
+
+^<<v22-12-38,38>>^ Simão edificou Adida, em Sefela, e a muniu de portas e ferrolhos.
+
+[[v22-12-39]]
+
+^<<v22-12-39,39>>^ No entanto, Trifão planejava reinar sobre a Ásia, tomar o diadema, depois de matar o rei Antíoco.
+
+[[v22-12-40]]
+
+^<<v22-12-40,40>>^ Mas receava que Jônatas não o permitisse e combatesse seus esforços. Por isso, procurou apoderar-se dele e eliminá-lo. Partiu, pois, para Betsã.
+
+[[v22-12-41]]
+
+^<<v22-12-41,41>>^ Jônatas saiu ao seu encontro e atacou Betsã com um exército de quarenta mil homens de escol.
+
+[[v22-12-42]]
+
+^<<v22-12-42,42>>^ Vendo que ele se aproximava com um numeroso exército, Trifão receou lançar-lhe a mão.
+
+[[v22-12-43]]
+
+^<<v22-12-43,43>>^ Recebeu-o com honras, apresentou-o a todos os seus amigos, ofereceu-lhe presentes e ordenou às suas tropas que lhe obedecessem como a ele próprio.
+
+[[v22-12-44]]
+
+^<<v22-12-44,44>>^ Depois disse a Jônatas: “Por que motivo fatigaste todo este povo, uma vez que não estamos em guerra?
+
+[[v22-12-45]]
+
+^<<v22-12-45,45>>^ Envia-os de volta às suas casas e escolhe alguns para ficarem contigo. Após isso, te acompanharei a Ptolemaida e te entregarei a cidade e as outras fortalezas, o restante das tropas e todos os funcionários. Depois eu partirei, porque foi para isso que vim”.
+
+[[v22-12-46]]
+
+^<<v22-12-46,46>>^ Jônatas confiou, fez o que ele dizia e reenviou as tropas, que regressaram à terra de Judá.
+
+[[v22-12-47]]
+
+^<<v22-12-47,47>>^ Reteve todavia três mil homens, dos quais enviou dois mil à Galileia e conservou consigo mil.
+
+[[v22-12-48]]
+
+^<<v22-12-48,48>>^ Mal havia Jônatas entrado em Ptolemaida, os habitantes da cidade fecharam as portas, prenderam-no e passaram a fio de espada todos os que estavam com ele.
+
+[[v22-12-49]]
+
+^<<v22-12-49,49>>^ Por sua vez, Trifão enviou à Galileia e à grande planície um exército e cavalaria, para esmagar os que Jônatas para lá enviara.
+
+[[v22-12-50]]
+
+^<<v22-12-50,50>>^ Mas estes, ouvindo dizer que Jônatas fora preso e morto com todos os seus companheiros, encorajaram-se mutuamente e marcharam em boa ordem, prontos para o combate.
+
+[[v22-12-51]]
+
+^<<v22-12-51,51>>^ Seus perseguidores viram que eles queriam defender sua vida, e regressaram,
+
+[[v22-12-52]]
+
+^<<v22-12-52,52>>^ enquanto os judeus entravam de novo, sãos e salvos, na terra de Judá. Choraram Jônatas e os seus e foram tomados de grande inquietude, e todo o povo caiu na desolação.
+
+[[v22-12-53]]
+
+^<<v22-12-53,53>>^ Todos os povos circunvizinhos procuraram oprimi-los, dizendo entre si:
+
+[[v22-12-54]]
+
+^<<v22-12-54,54>>^ “Eles não têm ninguém para comandá-los nem para socorrê-los. Agora é o momento de atacá-los e destruir sua lembrança dentre os homens”.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-011.adoc#v22-11-0[&#60; Capítulo Anterior] | <<v22-12-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-013.adoc#v22-13-0[Próximo Capítulo &#62;]

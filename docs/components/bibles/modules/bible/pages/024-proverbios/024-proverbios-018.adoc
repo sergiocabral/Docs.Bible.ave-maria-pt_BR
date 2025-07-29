@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v24-18-0]]
+=== Provérbios, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Provérbios 18 é um capítulo que aborda diversos temas, como a sabedoria, a língua, a prudência, a justiça e a soberania de Deus. Para fornecer cinco versículos relacionados com esses temas, podemos selecionar os seguintes:
+* Tiago 1:19: "Sabeis isto, meus amados irmãos: todo homem seja pronto para ouvir, tardio para falar e tardio para se irar." Esse verso aborda a importância de ouvir com atenção antes de falar, um tema presente em Provérbios 18 sobre o uso sábio da língua.
+* Salmos 127:1: "Se o Senhor não edificar a casa, em vão trabalham os que a edificam; se o Senhor não guardar a cidade, em vão vigia a sentinela." Esse verso fala sobre a soberania de Deus, um tema recorrente em Provérbios 18.
+* Provérbios 15:33: "O temor do Senhor é a instrução da sabedoria, e a humildade precede a honra." Esse verso reforça a importância da sabedoria e da humildade, que também são temas presentes em Provérbios 18.
+* Provérbios 17:27: "O que tem conhecimento guarda as suas palavras, e o homem de entendimento é de espírito sereno." Esse verso aborda a importância de falar com prudência e sabedoria, um tema recorrente em Provérbios 18.
+* Isaías 56:1: "Assim diz o Senhor: Observai o direito, e praticai a justiça; porque a minha salvação está prestes a vir, e a minha justiça, a manifestar-se." Esse verso fala sobre a importância da justiça, um tema tratado em Provérbios 18 sobre a busca pela verdade e a justiça divina.
+****
+
+[[v24-18-1]]
+
+^<<v24-18-1,1>>^ Quem se isola procura sua própria vontade e se irrita contra tudo o que é razoável.
+
+[[v24-18-2]]
+
+^<<v24-18-2,2>>^ O insensato não tem propensão para a inteligência, mas para a expansão dos próprios sentimentos.
+
+[[v24-18-3]]
+
+^<<v24-18-3,3>>^ O desprezo ombreia com a iniquidade; o opróbrio com a vergonha.
+
+[[v24-18-4]]
+
+^<<v24-18-4,4>>^ As palavras da boca de um homem são águas profundas; a fonte da sabedoria é uma torrente transbordante.
+
+[[v24-18-5]]
+
+^<<v24-18-5,5>>^ Não fica bem favorecer um perverso para prejudicar o direito do justo.
+
+[[v24-18-6]]
+
+^<<v24-18-6,6>>^ Os lábios do insensato promovem contendas: sua boca atrai açoites.
+
+[[v24-18-7]]
+
+^<<v24-18-7,7>>^ A boca do tolo é a sua ruína; seus lábios são uma armadilha para a sua própria vida.
+
+[[v24-18-8]]
+
+^<<v24-18-8,8>>^ As palavras do delator são como gulodices: penetram até as entranhas.
+
+[[v24-18-9]]
+
+^<<v24-18-9,9>>^ O frouxo no trabalho é um irmão do dissipador.
+
+[[v24-18-10]]
+
+^<<v24-18-10,10>>^ O nome do Senhor é uma torre: para lá corre o justo, a fim de procurar segurança.
+
+[[v24-18-11]]
+
+^<<v24-18-11,11>>^ A fortuna do rico é sua cidade forte: em seu pensar, ela é como uma muralha elevada.
+
+[[v24-18-12]]
+
+^<<v24-18-12,12>>^ Antes da ruína, o coração do homem se eleva, mas a humildade precede a glória.
+
+[[v24-18-13]]
+
+^<<v24-18-13,13>>^ Quem responde antes de ouvir, passa por tolo e se cobre de confusão.
+
+[[v24-18-14]]
+
+^<<v24-18-14,14>>^ O espírito do homem suporta a doença, mas quem erguerá um espírito abatido?
+
+[[v24-18-15]]
+
+^<<v24-18-15,15>>^ O coração inteligente adquire o saber; o ouvido dos sábios procura a ciência.
+
+[[v24-18-16]]
+
+^<<v24-18-16,16>>^ O presente de um homem lhe abre tudo, e lhe dá acesso junto aos grandes.
+
+[[v24-18-17]]
+
+^<<v24-18-17,17>>^ Quem advoga sua causa, por primeiro, parece ter razão; sobrevém a parte adversa, que examina a fundo.
+
+[[v24-18-18]]
+
+^<<v24-18-18,18>>^ A sorte apazigua as contendas e decide entre os poderosos.
+
+[[v24-18-19]]
+
+^<<v24-18-19,19>>^ Um irmão ofendido é pior que uma cidade forte; as questões entre irmãos são como os ferrolhos de uma cidadela.^&#42;1^
+
+[[v24-18-20]]
+
+^<<v24-18-20,20>>^ É do fruto de sua boca que um homem se nutre; com o produto de seus lábios ele se farta.
+
+[[v24-18-21]]
+
+^<<v24-18-21,21>>^ Morte e vida estão à mercê da língua: os que a amam comerão dos seus frutos.
+
+[[v24-18-22]]
+
+^<<v24-18-22,22>>^ Aquele que acha uma mulher, acha a felicidade: é um dom recebido do Senhor.
+
+[[v24-18-23]]
+
+^<<v24-18-23,23>>^ O pobre fala suplicando; a resposta do rico é ríspida.
+
+[[v24-18-24]]
+
+^<<v24-18-24,24>>^ O homem cercado de muitos amigos tem neles sua desgraça, mas existe um amigo mais unido que um irmão.
+
+'''
+
+xref:024-proverbios/024-proverbios-017.adoc#v24-17-0[&#60; Capítulo Anterior] | <<v24-18-0,Topo>> | xref:024-proverbios/024-proverbios-019.adoc#v24-19-0[Próximo Capítulo &#62;]

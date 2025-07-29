@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v21-18-0]]
+=== Salmos, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 18 é uma poesia atribuída ao rei Davi, que expressa sua gratidão a Deus por ter o livrado de seus inimigos e da morte. Os temas principais abordados no capítulo são a proteção divina, o livramento da morte e dos inimigos, a justiça de Deus e a importância de se buscar a Deus em meio às dificuldades.
+* Isaías 25:1: "Ó Senhor, tu és o meu Deus; exaltar-te-ei e louvarei o teu nome, porque fizeste coisas maravilhosas; os teus conselhos antigos são verdade e firmeza." O versículo exalta a Deus pela sua sabedoria e fidelidade em cumprir suas promessas, que incluem a proteção e o livramento do seu povo.
+* Salmos 34:17: "Os justos clamam, e o Senhor os ouve, e os livra de todas as suas angústias." Este versículo destaca a proteção e o livramento que Deus oferece aos seus servos justos, que confiam nele e o buscam em meio às dificuldades.
+* Salmos 37:39-40: "Mas a salvação dos justos vem do Senhor; ele é a sua fortaleza no tempo da angústia. O Senhor os ajuda e os livra; ele os livra dos ímpios e os salva, porque nele se refugiam." O salmista enfatiza que a proteção e o livramento vêm somente de Deus, que é a fortaleza e o refúgio dos justos em meio às aflições.
+* Salmos 91:14-16: "Porque ele me amou, eu o livrarei; pô-lo-ei num alto retiro, porque conheceu o meu nome. Ele me invocará, e eu lhe responderei; estarei com ele na angústia; dela o retirarei, e o glorificarei. Fartá-lo-ei com longura de dias, e lhe mostrarei a minha salvação." Este versículo destaca a proteção divina para aqueles que amam e buscam a Deus, garantindo livramento e bênçãos em meio às dificuldades.
+* Salmos 118:5-7: "Do meio da angústia invoquei o Senhor; o Senhor me ouviu e me pôs em um lugar largo. O Senhor é por mim; não temerei o que me possa fazer o homem. O Senhor é por mim entre os que me ajudam; pelo que verei cumprido o meu desejo sobre os que me odeiam." Este versículo ressalta a importância de buscar a Deus em meio à angústia, confiando na sua proteção e livramento, mesmo diante da oposição dos inimigos.
+****
+
+[[v21-18-1]]
+
+^<<v21-18-1,1>>^ Ao mestre de canto. Salmo de Davi.^&#42;1^
+
+[[v21-18-2]]
+
+^<<v21-18-2,2>>^ Narram os céus a glória de Deus, e o firmamento anuncia a obra de suas mãos.
+
+[[v21-18-3]]
+
+^<<v21-18-3,3>>^ O dia ao outro transmite essa mensagem, e uma noite à outra a repete.
+
+[[v21-18-4]]
+
+^<<v21-18-4,4>>^ Não é uma língua nem são palavras, cujo sentido não se perceba,
+
+[[v21-18-5]]
+
+^<<v21-18-5,5>>^ porque por toda a terra se espalha o seu ruído, e até os confins do mundo a sua voz; aí armou Deus para o sol uma tenda.^&#42;1^
+
+[[v21-18-6]]
+
+^<<v21-18-6,6>>^ E este, qual esposo que sai do seu tálamo, exulta, como um gigante, a percorrer seu caminho.
+
+[[v21-18-7]]
+
+^<<v21-18-7,7>>^ Sai de um extremo do céu, e no outro termina o seu curso; nada se furta ao seu calor.
+
+[[v21-18-8]]
+
+^<<v21-18-8,8>>^ A Lei do Senhor é perfeita, reconforta a alma; a ordem do Senhor é segura, instrui o simples.
+
+[[v21-18-9]]
+
+^<<v21-18-9,9>>^ Os preceitos do Senhor são retos, deleitam o coração; o mandamento do Senhor é luminoso, esclarece os olhos.
+
+[[v21-18-10]]
+
+^<<v21-18-10,10>>^ O temor do Senhor é puro, subsiste eternamente; os juízos do Senhor são verdadeiros, todos igualmente justos.
+
+[[v21-18-11]]
+
+^<<v21-18-11,11>>^ Mais desejáveis que o ouro, que uma barra de ouro fino; mais doces que o mel, que o puro mel dos favos.
+
+[[v21-18-12]]
+
+^<<v21-18-12,12>>^ Ainda que vosso servo neles atente, guardando-os com todo o cuidado;
+
+[[v21-18-13]]
+
+^<<v21-18-13,13>>^ quem pode, entretanto, ver as próprias faltas? Purificai-me das que me são ocultas.
+
+[[v21-18-14]]
+
+^<<v21-18-14,14>>^ Preservai, também, vosso servo do orgulho; não domine ele sobre mim, então serei íntegro e limpo de falta grave.
+
+[[v21-18-15]]
+
+^<<v21-18-15,15>>^ Aceitai as palavras de meus lábios e os pensamentos de meu coração, na vossa presença, Senhor, minha rocha e meu redentor.
+
+'''
+
+xref:021-salmos/021-salmos-017.adoc#v21-17-0[&#60; Capítulo Anterior] | <<v21-18-0,Topo>> | xref:021-salmos/021-salmos-019.adoc#v21-19-0[Próximo Capítulo &#62;]

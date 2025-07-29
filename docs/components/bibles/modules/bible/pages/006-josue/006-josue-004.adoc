@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v6-4-0]]
+=== Josué, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 4 de Josué relata o momento em que o povo de Israel atravessou o rio Jordão a pé enxuto, enquanto as águas foram represadas pelo poder de Deus. Para que a memória desse evento fosse preservada, Josué ordenou que doze homens, um de cada tribo, apanhassem uma pedra do meio do rio e a colocassem como memorial em Gilgal. Segue abaixo cinco versículos relacionados com temas abordados em Josué 4, excluindo versículos do próprio capítulo:
+* Salmos 78:13: "Fez partir o mar, e os fez passar pelo meio dele; e fez com que as águas parassem como em um montão." Esse versículo remete ao momento em que Deus fez o mar Vermelho se abrir para que os filhos de Israel passassem a pé enxuto. Assim como no caso do rio Jordão, esse evento foi um ato de poder divino para livrar o povo do cativeiro egípcio.
+* Salmos 111:4: "Fez as suas maravilhas para serem lembradas; piedoso e misericordioso é o SENHOR." Esse versículo destaca a importância de se lembrar das maravilhas que Deus realiza, como a abertura do mar Vermelho e a represamento do rio Jordão, para que a fé e a confiança no Senhor sejam fortalecidas.
+* Isaías 43:16: "Assim diz o SENHOR, que preparou um caminho no mar, e uma vereda nas águas impetuosas;" Esse versículo faz referência à abertura do mar Vermelho, mas também pode ser aplicado à travessia do rio Jordão, mostrando que Deus tem poder para abrir caminhos em situações impossíveis.
+* 1 Coríntios 10:1-2: "Ora, irmãos, não quero que ignoreis que nossos pais estiveram todos debaixo da nuvem, e todos passaram pelo mar. E todos foram batizados em Moisés, na nuvem e no mar." Esse trecho do Novo Testamento relembra o episódio da travessia do mar Vermelho, mas também se aplica à travessia do rio Jordão, enfatizando que esses eventos foram importantes para a identidade e a fé do povo de Deus.
+* Hebreus 11:29: "Pela fé, passaram o Mar Vermelho, como por terra seca; o que intentando os egípcios, se afogaram." Esse versículo faz parte do capítulo da fé em Hebreus, que destaca exemplos de homens e mulheres que viveram pela fé. A referência à passagem pelo mar Vermelho mostra que a fé foi o que permitiu que os filhos de Israel atravessassem as águas, e não a força humana.
+****
+
+[[v6-4-1]]
+
+^<<v6-4-1,1>>^ Tendo todo o povo atravessado o Jordão, o Senhor disse a Josué:
+
+[[v6-4-2]]
+
+^<<v6-4-2,2>>^ “Escolhei doze homens dentre o povo, um por tribo, e ordenai-lhes:
+
+[[v6-4-3]]
+
+^<<v6-4-3,3>>^ Tomai daqui, do meio do Jordão, deste lugar onde os pés dos sacerdotes estiveram parados, doze pedras que levareis convosco e as colocareis no lugar onde haveis de passar a noite”.
+
+[[v6-4-4]]
+
+^<<v6-4-4,4>>^ Josué convocou os doze homens escolhidos, um por tribo, entre os filhos de Israel.
+
+[[v6-4-5]]
+
+^<<v6-4-5,5>>^ E disse-lhes: “Ide adiante da arca do Senhor, vosso Deus, no meio do Jordão, e cada um de vós, segundo o número das tribos de Israel, carregue uma pedra no seu ombro.
+
+[[v6-4-6]]
+
+^<<v6-4-6,6>>^ Isso ficará como um memorial entre vós. Quando vossos filhos vos perguntarem um dia: ‘Que significam essas pedras?’.
+
+[[v6-4-7]]
+
+^<<v6-4-7,7>>^ Então lhes respondereis: ‘As águas do Jordão foram cortadas diante da arca da aliança do Senhor; quando ela atravessou o Jordão, as águas foram cortadas, e essas pedras são para os israelitas um monumento eterno em memória desse acontecimento’.”
+
+[[v6-4-8]]
+
+^<<v6-4-8,8>>^ Os filhos de Israel fizeram como Josué lhes tinha ordenado: tomaram do meio do leito do Jordão doze pedras, como o Senhor tinha dito a Josué, segundo o número das tribos de Israel. Levaram-nas consigo e depositaram-nas no lugar onde deviam acampar.
+
+[[v6-4-9]]
+
+^<<v6-4-9,9>>^ Pôs também Josué outras doze pedras no leito do Jordão, no lugar onde estiveram parados os pés dos sacerdotes que levavam a arca da aliança. E elas estão ali ainda hoje.
+
+[[v6-4-10]]
+
+^<<v6-4-10,10>>^ Os sacerdotes que levavam a arca permaneceram de pé no meio do leito do Jordão até que se cumpriu tudo o que o Senhor tinha ordenado que Josué dissesse ao povo, segundo as ordens que lhe dera Moisés. O povo apressou-se em atravessar o rio.
+
+[[v6-4-11]]
+
+^<<v6-4-11,11>>^ Logo que todos passaram, a arca do Senhor e os sacerdotes puseram-se de novo à frente do povo.
+
+[[v6-4-12]]
+
+^<<v6-4-12,12>>^ Os rubenitas, os gaditas e a meia tribo de Manassés tinham passado o rio armados, diante dos israelitas, segundo a ordem de Moisés.
+
+[[v6-4-13]]
+
+^<<v6-4-13,13>>^ Em número de aproximadamente quarenta mil homens, armados para o combate, desfilaram diante do Senhor, rumo à planície de Jericó.
+
+[[v6-4-14]]
+
+^<<v6-4-14,14>>^ Naquele dia, o Senhor exaltou Josué aos olhos de todo o Israel. E todos tiveram para com ele o mesmo respeito que por Moisés, durante toda a sua vida.
+
+[[v6-4-15]]
+
+^<<v6-4-15,15>>^ O Senhor disse a Josué:
+
+[[v6-4-16]]
+
+^<<v6-4-16,16>>^ “Ordena aos sacerdotes, que levam a arca do testemunho, que saiam do Jordão”.
+
+[[v6-4-17]]
+
+^<<v6-4-17,17>>^ Josué ordenou-lhes: “Saí do Jordão”.
+
+[[v6-4-18]]
+
+^<<v6-4-18,18>>^ E os sacerdotes, que levavam a arca da aliança do Senhor, tendo deixado o leito do rio, ao pisarem seus pés a terra firme, as águas do Jordão retomaram seu lugar e correram caudalosas como antes.
+
+[[v6-4-19]]
+
+^<<v6-4-19,19>>^ Ora, o povo saiu do Jordão no décimo dia do primeiro mês, e acampou em Gálgala, na extremidade oriental de Jericó.
+
+[[v6-4-20]]
+
+^<<v6-4-20,20>>^ Josué levantou ali as doze pedras tomadas do Jordão.
+
+[[v6-4-21]]
+
+^<<v6-4-21,21>>^ E disse aos filhos de Israel: “Quando vossos filhos perguntarem um dia a seus pais: ‘Que significam essas pedras?’.
+
+[[v6-4-22]]
+
+^<<v6-4-22,22>>^ Então lhes direi nestes termos: Israel atravessou o Jordão a pé enxuto,
+
+[[v6-4-23]]
+
+^<<v6-4-23,23>>^ porque o Senhor, vosso Deus, secou diante de vós o leito do Jordão, até que passásseis, do mesmo modo que antes tinha feito ao mar Vermelho, o qual secou diante de nós até que passássemos.
+
+[[v6-4-24]]
+
+^<<v6-4-24,24>>^ Isso aconteceu, para que todos os povos da terra saibam que a mão do Senhor é poderosa, e para que conserveis sempre o temor do Senhor, vosso Deus.”
+
+'''
+
+xref:006-josue/006-josue-003.adoc#v6-3-0[&#60; Capítulo Anterior] | <<v6-4-0,Topo>> | xref:006-josue/006-josue-005.adoc#v6-5-0[Próximo Capítulo &#62;]

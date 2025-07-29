@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v13-18-0]]
+=== I Crônicas, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 18 de 1 Crônicas relata as conquistas militares de Davi, que estabeleceu um grande império e expandiu as fronteiras de Israel. Davi derrotou os filisteus, os moabitas, os edomitas e outros povos, e estendeu o domínio de Israel até o rio Eufrates. Abaixo estão cinco versículos relacionados com temas abordados neste capítulo:
+* Salmos 18:39: "Porque cingiste de força a meu braço e fizeste abater debaixo de mim aqueles que contra mim se levantaram." Este salmo é um hino de Davi em que ele agradece a Deus por sua ajuda e proteção nas batalhas, o que se relaciona com as conquistas militares de Davi descritas em 1 Crônicas 18.
+* Salmos 144:1: "Bendito seja o Senhor, minha rocha, que adestra as minhas mãos para a peleja e os meus dedos para a guerra." Este salmo é uma oração de Davi em que ele pede a Deus por ajuda nas batalhas, o que se relaciona com as conquistas militares de Davi descritas em 1 Crônicas 18.
+* Salmos 60:12: "Com Deus faremos proezas, pois ele mesmo calcará aos pés os nossos adversários." Este salmo é um hino de Davi em que ele confia em Deus para a vitória nas batalhas, o que se relaciona com as conquistas militares de Davi descritas em 1 Crônicas 18.
+* Salmos 18:34: "Faz os meus pés como os das corças e me coloca em segurança nos meus lugares altos." Este versículo fala da habilidade de Deus em ajudar Davi a superar obstáculos e conquistar territórios elevados, o que se relaciona com as conquistas militares de Davi descritas em 1 Crônicas 18.
+* Salmos 44:6: "Pois eu não confio no meu arco, nem a minha espada me pode salvar." Este salmo fala da importância de confiar em Deus em vez de em armas e habilidades humanas, o que se relaciona com a confiança de Davi em Deus para a vitória nas batalhas descritas em 1 Crônicas 18.
+****
+
+[[v13-18-1]]
+
+^<<v13-18-1,1>>^ Depois disso, Davi derrotou os filisteus e os submeteu. Arrebatou de suas mãos Gat e suas cidades anexas.^&#42;1^
+
+[[v13-18-2]]
+
+^<<v13-18-2,2>>^ Em seguida, derrotou os moabitas que se tornaram seus vassalos e lhe pagaram tributo.
+
+[[v13-18-3]]
+
+^<<v13-18-3,3>>^ Davi venceu, em seguida, Adadezer, rei de Soba, em Emat, quando estava a caminho para estabelecer seu domínio sobre as margens do Eufrates.
+
+[[v13-18-4]]
+
+^<<v13-18-4,4>>^ Davi tomou-lhe mil carros, sete mil cavaleiros e vinte mil soldados de infantaria. Cortou os jarretes de todos os cavalos de tiro e deles conservou somente cem.
+
+[[v13-18-5]]
+
+^<<v13-18-5,5>>^ Os sírios de Damasco vieram em socorro de Adadezer, rei de Soba; Davi matou vinte e dois mil deles.
+
+[[v13-18-6]]
+
+^<<v13-18-6,6>>^ A seguir, estabeleceu guarnições na Síria de Damasco; os sírios tornaram-se seus vassalos e lhe pagaram tributo. Assim, o Senhor lhe dava vitórias em todas as campanhas.
+
+[[v13-18-7]]
+
+^<<v13-18-7,7>>^ Davi apoderou-se dos escudos de ouro com os quais se cobriam os servos de Adadezer e os transportou para Jerusalém.
+
+[[v13-18-8]]
+
+^<<v13-18-8,8>>^ Em Tebat e em Cun, cidades de Adadezer, tomou ainda Davi grande quantidade de bronze, as colunas e os utensílios de bronze.
+
+[[v13-18-9]]
+
+^<<v13-18-9,9>>^ Quando Toú, rei de Emat, soube que Davi tinha desfeito todo o exército de Adadezer, rei de Soba,
+
+[[v13-18-10]]
+
+^<<v13-18-10,10>>^ enviou-lhe Adoram, seu filho, para saudá-lo e felicitá-lo por ter atacado Adadezer e por tê-lo vencido; porque Toú estava em contínua guerra com Adadezer. Enviou-lhe também toda a espécie de vasos de ouro, de prata e de bronze.
+
+[[v13-18-11]]
+
+^<<v13-18-11,11>>^ O rei Davi consagrou-os ao Senhor com o ouro e a prata que tinha tomado de todas as nações pagãs, em Edom, em Moab, dos amonitas, dos filisteus e de Amalec.
+
+[[v13-18-12]]
+
+^<<v13-18-12,12>>^ Abisaí, filho de Sárvia, derrotou os idumeus no vale do Sal: eram dezoito mil.
+
+[[v13-18-13]]
+
+^<<v13-18-13,13>>^ Colocou guarnições em Edom e todo Edom ficou sujeito a Davi. O Senhor dava a vitória a Davi aonde quer que fosse.
+
+[[v13-18-14]]
+
+^<<v13-18-14,14>>^ Davi reinou sobre todo o Israel, julgando e fazendo justiça a todo o seu povo.
+
+[[v13-18-15]]
+
+^<<v13-18-15,15>>^ Joab, filho de Sárvia, comandava o exército; Josafá, filho de Ailud, era arquivista;
+
+[[v13-18-16]]
+
+^<<v13-18-16,16>>^ Sadoc, filho de Aquitob, e Abimelec, filho de Abiatar, eram sacerdotes; Susa era secretário;
+
+[[v13-18-17]]
+
+^<<v13-18-17,17>>^ Banaías, filho de Joiada, era chefe dos cereteus e dos feleteus. Os filhos de Davi eram os primeiros ao lado do rei.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-017.adoc#v13-17-0[&#60; Capítulo Anterior] | <<v13-18-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-019.adoc#v13-19-0[Próximo Capítulo &#62;]

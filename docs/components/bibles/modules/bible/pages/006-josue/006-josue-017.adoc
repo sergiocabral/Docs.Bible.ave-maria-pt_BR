@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v6-17-0]]
+=== Josué, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 17 de Josué descreve a herança dada a Manassés, uma das tribos de Israel, e como eles lutaram para tomar posse dela. Alguns temas que surgem nesse capítulo incluem a importância da fé, a necessidade de perseverança, a generosidade de Deus, a responsabilidade da liderança e a importância de usar sabedoria e estratégia na guerra. Aqui estão cinco versículos relacionados com esses temas:
+* Hebreus 11:1: "Ora, a fé é a certeza daquilo que esperamos e a prova das coisas que não vemos." Este versículo fala sobre a importância da fé e como ela é necessária para obter as promessas de Deus, um tema que é visto na história de Manassés em Josué 17.
+* 1 Coríntios 16:13: "Vigiem, estejam firmes na fé, sejam corajosos, sejam fortes." Este versículo enfatiza a importância da perseverança e coragem na fé, um tema que é visto na luta de Manassés pela sua herança em Josué 17.
+* 2 Coríntios 9:8: "E Deus é poderoso para fazer que lhes seja acrescentada toda a graça, para que em todas as coisas, em todo o tempo, tendo tudo o que é necessário, vocês transbordem em toda boa obra." Este versículo fala sobre a generosidade de Deus e como ele é capaz de nos suprir em todas as coisas, um tema que é visto na distribuição da herança de Manassés em Josué 17.
+* Números 27:18-20: "O Senhor disse a Moisés: 'Leve Josué, filho de Num, homem em quem está o Espírito, e imponha as mãos sobre ele. Faça-o apresentar-se perante Eleazar, o sacerdote, e diante de toda a comunidade, e dê-lhe as suas ordens na presença de todos. Delegue autoridade a ele, para que toda a comunidade dos israelitas lhe obedeça'." Este versículo fala sobre a responsabilidade da liderança e como Deus escolhe aqueles que têm o Espírito para liderar seu povo, um tema que é visto no governo de Manassés em Josué 17.
+* Provérbios 21:31: "Prepara-se o cavalo para o dia da batalha, mas a vitória vem do Senhor." Este versículo enfatiza a importância de usar sabedoria e estratégia na guerra, mas também reconhecer que a vitória vem do Senhor, um tema que é visto na história de Manassés em Josué 17.
+****
+
+[[v6-17-1]]
+
+^<<v6-17-1,1>>^ Tirou-se a sorte também para a tribo de Manassés, porque era o primogênito de José. Maquir, primogênito de Manassés e pai de Galaad, que foi um homem guerreiro, tinha recebido Galaad e Basã.
+
+[[v6-17-2]]
+
+^<<v6-17-2,2>>^ Houve também uma parte para os outros filhos de Manassés, segundo suas famílias: para os filhos de Abiezer, os filhos de Sequem, os de Héfer e os de Semida. Esses são os filhos varões de Manassés, filho de José, segundo suas famílias.
+
+[[v6-17-3]]
+
+^<<v6-17-3,3>>^ Salafaad, filho de Héfer, filho de Galaad, filho de Maquir, filho de Manassés, não teve filhos, mas somente filhas, cujos nomes são: Maala, Noa, Hegla, Melca e Tersa.
+
+[[v6-17-4]]
+
+^<<v6-17-4,4>>^ Elas foram ter com o sacerdote Eleazar, com Josué, filho de Nun, e com os príncipes: “O Senhor – disseram elas – ordenou a Moisés que nos desse uma parte entre nossos irmãos”. E foi-lhes dada uma herança entre os irmãos de seu pai, segundo a ordem do Senhor.
+
+[[v6-17-5]]
+
+^<<v6-17-5,5>>^ Tocaram a Manassés dez partes, além da terra de Galaad e de Basã, situada além do Jordão,
+
+[[v6-17-6]]
+
+^<<v6-17-6,6>>^ porque as filhas de Manassés receberam uma herança entre os filhos da mesma tribo, sendo que a terra de Galaad foi para os outros filhos de Manassés.
+
+[[v6-17-7]]
+
+^<<v6-17-7,7>>^ A fronteira de Manassés partia de Aser e ia até Macmetat, defronte de Siquém, e depois seguia pela direita, na direção dos habitantes de En-Tafua.
+
+[[v6-17-8]]
+
+^<<v6-17-8,8>>^ A terra de Tafua tinha caído por sorte a Manassés, mas Tafua, junto à fronteira de Manassés, pertencia aos efraimitas.
+
+[[v6-17-9]]
+
+^<<v6-17-9,9>>^ A fronteira descia à torrente de Caná, para o meio-dia da torrente; as cidades dessa região, que pertenciam a Efraim, encontravam-se no meio das cidades de Manassés. A fronteira de Manassés passava pelo norte da torrente e terminava no mar.
+
+[[v6-17-10]]
+
+^<<v6-17-10,10>>^ Assim a parte meridional pertencia a Efraim, a parte setentrional a Manassés, servindo o mar de fronteira. Limitavam ao norte com a tribo de Aser, e ao nascente com a tribo de Issacar.
+
+[[v6-17-11]]
+
+^<<v6-17-11,11>>^ Nos territórios de Issacar e de Aser, Manassés obteve Betsã e seus arrabaldes, Jeblam e seus arrabaldes, os habitantes de Dora e seus arrabaldes, os habitantes de Endor e seus arrabaldes, os habitantes de Tenac e seus arrabaldes, os habitantes de Meguido e seus arrabaldes: são as três colinas.
+
+[[v6-17-12]]
+
+^<<v6-17-12,12>>^ Os filhos de Manassés não puderam tomar posse dessas cidades, pois os cananeus estavam resolvidos a permanecer nelas.
+
+[[v6-17-13]]
+
+^<<v6-17-13,13>>^ Quando se tornaram mais fortes, submeteram os cananeus a um tributo, mas não os expulsaram.
+
+[[v6-17-14]]
+
+^<<v6-17-14,14>>^ Os filhos de José disseram a Josué: “Por que nos deste a posse de uma só herança, de uma só parte, sendo nós um povo tão numeroso e tendo-nos o Senhor abençoado até aqui?”
+
+[[v6-17-15]]
+
+^<<v6-17-15,15>>^ Josué disse-lhes: “Se sois tão numerosos, subi à floresta, desbravai-a e tomai uma parte da terra dos ferezeus e dos refains, já que a montanha de Efraim é pequena demais para vós”.
+
+[[v6-17-16]]
+
+^<<v6-17-16,16>>^ Os filhos de José, porém, responderam: “A montanha não nos basta; e todos os cananeus que habitam na planície possuem carros de ferro, tanto os de Betsã e seus arrabaldes como os que estão no vale de Jezrael”.
+
+[[v6-17-17]]
+
+^<<v6-17-17,17>>^ Então, Josué disse à casa de José, a Efraim e a Manassés: “Tu és um povo numeroso e forte; não terás só uma parte,
+
+[[v6-17-18]]
+
+^<<v6-17-18,18>>^ mas terás a montanha, cuja floresta tu desbravarás e os seus arredores serão teus. Expulsarás os cananeus, apesar de seus carros de ferro e de seu poder”.
+
+'''
+
+xref:006-josue/006-josue-016.adoc#v6-16-0[&#60; Capítulo Anterior] | <<v6-17-0,Topo>> | xref:006-josue/006-josue-018.adoc#v6-18-0[Próximo Capítulo &#62;]

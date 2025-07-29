@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v33-19-0]]
+=== Ezequiel, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 19 fala sobre a lamentação do príncipe de Israel e de sua mãe, que representam o povo de Judá e seus líderes que falharam em proteger e liderar o país. A seguir estão cinco versículos relacionados com os temas abordados em Ezequiel 19:
+* 2 Reis 24:14: "Ele levou ao exílio toda Jerusalém, todos os líderes e todos os homens valentes, dez mil prisioneiros, além de todos os ferreiros e serralheiros. Ninguém ficou, exceto a população mais pobre do país." Este versículo descreve a conquista de Jerusalém pelo rei babilônico, Nabucodonosor, e o exílio dos líderes e homens valentes de Judá, incluindo o príncipe lamentado em Ezequiel 19.
+* Lamentações 4:20: "O fôlego de nossas narinas, o ungido do Senhor, foi preso em suas armadilhas; aquele de quem dizíamos: 'Viveremos sob sua sombra entre as nações'." Este versículo lamenta a captura do rei de Judá e a perda da proteção que ele oferecia.
+* Jeremias 22:18-19: "Portanto, assim diz o Senhor acerca de Jeoaquim, filho de Josias, rei de Judá: Não haverá pranto por ele, dizendo: 'Ah, meu irmão!' ou: 'Ah, minha irmã!' Não haverá pranto por ele, dizendo: 'Ah, senhor!' ou: 'Ah, sua majestade!'. Será enterrado como se enterra um jumento, arrastado e jogado para fora das portas de Jerusalém." Este versículo fala sobre a morte do rei Jeoaquim de Judá e como ele não receberia um enterro honroso.
+* Jeremias 13:18: "Diga ao rei e à rainha-mãe: 'Saiam de seus tronos, pois a coroa de sua glória caiu de suas cabeças'." Este versículo fala sobre a queda da monarquia de Judá e a perda de poder dos líderes.
+* Ezequiel 21:25-27: "E tu, ó profano e ímpio príncipe de Israel, cujo dia chegou no tempo da punição final, assim diz o Senhor Deus: Tira o turbante e a coroa; nada será como era antes. Aquilo que é baixo será elevado e o que é elevado será rebaixado." Este versículo fala sobre a queda do príncipe de Israel e como ele perderia sua posição de poder.
+****
+
+[[v33-19-1]]
+
+^<<v33-19-1,1>>^ “E tu, filho do homem, faze ouvir este cântico fúnebre acerca dos príncipes de Israel.^&#42;1^
+
+[[v33-19-2]]
+
+^<<v33-19-2,2>>^ Quem era tua mãe? Uma leoa entre leões; estendida entre os leõezinhos, ela criava os seus filhotes.
+
+[[v33-19-3]]
+
+^<<v33-19-3,3>>^ Um dos filhotes cresceu até se tornar leão; aprendeu a despedaçar a presa, a devorar os homens.
+
+[[v33-19-4]]
+
+^<<v33-19-4,4>>^ Então, as nações se coligaram contra ele, e foi preso em sua fossa; com cadeias foi levado para a terra egípcia.^&#42;1^
+
+[[v33-19-5]]
+
+^<<v33-19-5,5>>^ Sua mãe viu que sua expectativa e sua esperança eram vãs; ela tomou outro dos seus filhotes para dele fazer um leãozinho.
+
+[[v33-19-6]]
+
+^<<v33-19-6,6>>^ Ele abriu caminho entre os leões, tornou-se um jovem leão; aprendeu a despedaçar a presa, a devorar os homens;
+
+[[v33-19-7]]
+
+^<<v33-19-7,7>>^ devastou seus palácios e desolou suas cidades, a terra e seus habitantes ficaram amedrontados com os seus rugidos.^&#42;1^
+
+[[v33-19-8]]
+
+^<<v33-19-8,8>>^ Coligaram-se contra ele as nações vizinhas; lançaram sobre ele uma cilada; em sua fossa ele foi preso.^&#42;1^
+
+[[v33-19-9]]
+
+^<<v33-19-9,9>>^ Foi posto na jaula com cadeias, conduziram-no ao rei da Babilônia, prenderam-no em uma fortaleza, para que não se ouvisse mais a sua voz nas montanhas de Israel.
+
+[[v33-19-10]]
+
+^<<v33-19-10,10>>^ Tua mãe se assemelhava a uma vinha plantada à margem da torrente, carregada de frutos e de folhas, devido à abundância das águas.^&#42;1^
+
+[[v33-19-11]]
+
+^<<v33-19-11,11>>^ Ela teve um ramo vigoroso, que se tornou um cetro real; sua estatura avultava-se em meio de uma espessa folhagem. Ela se distinguia por sua altitude e pelo número de seus ramos.
+
+[[v33-19-12]]
+
+^<<v33-19-12,12>>^ Ela, porém, foi arrancada furiosamente, e arremessada por terra. O vento do Oeste dessecou seus frutos, que caíram; emurcheceu o seu vigoroso ramo, crestado pelo fogo,
+
+[[v33-19-13]]
+
+^<<v33-19-13,13>>^ e agora está ela plantada no deserto, em terra seca e árida.
+
+[[v33-19-14]]
+
+^<<v33-19-14,14>>^ O fogo, lançado em um de seus ramos, devorou seu fruto; nela não há mais ramo forte, nem cetro real!” É um canto fúnebre, que efetivamente serviu de lamentação.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-018.adoc#v33-18-0[&#60; Capítulo Anterior] | <<v33-19-0,Topo>> | xref:033-ezequiel/033-ezequiel-020.adoc#v33-20-0[Próximo Capítulo &#62;]

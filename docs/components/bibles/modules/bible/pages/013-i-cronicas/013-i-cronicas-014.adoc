@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v13-14-0]]
+=== I Crônicas, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Crônicas 14 relata a expansão do reinado de Davi e sua vitória sobre os filisteus. Davi buscou a orientação de Deus em suas estratégias de batalha e foi recompensado com grandes vitórias. Abaixo estão cinco versículos relacionados com temas abordados neste capítulo:
+* Salmos 20:7: "Uns confiam em carros, outros em cavalos, mas nós faremos menção do nome do Senhor nosso Deus." Este salmo fala da importância de confiar em Deus em vez de depender de forças humanas, o que pode ser relacionado com a orientação divina que Davi buscou em 1 Crônicas 14.
+* Provérbios 16:3: "Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos." Este versículo fala da importância de confiar em Deus e entregar-lhe nossos planos e projetos, o que é relevante para a busca de Davi por orientação divina em 1 Crônicas 14.
+* Josué 1:9: "Não to mandei eu? Esforça-te, e tem bom ânimo; não temas, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que andares." Este versículo fala da promessa de Deus de estar com Josué em sua liderança, o que é relevante para a liderança de Davi em 1 Crônicas 14.
+* 2 Samuel 5:20: "E Davi foi a Baal-Perazim, e ali os feriu; e disse: Subiu o Senhor diante de mim, e feriu os meus inimigos diante de mim, como as águas que rompem." Este versículo relata a vitória de Davi sobre os filisteus em Baal-Perazim, o que é o tema central de 1 Crônicas 14.
+* Filipenses 4:13: "Posso todas as coisas naquele que me fortalece." Este versículo fala da capacidade que Deus nos dá de superar as dificuldades e desafios que encontramos, o que pode ser relacionado com a força que Davi recebeu de Deus para enfrentar os filisteus em 1 Crônicas 14.
+****
+
+[[v13-14-1]]
+
+^<<v13-14-1,1>>^ Hiram, rei de Tiro, enviou mensageiros a Davi, com madeira de cedro, pedreiros e carpinteiros para construir-lhe um palácio.^&#42;1^
+
+[[v13-14-2]]
+
+^<<v13-14-2,2>>^ E Davi reconheceu que o Senhor o confirmava rei de Israel, pois que seu reino era exaltado por causa de Israel, seu povo.
+
+[[v13-14-3]]
+
+^<<v13-14-3,3>>^ Davi tomou ainda mulheres de Jerusalém e gerou filhos e filhas.
+
+[[v13-14-4]]
+
+^<<v13-14-4,4>>^ Eis os nomes dos filhos que teve em Jerusalém: Samua, Soba, Natã, Salomão,
+
+[[v13-14-5]]
+
+^<<v13-14-5,5>>^ Jebaar, Elisua, Elifalet,
+
+[[v13-14-6]]
+
+^<<v13-14-6,6>>^ Noga, Nafeg, Jáfia,
+
+[[v13-14-7]]
+
+^<<v13-14-7,7>>^ Elisama, Baaliada e Elifalet.
+
+[[v13-14-8]]
+
+^<<v13-14-8,8>>^ Quando os filisteus souberam que Davi tinha sido sagrado rei de todo o Israel, subiram todos para prendê-lo. Mas Davi foi informado e saiu-lhes ao encontro.
+
+[[v13-14-9]]
+
+^<<v13-14-9,9>>^ Contudo, os filisteus que vinham espalharam-se pelo vale de Refaim.
+
+[[v13-14-10]]
+
+^<<v13-14-10,10>>^ Davi consultou a Deus: “Posso atacar os filisteus? E tu os entregarás em minhas mãos?”. E o Senhor disse-lhe: “Vai! Eu os entregarei em tuas mãos”.
+
+[[v13-14-11]]
+
+^<<v13-14-11,11>>^ Subiram, portanto, a Baal-Farasim e lá Davi os derrotou. Disse então ele: “Deus dispersou meus inimigos, por minha mão, como se dispersam as águas”. Por isso, esse lugar se denominou: Baal-Farasim.
+
+[[v13-14-12]]
+
+^<<v13-14-12,12>>^ Ali abandonaram eles seus deuses. E Davi os mandou queimar.
+
+[[v13-14-13]]
+
+^<<v13-14-13,13>>^ Os filisteus espalharam-se novamente pelo vale.
+
+[[v13-14-14]]
+
+^<<v13-14-14,14>>^ Davi consultou de novo a Deus e este lhe respondeu: “Não te ponhas a persegui-los, mas desvia-te deles e os atacarás diante das amoreiras.
+
+[[v13-14-15]]
+
+^<<v13-14-15,15>>^ Quando ouvires um ruído de passos nas copas das amoreiras, então começarás o combate, porque Deus sairá diante de ti para derrotar o exército dos filisteus”.
+
+[[v13-14-16]]
+
+^<<v13-14-16,16>>^ Fez Davi o que Deus lhe ordenava e derrotou o exército dos filisteus desde Gabaon até Gazer.
+
+[[v13-14-17]]
+
+^<<v13-14-17,17>>^ A fama de Davi espalhou-se por todos os países e o Senhor tornou-o temível para todas as nações.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-013.adoc#v13-13-0[&#60; Capítulo Anterior] | <<v13-14-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-015.adoc#v13-15-0[Próximo Capítulo &#62;]

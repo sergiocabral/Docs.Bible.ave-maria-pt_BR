@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v73-5-0]]
+=== Apocalipse, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Apocalipse 5 é um capítulo que descreve a visão do trono celestial de Deus e do Cordeiro, que é digno de abrir o livro selado com sete selos. É um capítulo de adoração e reconhecimento da soberania de Deus e do Cordeiro. Aqui estão cinco versículos da Bíblia que se relacionam com os temas abordados em Apocalipse 5:
+* Isaías 53:7: "Ele foi oprimido e afligido, contudo não abriu a sua boca; como um cordeiro foi levado ao matadouro, e como a ovelha muda perante os seus tosquiadores, ele não abriu a sua boca." Este versículo descreve o cordeiro que é levado para o sacrifício, o que pode ser visto como uma referência ao Cordeiro de Deus em Apocalipse 5.
+* Salmo 24:7-10: "Levantai, ó portas, as vossas cabeças; levantai-vos, ó entradas eternas, para que entre o Rei da Glória. Quem é este Rei da Glória? O SENHOR forte e poderoso, o SENHOR poderoso na batalha. Levantai, ó portas, as vossas cabeças; levantai-vos, ó entradas eternas, para que entre o Rei da Glória. Quem é este Rei da Glória? O SENHOR dos Exércitos; ele é o Rei da Glória." Este Salmo descreve a entrada triunfal do Rei da Glória, que é similar à descrição do Cordeiro em Apocalipse 5.
+* João 1:29: "No dia seguinte, João viu a Jesus, que vinha para ele, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo." João Batista apresenta Jesus como o Cordeiro de Deus, o que pode ser uma referência ao Cordeiro de Apocalipse 5.
+* Hebreus 9:12: "não por meio de sangue de bodes e de bezerros, mas pelo seu próprio sangue, entrou uma vez por todas no Santo dos Santos, havendo obtido uma eterna redenção." Este versículo fala do sacrifício único de Cristo, que é semelhante ao sacrifício do Cordeiro em Apocalipse 5.
+* 1 Pedro 1:18-19: "sabendo que não foi mediante coisas corruptíveis, como prata ou ouro, que fostes resgatados do vosso fútil procedimento que vossos pais vos legaram, mas pelo precioso sangue, como de um cordeiro sem defeito e sem mácula, o sangue de Cristo." Este versículo fala do resgate dos crentes pelo sangue de Cristo, o que é semelhante à ideia do Cordeiro de Deus em Apocalipse 5.
+****
+
+[[v73-5-1]]
+
+^<<v73-5-1,1>>^ Eu vi também, na mão direita do que estava assentado no trono, um livro escrito por dentro e por fora, selado com sete selos.^&#42;1^
+
+[[v73-5-2]]
+
+^<<v73-5-2,2>>^ Vi então um anjo vigoroso, que clamava em alta voz: “Quem é digno de abrir o livro e desatar os seus selos?”.
+
+[[v73-5-3]]
+
+^<<v73-5-3,3>>^ Mas ninguém, nem no céu, nem na terra, nem debaixo da terra, podia abrir o livro ou examiná-lo.
+
+[[v73-5-4]]
+
+^<<v73-5-4,4>>^ Eu chorava muito, porque ninguém fora achado digno de abrir o livro e examiná-lo.
+
+[[v73-5-5]]
+
+^<<v73-5-5,5>>^ Então, um dos Anciãos me falou: “Não chores! O Leão da tribo de Judá, o descendente de Davi venceu para abrir o livro e os seus sete selos”.
+
+[[v73-5-6]]
+
+^<<v73-5-6,6>>^ Eu vi no meio do trono, dos quatro Animais e no meio dos Anciãos um Cordeiro de pé, como que imolado. Tinha ele sete chifres e sete olhos (que são os sete Espíritos de Deus, enviados por toda a terra).^&#42;1^
+
+[[v73-5-7]]
+
+^<<v73-5-7,7>>^ Veio e recebeu o livro da mão direita do que se assentava no trono.^&#42;1^
+
+[[v73-5-8]]
+
+^<<v73-5-8,8>>^ Quando recebeu o livro, os quatro Animais e os vinte e quatro Anciãos prostraram-se diante do Cordeiro, tendo cada um uma cítara e taças de ouro cheias de perfume (que são as orações dos santos).
+
+[[v73-5-9]]
+
+^<<v73-5-9,9>>^ Cantavam um cântico novo, dizendo: “Tu és digno de receber o livro e de abrir-lhe os selos, porque foste imolado e resgataste para Deus, ao preço de teu sangue, homens de toda tribo, língua, povo e raça;
+
+[[v73-5-10]]
+
+^<<v73-5-10,10>>^ e deles fizeste para nosso Deus um reino de sacerdotes, que reinam sobre a terra”.^&#42;1^
+
+[[v73-5-11]]
+
+^<<v73-5-11,11>>^ Na minha visão ouvi também, ao redor do trono, dos Animais e dos Anciãos, a voz de muitos anjos, em número de miríades de miríades e de milhares de milhares,
+
+[[v73-5-12]]
+
+^<<v73-5-12,12>>^ bradando em alta voz: “Digno é o Cordeiro imolado de receber o poder, a riqueza, a sabedoria, a força, a glória, a honra e o louvor”.^&#42;1^
+
+[[v73-5-13]]
+
+^<<v73-5-13,13>>^ E todas as criaturas que estão no céu, na terra, debaixo da terra e no mar, e tudo que contêm, eu as ouvi clamar: “Àquele que se assenta no trono e ao Cordeiro, louvor, honra, glória e poder pelos séculos dos séculos.”
+
+[[v73-5-14]]
+
+^<<v73-5-14,14>>^ E os quatro Animais diziam: “Amém!”. Os Anciãos prostravam-se e adoravam.
+
+'''
+
+xref:073-apocalipse/073-apocalipse-004.adoc#v73-4-0[&#60; Capítulo Anterior] | <<v73-5-0,Topo>> | xref:073-apocalipse/073-apocalipse-006.adoc#v73-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v21-146-0]]
+=== Salmos, 146
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 146 é um hino de louvor a Deus, que exalta sua fidelidade, poder e justiça. O salmista convida a todos para louvar e confiar em Deus, que é digno de toda a adoração. Seguem abaixo cinco versículos da Bíblia que estão relacionados com os temas abordados em Salmo 146:
+* Isaías 25:1: "Ó Senhor, tu és o meu Deus; exaltar-te-ei a ti, e louvarei o teu nome, porque fizeste maravilhas; os teus conselhos antigos são verdade e firmeza." Este versículo se assemelha ao tema central do Salmo 146, que é o louvor a Deus pelas suas obras maravilhosas e fidelidade.
+* Salmos 147:5: "Grande é o nosso Senhor, e de grande poder; o seu entendimento é infinito." Este versículo destaca o poder e a grandeza de Deus, que são exaltados no Salmo 146.
+* Salmos 148:13: "Louvem o nome do Senhor, pois só o seu nome é excelso; a sua glória está sobre a terra e o céu." Este verso ressalta a glória e a grandeza de Deus, que é exaltado em todo o Salmo 146.
+* Salmos 145:17-18: "Justo é o Senhor em todos os seus caminhos, e santo em todas as suas obras. Perto está o Senhor de todos os que o invocam, de todos os que o invocam em verdade." Estes versículos mostram a justiça e a santidade de Deus, que são temas presentes no Salmo 146.
+* Salmos 33:20-22: "A nossa alma espera no Senhor; ele é o nosso auxílio e o nosso escudo. Pois nele se alegra o nosso coração; porquanto temos confiado no seu santo nome. Seja a tua misericórdia, Senhor, sobre nós, como em ti esperamos." Estes versículos enfatizam a confiança em Deus como fonte de auxílio e proteção, algo que também é abordado no Salmo 146.
+****
+
+[[v21-146-1]]
+
+^<<v21-146-1,1>>^ Salmo. Louvai o Senhor porque ele é bom; cantai ao nosso Deus porque ele é amável, e o louvor lhe convém.^&#42;1^
+
+[[v21-146-2]]
+
+^<<v21-146-2,2>>^ O Senhor reconstrói Jerusalém, e congrega os dispersos de Israel.
+
+[[v21-146-3]]
+
+^<<v21-146-3,3>>^ Ele cura os que têm o coração ferido, e cuida-lhes das chagas.
+
+[[v21-146-4]]
+
+^<<v21-146-4,4>>^ É ele que fixa o número das estrelas, e designa cada uma por seu nome.
+
+[[v21-146-5]]
+
+^<<v21-146-5,5>>^ Grande é o Senhor nosso e poderosa a sua força; sua sabedoria não tem limites.
+
+[[v21-146-6]]
+
+^<<v21-146-6,6>>^ O Senhor eleva os humildes, mas abate os ímpios até a terra.
+
+[[v21-146-7]]
+
+^<<v21-146-7,7>>^ Cantai ao Senhor um cântico de gratidão, cantai ao nosso Deus com a harpa.
+
+[[v21-146-8]]
+
+^<<v21-146-8,8>>^ A ele que cobre os céus de nuvens, que faz cair a chuva à terra; a ele que faz crescer a relva nas montanhas, e germinar plantas úteis para o homem.
+
+[[v21-146-9]]
+
+^<<v21-146-9,9>>^ Que dá sustento aos rebanhos, aos filhotes dos corvos que por ele clamam.
+
+[[v21-146-10]]
+
+^<<v21-146-10,10>>^ Não é o vigor do cavalo que lhe agrada, nem ele se compraz nos jarretes do corredor.
+
+[[v21-146-11]]
+
+^<<v21-146-11,11>>^ Agradam ao Senhor somente os que o temem, e confiam em sua misericórdia.
+
+'''
+
+xref:021-salmos/021-salmos-145.adoc#v21-145-0[&#60; Capítulo Anterior] | <<v21-146-0,Topo>> | xref:021-salmos/021-salmos-147.adoc#v21-147-0[Próximo Capítulo &#62;]

@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v16-8-0]]
+=== Neemias, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 8 de Neemias descreve um momento importante na história do povo de Israel, quando Esdras lê a Lei de Deus ao povo e o ajuda a entender o que ela significa. Os temas principais deste capítulo incluem a importância da leitura da Lei, a adoração a Deus e o arrependimento. Abaixo estão cinco versículos relacionados a esses temas:
+* Deuteronômio 31:12-13: "Reúne o povo, homens, mulheres e crianças, e os estrangeiros residentes em tua cidade, para que ouçam e aprendam a temer o SENHOR, vosso Deus, e cuidem de fazer todas as palavras desta lei. Seus filhos, que não a conhecerem, a ouvirão e aprenderão a temer o SENHOR, vosso Deus, todos os dias em que viverdes na terra à qual ides para possuí-la." Este versículo destaca a importância de reunir o povo para ouvir a Lei de Deus e aprender a temê-lo.
+* Salmos 95:6-7: "Ó, vinde, adoremos e prostremo-nos; ajoelhemos diante do SENHOR, que nos criou. Porque ele é o nosso Deus, e nós o povo do seu pasto e ovelhas da sua mão." Este versículo enfatiza a importância da adoração a Deus e a humildade diante dele.
+* Isaías 66:2: "Porque a minha mão fez todas estas coisas, e assim todas elas vieram a existir, diz o SENHOR; mas para esse olharei, para o pobre e abatido de espírito, e que treme da minha palavra." Este versículo mostra a importância daqueles que temem a palavra de Deus e reconhecem sua necessidade de arrependimento e humildade diante dele.
+* Josué 8:34-35: "Então leu Josué todas as palavras da lei, tanto as bênçãos como as maldições, conforme tudo o que está escrito no livro da lei. Não houve uma palavra de tudo o que Moisés ordenara que Josué não lesse diante de toda a congregação de Israel, incluindo as mulheres, as crianças e os estrangeiros residentes entre eles." Este versículo destaca a importância de ler a Lei de Deus e compartilhá-la com toda a congregação, incluindo mulheres, crianças e estrangeiros.
+* João 14:15: "Se me amardes, guardareis os meus mandamentos." Este versículo enfatiza a importância de amar a Deus e obedecer aos seus mandamentos, que são encontrados na Lei.
+****
+
+[[v16-8-1]]
+
+^<<v16-8-1,1>>^ Todo o povo se reuniu então, como um só homem, na praça que ficava diante da porta da Água e pediu a Esdras, o escriba, que trouxesse o Livro da Lei de Moisés, que o Senhor tinha prescrito a Israel.
+
+[[v16-8-2]]
+
+^<<v16-8-2,2>>^ O sacerdote Esdras trouxe o Livro da Lei diante da assembleia de homens, mulheres e de todas (as crianças) que fossem capazes de compreender. Era o primeiro dia do sétimo mês.
+
+[[v16-8-3]]
+
+^<<v16-8-3,3>>^ Esdras fez então a leitura da Lei, na praça que ficava diante da porta da Água, desde a manhã até o meio-dia, na presença dos homens, das mulheres e das (crianças) capazes de compreender. Todos escutavam atentamente a leitura.
+
+[[v16-8-4]]
+
+^<<v16-8-4,4>>^ O escriba Esdras postou-se num estrado de madeira que tinham construído para a ocasião. A seu lado encontravam-se, à direita, Matatias, Sema, Anias, Urias, Helcias e Maasias; à sua esquerda estavam Fadaías, Misael, Melquias, Hasum, Hasbadana, Zacarias e Mesolam.
+
+[[v16-8-5]]
+
+^<<v16-8-5,5>>^ Esdras abriu o Livro à vista de todo o povo, pois estava em lugar mais elevado do que a multidão. Quando o escriba abriu o Livro, todo o povo se levantou.
+
+[[v16-8-6]]
+
+^<<v16-8-6,6>>^ Esdras bendisse o Senhor, o grande Deus; ao que todo o povo respondeu, levantando as mãos: “Amém! Amém!”. Depois inclinaram-se e prostraram-se diante do Senhor com a face por terra.
+
+[[v16-8-7]]
+
+^<<v16-8-7,7>>^ E Josué, Bani, Serebias, Jamin, Acub, Sabatai, Hodias, Maasias, Celita, Azarias, Jozabad, Hanã, Falaías e outros levitas explicavam a Lei ao povo e cada um ficou no seu lugar.
+
+[[v16-8-8]]
+
+^<<v16-8-8,8>>^ Liam distintamente no Livro da Lei de Deus e explicavam o sentido, de maneira que se pudesse compreender a leitura.
+
+[[v16-8-9]]
+
+^<<v16-8-9,9>>^ Depois Neemias, o governador, e Esdras, sacerdote e escriba, e os levitas que instruíam o povo, disseram a toda a multidão: “Este é um dia de festa consagrado ao Senhor, nosso Deus. Não haja nem aflição, nem lágrimas”. Porque todos choravam ao ouvir as palavras da Lei.
+
+[[v16-8-10]]
+
+^<<v16-8-10,10>>^ Neemias disse-lhes: “Ide para as vossas casas, fazei um bom jantar, tomai bebidas doces e reparti com aqueles que nada têm pronto; porque este dia é um dia de festa consagrado ao nosso Senhor; não haja tristeza, porque a alegria do Senhor será a vossa força”.
+
+[[v16-8-11]]
+
+^<<v16-8-11,11>>^ Os levitas acalmavam o povo. “Silêncio! – diziam eles – este é um dia santo! Nada de tristeza!”
+
+[[v16-8-12]]
+
+^<<v16-8-12,12>>^ E todo o povo se foi para beber e comer, dar porções aos pobres e entregar-se a grandes alegrias. Porque tinham compreendido o sentido das palavras que lhes foram explicadas.
+
+[[v16-8-13]]
+
+^<<v16-8-13,13>>^ No segundo dia, os chefes de família de todo o povo, os sacerdotes e os levitas reuniram-se junto do escriba Esdras para examinar o texto da Lei.
+
+[[v16-8-14]]
+
+^<<v16-8-14,14>>^ Encontraram escrito na Lei que o Senhor havia dito, pelo ministério de Moisés, que os israelitas deviam habitar debaixo de tendas durante a festa do Sétimo Mês^&#42;1^
+
+[[v16-8-15]]
+
+^<<v16-8-15,15>>^ e que se devia proclamar e publicar em todas as cidades e em Jerusalém o seguinte aviso: “Ide à montanha e trazei ramos de oliveira cultivada e de oliveira selvagem, ramos de mirta, ramos de palmeiras e de árvores frondosas para fazer cabanas, segundo está prescrito”.
+
+[[v16-8-16]]
+
+^<<v16-8-16,16>>^ Então, o povo foi e trouxe ramos. E construíram as cabanas nos terraços de suas casas, nos pátios, nos átrios do templo, na praça da porta da Água e na praça da porta de Efraim.
+
+[[v16-8-17]]
+
+^<<v16-8-17,17>>^ Todos aqueles que tinham voltado do cativeiro fizeram cabanas e nelas habitaram. Desde o tempo de Josué, filho de Nun, até aquele dia, os israelitas não tinham feito coisa semelhante. E houve por isso grande regozijo.
+
+[[v16-8-18]]
+
+^<<v16-8-18,18>>^ Foi feita a cada dia uma leitura da Lei de Deus, desde o primeiro dia da festa até o último. Celebraram a festa durante sete dias e, no oitavo dia, houve uma assembleia solene para encerramento, segundo prescrevia o rito.
+
+'''
+
+xref:016-neemias/016-neemias-007.adoc#v16-7-0[&#60; Capítulo Anterior] | <<v16-8-0,Topo>> | xref:016-neemias/016-neemias-009.adoc#v16-9-0[Próximo Capítulo &#62;]

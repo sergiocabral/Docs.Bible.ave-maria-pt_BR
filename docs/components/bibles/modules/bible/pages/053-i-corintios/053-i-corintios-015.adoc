@@ -1,0 +1,251 @@
+include::./index.adoc[]
+
+[[v53-15-0]]
+=== I Coríntios, 15
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Coríntios 15 trata principalmente sobre a ressurreição dos mortos e a vitória sobre a morte por meio da ressurreição de Cristo. Os versículos a seguir estão relacionados a esse tema:
+* João 11:25-26: "Disse-lhe Jesus: Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que esteja morto, viverá; e todo aquele que vive, e crê em mim, nunca morrerá. Crês tu isso?" Esses versículos falam da promessa de vida eterna por meio da fé em Jesus e na sua ressurreição.
+* Romanos 6:5: "Porque, se fomos unidos com ele na semelhança da sua morte, certamente, também o seremos na semelhança da sua ressurreição." Este versículo destaca a conexão entre a morte e ressurreição de Cristo e a nossa própria ressurreição.
+* Filipenses 3:21: "Que transformará o nosso corpo abatido, para ser conforme o seu corpo glorioso, segundo o seu eficaz poder de sujeitar também a si todas as coisas." Esse versículo fala da transformação do nosso corpo para a glorificação, em conformidade com o corpo de Cristo ressuscitado.
+* 1 Tessalonicenses 4:16-17: "Porque o Senhor mesmo descerá do céu com grande brado, à voz do arcanjo, ao som da trombeta de Deus, e os que morreram em Cristo ressuscitarão primeiro. Depois, nós, os que ficarmos vivos, seremos arrebatados juntamente com eles, nas nuvens, ao encontro do Senhor nos ares, e assim estaremos sempre com o Senhor." Este versículo fala da ressurreição dos mortos em Cristo, precedendo o arrebatamento dos fiéis para estar com o Senhor para sempre.
+* Apocalipse 21:4: "Ele enxugará de seus olhos toda lágrima, e não haverá mais morte, nem pranto, nem clamor, nem dor, porque já as primeiras coisas são passadas." Esse versículo fala sobre a vida eterna em que não haverá mais morte, tristeza ou dor, mas sim a alegria e paz que decorrem da vitória sobre a morte alcançada pela ressurreição de Cristo.
+****
+
+[[v53-15-1]]
+
+^<<v53-15-1,1>>^ Eu vos lembro, irmãos, o Evangelho que vos preguei, e que tendes acolhido, no qual estais firmes.
+
+[[v53-15-2]]
+
+^<<v53-15-2,2>>^ Por ele sereis salvos, se o conservardes como vo-lo preguei. De outra forma, em vão teríeis abraçado a fé.
+
+[[v53-15-3]]
+
+^<<v53-15-3,3>>^ Eu vos transmiti primeiramente o que eu mesmo havia recebido: que Cristo morreu por nossos pecados, segundo as Escrituras;
+
+[[v53-15-4]]
+
+^<<v53-15-4,4>>^ foi sepultado, e ressurgiu ao terceiro dia, segundo as Escrituras;
+
+[[v53-15-5]]
+
+^<<v53-15-5,5>>^ apareceu a Cefas e, em seguida, aos Doze.^&#42;1^
+
+[[v53-15-6]]
+
+^<<v53-15-6,6>>^ Depois apareceu a mais de quinhentos irmãos de uma vez, dos quais a maior parte ainda vive (e alguns já são mortos);
+
+[[v53-15-7]]
+
+^<<v53-15-7,7>>^ depois apareceu a Tiago, em seguida a todos os apóstolos.
+
+[[v53-15-8]]
+
+^<<v53-15-8,8>>^ E, por último de todos, apareceu também a mim, como a um abortivo.
+
+[[v53-15-9]]
+
+^<<v53-15-9,9>>^ Porque eu sou o menor dos apóstolos, e não sou digno de ser chamado apóstolo, porque persegui a Igreja de Deus.
+
+[[v53-15-10]]
+
+^<<v53-15-10,10>>^ Mas, pela graça de Deus, sou o que sou, e a graça que ele me deu não tem sido inútil. Ao contrário, tenho trabalhado mais do que todos eles; não eu, mas a graça de Deus que está comigo.
+
+[[v53-15-11]]
+
+^<<v53-15-11,11>>^ Portanto, seja eu ou sejam eles, assim pregamos, e assim crestes.
+
+[[v53-15-12]]
+
+^<<v53-15-12,12>>^ Ora, se se prega que Jesus ressuscitou dentre os mortos, como dizem alguns de vós que não há ressurreição de mortos?
+
+[[v53-15-13]]
+
+^<<v53-15-13,13>>^ Se não há ressurreição de mortos, nem Cristo ressuscitou.
+
+[[v53-15-14]]
+
+^<<v53-15-14,14>>^ Se Cristo não ressuscitou, é vã a nossa pregação, e também é vã a vossa fé.
+
+[[v53-15-15]]
+
+^<<v53-15-15,15>>^ Além disso, seríamos convencidos de ser falsas testemunhas de Deus, por termos dado testemunho contra Deus, afirmando que ele ressuscitou a Cristo, ao qual não ressuscitou (se os mortos não ressuscitam).
+
+[[v53-15-16]]
+
+^<<v53-15-16,16>>^ Pois, se os mortos não ressuscitam, também Cristo não ressuscitou.
+
+[[v53-15-17]]
+
+^<<v53-15-17,17>>^ E se Cristo não ressuscitou, é inútil a vossa fé, e ainda estais em vossos pecados.^&#42;1^
+
+[[v53-15-18]]
+
+^<<v53-15-18,18>>^ Também estão perdidos os que morreram em Cristo.
+
+[[v53-15-19]]
+
+^<<v53-15-19,19>>^ Se é só para esta vida que temos colocado a nossa esperança em Cristo, somos, de todos os homens, os mais dignos de lástima.
+
+[[v53-15-20]]
+
+^<<v53-15-20,20>>^ Mas não! Cristo ressuscitou dentre os mortos, como primícias dos que morreram!
+
+[[v53-15-21]]
+
+^<<v53-15-21,21>>^ Com efeito, se por um homem veio a morte, por um homem vem a ressurreição dos mortos.
+
+[[v53-15-22]]
+
+^<<v53-15-22,22>>^ Assim como em Adão todos morrem, assim em Cristo todos reviverão.
+
+[[v53-15-23]]
+
+^<<v53-15-23,23>>^ Cada qual, porém, em sua ordem: como primícias, Cristo; em seguida, os que forem de Cristo, na ocasião de sua vinda.
+
+[[v53-15-24]]
+
+^<<v53-15-24,24>>^ Depois, virá o fim, quando entregar o Reino a Deus, ao Pai, depois de haver destruído todo principado, toda potestade e toda dominação.
+
+[[v53-15-25]]
+
+^<<v53-15-25,25>>^ Porque é necessário que ele reine, até que ponha todos os inimigos debaixo de seus pés.
+
+[[v53-15-26]]
+
+^<<v53-15-26,26>>^ O último inimigo a derrotar será a morte, porque Deus sujeitou tudo debaixo dos seus pés.^&#42;1^
+
+[[v53-15-27]]
+
+^<<v53-15-27,27>>^ Mas, quando ele disser que tudo lhe está sujeito, claro é que se excetua aquele que lhe sujeitou todas as coisas.
+
+[[v53-15-28]]
+
+^<<v53-15-28,28>>^ E, quando tudo lhe estiver sujeito, então também o próprio Filho renderá homenagem àquele que lhe sujeitou todas as coisas, a fim de que Deus seja tudo em todos.
+
+[[v53-15-29]]
+
+^<<v53-15-29,29>>^ De outra maneira, que intentam aqueles que se batizam em favor dos mortos? Se os mortos realmente não ressuscitam, por que se batizam por eles?^&#42;1^
+
+[[v53-15-30]]
+
+^<<v53-15-30,30>>^ E nós, por que nos expomos a perigos a toda hora?
+
+[[v53-15-31]]
+
+^<<v53-15-31,31>>^ Cada dia, irmãos, exponho-me à morte, tão certo como vós sois a minha glória em Jesus Cristo, nosso Senhor.
+
+[[v53-15-32]]
+
+^<<v53-15-32,32>>^ Se foi por intenção humana que combati com as feras em Éfeso, que me aproveita isso? Se os mortos não ressuscitam, comamos e bebamos, porque amanhã morreremos.^&#42;1^
+
+[[v53-15-33]]
+
+^<<v53-15-33,33>>^ Não vos deixeis enganar: “Más companhias corrompem bons costumes”.^&#42;1^
+
+[[v53-15-34]]
+
+^<<v53-15-34,34>>^ Despertai, como convém, e não pequeis! Porque alguns vivem na total ignorância de Deus – para vergonha vossa o digo.^&#42;1^
+
+[[v53-15-35]]
+
+^<<v53-15-35,35>>^ Mas, dirá alguém, como ressuscitam os mortos? E com que corpo vêm?
+
+[[v53-15-36]]
+
+^<<v53-15-36,36>>^ Insensato! O que semeias não recobra vida, sem antes morrer.
+
+[[v53-15-37]]
+
+^<<v53-15-37,37>>^ E, quando semeias, não semeias o corpo da planta que há de nascer, mas o simples grão, como, por exemplo, de trigo ou de alguma outra planta.
+
+[[v53-15-38]]
+
+^<<v53-15-38,38>>^ Deus, porém, lhe dá o corpo como lhe apraz, e a cada uma das sementes o corpo da planta que lhe é própria.
+
+[[v53-15-39]]
+
+^<<v53-15-39,39>>^ Nem todas as carnes são iguais: uma é a dos homens e outra a dos animais; a das aves difere da dos peixes.
+
+[[v53-15-40]]
+
+^<<v53-15-40,40>>^ Também há corpos celestes e corpos terrestres, mas o brilho dos celestes difere do brilho dos terrestres.
+
+[[v53-15-41]]
+
+^<<v53-15-41,41>>^ Uma é a claridade do sol, outra a claridade da lua e outra a claridade das estrelas; e ainda uma estrela difere da outra na claridade.
+
+[[v53-15-42]]
+
+^<<v53-15-42,42>>^ Assim também é a ressurreição dos mortos. Semeado na corrupção, o corpo ressuscita incorruptível;
+
+[[v53-15-43]]
+
+^<<v53-15-43,43>>^ semeado no desprezo, ressuscita glorioso; semeado na fraqueza, ressuscita vigoroso;
+
+[[v53-15-44]]
+
+^<<v53-15-44,44>>^ semeado corpo animal, ressuscita corpo espiritual. Se há um corpo animal, também há um espiritual.^&#42;1^
+
+[[v53-15-45]]
+
+^<<v53-15-45,45>>^ Como está escrito: O primeiro homem, Adão, foi feito alma vivente (Gn 2,7); o segundo Adão é espírito vivificante.^&#42;1^
+
+[[v53-15-46]]
+
+^<<v53-15-46,46>>^ Mas não é o espiritual que vem primeiro, e sim o animal; o espiritual vem depois.
+
+[[v53-15-47]]
+
+^<<v53-15-47,47>>^ O primeiro homem, tirado da terra, é terreno; o segundo veio do céu.
+
+[[v53-15-48]]
+
+^<<v53-15-48,48>>^ Qual o homem terreno, tais os homens terrenos; e qual o homem celestial, tais os homens celestiais.
+
+[[v53-15-49]]
+
+^<<v53-15-49,49>>^ Assim como reproduzimos em nós as feições do homem terreno, precisamos reproduzir as feições do homem celestial.
+
+[[v53-15-50]]
+
+^<<v53-15-50,50>>^ O que afirmo, irmãos, é que nem a carne nem o sangue podem participar do Reino de Deus; e que a corrupção não participará da incorruptibilidade.
+
+[[v53-15-51]]
+
+^<<v53-15-51,51>>^ Eis que vos revelo um mistério: nem todos morreremos, mas todos seremos transformados,
+
+[[v53-15-52]]
+
+^<<v53-15-52,52>>^ num momento, num abrir e fechar de olhos, ao som da última trombeta (porque a trombeta soará). Os mortos ressuscitarão incorruptíveis, e nós seremos transformados.^&#42;1^
+
+[[v53-15-53]]
+
+^<<v53-15-53,53>>^ É necessário que este corpo corruptível se revista da incorruptibilidade, e que este corpo mortal se revista da imortalidade.
+
+[[v53-15-54]]
+
+^<<v53-15-54,54>>^ Quando este corpo corruptível estiver revestido da incorruptibilidade, e quando este corpo mortal estiver revestido da imortalidade, então se cumprirá a palavra da Escritura:
+
+[[v53-15-55]]
+
+^<<v53-15-55,55>>^ A morte foi tragada pela vitória (Is 25,8). Onde está, ó morte, a tua vitória? Onde está, ó morte, o teu aguilhão (Os 13,14)?
+
+[[v53-15-56]]
+
+^<<v53-15-56,56>>^ Ora, o aguilhão da morte é o pecado, e a força do pecado é a Lei.
+
+[[v53-15-57]]
+
+^<<v53-15-57,57>>^ Graças, porém, sejam dadas a Deus, que nos dá a vitória por nosso Senhor Jesus Cristo!
+
+[[v53-15-58]]
+
+^<<v53-15-58,58>>^ Por consequência, meus amados irmãos, sede firmes e inabaláveis, aplicando-vos cada vez mais à obra do Senhor. Sabeis que o vosso trabalho no Senhor não é em vão.
+
+'''
+
+xref:053-i-corintios/053-i-corintios-014.adoc#v53-14-0[&#60; Capítulo Anterior] | <<v53-15-0,Topo>> | xref:053-i-corintios/053-i-corintios-016.adoc#v53-16-0[Próximo Capítulo &#62;]

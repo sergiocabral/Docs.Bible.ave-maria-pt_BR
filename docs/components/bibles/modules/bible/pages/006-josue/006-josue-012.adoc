@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v6-12-0]]
+=== Josué, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 12 de Josué é um registro dos reis derrotados pelos israelitas durante suas conquistas na Terra Prometida. São listados os nomes dos reis e das cidades que foram conquistadas, destacando o grande poder e a fidelidade de Deus para com o seu povo. Aqui estão cinco versículos relacionados aos temas abordados em Josué 12:
+* Salmos 44:3: "Não foi pela sua espada que conquistaram a terra, nem pela força do seu braço que alcançaram a vitória; foi pela tua mão direita, pelo teu braço e pela luz do teu rosto, por causa do teu amor para com eles." Este versículo se relaciona com a ideia de que foi Deus quem deu a vitória aos israelitas na conquista da terra, e não pela força humana.
+* Deuteronômio 7:24: "Entregarás os seus reis nas tuas mãos, para que apagues o seu nome de debaixo dos céus; ninguém te resistirá até que os destruas." Este versículo se relaciona com a promessa de Deus de que entregaria os reis dos inimigos de Israel em suas mãos, e que eles seriam completamente destruídos.
+* Salmos 20:7: "Uns confiam em carros e outros em cavalos, mas nós faremos menção do nome do Senhor nosso Deus." Este versículo se relaciona com a ideia de que a confiança dos israelitas não estava em suas próprias habilidades ou forças, mas em Deus, que os ajudou a derrotar seus inimigos.
+* Salmos 136:18-22: "E matou reis famosos, porque a sua benignidade é para sempre. A Seom, rei dos amorreus, porque a sua benignidade é para sempre; E a Ogue, rei de Basã, porque a sua benignidade é para sempre." Este versículo destaca a fidelidade e o poder de Deus em derrotar os reis e governantes dos inimigos de Israel, ressaltando a importância da sua presença e ajuda durante as conquistas.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo se relaciona com a confiança e a força que Deus deu aos israelitas durante as conquistas, mostrando que Ele sempre esteve presente para ajudá-los e protegê-los.
+****
+
+[[v6-12-1]]
+
+^<<v6-12-1,1>>^ Estes são os reis que os israelitas derrotaram, e cujos territórios ocuparam além do Jordão, para o nascente, desde a torrente de Arnon até o monte Hermon, com a planície ao oriente:
+
+[[v6-12-2]]
+
+^<<v6-12-2,2>>^ Seon, rei dos amorreus, em Hesebon. Seu domínio estendia-se desde Aroer, à margem da torrente do Arnon, e desde o meio da torrente, sobre a metade de Galaad, até a torrente do Jaboc, fronteira dos amonitas;
+
+[[v6-12-3]]
+
+^<<v6-12-3,3>>^ e desde a planície até o mar de Genesaré, ao oriente, e até o mar da Planície, o mar Salgado, para o lado oriental, pelo caminho que vai a Bet-Jesimot; e do lado meridional até o pé das encostas do monte Fasga.
+
+[[v6-12-4]]
+
+^<<v6-12-4,4>>^ Em seguida a terra de Og, rei de Basã, um dos sobreviventes dos refains, em Astarot e Edrai,
+
+[[v6-12-5]]
+
+^<<v6-12-5,5>>^ que reinava sobre a montanha de Hermon, sobre Saleca, sobre todo o Basã até a fronteira dos gessureus e dos macateus, e até o meio de Galaad, limite de Seon, rei de Hesebon.
+
+[[v6-12-6]]
+
+^<<v6-12-6,6>>^ Moisés, servo do Senhor, e os filhos de Israel derrotaram-nos; e Moisés, servo do Senhor, deu sua terra aos rubenitas, aos gaditas e à meia tribo de Manassés.
+
+[[v6-12-7]]
+
+^<<v6-12-7,7>>^ Estes são os reis da terra que Josué e os israelitas derrotaram aquém do Jordão, para o ocidente, desde Baal-Gad, no vale do Líbano, até a montanha nua que sobe para Seir. Josué deu essa terra em possessão às tribos de Israel, dividindo-a segundo suas famílias,
+
+[[v6-12-8]]
+
+^<<v6-12-8,8>>^ tanto na montanha como nas planícies, e sobre as colinas, no deserto e no Negueb, toda a terra dos hiteus, dos amorreus, dos cananeus, dos ferezeus, dos heveus e dos jebuseus.
+
+[[v6-12-9]]
+
+^<<v6-12-9,9>>^ Foram eles: o rei de Jericó, o rei de Hai, perto de Betel;
+
+[[v6-12-10]]
+
+^<<v6-12-10,10>>^ o rei de Jerusalém, o rei de Hebron,
+
+[[v6-12-11]]
+
+^<<v6-12-11,11>>^ o rei de Jarmut, o rei de Laquis,
+
+[[v6-12-12]]
+
+^<<v6-12-12,12>>^ o rei de Eglon, o rei de Gazer,
+
+[[v6-12-13]]
+
+^<<v6-12-13,13>>^ o rei de Dabir, o rei de Gazer,
+
+[[v6-12-14]]
+
+^<<v6-12-14,14>>^ o rei de Horma, o rei de Arad,
+
+[[v6-12-15]]
+
+^<<v6-12-15,15>>^ o rei de Lebna, o rei de Odolam,
+
+[[v6-12-16]]
+
+^<<v6-12-16,16>>^ o rei de Maceda, o rei de Betel,
+
+[[v6-12-17]]
+
+^<<v6-12-17,17>>^ o rei de Tafua, o rei de Ofer,
+
+[[v6-12-18]]
+
+^<<v6-12-18,18>>^ o rei de Afec, o rei de Saron,
+
+[[v6-12-19]]
+
+^<<v6-12-19,19>>^ o rei de Merom, o rei de Asor,
+
+[[v6-12-20]]
+
+^<<v6-12-20,20>>^ o rei de Semeron, o rei de Acsaf,
+
+[[v6-12-21]]
+
+^<<v6-12-21,21>>^ o rei de Tanac, o rei de Meguido,
+
+[[v6-12-22]]
+
+^<<v6-12-22,22>>^ o rei de Cades, o rei de Jecnaam, no Carmelo;
+
+[[v6-12-23]]
+
+^<<v6-12-23,23>>^ o rei de Dora, sobre os altos de Dora; o rei de Goim, em Gálgala;
+
+[[v6-12-24]]
+
+^<<v6-12-24,24>>^ o rei de Tersa. Ao todo trinta e um reis.
+
+'''
+
+xref:006-josue/006-josue-011.adoc#v6-11-0[&#60; Capítulo Anterior] | <<v6-12-0,Topo>> | xref:006-josue/006-josue-013.adoc#v6-13-0[Próximo Capítulo &#62;]

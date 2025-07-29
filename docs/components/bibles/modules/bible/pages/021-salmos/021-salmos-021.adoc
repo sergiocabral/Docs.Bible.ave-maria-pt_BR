@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v21-21-0]]
+=== Salmos, 21
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 21 é um cântico de louvor e agradecimento pela vitória do rei sobre seus inimigos, reconhecendo que foi Deus quem o fortaleceu e concedeu a vitória. Os temas abordados incluem a proteção divina, a confiança no Senhor e a derrota dos inimigos.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo traz uma mensagem de conforto e segurança, lembrando-nos que Deus é nosso ajudador e protetor.
+* Salmos 91:11: "Pois ele dará ordens a seus anjos a teu respeito, para que te guardem em todos os teus caminhos." Este verso destaca a proteção divina que é concedida a todos aqueles que confiam no Senhor.
+* Provérbios 21:31: "O cavalo é preparado para o dia da batalha, mas o Senhor é que dá a vitória." Este versículo reforça a ideia de que, embora os homens possam fazer preparativos para a batalha, é Deus quem concede a vitória.
+* Salmos 46:1: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia." Este verso enfatiza a confiança que podemos ter no Senhor, lembrando-nos que Ele é nosso refúgio e força em momentos de necessidade.
+* 2 Coríntios 2:14: "Graças, porém, a Deus, que em Cristo sempre nos conduz em triunfo, e por meio de nós manifesta em todo lugar o cheiro do seu conhecimento." Este versículo fala sobre a vitória que temos em Cristo e a forma como podemos testemunhar e espalhar o conhecimento de Deus em todo lugar.
+****
+
+[[v21-21-1]]
+
+^<<v21-21-1,1>>^ Ao mestre de canto. Segundo a melodia “A corça da aurora”. Salmo de Davi.^&#42;1^
+
+[[v21-21-2]]
+
+^<<v21-21-2,2>>^ Meu Deus, meu Deus, por que me abandonastes? E permaneceis longe de minhas súplicas e de meus gemidos?^&#42;1^
+
+[[v21-21-3]]
+
+^<<v21-21-3,3>>^ Meu Deus, clamo de dia e não me respondeis; imploro de noite e não me atendeis.
+
+[[v21-21-4]]
+
+^<<v21-21-4,4>>^ Entretanto, vós habitais em vosso santuário, vós que sois a glória de Israel.
+
+[[v21-21-5]]
+
+^<<v21-21-5,5>>^ Nossos pais puseram sua confiança em vós, esperaram em vós e os livrastes.
+
+[[v21-21-6]]
+
+^<<v21-21-6,6>>^ A vós clamaram e foram salvos; confiaram em vós e não foram confundidos.
+
+[[v21-21-7]]
+
+^<<v21-21-7,7>>^ Eu, porém, sou um verme, não sou homem, o opróbrio de todos e a abjeção da plebe.
+
+[[v21-21-8]]
+
+^<<v21-21-8,8>>^ Todos os que me vêem zombam de mim; dizem, meneando a cabeça:
+
+[[v21-21-9]]
+
+^<<v21-21-9,9>>^ “Esperou no Senhor, pois que ele o livre, que o salve, se o ama”.^&#42;1^
+
+[[v21-21-10]]
+
+^<<v21-21-10,10>>^ Sim, fostes vós que me tirastes das entranhas de minha mãe e, seguro, me fizestes repousar em seu seio.
+
+[[v21-21-11]]
+
+^<<v21-21-11,11>>^ Eu vos fui entregue desde o meu nascer, desde o ventre de minha mãe vós sois o meu Deus.
+
+[[v21-21-12]]
+
+^<<v21-21-12,12>>^ Não fiqueis longe de mim, pois estou atribulado; vinde para perto de mim, porque não há quem me ajude.
+
+[[v21-21-13]]
+
+^<<v21-21-13,13>>^ Cercam-me touros numerosos, rodeiam-me touros de Basã;
+
+[[v21-21-14]]
+
+^<<v21-21-14,14>>^ contra mim eles abrem suas fauces, como o leão que ruge e arrebata.
+
+[[v21-21-15]]
+
+^<<v21-21-15,15>>^ Derramo-me como água, todos os meus ossos se desconjuntam; meu coração tornou-se como cera e derrete-se nas minhas entranhas.
+
+[[v21-21-16]]
+
+^<<v21-21-16,16>>^ Minha garganta está seca qual barro cozido, pega-se no paladar a minha língua: vós me reduzistes ao pó da morte.
+
+[[v21-21-17]]
+
+^<<v21-21-17,17>>^ Sim, rodeia-me uma malta de cães, cerca-me um bando de malfeitores. Traspassaram minhas mãos e meus pés:
+
+[[v21-21-18]]
+
+^<<v21-21-18,18>>^ poderia contar todos os meus ossos. Eles me olham e me observam com alegria,
+
+[[v21-21-19]]
+
+^<<v21-21-19,19>>^ repartem entre si as minhas vestes, e lançam sorte sobre a minha túnica.^&#42;1^
+
+[[v21-21-20]]
+
+^<<v21-21-20,20>>^ Porém, vós, Senhor, não vos afasteis de mim; ó meu auxílio, bem depressa me ajudai.
+
+[[v21-21-21]]
+
+^<<v21-21-21,21>>^ Livrai da espada a minha alma, e das garras dos cães a minha vida.
+
+[[v21-21-22]]
+
+^<<v21-21-22,22>>^ Salvai-me a mim, mísero, das fauces do leão e dos chifres dos búfalos.
+
+[[v21-21-23]]
+
+^<<v21-21-23,23>>^ Então, anunciarei vosso nome a meus irmãos, e vos louvarei no meio da assembleia.^&#42;1^
+
+[[v21-21-24]]
+
+^<<v21-21-24,24>>^ “Vós que temeis o Senhor, louvai-o; vós todos, descendentes de Jacó, aclamai-o; temei-o, todos vós, estirpe de Israel,
+
+[[v21-21-25]]
+
+^<<v21-21-25,25>>^ porque ele não rejeitou nem desprezou a miséria do infeliz, nem dele desviou a sua face, mas o ouviu, quando lhe suplicava.”
+
+[[v21-21-26]]
+
+^<<v21-21-26,26>>^ De vós procede o meu louvor na grande assembleia, cumprirei meus votos na presença dos que vos temem.
+
+[[v21-21-27]]
+
+^<<v21-21-27,27>>^ Os pobres comerão e serão saciados; louvarão o Senhor aqueles que o procuram: “Vivam para sempre os nossos corações”.
+
+[[v21-21-28]]
+
+^<<v21-21-28,28>>^ Hão de se lembrar do Senhor e a ele se converter todos os povos da terra; e diante dele se prostrarão todas as famílias das nações,
+
+[[v21-21-29]]
+
+^<<v21-21-29,29>>^ porque a realeza pertence ao Senhor e ele impera sobre as nações.
+
+[[v21-21-30]]
+
+^<<v21-21-30,30>>^ Todos os que dormem no seio da terra o adorarão; diante dele se prostrarão os que retornam ao pó.
+
+[[v21-21-31]]
+
+^<<v21-21-31,31>>^ Para ele viverá a minha alma, há de servi-lo minha descendência. Ela falará do Senhor às gerações futuras e proclamará sua justiça ao povo que vai nascer: “Eis o que fez o Senhor”.^&#42;1^
+
+'''
+
+xref:021-salmos/021-salmos-020.adoc#v21-20-0[&#60; Capítulo Anterior] | <<v21-21-0,Topo>> | xref:021-salmos/021-salmos-022.adoc#v21-22-0[Próximo Capítulo &#62;]

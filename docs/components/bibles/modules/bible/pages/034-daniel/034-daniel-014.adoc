@@ -1,0 +1,187 @@
+include::./index.adoc[]
+
+[[v34-14-0]]
+=== Daniel, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 14 de Daniel é um apêndice encontrado em algumas versões da Bíblia que conta a história de um jovem profeta chamado Habacuque, que foi levado pelo anjo de Deus para alimentar Daniel na cova dos leões. Nesse capítulo, Habacuque é retratado como um homem de grande fé e coragem, que se dispõe a arriscar sua vida para obedecer à vontade de Deus. A seguir, estão cinco versículos relacionados com os temas abordados em Daniel 14:
+* Atos 5:29: "Então Pedro e os outros apóstolos responderam e disseram: Mais importa obedecer a Deus do que aos homens." Esse verso destaca a importância de seguir a vontade de Deus, mesmo quando isso vai contra a vontade ou os desejos dos homens.
+* 1 Coríntios 16:13: "Vigiai, estai firmes na fé; portai-vos varonilmente, e fortalecei-vos." Essa passagem exorta os cristãos a permanecerem firmes na fé, mesmo diante de adversidades ou tentações.
+* Romanos 1:17: "Porque nele se descobre a justiça de Deus de fé em fé, como está escrito: Mas o justo viverá da fé." Esse verso destaca a importância da fé em Deus como meio de alcançar a justiça e a salvação.
+* Tiago 2:14: "Meus irmãos, que aproveita se alguém disser que tem fé e não tiver as obras? Porventura a fé pode salvá-lo?" Essa passagem enfatiza a importância de ter uma fé ativa, que se manifesta em ações concretas e boas obras.
+* Hebreus 11:6: "Ora, sem fé é impossível agradar-lhe, porque é necessário que aquele que se aproxima de Deus creia que ele existe e que é galardoador dos que o buscam." Esse verso destaca a importância da fé como meio de se aproximar de Deus e agradá-lo.
+****
+
+[[v34-14-1]]
+
+^<<v34-14-1,1>>^ Tendo-se reunido o rei Astíages a seus antepassados, Ciro, o persa, subiu ao trono.
+
+[[v34-14-2]]
+
+^<<v34-14-2,2>>^ Daniel era conviva do rei e o mais honrado de todos os seus íntimos.
+
+[[v34-14-3]]
+
+^<<v34-14-3,3>>^ Ora, os babilônios tinham um ídolo chamado Bel, cuja despesa diária era de doze artabes de farinha, quarenta carneiros e seis medidas de vinho.
+
+[[v34-14-4]]
+
+^<<v34-14-4,4>>^ O rei prestava culto ao ídolo e diariamente ia adorá-lo. Daniel, porém, adorava seu Deus.
+
+[[v34-14-5]]
+
+^<<v34-14-5,5>>^ O rei disse-lhe um dia: “Por que não adoras Bel?”. “Porque” – respondeu Daniel, “não venero ídolo feito pela mão do homem, mas sim o Deus vivo que criou o céu e a terra e que exerce seu poder sobre todo homem.”
+
+[[v34-14-6]]
+
+^<<v34-14-6,6>>^ “Assim sendo” – continuou o rei –, “Bel não te parece ser um deus vivo! Não vês o que ele come e o que ele bebe todos os dias?”
+
+[[v34-14-7]]
+
+^<<v34-14-7,7>>^ Daniel pôs-se a rir: “Desengana-te, ó rei” – disse ele –, “este deus é de barro por dentro e de bronze por fora, e ele nunca comeu coisa alguma”.
+
+[[v34-14-8]]
+
+^<<v34-14-8,8>>^ Irritado, o rei mandou vir seus sacerdotes e lhes disse: “Se não me disserdes quem come essas oferendas, morrereis. Mas se me provardes que é Bel quem as absorve, será Daniel quem morrerá, pois terá blasfemado contra ele”. Daniel respondeu ao rei: “Que se faça segundo tu o dizes!”.
+
+[[v34-14-9]]
+
+^<<v34-14-9,9>>^ Os sacerdotes de Bel eram setenta em número, sem contar suas mulheres e filhos. O rei foi com Daniel ao templo de Bel.
+
+[[v34-14-10]]
+
+^<<v34-14-10,10>>^ Os sacerdotes disseram: “Nós saímos. Manda trazer, ó rei, os alimentos e o vinho misturado; depois fecha a porta e lacra-a com teu sinete.
+
+[[v34-14-11]]
+
+^<<v34-14-11,11>>^ Se amanhã cedo, quando vieres ao templo, verificares que tudo não foi comido por Bel, nós morreremos; do contrário, será Daniel quem nos terá caluniado”.
+
+[[v34-14-12]]
+
+^<<v34-14-12,12>>^ Tinham completa confiança, porque debaixo da mesa haviam feito uma abertura secreta, pela qual penetravam habitualmente para consumir as oferendas.
+
+[[v34-14-13]]
+
+^<<v34-14-13,13>>^ Mas, após a saída deles, quando o rei acabava de depor as oferendas diante de Bel, Daniel ordenou aos criados trazerem cinza, a qual espalhou pelo templo todo na presença do rei. A seguir saíram, fecharam a porta e, depois de tê-la lacrado com o sinete real, retiraram-se.
+
+[[v34-14-14]]
+
+^<<v34-14-14,14>>^ Durante a noite, os sacerdotes introduziram-se como de costume (no templo) com suas mulheres e filhos, comeram e beberam tudo.
+
+[[v34-14-15]]
+
+^<<v34-14-15,15>>^ Ao amanhecer, o rei veio com Daniel.
+
+[[v34-14-16]]
+
+^<<v34-14-16,16>>^ “Os selos” – disse – “estão intatos, Daniel”. “Intatos, ó rei.”
+
+[[v34-14-17]]
+
+^<<v34-14-17,17>>^ Logo que a porta foi aberta, o rei olhou para a mesa e exclamou: “Tu és grande, ó Bel! Tu não nos enganaste”.
+
+[[v34-14-18]]
+
+^<<v34-14-18,18>>^ Mas Daniel pôs-se a rir e impediu o rei de entrar mais adiante. “Olha o chão” – disse-lhe –. “De quem são estes passos?”
+
+[[v34-14-19]]
+
+^<<v34-14-19,19>>^ “Vejo, de fato” – respondeu o rei – “passos de homens, de mulheres e de crianças.” E uma cólera violenta apoderou-se dele.
+
+[[v34-14-20]]
+
+^<<v34-14-20,20>>^ Então, mandou prender os sacerdotes com suas mulheres e filhos, os quais lhe mostraram as entradas secretas por onde se introduziam para vir consumir o que havia na mesa.
+
+[[v34-14-21]]
+
+^<<v34-14-21,21>>^ O rei mandou matá-los e pôs Bel à disposição de Daniel que o destruiu, assim como seu templo.^&#42;1^
+
+[[v34-14-22]]
+
+^<<v34-14-22,22>>^ Lá havia também um grande dragão, que os babilônios veneravam.
+
+[[v34-14-23]]
+
+^<<v34-14-23,23>>^ O rei disse a Daniel: “Pretenderás também dizer que aquele é de bronze? Vive, come, bebe. Tu não podes negar que seja um deus vivo.
+
+[[v34-14-24]]
+
+^<<v34-14-24,24>>^ Adora-o, então”. “Eu adoro” – replicou Daniel – “unicamente o Senhor, meu Deus, porque ele é um Deus vivo.
+
+[[v34-14-25]]
+
+^<<v34-14-25,25>>^ Ó rei, dá-me licença para fazê-lo, e, sem espada nem bastão, matarei o dragão.” “Eu te concedo” – disse o rei.
+
+[[v34-14-26]]
+
+^<<v34-14-26,26>>^ Então, Daniel tomou breu, gordura e pelos, cozinhou tudo junto, e com isso fez umas bolas e meteu-as na boca do dragão, que estourou e morreu. Daniel exclamou: “Eis aí o que adoráveis!”.
+
+[[v34-14-27]]
+
+^<<v34-14-27,27>>^ Quando os babilônios souberam, ficaram sumamente indignados, e amotinaram-se contra o rei aos gritos de: “O rei tornou-se judeu! Destruiu Bel; e agora fez perecer o dragão e matar os sacerdotes”.
+
+[[v34-14-28]]
+
+^<<v34-14-28,28>>^ Vieram à presença do rei e disseram-lhe: “Entrega-nos Daniel; do contrário, nós te mataremos, bem como toda a tua família.
+
+[[v34-14-29]]
+
+^<<v34-14-29,29>>^ Diante da violência com que o ameaçavam, o rei viu-se forçado a entregar-lhes Daniel,
+
+[[v34-14-30]]
+
+^<<v34-14-30,30>>^ que eles jogaram à cova dos leões, onde permaneceu seis dias.
+
+[[v34-14-31]]
+
+^<<v34-14-31,31>>^ Na cova havia sete leões, aos quais davam cotidianamente dois corpos humanos e dois carneiros. Porém, daquela vez, nada lhes foi distribuído, a fim de que devorassem Daniel.
+
+[[v34-14-32]]
+
+^<<v34-14-32,32>>^ Ora, o profeta Habacuc vivia naquele tempo na Judeia. Acabava de cozinhar um caldo e picava pão dentro dele em uma panela, para levá-lo aos ceifadores no campo.
+
+[[v34-14-33]]
+
+^<<v34-14-33,33>>^ Mas um anjo do Senhor disse-lhe: “Leva esta refeição à Babilônia, a Daniel, que se encontra na cova dos leões”.
+
+[[v34-14-34]]
+
+^<<v34-14-34,34>>^ “Senhor” – disse Habacuc –, “nunca vi Babilônia, e não conheço essa cova.”
+
+[[v34-14-35]]
+
+^<<v34-14-35,35>>^ Então o anjo, segurando-o pelo alto da cabeça, transportou-o pelos cabelos, em um fôlego, até a Babilônia, em cima da cova.
+
+[[v34-14-36]]
+
+^<<v34-14-36,36>>^ “Daniel, Daniel, chamou, toma a refeição que Deus te envia.”
+
+[[v34-14-37]]
+
+^<<v34-14-37,37>>^ E Daniel respondeu: “Ó Deus, vós pensastes em mim! Vós não abandonastes os que vos amam!”.
+
+[[v34-14-38]]
+
+^<<v34-14-38,38>>^ Depois disso, pôs-se a comer, enquanto o anjo do Senhor transportava de volta Habacuc a seu domicílio.
+
+[[v34-14-39]]
+
+^<<v34-14-39,39>>^ Ao sétimo dia, veio o rei chorar Daniel. Ao acercar-se da cova, porém, olhou para dentro e aí avistou Daniel sentado.
+
+[[v34-14-40]]
+
+^<<v34-14-40,40>>^ E bem alto exclamou: “Vós sois grande, Senhor, Deus de Daniel. Não existe outro Deus além de vós!”.
+
+[[v34-14-41]]
+
+^<<v34-14-41,41>>^ Mandou retirá-lo da cova dos leões e lá jogou todos aqueles que haviam tentado eliminá-lo, os quais foram imediatamente devorados, sob seus olhos.
+
+[[v34-14-42]]
+
+^<<v34-14-42,42>>^ Então, disse o rei: “Que todos os habitantes da terra reverenciem o Deus de Daniel, porque é um salvador que opera sinais e prodígios em toda a terra, e salvou Daniel da cova dos leões”.^&#42;1^
+
+'''
+
+xref:034-daniel/034-daniel-013.adoc#v34-13-0[&#60; Capítulo Anterior] | <<v34-14-0,Topo>> | xref:035-oseias/035-oseias-001.adoc#v35-1-0[Próximo Capítulo &#62;]

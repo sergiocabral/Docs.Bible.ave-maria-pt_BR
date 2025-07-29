@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v33-13-0]]
+=== Ezequiel, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 13 fala sobre as falsas profecias que estão sendo pregadas em Israel e adverte sobre a punição que virá sobre os falsos profetas. Os versículos escolhidos em ordem de proximidade com o tema do capítulo são:
+* Jeremias 23:16: "Assim diz o Senhor dos Exércitos: Não deis ouvidos às palavras dos profetas que entre vós profetizam, ensinando-vos vaidades; falam da visão do seu próprio coração, não da boca do Senhor." Este versículo aborda o mesmo tema de Ezequiel 13, alertando as pessoas para não ouvirem os falsos profetas que falam apenas de si mesmos, sem a orientação de Deus.
+* Mateus 24:24: "Porque se levantarão falsos cristos e falsos profetas, e farão sinais e prodígios para enganar, se for possível, até os escolhidos." Jesus também alertou sobre falsos profetas que enganariam as pessoas com milagres e sinais, o que é semelhante ao que Ezequiel 13 descreve.
+* 2 Pedro 2:1: "Assim como, no meio do povo, surgiram falsos profetas, assim também haverá entre vós falsos mestres, os quais introduzirão, dissimuladamente, heresias destruidoras, até ao ponto de renegarem o Soberano Senhor que os resgatou, trazendo sobre si mesmos repentina destruição." Pedro também alerta sobre a presença de falsos profetas e mestres que introduzem ensinamentos errados e heresias entre as pessoas, levando à destruição.
+* 1 João 4:1: "Amados, não creiais em todo espírito, mas provai se os espíritos vêm de Deus, porque muitos falsos profetas têm saído pelo mundo fora." João também aconselha as pessoas a testarem os espíritos e discernirem se eles são de Deus, porque há muitos falsos profetas no mundo que tentam enganar as pessoas.
+* Mateus 7:15: "Acautelai-vos dos falsos profetas, que se vos apresentam disfarçados em ovelhas, mas por dentro são lobos roubadores." Jesus novamente alerta sobre falsos profetas, que podem parecer inofensivos, mas são perigosos e enganadores por dentro.
+****
+
+[[v33-13-1]]
+
+^<<v33-13-1,1>>^ A palavra do Senhor foi-me dirigida nestes termos:
+
+[[v33-13-2]]
+
+^<<v33-13-2,2>>^ “Filho do homem, profetiza contra os profetas israelitas que pretendem profetizar, dize àqueles que profetizam de sua própria cabeça: escutai a palavra do Senhor:
+
+[[v33-13-3]]
+
+^<<v33-13-3,3>>^ eis o que diz o Senhor Javé: ai dos profetas insensatos que seguem sua própria inspiração sem terem tido realmente visão alguma.
+
+[[v33-13-4]]
+
+^<<v33-13-4,4>>^ Assim como chacais nos esconderijos, tais são os teus profetas, ó Israel.
+
+[[v33-13-5]]
+
+^<<v33-13-5,5>>^ Não subistes por sobre as brechas para refazer um muro à casa de Israel, a fim de poder estar seguro no combate no dia do Senhor.^&#42;1^
+
+[[v33-13-6]]
+
+^<<v33-13-6,6>>^ Veem só visões disparatadas, só fazem predições enganosas, eles que dizem: oráculo do Senhor, quando o Senhor não os enviou; e, todavia, esperam a realização de sua palavra.
+
+[[v33-13-7]]
+
+^<<v33-13-7,7>>^ Não é verdade que não tendes senão visões ineptas e não fazeis senão predições enganadoras, quando dizeis: oráculo do Senhor, quando não falei coisa alguma?
+
+[[v33-13-8]]
+
+^<<v33-13-8,8>>^ E, por isso, eis o que diz o Senhor Javé: porque proferis oráculos enganadores e tendes visões mentirosas, vou castigar-vos – oráculo do Senhor Javé.
+
+[[v33-13-9]]
+
+^<<v33-13-9,9>>^ Estenderei minha mão contra esses profetas de visões ineptas e de oráculos enganadores. Não farão mais parte do conselho do meu povo, não serão inscritos no número da casa de Israel e não regressarão à terra de Israel. E saberão assim que sou eu o Senhor Javé.
+
+[[v33-13-10]]
+
+^<<v33-13-10,10>>^ Porquanto abusam do meu povo, dizendo: ‘Tudo vai bem’, quando tudo vai mal. Quando o meu povo constrói um muro, ei-los a cobrirem-no de gesso.^&#42;1^
+
+[[v33-13-11]]
+
+^<<v33-13-11,11>>^ Dize pois àqueles que põem esse gesso: este muro vai cair. Vai haver um aguaceiro, vai cair saraiva grossa, vai desencadear-se uma tempestade;
+
+[[v33-13-12]]
+
+^<<v33-13-12,12>>^ e o muro vai rachar. Então, se vos dirá: onde está o reboco de gesso que amassastes?
+
+[[v33-13-13]]
+
+^<<v33-13-13,13>>^ Pois bem! Eis o que diz o Senhor Javé: em minha indignação, desencadearei um furacão, em minha cólera, vou mandar uma tempestade, em meu furor de destruição, farei cair granizo.
+
+[[v33-13-14]]
+
+^<<v33-13-14,14>>^ Abaterei assim o muro que emboçastes, eu o porei abaixo, irei desnudá-lo até as suas fundações. Ele desmoronará e perecereis no meio dos escombros. Sabereis assim que sou o Senhor.
+
+[[v33-13-15]]
+
+^<<v33-13-15,15>>^ Quando houver saciado o meu furor contra o muro e contra aqueles que o tiverem rebocado de gesso, direi: nada de muro! Desapareceram aqueles que o rebocaram,
+
+[[v33-13-16]]
+
+^<<v33-13-16,16>>^ esses profetas israelitas que profetizavam sobre Jerusalém e tinham para ela visões de bem-estar quando tudo ia mal – oráculo do Senhor Javé”.
+
+[[v33-13-17]]
+
+^<<v33-13-17,17>>^ “Tu, filho do homem, volta-te agora para as filhas do teu povo que profetizam de sua própria cabeça, e pronuncia contra elas
+
+[[v33-13-18]]
+
+^<<v33-13-18,18>>^ o oráculo seguinte: eis o que diz o Senhor Javé: ai daquelas que cosem faixas para todos os punhos, que confeccionam véus para as cabeças de todos os tamanhos, com o fito de fazerem caça às almas. Como?! Capturais as almas do meu povo, enquanto vós conservais em vida vossas próprias almas!^&#42;1^
+
+[[v33-13-19]]
+
+^<<v33-13-19,19>>^ Vós me aviltais perante o meu povo por alguns punhados de cevada e uns pedaços de pão, fazendo perecer vidas que não deveriam morrer, e dando vida a quem não deveria viver. Assim, enganais o meu povo, que não quer senão ouvir fábulas.
+
+[[v33-13-20]]
+
+^<<v33-13-20,20>>^ Eis por que diz o Senhor: vou contra as ligaduras de que vos servis para dar caça às almas: eu as arrancarei de vossos braços e darei voo às almas que, como pássaros, apanhastes na armadilha.
+
+[[v33-13-21]]
+
+^<<v33-13-21,21>>^ Rasgarei do mesmo modo os vossos véus e livrarei o meu povo de vossas mãos, a fim de que deixem de ser presa em vossas mãos. E sabereis assim que eu sou o Senhor.
+
+[[v33-13-22]]
+
+^<<v33-13-22,22>>^ Porque vós abateis a coragem do justo com vossas mentiras, enquanto eu não o abato, porque encorajais o ímpio a não renunciar ao seu caminho perverso para não reencontrar a vida,
+
+[[v33-13-23]]
+
+^<<v33-13-23,23>>^ já não tereis essas visões tolas e não mais proferireis oráculos. Libertarei o meu povo de vossas mãos, e sabereis que eu sou o Senhor.”
+
+'''
+
+xref:033-ezequiel/033-ezequiel-012.adoc#v33-12-0[&#60; Capítulo Anterior] | <<v33-13-0,Topo>> | xref:033-ezequiel/033-ezequiel-014.adoc#v33-14-0[Próximo Capítulo &#62;]

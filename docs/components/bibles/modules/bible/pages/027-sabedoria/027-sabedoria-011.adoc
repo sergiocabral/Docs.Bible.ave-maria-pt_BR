@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v27-11-0]]
+=== Sabedoria, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 11 do livro de Sabedoria apresenta uma reflexão sobre a ação divina na história da humanidade, mostrando como Deus conduz e protege seu povo. Além disso, destaca-se a importância de reconhecer a grandeza de Deus e de confiar em sua sabedoria. A seguir, são apresentados cinco versículos relacionados com esses temas:
+* Salmos 139:5: "Tu me cercaste por detrás e por diante, e puseste sobre mim a tua mão." Este verso destaca a ação de Deus na vida das pessoas, protegendo-as e cuidando delas.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este verso mostra a importância de confiar em Deus e reconhecer sua sabedoria, permitindo que Ele dirija nossos caminhos.
+* Isaías 55:8-9: "Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o Senhor. Porque, assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos do que os vossos caminhos, e os meus pensamentos mais altos do que os vossos pensamentos." Este verso enfatiza a grandeza e a sabedoria de Deus, mostrando que seus caminhos são mais altos e mais sábios do que os nossos.
+* Romanos 11:33-34: "Ó profundidade das riquezas, tanto da sabedoria, como da ciência de Deus! Quão insondáveis são os seus juízos, e quão inescrutáveis, os seus caminhos! Pois, quem compreendeu o intento do Senhor? Ou quem foi seu conselheiro?" Este verso destaca a sabedoria e a grandeza de Deus, mostrando que seus caminhos são insondáveis e que ninguém pode compreender completamente seus planos.
+* Efésios 3:20-21: "Ora, àquele que é poderoso para fazer tudo muito mais abundantemente além daquilo que pedimos ou pensamos, segundo o poder que em nós opera, a esse glória na igreja, por Jesus Cristo, em todas as gerações, para todo o sempre. Amém!" Este verso destaca a grandeza e a capacidade de Deus para fazer muito mais do que podemos pedir ou pensar, mostrando que podemos confiar plenamente em sua sabedoria e em seu poder.
+****
+
+[[v27-11-1]]
+
+^<<v27-11-1,1>>^ Pela mão de um santo profeta aplanou suas dificuldades;^&#42;1^
+
+[[v27-11-2]]
+
+^<<v27-11-2,2>>^ eles atravessaram um deserto inabitado, e levantaram suas tendas em lugares ermos;
+
+[[v27-11-3]]
+
+^<<v27-11-3,3>>^ resistiram aos que os atacavam, e repeliram seus inimigos.
+
+[[v27-11-4]]
+
+^<<v27-11-4,4>>^ Tiveram sede e clamaram a vós: do rochedo abrupto a água lhes foi dada, e da pedra seca estancaram sua sede.
+
+[[v27-11-5]]
+
+^<<v27-11-5,5>>^ Porque os elementos que tinham servido para punir seus inimigos, foram-lhes dados, na sua necessidade, como benefício:
+
+[[v27-11-6]]
+
+^<<v27-11-6,6>>^ em lugar das ondas de um rio perene turvadas por uma lama de sangue,^&#42;1^
+
+[[v27-11-7]]
+
+^<<v27-11-7,7>>^ pela punição do decreto que consagrava crianças à morte, vós lhes destes, de maneira inesperada, água em abundância,
+
+[[v27-11-8]]
+
+^<<v27-11-8,8>>^ mostrando-lhes, pela sede que então sofreram, como punistes seus inimigos.
+
+[[v27-11-9]]
+
+^<<v27-11-9,9>>^ Por isso, tratados com piedade na sua provação, reconheceram quanto deviam ter sofrido os ímpios, julgados com ira.
+
+[[v27-11-10]]
+
+^<<v27-11-10,10>>^ A estes provastes como um pai que corrige, mas a outros provastes como um rei severo que condena.
+
+[[v27-11-11]]
+
+^<<v27-11-11,11>>^ Tanto estando longe como perto, a dor os consumiu da mesma forma,^&#42;1^
+
+[[v27-11-12]]
+
+^<<v27-11-12,12>>^ porque tiveram um segundo para se entristecer e gemer à lembrança dos males passados.
+
+[[v27-11-13]]
+
+^<<v27-11-13,13>>^ Compreendendo, com efeito, que o que era para eles castigo, era para outros ocasião de benefício, sentiram a mão do Senhor;
+
+[[v27-11-14]]
+
+^<<v27-11-14,14>>^ e aquele que, outrora exposto e abandonado, tinham repelido com zombaria, admiraram-no finalmente, porque sofreram uma sede diferente da sede do justo.
+
+[[v27-11-15]]
+
+^<<v27-11-15,15>>^ Por outro lado, para os punir dos loucos pensamentos de sua perversidade, que os faziam extraviar-se na adoração de répteis irracionais e de vis animais, enviastes contra eles uma multidão de animais estúpidos,
+
+[[v27-11-16]]
+
+^<<v27-11-16,16>>^ a fim de que compreendessem que, por onde cada um peca, será punido.
+
+[[v27-11-17]]
+
+^<<v27-11-17,17>>^ Não era difícil à vossa mão todo-poderosa, que formou o mundo de matéria informe, mandar contra eles bandos de ursos e de leões ferozes,
+
+[[v27-11-18]]
+
+^<<v27-11-18,18>>^ ou animais desconhecidos e de uma nova espécie, cheios de furor, exalando um hálito inflamado, ou espalhando um fumo infeto, ou lançando de seus olhos faíscas terríveis,
+
+[[v27-11-19]]
+
+^<<v27-11-19,19>>^ capazes não só de os exterminar com seus golpes, mas ainda de os matar de terror só pelo seu aspecto.
+
+[[v27-11-20]]
+
+^<<v27-11-20,20>>^ E, mesmo sem isso, eles poderiam perecer por um sopro, perseguidos pela justiça e arrebatados pelo vento de vosso poder; mas, dispusestes tudo com medida, quantidade e peso,
+
+[[v27-11-21]]
+
+^<<v27-11-21,21>>^ porque sempre vos é possível mostrar vosso poder imenso, e quem poderá resistir à força de vosso braço?
+
+[[v27-11-22]]
+
+^<<v27-11-22,22>>^ Diante de vós o mundo inteiro é como um nada, que faz pender a balança, ou como uma gota de orvalho, que desce de madrugada sobre a terra.^&#42;1^
+
+[[v27-11-23]]
+
+^<<v27-11-23,23>>^ Tendes compaixão de todos, porque vós podeis tudo; e para que se arrependam, fechais os olhos aos pecados dos homens.
+
+[[v27-11-24]]
+
+^<<v27-11-24,24>>^ Porque amais tudo que existe, e não odiais nada do que fizestes, porquanto, se o odiásseis, não o teríeis feito de modo algum.
+
+[[v27-11-25]]
+
+^<<v27-11-25,25>>^ Como poderia subsistir qualquer coisa, se não o tivésseis querido, e conservar a existência, se por vós não tivesse sido chamada?
+
+[[v27-11-26]]
+
+^<<v27-11-26,26>>^ Mas poupais todos os seres, porque todos são vossos, ó Senhor, que amais a vida.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-010.adoc#v27-10-0[&#60; Capítulo Anterior] | <<v27-11-0,Topo>> | xref:027-sabedoria/027-sabedoria-012.adoc#v27-12-0[Próximo Capítulo &#62;]

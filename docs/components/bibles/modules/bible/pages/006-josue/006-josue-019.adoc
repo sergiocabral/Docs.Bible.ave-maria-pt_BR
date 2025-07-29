@@ -1,0 +1,223 @@
+include::./index.adoc[]
+
+[[v6-19-0]]
+=== Josué, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 19 de Josué trata da divisão da terra de Canaã entre as tribos de Israel. Cada tribo recebe uma porção de território como herança, incluindo cidades e vilas para habitar. O capítulo descreve em detalhes a porção dada a cada tribo e as cidades incluídas em cada porção.
+* Deuteronômio 19:14: "Não remova os marcos do seu próximo, que os antepassados estabeleceram em sua herança que você receberá na terra que o Senhor, seu Deus, está dando a você para possuir." Esse versículo fala sobre a importância de respeitar os limites de propriedade estabelecidos pelos antepassados, o que é relevante para o capítulo 19 de Josué, onde as tribos recebem suas porções de terra como herança.
+* Levítico 25:23: "A terra não pode ser vendida em perpetuidade, porque a terra é minha; vocês são estrangeiros e peregrinos comigo." Este versículo afirma que a terra pertence a Deus e não pode ser vendida em perpetuidade, o que reforça a ideia de que as tribos de Israel receberam sua porção de terra como uma herança de Deus em Josué 19.
+* Isaías 54:2-3: "Alargue o lugar da sua tenda, estenda bem as cortinas da sua tenda, não segure nada; estique suas cordas, fortaleça suas estacas. Porque você se espalhará para a direita e para a esquerda; sua posteridade possuirá nações e fará com que as cidades desertas sejam habitadas." Esse versículo fala sobre a expansão e o crescimento, o que é relevante para o capítulo 19 de Josué, onde as tribos de Israel recebem suas porções de terra como uma herança e começam a estabelecer suas cidades e vilas.
+* Números 26:52-53: "O Senhor falou a Moisés, dizendo: 'A esses será dividida a terra em herança, de acordo com o número dos nomes. A cada um será dada a sua herança de acordo com o que foi determinado pelos sortes.'" Este versículo fala sobre a divisão da terra de acordo com o número de pessoas em cada tribo, o que é relevante para o capítulo 19 de Josué, onde as tribos de Israel recebem suas porções de terra como herança.
+* Deuteronômio 3:18-20: "Eu vos ordenei naquele tempo, dizendo: O Senhor, vosso Deus, vos deu esta terra para possuí-la; todos os seus homens de guerra passarão armados adiante de seus irmãos, os filhos de Israel. Apenas as mulheres, as crianças e os rebanhos, e tudo o que houver na cidade, todas as suas presas, vocês tomarão para si; e comerás o espólio dos teus inimigos que o Senhor, teu Deus, te deu." Esse versículo fala sobre a ordem de Deus para os homens de guerra de Israel tomarem a terra de seus inimigos e possuí-la, o que é relevante para o capítulo 19 de Josué.
+****
+
+[[v6-19-1]]
+
+^<<v6-19-1,1>>^ A segunda sorte caiu a Simeão, à tribo dos filhos de Simeão, segundo as suas famílias. Sua parte estava situada no meio da de Judá.
+
+[[v6-19-2]]
+
+^<<v6-19-2,2>>^ Tiveram por herança: Bersabeia (Sabeia), Molada,
+
+[[v6-19-3]]
+
+^<<v6-19-3,3>>^ Aser-Sual, Bela, Asem,
+
+[[v6-19-4]]
+
+^<<v6-19-4,4>>^ Eltolad, Betul, Horma,
+
+[[v6-19-5]]
+
+^<<v6-19-5,5>>^ Siceleg, Bet-Marcabot, Aser-Susa,
+
+[[v6-19-6]]
+
+^<<v6-19-6,6>>^ Bet-Lebaot e Saroen: treze cidades com suas aldeias.
+
+[[v6-19-7]]
+
+^<<v6-19-7,7>>^ Ain, Remon, Atar e Asã: quatro cidades com suas aldeias,
+
+[[v6-19-8]]
+
+^<<v6-19-8,8>>^ assim como todos os lugarejos dos arredores dessas cidades até Baalat-Beer, que é Ramá do sul. Essa foi a parte dos filhos de Simeão, segundo suas famílias.
+
+[[v6-19-9]]
+
+^<<v6-19-9,9>>^ Essa parte foi tomada da porção dos filhos de Judá, que era grande demais para eles e, por isso, os filhos de Simeão receberam a sua parte no meio de seu território.
+
+[[v6-19-10]]
+
+^<<v6-19-10,10>>^ A terceira sorte coube aos filhos de Zabulon, segundo suas famílias. A fronteira de sua parte estendia-se até Sarid.
+
+[[v6-19-11]]
+
+^<<v6-19-11,11>>^ Subia para o ocidente, até Merala e chegava até Debaset, tocando a torrente que corre defronte de Jecnaam.
+
+[[v6-19-12]]
+
+^<<v6-19-12,12>>^ De Sarid voltava ao oriente para o nascente, até o limite de Ceselet-Tabor, passava por Daberat e subia a Jáfia.
+
+[[v6-19-13]]
+
+^<<v6-19-13,13>>^ Dali passava pelo lado oriental, para o levante, até Gat-Ofer e até Etacasin, e chegava a Remon, prolongando-se até Noa.
+
+[[v6-19-14]]
+
+^<<v6-19-14,14>>^ Dava volta em seguida pelo norte para Hanaton e terminava no vale de Jeftael.
+
+[[v6-19-15]]
+
+^<<v6-19-15,15>>^ Havia ainda Catet, Naalol, Semeron, Jerala e Belém; doze cidades com suas aldeias.
+
+[[v6-19-16]]
+
+^<<v6-19-16,16>>^ Tal foi a parte de Zabulon, segundo suas famílias, e tais são suas cidades e suas aldeias.
+
+[[v6-19-17]]
+
+^<<v6-19-17,17>>^ A quarta sorte coube a Issacar, aos filhos de Issacar segundo suas famílias. Sua fronteira era Jezrael, Casalot, Suném, Hafaraim, Seon, Anaarat, Daberat, Cesion, Abes, Ramet, En-Ganim, En-Hada e Bet-Fases. A fronteira tocava em Tabor, Seesima e Bet-Sames, indo terminar no Jordão: dezesseis cidades com suas aldeias. Tal foi a parte da tribo dos filhos de Issacar segundo suas famílias, e tais são suas cidades e suas aldeias.
+
+[[v6-19-18]]
+
+^<<v6-19-18,18>>^ []
+
+[[v6-19-19]]
+
+^<<v6-19-19,19>>^ []
+
+[[v6-19-20]]
+
+^<<v6-19-20,20>>^ []
+
+[[v6-19-21]]
+
+^<<v6-19-21,21>>^ []
+
+[[v6-19-22]]
+
+^<<v6-19-22,22>>^ []
+
+[[v6-19-23]]
+
+^<<v6-19-23,23>>^ []
+
+[[v6-19-24]]
+
+^<<v6-19-24,24>>^ A quinta sorte coube à tribo dos filhos de Aser, segundo suas famílias.
+
+[[v6-19-25]]
+
+^<<v6-19-25,25>>^ Sua fronteira era Halcat, Cali, Beten, Acsaf,
+
+[[v6-19-26]]
+
+^<<v6-19-26,26>>^ Elmelec, Amaad e Messal; chegava pelo ocidente até o Carmelo e até o rio Labanat.
+
+[[v6-19-27]]
+
+^<<v6-19-27,27>>^ Voltava em seguida pelo oriente para Bet-Dagon, tocava em Zabulon e no vale de Jeftael, ao norte de Bet-Emec e de Neiel, e estendia-se pela esquerda até Cabul,
+
+[[v6-19-28]]
+
+^<<v6-19-28,28>>^ Abdon, Roob, Hamon e Caná, até Sidônia, a Grande.
+
+[[v6-19-29]]
+
+^<<v6-19-29,29>>^ Voltava depois para Ramá até a fortaleza de Tiro, e ia para Hosa, terminando no mar, pelo distrito de Aczib.
+
+[[v6-19-30]]
+
+^<<v6-19-30,30>>^ Havia, além disso, Aco, Afec e Roob: vinte e duas cidades com suas aldeias.
+
+[[v6-19-31]]
+
+^<<v6-19-31,31>>^ Essa foi a parte da tribo dos filhos de Aser, segundo suas famílias, e tais são suas cidades e suas aldeias.
+
+[[v6-19-32]]
+
+^<<v6-19-32,32>>^ A sexta sorte caiu aos filhos de Neftali, segundo suas famílias.
+
+[[v6-19-33]]
+
+^<<v6-19-33,33>>^ Sua fronteira partia de Helef, desde o carvalhal de Saananim, indo para Adami-Neceb e Jabneel, até Lecum, terminando no Jordão.
+
+[[v6-19-34]]
+
+^<<v6-19-34,34>>^ Voltava depois pelo ocidente até Aznot-Tabor e atingia Hucoca. Ao sul, tocava em Zabulon, ao ocidente em Aser, ao oriente em Judá, perto do Jordão.
+
+[[v6-19-35]]
+
+^<<v6-19-35,35>>^ Suas fortalezas eram: Assedim, Ser, Emat, Recat, Genesaré,
+
+[[v6-19-36]]
+
+^<<v6-19-36,36>>^ Edema, Arama, Asor,
+
+[[v6-19-37]]
+
+^<<v6-19-37,37>>^ Cedes, Edrai, En-Hasor,
+
+[[v6-19-38]]
+
+^<<v6-19-38,38>>^ Jeron, Magdalel, Horém, Bet-Anat e Bet-Sames: dezenove cidades com suas aldeias.
+
+[[v6-19-39]]
+
+^<<v6-19-39,39>>^ Essa foi a parte da tribo dos filhos de Neftali, segundo suas famílias e tais são suas cidades e suas aldeias.
+
+[[v6-19-40]]
+
+^<<v6-19-40,40>>^ A sétima sorte caiu à tribo dos filhos de Dã, segundo suas famílias.
+
+[[v6-19-41]]
+
+^<<v6-19-41,41>>^ Sua fronteira compreendia Saraá, Estaol, Ir-Sames,
+
+[[v6-19-42]]
+
+^<<v6-19-42,42>>^ Salebim, Aialon, Jetela,
+
+[[v6-19-43]]
+
+^<<v6-19-43,43>>^ Elon, Tamna, Acaron,
+
+[[v6-19-44]]
+
+^<<v6-19-44,44>>^ Eltece, Gebeton, Baalat,
+
+[[v6-19-45]]
+
+^<<v6-19-45,45>>^ Jud, Benê-Barac, Gat-Remon,
+
+[[v6-19-46]]
+
+^<<v6-19-46,46>>^ as águas do Jarcon e do Racon, com a terra fronteira a Jope.
+
+[[v6-19-47]]
+
+^<<v6-19-47,47>>^ O território dos danitas estendia-se para além dos seus limites, porque, tendo combatido Lesem, tomaram-na e passaram-na a fio de espada. Entrando em sua posse, habitaram-na e deram-lhe o nome de Dã, seu pai.
+
+[[v6-19-48]]
+
+^<<v6-19-48,48>>^ Tal foi a parte da tribo dos filhos de Dã, segundo suas famílias, e tais são suas cidades e suas aldeias.
+
+[[v6-19-49]]
+
+^<<v6-19-49,49>>^ Acabada a repartição da terra segundo seus limites, os israelitas deram a Josué, filho de Nun, uma parte no meio deles.
+
+[[v6-19-50]]
+
+^<<v6-19-50,50>>^ Por ordem do Senhor, deram-lhe a cidade que ele pediu, Tamnat-Saraa, na montanha de Efraim. Josué reedificou a cidade e habitou nela.
+
+[[v6-19-51]]
+
+^<<v6-19-51,51>>^ Essas são as partes que o sacerdote Eleazar e Josué, filho de Nun, junto com os chefes de família das tribos dos israelitas repartiram por sorte em Silo, diante do Senhor, à entrada da tenda de reunião. E assim acabaram a divisão da terra.
+
+'''
+
+xref:006-josue/006-josue-018.adoc#v6-18-0[&#60; Capítulo Anterior] | <<v6-19-0,Topo>> | xref:006-josue/006-josue-020.adoc#v6-20-0[Próximo Capítulo &#62;]

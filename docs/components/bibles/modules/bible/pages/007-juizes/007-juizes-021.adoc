@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v7-21-0]]
+=== Juízes, 21
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 21 do livro de Juízes narra o desfecho de uma guerra entre os israelitas e a tribo de Benjamim, que resultou na quase extinção desta última. Diante da situação, os israelitas buscam uma forma de garantir a continuidade da tribo de Benjamim sem desrespeitar a lei de Deus, que proibia o casamento entre israelitas e benjamitas. Nesse contexto, são tomadas decisões controversas que envolvem sequestro de mulheres e violação da lei de herança. Abaixo seguem cinco versículos relacionados com os temas abordados em Juízes 21:
+* Deuteronômio 25:5: "Se irmãos viverem juntos, e um deles morrer, e não tiver filho, a mulher do falecido não se casará com homem estranho; seu cunhado se unirá a ela, a tomará por mulher e cumprirá, assim, o dever de cunhado." Esse versículo menciona a lei de casamento levirato, que estabelecia que um homem deveria casar-se com a viúva de seu irmão falecido caso este não tivesse deixado filhos homens. Essa lei é citada no capítulo 21 de Juízes como uma possível solução para o problema da falta de mulheres disponíveis para casamento entre os benjamitas.
+* Juízes 21:1: "Os homens de Israel tinham jurado em Mispá, dizendo: 'Nenhum de nós dará a sua filha por mulher a um benjamita'." Esse verso ilustra a restrição que os israelitas haviam imposto a si mesmos quanto ao casamento com os benjamitas.
+* Levítico 18:16: "Não desonres teu irmão, tendo relações com a mulher dele." Esse versículo se refere à lei que proibia o adultério e a violação da relação matrimonial de outro homem. No capítulo 21 de Juízes, essa lei é violada quando as mulheres de Jabes-Gileade são sequestradas para serem esposas dos benjamitas sobreviventes.
+* Deuteronômio 24:16: "Os pais não serão mortos por causa dos filhos, nem os filhos por causa dos pais; cada um será morto pelo seu próprio pecado." Esse versículo destaca o princípio de justiça individual, segundo o qual cada pessoa deve responder por seus próprios atos. No capítulo 21 de Juízes, esse princípio é violado quando os israelitas decidem matar os habitantes de Jabes-Gileade, que não haviam participado da guerra contra Benjamim, para fornecer esposas aos benjamitas sobreviventes.
+* Juízes 21:25: "Naqueles dias, não havia rei em Israel; cada um fazia o que achava mais reto." Esse verso é uma repetição do refrão que aparece várias vezes no livro de Juízes e resume a situação de anarquia e falta de liderança que caracterizou esse período da história de Israel. O capítulo 21 de Juízes é mais um exemplo do caos e da violência que decorriam da falta de uma autoridade centralizada.
+****
+
+[[v7-21-1]]
+
+^<<v7-21-1,1>>^ Os filhos de Israel tinham jurado em Masfa, dizendo: “Ninguém dentre nós dará sua filha em casamento a um benjaminita”.
+
+[[v7-21-2]]
+
+^<<v7-21-2,2>>^ Dirigiu-se o povo a Betel, onde ficou até a tarde, em presença do Senhor, levantando grande clamor a voz com grandes lamentações:
+
+[[v7-21-3]]
+
+^<<v7-21-3,3>>^ “Por que – diziam eles –, ó Senhor Deus de Israel, aconteceu essa desgraça que nos falte hoje uma tribo de Israel?”.
+
+[[v7-21-4]]
+
+^<<v7-21-4,4>>^ No dia seguinte pela manhã, o povo levantou naquele lugar um altar, sobre o qual ofereceu holocaustos e sacrifícios pacíficos.
+
+[[v7-21-5]]
+
+^<<v7-21-5,5>>^ E disseram: “Haverá alguém dentre todas as tribos de Israel que não tenha comparecido à assembleia em presença do Eterno?”. Com efeito, fora pronunciado o seguinte juramento solene contra aquele que não subisse a Masfa, diante do Senhor: “Será punido de morte”.
+
+[[v7-21-6]]
+
+^<<v7-21-6,6>>^ Os filhos de Israel tiveram pena de Benjamim, seu irmão: “Assim – diziam eles – “foi hoje uma tribo cortada de Israel?
+
+[[v7-21-7]]
+
+^<<v7-21-7,7>>^ Onde vamos buscar mulheres para os que restam, pois que juramos pelo Senhor não lhes dar nossas filhas em casamento?”.
+
+[[v7-21-8]]
+
+^<<v7-21-8,8>>^ Por isso, perguntavam se não havia alguma tribo de Israel que não tivesse subido para o Senhor, em Masfa. Ora, ninguém de Jabes em Galaad tinha vindo ao acampamento ou comparecido à assembleia.
+
+[[v7-21-9]]
+
+^<<v7-21-9,9>>^ Fez-se o recenseamento do povo e não se encontrou, com efeito, homem algum de Jabes em Galaad.
+
+[[v7-21-10]]
+
+^<<v7-21-10,10>>^ Então, a assembleia enviou para lá doze mil guerreiros valentes com a ordem seguinte: “Ide e passai a fio de espada todos os habitantes de Jabes em Galaad com as mulheres e as crianças.
+
+[[v7-21-11]]
+
+^<<v7-21-11,11>>^ Eis como deveis fazer: votareis ao interdito todo homem, bem como toda mulher que se houver deitado com homem”.
+
+[[v7-21-12]]
+
+^<<v7-21-12,12>>^ Encontraram entre os habitantes de Jabes em Galaad quatrocentas moças virgens, que não tinham conhecido varão e as levaram ao acampamento de Silo, na terra de Canaã.
+
+[[v7-21-13]]
+
+^<<v7-21-13,13>>^ Toda a assembleia enviou mensagens de paz aos benjaminitas que tinham se refugiado no rochedo de Remon.
+
+[[v7-21-14]]
+
+^<<v7-21-14,14>>^ Voltaram eles para as suas casas e foram-lhes dadas por mulheres as filhas de Jabes em Galaad que tinham sido poupadas. Mas isso não lhes foi suficiente chegaram para todos.
+
+[[v7-21-15]]
+
+^<<v7-21-15,15>>^ O povo teve pena de Benjamim, porque o Senhor tinha feito uma brecha nas tribos de Israel.
+
+[[v7-21-16]]
+
+^<<v7-21-16,16>>^ Os anciãos da assembleia disseram: “Que faremos para dar mulheres aos que restam. Pois todas as mulheres de Benjamim foram exterminadas”.
+
+[[v7-21-17]]
+
+^<<v7-21-17,17>>^ E acrescentaram: “Fique para Benjamim a herança dos que sobreviveram, para que não seja cortada uma tribo de Israel.
+
+[[v7-21-18]]
+
+^<<v7-21-18,18>>^ Mas, não podemos dar-lhes nossas filhas em casamento, pois os filhos de Israel lançaram a maldição a todo aquele que desse a sua filha por mulher a um benjaminita”.
+
+[[v7-21-19]]
+
+^<<v7-21-19,19>>^ E disseram: “Eis que se celebra a festa anual do Senhor em Silo” (Silo está situada ao norte de Betel, ao oriente do caminho que vai de Betel a Siquém e ao sul de Lebona).
+
+[[v7-21-20]]
+
+^<<v7-21-20,20>>^ Depois deram este conselho aos filhos de Benjamim: “Ide e escondei-vos nas vinhas.
+
+[[v7-21-21]]
+
+^<<v7-21-21,21>>^ Quando virdes as filhas de Silo saírem para dançar em coro, saí de repente das vinhas e cada um tome uma para mulher entre as filhas de Silo. Em seguida, voltai para a terra de Benjamim.
+
+[[v7-21-22]]
+
+^<<v7-21-22,22>>^ Quando seus pais ou seus irmãos vierem queixar-se junto de nós, lhes diremos: ‘Deixai-as vir conosco, pois durante a guerra não pudemos tomar uma mulher para cada um. Aliás, não sois vós quem lhas destes e nem tendes culpa nisso’.”
+
+[[v7-21-23]]
+
+^<<v7-21-23,23>>^ Assim fizeram os benjaminitas: tomaram entre as dançarinas mulheres segundo o seu número; tomaram-nas e voltaram para a sua casa. Depois construíram cidades e habitaram nelas.
+
+[[v7-21-24]]
+
+^<<v7-21-24,24>>^ Voltaram também os israelitas, cada um para a sua tribo e sua família e para a terra de sua herança.
+
+[[v7-21-25]]
+
+^<<v7-21-25,25>>^ Naquele tempo, não havia rei em Israel e cada um fazia o que lhe parecia melhor.
+
+'''
+
+xref:007-juizes/007-juizes-020.adoc#v7-20-0[&#60; Capítulo Anterior] | <<v7-21-0,Topo>> | xref:008-rute/008-rute-001.adoc#v8-1-0[Próximo Capítulo &#62;]

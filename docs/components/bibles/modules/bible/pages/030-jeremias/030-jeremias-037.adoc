@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v30-37-0]]
+=== Jeremias, 37
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 37 narra a história de como o rei Zedequias enviou dois homens para consultar o profeta Jeremias sobre a possibilidade de a nação ser libertada do jugo babilônico. No entanto, quando Jeremias lhes disse a verdade, que eles deveriam se render ao rei da Babilônia, eles foram presos e Jeremias foi jogado em um poço. Abaixo estão cinco versículos relacionados com os temas abordados em Jeremias 37.
+* 2 Reis 25:4: "Então a cidade foi invadida, e todos os homens de guerra fugiram durante a noite pelo caminho da porta entre as duas muralhas perto do jardim do rei, embora os babilônios estivessem cercando a cidade. Eles foram em direção ao árabe." Este verso retrata a queda de Jerusalém nas mãos dos babilônios e como as pessoas tentaram fugir da cidade. Isso se relaciona com Jeremias 37, já que o povo e o rei de Judá estavam esperando por libertação, mas no final a cidade foi conquistada pelos babilônios.
+* Salmo 146:3-4: "Não confiem em príncipes, em meros mortais, incapazes de salvar. Quando seu espírito parte, eles voltam ao pó; nesse mesmo dia seus planos se acabam." Este salmo enfatiza que não devemos confiar em líderes humanos, pois eles são incapazes de nos salvar. Isso se relaciona com Jeremias 37, já que o rei Zedequias estava procurando uma solução humana para a libertação da nação, mas Jeremias lhe disse que ele deveria se render ao rei da Babilônia.
+* Isaías 55:8-9: "Porque os meus pensamentos não são os seus pensamentos, nem os seus caminhos são os meus caminhos", declara o Senhor. "Assim como os céus são mais altos do que a terra, também os meus caminhos são mais altos do que os seus caminhos e os meus pensamentos mais altos do que os seus pensamentos." Este verso enfatiza que Deus tem planos e pensamentos que são diferentes dos nossos, e que esses planos são maiores e melhores do que os nossos. Isso se relaciona com Jeremias 37, já que o povo e o rei de Judá estavam confiando em sua própria sabedoria e força para se libertarem do jugo babilônico, em vez de confiar em Deus e seguir a orientação de Jeremias.
+* Provérbios 21:30: "Não há sabedoria alguma, nem discernimento algum, nem plano algum que possa opor-se ao Senhor." Este verso enfatiza que nada pode se opor a Deus e que Ele tem o controle de todas as coisas. Isso se relaciona com Jeremias 37, já que o povo e o rei de Judá estavam lutando contra o domínio babilônico, mas Deus havia permitido que isso acontecesse como um julgamento por causa de sua desobediência.
+* 2 Crônicas 36:15-16: "O Senhor, o Deus dos seus antepassados, falou-lhes repetidamente por intermédio dos seus mensageiros, porque tinha compaixão do seu povo e da sua habitação. Mas eles zombaram dos mensageiros de Deus, desprezaram as suas palavras e zombaram dos seus profetas, até que a ira do Senhor se levantou contra o seu povo, e não houve mais remédio." Este verso enfatiza a importância de ouvir a voz de Deus e obedecer aos seus mensageiros, para evitar a ira divina. Isso se relaciona com Jeremias 37, já que o povo e o rei de Judá não estavam ouvindo as palavras de Jeremias, que era o mensageiro de Deus para eles naquele momento, e isso resultou em sua captura e na queda de Jerusalém.
+****
+
+[[v30-37-1]]
+
+^<<v30-37-1,1>>^ O rei Sedecias, filho de Josias, sucedeu a Jeconias, filho de Joaquin, tendo sido proclamado rei da terra de Judá por Nabucodonosor, rei da Babilônia.
+
+[[v30-37-2]]
+
+^<<v30-37-2,2>>^ Nem ele, porém, nem seus súditos e a população da terra escutaram os oráculos que lhes transmitia o Senhor, por intermédio do profeta Jeremias.
+
+[[v30-37-3]]
+
+^<<v30-37-3,3>>^ O rei Sedecias enviou, entretanto, Jucal, filho de Semeías, e o sacerdote Sofonias, filho de Maasias, ao profeta Jeremias, a fim de lhe dizer: “Intercede por nós junto ao Senhor, nosso Deus”.
+
+[[v30-37-4]]
+
+^<<v30-37-4,4>>^ Jeremias, que ainda não havia sido aprisionado, andava entre o povo.
+
+[[v30-37-5]]
+
+^<<v30-37-5,5>>^ Partira então do Egito o exército do faraó. Ao receberem tal notícia, os caldeus, que sitiavam Jerusalém, abandonaram a cidade.
+
+[[v30-37-6]]
+
+^<<v30-37-6,6>>^ Nestes termos foi a palavra do Senhor dirigida ao profeta Jeremias: “Eis o que diz o Senhor, Deus de Israel:
+
+[[v30-37-7]]
+
+^<<v30-37-7,7>>^ Assim falarás ao rei de Judá que te envia seus delegados para interrogar-me: O exército do faraó que saiu para vos dar socorro vai regressar ao Egito.
+
+[[v30-37-8]]
+
+^<<v30-37-8,8>>^ Voltarão os caldeus a sitiar a cidade, eles a tomarão de assalto e a entregarão às chamas.
+
+[[v30-37-9]]
+
+^<<v30-37-9,9>>^ Oráculo do Senhor: Não queirais enganar-vos, julgando que os caldeus se irão definitivamente. Eles não irão embora.
+
+[[v30-37-10]]
+
+^<<v30-37-10,10>>^ Ainda que derrotásseis todo o exército dos caldeus que combate contra vós, e que dele só restassem feridos sob as tendas, cada um deles ainda se levantaria para incendiar a cidade”.
+
+[[v30-37-11]]
+
+^<<v30-37-11,11>>^ Quando as tropas dos caldeus se afastaram de Jerusalém, ante a aproximação do exército do faraó,
+
+[[v30-37-12]]
+
+^<<v30-37-12,12>>^ quis Jeremias sair da cidade para dirigir-se à terra de Benjamim, a fim de lá se reabastecer com o resto do povo.
+
+[[v30-37-13]]
+
+^<<v30-37-13,13>>^ Encontrava-se porém um guarda às portas de Benjamim, chamado Jerias, filho de Semeías, filho de Hananias, o qual, ao chegar o profeta, deteve-o, dizendo: “Tu foges para os caldeus”.^&#42;1^
+
+[[v30-37-14]]
+
+^<<v30-37-14,14>>^ “É falso!” – retorquiu o profeta. – “Eu não passo para os caldeus –.” Não quis porém Jerias ouvi-lo; prendeu-o e levou-o à presença dos chefes.
+
+[[v30-37-15]]
+
+^<<v30-37-15,15>>^ E estes, enfurecendo-se contra Jeremias, açoitaram-no e prenderam-no na casa do escriba Jônatas, transformada em prisão.
+
+[[v30-37-16]]
+
+^<<v30-37-16,16>>^ Foi então o profeta atirado em um calabouço, onde permaneceu vários dias.
+
+[[v30-37-17]]
+
+^<<v30-37-17,17>>^ O rei Sedecias, porém, mandou-o buscar, a fim de interrogá-lo secretamente em seu palácio. “Tens, porventura” – perguntou-lhe – “algum oráculo do Senhor?” “Sim” – respondeu-lhe Jeremias –. “Serás entregue nas mãos do rei da Babilônia.”
+
+[[v30-37-18]]
+
+^<<v30-37-18,18>>^ E acrescentou ao rei Sedecias: “Em que te ofendi, a ti, aos teus servos e a teu povo, para que me lançasses na prisão?
+
+[[v30-37-19]]
+
+^<<v30-37-19,19>>^ Onde estão os profetas que vos prediziam não dever mais voltar o rei da Babilônia contra vós e contra a terra?
+
+[[v30-37-20]]
+
+^<<v30-37-20,20>>^ Escuta-me, agora, ó meu rei, e digna-te acolher minha súplica: Não permitas que seja eu reconduzido à casa do escriba Jônatas, para que eu não morra lá”.
+
+[[v30-37-21]]
+
+^<<v30-37-21,21>>^ Ordenou então o rei Sedecias que Jeremias fosse retido no pátio do cárcere e que lhe dessem todos os dias uma torta de pão, da rua dos Padeiros, enquanto na cidade houvesse pão. E assim permaneceu Jeremias no pátio do cárcere.
+
+'''
+
+xref:030-jeremias/030-jeremias-036.adoc#v30-36-0[&#60; Capítulo Anterior] | <<v30-37-0,Topo>> | xref:030-jeremias/030-jeremias-038.adoc#v30-38-0[Próximo Capítulo &#62;]

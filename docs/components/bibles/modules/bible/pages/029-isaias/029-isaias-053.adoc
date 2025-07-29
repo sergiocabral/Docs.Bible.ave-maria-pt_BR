@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v29-53-0]]
+=== Isaías, 53
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 53 é um dos capítulos mais importantes da Bíblia, pois descreve detalhadamente o sofrimento e morte do Servo Sofredor, que é identificado como o Messias. Os versículos a seguir estão relacionados com os temas abordados em Isaías 53:
+* Salmos 22:16: "Pois cães me cercam; um ajuntamento de malfeitores me rodeia; traspassaram-me as mãos e os pés." Este versículo profético descreve a crucificação de Jesus, que foi pregado na cruz pelos seus pulsos e pés.
+* Mateus 8:17: "para que se cumprisse o que fora dito pelo profeta Isaías: Ele tomou sobre si as nossas enfermidades e carregou as nossas doenças." Este versículo cita Isaías 53:4, que fala sobre como o Servo Sofredor carregou nossas dores e enfermidades.
+* Romanos 5:8: "Mas Deus prova o seu próprio amor para conosco pelo fato de ter Cristo morrido por nós, sendo nós ainda pecadores." Este versículo destaca o amor de Deus por nós, demonstrado através da morte sacrificial de Jesus na cruz.
+* 1 Pedro 2:24: "levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, vivamos para a justiça; por suas feridas fostes sarados." Este versículo destaca como o sacrifício de Jesus na cruz foi para nos libertar do pecado e nos trazer cura espiritual.
+* Hebreus 9:28: "assim também Cristo, oferecendo-se uma vez para sempre para tirar os pecados de muitos, aparecerá segunda vez, sem pecado, aos que o aguardam para a salvação." Este versículo destaca como o sacrifício de Jesus foi suficiente para nos salvar e como sua segunda vinda está relacionada com a salvação eterna.
+****
+
+[[v29-53-1]]
+
+^<<v29-53-1,1>>^ Quem poderia acreditar nisso que ouvimos? A quem foi revelado o braço do Senhor?^&#42;1^
+
+[[v29-53-2]]
+
+^<<v29-53-2,2>>^ Cresceu diante dele como um pobre rebento enraizado numa terra árida; não tinha graça nem beleza para atrair nossos olhares, e seu aspecto não podia seduzir-nos.
+
+[[v29-53-3]]
+
+^<<v29-53-3,3>>^ Era desprezado, era a escória da humanidade, homem das dores, experimentado nos sofrimentos; como aqueles, diante dos quais se cobre o rosto, era amaldiçoado e não fazíamos caso dele.^&#42;1^
+
+[[v29-53-4]]
+
+^<<v29-53-4,4>>^ Em verdade, ele tomou sobre si nossas enfermidades, e carregou os nossos sofrimentos: e nós o reputávamos como um castigado, ferido por Deus e humilhado.
+
+[[v29-53-5]]
+
+^<<v29-53-5,5>>^ Mas ele foi castigado por nossos crimes, e esmagado por nossas iniquidades; o castigo que nos salva pesou sobre ele; fomos curados graças às suas chagas.^&#42;1^
+
+[[v29-53-6]]
+
+^<<v29-53-6,6>>^ Todos nós andávamos desgarrados como ovelhas, seguíamos cada qual nosso caminho; o Senhor fazia recair sobre ele o castigo das faltas de todos nós.
+
+[[v29-53-7]]
+
+^<<v29-53-7,7>>^ Foi maltratado e resignou-se; não abriu a boca, como um cordeiro que se conduz ao matadouro, e uma ovelha muda nas mãos do tosquiador. Ele não abriu a boca.^&#42;1^
+
+[[v29-53-8]]
+
+^<<v29-53-8,8>>^ Por um iníquo julgamento foi arrebatado. Quem pensou em defender sua causa, quando foi suprimido da terra dos vivos, morto pelo pecado de meu povo?^&#42;1^
+
+[[v29-53-9]]
+
+^<<v29-53-9,9>>^ Foi-lhe dada sepultura ao lado de facínoras e ao morrer achava-se entre malfeitores, se bem que não haja cometido injustiça alguma, e em sua boca nunca tenha havido mentira.^&#42;1^
+
+[[v29-53-10]]
+
+^<<v29-53-10,10>>^ Mas aprouve ao Senhor esmagá-lo pelo sofrimento; se ele oferecer sua vida em sacrifício expiatório, terá uma posteridade duradoura, prolongará seus dias, e a vontade do Senhor será por ele realizada.^&#42;1^
+
+[[v29-53-11]]
+
+^<<v29-53-11,11>>^ Após suportar em sua pessoa os tormentos, ele se alegrará de conhecê-lo até o enlevo. O Justo, meu Servo, justificará muitos homens, e tomará sobre si suas iniquidades.
+
+[[v29-53-12]]
+
+^<<v29-53-12,12>>^ Eis por que lhe darei parte com os grandes, e ele dividirá a presa com os poderosos: porque ele próprio deu sua vida, e deixou-se colocar entre os criminosos, tomando sobre si os pecados de muitos homens, e intercedendo pelos culpados.^&#42;1^
+
+'''
+
+xref:029-isaias/029-isaias-052.adoc#v29-52-0[&#60; Capítulo Anterior] | <<v29-53-0,Topo>> | xref:029-isaias/029-isaias-054.adoc#v29-54-0[Próximo Capítulo &#62;]

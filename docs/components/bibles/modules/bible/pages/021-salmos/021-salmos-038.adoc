@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v21-38-0]]
+=== Salmos, 38
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 38 é uma oração de arrependimento e súplica por misericórdia, onde o salmista reconhece sua culpa e clama por ajuda de Deus em meio ao sofrimento. Os versículos selecionados estão relacionados com temas como dor, aflição, arrependimento e confiança em Deus.
+* Salmos 6:2: "Tem misericórdia de mim, Senhor, porque eu me sinto fraco; sara-me, Senhor, porque os meus ossos estão abalados." Assim como o salmista em Salmo 38, o salmista em Salmo 6 clama por misericórdia e cura para sua dor e sofrimento.
+* Salmos 25:18: "Olha para a minha aflição e para o meu sofrimento, e perdoa todos os meus pecados." Este verso mostra a humildade do salmista em reconhecer sua culpa e pedir perdão, um tema também presente em Salmo 38.
+* Salmos 51:10: "Cria em mim, ó Deus, um coração puro e renova dentro de mim um espírito inabalável." Este verso é uma oração de arrependimento e desejo de purificação do coração, relacionado com o tema de arrependimento e confissão de pecados presente em Salmo 38.
+* Salmos 116:1-2: "Amo o Senhor, porque ele ouve a minha voz e as minhas súplicas. Porque ele inclina os seus ouvidos para mim, portanto, durante toda a minha vida eu o invocarei." Este verso mostra a confiança e fé do salmista em Deus, um tema presente em Salmo 38 quando o salmista clama por ajuda e libertação do sofrimento.
+* Salmos 147:3: "Ele cura os de coração quebrantado e cuida das suas feridas." Este verso mostra a compaixão e cuidado de Deus por aqueles que sofrem, um tema presente em Salmo 38 onde o salmista clama por cura e libertação de sua dor e sofrimento.
+****
+
+[[v21-38-1]]
+
+^<<v21-38-1,1>>^ Ao mestre de canto, a Iditun. Salmo de Davi.^&#42;1^
+
+[[v21-38-2]]
+
+^<<v21-38-2,2>>^ Disse comigo mesmo: “Velarei sobre os meus atos, para não mais pecar com a língua. Porei um freio em meus lábios, enquanto o ímpio estiver diante de mim”.
+
+[[v21-38-3]]
+
+^<<v21-38-3,3>>^ Fiquei mudo, mas sem resultado, porque minha dor recrudesceu.
+
+[[v21-38-4]]
+
+^<<v21-38-4,4>>^ Meu coração se abrasava dentro de mim, meu pensamento se acendia como um fogo. Então, eu me pus a falar:
+
+[[v21-38-5]]
+
+^<<v21-38-5,5>>^ “Fazei-me conhecer, Senhor, o meu fim, e o número de meus dias, para que eu veja como sou efêmero.
+
+[[v21-38-6]]
+
+^<<v21-38-6,6>>^ A largura da mão: eis a medida de meus dias, diante de vós minha vida é como um nada; todo homem não é mais que um sopro”.
+
+[[v21-38-7]]
+
+^<<v21-38-7,7>>^ De fato, o homem passa como uma sombra, é em vão que ele se agita; amontoa, sem saber quem recolherá.
+
+[[v21-38-8]]
+
+^<<v21-38-8,8>>^ E agora, Senhor, que posso esperar? Minha confiança está em vós.
+
+[[v21-38-9]]
+
+^<<v21-38-9,9>>^ Livrai-me de todas as faltas, não me abandoneis ao riso dos insensatos.
+
+[[v21-38-10]]
+
+^<<v21-38-10,10>>^ Calei-me, já não abro a boca, porque sois vós que operais.
+
+[[v21-38-11]]
+
+^<<v21-38-11,11>>^ Afastai de mim esse flagelo, pois sucumbo ao rigor de vossa mão.
+
+[[v21-38-12]]
+
+^<<v21-38-12,12>>^ Quando punis o homem, fazendo-lhe sentir a sua culpa, consumis, como o faria a traça, o que ele tem de mais caro. Verdadeiramente, apenas um sopro é o homem.
+
+[[v21-38-13]]
+
+^<<v21-38-13,13>>^ Ouvi, Senhor, a minha oração, escutai os meus clamores, não fiqueis insensível às minhas lágrimas. Diante de vós não sou mais que um viajor, um peregrino, como foram os meus pais.
+
+[[v21-38-14]]
+
+^<<v21-38-14,14>>^ Afastai de mim a vossa ira para que eu tome alento, antes que me vá para não mais voltar.^&#42;1^
+
+'''
+
+xref:021-salmos/021-salmos-037.adoc#v21-37-0[&#60; Capítulo Anterior] | <<v21-38-0,Topo>> | xref:021-salmos/021-salmos-039.adoc#v21-39-0[Próximo Capítulo &#62;]

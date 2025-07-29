@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v21-94-0]]
+=== Salmos, 94
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 94 é uma oração de lamento em que o salmista clama a Deus por justiça diante da opressão e injustiça dos ímpios. Ele se questiona por que Deus parece não intervir e pede que Ele julgue os opressores e retribua a eles de acordo com suas obras. Abaixo estão cinco versículos relacionados com os temas abordados no Salmo 94:
+* Provérbios 24:17-18: "Não se alegre quando o seu inimigo cair, nem exulte o seu coração quando ele tropeçar; para que o Senhor não o veja e isso lhe desagrade, e desvie dele a sua ira". Este versículo mostra a importância de não desejar o mal do nosso inimigo, mesmo que ele nos oprime. Devemos confiar em Deus para fazer justiça.
+* Romanos 12:19: "Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: "Minha é a vingança; eu retribuirei", diz o Senhor". O salmista clama por vingança, mas a Bíblia nos ensina a confiar em Deus para fazer justiça em vez de buscá-la por nós mesmos.
+* Hebreus 10:30: "Pois conhecemos aquele que disse: "Minha é a vingança; eu retribuirei", e outra vez: "O Senhor julgará o seu povo"." Assim como o salmista, os cristãos podem confiar que Deus julgará os opressores e fará justiça em seu tempo.
+* 1 Pedro 5:7: "Lancem sobre ele toda a sua ansiedade, porque ele tem cuidado de vocês". O salmista expressa sua ansiedade e preocupação com a opressão dos ímpios, mas a Bíblia nos ensina a lançar todas as nossas ansiedades sobre Deus, porque Ele cuida de nós.
+* Apocalipse 6:10: "E clamavam em alta voz: "Até quando, Soberano Senhor, santo e verdadeiro, esperarás para julgar os habitantes da terra e vingar o nosso sangue?"" Este versículo fala de mártires que clamam por justiça e vingança, assim como o salmista. Mas assim como eles, devemos confiar que Deus fará justiça no tempo certo.
+****
+
+[[v21-94-1]]
+
+^<<v21-94-1,1>>^ Vinde, manifestemos nossa alegria ao Senhor, aclamemos o rochedo de nossa salvação;^&#42;1^
+
+[[v21-94-2]]
+
+^<<v21-94-2,2>>^ apresentemo-nos diante dele com louvores, e cantemos-lhe alegres cânticos,
+
+[[v21-94-3]]
+
+^<<v21-94-3,3>>^ porque o Senhor é um Deus imenso, um rei que ultrapassa todos os deuses;
+
+[[v21-94-4]]
+
+^<<v21-94-4,4>>^ nas suas mãos estão as profundezas da terra, e os cumes das montanhas lhe pertencem.
+
+[[v21-94-5]]
+
+^<<v21-94-5,5>>^ Dele é o mar, ele o criou, assim como a terra firme, obra de suas mãos.
+
+[[v21-94-6]]
+
+^<<v21-94-6,6>>^ Vinde, inclinemo-nos em adoração, de joelhos diante do Senhor que nos criou.
+
+[[v21-94-7]]
+
+^<<v21-94-7,7>>^ Ele é nosso Deus; nós somos o povo de que ele é o pastor, as ovelhas que as suas mãos conduzem. Oxalá ouvísseis hoje a sua voz:^&#42;1^
+
+[[v21-94-8]]
+
+^<<v21-94-8,8>>^ “Não vos torneis endurecidos como em Meriba, como no dia de Massa no deserto,^&#42;1^
+
+[[v21-94-9]]
+
+^<<v21-94-9,9>>^ onde vossos pais me provocaram e me tentaram, apesar de terem visto as minhas obras.
+
+[[v21-94-10]]
+
+^<<v21-94-10,10>>^ Durante quarenta anos desgostou-me aquela geração, e eu disse: “É um povo de coração desviado, que não conhece os meus desígnios.
+
+[[v21-94-11]]
+
+^<<v21-94-11,11>>^ Por isso, jurei na minha cólera: Não hão de entrar no lugar do meu repouso”.
+
+'''
+
+xref:021-salmos/021-salmos-093.adoc#v21-93-0[&#60; Capítulo Anterior] | <<v21-94-0,Topo>> | xref:021-salmos/021-salmos-095.adoc#v21-95-0[Próximo Capítulo &#62;]

@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v56-5-0]]
+=== Efésios, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 5 de Efésios trata sobre a conduta cristã em relação ao amor, pureza e submissão. Paulo enfatiza a importância de seguir o exemplo de Cristo e ser cheios do Espírito Santo, evitando a imoralidade sexual, as palavras corrompidas e as atitudes impuras. Além disso, ele instrui sobre o papel do marido e da esposa no casamento e exorta os cristãos a viverem em harmonia e unidade como membros do corpo de Cristo. A seguir, são apresentados cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Efésios 5.
+* Provérbios 10:19: "No muito falar não falta transgressão, mas o que modera os lábios é prudente." Este versículo enfatiza a importância da moderação nas palavras, algo que Paulo também aborda em Efésios 5:4. Ele alerta os cristãos para que não falem palavras corrompidas, obscenas ou tolas, mas sim para que falem aquilo que é bom e edificante para os outros.
+* Colossenses 3:18: "Vós, mulheres, sujeitai-vos a vossos maridos, como convém no Senhor." Assim como em Efésios 5, Paulo instrui as mulheres a se submeterem a seus maridos de forma amorosa e voluntária. Ele ressalta que esta submissão é uma forma de honrar a Cristo e contribuir para a unidade no casamento.
+* 1 Pedro 3:7: "Igualmente vós, maridos, coabitai com elas com entendimento, dando honra à mulher, como vaso mais fraco; como sendo vós os seus coerdeiros da graça da vida; para que não sejam impedidas as vossas orações." Pedro também instrui os maridos a serem amorosos e respeitosos com suas esposas, algo que Paulo aborda em Efésios 5:25-33.
+* 1 Tessalonicenses 5:23: "E o mesmo Deus de paz vos santifique em tudo; e todo o vosso espírito, e alma, e corpo sejam plenamente conservados irrepreensíveis para a vinda de nosso Senhor Jesus Cristo." Este versículo destaca a importância da santificação e da pureza, temas que Paulo também enfatiza em Efésios 5:3-14.
+* Romanos 12:5: "Assim nós, que somos muitos, somos um só corpo em Cristo, mas individualmente somos membros uns dos outros." Paulo exorta os cristãos em Efésios 5:21 a se sujeitarem uns aos outros no temor de Cristo, reconhecendo que todos são membros do mesmo corpo. Este versículo em Romanos 12 também enfatiza a unidade do corpo de Cristo, que é composto de muitos membros diferentes.
+****
+
+[[v56-5-1]]
+
+^<<v56-5-1,1>>^ Sede, pois, imitadores de Deus, como filhos muito amados.
+
+[[v56-5-2]]
+
+^<<v56-5-2,2>>^ Progredi na caridade, segundo o exemplo de Cristo, que nos amou e por nós se entregou a Deus como oferenda e sacrifício de agradável odor.
+
+[[v56-5-3]]
+
+^<<v56-5-3,3>>^ Quanto à fornicação, à impureza, sob qualquer forma, ou à avareza, que disto nem se faça menção entre vós, como convém a santos.^&#42;1^
+
+[[v56-5-4]]
+
+^<<v56-5-4,4>>^ Nada de obscenidades, de conversas tolas ou levianas, porque tais coisas não convêm; em vez disso, ações de graças.
+
+[[v56-5-5]]
+
+^<<v56-5-5,5>>^ Porque sabei-o bem: nenhum dissoluto, ou impuro, ou avarento – verdadeiros idólatras! – terá herança no Reino de Cristo e de Deus.
+
+[[v56-5-6]]
+
+^<<v56-5-6,6>>^ E ninguém vos seduza com vãos discursos. Estes são os pecados que atraem a ira de Deus sobre os rebeldes.
+
+[[v56-5-7]]
+
+^<<v56-5-7,7>>^ Não vos comprometais com eles.
+
+[[v56-5-8]]
+
+^<<v56-5-8,8>>^ Outrora éreis trevas, mas agora sois luz no Senhor: comportai-vos como verdadeiras luzes.^&#42;1^
+
+[[v56-5-9]]
+
+^<<v56-5-9,9>>^ Ora, o fruto da luz é bondade, justiça e verdade.
+
+[[v56-5-10]]
+
+^<<v56-5-10,10>>^ Procurai o que é agradável ao Senhor,
+
+[[v56-5-11]]
+
+^<<v56-5-11,11>>^ e não tenhais cumplicidade nas obras infrutíferas das trevas; pelo contrário, condenai-as abertamente.
+
+[[v56-5-12]]
+
+^<<v56-5-12,12>>^ Porque as coisas que tais homens fazem ocultamente é vergonhoso até falar delas.
+
+[[v56-5-13]]
+
+^<<v56-5-13,13>>^ Mas tudo isto, ao ser reprovado, torna-se manifesto pela luz.
+
+[[v56-5-14]]
+
+^<<v56-5-14,14>>^ E tudo o que se manifesta deste modo torna-se luz. Por isto (a Escritura) diz: Desperta, tu que dormes! Levanta-te dentre os mortos e Cristo te iluminará (Is 26,19; 60,1)!
+
+[[v56-5-15]]
+
+^<<v56-5-15,15>>^ Vigiai, pois, com cuidado sobre a vossa conduta: que ela não seja conduta de insensatos, mas de sábios
+
+[[v56-5-16]]
+
+^<<v56-5-16,16>>^ que aproveitam ciosamente o tempo, pois os dias são maus.^&#42;1^
+
+[[v56-5-17]]
+
+^<<v56-5-17,17>>^ Não sejais imprudentes, mas procurai compreender qual seja a vontade de Deus.
+
+[[v56-5-18]]
+
+^<<v56-5-18,18>>^ Não vos embriagueis com vinho, que é uma fonte de devassidão, mas enchei-vos do Espírito.
+
+[[v56-5-19]]
+
+^<<v56-5-19,19>>^ Recitai entre vós salmos, hinos e cânticos espirituais. Cantai e celebrai de todo o coração os louvores do Senhor.
+
+[[v56-5-20]]
+
+^<<v56-5-20,20>>^ Rendei graças, sem cessar e por todas as coisas, a Deus Pai, em nome de nosso Senhor Jesus Cristo!
+
+[[v56-5-21]]
+
+^<<v56-5-21,21>>^ Sujeitai-vos uns aos outros no temor de Cristo.
+
+[[v56-5-22]]
+
+^<<v56-5-22,22>>^ As mulheres sejam submissas a seus maridos, como ao Senhor,
+
+[[v56-5-23]]
+
+^<<v56-5-23,23>>^ pois o marido é o chefe da mulher, como Cristo é o chefe da Igreja, seu corpo, da qual ele é o Salvador.
+
+[[v56-5-24]]
+
+^<<v56-5-24,24>>^ Ora, assim como a Igreja é submissa a Cristo, assim também o sejam em tudo as mulheres a seus maridos.
+
+[[v56-5-25]]
+
+^<<v56-5-25,25>>^ Maridos, amai as vossas mulheres, como Cristo amou a Igreja e se entregou por ela,
+
+[[v56-5-26]]
+
+^<<v56-5-26,26>>^ para santificá-la, purificando-a pela água do batismo com a palavra,^&#42;1^
+
+[[v56-5-27]]
+
+^<<v56-5-27,27>>^ para apresentá-la a si mesmo toda gloriosa, sem mácula, sem ruga, sem qualquer outro defeito semelhante, mas santa e irrepreensível.
+
+[[v56-5-28]]
+
+^<<v56-5-28,28>>^ Assim os maridos devem amar as suas mulheres, como a seu próprio corpo. Quem ama a sua mulher ama-se a si mesmo.
+
+[[v56-5-29]]
+
+^<<v56-5-29,29>>^ Certamente, ninguém jamais aborreceu a sua própria carne; ao contrário, cada qual a alimenta e a trata, como Cristo faz à sua Igreja –
+
+[[v56-5-30]]
+
+^<<v56-5-30,30>>^ porque somos membros de seu corpo.
+
+[[v56-5-31]]
+
+^<<v56-5-31,31>>^ Por isso, o homem deixará pai e mãe e se unirá à sua mulher, e os dois constituirão uma só carne (Gn 2,24).
+
+[[v56-5-32]]
+
+^<<v56-5-32,32>>^ Esse mistério é grande, quero dizer, com referência a Cristo e à Igreja.^&#42;1^
+
+[[v56-5-33]]
+
+^<<v56-5-33,33>>^ Em resumo, o que importa é que cada um de vós ame a sua mulher como a si mesmo, e a mulher respeite o seu marido.
+
+'''
+
+xref:056-efesios/056-efesios-004.adoc#v56-4-0[&#60; Capítulo Anterior] | <<v56-5-0,Topo>> | xref:056-efesios/056-efesios-006.adoc#v56-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v10-18-0]]
+=== II Samuel, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Samuel 18 narra a batalha entre as forças de Davi e as de seu filho Absalão, que havia liderado uma rebelião contra o pai. Durante a batalha, Absalão é morto por Joabe, o comandante do exército de Davi. Davi lamenta a morte de seu filho e reconhece que sua vitória na batalha não trouxe alegria, mas tristeza e dor.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez de espírito precede a queda." A rebelião de Absalão contra Davi foi motivada em parte por sua própria arrogância e orgulho. Este verso em Provérbios adverte sobre o perigo da soberba, lembrando-nos que a humildade é uma virtude valiosa.
+* Provérbios 29:23: "O orgulho do homem o abate, mas o de espírito humilde obterá honra." A queda de Absalão na batalha em 2 Samuel 18 é um exemplo da verdade deste verso em Provérbios. A arrogância e o orgulho podem levar à destruição, enquanto a humildade pode levar à honra.
+* Isaías 57:15: "Porque assim diz o Alto e o Sublime, que habita na eternidade e cujo nome é santo: Habito no alto e santo lugar, mas habito também com o contrito e abatido de espírito, para vivificar o espírito dos abatidos e para vivificar o coração dos contritos." Este verso em Isaías fala sobre a presença de Deus com aqueles que têm um espírito humilde e contrito. Quando enfrentamos a dor e a tristeza como Davi faz em 2 Samuel 18, podemos confiar que Deus está presente conosco, consolando-nos e renovando nossos espíritos.
+* Salmo 34:18: "Perto está o SENHOR dos que têm o coração quebrantado e salva os de espírito oprimido." Davi experimenta grande tristeza e dor com a morte de seu filho em 2 Samuel 18, mas este Salmo nos lembra que Deus está perto daqueles que estão sofrendo e oprimidos. Podemos confiar em Deus para nos salvar e nos consolar em tempos de dificuldade.
+* Salmo 147:3: "Cura os quebrantados de coração e liga-lhes as feridas." Este Salmo fala sobre a bondade e misericórdia de Deus, que cura os corações quebrantados e cuida dos feridos. Em 2 Samuel 18, Davi enfrenta a perda de seu filho, mas pode encontrar consolo na confiança em Deus como um curador e consolador.
+****
+
+[[v10-18-1]]
+
+^<<v10-18-1,1>>^ Davi passou em revista as tropas que estavam com ele e pôs à sua frente chefes de milhares e de centenas.
+
+[[v10-18-2]]
+
+^<<v10-18-2,2>>^ Depois dividiu o exército em três grupos: confiou um terço a Joab, um terço ao seu irmão Abisaí, filho de Sárvia e um terço a Etai, o geteu. E disse às tropas: “Eu também marcharei convosco”.
+
+[[v10-18-3]]
+
+^<<v10-18-3,3>>^ Mas o povo respondeu-lhe: “Não, tu não irás; pois se fugíssemos, não dariam atenção a isso e mesmo que morra a metade de nós, isso não lhes importaria; tu, porém, vales por dez mil de nós. É melhor que fiques na cidade, para poder vir em nosso socorro”.
+
+[[v10-18-4]]
+
+^<<v10-18-4,4>>^ “Farei – disse o rei – o que bem vos parecer.” Colocou-se então junto da porta, enquanto todo o exército saía formado em esquadrões de cem e de mil.
+
+[[v10-18-5]]
+
+^<<v10-18-5,5>>^ O rei deu esta ordem a Joab, a Abisaí e a Etai: “Por favor, poupai-me o jovem Absalão!”. Todo o povo ouviu a ordem que o rei deu aos chefes a respeito de Absalão.
+
+[[v10-18-6]]
+
+^<<v10-18-6,6>>^ Saiu o exército à campanha contra Israel e travou-se o combate na floresta de Efraim.
+
+[[v10-18-7]]
+
+^<<v10-18-7,7>>^ Os israelitas foram batidos pela gente de Davi e houve naquele dia uma grande carnificina de vinte mil homens.
+
+[[v10-18-8]]
+
+^<<v10-18-8,8>>^ O combate estendeu-se por toda a região, devorando a floresta naquele dia mais homens do que a espada.^&#42;1^
+
+[[v10-18-9]]
+
+^<<v10-18-9,9>>^ Absalão encontrou-se de repente em presença dos homens de Davi. Montava uma mula e esta enfiou-se sob a folhagem espessa de um grande carvalho. A cabeça de Absalão prendeu-se nos galhos da árvore e ele ficou suspenso entre o céu e a terra, enquanto a mula em que montava passava adiante.^&#42;1^
+
+[[v10-18-10]]
+
+^<<v10-18-10,10>>^ Vendo isso, um homem informou a Joab, dizendo: “Eu vi Absalão suspenso a um carvalho”.
+
+[[v10-18-11]]
+
+^<<v10-18-11,11>>^ “Se o viste – respondeu Joab ao mensageiro –, por que não o abateste no mesmo lugar? Eu me sentiria no dever de dar-te dez siclos de prata e um cinturão.”^&#42;1^
+
+[[v10-18-12]]
+
+^<<v10-18-12,12>>^ O homem respondeu: “Ainda que me pusessem nas mãos mil siclos de prata, eu não levantaria a mão contra o filho do rei, porque o rei ordenou a ti, a Abisaí e a Etai, em nossa presença, que lhe poupassem o jovem Absalão.
+
+[[v10-18-13]]
+
+^<<v10-18-13,13>>^ E se eu tivesse cometido esse atentado contra a vida do jovem, nada se ocultaria ao rei e tu mesmo te terias esquivado”.^&#42;1^
+
+[[v10-18-14]]
+
+^<<v10-18-14,14>>^ Joab disse: “Não tenho tempo a perder contigo”. Tomou, então, três dardos na mão e plantou-os no coração de Absalão. E estando ele ainda vivo no carvalho,
+
+[[v10-18-15]]
+
+^<<v10-18-15,15>>^ dez jovens escudeiros de Joab cercaram-no e deram-lhe os últimos golpes.
+
+[[v10-18-16]]
+
+^<<v10-18-16,16>>^ Joab tocou então a trombeta e o exército cessou de perseguir Israel, porque Joab deteve o povo.
+
+[[v10-18-17]]
+
+^<<v10-18-17,17>>^ Tomaram Absalão e jogaram-no numa grande fossa no interior da floresta, erguendo em seguida sobre ele um enorme monte de pedras. Entrementes, todo o Israel fugira, indo cada qual para a sua casa.
+
+[[v10-18-18]]
+
+^<<v10-18-18,18>>^ Ora, Absalão quando ainda vivia, mandara erigir para si o monumento que se encontra no vale do Rei, porque dizia: “Não tenho filhos para perpetuar a memória de meu nome”. E deu o seu próprio nome ao monumento que se chama ainda hoje o “Monumento de Absalão”.
+
+[[v10-18-19]]
+
+^<<v10-18-19,19>>^ Aquimaás, filho de Sadoc, disse: “Vou correndo anunciar ao rei a boa-nova de que o Senhor lhe fez justiça, livrando-o de seus inimigos”.
+
+[[v10-18-20]]
+
+^<<v10-18-20,20>>^ Mas Joab disse-lhe: “Não lhe levarás hoje essa notícia, mas outro dia; não hoje, porque morreu o filho do rei”.
+
+[[v10-18-21]]
+
+^<<v10-18-21,21>>^ Joab ordenou a um cusita: “Vai ter com o rei e anuncia-lhe o que viste”. O cusita prostrou-se diante de Joab e depois saiu correndo.
+
+[[v10-18-22]]
+
+^<<v10-18-22,22>>^ Aquimaás, porém, filho de Sadoc, insistiu: “Seja como for, mas deixa-me ir também atrás do cusita”. E Joab: “Por que queres correr, meu filho? Essa mensagem de nada te aproveitaria”.
+
+[[v10-18-23]]
+
+^<<v10-18-23,23>>^ “Em todo caso, eu correrei.” “Corre – disse-lhe Joab. Aquimaás foi correndo pelo caminho da planície e passou à frente do cusita.^&#42;1^
+
+[[v10-18-24]]
+
+^<<v10-18-24,24>>^ Davi estava sentado entre as duas portas. A sentinela que tinha subido ao terraço da porta, sobre a muralha, levantou os olhos e viu um homem que vinha correndo sozinho.^&#42;1^
+
+[[v10-18-25]]
+
+^<<v10-18-25,25>>^ Gritando, anunciou-o ao rei, que disse: “Se ele vem só, traz alguma boa-nova”. Entretanto, o homem se aproximava.
+
+[[v10-18-26]]
+
+^<<v10-18-26,26>>^ A sentinela viu então outro homem que corria; e gritou do alto da porta: “Vejo outro homem que vem correndo sozinho”. “Também esse traz alguma boa-nova.”
+
+[[v10-18-27]]
+
+^<<v10-18-27,27>>^ A sentinela continuou: “Pela maneira de correr do primeiro, só pode ser Aquimaás, filho de Sadoc”. O rei: “É um homem de bem e traz boas notícias”.
+
+[[v10-18-28]]
+
+^<<v10-18-28,28>>^ Aquimaás, chegando, disse ao rei: “Salve!” e prostrou-se diante dele com a face por terra. Depois ajuntou: “Bendito seja o Senhor, teu Deus, que te entregou os homens que ergueram a mão contra o rei, meu senhor”.
+
+[[v10-18-29]]
+
+^<<v10-18-29,29>>^ O rei disse: “Tudo vai bem para o jovem Absalão?”. “Eu vi um grande tumulto” – respondeu Aquimaás, “no momento em que Joab enviava o teu servo, mas ignoro o que se tenha passado.”
+
+[[v10-18-30]]
+
+^<<v10-18-30,30>>^ O rei disse-lhe: “Põe-te aqui ao lado e espera”. Ele afastou-se e esperou ali.
+
+[[v10-18-31]]
+
+^<<v10-18-31,31>>^ Então, chegou o cusita, dizendo: “Saiba o rei, meu senhor, da boa-nova. O Senhor te fez hoje justiça contra todos os que se tinham revoltado contra ti”.
+
+[[v10-18-32]]
+
+^<<v10-18-32,32>>^ O rei disse ao cusita: “Tudo vai bem para o jovem Absalão?”. E o cusita respondeu: “Sejam como esse jovem os inimigos do rei, meu senhor e todos os que se levantam contra ti para te fazer mal!”.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-017.adoc#v10-17-0[&#60; Capítulo Anterior] | <<v10-18-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-019.adoc#v10-19-0[Próximo Capítulo &#62;]

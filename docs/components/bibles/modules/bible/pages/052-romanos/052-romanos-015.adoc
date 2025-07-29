@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v52-15-0]]
+=== Romanos, 15
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 15 de Romanos trata principalmente sobre a importância da unidade e do amor cristão entre os irmãos, e também sobre a missão de Paulo de levar o evangelho aos gentios. Os versículos selecionados a seguir se relacionam com esses temas:
+* 1 Coríntios 1:10: "Rogo-vos, irmãos, pelo nome de nosso Senhor Jesus Cristo, que faleis todos a mesma coisa e que não haja entre vós divisões; antes sejais unidos em um mesmo pensamento e em um mesmo parecer." Esse versículo ressalta a importância da unidade entre os cristãos, algo enfatizado no capítulo 15 de Romanos.
+* Efésios 4:3: "Esforçando-vos diligentemente por preservar a unidade do Espírito no vínculo da paz." Novamente, a unidade é enfatizada, mostrando a importância de trabalhar para manter a paz e a união.
+* João 13:34-35: "Um novo mandamento vos dou: que vos ameis uns aos outros; assim como eu vos amei, que também vos ameis uns aos outros. Nisto todos conhecerão que sois meus discípulos, se vos amardes uns aos outros." Jesus ensina sobre o amor cristão como um testemunho para o mundo, algo que Paulo enfatiza no capítulo 15 de Romanos.
+* 2 Coríntios 5:18-19: "Mas tudo provém de Deus, que nos reconciliou consigo mesmo por meio de Cristo, e nos deu o ministério da reconciliação; pois Deus estava em Cristo reconciliando consigo o mundo, não imputando aos homens as suas transgressões, e nos confiou a palavra da reconciliação." A reconciliação por meio de Cristo é um tema central do evangelho, e é mencionado por Paulo em Romanos 15:16.
+* 1 Tessalonicenses 1:8-9: "Porque, partindo de vós, divulgou-se a palavra do Senhor não somente na Macedônia e na Acaia, mas também em todos os lugares a vossa fé para com Deus se tornou conhecida, de tal maneira que não temos necessidade de falar coisa alguma." Assim como Paulo destaca sua missão de levar o evangelho aos gentios em Romanos 15, aqui vemos a difusão da mensagem pelos tessalonicenses.
+****
+
+[[v52-15-1]]
+
+^<<v52-15-1,1>>^ Nós, que somos os fortes, devemos suportar as fraquezas dos que são fracos, e não agir a nosso modo.^&#42;1^
+
+[[v52-15-2]]
+
+^<<v52-15-2,2>>^ Cada um de vós procure contentar o próximo, para seu bem e sua edificação.
+
+[[v52-15-3]]
+
+^<<v52-15-3,3>>^ Cristo não se agradou a si mesmo; pelo contrário, como está escrito: Os insultos dos que vos ultrajam caíram sobre mim (Sl 68,10).
+
+[[v52-15-4]]
+
+^<<v52-15-4,4>>^ Ora, tudo quanto outrora foi escrito, foi escrito para a nossa instrução, a fim de que, pela perseverança e pela consolação que dão as Escrituras, tenhamos esperança.
+
+[[v52-15-5]]
+
+^<<v52-15-5,5>>^ O Deus da perseverança e da consolação vos conceda o mesmo sentimento uns para com os outros, segundo Jesus Cristo,
+
+[[v52-15-6]]
+
+^<<v52-15-6,6>>^ para que, com um só coração e uma só voz, glorifiqueis a Deus, Pai de nosso Senhor Jesus Cristo.
+
+[[v52-15-7]]
+
+^<<v52-15-7,7>>^ Por isso, acolhei-vos uns aos outros, como Cristo nos acolheu para a glória de Deus.
+
+[[v52-15-8]]
+
+^<<v52-15-8,8>>^ Pois asseguro que Cristo exerceu seu ministério entre os circuncisos para manifestar a veracidade de Deus pela realização das promessas feitas aos patriarcas.
+
+[[v52-15-9]]
+
+^<<v52-15-9,9>>^ Quanto aos pagãos, eles só glorificam a Deus em razão de sua misericórdia, como está escrito: Por isso, eu vos louvarei entre as nações e cantarei louvores ao vosso nome (2Sm 22,50; Sl 17,50).
+
+[[v52-15-10]]
+
+^<<v52-15-10,10>>^ Noutro lugar diz: Alegrai-vos, nações, com o seu povo (Dt 32,43).
+
+[[v52-15-11]]
+
+^<<v52-15-11,11>>^ E ainda diz: Louvai ao Senhor, nações todas, e glorificai-o todos os povos (Sl 116,1)!
+
+[[v52-15-12]]
+
+^<<v52-15-12,12>>^ Isaías também diz: Da raiz de Jessé surgirá um rebento que governará as nações; nele esperarão as nações (Is 11,10).
+
+[[v52-15-13]]
+
+^<<v52-15-13,13>>^ O Deus da esperança vos encha de toda a alegria e de toda a paz na vossa fé, para que pela virtude do Espírito Santo transbordeis de esperança!
+
+[[v52-15-14]]
+
+^<<v52-15-14,14>>^ Estou pessoalmente convencido, meus irmãos, de que estais cheios de bondade, cheios de um perfeito conhecimento, capazes de vos admoestar uns aos outros.
+
+[[v52-15-15]]
+
+^<<v52-15-15,15>>^ Se, em parte, vos escrevi com particular liberdade, foi para relembrar-vos. E o fiz em virtude da graça que me foi dada por Deus,
+
+[[v52-15-16]]
+
+^<<v52-15-16,16>>^ de ser o ministro de Jesus Cristo entre os pagãos, exercendo a função sagrada do Evangelho de Deus. E isso para que os pagãos, santificados pelo Espírito Santo, lhe sejam uma oferta agradável.
+
+[[v52-15-17]]
+
+^<<v52-15-17,17>>^ Tenho motivo de gloriar-me em Jesus Cristo, no que diz respeito ao serviço de Deus.
+
+[[v52-15-18]]
+
+^<<v52-15-18,18>>^ Porque não ousaria mencionar ação alguma que Cristo não houvesse realizado por meu ministério, para levar os pagãos a aceitar o Evangelho, pela palavra e pela ação,
+
+[[v52-15-19]]
+
+^<<v52-15-19,19>>^ pelo poder dos milagres e prodígios, pela virtude do Espírito. De maneira que tenho divulgado o Evangelho de Cristo desde Jerusalém e suas terras vizinhas até a Ilíria.
+
+[[v52-15-20]]
+
+^<<v52-15-20,20>>^ E me empenhei por anunciar o Evangelho onde ainda não havia sido anunciado o nome de Cristo, pois não queria edificar sobre fundamento lançado por outro.
+
+[[v52-15-21]]
+
+^<<v52-15-21,21>>^ Fiz bem assim como está escrito: Irão vê-la aqueles aos quais ainda não tinha sido anunciado; chegarão a conhecê-lo aqueles que dele ainda não tinham ouvido falar (Is 52,15).
+
+[[v52-15-22]]
+
+^<<v52-15-22,22>>^ Foi isso o que muitas vezes me impediu de ir ter convosco.
+
+[[v52-15-23]]
+
+^<<v52-15-23,23>>^ Mas, agora, já não tenho com que me ocupar nestas terras; e como há muitos anos tenho saudades de vós,
+
+[[v52-15-24]]
+
+^<<v52-15-24,24>>^ espero ver-vos de passagem, quando eu for à Espanha. Espero também ser por vós conduzido até lá, depois que tiver satisfeito, ao menos em parte, o meu desejo de estar convosco.
+
+[[v52-15-25]]
+
+^<<v52-15-25,25>>^ Mas no momento vou a Jerusalém para ajuda dos irmãos.
+
+[[v52-15-26]]
+
+^<<v52-15-26,26>>^ A Macedônia e a Acaia houveram por bem fazer uma coleta para os irmãos de Jerusalém que se acham em pobreza.
+
+[[v52-15-27]]
+
+^<<v52-15-27,27>>^ Houveram-no por bem; aliás, o devem a eles, pois se os pagãos têm parte nos bens espirituais dos judeus, devem por sua vez assisti-los com os bens materiais.
+
+[[v52-15-28]]
+
+^<<v52-15-28,28>>^ Logo que eu tiver desempenhado essa incumbência, e lhes tiver feito entrega fiel dessa coleta, irei à Espanha, passando por vós.
+
+[[v52-15-29]]
+
+^<<v52-15-29,29>>^ E sei que, quando for ter convosco, irei com todas as riquezas das bênçãos de Cristo.
+
+[[v52-15-30]]
+
+^<<v52-15-30,30>>^ Rogo-vos, irmãos, em nome de nosso Senhor Jesus Cristo e em nome da caridade que é dada pelo Espírito, combatei comigo, dirigindo vossas orações a Deus por mim,
+
+[[v52-15-31]]
+
+^<<v52-15-31,31>>^ para que eu escape dos infiéis que estão na Judeia e para que o auxílio que levo a Jerusalém seja bem acolhido pelos irmãos.
+
+[[v52-15-32]]
+
+^<<v52-15-32,32>>^ Então, poderei ir ver-vos com alegria e, se for a vontade de Deus, encontrar no vosso meio algum repouso.
+
+[[v52-15-33]]
+
+^<<v52-15-33,33>>^ E o Deus da paz esteja com todos vós. Amém.
+
+'''
+
+xref:052-romanos/052-romanos-014.adoc#v52-14-0[&#60; Capítulo Anterior] | <<v52-15-0,Topo>> | xref:052-romanos/052-romanos-016.adoc#v52-16-0[Próximo Capítulo &#62;]

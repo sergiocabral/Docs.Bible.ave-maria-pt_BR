@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v61-3-0]]
+=== I Timóteo, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Timóteo 3 apresenta uma série de requisitos para aqueles que desejam servir como líderes na igreja, incluindo bispos e diáconos. É destacada a importância de uma conduta exemplar, de um bom testemunho e de habilidades específicas para liderar e ensinar. A seguir, estão cinco versículos relacionados com os temas abordados em 1 Timóteo 3:
+* 1 Pedro 5:2: "pastoreai o rebanho de Deus que há entre vós, não por constrangimento, mas espontaneamente, como Deus quer; nem por sórdida ganância, mas de boa vontade" Este versículo destaca a importância de um coração voluntário e desprendido na liderança, sem buscar benefícios pessoais ou agir por obrigação, mas sim com uma motivação genuína em servir ao rebanho.
+* Tito 1:7-8: "Porque é necessário que o bispo seja irrepreensível, como despenseiro de Deus; não soberbo, nem irascível, nem dado ao vinho, nem espancador, nem cobiçoso de torpe ganância; mas hospitaleiro, amigo do bem, moderado, justo, santo, temperante" Este trecho destaca alguns dos requisitos específicos para ser um bispo, incluindo a importância de ser hospitaleiro, moderado, justo e santo, além de não possuir características negativas como a ira, o orgulho e a cobiça.
+* Provérbios 22:29: "Vês um homem diligente na sua obra? Perante reis será posto; não permanecerá entre os de posição inferior" Este versículo destaca a importância da diligência e da excelência na realização do trabalho, o que pode resultar em reconhecimento e avanço na posição de liderança.
+* 1 Timóteo 4:16: "Tem cuidado de ti mesmo e da doutrina; persevera nestas coisas; porque, fazendo isto, te salvarás, tanto a ti mesmo como aos que te ouvem" Aqui, é enfatizada a necessidade de cuidar da própria conduta e da fidelidade à doutrina, o que é essencial para a salvação não só do líder, mas também daqueles que são influenciados por ele.
+* 1 Coríntios 9:27: "Antes subjugo o meu corpo, e o reduzo à servidão, para que, pregando aos outros, eu mesmo não venha de alguma maneira a ficar reprovado" Este versículo destaca a importância da disciplina pessoal e da submissão ao Espírito Santo, a fim de evitar cair em tentação e perder o testemunho diante daqueles a quem se prega.
+****
+
+[[v61-3-1]]
+
+^<<v61-3-1,1>>^ Eis uma coisa certa: quem aspira ao episcopado, saiba que está desejando uma função sublime.
+
+[[v61-3-2]]
+
+^<<v61-3-2,2>>^ Porque o bispo tem o dever de ser irrepreensível, casado uma só vez, sóbrio, prudente, regrado no seu proceder, hospitaleiro, capaz de ensinar.^&#42;1^
+
+[[v61-3-3]]
+
+^<<v61-3-3,3>>^ Não deve ser dado a bebidas, nem violento, mas condescendente, pacífico, desinteressado;
+
+[[v61-3-4]]
+
+^<<v61-3-4,4>>^ deve saber governar bem a sua casa, educar os seus filhos na obediência e na castidade.
+
+[[v61-3-5]]
+
+^<<v61-3-5,5>>^ Pois quem não sabe governar a sua própria casa, como terá cuidado da Igreja de Deus?
+
+[[v61-3-6]]
+
+^<<v61-3-6,6>>^ Não pode ser um recém-convertido, para não acontecer que, ofuscado pela vaidade, venha a cair na mesma condenação que o demônio.
+
+[[v61-3-7]]
+
+^<<v61-3-7,7>>^ Importa, outrossim, que goze de boa consideração por parte dos de fora, para que não se exponha ao desprezo e caia assim nas ciladas diabólicas.
+
+[[v61-3-8]]
+
+^<<v61-3-8,8>>^ Do mesmo modo, os diáconos sejam honestos, não de duas atitudes nem propensos ao excesso da bebida e ao espírito de lucro;
+
+[[v61-3-9]]
+
+^<<v61-3-9,9>>^ que guardem o mistério da fé numa consciência pura.
+
+[[v61-3-10]]
+
+^<<v61-3-10,10>>^ Antes de poderem exercer o seu ministério, sejam provados para que se tenha certeza de que são irrepreensíveis.
+
+[[v61-3-11]]
+
+^<<v61-3-11,11>>^ As mulheres também sejam honestas, não difamadoras, mas sóbrias e fiéis em tudo.^&#42;1^
+
+[[v61-3-12]]
+
+^<<v61-3-12,12>>^ Os diáconos não sejam casados senão uma vez, e saibam governar os filhos e a casa.
+
+[[v61-3-13]]
+
+^<<v61-3-13,13>>^ E os que desempenharem bem estse ministério, alcançarão honrosa posição e grande confiança na fé, em Jesus Cristo.
+
+[[v61-3-14]]
+
+^<<v61-3-14,14>>^ Estas coisas te escrevo, mas espero ir visitar-te muito em breve.
+
+[[v61-3-15]]
+
+^<<v61-3-15,15>>^ Todavia, se eu tardar, quero que saibas como deves portar-te na casa de Deus, que é a Igreja de Deus vivo, coluna e sustentáculo da verdade.
+
+[[v61-3-16]]
+
+^<<v61-3-16,16>>^ Sim, é tão sublime – unanimemente o proclamamos – o mistério da bondade divina: “manifestado na carne, justificado no Espírito, visto pelos anjos, anunciado aos povos, acreditado no mundo, exaltado na glória!”.^&#42;1^
+
+'''
+
+xref:061-i-timoteo/061-i-timoteo-002.adoc#v61-2-0[&#60; Capítulo Anterior] | <<v61-3-0,Topo>> | xref:061-i-timoteo/061-i-timoteo-004.adoc#v61-4-0[Próximo Capítulo &#62;]

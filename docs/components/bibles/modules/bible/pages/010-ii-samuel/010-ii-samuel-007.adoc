@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v10-7-0]]
+=== II Samuel, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Samuel 7 narra um importante diálogo entre Deus e o rei Davi, no qual Deus promete a Davi uma descendência duradoura e um reino eterno. Além disso, o capítulo também descreve como Davi deseja construir um templo para Deus, mas é informado que essa tarefa será realizada por seu filho. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Samuel 7:
+* 2 Samuel 7:12: "Quando se completarem os teus dias e descansares com teus pais, estabelecerei depois de ti um filho teu, e confirmarei a sua realeza." Este versículo é o início da promessa que Deus faz a Davi de uma descendência duradoura e um reino eterno.
+* 2 Samuel 7:16: "A tua casa e o teu reino serão para sempre seguros diante de mim; teu trono será estabelecido para sempre." Deus promete a Davi que sua dinastia será eterna.
+* Salmos 89:3-4: "Fiz aliança com o meu escolhido, jurei ao meu servo Davi: Estabelecerei a tua descendência para sempre e firmarei o teu trono por todas as gerações." Este Salmo reafirma a promessa de Deus a Davi de uma descendência duradoura.
+* Isaías 9:6-7: "Porque um menino nos nasceu, um filho nos foi dado; o governo está sobre os seus ombros; e o seu nome será: Maravilhoso Conselheiro, Deus Forte, Pai Eterno, Príncipe da Paz. Ele estenderá o seu domínio, e haverá paz sem fim sobre o trono de Davi e sobre o seu reino, que ele estabelecerá e manterá com justiça e retidão desde agora e para sempre. O zelo do Senhor dos Exércitos fará isso." Este trecho profético se refere à promessa de Deus a Davi de uma descendência eterna e um reino justo.
+* Atos 2:29-31: "Irmãos, seja-me permitido dizer-vos com franqueza que o patriarca Davi morreu e foi sepultado, e o seu túmulo está entre nós até o dia de hoje. Sendo ele profeta, sabia que Deus lhe havia prometido com juramento que um dos seus descendentes se assentaria no seu trono. Prevendo isso, Davi falou da ressurreição de Cristo, que ele não foi abandonado no Hades, nem o seu corpo experimentou corrupção." Pedro cita Davi para demonstrar que a ressurreição de Jesus é uma evidência da fidelidade de Deus à promessa de uma descendência eterna a Davi.
+****
+
+[[v10-7-1]]
+
+^<<v10-7-1,1>>^ Ora, tendo o rei Davi acabado de instalar-se em sua residência e tendo-lhe o Senhor dado paz, livrando-o de todos os inimigos que o cercavam,
+
+[[v10-7-2]]
+
+^<<v10-7-2,2>>^ disse ele ao profeta Natã: “Vê! Eu moro num palácio de cedro e a arca de Deus está alojada numa tenda!”.
+
+[[v10-7-3]]
+
+^<<v10-7-3,3>>^ Natã respondeu-lhe: “Pois bem, faze o que desejas fazer, porque o Senhor está contigo!”.
+
+[[v10-7-4]]
+
+^<<v10-7-4,4>>^ Mas a palavra do Senhor foi dirigida a Natã naquela mesma noite e dizia:
+
+[[v10-7-5]]
+
+^<<v10-7-5,5>>^ “Vai e dize ao meu servo Davi: ‘Eis o que diz o Senhor: Não és tu quem me edificará uma casa para eu habitar?’.^&#42;1^
+
+[[v10-7-6]]
+
+^<<v10-7-6,6>>^ Desde que tirei da terra do Egito os filhos de Israel até o dia de hoje, não habitei casa alguma, mas, qual um viandante, tenho-me alojado sob a tenda e sob um tabernáculo improvisado.
+
+[[v10-7-7]]
+
+^<<v10-7-7,7>>^ E em todo esse tempo que andei no meio dos israelitas, falei eu porventura a algum dos chefes de Israel que encarreguei de apascentar o meu povo: ‘Por que não me edificas uma casa de cedro?’.
+
+[[v10-7-8]]
+
+^<<v10-7-8,8>>^ Dirás, pois, ao meu servo Davi: ‘Eis o que diz o Senhor dos exércitos: Eu te tirei das pastagens onde guardavas tuas ovelhas para fazer de ti o chefe de meu povo de Israel.
+
+[[v10-7-9]]
+
+^<<v10-7-9,9>>^ Estive contigo em toda a parte por onde andaste; exterminei diante de ti todos os teus inimigos e fiz o teu nome comparável ao dos grandes da terra.
+
+[[v10-7-10]]
+
+^<<v10-7-10,10>>^ Designei um lugar para o meu povo de Israel: plantei-o nele e ali ele mora, sem ser inquietado e os maus não o oprimirão mais como outrora,
+
+[[v10-7-11]]
+
+^<<v10-7-11,11>>^ no tempo em que eu estabelecia juízes sobre o meu povo. Concedo-te uma vida tranquila, livrando-te de todos os teus inimigos. O Senhor anuncia-te que quer fazer-te uma casa.
+
+[[v10-7-12]]
+
+^<<v10-7-12,12>>^ Quando chegar o fim de teus dias e repousares com os teus pais, então suscitarei depois de ti a tua posteridade, aquele que sairá de tuas entranhas e firmarei o seu reino.
+
+[[v10-7-13]]
+
+^<<v10-7-13,13>>^ Ele me construirá um templo e firmarei para sempre o seu trono real.
+
+[[v10-7-14]]
+
+^<<v10-7-14,14>>^ Eu serei para ele um pai e ele será para mim um filho. Se ele cometer alguma falta, eu o castigarei com vara de homens e com açoites de homens,^&#42;1^
+
+[[v10-7-15]]
+
+^<<v10-7-15,15>>^ mas não lhe tirarei a minha graça, como a retirei de Saul, a quem afastei de ti.
+
+[[v10-7-16]]
+
+^<<v10-7-16,16>>^ Tua casa e teu reino estão estabelecidos para sempre diante de mim e o teu trono está firme para sempre’.”^&#42;1^
+
+[[v10-7-17]]
+
+^<<v10-7-17,17>>^ Natã comunicou a Davi todas as palavras dessa revelação.
+
+[[v10-7-18]]
+
+^<<v10-7-18,18>>^ O rei Davi veio apresentar-se ao Senhor e disse-lhe: “Quem sou eu, Senhor Javé, e quem é a minha família, para que me tenhais trazido até aqui?
+
+[[v10-7-19]]
+
+^<<v10-7-19,19>>^ E como se isso parecesse pouco aos vossos olhos, Senhor Javé, fizestes promessas à casa de vosso servo para tempos futuros! Acaso isso é normal para o homem, Senhor Javé?^&#42;1^
+
+[[v10-7-20]]
+
+^<<v10-7-20,20>>^ Que poderia acrescentar ainda Davi? Vós conheceis o vosso servo, Senhor Javé.
+
+[[v10-7-21]]
+
+^<<v10-7-21,21>>^ Conforme a vossa palavra e segundo o impulso do vosso coração, fizestes todas essas grandes coisas para manifestá-las ao vosso servo.
+
+[[v10-7-22]]
+
+^<<v10-7-22,22>>^ Por isso, sois grande, ó Senhor Javé. Ninguém há semelhante a vós e não há outro Deus fora de vós, segundo tudo o que ouvimos dizer.
+
+[[v10-7-23]]
+
+^<<v10-7-23,23>>^ E que povo há na terra semelhante ao vosso povo de Israel, a quem seu Deus veio resgatar para que se tornasse o seu povo, dando-lhe um nome, operando em seu favor grandes e terríveis prodígios e expulsando diante do seu povo resgatado do Egito as nações com os seus deuses?
+
+[[v10-7-24]]
+
+^<<v10-7-24,24>>^ Estabelecestes solidamente o vosso povo de Israel para ser eternamente o vosso povo e vós vos tornastes o seu Deus, ó Senhor.
+
+[[v10-7-25]]
+
+^<<v10-7-25,25>>^ E agora, Senhor Deus, cumpri para sempre a promessa que fizestes a respeito do vosso servo e da sua casa e fazei como dissestes.
+
+[[v10-7-26]]
+
+^<<v10-7-26,26>>^ Então será para sempre exaltado o vosso nome e dirão: ‘O Senhor dos exércitos é o Deus de Israel’. E permaneça estável diante de vós a casa de vosso servo Davi.
+
+[[v10-7-27]]
+
+^<<v10-7-27,27>>^ Porque vós mesmo, ó Senhor dos exércitos, fizestes ao vosso servo esta revelação: ‘Eu te construirei uma casa’. Por isso, o vosso servo atreveu-se a dirigir-vos essa prece.
+
+[[v10-7-28]]
+
+^<<v10-7-28,28>>^ Agora, ó Senhor Javé, vós sois Deus e vossas palavras são a mesma verdade. Pois que prometestes ao vosso servo esta graça,
+
+[[v10-7-29]]
+
+^<<v10-7-29,29>>^ abençoai desde agora a sua casa para que ela subsista para sempre diante de vós. Porque sois vós, Senhor Javé, que falastes e graças à vossa bênção a casa de vosso servo será abençoada para sempre”.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-006.adoc#v10-6-0[&#60; Capítulo Anterior] | <<v10-7-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-008.adoc#v10-8-0[Próximo Capítulo &#62;]

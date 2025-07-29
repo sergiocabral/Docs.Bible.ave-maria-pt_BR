@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v24-27-0]]
+=== Provérbios, 27
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Provérbios 27 traz diversos ensinamentos sobre a vida e as relações humanas, incluindo a importância da amizade verdadeira, da sabedoria e da humildade. Alguns temas abordados incluem a vaidade, a importância da honestidade, a necessidade de se ter bons conselhos, a importância de cuidar das relações e a necessidade de se cultivar a sabedoria. Abaixo estão cinco versículos relacionados a esses temas.
+* Provérbios 27:2: "Que o outro louve você, e não a sua própria boca; um estranho, e não os seus próprios lábios." Esse versículo fala sobre a importância de ser humilde e não buscar elogios ou reconhecimento para si mesmo.
+* Provérbios 27:6: "Feridas feitas por quem ama são leais, mas beijos de um inimigo são enganosos." Esse versículo destaca a importância de ter amigos verdadeiros, que são honestos e que nos ajudam a crescer, mesmo que isso signifique nos confrontar com verdades difíceis.
+* Provérbios 27:9: "O óleo e o incenso alegram o coração; assim é doce a amizade sincera." Esse versículo destaca a importância da amizade verdadeira e como ela pode trazer alegria e conforto ao coração.
+* Provérbios 27:17: "Assim como o ferro afia o ferro, o homem afia o seu companheiro." Esse versículo enfatiza a importância de ter bons conselhos e de cultivar relacionamentos saudáveis que nos ajudem a crescer e a amadurecer.
+* Provérbios 27:23: "Dê atenção ao estado do seu rebanho, cuide dos seus rebanhos com cuidado e atenção." Esse versículo fala sobre a importância de cuidar das relações e das responsabilidades que nos são confiadas, incluindo as relações interpessoais.
+****
+
+[[v24-27-1]]
+
+^<<v24-27-1,1>>^ Não te gabes do dia de amanhã porque não sabes o que ele poderá engendrar.
+
+[[v24-27-2]]
+
+^<<v24-27-2,2>>^ Que seja outro que te louve, não a tua própria boca; um estranho, não teus próprios lábios.
+
+[[v24-27-3]]
+
+^<<v24-27-3,3>>^ Pesada é a pedra, pesada a areia, mais pesada ainda é a cólera de um tolo.
+
+[[v24-27-4]]
+
+^<<v24-27-4,4>>^ Crueldade do furor, ímpetos da cólera: mas quem pode suportar o ciúme?
+
+[[v24-27-5]]
+
+^<<v24-27-5,5>>^ Melhor é a correção manifesta do que uma amizade fingida.
+
+[[v24-27-6]]
+
+^<<v24-27-6,6>>^ As feridas do amigo são provas de lealdade, mas os beijos do que odeia são abundantes.
+
+[[v24-27-7]]
+
+^<<v24-27-7,7>>^ Saciado o apetite, calca aos pés o favo de mel; para o faminto tudo o que é amargo parece doce.
+
+[[v24-27-8]]
+
+^<<v24-27-8,8>>^ Um pássaro que anda longe do seu ninho: tal é o homem que vive longe de sua terra.
+
+[[v24-27-9]]
+
+^<<v24-27-9,9>>^ Azeite e incenso alegram o coração: a bondade de um amigo consola a alma.^&#42;1^
+
+[[v24-27-10]]
+
+^<<v24-27-10,10>>^ Não abandones teu amigo, o amigo de teu pai; não vás à casa do teu irmão em dia de aflição. Vale mais um vizinho que está perto, que um irmão distante.^&#42;1^
+
+[[v24-27-11]]
+
+^<<v24-27-11,11>>^ Sê sábio, meu filho, alegrarás meu coração e eu poderei responder ao que me ultrajar.
+
+[[v24-27-12]]
+
+^<<v24-27-12,12>>^ O homem prudente percebe o mal e se põe a salvo; os imprudentes passam adiante e aguentam o peso.
+
+[[v24-27-13]]
+
+^<<v24-27-13,13>>^ Toma a sua veste, porque ficou fiador de outrem, exige o penhor que deve aos estrangeiros.
+
+[[v24-27-14]]
+
+^<<v24-27-14,14>>^ Quem, desde o amanhecer, louva seu vizinho em alta voz é censurado de o ter amaldiçoado.
+
+[[v24-27-15]]
+
+^<<v24-27-15,15>>^ Goteira que cai de contínuo em dia de chuva e mulher litigiosa, tudo é a mesma coisa.
+
+[[v24-27-16]]
+
+^<<v24-27-16,16>>^ Querer retê-la é reter o vento, ou pegar azeite com a mão.
+
+[[v24-27-17]]
+
+^<<v24-27-17,17>>^ O ferro com o ferro se aguça; o homem aguça o homem.
+
+[[v24-27-18]]
+
+^<<v24-27-18,18>>^ Quem trata de sua figueira, comerá seu fruto; quem cuida do seu senhor, será honrado.
+
+[[v24-27-19]]
+
+^<<v24-27-19,19>>^ Como o reflexo do rosto na água, assim é o coração do homem para o homem.^&#42;1^
+
+[[v24-27-20]]
+
+^<<v24-27-20,20>>^ A morada dos mortos e o abismo nunca se enchem; assim os olhos do homem são insaciáveis.
+
+[[v24-27-21]]
+
+^<<v24-27-21,21>>^ Há um crisol para a prata, um forno para o ouro; assim o homem é provado pela sua reputação.
+
+[[v24-27-22]]
+
+^<<v24-27-22,22>>^ Ainda que pisasses o insensato num triturador, entre os grãos, com um pilão, sua loucura não se separaria dele.
+
+[[v24-27-23]]
+
+^<<v24-27-23,23>>^ Certifica-te bem do estado do teu gado miúdo; atende aos teus rebanhos,
+
+[[v24-27-24]]
+
+^<<v24-27-24,24>>^ porque a riqueza não é eterna e a coroa não permanece de geração em geração.
+
+[[v24-27-25]]
+
+^<<v24-27-25,25>>^ Quando se abre o prado, quando brotam as ervas, uma vez recolhido o feno das montanhas,
+
+[[v24-27-26]]
+
+^<<v24-27-26,26>>^ tens ainda cordeiros para te vestir e bodes para pagares um campo,
+
+[[v24-27-27]]
+
+^<<v24-27-27,27>>^ leite de cabra suficiente para teu sustento, para o sustento de tua casa e a manutenção das tuas servas.
+
+'''
+
+xref:024-proverbios/024-proverbios-026.adoc#v24-26-0[&#60; Capítulo Anterior] | <<v24-27-0,Topo>> | xref:024-proverbios/024-proverbios-028.adoc#v24-28-0[Próximo Capítulo &#62;]

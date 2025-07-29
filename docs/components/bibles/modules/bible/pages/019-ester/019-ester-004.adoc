@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v19-4-0]]
+=== Ester, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ester 4 relata a angústia de Mardoqueu e de todos os judeus diante do decreto do rei assírio que autorizava a execução de todos os judeus. Ester, que é judia, é informada por Mardoqueu sobre a situação e encorajada a falar com o rei para interceder por seu povo. Abaixo estão cinco versículos relacionados com os temas abordados em Ester 4:
+* Deuteronômio 31:6: "Sede fortes e corajosos; não temais, nem vos atemorizeis diante deles; pois o SENHOR, vosso Deus, é quem vai convosco; não vos deixará, nem vos desamparará." Assim como Mardoqueu encorajou Ester a ser corajosa, este versículo encoraja o povo de Deus a ser forte e corajoso, confiando que Deus sempre os acompanhará.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Esse verso é uma outra passagem que encoraja os crentes a não terem medo, confiando no poder de Deus para ajudá-los em todas as situações.
+* Filipenses 4:6-7: "Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplicas, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará o vosso coração e a vossa mente em Cristo Jesus." Esse verso mostra a importância da oração e da gratidão em tempos difíceis, e que Deus é capaz de nos trazer paz mesmo em meio à angústia.
+* Hebreus 13:6: "De maneira que, tendo o Senhor cuidado de nós, não temamos, pois, dizer: O Senhor é o meu ajudador, e não temerei o que me possa fazer o homem." Este verso reforça a ideia de que Deus é nosso ajudador e protetor, e que não precisamos temer nada que os homens possam fazer.
+* Salmo 34:4: "Busquei o SENHOR, e ele me respondeu; livrou-me de todos os meus temores." Este Salmo mostra como o salmista buscou a Deus em um momento de medo e angústia e foi ouvido e socorrido por Ele. Esse verso pode encorajar os crentes a buscar a Deus em oração, mesmo em momentos difíceis.
+****
+
+[[v19-4-1]]
+
+^<<v19-4-1,1>>^ Quando Mardoqueu soube o que se tinha passado rasgou suas vestes, cobriu-se de saco e de cinza. Em seguida, percorreu a cidade, dando gritos de dor.
+
+[[v19-4-2]]
+
+^<<v19-4-2,2>>^ Veio desse modo até diante da porta do rei, pela qual ninguém tinha o direito de passar com vestes de luto.^&#42;1^
+
+[[v19-4-3]]
+
+^<<v19-4-3,3>>^ Em cada província, em toda a parte onde chegavam a ordem do rei e seu edito, havia grande desolação entre os judeus. Jejuaram, choraram e fizeram lamentações; e muitos se deitavam sobre o saco e a cinza.
+
+[[v19-4-4]]
+
+^<<v19-4-4,4>>^ As servas de Ester e seus eunucos vieram contar-lhe o que se passava, e isso lhe causou grande temor. Mandou roupas para revestir Mardoqueu, fazendo-lhe despir o saco de que estava coberto, mas ele não as aceitou.
+
+[[v19-4-5]]
+
+^<<v19-4-5,5>>^ Então, Ester, chamando Atac, um dos eunucos que o rei tinha colocado a seu serviço, encarregou-o de perguntar a Mardoqueu o que significavam aqueles sinais de dor.
+
+[[v19-4-6]]
+
+^<<v19-4-6,6>>^ Atac foi ter com Mardoqueu, que estava na praça da cidade, diante da porta do rei.
+
+[[v19-4-7]]
+
+^<<v19-4-7,7>>^ Soube dele tudo o que tinha acontecido e a quantia de dinheiro que Amã tinha prometido depositar no tesouro real, em troca da destruição dos judeus.
+
+[[v19-4-8]]
+
+^<<v19-4-8,8>>^ Mardoqueu lhe entregou também uma cópia do edito, publicado em Susa, para exterminá-los. Devia mostrá-la a Ester, para que ficasse informada de tudo e movê-la a ir ter com o rei para implorar sua graça e interceder junto dele em favor do povo.
+
+[[v19-4-9]]
+
+^<<v19-4-9,9>>^ Atac veio relatar a Ester as palavras de Mardoqueu,
+
+[[v19-4-10]]
+
+^<<v19-4-10,10>>^ mas a rainha mandou Atac responder-lhe:
+
+[[v19-4-11]]
+
+^<<v19-4-11,11>>^ “Todos os servos do rei e o povo de suas províncias sabem bem que, para quem quer que seja, homem ou mulher, que penetrar sem ser chamado na câmara interior do palácio, há uma lei real condenando-o à morte, exceção feita somente àquele para o qual o rei estender seu cetro de ouro, conservando-lhe a vida. E eis que são já trinta dias que não sou chamada à presença do rei”.
+
+[[v19-4-12]]
+
+^<<v19-4-12,12>>^ As palavras de Ester foram referidas a Mardoqueu, que lhe mandou responder:
+
+[[v19-4-13]]
+
+^<<v19-4-13,13>>^ “Não imagines que serás a única entre todos os judeus a escapar, por estares no palácio.
+
+[[v19-4-14]]
+
+^<<v19-4-14,14>>^ Se te calares agora, o socorro e a libertação virão aos judeus de outra parte; mas tu e a casa de teu pai perecereis. E quem sabe se não foi para essas circunstâncias que chegaste à realeza?”.
+
+[[v19-4-15]]
+
+^<<v19-4-15,15>>^ Ester mandou responder a Mardoqueu:
+
+[[v19-4-16]]
+
+^<<v19-4-16,16>>^ “Vai reunir todos os judeus de Susa. Jejuai por mim sem comer nem beber durante três dias e três noites. Eu e minhas servas também jejuaremos. Depois disso, apesar da lei, irei ter com o rei. Se for preciso morrer, morrerei”.^&#42;1^
+
+[[v19-4-17]]
+
+^<<v19-4-17,17>>^ Mardoqueu se retirou e fez o que Ester pediu.
+
+'''
+
+xref:019-ester/019-ester-003.adoc#v19-3-0[&#60; Capítulo Anterior] | <<v19-4-0,Topo>> | xref:019-ester/019-ester-005.adoc#v19-5-0[Próximo Capítulo &#62;]

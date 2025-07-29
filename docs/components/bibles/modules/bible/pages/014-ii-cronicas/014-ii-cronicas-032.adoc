@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v14-32-0]]
+=== II Crônicas, 32
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Crônicas 32 conta a história de Senaqueribe, rei da Assíria, sitiando Jerusalém e desafiando o Deus de Israel. Ezequias, rei de Judá, confiou no Senhor e liderou o povo em oração e preparação para a batalha. Deus respondeu à sua fé e enviou um anjo para destruir o exército assírio. Aqui estão cinco versículos relacionados aos temas deste capítulo:
+* Salmos 46:1: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia." Este versículo fala sobre a confiança em Deus em tempos de perigo e necessidade, exatamente o que Ezequias e o povo de Judá fizeram quando enfrentaram o exército assírio.
+* Provérbios 21:31: "O cavalo é preparado para o dia da batalha, mas a vitória vem do Senhor." Este versículo fala sobre a importância da preparação para a batalha, mas também sobre a necessidade de confiar em Deus para a vitória. Ezequias liderou o povo de Judá em preparação para a batalha, mas também confiou em Deus para a vitória.
+* Isaías 37:14-15: "Ezequias tomou a carta das mãos dos mensageiros e a leu; então subiu à casa do Senhor e a estendeu perante o Senhor. E Ezequias orou ao Senhor, dizendo: Ó Senhor dos Exércitos, Deus de Israel, que habitas entre os querubins, só tu és Deus de todos os reinos da terra; tu fizeste os céus e a terra." Este versículo fala sobre a oração de Ezequias a Deus quando recebeu uma carta ameaçadora de Senaqueribe. Ezequias reconheceu que Deus era o único que poderia ajudá-lo em uma situação tão desesperadora.
+* Isaías 37:36: "Então o anjo do Senhor saiu e matou no acampamento dos assírios a cento e oitenta e cinco mil deles; e, quando se levantaram os restantes pela manhã, eis que todos eram cadáveres." Este versículo descreve como Deus enviou um anjo para destruir o exército assírio e salvar Jerusalém. Foi uma demonstração poderosa do poder de Deus e da sua fidelidade para com o seu povo.
+* Romanos 8:31: "Que diremos, pois, a estas coisas? Se Deus é por nós, quem será contra nós?" Este versículo fala sobre a certeza da vitória quando se confia em Deus. Ezequias e o povo de Judá confiaram em Deus e foram vitoriosos contra o exército assírio. É uma lembrança de que Deus está sempre do lado dos seus filhos e que nada pode derrotar aqueles que confiam nele.
+****
+
+[[v14-32-1]]
+
+^<<v14-32-1,1>>^ Depois desses feitos, que eram provas de fidelidade, Senaquerib, rei da Assíria, invadiu Judá e assediou as cidades fortes com o desígnio de se apoderar delas.
+
+[[v14-32-2]]
+
+^<<v14-32-2,2>>^ Quando Ezequias viu que o objetivo de Senaquerib era Jerusalém,
+
+[[v14-32-3]]
+
+^<<v14-32-3,3>>^ resolveu, de acordo com os chefes e seus oficiais, obstruir as águas das nascentes que se encontravam fora da cidade. E todos o ajudaram a executar esse projeto.
+
+[[v14-32-4]]
+
+^<<v14-32-4,4>>^ Juntou muita gente que se pôs a obstruir todas as fontes como também o riacho que corria no meio da terra. “Por que – diziam eles – os reis da Assíria haveriam de encontrar, chegando aqui, água em abundância?”
+
+[[v14-32-5]]
+
+^<<v14-32-5,5>>^ Ezequias, cheio de energia, reparou a muralha em ruína, levantou torres, construiu um segundo muro exterior, restaurou Milo, na Cidade de Davi, e mandou fabricar lanças e escudos em grande abundância.
+
+[[v14-32-6]]
+
+^<<v14-32-6,6>>^ Colocou à frente do exército chefes militares, reuniu-os perto de si na praça da porta da cidade e exortou-os à coragem.
+
+[[v14-32-7]]
+
+^<<v14-32-7,7>>^ “Sede valentes – disse-lhes ele –, cobrai coragem, nenhum temor ou pavor diante do rei da Assíria e toda essa multidão que ele arrasta após si. Há mais conosco do que com ele.
+
+[[v14-32-8]]
+
+^<<v14-32-8,8>>^ Com ele está um braço de carne, conosco está o Senhor, nosso Deus, para nos auxiliar e combater conosco.” A estas palavras de Ezequias, rei de Judá, o povo recobrou confiança.
+
+[[v14-32-9]]
+
+^<<v14-32-9,9>>^ Senaquerib, que se encontrava diante de Laquis com todas as suas forças armadas, enviou uma delegação a Jerusalém para dizer a Ezequias e aos homens de Judá:
+
+[[v14-32-10]]
+
+^<<v14-32-10,10>>^ “Eis o que diz Senaquerib, rei da Assíria: Em que confiais vós para vos encerrardes dessa maneira em Jerusalém?
+
+[[v14-32-11]]
+
+^<<v14-32-11,11>>^ Não vedes que Ezequias vos engana para vos fazer perecer de fome e sede, quando vos diz: O Senhor, nosso Deus, nos salvará das mãos do rei da Assíria?
+
+[[v14-32-12]]
+
+^<<v14-32-12,12>>^ Não foi ele, Ezequias, quem suprimiu os lugares altos e os altares do Senhor, ordenando a Judá e a Jerusalém não se prostrar e não oferecer incenso, senão diante de um só altar?
+
+[[v14-32-13]]
+
+^<<v14-32-13,13>>^ Não sabeis o que fizemos, meus pais e eu, a todos os povos das outras terras? Puderam os deuses dessas nações salvar seus países de minha mão?
+
+[[v14-32-14]]
+
+^<<v14-32-14,14>>^ Entre todos os deuses dessas nações que meus pais exterminaram, qual deles subtraiu sua nação de meu poder, para que vosso Deus vos possa livrar do meu braço?
+
+[[v14-32-15]]
+
+^<<v14-32-15,15>>^ Não vos deixeis, portanto, iludir por Ezequias, nem seduzir. Não confieis nele. Nenhum deus de nenhuma nação nem de algum reino pôde livrar seu povo de minha mão, nem da mão de meus pais. Quanto menos vossos deuses poderiam livrar-vos da minha!”.
+
+[[v14-32-16]]
+
+^<<v14-32-16,16>>^ Os homens de Senaquerib ajuntaram ainda muitas outras palavras contra o Senhor Deus e seu servo Ezequias, seu servo.
+
+[[v14-32-17]]
+
+^<<v14-32-17,17>>^ Ele escreveu também uma carta cheia de ultrajes contra o Senhor, Deus de Israel, na qual o atacava dizendo: “Assim como os deuses das nações não puderam subtraí-las de minha mão, assim também o Deus de Ezequias não poderá livrar seu povo da minha”.
+
+[[v14-32-18]]
+
+^<<v14-32-18,18>>^ E tudo isso gritaram em alta voz, em hebraico, para intimidar e assustar o povo de Jerusalém, que se encontrava na muralha, a fim de apoderar-se da cidade.
+
+[[v14-32-19]]
+
+^<<v14-32-19,19>>^ Falavam do Deus de Jerusalém como dos deuses das nações pagãs que não passam de obras feitas pela mão do homem.
+
+[[v14-32-20]]
+
+^<<v14-32-20,20>>^ Nessa altura, o rei Ezequias e o profeta Isaías, filho de Amós, puseram-se em oração para implorar ao céu.
+
+[[v14-32-21]]
+
+^<<v14-32-21,21>>^ E o Senhor enviou um anjo que exterminou todo o exército do rei da Assíria, no próprio acampamento, com os chefes e os generais. E o rei voltou para a sua terra inteiramente confuso. Quando ele entrava no templo de seu deus, seus filhos, saídos de sua própria carne, assassinaram-no com um golpe de espada.
+
+[[v14-32-22]]
+
+^<<v14-32-22,22>>^ Desse modo, o Senhor livrou Ezequias e os habitantes de Jerusalém da mão de Senaquerib e de todos os seus inimigos, protegendo-os contra todos os seus vizinhos.
+
+[[v14-32-23]]
+
+^<<v14-32-23,23>>^ Muitos foram os que levaram a Jerusalém oferendas para o Senhor e ricos presentes para Ezequias, rei de Judá, que conquistou desde então um grande prestígio aos olhos das nações pagãs.
+
+[[v14-32-24]]
+
+^<<v14-32-24,24>>^ Por aqueles dias, Ezequias caiu numa doença mortal. Orou ao Senhor e este lhe respondeu por um prodígio.
+
+[[v14-32-25]]
+
+^<<v14-32-25,25>>^ Mas Ezequias não se mostrou reconhecido pelo benefício recebido, pois seu coração se ensoberbeceu e a ira do Senhor se inflamou contra ele, como também contra Judá e Jerusalém.
+
+[[v14-32-26]]
+
+^<<v14-32-26,26>>^ Todavia, como ele se humilhou com os habitantes de Jerusalém, do orgulho de seu coração, não se desencadeou sobre ele a ira do Senhor durante sua vida.
+
+[[v14-32-27]]
+
+^<<v14-32-27,27>>^ Ezequias possuía muita riqueza e glória. Mandou fazer depósitos para a prata, o ouro, as pedras preciosas, os aromas, os escudos e os outros objetos de valor. Também construiu
+
+[[v14-32-28]]
+
+^<<v14-32-28,28>>^ armazéns para o trigo, o mosto e o azeite, bem como estábulos para toda a espécie de gado e apriscos para os rebanhos.
+
+[[v14-32-29]]
+
+^<<v14-32-29,29>>^ Construiu para si cidades. Adquiriu um grande número de rebanhos, de gado grande e miúdo, pois o Senhor lhe tinha dado imensas riquezas.
+
+[[v14-32-30]]
+
+^<<v14-32-30,30>>^ Foi ele, Ezequias, quem fechou a saída superior das águas do Gion e as dirigiu para o ocidente da Cidade de Davi. Teve bom êxito em tudo o que empreendeu.^&#42;1^
+
+[[v14-32-31]]
+
+^<<v14-32-31,31>>^ Todavia, quando os chefes da Babilônia lhe enviaram mensageiros para se informar do prodígio que tinha acontecido na terra, Deus o abandonou para provar e conhecer o âmago de seu coração.
+
+[[v14-32-32]]
+
+^<<v14-32-32,32>>^ Os outros atos de Ezequias, suas obras piedosas, tudo isso se acha relatado na visão do profeta Isaías, filho de Amós, e no Livro dos Reis de Judá e de Israel.
+
+[[v14-32-33]]
+
+^<<v14-32-33,33>>^ Ezequias adormeceu entre seus pais e foi sepultado na parte superior dos sepulcros dos filhos de Davi. Todo o Judá e os habitantes de Jerusalém lhe prestaram as honras fúnebres. Seu filho Manassés sucedeu-lhe no trono.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-031.adoc#v14-31-0[&#60; Capítulo Anterior] | <<v14-32-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-033.adoc#v14-33-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v1-17-0]]
+=== Gênesis, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 17 é um capítulo que descreve Deus fazendo uma aliança com Abrão, mudando seu nome para Abraão e instituindo a circuncisão como um sinal dessa aliança. O capítulo aborda temas como a obediência a Deus, a importância da fé e a fidelidade de Deus em cumprir suas promessas. Abaixo seguem cinco versículos relacionados com esses temas, em ordem de proximidade com o capítulo:
+* Romanos 4:3: "Pois o que diz a Escritura? "Abraão creu em Deus, e isso lhe foi creditado como justiça"." Este versículo destaca a importância da fé de Abraão em Deus, que lhe foi creditada como justiça, e que é mencionada em Gênesis 17.
+* Hebreus 11:8: "Pela fé Abraão, quando chamado, obedeceu e dirigiu-se a um lugar que mais tarde receberia como herança, embora não soubesse para onde estava indo." Este versículo destaca a obediência de Abraão em seguir a Deus, mesmo sem saber para onde estava indo, o que é mencionado em Gênesis 17 quando Deus lhe diz para "andar em minha presença e seja íntegro".
+* Colossenses 2:11-12: "Nele também vocês foram circuncidados, não com uma circuncisão feita por mãos humanas, mas com a circuncisão feita por Cristo, que é o despojamento do corpo da carne. Isso aconteceu quando vocês foram sepultados com ele no batismo, e nele foram ressuscitados mediante a fé no poder de Deus que o ressuscitou dentre os mortos." Este versículo fala sobre a circuncisão espiritual que ocorre quando uma pessoa é batizada e crê em Cristo, o que é um cumprimento espiritual da circuncisão física mencionada em Gênesis 17.
+* 2 Timóteo 2:13: "Se somos infiéis, ele permanece fiel, pois não pode negar-se a si mesmo." Este versículo destaca a fidelidade de Deus em cumprir suas promessas, mesmo quando as pessoas são infiéis, o que é evidenciado em Gênesis 17 quando Deus promete a Abraão que terá descendência e lhe dará a terra de Canaã.
+* Gálatas 3:29: "Se vocês são de Cristo, são descendência de Abraão e herdeiros segundo a promessa." Este versículo destaca a importância da descendência espiritual de Abraão, que é mencionada em Gênesis 17 quando Deus promete a Abraão que será o pai de muitas nações.
+****
+
+[[v1-17-1]]
+
+^<<v1-17-1,1>>^ Abrão tinha noventa e nove anos. O Senhor apareceu-lhe e disse-lhe: “Eu sou o Deus Todo-poderoso. Anda em minha presença e sê íntegro;
+
+[[v1-17-2]]
+
+^<<v1-17-2,2>>^ quero fazer aliança contigo e multiplicarei ao infinito a tua descendência”.
+
+[[v1-17-3]]
+
+^<<v1-17-3,3>>^ Abrão prostrou-se com o rosto por terra. Deus disse-lhe:
+
+[[v1-17-4]]
+
+^<<v1-17-4,4>>^ “Este é o pacto que faço contigo: serás o pai de uma multidão de povos.
+
+[[v1-17-5]]
+
+^<<v1-17-5,5>>^ De agora em diante não te chamarás mais Abrão, e sim Abraão, porque farei de ti o pai de uma multidão de povos.^&#42;1^
+
+[[v1-17-6]]
+
+^<<v1-17-6,6>>^ Tornarei a ti extremamente fecundo, farei nascer de ti nações e terás reis por descendentes.
+
+[[v1-17-7]]
+
+^<<v1-17-7,7>>^ Faço aliança contigo e com tua posteridade, uma aliança eterna, de geração em geração, para que eu seja o teu Deus e o Deus de tua posteridade.
+
+[[v1-17-8]]
+
+^<<v1-17-8,8>>^ Darei a ti e a teus descendentes depois de ti a terra em que moras como peregrino, toda a terra de Canaã, em possessão perpétua, e serei o teu Deus”.
+
+[[v1-17-9]]
+
+^<<v1-17-9,9>>^ Deus disse ainda a Abraão: “Tu, porém, guardarás a minha aliança, tu e tua posteridade nas gerações futuras.
+
+[[v1-17-10]]
+
+^<<v1-17-10,10>>^ Eis o pacto que faço entre mim e vós, e teus descendentes, e que tereis de guardar: todo homem, entre vós, será circuncidado.
+
+[[v1-17-11]]
+
+^<<v1-17-11,11>>^ Cortareis a carne de vosso prepúcio, e isso será o sinal da aliança entre mim e vós.
+
+[[v1-17-12]]
+
+^<<v1-17-12,12>>^ Todo homem, no oitavo dia do seu nascimento, será circuncidado entre vós nas gerações futuras, tanto o que nascer em casa, como o que comprardes a preço de dinheiro de um estrangeiro qualquer, e que não for de tua raça.
+
+[[v1-17-13]]
+
+^<<v1-17-13,13>>^ Serão circuncidados tanto o homem nascido na casa como aquele que for comprado a preço de dinheiro. Assim será marcado em vossa carne o sinal de minha aliança perpétua.
+
+[[v1-17-14]]
+
+^<<v1-17-14,14>>^ O varão incircunciso, do qual não se tenha cortado a carne do prepúcio, será exterminado de seu povo por ter violado minha aliança”.
+
+[[v1-17-15]]
+
+^<<v1-17-15,15>>^ Disse Deus a Abraão: “Não chamarás mais tua mulher Sarai, e sim Sara.
+
+[[v1-17-16]]
+
+^<<v1-17-16,16>>^ Eu a abençoarei, e dela te darei um filho. Eu a abençoarei, e ela será a mãe de nações e dela sairão reis”.
+
+[[v1-17-17]]
+
+^<<v1-17-17,17>>^ Abraão prostrou-se com o rosto por terra, e começou a rir, dizendo consigo: “Poderia nascer um filho a um homem de cem anos? Seria possível a Sara conceber ainda na idade de noventa anos?”.
+
+[[v1-17-18]]
+
+^<<v1-17-18,18>>^ E disse a Deus: “Oxalá que Ismael viva diante de vossa face!”.
+
+[[v1-17-19]]
+
+^<<v1-17-19,19>>^ Mas Deus respondeu-lhe: “Não, é Sara, tua mulher que dará à luz um filho, ao qual chamarás Isaac. Farei aliança com ele, uma aliança que será perpétua para sua posteridade depois dele.
+
+[[v1-17-20]]
+
+^<<v1-17-20,20>>^ Eu te ouvirei também acerca de Ismael. Eu o abençoarei, o tornarei fecundo e multiplicarei extraordinariamente sua descendência: ele será o pai de doze príncipes, e farei sair dele uma grande nação.
+
+[[v1-17-21]]
+
+^<<v1-17-21,21>>^ Mas minha aliança eu a farei com Isaac, que Sara te dará à luz dentro de um ano, nesta mesma época”.
+
+[[v1-17-22]]
+
+^<<v1-17-22,22>>^ Tendo acabado de falar com ele, retirou-se Deus de Abraão.
+
+[[v1-17-23]]
+
+^<<v1-17-23,23>>^ Abraão tomou então Ismael, seu filho, assim como todos os homens nascidos em sua casa e todos aqueles que tinha comprado a preço de dinheiro, tudo o que havia de varões em sua casa, e circuncidou-os no mesmo dia, como Deus lhe tinha ordenado.
+
+[[v1-17-24]]
+
+^<<v1-17-24,24>>^ Abraão tinha noventa e nove anos quando foi circuncidado.
+
+[[v1-17-25]]
+
+^<<v1-17-25,25>>^ Ismael, seu filho, tinha treze anos quando o foi igualmente.
+
+[[v1-17-26]]
+
+^<<v1-17-26,26>>^ Abraão e Ismael, seu filho, foram circuncidados no mesmo dia;
+
+[[v1-17-27]]
+
+^<<v1-17-27,27>>^ e todos os homens de sua casa, nascidos em sua casa ou comprados a preço de dinheiro a estrangeiros, foram circuncidados ao mesmo tempo.
+
+'''
+
+xref:001-genesis/001-genesis-016.adoc#v1-16-0[&#60; Capítulo Anterior] | <<v1-17-0,Topo>> | xref:001-genesis/001-genesis-018.adoc#v1-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v14-2-0]]
+=== II Crônicas, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Crônicas 2 descreve a preparação de Salomão para a construção do templo do Senhor em Jerusalém. Ele envia uma mensagem ao rei de Tiro, Hirão, pedindo ajuda na obtenção de madeira de cedro e cipreste do Líbano, além de artesãos para trabalharem na construção. Hirão concorda em fornecer os materiais e os trabalhadores, e Salomão faz os preparativos para receber e pagar por eles. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Crônicas 2:
+* Isaías 60:13: "Para a glória de meu santuário farei crescer a faixa de terra" Este verso fala sobre a expansão da terra para a glória do santuário do Senhor. A construção do templo de Salomão também foi feita para glorificar o Senhor e aumentar a expansão da terra.
+* 1 Reis 5:6: "O meu povo tomou sobre si o jugo pesado e a madeira de cedro que lhe vou dar será uma leveza." Este verso mostra como Salomão estava preocupado com o bem-estar do seu povo. Ele queria construir o templo sem sobrecarregá-los e, por isso, pediu ajuda a Hirão para obter madeira de cedro.
+* 2 Crônicas 3:1: "Salomão começou a construir o templo do Senhor em Jerusalém no monte Moriá, onde o Senhor havia aparecido a seu pai Davi" Este verso descreve o início da construção do templo do Senhor. Salomão escolheu o monte Moriá porque foi lá que o Senhor apareceu a Davi.
+* 2 Crônicas 4:1: "Ele fez um altar de bronze, vinte côvados de comprimento, vinte de largura e dez de altura." Este verso descreve a construção do altar de bronze para o templo. O altar foi feito para os sacrifícios e ofertas que seriam oferecidos ao Senhor.
+* 1 Reis 7:13-14: "Ele o enviou a trabalhar em ouro, prata e bronze, em corte, em pedras de engaste, e em carpintaria, e em todo tipo de obra artística. E foi encontrado em sua arte uma grande habilidade em trabalhar com ouro, prata e bronze." Estes versos descrevem Hirão, o artesão enviado por Hirão, rei de Tiro, para trabalhar na construção do templo. Ele tinha habilidades em trabalhar com ouro, prata, bronze e outros materiais, o que seria importante para a construção do templo de Salomão.
+****
+
+[[v14-2-1]]
+
+^<<v14-2-1,1>>^ Decidiu Salomão edificar um templo ao nome do Senhor, e construir para si próprio um palácio.
+
+[[v14-2-2]]
+
+^<<v14-2-2,2>>^ Ele alistou setenta mil carregadores, oitenta mil cortadores de pedra na montanha, e três mil e seiscentos guardas de obras.
+
+[[v14-2-3]]
+
+^<<v14-2-3,3>>^ Em seguida, mandou dizer a Hiram, rei de Tiro: “Digna-te fazer para mim o que fizeste para meu pai Davi, a quem enviaste cedros para construir uma casa.
+
+[[v14-2-4]]
+
+^<<v14-2-4,4>>^ Quero edificar um templo ao nome do Senhor, meu Deus; a ele eu o consagrarei e nele farei queimar em sua presença perfumes aromáticos. Eu lhe mandarei apresentar continuamente pães e oferecer os holocaustos da manhã e da tarde, dos sábados, do princípio de cada mês e das festas do Senhor, nosso Deus, segundo a lei eterna prescrita a Israel.
+
+[[v14-2-5]]
+
+^<<v14-2-5,5>>^ O templo que vou construir deve ser grande, pois nosso Deus é maior que todos os deuses.
+
+[[v14-2-6]]
+
+^<<v14-2-6,6>>^ Mas, quem será capaz de construir-lhe uma casa, uma vez que o céu e o céu dos céus não podem contê-lo? Quem sou eu para fazer isso? Não posso senão mandar queimar incenso diante dele.
+
+[[v14-2-7]]
+
+^<<v14-2-7,7>>^ Digna-te, portanto, enviar-me um homem experiente no trabalho do ouro, da prata, do bronze, do ferro, da púrpura azul e violeta, um homem que entenda suficientemente de escultura para dirigir os artífices de Judá e de Jerusalém, que meu pai Davi reuniu junto de mim.
+
+[[v14-2-8]]
+
+^<<v14-2-8,8>>^ Manda-me do Líbano madeira de cedro, cipreste e sândalo, pois eu sei que teus súditos são peritos em cortar as madeiras do Líbano. Meus servos auxiliarão os teus.
+
+[[v14-2-9]]
+
+^<<v14-2-9,9>>^ Manda-me preparar madeira em grande quantidade, porque o templo que vou construir será grande e magnífico.
+
+[[v14-2-10]]
+
+^<<v14-2-10,10>>^ A teus servos que hão de cortar as madeiras, darei por alimento vinte mil coros de trigo, vinte mil coros de cevada, vinte mil batos de vinho e vinte mil batos de azeite”.
+
+[[v14-2-11]]
+
+^<<v14-2-11,11>>^ Hiram, rei de Tiro, respondeu numa carta que enviou a Salomão: “É porque o Senhor ama seu povo, que te constituiu rei sobre ele.
+
+[[v14-2-12]]
+
+^<<v14-2-12,12>>^ Bendito seja o Senhor, Deus de Israel, que fez o céu e a terra, que deu ao rei Davi um filho sábio, inteligente e prudente, que vai construir um templo ao Senhor, assim como um palácio real.
+
+[[v14-2-13]]
+
+^<<v14-2-13,13>>^ Envio-te, portanto, um homem hábil e entendido, Hiram-Abi,
+
+[[v14-2-14]]
+
+^<<v14-2-14,14>>^ filho de uma mulher da tribo de Dã e de um pai tírio. Ele sabe trabalhar em ouro, em prata, em bronze, em ferro, em madeira, em púrpura azul e violeta, em linho fino e em carmesim; ele sabe fazer todas as espécies de esculturas e elabora todo plano que se lhe confie. Trabalhará ele com teus artífices e com os de meu senhor Davi, teu pai.
+
+[[v14-2-15]]
+
+^<<v14-2-15,15>>^ Que meu senhor envie, portanto, a seus servos o trigo, a cevada, o azeite e o vinho de que falou.
+
+[[v14-2-16]]
+
+^<<v14-2-16,16>>^ Cortaremos madeiras do Líbano, na medida em que delas precisareis e vamos enviá-la pelo mar, em jangadas, até Jope, donde farás subir até Jerusalém”.
+
+[[v14-2-17]]
+
+^<<v14-2-17,17>>^ Salomão fez o recenseamento de todos os estrangeiros que habitavam em Israel, segundo o recenseamento que já tinha feito seu pai Davi. O número deles foi cento e cinquenta e três mil e seiscentos.
+
+[[v14-2-18]]
+
+^<<v14-2-18,18>>^ Deles designou setenta mil carregadores, oitenta mil como cortadores de pedras na montanha e três mil e seiscentos inspetores de obras para incentivar toda essa gente.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-001.adoc#v14-1-0[&#60; Capítulo Anterior] | <<v14-2-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-003.adoc#v14-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v9-30-0]]
+=== I Samuel, 30
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Samuel 30 narra o episódio em que Davi e seus homens retornam a Ziclague e descobrem que a cidade foi saqueada e suas mulheres e filhos foram levados como cativos pelos amalequitas. Davi lidera seus homens em busca dos amalequitas e, com a ajuda de Deus, derrota-os e resgata suas famílias. Os versículos selecionados abaixo tratam de temas como a perda e recuperação de bens e família, a importância da confiança em Deus em momentos difíceis e a generosidade e responsabilidade social.
+* Gênesis 14:16: "E trouxe de volta todos os bens, e também trouxe de volta seu irmão Ló e seus bens, e as mulheres e o povo." Este versículo relata o resgate de Ló e seus bens após ele ter sido capturado pelos reis que guerreavam na região. Assim como Davi resgatou sua família e seus bens, Abrão também resgatou Ló e seus bens. Ambos confiaram em Deus e foram bem-sucedidos em sua missão.
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado e salva os de espírito oprimido." Este verso fala sobre a proximidade de Deus com aqueles que estão passando por momentos difíceis. Quando Davi e seus homens chegaram a Ziclague e descobriram que suas famílias haviam sido capturadas, eles ficaram arrasados e com o coração quebrantado. Este versículo destaca a importância da confiança em Deus em momentos de adversidade.
+* Provérbios 3:27: "Não recuse um favor a quem dele precisa, estando em tuas mãos a capacidade de realizá-lo." Este verso fala sobre a importância de ser generoso e ajudar aqueles que precisam. Quando Davi e seus homens resgataram suas famílias, eles também encontraram um egípcio abandonado pelos amalequitas. Eles o alimentaram e cuidaram dele antes de interrogá-lo e descobrir a localização dos amalequitas. Este versículo destaca a importância da generosidade e da responsabilidade social.
+* 2 Coríntios 1:3-4: "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai de misericórdias e Deus de toda consolação, que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em qualquer angústia, com a consolação com que nós mesmos somos consolados por Deus." Este trecho fala sobre a consolação que Deus nos oferece em momentos de tribulação e como podemos usá-la para consolar aqueles que também estão passando por dificuldades. Quando Davi e seus homens encontraram o egípcio abandonado pelos amalequitas, eles o alimentaram e cuidaram dele antes de interrogá-lo e descobrir a localização dos amalequitas. Este verso destaca a importância de sermos consolados por Deus para que possamos consolar os outros.
+* Mateus 6:19-21: "Não acumuleis para vós tesouros na terra, onde a traça e a ferrugem corroem e onde os ladrões furtam e roubam; mas ajuntai para vós tesouros no céu, onde nem a traça nem a ferrugem corrompem, e onde ladrões não escavam, nem roubam; pois onde está o teu tesouro, aí estará também o teu coração." Esses versículos abordam a importância de valorizar e investir em coisas eternas e não em tesouros terrenos, que são perecíveis e podem ser perdidos. O texto nos lembra que o lugar onde depositamos nossas riquezas revela a verdadeira posição de nossos corações.
+****
+
+[[v9-30-1]]
+
+^<<v9-30-1,1>>^ Tendo Davi e seus homens chega-do a Siceleg ao terceiro dia, com sua tropa, tinham os amalecitas feito uma incursão no Negueb e em Siceleg, ferindo e incendiando a cidade.
+
+[[v9-30-2]]
+
+^<<v9-30-2,2>>^ Haviam tomado as mulheres e todos os que ali se achavam, desde o menor até o maior; não mataram ninguém, mas levaram todos cativos para a sua terra.
+
+[[v9-30-3]]
+
+^<<v9-30-3,3>>^ Davi e seus homens, ao chegarem, encontraram a cidade incendiada e suas mulheres, filhos e filhas levados cativos.
+
+[[v9-30-4]]
+
+^<<v9-30-4,4>>^ Por isso, choraram até não poder mais.
+
+[[v9-30-5]]
+
+^<<v9-30-5,5>>^ As duas mulheres de Davi, Aquinoam de Jezrael e Abigail de Carmelo, viúva de Nabal, estavam também presas.
+
+[[v9-30-6]]
+
+^<<v9-30-6,6>>^ Davi afligiu-se em extremo, porque os seus queriam apedrejá-lo, estando todos amargurados por causa da perda de seus filhos e filhas. Mas Davi se reconfortou no Senhor, seu Deus.
+
+[[v9-30-7]]
+
+^<<v9-30-7,7>>^ E disse ao sacerdote Abiatar, filho de Abimelec: “Traze-me o efod”. Abiatar trouxe-lhe o efod.
+
+[[v9-30-8]]
+
+^<<v9-30-8,8>>^ Davi consultou o Senhor: “Devo perseguir essa gente? Vou alcançá-la?”. “Persegue-os – respondeu o Senhor –; tu os alcançarás certamente e os vencerás.”
+
+[[v9-30-9]]
+
+^<<v9-30-9,9>>^ Davi pôs-se em marcha com os seiscentos homens de sua tropa e chegaram à torrente de Besor, onde ficaram os que já estavam esgotados.
+
+[[v9-30-10]]
+
+^<<v9-30-10,10>>^ Davi prosseguiu a perseguição com quatrocentos homens, pois duzentos tinham ficado atrás, estando por demais cansados para poderem atravessar a torrente de Besor.
+
+[[v9-30-11]]
+
+^<<v9-30-11,11>>^ Encontraram no campo um egípcio e levaram-no a Davi. Deram-lhe pão para comer, água para beber,
+
+[[v9-30-12]]
+
+^<<v9-30-12,12>>^ um pedaço de torta de figos secos e duas tortas de uvas secas. Ele comeu e recobrou as forças, porque havia três dias e três noites que nada tinha comido nem bebido.
+
+[[v9-30-13]]
+
+^<<v9-30-13,13>>^ Davi disse-lhe: “Quem és tu e de onde és?”. “Eu sou um escravo egípcio – respondeu ele – a serviço de um amalecita. Meu senhor abandonou-me há três dias porque caí doente.
+
+[[v9-30-14]]
+
+^<<v9-30-14,14>>^ Fizemos uma incursão no Negueb dos cereteus, no território de Judá, no Negueb de Caleb e incendiamos Siceleg”.
+
+[[v9-30-15]]
+
+^<<v9-30-15,15>>^ Davi disse-lhe: “Queres conduzir-me a esse bando?”. “Jura-me pelo nome de Deus – respondeu o homem – que não me matarás, nem me entregarás ao meu senhor e eu te guiarei até esse bando.”
+
+[[v9-30-16]]
+
+^<<v9-30-16,16>>^ Guiados pelo egípcio, alcançaram-nos. Os amalecitas estavam espalhados por todo o campo, comendo, bebendo e festejando por causa da enorme presa que tinham tomado na terra dos filisteus e de Judá.
+
+[[v9-30-17]]
+
+^<<v9-30-17,17>>^ Davi feriu-os do romper do dia à tarde do dia seguinte e só escaparam quatrocentos homens, que fugiram montados em camelos.
+
+[[v9-30-18]]
+
+^<<v9-30-18,18>>^ Recobrou Davi tudo o que os amalecitas tinham tomado, salvando também as suas duas mulheres.
+
+[[v9-30-19]]
+
+^<<v9-30-19,19>>^ E não faltou ninguém, nem pequeno nem grande, nem filho nem filha, nem o que quer que seja do espólio que tinham levado: Davi reconduziu tudo de volta.
+
+[[v9-30-20]]
+
+^<<v9-30-20,20>>^ E tomou também todos os rebanhos e manadas, diante dos quais iam os homens, gritando: “Eis a presa de Davi!”.
+
+[[v9-30-21]]
+
+^<<v9-30-21,21>>^ Foi, pois, Davi juntar-se aos duzentos homens deixados na torrente de Besor, por estarem cansados demais para segui-lo. E eles vieram ao encontro de Davi e de sua tropa e Davi saudou-os ao chegar junto deles.
+
+[[v9-30-22]]
+
+^<<v9-30-22,22>>^ Todos os malvados, porém, todos os maus elementos que se encontravam na tropa de Davi começaram a dizer: “Visto que eles não foram conosco, nada lhes daremos do espólio recuperado, salvo, a cada um, a sua mulher e seus filhos. Que os tomem e se retirem!”.
+
+[[v9-30-23]]
+
+^<<v9-30-23,23>>^ “Não façais assim, meus irmãos – interveio Davi – com o que o Senhor nos deu, depois de nos ter protegido e nos ter entregue nas mãos a tropa que se tinha levantado contra nós!
+
+[[v9-30-24]]
+
+^<<v9-30-24,24>>^ Quem poderia aceitar a proposta que fazeis? A parte dos que ficaram junto às bagagens será a mesma que a daqueles que foram ao combate. Eles compartilharão.”
+
+[[v9-30-25]]
+
+^<<v9-30-25,25>>^ A partir daquele dia, estabeleceu Davi em Israel esse costume e esse direito que subsiste ainda hoje.
+
+[[v9-30-26]]
+
+^<<v9-30-26,26>>^ De volta a Siceleg, enviou Davi uma parte do espólio aos anciãos de Judá, seus amigos, com esta mensagem: “Eis um presente para vós, proveniente do espólio tomado aos inimigos do Senhor”.
+
+[[v9-30-27]]
+
+^<<v9-30-27,27>>^ Enviou igualmente uma parte aos de Betel, de Ramá, do Negueb,
+
+[[v9-30-28]]
+
+^<<v9-30-28,28>>^ de Jeter, de Aroer, de Sefamot, de Estemo,
+
+[[v9-30-29]]
+
+^<<v9-30-29,29>>^ de Racal, aos das cidades dos jerameelitas, aos das cidades dos cineus, aos de Horma,
+
+[[v9-30-30]]
+
+^<<v9-30-30,30>>^ de Bor-Asã, de Atac, de Hebron e de todos os lugares por onde Davi tinha passado com seus homens.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-029.adoc#v9-29-0[&#60; Capítulo Anterior] | <<v9-30-0,Topo>> | xref:009-i-samuel/009-i-samuel-031.adoc#v9-31-0[Próximo Capítulo &#62;]

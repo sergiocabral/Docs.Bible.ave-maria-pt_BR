@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v20-42-0]]
+=== Jó, 42
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jó 42 conclui a narrativa do livro de Jó, onde Jó se arrepende e reconhece a soberania e justiça de Deus. Ele pede perdão por ter falado do que não entendia e intercede em favor de seus amigos. Deus então repreende os amigos de Jó e os instrui a pedir perdão a Jó por terem falado mal dele.
+* Provérbios 17:10: "A repreensão penetra mais profundamente no prudente do que cem açoites no tolo." Neste versículo, vemos que a repreensão tem mais impacto em uma pessoa sábia do que a punição em um tolo. Esse princípio se aplica à situação dos amigos de Jó, que são repreendidos por Deus por falarem mal dele.
+* Tiago 5:16: "Confessai as vossas culpas uns aos outros e orai uns pelos outros, para que sareis. A oração feita por um justo pode muito em seus efeitos." Este versículo destaca a importância da confissão e oração em relação à cura. Jó intercede por seus amigos, mostrando que ele está disposto a perdoá-los.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez do espírito precede a queda." Esse versículo é aplicável a Jó, que se arrepende de ter falado demais e se humilha diante de Deus. Ele reconhece sua pequenez e dependência de Deus.
+* Mateus 6:14-15: "Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós; se, porém, não perdoardes aos homens as suas ofensas, tampouco vosso Pai vos perdoará as vossas ofensas." Este versículo enfatiza a importância do perdão. Jó perdoa seus amigos e intercede por eles, mostrando sua disposição em seguir os princípios de Deus.
+* 2 Coríntios 5:17: "Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo." Este versículo destaca a mudança radical que pode ocorrer na vida de alguém que se arrepende e confia em Deus. Jó experimenta essa transformação em sua vida, depois de passar por suas aflições e ter um encontro pessoal com Deus.
+****
+
+[[v20-42-1]]
+
+^<<v20-42-1,1>>^ Jó respondeu ao Senhor nestes termos:
+
+[[v20-42-2]]
+
+^<<v20-42-2,2>>^ “Sei que podes tudo e que nada te é impossível.
+
+[[v20-42-3]]
+
+^<<v20-42-3,3>>^ ‘Quem é esse que obscurece assim a Providência com discursos ininteligíveis?’ É por isso que falei, sem compreendê-las, maravilhas que me superam e que não conheço.
+
+[[v20-42-4]]
+
+^<<v20-42-4,4>>^ ‘Escuta-me, deixa-me falar, vou interrogar-te e tu me responderás.’
+
+[[v20-42-5]]
+
+^<<v20-42-5,5>>^ Meus ouvidos ouviram falar de ti, mas agora meus próprios olhos te viram.
+
+[[v20-42-6]]
+
+^<<v20-42-6,6>>^ É por isso que me retrato e me arrependo, no pó e na cinza”.
+
+[[v20-42-7]]
+
+^<<v20-42-7,7>>^ Depois que o Senhor acabou de dirigir essas palavras a Jó, disse a Elifaz de Temã: “Estou irado contra ti e contra teus dois amigos, porque não falastes corretamente de mim, como Jó, meu servo.
+
+[[v20-42-8]]
+
+^<<v20-42-8,8>>^ Tomai, pois, sete touros e sete carneiros e vinde ter com meu servo Jó. Oferecei-os por vós em holocausto e meu servo Jó intercederá por vós. É em consideração a ele que não vos infligirei ignomínias por não terdes falado bem de mim, como Jó, meu servo”.
+
+[[v20-42-9]]
+
+^<<v20-42-9,9>>^ Elifaz de Temã, Baldad de Suás e Sofar de Naamat foram-se então para fazer como o Senhor lhes tinha ordenado, e o Senhor tomou em consideração as orações de Jó.
+
+[[v20-42-10]]
+
+^<<v20-42-10,10>>^ Enquanto Jó rezava por seus amigos, o Senhor o restabeleceu de novo em seu primeiro estado e lhe tornou em dobro tudo quanto tinha possuído.
+
+[[v20-42-11]]
+
+^<<v20-42-11,11>>^ Todos os seus irmãos, todas as suas irmãs, todos os seus amigos de antes vieram visitá-lo e sentaram-se com ele à mesa em sua casa. Tiveram muito dó dele e deram-lhe condolências a respeito de todas as infelicidades que o Senhor lhe enviara. E cada um deles ofereceu-lhe uma moeda de prata e um anel de ouro.
+
+[[v20-42-12]]
+
+^<<v20-42-12,12>>^ O Senhor abençoou os últimos tempos de Jó mais do que os primeiros. Teve Jó catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas.
+
+[[v20-42-13]]
+
+^<<v20-42-13,13>>^ Teve ainda sete filhos e três filhas:
+
+[[v20-42-14]]
+
+^<<v20-42-14,14>>^ chamou a primeira Pombinha, a segunda Cássia e a terceira Azeviche.
+
+[[v20-42-15]]
+
+^<<v20-42-15,15>>^ Em toda aquela terra não poderiam ser encontradas mulheres mais belas do que as filhas de Jó. E seu pai lhes destinou uma parte da herança entre seus irmãos.
+
+[[v20-42-16]]
+
+^<<v20-42-16,16>>^ Depois disso, Jó viveu ainda cento e quarenta anos e conheceu até a quarta geração dos filhos de seus filhos.
+
+[[v20-42-17]]
+
+^<<v20-42-17,17>>^ Depois, velho e cheio de dias, morreu.
+
+'''
+
+xref:020-jo/020-jo-041.adoc#v20-41-0[&#60; Capítulo Anterior] | <<v20-42-0,Topo>> | xref:021-salmos/021-salmos-001.adoc#v21-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v13-20-0]]
+=== I Crônicas, 20
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 20 de 1 Crônicas registra as vitórias do rei Davi sobre os filisteus e outros inimigos de Israel. Davi liderou o exército de Israel em diversas batalhas e conquistou várias cidades. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* 2 Samuel 21:15 - "Ainda os filisteus fizeram guerra a Israel; e desceu Davi, e com ele os seus servos, e pelejaram contra os filisteus; e Davi se cansou." Este versículo mostra a continuação da luta contra os filisteus, mencionada em 1 Crônicas 20.
+* Salmos 60:12 - "Em Deus faremos proezas; porque ele é que pisará aos pés os nossos inimigos." Este salmo é atribuído a Davi e expressa a sua confiança em Deus para vencer seus inimigos.
+* Salmos 108:13 - "Em Deus faremos proezas; porque ele é que calcará aos pés os nossos adversários." Este salmo é semelhante ao anterior e também expressa a confiança em Deus para vencer os inimigos.
+* Isaías 25:8 - "Aniquilará a morte para sempre, e assim enxugará o Senhor DEUS as lágrimas de todos os rostos, e tirará o opróbrio do seu povo de toda a terra; porque o SENHOR o disse." Este versículo fala sobre a promessa de Deus de acabar com o sofrimento do seu povo e remover a vergonha que eles experimentaram em suas batalhas.
+* Romanos 8:37 - "Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou." Este versículo fala sobre a vitória dos cristãos em Jesus Cristo, que é maior do que qualquer vitória terrena. Embora não seja diretamente relacionado às batalhas de Davi, ele expressa uma verdade espiritual relevante para qualquer pessoa que esteja lutando contra as adversidades.
+****
+
+[[v13-20-1]]
+
+^<<v13-20-1,1>>^ No ano seguinte, no tempo em que os reis costumavam ir para a guerra, Joab, à frente de um poderoso exército, devastou a terra dos amonitas e veio sitiar Rabá. Joab conquistou Rabá e a destruiu.
+
+[[v13-20-2]]
+
+^<<v13-20-2,2>>^ Davi tomou a coroa da cabeça de seu rei, a qual pesava um talento de ouro. Estava ornada com uma pedra preciosa e foi colocada na cabeça de Davi. Levou também da cidade muitos despojos.
+
+[[v13-20-3]]
+
+^<<v13-20-3,3>>^ Quanto ao povo que lá se encontrava, fê-lo sair e colocou-o em trabalhos de serra, de picaretas de ferro e de machados. Fez o mesmo com todas as cidades dos amonitas. Em seguida, Davi voltou para Jerusalém com todo o seu exército.
+
+[[v13-20-4]]
+
+^<<v13-20-4,4>>^ Depois disso, houve um combate em Gazer contra os filisteus. Então Sobocai, o husatita, matou Safai, um dos descendentes de Rafa e os filisteus foram submetidos.
+
+[[v13-20-5]]
+
+^<<v13-20-5,5>>^ Houve ainda uma batalha com os filisteus e Elcanã, filho de Jair, matou Lami, irmão de Golias, de Gat, que tinha uma lança cujo cabo parecia um cilindro de tecelões.^&#42;1^
+
+[[v13-20-6]]
+
+^<<v13-20-6,6>>^ Houve ainda um combate em Gat. Lá havia um homem de alta estatura que tinha seis dedos em cada mão e em cada pé, ao todo vinte e quatro; também ele era da descendência de Rafa.
+
+[[v13-20-7]]
+
+^<<v13-20-7,7>>^ Desafiou Israel e Jônatas, filho de Hosama, irmão de Davi, o matou.
+
+[[v13-20-8]]
+
+^<<v13-20-8,8>>^ Esses homens eram filhos de Rafa, em Gat. Pereceram pela mão de Davi e de seus servos.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-019.adoc#v13-19-0[&#60; Capítulo Anterior] | <<v13-20-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-021.adoc#v13-21-0[Próximo Capítulo &#62;]

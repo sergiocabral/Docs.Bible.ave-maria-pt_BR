@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v11-17-0]]
+=== I Reis, 17
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 17 de 1 Reis é uma história notável de milagres e fé. Neste capítulo, Deus envia o profeta Elias para uma cidade em Zarefate, onde uma viúva o recebe e, apesar de ter apenas um pouco de farinha e azeite, Deus faz com que sua provisão nunca acabe. Mais tarde, a viúva tem um filho que fica gravemente doente e aparentemente morre, mas Elias intercede junto a Deus e o menino é trazido de volta à vida. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em 1 Reis 17.
+* Salmos 37:25: "Fui jovem e agora sou velho, mas nunca vi os justos abandonados nem seus filhos mendigando pão." Este versículo destaca a fidelidade de Deus em prover para os justos e aqueles que confiam nele, mesmo em tempos difíceis, como no caso da viúva em 1 Reis 17.
+* Mateus 6:33: "Mas busque primeiro o Reino de Deus e a sua justiça, e todas essas coisas lhe serão acrescentadas." Este versículo enfatiza a importância de buscar a Deus em primeiro lugar e confiar que Ele fornecerá todas as nossas necessidades, como fez com a viúva em 1 Reis 17.
+* Hebreus 11:1: "Ora, a fé é a certeza daquilo que esperamos e a prova das coisas que não vemos." Este versículo destaca a importância da fé em Deus, mesmo quando não podemos ver claramente a solução para nossos problemas. A fé da viúva em 1 Reis 17 permitiu que ela confiasse em Deus para fornecer sua provisão diária.
+* Tiago 5:16: "Portanto, confessem seus pecados uns aos outros e orem uns pelos outros, para que vocês sejam curados. A oração de uma pessoa justa é poderosa e eficaz." Este versículo destaca o poder da oração e da intercessão em favor dos outros, como fez Elias ao interceder junto a Deus pela vida do filho da viúva em 1 Reis 17.
+* Lucas 1:37: "Porque para Deus nada é impossível." Este versículo enfatiza o poder e a soberania de Deus, que pode realizar milagres e fazer o impossível acontecer, como Ele fez ao multiplicar a farinha e o azeite da viúva em 1 Reis 17 e ao trazer o filho dela de volta à vida por meio de Elias.
+****
+
+[[v11-17-1]]
+
+^<<v11-17-1,1>>^ Elias, o tesbita, um habitante de Galaad, veio dizer a Acab: “Pela vida do Senhor, Deus de Israel, a quem sirvo, não haverá nestes anos orvalho nem chuva, senão quando eu o disser”.
+
+[[v11-17-2]]
+
+^<<v11-17-2,2>>^ Em seguida, a palavra do Senhor foi-lhe dirigida nestes termos:
+
+[[v11-17-3]]
+
+^<<v11-17-3,3>>^ “Vai-te daqui; retira-te para as bandas do oriente e vai esconder-te na torrente de Carit, que está defronte do Jordão.
+
+[[v11-17-4]]
+
+^<<v11-17-4,4>>^ Beberás da torrente; dei ordens aos corvos que te alimentem”.
+
+[[v11-17-5]]
+
+^<<v11-17-5,5>>^ Elias partiu, pois, segundo a palavra do Senhor e estabeleceu-se junto à torrente de Carit, defronte do Jordão.
+
+[[v11-17-6]]
+
+^<<v11-17-6,6>>^ Os corvos traziam-lhe pão e carne, pela manhã e pela tarde e ele bebia a água da torrente.
+
+[[v11-17-7]]
+
+^<<v11-17-7,7>>^ Passado algum tempo, secou-se a torrente, porque não chovia mais na terra.
+
+[[v11-17-8]]
+
+^<<v11-17-8,8>>^ Então o Senhor disse-lhe:
+
+[[v11-17-9]]
+
+^<<v11-17-9,9>>^ “Vai para Sarepta de Sidon e fixa-te ali. Eu ordenei a uma viúva desse lugar que te sustente”.
+
+[[v11-17-10]]
+
+^<<v11-17-10,10>>^ Elias pôs-se a caminho para Sarepta. Chegando à porta da cidade, viu uma viúva que ajuntava lenha. Chamou-a e disse-lhe: “Por favor, vai buscar-me um pouco de água numa vasilha para que eu beba”.
+
+[[v11-17-11]]
+
+^<<v11-17-11,11>>^ E indo ela buscar-lhe a água, gritou-lhe Elias: “Traze-me também um pedaço de pão”.
+
+[[v11-17-12]]
+
+^<<v11-17-12,12>>^ “Pela vida de Deus – respondeu a mulher –, não tenho pão cozido: só tenho um punhado de farinha na panela e um pouco de óleo na ânfora; estava justamente apanhando dois pedaços de lenha para preparar esse resto para mim e meu filho, a fim de o comermos e depois morrermos.”
+
+[[v11-17-13]]
+
+^<<v11-17-13,13>>^ Elias replicou: “Não temas! Volta e faze como disseste. Mas prepara-me antes com isso um pãozinho e traze-o para mim; depois prepararás o resto para ti e teu filho.
+
+[[v11-17-14]]
+
+^<<v11-17-14,14>>^ Porque eis o que diz o Senhor, Deus de Israel: a farinha que está na panela não se acabará e a ânfora de azeite não se esvaziará, até o dia em que o Senhor fizer chover sobre a face da terra”.
+
+[[v11-17-15]]
+
+^<<v11-17-15,15>>^ A mulher foi e fez o que disse Elias. Durante muito tempo, ela e seu filho, além de Elias, tiveram o que comer.
+
+[[v11-17-16]]
+
+^<<v11-17-16,16>>^ A farinha não se acabou na panela nem se esgotou o óleo da ânfora, como o Senhor o tinha dito pela boca de Elias.
+
+[[v11-17-17]]
+
+^<<v11-17-17,17>>^ Algum tempo depois, o filho desta mulher, dona da casa, adoeceu e seu mal foi tão grave que morreu.
+
+[[v11-17-18]]
+
+^<<v11-17-18,18>>^ A mulher disse a Elias: “Que há entre nós dois, homem de Deus? Vieste, pois, à minha casa para lembrar-me os meus pecados e matar o meu filho?”.
+
+[[v11-17-19]]
+
+^<<v11-17-19,19>>^ “Dá-me o teu filho”. – respondeu-lhe Elias. Ele tomou-o dos braços de sua mãe e levou-o ao quarto de cima onde dormia e deitou-o em seu leito.
+
+[[v11-17-20]]
+
+^<<v11-17-20,20>>^ Em seguida, orou ao Senhor, dizendo: “Senhor, meu Deus, até a uma viúva, que me hospeda, quereis afligir, matando-lhe o filho?”.
+
+[[v11-17-21]]
+
+^<<v11-17-21,21>>^ Estendeu-se em seguida sobre o menino por três vezes, invocando de novo o Senhor: “Senhor, meu Deus, rogo-vos que a alma deste menino volte a ele”.
+
+[[v11-17-22]]
+
+^<<v11-17-22,22>>^ O Senhor ouviu a oração de Elias: a alma do menino voltou e ele reviveu.
+
+[[v11-17-23]]
+
+^<<v11-17-23,23>>^ Elias tomou o menino, desceu do quarto superior ao interior da casa e entregou-o à mãe, dizendo: “Vê: teu filho vive”.
+
+[[v11-17-24]]
+
+^<<v11-17-24,24>>^ A mulher exclamou: “Agora vejo que és um homem de Deus e que a palavra de Deus está verdadeiramente em teus lábios”.
+
+'''
+
+xref:011-i-reis/011-i-reis-016.adoc#v11-16-0[&#60; Capítulo Anterior] | <<v11-17-0,Topo>> | xref:011-i-reis/011-i-reis-018.adoc#v11-18-0[Próximo Capítulo &#62;]

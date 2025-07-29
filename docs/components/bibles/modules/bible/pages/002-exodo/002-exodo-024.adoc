@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v2-24-0]]
+=== Êxodo, 24
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Êxodo 24 descreve o estabelecimento da aliança entre Deus e Israel no monte Sinai. Moisés, Arão e os anciãos de Israel sobem ao monte e vêem a presença de Deus. O capítulo termina com Moisés entrando na nuvem para receber as tábuas de pedra com os mandamentos.
+* Levítico 17:11: "Pois a vida da carne está no sangue. Eu vos tenho dado o sangue sobre o altar, para fazer expiação pela vossa alma; porquanto é o sangue que fará expiação em virtude da vida." Este versículo destaca a importância do sacrifício de sangue, que é mencionado em Êxodo 24 como parte da cerimônia de ratificação da aliança.
+* Hebreus 9:18-22: "Por isso, nem mesmo a primeira [aliança] foi inaugurada sem sangue. Pois, tendo Moisés anunciado a todo o povo todos os mandamentos segundo a lei, tomou o sangue dos bezerros e dos bodes, com água, lã purpúrea e hissopo, e aspergiu tanto o próprio livro como todo o povo, dizendo: Este é o sangue da aliança que Deus ordenou para convosco. E ainda, aspergiu com o sangue o tabernáculo e todos os utensílios do serviço sagrado. E, segundo a lei, quase tudo é purificado com sangue, e sem derramamento de sangue não há remissão." Este trecho do Novo Testamento faz referência ao evento descrito em Êxodo 24 e destaca a importância do sangue na purificação e na ratificação da aliança.
+* Mateus 26:28: "porque isto é o meu sangue, o sangue da nova aliança, que é derramado por muitos, para remissão dos pecados." Este versículo também faz referência à nova aliança estabelecida por Jesus através de seu sangue, e que é uma continuidade da aliança estabelecida em Êxodo 24.
+* Êxodo 33:11: "Assim falava o SENHOR a Moisés face a face, como qualquer fala com o seu amigo; depois, voltava Moisés para o arraial; mas o seu servidor, o moço Josué, filho de Num, nunca se apartava do interior da tenda." Este versículo destaca a relação especial entre Deus e Moisés, que é um tema recorrente em Êxodo e que culmina na aliança estabelecida em Êxodo 24.
+* 2 Coríntios 3:6: "O qual nos habilitou para sermos ministros de uma nova aliança, não da letra, mas do Espírito; porque a letra mata e o Espírito vivifica." Este versículo faz referência à nova aliança estabelecida por Cristo e destaca a importância do Espírito Santo na compreensão e vivência dos mandamentos de Deus, que foram dados a Moisés no monte Sinai em Êxodo 24.
+****
+
+[[v2-24-1]]
+
+^<<v2-24-1,1>>^ Deus disse a Moisés: “Sobe para o Senhor, com Aarão, Nadab e Abiú e setenta anciãos de Israel, e prostrai-vos à distância.
+
+[[v2-24-2]]
+
+^<<v2-24-2,2>>^ Só Moisés se aproximará do Senhor, e não os outros, e o povo não subirá com ele”.
+
+[[v2-24-3]]
+
+^<<v2-24-3,3>>^ Moisés veio referir ao povo todas as palavras do Senhor, e todas as suas leis; e o povo inteiro respondeu a uma voz: “Faremos tudo o que o Senhor disse”.
+
+[[v2-24-4]]
+
+^<<v2-24-4,4>>^ E Moisés escreveu todas as palavras do Senhor. No dia seguinte, de manhã, edificou um altar ao pé da montanha e levantou estelas para as doze tribos de Israel.
+
+[[v2-24-5]]
+
+^<<v2-24-5,5>>^ Enviou jovens dentre os israelitas, os quais ofereceram holocaustos e sacrifícios ao Senhor e imolaram touros em sacrifícios pacíficos.
+
+[[v2-24-6]]
+
+^<<v2-24-6,6>>^ Moisés tomou a metade do sangue para colocá-lo em bacias, e derramou a outra metade sobre o altar.
+
+[[v2-24-7]]
+
+^<<v2-24-7,7>>^ Tomou o livro da aliança e o leu ao povo, que respondeu: “Faremos tudo o que o Senhor disse e seremos obedientes”.
+
+[[v2-24-8]]
+
+^<<v2-24-8,8>>^ Moisés tomou o sangue para aspergir com ele o povo: “Eis – disse ele – o sangue da aliança que o Senhor fez convosco, conforme tudo o que foi dito”.^&#42;1^
+
+[[v2-24-9]]
+
+^<<v2-24-9,9>>^ Moisés subiu, com Aarão, Nadab e Abiú, e setenta anciãos de Israel.
+
+[[v2-24-10]]
+
+^<<v2-24-10,10>>^ Eles viram o Deus de Israel. Sob os seus pés havia como um lajeado de safiras transparentes, tão límpido como o próprio céu.
+
+[[v2-24-11]]
+
+^<<v2-24-11,11>>^ Sobre os eleitos dos israelitas, Deus não estendeu a mão. Viram Deus, e depois comeram e beberam.^&#42;1^
+
+[[v2-24-12]]
+
+^<<v2-24-12,12>>^ O Senhor disse a Moisés: “Sobe para mim ao monte. Ficarás ali para que eu te dê as tábuas de pedra, a lei e as ordenações que escrevi para sua instrução”.
+
+[[v2-24-13]]
+
+^<<v2-24-13,13>>^ Moisés levantou-se com Josué, seu auxiliar, e subiu ao monte de Deus.
+
+[[v2-24-14]]
+
+^<<v2-24-14,14>>^ E disse aos anciãos: “Esperai-nos aqui até que voltemos. Tendes convosco Aarão e Hur. Se alguém tiver um litígio, se dirigirá a eles”.
+
+[[v2-24-15]]
+
+^<<v2-24-15,15>>^ Moisés subiu ao monte. A nuvem cobriu o monte
+
+[[v2-24-16]]
+
+^<<v2-24-16,16>>^ e a glória do Senhor repousou sobre o monte Sinai, que ficou envolvido na nuvem durante seis dias. No sétimo dia, o Senhor chamou Moisés do seio da nuvem.
+
+[[v2-24-17]]
+
+^<<v2-24-17,17>>^ Aos olhos dos israelitas a glória do Senhor tinha o aspecto de um fogo consumidor sobre o cume do monte.
+
+[[v2-24-18]]
+
+^<<v2-24-18,18>>^ Moisés penetrou na nuvem e subiu a montanha. Ficou ali quarenta dias e quarenta noites.
+
+'''
+
+xref:002-exodo/002-exodo-023.adoc#v2-23-0[&#60; Capítulo Anterior] | <<v2-24-0,Topo>> | xref:002-exodo/002-exodo-025.adoc#v2-25-0[Próximo Capítulo &#62;]

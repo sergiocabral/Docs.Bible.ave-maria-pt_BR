@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v59-2-0]]
+=== I Tessalonicenses, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 2 de 1 Tessalonicenses apresenta o ministério de Paulo em Tessalônica e sua relação com a igreja local. Ele destaca a sinceridade, integridade e abnegação de Paulo em seu serviço, bem como sua paixão pela evangelização. Paulo lembra aos tessalonicenses que a mensagem que ele pregou não foi de engano, impureza ou ganância, mas sim uma mensagem que foi aceita por eles como a Palavra de Deus. Seguem cinco versículos que se relacionam com os temas abordados em 1 Tessalonicenses 2:
+* 2 Coríntios 2:17: "Ao contrário de muitos, não somos como aqueles que comercializam a palavra de Deus. Ao contrário, falamos com sinceridade diante de Deus, como homens enviados por ele, em Cristo." Esse versículo destaca a importância da sinceridade e integridade no ministério da Palavra, temas que também são enfatizados em 1 Tessalonicenses 2.
+* Filipenses 1:15-18: "Alguns pregam a Cristo por inveja e rivalidade, mas outros o fazem de boa vontade. Estes últimos o fazem por amor, sabendo que fui colocado aqui para a defesa do evangelho. Aqueles pregam a Cristo por ambição egoísta, sem sinceridade, pensando que me colocariam em prisão durante as minhas cadeias. Mas o que importa? O importante é que de qualquer forma, seja por motivos falsos ou verdadeiros, Cristo está sendo pregado. E por isso me alegro." Esse versículo destaca a importância de pregar o evangelho com sinceridade e amor, em contraposição à ambição egoísta ou inveja, temas que também são enfatizados em 1 Tessalonicenses 2.
+* 2 Coríntios 4:2: "Mas rejeitamos as coisas secretas e vergonhosas, não agindo com engano nem deturpando a palavra de Deus. Pelo contrário, mediante a clareza da verdade, recomendamo-nos à consciência de todos diante de Deus." Esse versículo destaca a importância da clareza e da honestidade na pregação da Palavra, temas que também são enfatizados em 1 Tessalonicenses 2.
+* 2 Timóteo 2:15: "Procure apresentar-se a Deus como obreiro aprovado, que não tem do que se envergonhar e que maneja corretamente a palavra da verdade." Esse versículo destaca a importância de manejar corretamente a Palavra de Deus, temas que também são enfatizados em 1 Tessalonicenses 2.
+* Efésios 6:19-20: "Orem também por mim, para que, quando eu falar, seja-me dada a mensagem a fim de que, destemidamente, torne conhecido o mistério do evangelho, pelo qual sou embaixador preso em correntes. Orem para que, permanecendo nele, eu possa falar sem medo." Esse versículo destaca a importância da oração e da coragem na pregação do evangelho, temas que também são enfatizados em 1 Tessalonicenses 2.
+****
+
+[[v59-2-1]]
+
+^<<v59-2-1,1>>^ Bem sabeis, irmãos, que a nossa ida a vós não foi em vão.^&#42;1^
+
+[[v59-2-2]]
+
+^<<v59-2-2,2>>^ Apesar de maltratados e ultrajados em Filipos, como sabeis, ousamos, confiados em nosso Deus, pregar-vos o Evangelho de Deus em meio de muitas lutas.
+
+[[v59-2-3]]
+
+^<<v59-2-3,3>>^ A nossa pregação não provém de erro, nem de intenções fraudulentas, nem de engano.
+
+[[v59-2-4]]
+
+^<<v59-2-4,4>>^ Mas, como Deus nos julgou dignos de nos confiar o Evangelho, falamos, não para agradar aos homens, e sim a Deus, que sonda os nossos corações.
+
+[[v59-2-5]]
+
+^<<v59-2-5,5>>^ Com efeito, nunca usamos de adulação, como sabeis, nem fomos levados por fins interesseiros. Deus é testemunha.
+
+[[v59-2-6]]
+
+^<<v59-2-6,6>>^ Não buscamos glórias humanas, nem de vós nem de outros.
+
+[[v59-2-7]]
+
+^<<v59-2-7,7>>^ Na qualidade de apóstolos de Cristo, poderíamos apresentar-nos como pessoas de autoridade. Todavia, nos fizemos discretos no meio de vós. Como a mãe a acariciar os seus filhinhos,^&#42;1^
+
+[[v59-2-8]]
+
+^<<v59-2-8,8>>^ assim, em nossa ternura por vós, desejávamos não só comunicar-vos o Evangelho de Deus, mas até a nossa própria vida, porquanto nos sois muito queridos.
+
+[[v59-2-9]]
+
+^<<v59-2-9,9>>^ Vós vos lembrais, irmãos, dos nossos trabalhos e de nossa fadiga. Trabalhando noite e dia, para não sermos pesados a nenhum de vós, pregamos-vos o Evangelho de Deus.
+
+[[v59-2-10]]
+
+^<<v59-2-10,10>>^ Vós sois testemunhas, e também Deus, de quão santa, justa e irrepreensivelmente nos portamos convosco que crestes.
+
+[[v59-2-11]]
+
+^<<v59-2-11,11>>^ E sabeis que procedemos com cada um de vós como um pai com seus filhos:
+
+[[v59-2-12]]
+
+^<<v59-2-12,12>>^ nós vos temos exortado, estimulado, conjurado a vos comportardes de maneira digna de Deus, que vos chama ao seu Reino e à sua glória.
+
+[[v59-2-13]]
+
+^<<v59-2-13,13>>^ Por isso é que também nós não cessamos de dar graças a Deus, porque recebestes a Palavra de Deus, que de nós ouvistes, e a acolhestes, não como palavra de homens, mas como aquilo que realmente é, como Palavra de Deus, que age eficazmente em vós, os fiéis.
+
+[[v59-2-14]]
+
+^<<v59-2-14,14>>^ Com efeito, irmãos, vós vos tornastes imitadores das igrejas de Deus que estão na Judeia, das igrejas de Jesus Cristo. Tivestes que sofrer da parte dos vossos compatriotas o mesmo que eles sofreram dos judeus,
+
+[[v59-2-15]]
+
+^<<v59-2-15,15>>^ aqueles judeus que mataram o Senhor Jesus, que nos perseguiram, que não são do agrado de Deus, que são inimigos de todos os homens,
+
+[[v59-2-16]]
+
+^<<v59-2-16,16>>^ visto que nos proíbem pregar aos gentios para que se salvem. E com isso vão enchendo sempre mais a medida dos seus pecados. Mas a ira de Deus acabou por atingi-los.^&#42;1^
+
+[[v59-2-17]]
+
+^<<v59-2-17,17>>^ Nós, irmãos, separados de vós por algum tempo – de vista, não de coração –, temos o mais vivo e ardente desejo de vos rever.
+
+[[v59-2-18]]
+
+^<<v59-2-18,18>>^ Pelo que fizemos o possível por ir visitar-vos, ao menos eu, Paulo, em diversas ocasiões. Mas Satanás nos impediu.
+
+[[v59-2-19]]
+
+^<<v59-2-19,19>>^ Pois quem, senão vós, será a nossa esperança, a nossa alegria e a nossa coroa de glória ante nosso Senhor Jesus, no dia de sua vinda?
+
+[[v59-2-20]]
+
+^<<v59-2-20,20>>^ Sim, sois vós a nossa glória e a nossa alegria!
+
+'''
+
+xref:059-i-tessalonicenses/059-i-tessalonicenses-001.adoc#v59-1-0[&#60; Capítulo Anterior] | <<v59-2-0,Topo>> | xref:059-i-tessalonicenses/059-i-tessalonicenses-003.adoc#v59-3-0[Próximo Capítulo &#62;]

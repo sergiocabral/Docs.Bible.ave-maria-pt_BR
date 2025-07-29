@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v49-14-0]]
+=== São Lucas, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 14 de Lucas começa com Jesus curando um homem em um sábado e discutindo com os fariseus sobre o que era permitido fazer neste dia. Em seguida, Ele conta uma parábola sobre um homem que dá um grande banquete e convida muitas pessoas, mas muitas delas dão desculpas e não comparecem. Jesus ensina sobre a humildade e a generosidade, e conclui com as exigências e o custo de seguir a Ele.
+* Mateus 22:2-3: "O Reino dos céus é como um rei que preparou um banquete de casamento para o seu filho. Ele enviou seus servos para os que haviam sido convidados para o banquete, mas eles se recusaram a ir." Este versículo é semelhante à parábola contada por Jesus em Lucas 14, onde um homem dá um grande banquete e convida muitas pessoas, mas muitas delas dão desculpas e não comparecem.
+* Provérbios 25:6-7: "Não exalte a si mesmo na presença do rei, nem reivindique um lugar entre os grandes; é melhor que sejam convidados: 'Venha subir mais alto', do que ser rebaixado na presença do príncipe." Este versículo está relacionado ao ensinamento de Jesus sobre a humildade na parábola do grande banquete em Lucas 14, onde Ele afirma que "todo o que se exalta será humilhado, e quem se humilha será exaltado."
+* Lucas 14:11: "Pois todo o que se exalta será humilhado, e quem se humilha será exaltado." Este versículo resume o ensinamento de Jesus sobre a humildade em Lucas 14, onde Ele ensina que aqueles que se exaltam serão humilhados e aqueles que se humilham serão exaltados.
+* Lucas 14:27: "E quem não carrega sua cruz e não me segue, não pode ser meu discípulo." Este versículo está relacionado com o ensinamento de Jesus sobre o custo de segui-Lo em Lucas 14, onde Ele afirma que, se alguém quiser segui-Lo, deve estar disposto a carregar sua própria cruz.
+* Mateus 10:38: "Quem não toma a sua cruz e não me segue, não é digno de mim." Este versículo também está relacionado com o ensinamento de Jesus sobre o custo de segui-Lo em Lucas 14, onde Ele afirma que, se alguém quiser segui-Lo, deve estar disposto a tomar sua própria cruz.
+****
+
+[[v49-14-1]]
+
+^<<v49-14-1,1>>^ Jesus entrou num sábado em casa de um fariseu notável, para uma refeição; eles o observavam.
+
+[[v49-14-2]]
+
+^<<v49-14-2,2>>^ Havia ali um homem hidrópico.
+
+[[v49-14-3]]
+
+^<<v49-14-3,3>>^ Jesus dirigiu-se aos doutores da Lei e aos fariseus: “É permitido ou não fazer curas no dia de sábado?”
+
+[[v49-14-4]]
+
+^<<v49-14-4,4>>^ Eles nada disseram. Então Jesus, tomando o homem pela mão, curou-o e despediu-o.
+
+[[v49-14-5]]
+
+^<<v49-14-5,5>>^ Depois, dirigindo-se a eles, disse: “Qual de vós que, se lhe cair o jumento ou o boi num poço, não o tira imediatamente, mesmo em dia de sábado?”
+
+[[v49-14-6]]
+
+^<<v49-14-6,6>>^ A isto nada lhe podiam replicar.
+
+[[v49-14-7]]
+
+^<<v49-14-7,7>>^ Observando também como os convivas escolhiam os primeiros lugares, propôs-lhes a seguinte parábola:
+
+[[v49-14-8]]
+
+^<<v49-14-8,8>>^ “Quando fores convidado às bodas, não te sentes no primeiro lugar, pois pode ser que seja convidada outra pessoa de mais consideração do que tu,
+
+[[v49-14-9]]
+
+^<<v49-14-9,9>>^ e, vindo o que te convidou, te diga: Cede o lugar a este. Terias então a confusão de dever ocupar o último lugar.
+
+[[v49-14-10]]
+
+^<<v49-14-10,10>>^ Mas, quando fores convidado, vai tomar o último lugar, para que, quando vier o que te convidou, te diga: Amigo, passa mais para cima. Então, serás honrado na presença de todos os convivas.
+
+[[v49-14-11]]
+
+^<<v49-14-11,11>>^ Porque todo aquele que se exaltar será humilhado, e todo aquele que se humilhar será exaltado”.
+
+[[v49-14-12]]
+
+^<<v49-14-12,12>>^ Dizia igualmente ao que o tinha convidado: “Quando deres alguma ceia, não convides os teus amigos, nem teus irmãos, nem os parentes, nem os vizinhos ricos. Porque, por sua vez, eles te convidarão e assim te retribuirão.^&#42;1^
+
+[[v49-14-13]]
+
+^<<v49-14-13,13>>^ Mas, quando deres uma ceia, convida os pobres, os aleijados, os coxos e os cegos.
+
+[[v49-14-14]]
+
+^<<v49-14-14,14>>^ Serás feliz porque eles não têm com que te retribuir, mas tu receberás na ressurreição dos justos”. (= Mt 22,1-14)
+
+[[v49-14-15]]
+
+^<<v49-14-15,15>>^ A estas palavras, disse a Jesus um dos convidados: “Feliz daquele que se sentar à mesa no Reino de Deus!”
+
+[[v49-14-16]]
+
+^<<v49-14-16,16>>^ Respondeu-lhe Jesus: “Um homem deu uma grande ceia e convidou muitas pessoas.
+
+[[v49-14-17]]
+
+^<<v49-14-17,17>>^ E à hora da ceia, enviou seu servo para dizer aos convidados: Vinde, tudo já está preparado.
+
+[[v49-14-18]]
+
+^<<v49-14-18,18>>^ Mas todos, um a um, começaram a escusar-se. Disse-lhe o primeiro: Comprei um terreno e preciso sair para vê-lo; rogo-te me dês por escusado.
+
+[[v49-14-19]]
+
+^<<v49-14-19,19>>^ Disse outro: Comprei cinco juntas de bois e vou experimentá-las; rogo-te me dês por escusado.
+
+[[v49-14-20]]
+
+^<<v49-14-20,20>>^ Disse também um outro: Casei-me e por isso não posso ir.
+
+[[v49-14-21]]
+
+^<<v49-14-21,21>>^ Voltou o servo e referiu isto a seu senhor. Então, irado, o pai de família disse a seu servo: Sai, sem demora, pelas praças e pelas ruas da cidade e introduz aqui os pobres, os aleijados, os cegos e os coxos.
+
+[[v49-14-22]]
+
+^<<v49-14-22,22>>^ Disse o servo: Senhor, está feito como ordenaste e ainda há lugar.
+
+[[v49-14-23]]
+
+^<<v49-14-23,23>>^ O senhor ordenou: Sai pelos caminhos e atalhos e obriga todos a entrar, para que se encha a minha casa.
+
+[[v49-14-24]]
+
+^<<v49-14-24,24>>^ Pois vos digo: nenhum daqueles homens, que foram convidados, provará a minha ceia”.^&#42;1^ (= Mt 10,37s; 5,13)
+
+[[v49-14-25]]
+
+^<<v49-14-25,25>>^ Muito povo acompanhava Jesus. Voltando-se, disse-lhes:
+
+[[v49-14-26]]
+
+^<<v49-14-26,26>>^ “Se alguém vem a mim e se não me ama mais que seu pai, sua mãe, sua mulher, seus filhos, seus irmãos, suas irmãs e até a sua própria vida, não pode ser meu discípulo.^&#42;1^
+
+[[v49-14-27]]
+
+^<<v49-14-27,27>>^ E quem não carrega a sua cruz e me segue, não pode ser meu discípulo.
+
+[[v49-14-28]]
+
+^<<v49-14-28,28>>^ Quem de vós, querendo fazer uma construção, antes não se senta para calcular os gastos que são necessários, a fim de ver se tem com que acabá-la?
+
+[[v49-14-29]]
+
+^<<v49-14-29,29>>^ Para que, depois que tiver lançado os alicerces e não puder acabá-la, todos os que o virem não comecem a zombar dele,
+
+[[v49-14-30]]
+
+^<<v49-14-30,30>>^ dizendo: Este homem principiou a edificar, mas não pode terminar.
+
+[[v49-14-31]]
+
+^<<v49-14-31,31>>^ Ou qual é o rei que, estando para guerrear com outro rei, não se senta primeiro para considerar se com dez mil homens poderá enfrentar o que vem contra ele com vinte mil?
+
+[[v49-14-32]]
+
+^<<v49-14-32,32>>^ De outra maneira, quando o outro ainda está longe, envia-lhe embaixadores para tratar da paz.
+
+[[v49-14-33]]
+
+^<<v49-14-33,33>>^ Assim, pois, qualquer um de vós que não renuncia a tudo o que possui não pode ser meu discípulo.
+
+[[v49-14-34]]
+
+^<<v49-14-34,34>>^ O sal é uma coisa boa, mas se ele perder o seu sabor, com que o recuperará?
+
+[[v49-14-35]]
+
+^<<v49-14-35,35>>^ Não servirá nem para a terra nem para adubo, mas será lançado fora. O que tem ouvidos para ouvir, ouça!” (= Mt 18,12ss)
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-013.adoc#v49-13-0[&#60; Capítulo Anterior] | <<v49-14-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-015.adoc#v49-15-0[Próximo Capítulo &#62;]

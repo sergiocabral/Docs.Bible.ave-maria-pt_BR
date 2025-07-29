@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v16-13-0]]
+=== Neemias, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Neemias 13 narra o retorno de Neemias a Jerusalém após um tempo afastado. Ele encontra muitas coisas erradas acontecendo, como a violação do sábado, a mistura de casamentos com os povos vizinhos e a negligência no sustento dos levitas. Neemias toma medidas drásticas para corrigir esses problemas e restaurar a santidade do povo de Deus. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Esdras 10:11: "Agora, pois, fazei confissão ao SENHOR, Deus de vossos pais, e fazei a sua vontade; e separai-vos dos povos desta terra e das mulheres estrangeiras." Este versículo se relaciona com a preocupação de Neemias com a mistura de casamentos entre os israelitas e os povos vizinhos. Ele toma medidas drásticas para separar o povo de Deus dessas influências estrangeiras e restaurar a santidade.
+* Êxodo 20:8: "Lembra-te do dia do sábado, para o santificar." Neemias fica indignado ao encontrar o povo violando o sábado e toma medidas para restaurar a observância do dia de descanso como um sinal da aliança entre Deus e seu povo.
+* Deuteronômio 23:21: "Quando fizeres algum voto ao SENHOR teu Deus, não tardarás em cumpri-lo; porque o SENHOR teu Deus certamente o requererá de ti, e em ti haverá pecado." Neemias descobre que os levitas não estavam sendo sustentados de acordo com a lei e toma medidas para restaurar a provisão adequada para esses servos de Deus.
+* Malaquias 3:8-10: "Roubará o homem a Deus? Todavia vós me roubais, e dizeis: Em que te roubamos? Nos dízimos e nas ofertas alçadas. Com maldição sois amaldiçoados, porque me roubais, vós, toda a nação." Neemias confronta o povo pelo não pagamento dos dízimos e toma medidas para garantir que a provisão adequada seja feita para o serviço do templo.
+* 1 Coríntios 5:6: "Não é boa a vossa jactância. Não sabeis que um pouco de fermento leveda toda a massa?" Neemias toma medidas drásticas para expulsar os que estão vivendo em pecado da comunidade e restaurar a pureza do povo de Deus. Este versículo destaca a importância da disciplina na igreja para preservar a santidade e o testemunho do povo de Deus.
+****
+
+[[v16-13-1]]
+
+^<<v16-13-1,1>>^ Naquele tempo, por ocasião de uma leitura pública do Livro de Moisés, descobriu-se um texto no qual se dizia que o amonita e o moabita jamais deviam ingressar na assembleia de Deus,
+
+[[v16-13-2]]
+
+^<<v16-13-2,2>>^ porque não tinham vindo ao encontro dos filhos de Israel com pão e água e haviam contratado Balaão para amaldiçoá-los – maldição que nosso Deus mudara em bênção.^&#42;1^
+
+[[v16-13-3]]
+
+^<<v16-13-3,3>>^ Logo que se ouviu a leitura dessa Lei, excluíram de Israel todos os elementos estrangeiros.
+
+[[v16-13-4]]
+
+^<<v16-13-4,4>>^ Antes disso, o sacerdote Eliasib, intendente dos depósitos da casa de nosso Deus e parente de Tobias,
+
+[[v16-13-5]]
+
+^<<v16-13-5,5>>^ colocara à disposição deste último uma grande sala, onde se depositavam até então as oferendas, o incenso, os utensílios, o dízimo do trigo, do vinho e do azeite, a taxa dos levitas, dos cantores e porteiros e as ofertas devidas aos sacerdotes.
+
+[[v16-13-6]]
+
+^<<v16-13-6,6>>^ Quando fazia tudo isso, eu não estava mais em Jerusalém, porque no trigésimo segundo ano do reinado de Artaxerxes, rei da Babilônia, fui ter com o rei.
+
+[[v16-13-7]]
+
+^<<v16-13-7,7>>^ Decorrido algum tempo, voltei a Jerusalém com a aquiescência do rei e tive conhecimento do mal que havia cometido Eliasib em favor de Tobias, colocando-lhe à disposição uma sala nos átrios da casa de Deus.
+
+[[v16-13-8]]
+
+^<<v16-13-8,8>>^ Fiquei grandemente indignado. Mandei tirar para fora do quarto todo o mobiliário de Tobias,
+
+[[v16-13-9]]
+
+^<<v16-13-9,9>>^ ordenei que purificassem a sala e fiz recolocar os utensílios da casa de Deus, as oferendas e o incenso.
+
+[[v16-13-10]]
+
+^<<v16-13-10,10>>^ Soube também que as dádivas devidas aos levitas não lhes tinham sido entregues e que os levitas e os cantores encarregados do serviço tinham se retirado cada um para as suas terras.^&#42;1^
+
+[[v16-13-11]]
+
+^<<v16-13-11,11>>^ Censurei os magistrados e disse-lhes: “Por que foi abandonada a casa de Deus?”. Depois reuni os levitas e cantores e os recoloquei em seus postos.
+
+[[v16-13-12]]
+
+^<<v16-13-12,12>>^ Então, todo o Judá trouxe para os armazéns o dízimo do trigo, do vinho e do óleo.
+
+[[v16-13-13]]
+
+^<<v16-13-13,13>>^ Confiei a intendência dos armazéns ao sacerdote Selemias, ao escriba Sadoc e a Fadaías, um dos levitas, com o seu auxiliar Hanã, filho de Zacur, filho de Matanias, porque tinham reputação de integridade. Foram encarregados de fazer a distribuição aos seus irmãos.
+
+[[v16-13-14]]
+
+^<<v16-13-14,14>>^ Recordai-vos de mim, ó meu Deus, que fiz tudo isso e não apagueis de vossa memória os atos de piedade que fiz pela casa de meu Deus e por seu culto.
+
+[[v16-13-15]]
+
+^<<v16-13-15,15>>^ Na mesma época, encontrei em Judá homens que pisavam uvas durante o sábado, carregavam molhos e transportavam em jumentos vinho, uva, figos e toda a espécie de fardos, levando-os para Jerusalém em dia de sábado. Admoestei-os então a respeito do dia em que vendiam os seus produtos.
+
+[[v16-13-16]]
+
+^<<v16-13-16,16>>^ Havia também alguns de Tiro, estabelecidos na cidade, que traziam peixes e toda a espécie de mercadorias, que vendiam em dia de sábado aos judeus, em Jerusalém.
+
+[[v16-13-17]]
+
+^<<v16-13-17,17>>^ Dirigi-me aos importantes de Judá: “Procedeis muito mal, profanando o dia de sábado.
+
+[[v16-13-18]]
+
+^<<v16-13-18,18>>^ Vossos pais faziam o mesmo e foi por isso que Deus fez cair todas essas desgraças sobre vós e sobre esta cidade. E vós ireis acender sua cólera contra Israel, profanando o sábado?”.
+
+[[v16-13-19]]
+
+^<<v16-13-19,19>>^ Em consequência, logo que as portas de Jerusalém foram cobertas pela sombra, antes do sábado, mandei que se fechassem as portas e só as abrissem depois do sábado. Ademais, coloquei nas portas alguns dos meus homens, a fim de impedir que qualquer mercadoria entrasse durante o sábado.
+
+[[v16-13-20]]
+
+^<<v16-13-20,20>>^ Então, os negociantes e vendedores de toda a espécie de produtos passaram uma ou duas vezes a noite fora de Jerusalém.
+
+[[v16-13-21]]
+
+^<<v16-13-21,21>>^ Interroguei-os: “Por que passais a noite diante das muralhas? Se recomeçardes, mandarei castigar-vos”. Cessaram então de vir durante o sábado.
+
+[[v16-13-22]]
+
+^<<v16-13-22,22>>^ E ordenei aos levitas que se purificassem e viessem guardar as portas para santificar o dia de sábado. Recordai-vos de mim, ó meu Deus, por causa disso e tende piedade de mim segundo a vossa grande misericórdia.
+
+[[v16-13-23]]
+
+^<<v16-13-23,23>>^ Naqueles dias, encontrei judeus que se tinham casado com mulheres de Azoto, de Amon e de Moab.
+
+[[v16-13-24]]
+
+^<<v16-13-24,24>>^ A metade de seus filhos falava a língua de Azoto e não sabia mais o hebraico. O mesmo sucedia com a língua dos outros povos.^&#42;1^
+
+[[v16-13-25]]
+
+^<<v16-13-25,25>>^ Admoestei-os e os amaldiçoei, até bati em muitos, arranquei os cabelos de alguns e ordenei-lhes, em nome de Deus, que não mais dessem suas filhas aos filhos de estrangeiros e não tomassem filhas estrangeiras para os seus filhos nem para si mesmos.
+
+[[v16-13-26]]
+
+^<<v16-13-26,26>>^ “Não foi esse – disse eu – o pecado de Salomão, rei de Israel? Não existia rei algum como ele entre a multidão das nações; era amado de seu Deus e Deus o tinha tornado rei de todo o Israel. Contudo, foram as mulheres estrangeiras que induziram tal homem a pecar.
+
+[[v16-13-27]]
+
+^<<v16-13-27,27>>^ E haveremos de ouvir que estais cometendo esse grande crime e que sois assim infiéis ao nosso Deus, desposando mulheres estrangeiras?”
+
+[[v16-13-28]]
+
+^<<v16-13-28,28>>^ Ora, um dos filhos de Joiada, filho do sumo sacerdote Eliasib, tornara-se genro de Sanabalat, o horonita; expulsei-o para longe de mim.
+
+[[v16-13-29]]
+
+^<<v16-13-29,29>>^ Recordai-vos, ó meu Deus, daqueles que profanaram assim o sacerdócio e os deveres sagrados dos sacerdotes e dos levitas!
+
+[[v16-13-30]]
+
+^<<v16-13-30,30>>^ Foi assim que purifiquei o povo de todo o elemento estrangeiro. Coloquei em vigor os regulamentos que sacerdotes e levitas deviam observar em seus respectivos misteres
+
+[[v16-13-31]]
+
+^<<v16-13-31,31>>^ e restabeleci a oferenda da madeira nas épocas determinadas, bem como as primícias. Levai-o em conta, ó meu Deus, para o meu bem!
+
+'''
+
+xref:016-neemias/016-neemias-012.adoc#v16-12-0[&#60; Capítulo Anterior] | <<v16-13-0,Topo>> | xref:017-tobias/017-tobias-001.adoc#v17-1-0[Próximo Capítulo &#62;]

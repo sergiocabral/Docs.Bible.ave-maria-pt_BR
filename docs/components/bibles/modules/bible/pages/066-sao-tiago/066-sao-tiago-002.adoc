@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v66-2-0]]
+=== São Tiago, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Tiago 2 trata sobre a importância de uma fé que se manifesta em ações, não apenas em palavras. O capítulo enfatiza que a verdadeira fé deve ser evidenciada por obras de justiça e que a fé sem obras é morta. A seguir, estão cinco versículos relacionados com os temas abordados em São Tiago 2, em ordem de proximidade com o capítulo:
+* Romanos 2:13: "Pois não são os que ouvem a lei que são justos aos olhos de Deus; antes, os que obedecem à lei serão declarados justos." Este versículo destaca que a obediência é essencial para ser considerado justo por Deus, o que se relaciona com a ênfase de São Tiago na importância das obras.
+* Mateus 7:21: "Nem todo aquele que me diz: 'Senhor, Senhor', entrará no Reino dos céus, mas apenas aquele que faz a vontade de meu Pai que está nos céus." Este versículo destaca que a verdadeira obediência a Deus envolve ações, não apenas palavras, o que se relaciona com o tema de São Tiago sobre a importância da fé manifestada em obras.
+* Efésios 2:10: "Pois somos feitura dele, criados em Cristo Jesus para boas obras, as quais Deus de antemão preparou para que andássemos nelas." Este versículo destaca que Deus nos criou para realizar boas obras, o que se relaciona com o tema de São Tiago sobre a importância da fé manifestada em obras de justiça.
+* 1 João 3:18: "Filhinhos, não amemos de palavra, nem de língua, mas por obras e em verdade." Este versículo destaca que o amor verdadeiro se manifesta em ações, não apenas em palavras, o que se relaciona com o tema de São Tiago sobre a importância da fé manifestada em obras de justiça.
+* Gálatas 5:6: "Porque em Cristo Jesus nem circuncisão, nem incircuncisão tem valor algum, mas sim a fé que atua pelo amor." Este versículo destaca que a verdadeira fé deve se manifestar através do amor em ação, o que se relaciona com o tema de São Tiago sobre a importância da fé manifestada em obras de justiça.
+****
+
+[[v66-2-1]]
+
+^<<v66-2-1,1>>^ Meus irmãos, na vossa fé em nosso glorioso Senhor Jesus Cristo, guardai-vos de toda consideração de pessoas.
+
+[[v66-2-2]]
+
+^<<v66-2-2,2>>^ Suponde que entre na vossa reunião um homem com anel de ouro e ricos trajes, e entre também um pobre com trajes gastos;
+
+[[v66-2-3]]
+
+^<<v66-2-3,3>>^ se atenderdes ao que está magnificamente trajado, e lhe disserdes: “Senta-te aqui, neste lugar de honra”, e disserdes ao pobre: “Fica ali de pé”, ou: “Senta-te aqui junto ao estrado dos meus pés”,
+
+[[v66-2-4]]
+
+^<<v66-2-4,4>>^ não é verdade que fazeis distinção entre vós, e que sois juízes de pensamentos iníquos?
+
+[[v66-2-5]]
+
+^<<v66-2-5,5>>^ Ouvi, meus caríssimos irmãos: porventura não escolheu Deus os pobres deste mundo para que fossem ricos na fé e herdeiros do Reino prometido por Deus aos que o amam?
+
+[[v66-2-6]]
+
+^<<v66-2-6,6>>^ Mas vós desprezastes o pobre! Não são porventura os ricos os que vos oprimem e vos arrastam aos tribunais?
+
+[[v66-2-7]]
+
+^<<v66-2-7,7>>^ Não blasfemam eles o belo nome que trazeis?^&#42;1^
+
+[[v66-2-8]]
+
+^<<v66-2-8,8>>^ Se cumprirdes a Lei régia da Escritura: Amarás o teu próximo como a ti mesmo (Lv 19,18), sem dúvida fazeis bem.
+
+[[v66-2-9]]
+
+^<<v66-2-9,9>>^ Mas se vos deixais levar por distinção de pessoas, cometeis uma falta e sereis condenados pela Lei como transgressores.
+
+[[v66-2-10]]
+
+^<<v66-2-10,10>>^ Pois quem guardar os preceitos da Lei, mas faltar em um só ponto, se tornará culpado de toda ela.
+
+[[v66-2-11]]
+
+^<<v66-2-11,11>>^ Porque aquele que disse: Não cometerás adultério, disse também: Não matarás (Ex 20,13s). Se, pois, matares, embora não tenhas cometido adultério, tornas-te transgressor da Lei.
+
+[[v66-2-12]]
+
+^<<v66-2-12,12>>^ Falai, pois, de tal modo e de tal modo procedei, como se estivésseis para ser julgados pela Lei da liberdade.
+
+[[v66-2-13]]
+
+^<<v66-2-13,13>>^ Haverá juízo sem misericórdia para aquele que não usou de misericórdia. A misericórdia triunfa sobre o julgamento.
+
+[[v66-2-14]]
+
+^<<v66-2-14,14>>^ De que aproveitará, irmãos, a alguém dizer que tem fé, se não tiver obras? Acaso essa fé poderá salvá-lo?
+
+[[v66-2-15]]
+
+^<<v66-2-15,15>>^ Se a um irmão ou a uma irmã faltarem roupas e o alimento cotidiano,
+
+[[v66-2-16]]
+
+^<<v66-2-16,16>>^ e algum de vós lhes disser: “Ide em paz, aquecei-vos e fartai-vos”, mas não lhes der o necessário para o corpo, de que lhes aproveitará?
+
+[[v66-2-17]]
+
+^<<v66-2-17,17>>^ Assim também a fé: se não tiver obras, é morta em si mesma.
+
+[[v66-2-18]]
+
+^<<v66-2-18,18>>^ Mas alguém dirá: “Tu tens fé, e eu tenho obras”. Mostra-me a tua fé sem obras e eu te mostrarei a minha fé pelas minhas obras.
+
+[[v66-2-19]]
+
+^<<v66-2-19,19>>^ Crês que há um só Deus. Fazes bem. Também os demônios creem e tremem.
+
+[[v66-2-20]]
+
+^<<v66-2-20,20>>^ Queres ver, ó homem vão, como a fé sem obras é estéril?
+
+[[v66-2-21]]
+
+^<<v66-2-21,21>>^ Abraão, nosso pai, não foi justificado pelas obras, oferecendo o seu filho Isaac sobre o altar?
+
+[[v66-2-22]]
+
+^<<v66-2-22,22>>^ Vês como a fé cooperava com as suas obras e era completada por elas.
+
+[[v66-2-23]]
+
+^<<v66-2-23,23>>^ Assim se cumpriu a Escritura, que diz: Abraão creu em Deus e isto lhe foi tido em conta de justiça, e foi chamado amigo de Deus (Gn 15,6).
+
+[[v66-2-24]]
+
+^<<v66-2-24,24>>^ Vedes como o homem é justificado pelas obras e não somente pela fé?
+
+[[v66-2-25]]
+
+^<<v66-2-25,25>>^ Do mesmo modo Raab, a meretriz, não foi ela justificada pelas obras, por ter recebido os mensageiros e os ter feito sair por outro caminho?^&#42;1^
+
+[[v66-2-26]]
+
+^<<v66-2-26,26>>^ Assim como o corpo sem a alma é morto, assim também a fé sem obras é morta.
+
+'''
+
+xref:066-sao-tiago/066-sao-tiago-001.adoc#v66-1-0[&#60; Capítulo Anterior] | <<v66-2-0,Topo>> | xref:066-sao-tiago/066-sao-tiago-003.adoc#v66-3-0[Próximo Capítulo &#62;]

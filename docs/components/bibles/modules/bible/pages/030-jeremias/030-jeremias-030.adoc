@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v30-30-0]]
+=== Jeremias, 30
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 30 apresenta uma mensagem de esperança para o povo de Israel, que havia sofrido muito devido à sua desobediência a Deus. Neste capítulo, Deus promete restaurar seu povo e trazê-los de volta para a terra prometida. Ele também fala da vinda de um novo líder, que governará com justiça e sabedoria. Os versículos selecionados a seguir abordam temas semelhantes ao que é apresentado em Jeremias 30.
+* Salmos 107:28-30: "Então, clamaram ao Senhor na sua angústia, e Ele os livrou das suas dificuldades. Fez cessar a tempestade, e acalmaram-se as ondas. Então, se alegraram com a bonança; e Ele os guiou ao porto desejado." Este salmo fala sobre o poder de Deus para salvar seu povo da adversidade e guiá-los para um lugar seguro, o que é semelhante à promessa de Deus em Jeremias 30 de trazer seu povo de volta para casa.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo fala sobre a proteção de Deus e seu poder para ajudar aqueles que o buscam. Isso é semelhante à promessa de Deus em Jeremias 30 de que seu povo será restaurado e protegido.
+* Isaías 43:18-19: "Não vos lembreis das coisas passadas, nem considereis as antigas. Eis que faço uma coisa nova; agora, está saindo à luz; porventura, não a percebeis? Eis que porei um caminho no deserto e rios no ermo." Este versículo fala sobre a capacidade de Deus de trazer mudança e renovação. Isso é semelhante à mensagem de esperança em Jeremias 30, que fala sobre a restauração e renovação do povo de Israel.
+* Zacarias 9:9: "Alegra-te muito, ó filha de Sião; exulta, ó filha de Jerusalém; eis que o teu Rei vem a ti, justo e salvo, pobre e montado sobre um jumento, sobre um jumentinho, filho de jumenta." Este versículo fala sobre a vinda de um novo líder para governar Israel. Isso é semelhante à promessa de Deus em Jeremias 30 de que um novo líder surgirá para governar com justiça e sabedoria.
+* Isaías 61:1: "O Espírito do Senhor Deus está sobre mim, porque o Senhor me ungiu para pregar boas-novas aos mansos; enviou-me a restaurar os contritos de coração, a proclamar libertação aos cativos e a abertura de prisão aos presos." Este versículo fala sobre a missão de um ungido de Deus para pregar boas novas e trazer restauração aos quebrantados. Isso é semelhante à promessa de Deus em Jeremias 30 de trazer restauração e libertação para o povo de Israel.
+****
+
+[[v30-30-1]]
+
+^<<v30-30-1,1>>^ Dirigiu o Senhor nestes termos a palavra a Jeremias:
+
+[[v30-30-2]]
+
+^<<v30-30-2,2>>^ “Eis o que disse o Senhor, Deus de Israel: Consignarás em um livro todas as palavras que te tenho dito.
+
+[[v30-30-3]]
+
+^<<v30-30-3,3>>^ Pois dias virão – oráculo do Senhor – em que mudarei a sorte de meu povo, Israel e Judá, disse o Senhor, a fim de reintegrá-lo na posse da terra que havia dado a seus pais”.
+
+[[v30-30-4]]
+
+^<<v30-30-4,4>>^ Eis as palavras que pronunciou o Senhor, a respeito de Judá:
+
+[[v30-30-5]]
+
+^<<v30-30-5,5>>^ “Eis o que disse o Senhor: Fez-se ouvir um grito de pavor e por toda parte o espanto! Acabou-se a paz!
+
+[[v30-30-6]]
+
+^<<v30-30-6,6>>^ Perguntai! Vede se um homem pode dar à luz. Por que, então, vejo todos os homens com as mãos sobre os rins qual a mulher em parto? Por que trazem essa palidez em seus semblantes?
+
+[[v30-30-7]]
+
+^<<v30-30-7,7>>^ Desgraça! Nenhum dia se assemelha a este; tempo de tribulação para Jacó, do qual, porém, será libertado.
+
+[[v30-30-8]]
+
+^<<v30-30-8,8>>^ Naquele dia – oráculo do Senhor dos exércitos – partirei o jugo que lhe pesa ao pescoço e lhe romperei os laços. Não serão mais cativos dos estrangeiros,
+
+[[v30-30-9]]
+
+^<<v30-30-9,9>>^ mas servirão o Senhor, seu Deus, e Davi, seu rei, que eu lhes suscitarei.^&#42;1^
+
+[[v30-30-10]]
+
+^<<v30-30-10,10>>^ E tu, Jacó, meu servo, não temas – oráculo do Senhor –; não tremas, Israel, pois que te vou retirar da terra longínqua, assim como tua raça da terra do exílio. Jacó tornará a viver na tranquilidade e em segurança, sem que ninguém mais o perturbe.
+
+[[v30-30-11]]
+
+^<<v30-30-11,11>>^ Estou contigo – oráculo do Senhor – para livrar-te. Aniquilarei os povos entre os quais te dispersei. A ti, porém, não destruirei; eu te castigarei com equidade, sem te deixar impune.
+
+[[v30-30-12]]
+
+^<<v30-30-12,12>>^ Porque eis o que diz o Senhor: Tua ferida é incurável e perigosa a tua chaga.
+
+[[v30-30-13]]
+
+^<<v30-30-13,13>>^ Ninguém quer tomar o encargo de curá-la, não há para ti remédio nem emplasto.
+
+[[v30-30-14]]
+
+^<<v30-30-14,14>>^ Esqueceram-te os que te amavam, e contigo nem mais se preocupam. Pois que te feri, como se fere um inimigo, com cruel castigo, por causa da gravidade de tua falta e do número de teus pecados.
+
+[[v30-30-15]]
+
+^<<v30-30-15,15>>^ Por que choras sobre tua ferida? Por que incurável é tua dor? É por causa da gravidade de tua falta e do número de teus pecados que te fiz isso.
+
+[[v30-30-16]]
+
+^<<v30-30-16,16>>^ Todos aqueles, contudo, que te devoram, serão devorados; irão para o cativeiro teus opressores; teus destruidores serão despojados, e entregarei ao saque os que te pilharam.
+
+[[v30-30-17]]
+
+^<<v30-30-17,17>>^ Vou enfaixar tuas chagas e curar tuas feridas – oráculo do Senhor. Chamam-te a Repudiada, Sião, de quem não mais se cuida.
+
+[[v30-30-18]]
+
+^<<v30-30-18,18>>^ Mas, eis o que diz o Senhor: Restaurarei as tendas de Jacó, e me apiedarei de suas moradas. Será a cidade reconstruída em sua colina, e reedificado o palácio no primitivo lugar.
+
+[[v30-30-19]]
+
+^<<v30-30-19,19>>^ Cânticos de louvor se erguerão e gritos de alegria. Eu lhes multiplicarei o número, que não será mais reduzido; eu os exaltarei, e não serão mais humilhados.
+
+[[v30-30-20]]
+
+^<<v30-30-20,20>>^ Os filhos serão como eram outrora, e forte será diante de mim sua assembleia; eu castigarei seus opressores.
+
+[[v30-30-21]]
+
+^<<v30-30-21,21>>^ Um dentre eles será o chefe, e do meio deles sairá seu soberano. Mandarei buscá-lo, e perante mim terá acesso, porque nenhum homem se arriscaria a aproximar-se de mim – oráculo do Senhor.^&#42;1^
+
+[[v30-30-22]]
+
+^<<v30-30-22,22>>^ Sereis o meu povo, e eu, o vosso Deus.
+
+[[v30-30-23]]
+
+^<<v30-30-23,23>>^ Eis a tempestade do Senhor, a explosão do seu furor, a borrasca que turbilhona, prestes a irromper sobre a cabeça dos maus.
+
+[[v30-30-24]]
+
+^<<v30-30-24,24>>^ Não se acalmará a cólera do Senhor, sem que cumpra e realize seus desígnios. Somente nos dias que virão, havereis de compreender”.^&#42;1^
+
+'''
+
+xref:030-jeremias/030-jeremias-029.adoc#v30-29-0[&#60; Capítulo Anterior] | <<v30-30-0,Topo>> | xref:030-jeremias/030-jeremias-031.adoc#v30-31-0[Próximo Capítulo &#62;]

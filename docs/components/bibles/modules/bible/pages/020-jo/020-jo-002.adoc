@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v20-2-0]]
+=== Jó, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 2 de Jó relata a continuação da história de sofrimento de Jó, onde ele é atingido por uma doença dolorosa e debilitante. Ainda assim, ele permanece fiel a Deus e se recusa a amaldiçoá-lo. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Jó 2:
+* Salmos 41:3: "O Senhor o sustentará em seu leito de enfermidade, e da doença o restaurará." Este versículo fala sobre o cuidado de Deus com aqueles que estão doentes, o que é relevante para a situação de Jó, que estava sofrendo de uma doença dolorosa.
+* 2 Coríntios 12:7: "E para que não me ensoberbecesse com a grandeza das revelações, foi-me posto um espinho na carne, mensageiro de Satanás, para me esbofetear, a fim de que não me exalte." Paulo fala sobre um "espinho na carne" que lhe foi dado como um meio de mantê-lo humilde, e isso pode ser visto como semelhante ao sofrimento de Jó.
+* Tiago 5:11: "Eis que temos por bem-aventurados os que sofreram. Ouvistes qual foi a paciência de Jó e vistes o fim que o Senhor lhe deu; porque o Senhor é cheio de misericórdia e compassivo." Este versículo faz uma referência direta a Jó e sua paciência em meio ao sofrimento, e mostra como essa qualidade é valorizada pelos cristãos.
+* Provérbios 3:11-12: "Filho meu, não desprezes a correção do Senhor, nem te desanimes quando, por ele, fores repreendido. Porque o Senhor repreende a quem ama, assim como o pai, ao filho a quem quer bem." Este versículo fala sobre a correção divina, que pode incluir sofrimento e provações. Isso é relevante para a história de Jó, que está sendo testado por Deus.
+* Romanos 8:28: "Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito." Este versículo fala sobre como Deus pode usar até mesmo o sofrimento para o bem daqueles que o amam e o servem. Isso é relevante para a situação de Jó, que está sendo testado em sua fidelidade a Deus.
+****
+
+[[v20-2-1]]
+
+^<<v20-2-1,1>>^ Ora, um dia em que os filhos de Deus se apresentaram diante do Senhor, Satanás apareceu também no meio deles na presença do Senhor.
+
+[[v20-2-2]]
+
+^<<v20-2-2,2>>^ O Senhor disse-lhe: “De onde vens tu?”. “Andei dando volta pelo mundo – respondeu Satanás – e passeando por ele”.
+
+[[v20-2-3]]
+
+^<<v20-2-3,3>>^ O Senhor disse-lhe: “Notaste o meu servo Jó? Não há ninguém igual a ele na terra! É um homem íntegro e reto, temente a Deus e se mantém longe do mal. Ele persevera sempre em sua integridade e foi em vão que me incitaste a perdê-lo”.
+
+[[v20-2-4]]
+
+^<<v20-2-4,4>>^ “Pele por pele!” – respondeu Satanás –. “O homem dá tudo o que possui para salvar a própria vida.
+
+[[v20-2-5]]
+
+^<<v20-2-5,5>>^ Mas estende a tua mão e toca-lhe nos ossos e na carne. Juro que te renegará em tua face.”
+
+[[v20-2-6]]
+
+^<<v20-2-6,6>>^ O Senhor disse a Satanás: “Pois bem! Ele está em teu poder, poupa-lhe apenas a vida”.
+
+[[v20-2-7]]
+
+^<<v20-2-7,7>>^ O Satanás retirou-se da presença do Senhor e feriu Jó com uma úlcera maligna, desde a planta dos pés até o alto da cabeça.
+
+[[v20-2-8]]
+
+^<<v20-2-8,8>>^ E Jó pegou um caco de telha para se coçar, e assentou-se sobre um monte de cinzas.
+
+[[v20-2-9]]
+
+^<<v20-2-9,9>>^ Sua mulher disse-lhe: “Persistes ainda em tua integridade? Amaldiçoa a Deus e morre!”.
+
+[[v20-2-10]]
+
+^<<v20-2-10,10>>^ “Falas – respondeu-lhe ele – como uma insensata. Se aceitamos de Deus a felicidade, não deveríamos também aceitar a infelicidade?” Em tudo isso, Jó não pecou por palavras.
+
+[[v20-2-11]]
+
+^<<v20-2-11,11>>^ Três amigos de Jó – Elifaz de Temã, Baldad de Suás e Sofar de Naamat – souberam de todo o mal que lhe tinha sucedido, vieram cada um de sua terra e combinaram ir juntos exprimir sua simpatia e suas consolações.
+
+[[v20-2-12]]
+
+^<<v20-2-12,12>>^ Quando o avistaram de longe, não o reconheceram. Puseram-se então a chorar, rasgaram as vestes e lançaram para o céu poeira, que recaía sobre suas cabeças.
+
+[[v20-2-13]]
+
+^<<v20-2-13,13>>^ Ficaram sentados no chão ao lado dele durante sete dias e sete noites, sem que nenhum lhe dirigisse uma palavra, tão grande era a dor em que o viam mergulhado.
+
+'''
+
+xref:020-jo/020-jo-001.adoc#v20-1-0[&#60; Capítulo Anterior] | <<v20-2-0,Topo>> | xref:020-jo/020-jo-003.adoc#v20-3-0[Próximo Capítulo &#62;]

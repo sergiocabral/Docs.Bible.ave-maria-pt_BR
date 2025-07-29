@@ -1,0 +1,227 @@
+include::./index.adoc[]
+
+[[v9-14-0]]
+=== I Samuel, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Samuel 14 narra a história de um ato de bravura de Jônatas, filho do rei Saul, e do povo de Israel contra os filisteus. Jônatas propõe ao seu escudeiro escalar uma rocha íngreme em direção ao acampamento filisteu, confiando na força de Deus para lhes dar a vitória. Deus abençoa a sua coragem e eles matam vinte filisteus. Isso leva a uma batalha na qual o exército de Saul é encorajado pelo exemplo de Jônatas e vence os filisteus. Os temas abordados em 1 Samuel 14 incluem a confiança em Deus, coragem, liderança e vitória. A seguir estão cinco versículos relacionados com esses temas, em ordem de proximidade com o capítulo:
+* Josué 1:9: "Não te mandei eu? Esforça-te, e tem bom ânimo; não temas, nem te espantes; porque o SENHOR teu Deus é contigo, por onde quer que andares." Esse versículo fala da importância da confiança em Deus e do encorajamento para ser corajoso e forte, assim como Jônatas encorajou o seu escudeiro e o seu exército.
+* 2 Timóteo 1:7: "Porque Deus não nos deu o espírito de temor, mas de fortaleza, e de amor, e de moderação." Este versículo fala da importância da coragem e da força que Deus dá a seus servos, como Jônatas confiou na força de Deus para sua batalha contra os filisteus.
+* Josué 10:25: "Disse-lhes Josué: Não temais, nem vos espanteis; esforçai-vos e animai-vos; porque assim fará o SENHOR a todos os vossos inimigos, contra os quais pelejardes." Esse versículo fala da importância da coragem e da confiança em Deus, assim como Jônatas confiou em Deus para sua batalha contra os filisteus.
+* 1 Coríntios 16:13: "Vigiai, estai firmes na fé; portai-vos varonilmente, e fortalecei-vos." Este versículo fala da importância de permanecer firme na fé e de ser forte, assim como Jônatas liderou o povo de Israel com coragem e força.
+* 2 Crônicas 20:15: "E disse: Dai ouvidos todo o Judá, e vós moradores de Jerusalém, e tu, ó rei Jeosafá; assim o SENHOR vos diz: Não temais, nem vos assusteis por causa desta grande multidão; pois a peleja não é vossa, senão de Deus." Esse versículo fala da importância da confiança em Deus e da liderança divina, assim como Jônatas confiou na liderança de Deus para sua batalha contra os filisteus.
+****
+
+[[v9-14-1]]
+
+^<<v9-14-1,1>>^ Um dia, Jônatas, filho de Saul, disse ao seu escudeiro: “Vem, passemos até o acampamento dos filisteus que está do outro lado”. Mas nada disse ao seu pai.
+
+[[v9-14-2]]
+
+^<<v9-14-2,2>>^ Saul estava acampado na extremidade de Gabaá, debaixo da romãzeira de Magron, com uma tropa de seiscentos homens aproximadamente.
+
+[[v9-14-3]]
+
+^<<v9-14-3,3>>^ Aías, filho de Aquitob, irmão de Icabod, filho de Fineias, filho de Heli, o sacerdote do Senhor em Silo, levava o efod. O povo ignorava a saída de Jônatas.
+
+[[v9-14-4]]
+
+^<<v9-14-4,4>>^ Ora, no desfiladeiro que Jônatas tentava atravessar para atingir a guarnição dos filisteus, havia rochedos altos, em forma de dentes, de um e outro lado, um dos quais se chamava Boses e o outro Sene.
+
+[[v9-14-5]]
+
+^<<v9-14-5,5>>^ Um desses se elevava ao norte, defronte de Macmas e o outro ao sul, do lado de Gabaá.
+
+[[v9-14-6]]
+
+^<<v9-14-6,6>>^ Disse, pois, Jônatas ao seu escudeiro: “Vem, ataquemos a guarnição desses incircuncisos; talvez o Senhor combata por nós. Nada impede que ele dê a vitória a poucos tão bem como a muitos”.
+
+[[v9-14-7]]
+
+^<<v9-14-7,7>>^ Seu escudeiro respondeu-lhe: “Faze como te aprouver; vai aonde quiseres, que eu te seguirei onde deliberares”.
+
+[[v9-14-8]]
+
+^<<v9-14-8,8>>^ “Pois bem – replicou Jônatas –, marchemos contra esses homens e mostremos-nos a eles.
+
+[[v9-14-9]]
+
+^<<v9-14-9,9>>^ Se nos disserem: ‘Esperai até que vamos ter convosco’, ficaremos em nosso posto e não subiremos a eles.
+
+[[v9-14-10]]
+
+^<<v9-14-10,10>>^ Se, porém, nos disserem: ‘Subi a nós’ – iremos, porque o Senhor no-los terá entregue nas mãos. Isso nos servirá de sinal”.
+
+[[v9-14-11]]
+
+^<<v9-14-11,11>>^ Então, mostraram-se ambos à guarnição dos filisteus. Estes disseram: “Eis os hebreus que saem das cavernas onde se tinham escondido”.
+
+[[v9-14-12]]
+
+^<<v9-14-12,12>>^ E os homens da guarda gritaram a Jônatas e ao escudeiro: “Subi a nós; queremos dizer-vos uma coisa”. Jônatas disse ao escudeiro: “Segue-me, porque o Senhor os entregou nas mãos de Israel”.
+
+[[v9-14-13]]
+
+^<<v9-14-13,13>>^ Subiu, pois, Jônatas, trepando com as mãos e com os pés, seguido do escudeiro. Os filisteus caíram diante de Jônatas e o seu escudeiro matava-os atrás dele.
+
+[[v9-14-14]]
+
+^<<v9-14-14,14>>^ Esse foi o primeiro massacre que fizeram Jônatas e o seu escudeiro, no qual eliminaram uns vinte homens no estreito espaço da metade de uma jeira de terra.^&#42;1^
+
+[[v9-14-15]]
+
+^<<v9-14-15,15>>^ Espalhou-se o terror no acampamento dos filisteus, assim como na região e entre todo o povo. A guarnição e os saqueadores ficaram tomados de espanto e a terra entrou em pânico: pois aquilo era como um terror de Deus.^&#42;1^
+
+[[v9-14-16]]
+
+^<<v9-14-16,16>>^ As sentinelas de Saul, que estavam em Gabaá de Benjamim, viram a multidão de fugitivos que se dispersava por todos os lados.
+
+[[v9-14-17]]
+
+^<<v9-14-17,17>>^ Saul disse ao povo: “Fazei uma chamada e vede quem saiu dentre nós”. Fez-se a chamada e verificou-se a falta de Jônatas e de seu escudeiro.
+
+[[v9-14-18]]
+
+^<<v9-14-18,18>>^ Saul disse a Aías: “Faze aproximar a arca de Deus”.^&#42;1^ Porque a arca de Deus se encontrava naquele dia com os israelitas.
+
+[[v9-14-19]]
+
+^<<v9-14-19,19>>^ Enquanto Saul falava ao sacerdote, o tumulto no acampamento dos filisteus crescia cada vez mais. Saul disse ao sacerdote: “Retira a tua mão”.
+
+[[v9-14-20]]
+
+^<<v9-14-20,20>>^ O rei e todo o povo que estavam com ele foram até o lugar do combate: os filisteus, numa extrema confusão, voltavam a espada uns contra os outros.
+
+[[v9-14-21]]
+
+^<<v9-14-21,21>>^ Os hebreus que tinham estado desde há muito tempo com os filisteus e que os tinham seguido ao acampamento, voltaram e puseram-se do lado dos israelitas que estavam com Saul e Jônatas.
+
+[[v9-14-22]]
+
+^<<v9-14-22,22>>^ Igualmente, todos os israelitas que se tinham escondido no monte de Efraim, sabendo que os filisteus tinham fugido, saíram a persegui-los para feri-los.
+
+[[v9-14-23]]
+
+^<<v9-14-23,23>>^ Naquele dia, o Senhor deu a vitória a Israel. O combate prosseguiu até além de Bet-Áven.
+
+[[v9-14-24]]
+
+^<<v9-14-24,24>>^ Os israelitas estavam extenuados naquele dia, porque Saul conjurara o povo, dizendo: “Maldito seja o homem que tomar alimento antes do anoitecer, antes que eu me tenha vingado de meus inimigos”. Por isso, ninguém tinha comido.
+
+[[v9-14-25]]
+
+^<<v9-14-25,25>>^ Todos tinham entrado numa floresta, onde havia mel na superfície do solo.
+
+[[v9-14-26]]
+
+^<<v9-14-26,26>>^ O povo entrou, pois, na floresta e viu o mel que corria, mas ninguém levou a mão à boca, por respeito ao juramento.
+
+[[v9-14-27]]
+
+^<<v9-14-27,27>>^ Mas, Jônatas, ignorando o juramento que o seu pai obrigara o povo a fazer, estendeu a ponta da vara que tinha na mão, mergulhou-a num favo de mel e a levou à boca. Então, seus olhos (fatigados) brilharam.
+
+[[v9-14-28]]
+
+^<<v9-14-28,28>>^ Um homem do grupo disse-lhe: “Teu pai fez jurar o povo, dizendo: Maldito o homem que hoje tomar alimento. E o povo estava esgotado”.
+
+[[v9-14-29]]
+
+^<<v9-14-29,29>>^ Jônatas disse: “Meu pai fez mal à terra. Vede como se me iluminaram os olhos, porque comi um pouco de mel.
+
+[[v9-14-30]]
+
+^<<v9-14-30,30>>^ Sem dúvida, se o povo tivesse hoje comido da presa tomada ao inimigo, não teria sido muito maior a derrota dos filisteus?”.
+
+[[v9-14-31]]
+
+^<<v9-14-31,31>>^ Eles derrotaram, naquele dia, os filisteus desde Macmas até Aialon.
+
+[[v9-14-32]]
+
+^<<v9-14-32,32>>^ O povo, esgotado de fadiga, lançou-se sobre a presa e tomou as ovelhas, os bois e os bezerros, que degolou sobre a terra, comendo a carne juntamente com o sangue.
+
+[[v9-14-33]]
+
+^<<v9-14-33,33>>^ “Eis que o povo está pecando contra o Senhor – vieram dizer a Saul –, comendo carne com sangue.” “Isso é uma impiedade – exclamou o rei –. “Revolvei-me já para aqui uma grande pedra.
+
+[[v9-14-34]]
+
+^<<v9-14-34,34>>^ Ide por todo o povo – ajuntou –, e dizei-lhes que cada um me traga as suas ovelhas e os seus bois, para que sejam degolados aqui. E comais, então, sem pecar contra o Senhor, comendo carne com sangue.” Cada um deles levou naquela noite o gado que tinha em mãos e o degolou ali.
+
+[[v9-14-35]]
+
+^<<v9-14-35,35>>^ Saul edificou um altar ao Senhor. Esse foi o primeiro altar que ele levantou.
+
+[[v9-14-36]]
+
+^<<v9-14-36,36>>^ Depois Saul disse: “Desçamos durante a noite contra os filisteus e despojemo-los até os primeiros albores do dia e não deixemos vivo um só homem deles”. O povo disse: “Faze tudo o que melhor te parecer”. Então, o sacerdote disse: “Aproximemo-nos aqui de Deus”.
+
+[[v9-14-37]]
+
+^<<v9-14-37,37>>^ Saul consultou a Deus: “Perseguirei os filisteus? Tu os entregarás nas mãos de Israel?”. Mas, Deus não lhe respondeu dessa vez.
+
+[[v9-14-38]]
+
+^<<v9-14-38,38>>^ Saul disse: “Fazei vir aqui todos os chefes do povo; investigai e dizei-me qual é o pecado que hoje se cometeu.
+
+[[v9-14-39]]
+
+^<<v9-14-39,39>>^ Pela vida do Senhor, libertador de Israel! Mesmo que fosse o meu filho Jônatas, ele morrerá!”. Mas, ninguém na multidão lhe respondeu.
+
+[[v9-14-40]]
+
+^<<v9-14-40,40>>^ “Ponde-vos de um lado – disse ele a todo o Israel –; eu e meu filho Jônatas estaremos do outro.” A multidão respondeu-lhe: “Faze o que te parecer melhor”.
+
+[[v9-14-41]]
+
+^<<v9-14-41,41>>^ Saul disse ao Senhor: “Deus de Israel, dai-nos a conhecer a verdade!”. Jônatas e Saul foram designados pela sorte e o povo ficou livre.
+
+[[v9-14-42]]
+
+^<<v9-14-42,42>>^ Então, Saul disse: “Lançai a sorte entre mim e Jônatas, meu filho”. E caiu a sorte em Jônatas.
+
+[[v9-14-43]]
+
+^<<v9-14-43,43>>^ “Confessa-me o que fizeste” – disse Saul ao seu filho. Jônatas contou-lhe: “Provei um pouco de mel com a ponta da vara que eu tinha na mão. Eis que vou morrer!”.
+
+[[v9-14-44]]
+
+^<<v9-14-44,44>>^ Saul disse: “Trate-me Deus com todo o rigor, se não morreres, Jônatas!”.
+
+[[v9-14-45]]
+
+^<<v9-14-45,45>>^ Mas, o povo interveio: “Como haveria de perecer Jônatas, ele que deu essa vitória tão grande a Israel? Isso não pode ser! Viva Deus! Nem um só cabelo de sua cabeça cairá por terra, porque foi por Deus que ele operou hoje dessa forma”. Assim o povo salvou Jônatas e ele não morreu.
+
+[[v9-14-46]]
+
+^<<v9-14-46,46>>^ Saul voltou e não perseguiu os filisteus, que foram para as suas terras.
+
+[[v9-14-47]]
+
+^<<v9-14-47,47>>^ Saul, depois de ter tomado posse do reino de Israel, combateu contra todos os inimigos da vizinhança: Moab, os amonitas, Edom, os reis de Soba, os filisteus; para onde quer que se voltava, ele vencia.
+
+[[v9-14-48]]
+
+^<<v9-14-48,48>>^ Portou-se valorosamente, feriu Amalec e livrou Israel das mãos dos que o devastavam.
+
+[[v9-14-49]]
+
+^<<v9-14-49,49>>^ Os filhos de Saul foram: Jônatas, Jessui e Melquisua. A primogênita de suas duas filhas chamava-se Merob e a mais nova Micol.
+
+[[v9-14-50]]
+
+^<<v9-14-50,50>>^ Sua mulher chamava-se Aquinoam, filha de Aquimaás. O general de seu exército era Abner, filho de Ner, tio de Saul.
+
+[[v9-14-51]]
+
+^<<v9-14-51,51>>^ Cis, pai de Saul e Ner, pai de Abner, eram filhos de Abiel.
+
+[[v9-14-52]]
+
+^<<v9-14-52,52>>^ Durante todo o tempo da vida de Saul, a guerra foi encarniçada contra os filisteus. O rei, logo que descobria um homem forte e valente, tomava-o a seu serviço.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-013.adoc#v9-13-0[&#60; Capítulo Anterior] | <<v9-14-0,Topo>> | xref:009-i-samuel/009-i-samuel-015.adoc#v9-15-0[Próximo Capítulo &#62;]

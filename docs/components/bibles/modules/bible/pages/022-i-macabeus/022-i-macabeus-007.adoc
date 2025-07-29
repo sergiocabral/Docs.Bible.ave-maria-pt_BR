@@ -1,0 +1,219 @@
+include::./index.adoc[]
+
+[[v22-7-0]]
+=== I Macabeus, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O sétimo capítulo de 1 Macabeus relata a batalha entre os exércitos de Judas Macabeu e do rei Antíoco. Durante a luta, muitos judeus morrem e seus corpos são desonrados pelos soldados inimigos. No final, Judas sai vitorioso e recupera o templo de Jerusalém. Abaixo estão cinco versículos relacionados com os temas abordados em 1 Macabeus 7.
+* 2 Crônicas 13:18: "Assim os filhos de Israel foram subjugados naquela ocasião, e os filhos de Judá prevaleceram, porque confiaram no SENHOR, o Deus de seus pais." Este verso fala sobre a vitória do rei Abias de Judá sobre o rei Jeroboão de Israel, que confiou em seus próprios exércitos em vez de confiar em Deus. Essa vitória é semelhante à de Judas Macabeu em 1 Macabeus 7, onde a vitória é concedida a ele porque ele confiou em Deus.
+* Provérbios 24:16: "Pois sete vezes cai o justo, e se levanta; mas os ímpios tropeçam na calamidade." Esse verso fala sobre a perseverança do justo em face da adversidade. Judas Macabeu e seus seguidores são persistentes em sua luta contra os inimigos, mesmo quando sofrem perdas significativas.
+* 2 Crônicas 32:7-8: "Sede fortes e corajosos, não temais nem vos atemorizeis diante do rei da Assíria, nem diante de toda a multidão que está com ele; porque há mais conosco do que com ele. Com ele está o braço de carne, mas conosco está o SENHOR, nosso Deus, para nos ajudar e pelejar nossas guerras." Este verso é semelhante a 1 Macabeus 7, onde Judas Macabeu encoraja seus soldados a confiar em Deus em vez de confiar em suas próprias habilidades.
+* Isaías 40:29: "Ele dá força ao cansado, e multiplica as forças ao que não tem nenhum vigor." Esse verso fala sobre o poder de Deus em fortalecer aqueles que estão fracos e cansados. Durante a batalha em 1 Macabeus 7, os judeus estavam lutando contra um exército muito maior, mas Deus lhes deu a força para perseverar.
+* Salmo 144:1: "Bendito seja o SENHOR, minha rocha, que adestra minhas mãos para a guerra e meus dedos para a batalha." Este verso fala sobre a preparação para a guerra e a batalha. Judas Macabeu e seus seguidores estavam bem preparados para a luta em 1 Macabeus 7, e Deus os ajudou a vencer a batalha.
+****
+
+[[v22-7-1]]
+
+^<<v22-7-1,1>>^ No ano cento e cinquenta e um, Demétrio, filho de Seleuco, escapou de Roma e, com alguns companheiros, alcançou uma cidade marítima onde se proclamou rei.^&#42;1^
+
+[[v22-7-2]]
+
+^<<v22-7-2,2>>^ Quando ele entrou no palácio real de seus pais, o exército se apoderou de Antíoco e de Lísias para conduzi-los a ele.
+
+[[v22-7-3]]
+
+^<<v22-7-3,3>>^ Soube-o o rei e disse: “Não me mostreis a sua face”.
+
+[[v22-7-4]]
+
+^<<v22-7-4,4>>^ E o exército os matou, e Demétrio sentou-se no trono que lhe cabia.
+
+[[v22-7-5]]
+
+^<<v22-7-5,5>>^ Todos os traidores e os ímpios de Israel achegaram-se dele sob a chefia de Alcimo, que aspirava tornar-se sumo sacerdote.^&#42;1^
+
+[[v22-7-6]]
+
+^<<v22-7-6,6>>^ Acusaram o povo nestes termos: “Judas e seus irmãos mataram todos os teus amigos e nos expulsaram de nosso país.
+
+[[v22-7-7]]
+
+^<<v22-7-7,7>>^ Envia, portanto, agora, um homem que possua tua confiança e que venha ver em que triste situação nos puseram, a nós e ao país que pertence ao rei, para castigar a eles e a todos os seus partidários”.
+
+[[v22-7-8]]
+
+^<<v22-7-8,8>>^ O rei escolheu Báquides, um de seus amigos, então governador Além-do-Rio, um dos grandes do reino e fiel ao rei. Enviou-o
+
+[[v22-7-9]]
+
+^<<v22-7-9,9>>^ com o ímpio Alcimo, a quem destinou o cargo de sumo sacerdote, e deu-lhe ordem de tomar vingança dos filhos de Israel.
+
+[[v22-7-10]]
+
+^<<v22-7-10,10>>^ Partiram, pois, e tomaram o caminho do país de Judá com um forte exército, enviando a Judas e seus irmãos palavras de paz capciosas.
+
+[[v22-7-11]]
+
+^<<v22-7-11,11>>^ Vendo-os chegar com numerosas tropas, estes não lhes deram ouvido.
+
+[[v22-7-12]]
+
+^<<v22-7-12,12>>^ Houve todavia um grupo de escribas que foi ter com Alcimo e Báquides, com palavras de justas reivindicações.
+
+[[v22-7-13]]
+
+^<<v22-7-13,13>>^ Estes assideus, que eram os mais benquistos em Israel, pediam-lhes a paz.
+
+[[v22-7-14]]
+
+^<<v22-7-14,14>>^ Diziam entre si: “É um sacerdote da raça de Aarão que vem a nós com o exército, ele não nos fará mal algum”.
+
+[[v22-7-15]]
+
+^<<v22-7-15,15>>^ Alcimo trocou com eles palavras de paz e lhes jurou: “Não faremos mal nem a vós, nem a vossos amigos”.
+
+[[v22-7-16]]
+
+^<<v22-7-16,16>>^ Acreditaram neles, mas ele apoderou-se de sessenta deles e mandou-os matar no mesmo dia, conforme estava escrito:
+
+[[v22-7-17]]
+
+^<<v22-7-17,17>>^ “Rios de sangue fizeram correr em torno de Jerusalém, e nem sequer havia quem os sepultasse”. (Sl 78,3).
+
+[[v22-7-18]]
+
+^<<v22-7-18,18>>^ O assombro e o terror apoderaram-se do povo, porque se dizia: “Não há entre eles nem verdade nem justiça, depois que violaram o pacto e o juramento que haviam confirmado”.
+
+[[v22-7-19]]
+
+^<<v22-7-19,19>>^ Báquides partiu de Jerusalém e instalou seu acampamento em Bet-Zet, onde prendeu e lançou numa grande cisterna muitos desertores de seu exército e algumas pessoas do país.
+
+[[v22-7-20]]
+
+^<<v22-7-20,20>>^ Confiou a terra nas mãos de Alcimo e, deixando-lhe um exército para socorrê-lo, regressou para junto do rei.
+
+[[v22-7-21]]
+
+^<<v22-7-21,21>>^ Entretanto, Alcimo teve que lutar para se impor como sumo sacerdote.
+
+[[v22-7-22]]
+
+^<<v22-7-22,22>>^ Agrupavam-se ao redor dele todos os perturbadores do povo com os quais ele se tornara senhor da terra de Judá e foi um tempo doloroso para Israel.
+
+[[v22-7-23]]
+
+^<<v22-7-23,23>>^ Judas viu que o mal que Alcimo e seus cúmplices faziam aos filhos de Israel era pior ainda que o mal praticado pelos gentios.
+
+[[v22-7-24]]
+
+^<<v22-7-24,24>>^ Por isso, percorreu ele toda a terra da Judeia, até as fronteiras, vingando-se dos traidores e impedindo-lhes a volta ao país.
+
+[[v22-7-25]]
+
+^<<v22-7-25,25>>^ Vendo Alcimo que Judas com os seus eram mais fortes e reconhecendo sua impotência em lhes resistir, refugiou-se junto do rei e acusou-os dos piores crimes.
+
+[[v22-7-26]]
+
+^<<v22-7-26,26>>^ O rei enviou Nicanor, general eminente, que detestava e odiava Israel, com ordem de exterminar o povo.
+
+[[v22-7-27]]
+
+^<<v22-7-27,27>>^ Nicanor partiu para Jerusalém com um numeroso exército e mandou levar a Judas e a seus irmãos falsas palavras de paz:
+
+[[v22-7-28]]
+
+^<<v22-7-28,28>>^ “Que não haja guerra entre vós e mim. Chegarei somente com um punhado de homens para te ver, como amigo”.
+
+[[v22-7-29]]
+
+^<<v22-7-29,29>>^ Com efeito, ele chegou e saudaram-se pacificamente, mas seus soldados se achavam prontos para se lançarem sobre Judas.
+
+[[v22-7-30]]
+
+^<<v22-7-30,30>>^ Todavia, Judas estava a par dos desígnios pérfidos de Nicanor e afastou-se dele, recusando vê-lo de novo.
+
+[[v22-7-31]]
+
+^<<v22-7-31,31>>^ Reconheceu Nicanor que seu projeto fora descoberto e propôs a Judas uma batalha perto de Cafarsalama.
+
+[[v22-7-32]]
+
+^<<v22-7-32,32>>^ Foram mortos do seu exército quinhentos homens e o resto fugiu para a Cidade de Davi.
+
+[[v22-7-33]]
+
+^<<v22-7-33,33>>^ Após o combate, subiu Nicanor ao monte Sião, e sacerdotes saíram do templo com anciãos do povo, para saudá-lo em espírito de paz e mostrar-lhe o holocausto que se oferecia pelo rei.
+
+[[v22-7-34]]
+
+^<<v22-7-34,34>>^ Ele, porém, escarnecia deles, dirigia-lhes mofas, desprezava-os e falava-lhes com desdém,
+
+[[v22-7-35]]
+
+^<<v22-7-35,35>>^ jurando em sua ira: “Se Judas não me for entregue imediatamente com seu exército, afirmo, logo que estabelecer a paz, retornarei e lançarei fogo a esta casa”. Partiu depois todo enfurecido.
+
+[[v22-7-36]]
+
+^<<v22-7-36,36>>^ Então, os sacerdotes entraram, e, em pé diante do altar e do templo, choraram dizendo:
+
+[[v22-7-37]]
+
+^<<v22-7-37,37>>^ “Fostes vós que escolhestes este templo, para que se invoque nela vosso nome e para que ela seja uma casa de súplicas, de orações pelo vosso povo.
+
+[[v22-7-38]]
+
+^<<v22-7-38,38>>^ Tomai vingança desse homem e de seu exército, e que eles caiam sob o golpe da espada. Lembrai-vos de suas blasfêmias e não permitais que eles vivam”.
+
+[[v22-7-39]]
+
+^<<v22-7-39,39>>^ Saiu Nicanor de Jerusalém e acampou em Bet-Horon, onde um exército sírio se lhe ajuntou.
+
+[[v22-7-40]]
+
+^<<v22-7-40,40>>^ Judas acampou em Adasa com três mil homens e começou a rezar nestes termos:
+
+[[v22-7-41]]
+
+^<<v22-7-41,41>>^ “Quando os soldados enviados pelo rei da Síria vos blasfemaram, apareceu vosso anjo e matou cento e oitenta e cinco mil homens dentre eles.
+
+[[v22-7-42]]
+
+^<<v22-7-42,42>>^ Do mesmo modo, exterminai hoje este exército aos nossos olhos, para que os outros saibam que Nicanor insultou vosso templo e julgai-o segundo sua perfídia”.
+
+[[v22-7-43]]
+
+^<<v22-7-43,43>>^ Chocaram-se os exércitos no dia treze do mês de Adar; o de Nicanor foi vencido e ele foi o primeiro a tombar na luta.
+
+[[v22-7-44]]
+
+^<<v22-7-44,44>>^ Assim que as tropas de Nicanor viram que ele fora morto, largaram as armas e fugiram.
+
+[[v22-7-45]]
+
+^<<v22-7-45,45>>^ Os judeus os perseguiram durante o dia todo, desde Adasa até Gazara, e fizeram soar as trombetas dos sinais.
+
+[[v22-7-46]]
+
+^<<v22-7-46,46>>^ E saíram então os habitantes de todas as aldeias da Judeia e dos arredores, para cercar os fugitivos. Estes voltaram de encontro a eles e caíram todos sob a espada. E não sobrou nem mesmo um dentre eles.
+
+[[v22-7-47]]
+
+^<<v22-7-47,47>>^ Os judeus apoderaram-se dos seus despojos e provisões. Cortaram a cabeça de Nicanor e a mão direita que ele orgulhosamente estendera, e suspenderam-nas à vista de Jerusalém.
+
+[[v22-7-48]]
+
+^<<v22-7-48,48>>^ Alegrou-se muito o povo que passou aquele dia em grande regozijo.
+
+[[v22-7-49]]
+
+^<<v22-7-49,49>>^ Decidiu-se que esse dia seria celebrado a cada ano, no dia treze do mês de Adar.
+
+[[v22-7-50]]
+
+^<<v22-7-50,50>>^ Após isso, a terra de Judá esteve tranquila durante algum tempo.^&#42;1^
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-006.adoc#v22-6-0[&#60; Capítulo Anterior] | <<v22-7-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-008.adoc#v22-8-0[Próximo Capítulo &#62;]

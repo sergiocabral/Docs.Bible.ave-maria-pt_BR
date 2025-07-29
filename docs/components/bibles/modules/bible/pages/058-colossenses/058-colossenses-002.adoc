@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v58-2-0]]
+=== Colossenses, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 2 de Colossenses trata da importância da verdadeira sabedoria e conhecimento de Deus em contraste com falsas filosofias e tradições humanas. Paulo adverte os colossenses a não serem enganados por ensinamentos vazios e argumenta que a plenitude de Deus habita em Cristo. Ele também aborda a questão da circuncisão e exorta os colossenses a não se deixarem escravizar por rituais e práticas externas. Seguem cinco versículos que se relacionam com os temas abordados em Colossenses 2:
+* Provérbios 2:6: "Pois o Senhor concede sabedoria, e de sua boca vêm o conhecimento e o discernimento." Esse versículo destaca a importância da sabedoria e do conhecimento que vêm de Deus, um tema central em Colossenses 2.
+* 1 Coríntios 1:30: "Porém, graças a ele, vocês estão em Cristo Jesus, o qual se tornou para nós sabedoria da parte de Deus, justiça, santidade e redenção." Esse versículo destaca a importância de Cristo como a fonte da verdadeira sabedoria de Deus, um tema enfatizado em Colossenses 2.
+* Efésios 4:14: "Então não seremos mais como crianças, levados de um lado para outro pelas ondas, nem jogados para cá e para lá por todo vento de doutrina e pela astúcia e esperteza de homens que induzem ao erro." Esse versículo destaca a importância de estar firmado na verdade e de não ser enganado por ensinamentos falsos, um tema que também é abordado em Colossenses 2.
+* Gálatas 5:1: "Foi para a liberdade que Cristo nos libertou. Portanto, permaneçam firmes e não se deixem submeter novamente a um jugo de escravidão." Esse versículo destaca a importância da liberdade em Cristo e adverte contra a escravidão a rituais e práticas religiosas externas, um tema que é enfatizado em Colossenses 2.
+* 2 Timóteo 3:16-17: "Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção e para a instrução na justiça, para que o homem de Deus seja apto e plenamente preparado para toda boa obra." Esse versículo destaca a importância da Escritura como fonte de verdade e instrução na vida cristã, um tema que é enfatizado em Colossenses 2.
+****
+
+[[v58-2-1]]
+
+^<<v58-2-1,1>>^ Desejo realmente que estejais informados do árduo combate que sustento por amor de vós e dos de Laodiceia, assim como de todos os que ainda não me viram pessoalmente!^&#42;1^
+
+[[v58-2-2]]
+
+^<<v58-2-2,2>>^ Tudo sofro para que os seus corações sejam reconfortados e que, estreitamente unidos pela caridade, sejam enriquecidos de uma plenitude de inteligência, para conhecerem o mistério de Deus, isto é, Cristo,
+
+[[v58-2-3]]
+
+^<<v58-2-3,3>>^ no qual estão escondidos todos os tesouros da sabedoria e da ciência.
+
+[[v58-2-4]]
+
+^<<v58-2-4,4>>^ Digo-vos isso para que ninguém vos engane com discursos sedutores.
+
+[[v58-2-5]]
+
+^<<v58-2-5,5>>^ Porque, embora corporalmente distante, estou presente a vós em espírito, e me alegro em ver a firmeza da vossa fé em Cristo.
+
+[[v58-2-6]]
+
+^<<v58-2-6,6>>^ Como (de nossa pregação) recebestes o Senhor Jesus Cristo, vivei nele,
+
+[[v58-2-7]]
+
+^<<v58-2-7,7>>^ enraizados e edificados nele, inabaláveis na fé em que fostes instruídos, com o coração a transbordar de gratidão!
+
+[[v58-2-8]]
+
+^<<v58-2-8,8>>^ Estai de sobreaviso, para que ninguém vos engane com filosofias e vãos sofismas baseados nas tradições humanas, nos rudimentos do mundo, em vez de se apoiar em Cristo.^&#42;1^
+
+[[v58-2-9]]
+
+^<<v58-2-9,9>>^ Pois nele habita corporalmente toda a plenitude da divindade.
+
+[[v58-2-10]]
+
+^<<v58-2-10,10>>^ Tendes tudo plenamente nele, que é a Cabeça de todo principado e potestade.
+
+[[v58-2-11]]
+
+^<<v58-2-11,11>>^ Nele também fostes circuncidados com circuncisão não feita por mão de homem, mas com a circuncisão de Cristo, que consiste no despojamento de nosso ser carnal.^&#42;1^
+
+[[v58-2-12]]
+
+^<<v58-2-12,12>>^ Sepultados com ele no batismo, com ele também ressuscitastes por vossa fé no poder de Deus, que o ressuscitou dos mortos.
+
+[[v58-2-13]]
+
+^<<v58-2-13,13>>^ Mortos pelos vossos pecados e pela incircuncisão da vossa carne, chamou-vos novamente à vida em companhia com ele. É ele que nos perdoou todos os pecados,
+
+[[v58-2-14]]
+
+^<<v58-2-14,14>>^ cancelando o documento escrito contra nós, cujas prescrições nos condenavam. Aboliu-o definitivamente, ao encravá-lo na cruz.^&#42;1^
+
+[[v58-2-15]]
+
+^<<v58-2-15,15>>^ Espoliou os principados e potestades, e os expôs ao ridículo, triunfando deles pela cruz.^&#42;1^
+
+[[v58-2-16]]
+
+^<<v58-2-16,16>>^ Ninguém, pois, vos critique por causa de comida ou bebida, ou espécies de festas ou de luas novas ou de sábados.^&#42;1^
+
+[[v58-2-17]]
+
+^<<v58-2-17,17>>^ Tudo isso não é mais que sombra do que devia vir. A realidade é Cristo.
+
+[[v58-2-18]]
+
+^<<v58-2-18,18>>^ Ninguém vos roube a seu bel-prazer a palma da corrida, sob pretexto de humildade e culto dos anjos. Desencaminham-se estas pessoas em suas próprias visões e, cheias do vão orgulho de seu espírito materialista,
+
+[[v58-2-19]]
+
+^<<v58-2-19,19>>^ não se mantêm unidas à Cabeça, da qual todo o corpo, pela união das junturas e articulações, se alimenta e cresce conforme um crescimento disposto por Deus.^&#42;1^
+
+[[v58-2-20]]
+
+^<<v58-2-20,20>>^ Se em Cristo estais mortos aos princípios deste mundo, por que ainda vos deixais impor proibições, como se vivêsseis no mundo?
+
+[[v58-2-21]]
+
+^<<v58-2-21,21>>^ “Não pegues! Não proves! Não toques!”,
+
+[[v58-2-22]]
+
+^<<v58-2-22,22>>^ proibições estas que se tornam perniciosas pelo uso que delas se faz, e que não passam de normas e doutrinas humanas.
+
+[[v58-2-23]]
+
+^<<v58-2-23,23>>^ Elas podem, sem dúvida, dar a impressão de sabedoria, enquanto exibem culto voluntário, de humildade e austeridade corporal. Mas não têm nenhum valor real, e só servem para satisfazer a carne.^&#42;1^
+
+'''
+
+xref:058-colossenses/058-colossenses-001.adoc#v58-1-0[&#60; Capítulo Anterior] | <<v58-2-0,Topo>> | xref:058-colossenses/058-colossenses-003.adoc#v58-3-0[Próximo Capítulo &#62;]

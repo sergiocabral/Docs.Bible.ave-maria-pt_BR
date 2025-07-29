@@ -1,0 +1,219 @@
+include::./index.adoc[]
+
+[[v48-9-0]]
+=== São Marcos, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 9 de Marcos começa com a transfiguração de Jesus diante de Pedro, Tiago e João. Em seguida, Jesus cura um menino endemoninhado, ensina sobre a importância da humildade e da tolerância, e adverte sobre o perigo do pecado. Abaixo estão cinco versículos relacionados com esses temas:
+* Provérbios 16:18 - "A soberba precede a ruína, e a altivez do espírito precede a queda." A lição sobre a importância da humildade em Marcos 9:35-37 é enfatizada neste versículo, que adverte sobre as consequências da arrogância.
+* Tiago 4:7 - "Portanto, submetei-vos a Deus. Resisti ao diabo, e ele fugirá de vós." A cura do menino endemoninhado em Marcos 9:14-29 demonstra o poder de Jesus sobre o mal. Tiago 4:7 incentiva os cristãos a resistirem ao diabo e a se aproximarem de Deus.
+* Colossenses 3:12 - "Revesti-vos, pois, como eleitos de Deus, santos e amados, de ternos afetos de misericórdia, de bondade, de humildade, de mansidão, de longanimidade." Marcos 9:33-34 descreve uma discussão entre os discípulos sobre quem é o maior entre eles. Colossenses 3:12 ensina que os cristãos devem se revestir de humildade e outras virtudes.
+* Romanos 12:18 - "Se possível, quanto depender de vós, tende paz com todos os homens." Em Marcos 9:50, Jesus adverte sobre o perigo do pecado e incentiva seus seguidores a ter paz uns com os outros. Romanos 12:18 encoraja os cristãos a buscar a paz com todos os homens.
+* Mateus 5:29-30 - "Se o teu olho direito te faz tropeçar, arranca-o e lança-o longe de ti; pois te é melhor que se perca um dos teus membros do que seja todo o teu corpo lançado no inferno. E, se a tua mão direita te faz tropeçar, corta-a e lança-a longe de ti; pois te é melhor que se perca um dos teus membros do que vá todo o teu corpo para o inferno." Em Marcos 9:42-48, Jesus adverte sobre o perigo do pecado e incentiva seus seguidores a evitar a tentação. Mateus 5:29-30 usa linguagem semelhante para enfatizar a importância de se livrar de tudo o que pode levar à tentação e ao pecado.
+****
+
+[[v48-9-1]]
+
+^<<v48-9-1,1>>^ E dizia-lhes: “Em verdade vos digo: dos que aqui se acham, alguns há que não experimentarão a morte, enquanto não virem chegar o Reino de Deus com poder”.^&#42;1^ (= Mt 17,1-13 = Lc 9,28-36)
+
+[[v48-9-2]]
+
+^<<v48-9-2,2>>^ Seis dias depois, Jesus tomou consigo a Pedro, Tiago e João, e conduziu-os a sós a um alto monte. E
+
+[[v48-9-3]]
+
+^<<v48-9-3,3>>^ transfigurou-se diante deles. Suas vestes tornaram-se resplandecentes e de uma brancura tal, que nenhum lavadeiro sobre a terra as pode fazer assim tão brancas.
+
+[[v48-9-4]]
+
+^<<v48-9-4,4>>^ Apareceram-lhes Elias e Moisés, e falavam com Jesus.
+
+[[v48-9-5]]
+
+^<<v48-9-5,5>>^ Pedro tomou a palavra: “Mestre, é bom para nós estarmos aqui; faremos três tendas: uma para ti, outra para Moisés e outra para Elias”.
+
+[[v48-9-6]]
+
+^<<v48-9-6,6>>^ Com efeito, não sabia o que falava, porque estavam sobremaneira atemorizados.^&#42;1^
+
+[[v48-9-7]]
+
+^<<v48-9-7,7>>^ Formou-se então uma nuvem que os encobriu com a sua sombra; e da nuvem veio uma voz: “Este é o meu Filho muito amado; ouvi-o”.
+
+[[v48-9-8]]
+
+^<<v48-9-8,8>>^ E olhando eles logo em derredor, já não viram ninguém, senão só a Jesus com eles.
+
+[[v48-9-9]]
+
+^<<v48-9-9,9>>^ Ao descerem do monte, proibiu-lhes Jesus que contassem a quem quer que fosse o que tinham visto, até que o Filho do Homem houvesse ressurgido dos mortos.
+
+[[v48-9-10]]
+
+^<<v48-9-10,10>>^ E guardaram esta recomendação consigo, perguntando entre si o que significaria: “Ser ressuscitado dentre os mortos”.
+
+[[v48-9-11]]
+
+^<<v48-9-11,11>>^ Depois lhe perguntaram: “Por que dizem os fariseus e os escribas que primeiro deve voltar Elias?”.^&#42;1^
+
+[[v48-9-12]]
+
+^<<v48-9-12,12>>^ Respondeu-lhes: “Elias deve voltar primeiro e restabelecer tudo em ordem. Como então está escrito acerca do Filho do Homem que deve padecer muito e ser desprezado?^&#42;1^
+
+[[v48-9-13]]
+
+^<<v48-9-13,13>>^ Mas digo-vos que também Elias já voltou e fizeram-lhe sofrer tudo quanto quiseram, como está escrito dele”.^&#42;1^ (= Mt 17,14-20 = Lc 9,37-43a)
+
+[[v48-9-14]]
+
+^<<v48-9-14,14>>^ Depois, aproximando-se dos discípulos, viu ao redor deles grande multidão, e os escribas a discutir com eles.
+
+[[v48-9-15]]
+
+^<<v48-9-15,15>>^ Todo aquele povo, vendo de surpresa Jesus, acorreu a ele para saudá-lo.
+
+[[v48-9-16]]
+
+^<<v48-9-16,16>>^ Ele lhes perguntou: “Que estais discutindo com eles?”.
+
+[[v48-9-17]]
+
+^<<v48-9-17,17>>^ Respondeu um homem dentre a multidão: “Mestre, eu te trouxe meu filho, que tem um espírito mudo.
+
+[[v48-9-18]]
+
+^<<v48-9-18,18>>^ Este, onde quer que o apanhe, lança-o por terra e ele espuma, range os dentes e fica endurecido. Roguei a teus discípulos que o expelissem, mas não o puderam”.
+
+[[v48-9-19]]
+
+^<<v48-9-19,19>>^ Respondeu-lhes Jesus: “Ó geração incrédula, até quando estarei convosco? Até quando vos hei de aturar? Trazei-o a mim!”.
+
+[[v48-9-20]]
+
+^<<v48-9-20,20>>^ Eles lho trouxeram. Assim que o menino avistou Jesus, o espírito o agitou fortemente. Caiu por terra e revolvia-se espumando.
+
+[[v48-9-21]]
+
+^<<v48-9-21,21>>^ Jesus perguntou ao pai: “Há quanto tempo lhe acontece isto?” “Desde a infância – respondeu-lhe –.
+
+[[v48-9-22]]
+
+^<<v48-9-22,22>>^ E o tem lançado muitas vezes ao fogo e à água, para o matar. Se tu, porém, podes alguma coisa, ajuda-nos, compadece-te de nós!”
+
+[[v48-9-23]]
+
+^<<v48-9-23,23>>^ Disse-lhe Jesus: “Se podes alguma coisa!... Tudo é possível ao que crê”.^&#42;1^
+
+[[v48-9-24]]
+
+^<<v48-9-24,24>>^ Imediatamente exclamou o pai do menino: “Creio! Vem em socorro à minha falta de fé!”.
+
+[[v48-9-25]]
+
+^<<v48-9-25,25>>^ Vendo Jesus que o povo afluía, intimou o espírito imundo e disse-lhe: “Espírito mudo e surdo, eu te ordeno: sai deste menino e não tornes a entrar nele”.
+
+[[v48-9-26]]
+
+^<<v48-9-26,26>>^ E, gritando e maltratando-o extremamente, saiu. O menino ficou como morto, de modo que muitos diziam: “Morreu...”.
+
+[[v48-9-27]]
+
+^<<v48-9-27,27>>^ Jesus, porém, tomando-o pela mão, ergueu-o e ele levantou-se.
+
+[[v48-9-28]]
+
+^<<v48-9-28,28>>^ Depois de entrar em casa, os seus discípulos perguntaram-lhe em particular: “Por que não pudemos nós expeli-lo?”.
+
+[[v48-9-29]]
+
+^<<v48-9-29,29>>^ Ele disse-lhes: “Esta espécie de demônios não se pode expulsar senão pela oração”. (= Mt 17,21s = Lc 9,43b-45)
+
+[[v48-9-30]]
+
+^<<v48-9-30,30>>^ Tendo partido dali, atravessaram a Galileia. Não queria, porém, que ninguém o soubesse.
+
+[[v48-9-31]]
+
+^<<v48-9-31,31>>^ E ensinava os seus discípulos: “O Filho do Homem será entregue nas mãos dos homens, e o matarão; e ressuscitará três dias depois de sua morte”.
+
+[[v48-9-32]]
+
+^<<v48-9-32,32>>^ Mas não entendiam essas palavras; e tinham medo de lho perguntar. (= Mt 18,1-10 = Lc 9,46-50)
+
+[[v48-9-33]]
+
+^<<v48-9-33,33>>^ Em seguida, voltaram para Cafarnaum. Quando já estava em casa, Jesus perguntou-lhes: “De que faláveis pelo caminho?”.
+
+[[v48-9-34]]
+
+^<<v48-9-34,34>>^ Mas eles calaram-se, porque pelo caminho haviam discutido entre si qual deles seria o maior.
+
+[[v48-9-35]]
+
+^<<v48-9-35,35>>^ Sentando-se, chamou os Doze e disse-lhes: “Se alguém quer ser o primeiro, seja o último de todos e o servo de todos”.
+
+[[v48-9-36]]
+
+^<<v48-9-36,36>>^ E tomando um menino, colocou-o no meio deles; abraçou-o e disse-lhes:
+
+[[v48-9-37]]
+
+^<<v48-9-37,37>>^ “Todo o que recebe um destes meninos em meu nome, a mim é que recebe; e todo o que recebe a mim, não me recebe, mas aquele que me enviou”.
+
+[[v48-9-38]]
+
+^<<v48-9-38,38>>^ João disse-lhe: “Mestre, vimos alguém, que não nos segue, expulsar demônios em teu nome, e lho proibimos”.^&#42;1^
+
+[[v48-9-39]]
+
+^<<v48-9-39,39>>^ Jesus, porém, disse-lhe: “Não lho proibais, porque não há ninguém que faça um prodígio em meu nome e em seguida possa falar mal de mim.
+
+[[v48-9-40]]
+
+^<<v48-9-40,40>>^ Pois quem não é contra nós, é a nosso favor.
+
+[[v48-9-41]]
+
+^<<v48-9-41,41>>^ E quem vos der de beber um copo de água porque sois de Cristo, digo-vos em verdade: não perderá a sua recompensa.
+
+[[v48-9-42]]
+
+^<<v48-9-42,42>>^ Mas todo o que fizer cair no pecado a um destes pequeninos que creem em mim, melhor lhe fora que uma pedra de moinho lhe fosse posta ao pescoço e o lançassem ao mar!
+
+[[v48-9-43]]
+
+^<<v48-9-43,43>>^ Se a tua mão for para ti ocasião de queda, corta-a; melhor te é entrares na vida aleijado do que, tendo duas mãos, ires para a geena, para o fogo inextinguível
+
+[[v48-9-44]]
+
+^<<v48-9-44,44>>^ [onde o seu verme não morre e o fogo não se apaga].
+
+[[v48-9-45]]
+
+^<<v48-9-45,45>>^ Se o teu pé for para ti ocasião de queda, corta-o fora; melhor te é entrares coxo na vida eterna do que, tendo dois pés, seres lançado à geena do fogo inextinguível
+
+[[v48-9-46]]
+
+^<<v48-9-46,46>>^ [onde o seu verme não morre e o fogo não se apaga].^&#42;1^
+
+[[v48-9-47]]
+
+^<<v48-9-47,47>>^ Se o teu olho for para ti ocasião de queda, arranca-o; melhor te é entrares com um olho de menos no Reino de Deus do que, tendo dois olhos, seres lançado à geena do fogo,
+
+[[v48-9-48]]
+
+^<<v48-9-48,48>>^ onde o seu verme não morre e o fogo não se apaga.^&#42;1^
+
+[[v48-9-49]]
+
+^<<v48-9-49,49>>^ Porque todo homem será salgado pelo fogo.^&#42;1^
+
+[[v48-9-50]]
+
+^<<v48-9-50,50>>^ O sal é uma boa coisa; mas se ele se tornar insípido, com que lhe restituireis o sabor? Tende sal em vós e vivei em paz uns com os outros”. (= Mt 19,1-12)
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-008.adoc#v48-8-0[&#60; Capítulo Anterior] | <<v48-9-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-010.adoc#v48-10-0[Próximo Capítulo &#62;]

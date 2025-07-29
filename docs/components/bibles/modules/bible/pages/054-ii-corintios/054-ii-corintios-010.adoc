@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v54-10-0]]
+=== II Coríntios, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 10 da segunda carta de Paulo aos Coríntios é dedicado à defesa do apóstolo contra aqueles que o acusam de ser fraco e de não ter autoridade como líder da igreja. Paulo começa explicando que, embora ele seja um líder humano, sua autoridade vem de Deus e que ele não está lutando com armas humanas, mas com a ajuda divina. Ele então continua a argumentar que suas críticas não são pessoais, mas sim para o bem da igreja e para a glória de Deus. Aqui estão cinco versículos relacionados com os temas abordados em 2 Coríntios 10:
+* Efésios 6:12: "Porque a nossa luta não é contra o sangue e a carne, e sim contra os principados e as potestades, contra os dominadores deste mundo tenebroso, contra as forças espirituais do mal, nas regiões celestes." Este versículo enfatiza a ideia de que a luta de Paulo não é contra seres humanos, mas sim contra as forças espirituais do mal.
+* Colossenses 2:10: "E estais perfeitos nele, que é a cabeça de todo principado e potestade." Esse versículo destaca que a autoridade de Paulo vem de Jesus Cristo, que é a cabeça de todas as autoridades.
+* 1 Coríntios 4:3-4: "Todavia, a mim mui pouco se me dá de ser julgado por vós ou por tribunal humano, nem eu julgo a mim mesmo. Porque em nada me sinto culpado; contudo, nem por isso me considero justificado, pois quem me julga é o Senhor." Este versículo mostra que Paulo não se importa com a opinião humana, mas com a opinião de Deus, que é quem realmente tem a autoridade para julgá-lo.
+* 2 Coríntios 13:10: "Por isso escrevo estas coisas estando ausente, para que, quando presente, não use de rigor, segundo a autoridade que o Senhor me conferiu para edificação, e não para destruição." Aqui, Paulo novamente enfatiza que sua autoridade vem de Deus e é usada para edificar a igreja.
+* 1 Pedro 5:5: "Semelhantemente vós, os mais moços, sede sujeitos aos mais velhos. E cingi-vos todos de humildade uns para com os outros, porque Deus resiste aos soberbos, mas dá graça aos humildes." Este versículo destaca a importância da humildade em relação à liderança e sugere que o tipo de liderança que Paulo está defendendo é uma liderança humilde e sujeita a Deus.
+****
+
+[[v54-10-1]]
+
+^<<v54-10-1,1>>^ Eu, Paulo, vos exorto pela mansidão e bondade de Cristo, eu que me mostro humilde quando estou entre vós, mas, quando longe, sou ousado convosco.^&#42;1^
+
+[[v54-10-2]]
+
+^<<v54-10-2,2>>^ Peço-vos que, quando eu estiver presente, não me veja obrigado a usar de minha autoridade de que pretendo realmente usar com certas pessoas que imaginam que nós procedemos com intenções humanas.^&#42;1^
+
+[[v54-10-3]]
+
+^<<v54-10-3,3>>^ Porque, ainda que vivamos na carne, não militamos segundo a carne.
+
+[[v54-10-4]]
+
+^<<v54-10-4,4>>^ Não são carnais as armas com que lutamos. São poderosas, em Deus, capazes de arrasar fortificações.
+
+[[v54-10-5]]
+
+^<<v54-10-5,5>>^ Nós aniquilamos todo raciocínio e todo orgulho que se levanta contra o conhecimento de Deus, e cativamos todo pensamento e o reduzimos à obediência a Cristo.
+
+[[v54-10-6]]
+
+^<<v54-10-6,6>>^ Estamos prontos também para castigar todos os desobedientes, assim que for perfeita a vossa obediência.
+
+[[v54-10-7]]
+
+^<<v54-10-7,7>>^ Julgais as coisas pela aparência!... Quem se gloria de pertencer a Cristo considere que, como ele é de Cristo, assim também nós o somos.
+
+[[v54-10-8]]
+
+^<<v54-10-8,8>>^ Ainda que eu me orgulhasse um pouco em demasia da autoridade que o Senhor nos deu, para vossa edificação e não para vossa ruína, não teria de que envergonhar-me.
+
+[[v54-10-9]]
+
+^<<v54-10-9,9>>^ Não quero, porém, dar a impressão de querer aterrar-vos com minhas cartas.
+
+[[v54-10-10]]
+
+^<<v54-10-10,10>>^ “Suas cartas” – dizem – “são imperativas e fortes, mas, quando está presente, a sua pessoa é fraca e a palavra desprezível.”
+
+[[v54-10-11]]
+
+^<<v54-10-11,11>>^ Quem assim pensa, fique sabendo que quais somos por escrito nas cartas, quando estamos ausentes, tais seremos também de fato, quando estivermos presentes.
+
+[[v54-10-12]]
+
+^<<v54-10-12,12>>^ Em verdade, não ousamos equiparar-nos nem comparar-nos com alguns que se preconizam a si próprios. Medindo-se eles conforme a sua própria medida e comparando-se consigo mesmos, dão provas de pouco bom senso.
+
+[[v54-10-13]]
+
+^<<v54-10-13,13>>^ Nós outros não nos gloriaremos além da medida, mas permaneceremos dentro do campo de ação que Deus nos determinou, levando-nos até vós.
+
+[[v54-10-14]]
+
+^<<v54-10-14,14>>^ Não passamos além dos limites. Estaríamos passando, caso não houvéssemos chegado até vós. Ora, realmente temos chegado até vós, pregando o Evangelho de Cristo.
+
+[[v54-10-15]]
+
+^<<v54-10-15,15>>^ Não nos ufanamos além da medida, cobrindo-nos de trabalhos alheios. Esperamos que, com o progresso de vossa fé, nossa obra cresça entre vós dentro do quadro de ação que nos foi determinado.
+
+[[v54-10-16]]
+
+^<<v54-10-16,16>>^ Assim esperamos levar o Evangelho aos países que ficam além de vós, sem nos gloriarmos das obras realizadas por outros dentro do domínio reservado a eles.
+
+[[v54-10-17]]
+
+^<<v54-10-17,17>>^ Ora, quem se gloria, glorie-se no Senhor.
+
+[[v54-10-18]]
+
+^<<v54-10-18,18>>^ Pois merece a aprovação não aquele que se recomenda a si mesmo, mas aquele que o Senhor recomenda.
+
+'''
+
+xref:054-ii-corintios/054-ii-corintios-009.adoc#v54-9-0[&#60; Capítulo Anterior] | <<v54-10-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-011.adoc#v54-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v26-7-0]]
+=== Cântico dos Cânticos, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 7 do livro de Cânticos trata da beleza da amada, com destaque para as partes do corpo dela que são descritas com grande admiração pelo amado. Os versículos a seguir estão relacionados com esse tema:
+* Provérbios 31:30: "A beleza é enganosa, e a formosura é passageira; mas a mulher que teme ao Senhor será elogiada." Esse versículo fala da importância de valorizar qualidades interiores, como o temor a Deus, em vez de se deixar levar somente pela aparência física.
+* 1 Samuel 16:7: "Porém o Senhor disse a Samuel: Não consideres a sua aparência, nem o seu grande porte, porque eu o rejeitei; porque o Senhor não vê como vê o homem. O homem vê o exterior, porém o Senhor, o coração." Nesse verso, Deus mostra que não se importa com a aparência física das pessoas, mas com o coração delas.
+* Provérbios 6:25: "Não cobices no teu coração a sua formosura, nem te deixes prender pelos seus olhares." Esse verso adverte contra a tentação de se deixar levar pela beleza externa, que pode levar a atitudes pecaminosas.
+* 1 Coríntios 6:19-20: "Ou não sabeis que o nosso corpo é santuário do Espírito Santo, que habita em vós, proveniente de Deus, e que não sois de vós mesmos? Porque fostes comprados por preço. Agora, pois, glorificai a Deus no vosso corpo." Esses versículos ressaltam a importância de cuidar do corpo como um templo do Espírito Santo, honrando a Deus em todas as áreas da vida.
+* 1 Pedro 3:3-4: "O vosso adorno não seja o enfeite exterior, como as tranças dos cabelos, o uso de joias de ouro, ou o luxo dos vestidos, mas o homem interior do coração, unido ao incorruptível trajo de um espírito manso e tranquilo, que é precioso diante de Deus." Esse versículo também destaca a importância de valorizar as qualidades interiores, como a mansidão e a tranquilidade, em vez de se concentrar somente na aparência externa.
+****
+
+[[v26-7-1]]
+
+^<<v26-7-1,1>>^ – Volta, volta, ó Sulamita; volta, volta, para que nós te vejamos. – Por que olhais a Sulamita, quando ela entra na dança de Maanaim?^&#42;1^
+
+[[v26-7-2]]
+
+^<<v26-7-2,2>>^ – Como são graciosos os teus pés nas tuas sandálias, filha de príncipe! A curva de teus quadris assemelha-se a um colar, obra de mãos de artista;^&#42;1^
+
+[[v26-7-3]]
+
+^<<v26-7-3,3>>^ teu umbigo é uma taça redonda, cheia de vinho perfumado; teu corpo é um monte de trigo cercado de lírios;
+
+[[v26-7-4]]
+
+^<<v26-7-4,4>>^ teus dois seios são como dois filhotes gêmeos de uma gazela;
+
+[[v26-7-5]]
+
+^<<v26-7-5,5>>^ teu pescoço é uma torre de marfim; teus olhos são as fontes de Hesebon junto à porta de Bat-Rabim. Teu nariz é como a torre do Líbano, que olha para os lados de Damasco;
+
+[[v26-7-6]]
+
+^<<v26-7-6,6>>^ tua cabeça ergue-se sobre ti como o Carmelo; tua cabeleira é como a púrpura, e um rei se acha preso aos seus cachos.
+
+[[v26-7-7]]
+
+^<<v26-7-7,7>>^ – Como és bela e graciosa, ó meu amor, ó minhas delícias!^&#42;1^
+
+[[v26-7-8]]
+
+^<<v26-7-8,8>>^ Teu porte assemelha-se ao da palmeira, de que teus dois seios são os cachos.
+
+[[v26-7-9]]
+
+^<<v26-7-9,9>>^ “Vou subir à palmeira – disse eu comigo mesmo – e colherei os seus frutos.” Sejam-me os teus seios como cachos da vinha.
+
+[[v26-7-10]]
+
+^<<v26-7-10,10>>^ E o perfume de tua boca como o odor das maçãs; teus beijos são como um vinho delicioso que corre para o bem-amado, umedecendo-lhe os lábios na hora do sono.
+
+[[v26-7-11]]
+
+^<<v26-7-11,11>>^ – Eu sou para o meu amado o objeto de seus desejos.
+
+[[v26-7-12]]
+
+^<<v26-7-12,12>>^ Vem, meu bem-amado, saiamos ao campo, passemos a noite nos pomares;
+
+[[v26-7-13]]
+
+^<<v26-7-13,13>>^ pela manhã iremos às vinhas, para ver se a vinha lançou rebentos, se as suas flores se abrem, se as romãzeiras estão em flor. Ali te darei as minhas carícias.
+
+[[v26-7-14]]
+
+^<<v26-7-14,14>>^ As mandrágoras exalam o seu perfume; temos à nossa porta frutos excelentes, novos e velhos que guardei para ti, meu bem-amado.
+
+'''
+
+xref:026-cantico-dos-canticos/026-cantico-dos-canticos-006.adoc#v26-6-0[&#60; Capítulo Anterior] | <<v26-7-0,Topo>> | xref:026-cantico-dos-canticos/026-cantico-dos-canticos-008.adoc#v26-8-0[Próximo Capítulo &#62;]

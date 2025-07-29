@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-4-0]]
+=== Salmos, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 4 é uma oração noturna que expressa a confiança em Deus em meio à angústia e à injustiça. Os versículos selecionados abaixo se relacionam com os temas abordados no Salmo 4:
+* Salmos 3:5 - "Eu me deito e durmo; acordo, porque o Senhor me sustenta." Este versículo do Salmo 3 expressa a confiança do salmista em Deus mesmo em meio à adversidade. Ele se relaciona com o tema do Salmo 4, que é a confiança em Deus em meio à angústia.
+* Salmos 5:3 - "De manhã, Senhor, ouves a minha voz; de manhã te apresento a minha oração, e vigio." Este versículo do Salmo 5 expressa o hábito do salmista de buscar a Deus em oração logo pela manhã. Ele se relaciona com o tema do Salmo 4, que é a oração noturna do salmista.
+* Isaías 26:3-4 - "Tu conservarás em paz aquele cuja mente está firme em ti; porque ele confia em ti. Confiai no Senhor perpetuamente; porque o Senhor Deus é uma rocha eterna." Este trecho de Isaías destaca a importância da confiança em Deus para a paz de espírito. Ele se relaciona com o tema do Salmo 4, que é a confiança em Deus em meio à angústia.
+* Filipenses 4:6-7 - "Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus." Este trecho da carta aos Filipenses destaca a importância da oração em meio à ansiedade e à preocupação. Ele se relaciona com o tema do Salmo 4, que é a oração noturna do salmista em meio à angústia.
+* Hebreus 13:6 - "De maneira que, tendo nós o mesmo espírito de fé, conforme está escrito: Cri, por isso falei; nós também cremos, por isso também falamos." Este versículo cita o Salmo 116:10 e destaca a importância da fé e da confiança em Deus para a vida do cristão. Ele se relaciona com o tema do Salmo 4, que é a confiança em Deus em meio à angústia e à injustiça.
+****
+
+[[v21-4-1]]
+
+^<<v21-4-1,1>>^ Ao mestre de canto. Com instrumentos de corda. Salmo de Davi.^&#42;1^
+
+[[v21-4-2]]
+
+^<<v21-4-2,2>>^ Quando vos invoco, respondei-me, ó Deus de minha justiça, vós que na hora da angústia me reconfortastes. Tende piedade de mim e ouvi minha oração.
+
+[[v21-4-3]]
+
+^<<v21-4-3,3>>^ Ó poderosos, até quando tereis o coração endurecido, no amor das vaidades e na busca da mentira?
+
+[[v21-4-4]]
+
+^<<v21-4-4,4>>^ O Senhor escolheu como eleito uma pessoa admirável, o Senhor me ouviu quando o invoquei.
+
+[[v21-4-5]]
+
+^<<v21-4-5,5>>^ Tremei, mas sem pecar; refleti em vossos corações, quando estiverdes em vossos leitos, e calai.^&#42;1^
+
+[[v21-4-6]]
+
+^<<v21-4-6,6>>^ Oferecei vossos sacrifícios com sinceridade e esperai no Senhor.
+
+[[v21-4-7]]
+
+^<<v21-4-7,7>>^ Dizem muitos: “Quem nos fará ver a felicidade?”. Fazei brilhar sobre nós, Senhor, a luz de vossa face.
+
+[[v21-4-8]]
+
+^<<v21-4-8,8>>^ Pusestes em meu coração mais alegria do que quando abundam o trigo e o vinho.
+
+[[v21-4-9]]
+
+^<<v21-4-9,9>>^ Apenas me deito, logo adormeço em paz, porque a segurança de meu repouso vem de vós só, Senhor.
+
+'''
+
+xref:021-salmos/021-salmos-003.adoc#v21-3-0[&#60; Capítulo Anterior] | <<v21-4-0,Topo>> | xref:021-salmos/021-salmos-005.adoc#v21-5-0[Próximo Capítulo &#62;]

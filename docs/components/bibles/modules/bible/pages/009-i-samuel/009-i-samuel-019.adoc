@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v9-19-0]]
+=== I Samuel, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Samuel 19 narra a história de como o rei Saul começa a perseguir Davi, que se tornou seu rival e ameaça ao trono. O capítulo aborda temas como inveja, traição, perseguição, proteção divina e fidelidade.
+* Salmos 37:1-2: "Não te indignes por causa dos malfeitores, nem tenhas inveja dos que praticam a iniquidade. Porque cedo serão ceifados como a erva, e murcharão como a verdura." Este versículo destaca a inutilidade da inveja e do ódio contra outras pessoas, que é o que motiva Saul a perseguir Davi. O salmista exorta a confiar em Deus, que trará justiça para aqueles que praticam o mal.
+* Provérbios 17:17: "Em todo o tempo ama o amigo e na angústia se faz o irmão." Este versículo fala sobre a importância da amizade e da fidelidade, valores que Davi demonstra ao proteger Jônatas, filho de Saul, mesmo quando seu próprio sogro tenta matá-lo.
+* Salmos 34:19: "Muitas são as aflições do justo, mas o Senhor o livra de todas." Este versículo enfatiza a proteção divina para aqueles que buscam a justiça e a retidão, o que Davi experimenta quando escapa das várias tentativas de assassinato de Saul.
+* Provérbios 26:24-25: "O que odeia disfarça com os seus lábios, mas no seu interior encobre o engano. Quando te suplicar com voz suave, não te fies nele, porque sete abominações há no seu coração." Este versículo fala sobre a falsidade e a traição, comportamentos que Saul demonstra ao fingir perdoar Davi, mas na verdade continua a persegui-lo.
+* Salmos 27:1: "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a fortaleza da minha vida; de quem me recearei?" Este versículo destaca a importância da confiança em Deus, que é o que Davi demonstra ao enfrentar a perseguição de Saul com coragem e fé.
+****
+
+[[v9-19-1]]
+
+^<<v9-19-1,1>>^ Saul falou ao seu filho Jônatas e a todos os servos, ordenando-lhes que matassem Davi. Mas Jônatas, que tinha grande afeição por Davi,
+
+[[v9-19-2]]
+
+^<<v9-19-2,2>>^ preveniu-o disso: “Saul, meu pai, procura matar-te. Fica de sobreaviso amanhã cedo; esconde-te.
+
+[[v9-19-3]]
+
+^<<v9-19-3,3>>^ Sairei em companhia de meu pai, ao campo onde estiveres. Falarei a meu pai, para ver o que ele diz e te avisarei depois”.
+
+[[v9-19-4]]
+
+^<<v9-19-4,4>>^ Jônatas falou bem de Davi ao seu pai e ajuntou: “Que o rei não faça mal algum ao seu servo Davi, pois que ele nunca te fez mal algum. Ao contrário, prestou-te grandes serviços.
+
+[[v9-19-5]]
+
+^<<v9-19-5,5>>^ Arriscou a sua vida para matar o filisteu e o Senhor deu uma grande vitória a Israel. Foste testemunha disso e te alegraste. Por que queres pecar contra o sangue inocente, matando Davi sem motivo?”.^&#42;1^
+
+[[v9-19-6]]
+
+^<<v9-19-6,6>>^ Saul ouviu a voz de Jônatas e fez este juramento: “Pela vida do Senhor, Davi não morrerá!”
+
+[[v9-19-7]]
+
+^<<v9-19-7,7>>^ Então Jônatas chamou Davi e contou-lhe tudo isso. Levou-o em seguida a Saul, para que ele retomasse o seu lugar como dantes.
+
+[[v9-19-8]]
+
+^<<v9-19-8,8>>^ Tendo recomeçado a guerra, marchou Davi contra os filisteus, combatendo-os e infligindo-lhes uma grande derrota e eles fugiram diante dele.
+
+[[v9-19-9]]
+
+^<<v9-19-9,9>>^ O mau espírito do Senhor, porém, veio novamente sobre Saul. Estava ele sentado em sua casa, com a lança na mão; Davi tocava a cítara.
+
+[[v9-19-10]]
+
+^<<v9-19-10,10>>^ Saul, então, arremessou-lhe a lança, procurando cravá-lo na parede; Davi desviou-se e a lança foi cravar-se na parede. Davi esquivou-se e fugiu naquela mesma noite.
+
+[[v9-19-11]]
+
+^<<v9-19-11,11>>^ Ora, mandou o rei emissários à casa de Davi, para terem-no seguro e assassiná-lo pela manhã. Mas Micol, mulher de Davi, disse-lhe: “Se não fugires esta noite, amanhã serás um homem morto”.
+
+[[v9-19-12]]
+
+^<<v9-19-12,12>>^ Fê-lo, pois, descer pela janela e ele fugiu são e salvo.
+
+[[v9-19-13]]
+
+^<<v9-19-13,13>>^ Micol tomou a estátua de um ídolo e a pôs na cama, colocou-lhe em redor da cabeça uma cobertura de pele de cabra e cobriu tudo com um manto.
+
+[[v9-19-14]]
+
+^<<v9-19-14,14>>^ Quando chegaram os enviados de Saul para prender Davi, ela lhes disse: “Ele está doente”.
+
+[[v9-19-15]]
+
+^<<v9-19-15,15>>^ Saul mandou-os de novo, com a ordem de vê-lo, dizendo: “Trazei-mo com sua cama e eu o matarei”.
+
+[[v9-19-16]]
+
+^<<v9-19-16,16>>^ Tendo chegado os mensageiros, só encontraram na cama a estátua com uma cobertura de pele de cabra no lugar da cabeça.
+
+[[v9-19-17]]
+
+^<<v9-19-17,17>>^ Saul disse a Micol: “Por que me enganaste assim, deixando escapar o meu inimigo?”. Micol respondeu: “Porque ele me disse: ‘Deixa-me partir, senão te mato!’.”
+
+[[v9-19-18]]
+
+^<<v9-19-18,18>>^ Davi fugiu, pois, e foi ocultar-se junto de Samuel, em Ramá, e contou-lhe tudo o que Saul lhe fizera. E foram ambos morar em Naiot.
+
+[[v9-19-19]]
+
+^<<v9-19-19,19>>^ Disseram a Saul: “Davi está em Naiot, perto de Ramá”.
+
+[[v9-19-20]]
+
+^<<v9-19-20,20>>^ Saul mandou homens para prendê-lo, mas quando viram a comunidade dos profetas em delírio, tendo Samuel à sua frente, o espírito de Deus veio sobre os enviados de Saul que começaram, também eles, a profetizar.^&#42;1^
+
+[[v9-19-21]]
+
+^<<v9-19-21,21>>^ Contaram-no a Saul, que enviou outros mensageiros, mas também estes se puseram a cantar como os primeiros. Saul mandou um terceiro grupo, os quais também profetizaram.
+
+[[v9-19-22]]
+
+^<<v9-19-22,22>>^ Então ele foi pessoalmente a Ramá. Chegando à grande cisterna de Soco, perguntou: “Onde estão Samuel e Davi?”. “Estão em Naiot – responderam-lhe –, perto de Ramá.”
+
+[[v9-19-23]]
+
+^<<v9-19-23,23>>^ Mas, no caminho para Naiot, assaltou-o também o espírito de Deus e Saul foi tomado de transes por todo o caminho até chegar a Naiot.
+
+[[v9-19-24]]
+
+^<<v9-19-24,24>>^ Despiu suas vestes, profetizando diante de Samuel e ficou assim despido, prostrado por terra durante todo o dia e toda a noite. Daí o ditado: “Está Saul também entre os profetas?”.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-018.adoc#v9-18-0[&#60; Capítulo Anterior] | <<v9-19-0,Topo>> | xref:009-i-samuel/009-i-samuel-020.adoc#v9-20-0[Próximo Capítulo &#62;]

@@ -1,0 +1,243 @@
+include::./index.adoc[]
+
+[[v49-8-0]]
+=== São Lucas, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 8 do Evangelho de Lucas apresenta diversas parábolas e ensinamentos de Jesus, incluindo a conhecida Parábola do Semeador e a história da cura da mulher que sofria de hemorragia há doze anos. Também é relatado o milagre da ressurreição da filha de Jairo. Abaixo estão cinco versículos que abordam temas presentes nesse capítulo:
+* 2 Samuel 22:29: "Pois tu és a minha lâmpada, ó SENHOR; o SENHOR é quem me ilumina as trevas." Este versículo fala da luz que o Senhor dá a seus seguidores, que pode ajudá-los a encontrar o caminho certo em meio à escuridão.
+* Provérbios 3:5-6: "Confia no SENHOR de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo fala da importância de confiar em Deus e de buscar sua orientação em todas as áreas da vida.
+* Isaías 40:31: "Mas os que esperam no SENHOR renovam as suas forças. Voam alto como águias; correm e não ficam exaustos, andam e não se cansam." Este versículo fala da força que Deus pode dar aos seus seguidores, permitindo que eles enfrentem desafios sem desistir.
+* João 10:10: "O ladrão vem apenas para roubar, matar e destruir; eu vim para que tenham vida e a tenham plenamente." Este versículo fala da intenção de Jesus em trazer vida plena e abundante aos seus seguidores, e da oposição que ele enfrenta daqueles que querem roubar, matar e destruir.
+* Filipenses 4:6-7: "Não andeis ansiosos por coisa alguma; antes, em tudo sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças; e a paz de Deus, que excede todo o entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus." Este versículo fala da importância de confiar em Deus em momentos de ansiedade e de buscar sua paz por meio da oração e da gratidão.
+****
+
+[[v49-8-1]]
+
+^<<v49-8-1,1>>^ Depois disso, Jesus andava pelas cidades e aldeias anunciando a Boa-Nova do Reino de Deus.
+
+[[v49-8-2]]
+
+^<<v49-8-2,2>>^ Os Doze estavam com ele, como também algumas mulheres que tinham sido livradas de espíritos malignos e curadas de enfermidades: Maria, chamada Madalena, da qual tinham saído sete demônios;^&#42;1^
+
+[[v49-8-3]]
+
+^<<v49-8-3,3>>^ Joana, mulher de Cuza, procurador de Herodes; Susana e muitas outras, que o assistiram com as suas posses. (= Mt 13,1-23; 5,15 = Mc 4,1-25)
+
+[[v49-8-4]]
+
+^<<v49-8-4,4>>^ Havia se reunido uma grande multidão: eram pessoas vindas de várias cidades para junto dele. Ele lhes disse esta parábola:
+
+[[v49-8-5]]
+
+^<<v49-8-5,5>>^ “Saiu o semeador a semear a sua semente. E, ao semear, parte da semente caiu à beira do caminho; foi pisada, e as aves do céu a comeram.
+
+[[v49-8-6]]
+
+^<<v49-8-6,6>>^ Outra caiu no pedregulho; e, tendo nascido, secou, por falta de umidade.
+
+[[v49-8-7]]
+
+^<<v49-8-7,7>>^ Outra caiu entre os espinhos; cresceram com ela os espinhos, e sufocaram-na.
+
+[[v49-8-8]]
+
+^<<v49-8-8,8>>^ Outra, porém, caiu em terra boa; tendo crescido, produziu fruto cem por um”. Dito isso, Jesus acrescentou alteando a voz: “Quem tem ouvidos para ouvir, ouça!”.
+
+[[v49-8-9]]
+
+^<<v49-8-9,9>>^ Os seus discípulos perguntaram-lhe a significação desta parábola.
+
+[[v49-8-10]]
+
+^<<v49-8-10,10>>^ Ele respondeu: “A vós é concedido conhecer os mistérios do Reino de Deus, mas aos outros se lhes fala por parábolas; de forma que vendo não vejam, e ouvindo não entendam.
+
+[[v49-8-11]]
+
+^<<v49-8-11,11>>^ Eis o que significa esta parábola: a semente é a Palavra de Deus.
+
+[[v49-8-12]]
+
+^<<v49-8-12,12>>^ Os que estão à beira do caminho são aqueles que ouvem; mas depois vem o demônio e lhes tira a palavra do coração, para que não creiam nem se salvem.
+
+[[v49-8-13]]
+
+^<<v49-8-13,13>>^ Aqueles que a recebem em solo pedregoso são os ouvintes da Palavra de Deus que a acolhem com alegria; mas não têm raiz, porque creem até certo tempo, e na hora da provação a abandonam.
+
+[[v49-8-14]]
+
+^<<v49-8-14,14>>^ A que caiu entre os espinhos, estes são os que ouvem a palavra, mas, prosseguindo o caminho, são sufocados pelos cuidados, riquezas e prazeres da vida, e assim os seus frutos não amadurecem.
+
+[[v49-8-15]]
+
+^<<v49-8-15,15>>^ A que caiu na terra boa são os que ouvem a palavra com coração reto e bom, retêm-na e dão fruto pela perseverança.
+
+[[v49-8-16]]
+
+^<<v49-8-16,16>>^ Ninguém acende uma lâmpada e a cobre com um vaso ou a põe debaixo da cama; mas a põe sobre um castiçal, para iluminar os que entram.
+
+[[v49-8-17]]
+
+^<<v49-8-17,17>>^ Porque não há coisa oculta que não acabe por se manifestar, nem secreta que não venha a ser descoberta.
+
+[[v49-8-18]]
+
+^<<v49-8-18,18>>^ Vede, pois, como é que ouvis. Porque ao que tiver lhe será dado; e ao que não tiver até aquilo que julga ter lhe será tirado”. (= Mt 12,46-50 = Mc 3,31-35)
+
+[[v49-8-19]]
+
+^<<v49-8-19,19>>^ A mãe e os irmãos de Jesus foram procurá-lo, mas não podiam chegar-se a ele por causa da multidão.^&#42;1^
+
+[[v49-8-20]]
+
+^<<v49-8-20,20>>^ Foi-lhe avisado: “Tua mãe e teus irmãos estão lá fora e desejam ver-te”.
+
+[[v49-8-21]]
+
+^<<v49-8-21,21>>^ Ele lhes disse: “Minha mãe e meus irmãos são estes, que ouvem a Palavra de Deus e a observam”. (= Mt 8,18.23-27 = Mc 4,35-41)
+
+[[v49-8-22]]
+
+^<<v49-8-22,22>>^ Num daqueles dias ele subiu com os seus discípulos a uma barca. Disse ele: “Passemos à outra margem do lago.” E eles partiram.
+
+[[v49-8-23]]
+
+^<<v49-8-23,23>>^ Durante a travessia, Jesus adormeceu. Desabou então uma tempestade de vento sobre o lago. A barca enchia-se de água, e eles se achavam em perigo.
+
+[[v49-8-24]]
+
+^<<v49-8-24,24>>^ Aproximaram-se dele então e o despertaram com este grito: “Mestre, Mestre! Nós estamos perecendo!”. Levantou-se ele e ordenou aos ventos e à fúria da água que se acalmassem; e se acalmaram e logo veio a bonança.
+
+[[v49-8-25]]
+
+^<<v49-8-25,25>>^ Perguntou-lhes, então: “Onde está a vossa fé?”. Eles, cheios de respeito e de profunda admiração, diziam uns aos outros: “Quem é este, a quem os ventos e o mar obedecem?”. (= Mt 8,28-34 = Mc 5,1-20)
+
+[[v49-8-26]]
+
+^<<v49-8-26,26>>^ Navegaram para a região dos gerasenos, que está defronte da Galileia.
+
+[[v49-8-27]]
+
+^<<v49-8-27,27>>^ Mal saltou em terra, veio-lhe ao encontro um homem dessa região, possuído de muitos demônios; há muito tempo não se vestia nem parava em casa, mas habitava no cemitério.
+
+[[v49-8-28]]
+
+^<<v49-8-28,28>>^ Ao ver Jesus, prostrou-se diante dele e gritou em alta voz: “Por que te ocupas de mim, Jesus, Filho do Deus Altíssimo? Rogo-te, não me atormentes!”.
+
+[[v49-8-29]]
+
+^<<v49-8-29,29>>^ Porque Jesus ordenara ao espírito imundo que saísse do homem. Pois há muito tempo que se apoderara dele, e guardavam-no preso em cadeias e com grilhões nos pés, mas ele rompia as cadeias e era impelido pelo demônio para os desertos.
+
+[[v49-8-30]]
+
+^<<v49-8-30,30>>^ Jesus perguntou-lhe: “Qual é o teu nome?”. Ele respondeu: “Legião!”. (Porque eram muitos os demônios que nele se ocultavam.)
+
+[[v49-8-31]]
+
+^<<v49-8-31,31>>^ E pediam-lhe que não os mandasse ir para o abismo.
+
+[[v49-8-32]]
+
+^<<v49-8-32,32>>^ Ora, andava ali pastando no monte uma grande manada de porcos; rogaram-lhe os demônios que lhes permitisse entrar neles. Ele permitiu.
+
+[[v49-8-33]]
+
+^<<v49-8-33,33>>^ Saíram, pois, os demônios do homem e entraram nos porcos; e a manada de porcos precipitou-se pelo despenhadeiro, impetuosamente no lago, e afogou-se.
+
+[[v49-8-34]]
+
+^<<v49-8-34,34>>^ Quando aqueles que os guardavam viram o acontecido, fugiram e foram contá-lo na cidade e pelo campo.
+
+[[v49-8-35]]
+
+^<<v49-8-35,35>>^ Saíram eles, pois, a ver o que havia ocorrido. Chegaram a Jesus e acharam a seus pés, sentado, vestido e calmo, o homem de quem haviam sido expulsos os demônios; e, tomados de medo,
+
+[[v49-8-36]]
+
+^<<v49-8-36,36>>^ ouviram das testemunhas a narração desse exorcismo.
+
+[[v49-8-37]]
+
+^<<v49-8-37,37>>^ Então, todo o povo da região dos gerasenos rogou a Jesus que se retirasse deles, pois estavam possuídos de grande temor. Jesus subiu à barca, para regressar.
+
+[[v49-8-38]]
+
+^<<v49-8-38,38>>^ Nesse momento, pedia-lhe o homem, de quem tinham saído os demônios, para ficar com ele. Mas Jesus despediu-o, dizendo:
+
+[[v49-8-39]]
+
+^<<v49-8-39,39>>^ “Volta para casa, e conta quanto Deus te fez”. E ele se foi, publicando por toda a cidade essas grandes coisas... (= Mt 9,18-26 = Mc 5,21-43)
+
+[[v49-8-40]]
+
+^<<v49-8-40,40>>^ À sua volta, Jesus foi recebido por uma multidão que o esperava.
+
+[[v49-8-41]]
+
+^<<v49-8-41,41>>^ O chefe da sinagoga, chamado Jairo, foi ao seu encontro. Lançou-se a seus pés e rogou-lhe que fosse à sua casa,
+
+[[v49-8-42]]
+
+^<<v49-8-42,42>>^ porque tinha uma filha única, de uns doze anos, que estava para morrer. Jesus dirigiu-se para lá, comprimido pelo povo.
+
+[[v49-8-43]]
+
+^<<v49-8-43,43>>^ Ora, uma mulher que padecia dum fluxo de sangue havia doze anos, e tinha gasto com médicos todos os seus bens, sem que nenhum a pudesse curar,
+
+[[v49-8-44]]
+
+^<<v49-8-44,44>>^ aproximou-se dele por detrás e tocou-lhe a orla do manto; e, no mesmo instante, lhe parou o fluxo de sangue.
+
+[[v49-8-45]]
+
+^<<v49-8-45,45>>^ Jesus perguntou: “Quem foi que me tocou?” Como todos negassem, Pedro e os que com ele estavam disseram: “Mestre, a multidão te aperta de todos os lados...”.
+
+[[v49-8-46]]
+
+^<<v49-8-46,46>>^ Jesus replicou: “Alguém me tocou, porque percebi sair de mim uma força”.
+
+[[v49-8-47]]
+
+^<<v49-8-47,47>>^ A mulher viu-se descoberta e foi tremendo e prostrou-se aos seus pés; e declarou diante de todo o povo o motivo por que o havia tocado, e como logo ficara curada.
+
+[[v49-8-48]]
+
+^<<v49-8-48,48>>^ Jesus disse-lhe: “Minha filha, tua fé te salvou; vai em paz”.
+
+[[v49-8-49]]
+
+^<<v49-8-49,49>>^ Enquanto ainda falava, veio alguém e disse ao chefe da sinagoga: “Tua filha acaba de morrer; não incomodes mais o Mestre”.
+
+[[v49-8-50]]
+
+^<<v49-8-50,50>>^ Mas Jesus o ouviu e disse a Jairo: “Não temas; crê somente e ela será salva”.
+
+[[v49-8-51]]
+
+^<<v49-8-51,51>>^ Quando Jesus chegou à casa, não deixou ninguém entrar com ele, senão Pedro, Tiago, João com o pai e a mãe da menina.
+
+[[v49-8-52]]
+
+^<<v49-8-52,52>>^ Todos, entretanto, choravam e se lamentavam. Mas Jesus disse: “Não choreis; a menina não morreu, mas dorme.”
+
+[[v49-8-53]]
+
+^<<v49-8-53,53>>^ Zombavam dele, pois sabiam bem que estava morta.
+
+[[v49-8-54]]
+
+^<<v49-8-54,54>>^ Mas segurando ele a mão dela, disse em alta voz: “Menina, levanta-te!”.
+
+[[v49-8-55]]
+
+^<<v49-8-55,55>>^ Voltou-lhe a vida e ela levantou-se imediatamente. Jesus mandou que lhe dessem de comer.
+
+[[v49-8-56]]
+
+^<<v49-8-56,56>>^ Seus pais ficaram tomados de pasmo; Jesus ordenou-lhes que não contassem a pessoa alguma o que se tinha passado. (= Mt 10,5-14 = Mc 6,7-13)
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-007.adoc#v49-7-0[&#60; Capítulo Anterior] | <<v49-8-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-009.adoc#v49-9-0[Próximo Capítulo &#62;]

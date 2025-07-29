@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v29-62-0]]
+=== Isaías, 62
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 62 é um capítulo que fala sobre a restauração de Jerusalém e a glória de Sião. O profeta Isaías exorta o povo a não se calar e a clamar por justiça, prometendo que Deus restaurará a cidade e trará salvação. Além disso, ele fala sobre a importância da aliança de Deus com Israel e a bênção que isso traz. Abaixo estão cinco versículos relacionados com os temas abordados em Isaías 62:
+* Salmos 122:6: "Orai pela paz de Jerusalém; prosperarão aqueles que te amam." Este versículo é um exemplo de como o povo de Deus é chamado a orar pela paz e prosperidade de Jerusalém, que é uma cidade muito importante para a fé judaica e cristã.
+* Gálatas 4:26: "Mas a Jerusalém que é de cima é livre; a qual é mãe de todos nós." Aqui, Paulo fala sobre a Jerusalém celestial, que é livre e representa a salvação que Deus oferece a todos os seus filhos.
+* Salmo 87:2-3: "O Senhor ama as portas de Sião mais do que todas as habitações de Jacó. Gloriosas coisas se dizem de ti, ó cidade de Deus." Este salmo exalta a cidade de Sião, que é amada por Deus e é um símbolo da presença divina.
+* Hebreus 12:22: "Mas tendes chegado ao monte Sião, e à cidade do Deus vivo, à Jerusalém celestial, e aos muitos milhares de anjos." Este versículo fala sobre a Jerusalém celestial, que é a cidade do Deus vivo e representa a salvação que os cristãos têm em Jesus.
+* Zacarias 8:3: "Assim diz o Senhor: Voltarei para Sião, e habitarei no meio de Jerusalém; e Jerusalém chamar-se-á a cidade da verdade, e o monte do Senhor dos Exércitos, o monte santo." Este versículo fala sobre a restauração de Jerusalém e a promessa de que Deus habitará no meio da cidade.
+****
+
+[[v29-62-1]]
+
+^<<v29-62-1,1>>^ Por amor a Sião, eu não me calarei, por amor de Jerusalém, não terei sossego, até que sua justiça brilhe como a aurora, e sua salvação como uma flama.
+
+[[v29-62-2]]
+
+^<<v29-62-2,2>>^ As nações verão então tua vitória, e todos os reis teu triunfo. Receberás então um novo nome, determinado pela boca do Senhor.^&#42;1^
+
+[[v29-62-3]]
+
+^<<v29-62-3,3>>^ E tu serás uma esplêndida coroa na mão do Senhor, um diadema real entre as mãos do teu Deus;
+
+[[v29-62-4]]
+
+^<<v29-62-4,4>>^ não mais serás chamada a desamparada, nem tua terra, a abandonada; serás chamada: minha preferida, e tua terra: a desposada, porque o Senhor se comprazerá em ti e tua terra terá um esposo;
+
+[[v29-62-5]]
+
+^<<v29-62-5,5>>^ assim como um jovem desposa uma jovem, aquele que te tiver construído te desposará; e como a recém-casada faz a alegria de seu marido, tu farás a alegria de teu Deus.
+
+[[v29-62-6]]
+
+^<<v29-62-6,6>>^ Sobre tuas muralhas, Jerusalém, coloquei vigias; nem de dia nem de noite devem calar-se. Vós, que deveis manter desperta a memória do Senhor, não vos concedais descanso algum^&#42;1^
+
+[[v29-62-7]]
+
+^<<v29-62-7,7>>^ e não o deixeis em paz, até que tenha restabelecido Jerusalém para dela fazer a glória da terra.
+
+[[v29-62-8]]
+
+^<<v29-62-8,8>>^ O Senhor o jurou por sua destra e por seu braço poderoso: “Não deixarei mais teus inimigos alimentarem-se de teu trigo, nem os estrangeiros beberem o vinho, produto de teu trabalho.
+
+[[v29-62-9]]
+
+^<<v29-62-9,9>>^ Aqueles que colherem o trigo o comerão louvando o Senhor; aqueles que vindimarem beberão o vinho no átrio de meu santuário”.^&#42;1^
+
+[[v29-62-10]]
+
+^<<v29-62-10,10>>^ Passai, passai pelas portas, preparai o caminho ao povo! Abri, abri a estrada, retirai dela as pedras! Alçai o estandarte para convocar os povos.
+
+[[v29-62-11]]
+
+^<<v29-62-11,11>>^ Eis o que o Senhor proclama até os confins da terra: “Dizei a Sião: eis, aí vem teu salvador; eis com ele o preço de sua vitória, ele faz-se preceder dos frutos de sua conquista;
+
+[[v29-62-12]]
+
+^<<v29-62-12,12>>^ os resgatados do Senhor serão chamados ‘Povo Santo’, e tu, cidade não mais desamparada, serás chamada a ‘desejada’.”^&#42;1^
+
+'''
+
+xref:029-isaias/029-isaias-061.adoc#v29-61-0[&#60; Capítulo Anterior] | <<v29-62-0,Topo>> | xref:029-isaias/029-isaias-063.adoc#v29-63-0[Próximo Capítulo &#62;]

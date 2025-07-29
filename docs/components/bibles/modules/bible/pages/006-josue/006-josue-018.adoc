@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v6-18-0]]
+=== Josué, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Josué 18 trata da distribuição das terras restantes entre as tribos de Israel, depois que Josué terminou de conquistar a maior parte de Canaã. As tribos de Judá e José já haviam recebido suas porções, mas ainda havia sete tribos que precisavam receber suas terras. Então, Josué convocou os líderes das tribos para sortear as terras e dividi-las equitativamente.
+* Levítico 25:10: "Consagrareis o quinquagésimo ano e apregoareis liberdade na terra a todos os seus moradores; ano de jubileu vos será, e tornareis, cada um, à sua possessão, e cada qual à sua família." O ano do jubileu, mencionado aqui, era um período de 50 anos em que todas as dívidas eram perdoadas e todas as terras que haviam sido vendidas voltavam para as suas famílias originais. Isso se relaciona com Josué 18, pois o capítulo trata da distribuição equitativa das terras entre as tribos de Israel.
+* Números 34:13: "Estes são os limites da terra que herdareis por sorteio, que Eleazar, o sacerdote, e Josué, filho de Num, vos hão de dar por possessão." Este versículo descreve a distribuição das terras de Canaã entre as tribos de Israel, que é o assunto central de Josué 18.
+* Deuteronômio 19:14: "Não tirarás os marcos do teu próximo, que os antepassados colocaram nas tuas herdades, na terra que te está dando o Senhor, teu Deus, por possessão." Este versículo trata do respeito pelas propriedades dos outros, que é um aspecto importante da distribuição equitativa das terras em Josué 18.
+* Salmos 16:5-6: "O Senhor é a porção da minha herança e do meu cálice; tu sustentas a minha sorte. As linhas caem-me em lugares deliciosos; sim, coube-me uma formosa herança." Este salmo fala sobre a confiança no Senhor como a fonte da herança e da sorte. Em Josué 18, as tribos de Israel contaram com a sorte para determinar suas heranças e, como resultado, confiaram na providência de Deus para guiar o processo.
+* Isaías 54:2: "Alarga o lugar da tua tenda, e estendam-se as cortinas das tuas habitações; não o impeças; alonga as tuas cordas, e fixa bem as tuas estacas." Este versículo fala sobre o crescimento e a expansão. Em Josué 18, a distribuição das terras permitiu que as tribos de Israel se estabelecessem em novas áreas e crescessem como nação.
+****
+
+[[v6-18-1]]
+
+^<<v6-18-1,1>>^ Toda a assembleia dos filhos de Israel se reuniu em Silo, onde levantaram a tenda de reunião; a terra estava-lhes sujeita.
+
+[[v6-18-2]]
+
+^<<v6-18-2,2>>^ Havia sete tribos entre os israelitas que ainda não tinham recebido sua parte.
+
+[[v6-18-3]]
+
+^<<v6-18-3,3>>^ Josué disse aos israelitas: “Até quando tardareis a tomar posse da terra que vos deu o Senhor, Deus de vossos pais?
+
+[[v6-18-4]]
+
+^<<v6-18-4,4>>^ Escolhei de cada tribo três homens para que eu os envie a percorrer a terra: eles farão a sua descrição em vista da repartição, e voltarão para junto de mim.
+
+[[v6-18-5]]
+
+^<<v6-18-5,5>>^ Dividirão a terra em sete partes: Judá permanecerá nos seus limites do lado do meio-dia, e a casa de José nos seus, do lado do norte.
+
+[[v6-18-6]]
+
+^<<v6-18-6,6>>^ Traçareis, pois, a planta da terra, repartindo-a em sete partes, e me trareis aqui essa planta, para que eu, diante do Senhor, nosso Deus, vos lance as sortes.
+
+[[v6-18-7]]
+
+^<<v6-18-7,7>>^ Não haverá parte alguma para os levitas entre vós, porque sua herança é o sacerdócio do Senhor. Quanto a Gad, Rúben e a meia tribo de Manassés, já receberam a sua parte na Transjordânia, ao oriente, a qual lhes deu Moisés, servo do Senhor”.
+
+[[v6-18-8]]
+
+^<<v6-18-8,8>>^ Então, os homens se levantaram e partiram. E Josué deu ordem aos que partiram para demarcar a terra: “Ide – disse ele – percorrei a terra, traçai a sua planta e voltai a mim; eu vos lançarei as sortes aqui em Silo, diante do Senhor”.
+
+[[v6-18-9]]
+
+^<<v6-18-9,9>>^ Partiram, pois, percorreram a terra e fizeram a sua descrição em um livro, repartindo-a em sete porções, segundo as cidades. Depois voltaram para junto de Josué no acampamento de Silo.
+
+[[v6-18-10]]
+
+^<<v6-18-10,10>>^ Então, Josué lançou-lhes a sorte diante do Senhor, e repartiu a terra entre os israelitas, segundo suas divisões.
+
+[[v6-18-11]]
+
+^<<v6-18-11,11>>^ A sorte caiu primeiro sobre a tribo dos benjaminitas, segundo suas famílias, aos quais coube o território situado entre os juditas e os filhos de José.
+
+[[v6-18-12]]
+
+^<<v6-18-12,12>>^ Sua fronteira, ao norte, partia do Jordão, subia atrás de Jericó, pelo norte e, indo pela montanha para o ocidente, terminava no deserto de Bet-Áven.
+
+[[v6-18-13]]
+
+^<<v6-18-13,13>>^ Dali, passava ao meio-dia sobre a vertente de Luza, que é Betel; depois descia a Atarot-Adar, perto da montanha que está ao sul de Bet-Horon inferior.
+
+[[v6-18-14]]
+
+^<<v6-18-14,14>>^ Estendia-se em seguida e, dando volta ao lado ocidental para o sul, desde a montanha que está perto de Bet-Horon, ao sul, terminava em Cariat-Baal, que é Cariatarim, cidade dos juditas. Tal era a região ocidental.
+
+[[v6-18-15]]
+
+^<<v6-18-15,15>>^ A região meridional partia da extremidade de Cariatarim, estendia-se para o ocidente e terminava na fonte das águas de Neftoa.
+
+[[v6-18-16]]
+
+^<<v6-18-16,16>>^ Descia depois à extremidade da montanha que está defronte ao vale de Ben-Enom, no vale dos refains, ao norte. Descia em seguida pelo vale de Enom para a vertente meridional dos jebuseus e para En-Roguel,
+
+[[v6-18-17]]
+
+^<<v6-18-17,17>>^ estendendo-se ao norte até En-Sames; dali chegava até Gelilot, defronte da subida de Adomim, e descia até a pedra de Boen, filho de Rúben.
+
+[[v6-18-18]]
+
+^<<v6-18-18,18>>^ Passava então pela vertente setentrional, em frente de Arabá, e descia a Arabá.
+
+[[v6-18-19]]
+
+^<<v6-18-19,19>>^ Depois passava sobre a vertente setentrional de Bet-Hogla, e terminava no braço do mar Salgado que está ao norte, na extremidade meridional do Jordão. Tal era a fronteira do sul.
+
+[[v6-18-20]]
+
+^<<v6-18-20,20>>^ O Jordão constituía a fronteira oriental. Essa foi a parte dos benjaminitas, segundo suas famílias, e tais foram as suas fronteiras em toda a volta.
+
+[[v6-18-21]]
+
+^<<v6-18-21,21>>^ As cidades da tribo dos benjaminitas, segundo suas famílias, foram: Jericó, Bet-Hogla, Amec-Casis,
+
+[[v6-18-22]]
+
+^<<v6-18-22,22>>^ Bet-Arabá, Samaraim, Betel,
+
+[[v6-18-23]]
+
+^<<v6-18-23,23>>^ Avim, Fara, Efra,
+
+[[v6-18-24]]
+
+^<<v6-18-24,24>>^ Cafar-Emona, Ofni e Gabá; doze cidades com suas aldeias.
+
+[[v6-18-25]]
+
+^<<v6-18-25,25>>^ Gabaon, Ramá, Berot,
+
+[[v6-18-26]]
+
+^<<v6-18-26,26>>^ Masfa, Cafira, Mosa,
+
+[[v6-18-27]]
+
+^<<v6-18-27,27>>^ Recém, Jarafel, Tarala,
+
+[[v6-18-28]]
+
+^<<v6-18-28,28>>^ Selaa-Elef, Jebus, que é Jerusalém, Gabaá e Cariat; catorze cidades com suas aldeias. Essa foi a parte dos benjaminitas, segundo suas famílias.
+
+'''
+
+xref:006-josue/006-josue-017.adoc#v6-17-0[&#60; Capítulo Anterior] | <<v6-18-0,Topo>> | xref:006-josue/006-josue-019.adoc#v6-19-0[Próximo Capítulo &#62;]

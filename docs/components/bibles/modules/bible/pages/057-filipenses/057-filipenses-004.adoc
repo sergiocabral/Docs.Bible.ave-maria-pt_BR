@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v57-4-0]]
+=== Filipenses, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 4 de Filipenses é um apelo à alegria e à gratidão, mesmo em meio a dificuldades e incertezas. O apóstolo Paulo encoraja os filipenses a não se preocuparem com nada, mas em tudo apresentar suas petições a Deus com ações de graças, e promete que a paz de Deus, que excede todo entendimento, guardará seus corações e mentes em Cristo Jesus. Paulo também agradece aos filipenses por sua generosidade e comunhão com ele, e exorta-os a perseverar em seguir o exemplo de Cristo. Seguem cinco versículos que se relacionam com os temas abordados em Filipenses 4:
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Esse versículo destaca a importância da confiança em Deus e da dependência dele em todos os aspectos da vida, um tema que também é central em Filipenses 4.
+* 1 Tessalonicenses 5:16-18: "Estejam sempre alegres, orem continuamente, deem graças em todas as circunstâncias, pois esta é a vontade de Deus para vocês em Cristo Jesus." Esse versículo ressalta a importância da alegria, da oração e da gratidão, três atitudes que Paulo enfatiza em Filipenses 4.
+* Tiago 1:2-4: "Meus irmãos, considerem motivo de grande alegria o fato de passarem por diversas provações, pois vocês sabem que a prova da sua fé produz perseverança. E a perseverança deve ter ação completa, a fim de que vocês sejam maduros e íntegros, sem lhes faltar coisa alguma." Esse versículo mostra como as provações podem levar a um crescimento espiritual e à maturidade, um tema que também é abordado em Filipenses 4.
+* Colossenses 3:15: "Que a paz de Cristo seja o juiz em seus corações, visto que vocês foram chamados para viver em paz, como membros de um só corpo. E sejam agradecidos." Esse versículo destaca a importância da paz e da gratidão, dois temas que também são enfatizados em Filipenses 4.
+* Hebreus 13:5-6: "Mantenham-se livres do amor ao dinheiro e contentem-se com o que vocês têm, porque Deus mesmo disse: 'Nunca o deixarei, nunca o abandonarei'. Podemos, pois, dizer com confiança: 'O Senhor é o meu ajudador, não temerei. O que me podem fazer os homens?'" Esse versículo destaca a importância da confiança em Deus e da satisfação com o que temos, temas que também são enfatizados em Filipenses 4.
+****
+
+[[v57-4-1]]
+
+^<<v57-4-1,1>>^ Portanto, meus muito amados e saudosos irmãos, alegria e coroa minha, continuai assim firmes no Senhor, caríssimos.
+
+[[v57-4-2]]
+
+^<<v57-4-2,2>>^ Exorto a Evódia, exorto igualmente a Síntique que vivam em paz no Senhor.^&#42;1^
+
+[[v57-4-3]]
+
+^<<v57-4-3,3>>^ E a ti, fiel Sínzigo, também rogo que as ajudes, pois que trabalharam comigo no Evangelho, com Clemente e com os demais colaboradores meus, cujos nomes estão inscritos no livro da vida.^&#42;1^
+
+[[v57-4-4]]
+
+^<<v57-4-4,4>>^ Alegrai-vos sempre no Senhor. Repito: alegrai-vos!
+
+[[v57-4-5]]
+
+^<<v57-4-5,5>>^ Seja conhecida de todos os homens a vossa bondade. O Senhor está próximo.
+
+[[v57-4-6]]
+
+^<<v57-4-6,6>>^ Não vos inquieteis com nada! Em todas as circunstâncias apresentai a Deus as vossas preocupações, mediante a oração, as súplicas e a ação de graças.
+
+[[v57-4-7]]
+
+^<<v57-4-7,7>>^ E a paz de Deus, que excede toda a inteligência, haverá de guardar vossos corações e vossos pensamentos, em Cristo Jesus.
+
+[[v57-4-8]]
+
+^<<v57-4-8,8>>^ Além disso, irmãos, tudo o que é verdadeiro, tudo o que é nobre, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, tudo o que é virtuoso e louvável, eis o que deve ocupar vossos pensamentos.
+
+[[v57-4-9]]
+
+^<<v57-4-9,9>>^ O que aprendestes, recebestes, ouvistes e observastes em mim, isto praticai, e o Deus da paz estará convosco.
+
+[[v57-4-10]]
+
+^<<v57-4-10,10>>^ Fiquei imensamente contente, no Senhor, porque, finalmente, vi reflorescer o vosso interesse por mim. É verdade que sempre pensáveis nisso, mas vos faltava oportunidade de mostrá-lo.
+
+[[v57-4-11]]
+
+^<<v57-4-11,11>>^ Não é minha penúria que me faz falar. Aprendi a contentar-me com o que tenho.
+
+[[v57-4-12]]
+
+^<<v57-4-12,12>>^ Sei viver na penúria, e sei também viver na abundância. Estou acostumado a todas as vicissitudes: a ter fartura e a passar fome, a ter abundância e a padecer necessidade.
+
+[[v57-4-13]]
+
+^<<v57-4-13,13>>^ Tudo posso naquele que me conforta.
+
+[[v57-4-14]]
+
+^<<v57-4-14,14>>^ Contudo, fizestes bem em tomar parte na minha tribulação.
+
+[[v57-4-15]]
+
+^<<v57-4-15,15>>^ Vós que sois de Filipos, bem sabeis como, no início do meu ministério evangélico, quando parti da Macedônia, nenhuma comunidade abriu comigo contas de deve-haver, senão vós somente.^&#42;1^
+
+[[v57-4-16]]
+
+^<<v57-4-16,16>>^ Já por duas vezes mandastes para Tessalônica o que me era necessário.
+
+[[v57-4-17]]
+
+^<<v57-4-17,17>>^ Não é o donativo em si que eu procuro, e sim os lucros que vão aumentando a vosso crédito.
+
+[[v57-4-18]]
+
+^<<v57-4-18,18>>^ “Recebi tudo”, e em abundância. Estou bem provido, depois que recebi de Epafrodito a vossa oferta: foi um suave perfume, um sacrifício que Deus aceita com agrado.
+
+[[v57-4-19]]
+
+^<<v57-4-19,19>>^ Em recompensa, o meu Deus há de prover magnificamente a todas as vossas necessidades, segundo a sua glória, em Jesus Cristo.
+
+[[v57-4-20]]
+
+^<<v57-4-20,20>>^ A Deus, nosso Pai, seja a glória, por toda a eternidade! Amém.
+
+[[v57-4-21]]
+
+^<<v57-4-21,21>>^ Saudai em Jesus Cristo todos os santos. Os irmãos que estão comigo vos saúdam.
+
+[[v57-4-22]]
+
+^<<v57-4-22,22>>^ Todos os santos vos saúdam, especialmente os da casa de César.^&#42;1^
+
+[[v57-4-23]]
+
+^<<v57-4-23,23>>^ A graça do Senhor Jesus Cristo esteja com o vosso espírito!
+
+'''
+
+xref:057-filipenses/057-filipenses-003.adoc#v57-3-0[&#60; Capítulo Anterior] | <<v57-4-0,Topo>> | xref:058-colossenses/058-colossenses-001.adoc#v58-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,187 @@
+include::./index.adoc[]
+
+[[v50-10-0]]
+=== São João, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 10 do livro de João apresenta Jesus como o bom pastor que dá a vida por suas ovelhas e fala sobre sua relação com aqueles que o seguem. Além disso, Jesus faz uma analogia entre o pastor e suas ovelhas, destacando a importância da relação de confiança entre eles. Aqui estão cinco versículos relacionados com os temas abordados em João 10:
+* Salmos 23:1 - "O Senhor é o meu pastor, nada me faltará." Este salmo fala sobre a relação de confiança entre Deus e aqueles que o seguem, assim como a relação entre o pastor e suas ovelhas.
+* Ezequiel 34:11-12 - "Porque assim diz o Senhor Deus: Eis que eu mesmo procurarei pelas minhas ovelhas, e as buscarei. Como o pastor busca o seu rebanho, no dia em que está no meio das suas ovelhas dispersas, assim buscarei as minhas ovelhas; livrá-las-ei de todos os lugares por onde foram espalhadas no dia de nuvens e de escuridão." Este versículo fala sobre como Deus se importa com suas ovelhas, buscando-as e livrando-as de perigos.
+* Isaías 40:11 - "Como pastor, ele apascentará o seu rebanho; entre os seus braços recolherá os cordeirinhos, e os levará no seio; as que amamentam ele as guiará mansamente." Este versículo destaca como Deus cuida de suas ovelhas com gentileza e amor.
+* 1 Pedro 5:4 - "E, quando se manifestar o Sumo Pastor, recebereis a imarcescível coroa da glória." Este versículo fala sobre Jesus como o Sumo Pastor que um dia retornará para buscar suas ovelhas e recompensá-las.
+* Salmo 100:3 - "Sabei que o Senhor é Deus; foi ele que nos fez, e não nós a nós mesmos; somos povo seu e ovelhas de seu pasto." Este salmo destaca que aqueles que seguem a Deus são suas ovelhas, e Ele é o bom pastor que cuida delas.
+****
+
+[[v50-10-1]]
+
+^<<v50-10-1,1>>^ “Em verdade, em verdade vos digo: quem não entra pela porta no aprisco das ovelhas, mas sobe por outra parte, é ladrão e salteador.
+
+[[v50-10-2]]
+
+^<<v50-10-2,2>>^ Mas quem entra pela porta é o pastor das ovelhas.
+
+[[v50-10-3]]
+
+^<<v50-10-3,3>>^ A este o porteiro abre, e as ovelhas ouvem a sua voz. Ele chama as ovelhas pelo nome e as conduz à pastagem.
+
+[[v50-10-4]]
+
+^<<v50-10-4,4>>^ Depois de conduzir todas as suas ovelhas para fora, vai adiante delas; e as ovelhas seguem-no, pois lhe conhecem a voz.
+
+[[v50-10-5]]
+
+^<<v50-10-5,5>>^ Mas não seguem o estranho; antes fogem dele, porque não conhecem a voz dos estranhos.”
+
+[[v50-10-6]]
+
+^<<v50-10-6,6>>^ Jesus disse-lhes essa parábola, mas não entendiam do que ele queria falar.
+
+[[v50-10-7]]
+
+^<<v50-10-7,7>>^ Jesus tornou a dizer-lhes: “Em verdade, em verdade vos digo: eu sou a porta das ovelhas.
+
+[[v50-10-8]]
+
+^<<v50-10-8,8>>^ Todos quantos vieram [antes de mim] foram ladrões e salteadores, mas as ovelhas não os ouviram.^&#42;1^
+
+[[v50-10-9]]
+
+^<<v50-10-9,9>>^ Eu sou a porta. Se alguém entrar por mim será salvo; tanto entrará como sairá e encontrará pastagem.^&#42;1^
+
+[[v50-10-10]]
+
+^<<v50-10-10,10>>^ O ladrão não vem senão para furtar, matar e destruir. Eu vim para que as ovelhas tenham vida e para que a tenham em abundância.
+
+[[v50-10-11]]
+
+^<<v50-10-11,11>>^ Eu sou o bom-pastor. O bom-pastor expõe a sua vida pelas ovelhas.^&#42;1^
+
+[[v50-10-12]]
+
+^<<v50-10-12,12>>^ O mercenário, porém, que não é pastor, a quem não pertencem as ovelhas, quando vê que o lobo vem vindo, abandona as ovelhas e foge; o lobo rouba e dispersa as ovelhas.
+
+[[v50-10-13]]
+
+^<<v50-10-13,13>>^ O mercenário, porém, foge, porque é mercenário e não se importa com as ovelhas.
+
+[[v50-10-14]]
+
+^<<v50-10-14,14>>^ Eu sou o bom-pastor. Conheço as minhas ovelhas e as minhas ovelhas conhecem a mim,
+
+[[v50-10-15]]
+
+^<<v50-10-15,15>>^ como meu Pai me conhece e eu conheço o Pai. Dou a minha vida pelas minhas ovelhas.
+
+[[v50-10-16]]
+
+^<<v50-10-16,16>>^ Tenho ainda outras ovelhas que não são deste aprisco. Preciso conduzi-las também, e ouvirão a minha voz e haverá um só rebanho e um só pastor.^&#42;1^
+
+[[v50-10-17]]
+
+^<<v50-10-17,17>>^ O Pai me ama, porque dou a minha vida para a retomar.
+
+[[v50-10-18]]
+
+^<<v50-10-18,18>>^ Ninguém a tira de mim, mas eu a dou de mim mesmo e tenho o poder de a dar, como tenho o poder de a reassumir. Tal é a ordem que recebi de meu Pai”.
+
+[[v50-10-19]]
+
+^<<v50-10-19,19>>^ A propósito dessas palavras, originou-se nova divisão entre os judeus.
+
+[[v50-10-20]]
+
+^<<v50-10-20,20>>^ Muitos deles diziam: “Ele está possuído do demônio. Ele delira. Por que o escutais vós?”.^&#42;1^
+
+[[v50-10-21]]
+
+^<<v50-10-21,21>>^ Outros diziam: “Estas palavras não são de quem está endemoninhado. Acaso pode o demônio abrir os olhos a um cego?”.
+
+[[v50-10-22]]
+
+^<<v50-10-22,22>>^ Celebrava-se em Jerusalém a festa da Dedicação. Era inverno.
+
+[[v50-10-23]]
+
+^<<v50-10-23,23>>^ Jesus passeava no templo, no pórtico de Salomão.
+
+[[v50-10-24]]
+
+^<<v50-10-24,24>>^ Os judeus rodearam-no e perguntaram-lhe: “Até quando nos deixarás na incerteza? Se tu és o Cristo, dize-nos claramente”.
+
+[[v50-10-25]]
+
+^<<v50-10-25,25>>^ Jesus respondeu-lhes: “Eu vo-lo digo, mas não credes. As obras que faço em nome de meu Pai, estas dão testemunho de mim.
+
+[[v50-10-26]]
+
+^<<v50-10-26,26>>^ Entretanto, não credes, porque não sois das minhas ovelhas.
+
+[[v50-10-27]]
+
+^<<v50-10-27,27>>^ As minhas ovelhas ouvem a minha voz, eu as conheço e elas me seguem.
+
+[[v50-10-28]]
+
+^<<v50-10-28,28>>^ Eu lhes dou a vida eterna; elas jamais hão de perecer, e ninguém as roubará de minha mão.
+
+[[v50-10-29]]
+
+^<<v50-10-29,29>>^ Meu Pai, que mas deu, é maior do que todos; e ninguém as pode arrebatar da mão de meu Pai.
+
+[[v50-10-30]]
+
+^<<v50-10-30,30>>^ Eu e o Pai somos um”.^&#42;1^
+
+[[v50-10-31]]
+
+^<<v50-10-31,31>>^ Os judeus pegaram pela segunda vez em pedras para o apedrejar.
+
+[[v50-10-32]]
+
+^<<v50-10-32,32>>^ Disse-lhes Jesus: “Tenho-vos mostrado muitas obras boas da parte de meu Pai. Por qual dessas obras me apedrejais?”.
+
+[[v50-10-33]]
+
+^<<v50-10-33,33>>^ Os judeus responderam-lhe: “Não é por causa de alguma boa obra que te queremos apedrejar, mas por uma blasfêmia, porque, sendo homem, te fazes Deus”.
+
+[[v50-10-34]]
+
+^<<v50-10-34,34>>^ Replicou-lhes Jesus: “Não está escrito na vossa Lei: Eu disse: Vós sois deuses (Sl 81,6)?
+
+[[v50-10-35]]
+
+^<<v50-10-35,35>>^ Se a Lei chama deuses àqueles a quem a Palavra de Deus foi dirigida (ora, a Escritura não pode ser desprezada),
+
+[[v50-10-36]]
+
+^<<v50-10-36,36>>^ como acusais de blasfemo aquele a quem o Pai santificou e enviou ao mundo, porque eu disse: Sou o Filho de Deus?
+
+[[v50-10-37]]
+
+^<<v50-10-37,37>>^ Se eu não faço as obras de meu Pai, não me creiais.
+
+[[v50-10-38]]
+
+^<<v50-10-38,38>>^ Mas se as faço, e se não quiserdes crer em mim, crede nas minhas obras, para que saibais e reconheçais que o Pai está em mim e eu no Pai.”^&#42;1^
+
+[[v50-10-39]]
+
+^<<v50-10-39,39>>^ Procuraram então prendê-lo, mas ele se esquivou das suas mãos.
+
+[[v50-10-40]]
+
+^<<v50-10-40,40>>^ Ele se retirou novamente para além do Jordão, para o lugar onde João começara a batizar, e lá permaneceu.
+
+[[v50-10-41]]
+
+^<<v50-10-41,41>>^ Muitos foram a ele e diziam: “João não fez milagre algum,
+
+[[v50-10-42]]
+
+^<<v50-10-42,42>>^ mas tudo o que João falou deste homem era verdade”. E muitos acreditaram nele.
+
+'''
+
+xref:050-sao-joao/050-sao-joao-009.adoc#v50-9-0[&#60; Capítulo Anterior] | <<v50-10-0,Topo>> | xref:050-sao-joao/050-sao-joao-011.adoc#v50-11-0[Próximo Capítulo &#62;]

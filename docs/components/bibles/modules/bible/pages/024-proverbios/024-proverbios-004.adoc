@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v24-4-0]]
+=== Provérbios, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 4 do livro de Provérbios trata da importância da sabedoria e da disciplina na vida, bem como das consequências de seguir o caminho certo ou errado. Os seguintes versículos estão relacionados com os temas abordados em Provérbios 4:
+* Salmos 1:1-3: "Bem-aventurado o homem que não anda no conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na cadeira dos escarnecedores; mas tem seu prazer na lei do Senhor, e na sua lei medita de dia e de noite. Ele será como a árvore plantada junto a ribeiros de água, que dá o seu fruto na estação própria, e cujas folhas não caem; e tudo quanto ele fizer prosperará." Este salmo mostra a importância de seguir o caminho certo, que é a lei do Senhor, para ser abençoado e prosperar.
+* Provérbios 3:11-12: "Filho meu, não desprezes a correção do Senhor, nem te desanimes quando por ele fores repreendido. Porque o Senhor corrige a quem ama, assim como o pai ao filho a quem quer bem." Aqui vemos a importância da disciplina e correção na vida, que podem ser dolorosas, mas são necessárias para nos fazer crescer e nos tornarmos melhores.
+* Provérbios 10:17: "O caminho para a vida é daquele que guarda a instrução, mas o que abandona a repreensão anda errado." Este versículo mostra como seguir a instrução e a correção é essencial para seguir o caminho certo e ter vida.
+* Provérbios 16:16: "Como é melhor adquirir sabedoria do que ouro! E adquirir entendimento é preferível a prata." Este verso reforça a importância da sabedoria, que é um tesouro maior do que qualquer riqueza material.
+* Tiago 1:5: "E, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não o reprova; e ser-lhe-á concedida." Aqui vemos que a sabedoria não é algo que podemos adquirir sozinhos, mas devemos pedir a Deus, que a concede generosamente a quem pede.
+****
+
+[[v24-4-1]]
+
+^<<v24-4-1,1>>^ Ouvi, filhos meus, a instrução de um pai; sede atentos, para adquirir a inteligência,
+
+[[v24-4-2]]
+
+^<<v24-4-2,2>>^ porque é sã a doutrina que eu vos dou; não abandoneis o meu ensino.
+
+[[v24-4-3]]
+
+^<<v24-4-3,3>>^ Fui um verdadeiro filho para meu pai, terno e amado junto de minha mãe.
+
+[[v24-4-4]]
+
+^<<v24-4-4,4>>^ Deu-me ele este conselho: “Que teu coração retenha minhas palavras; guarda meus preceitos e viverás.
+
+[[v24-4-5]]
+
+^<<v24-4-5,5>>^ Adquire sabedoria, adquire perspicácia, não te esqueças de nada, não te desvies de meus conselhos.
+
+[[v24-4-6]]
+
+^<<v24-4-6,6>>^ Não abandones a sabedoria, ela te guardará; ama-a, ela te protegerá.
+
+[[v24-4-7]]
+
+^<<v24-4-7,7>>^ Eis o princípio da sabedoria: adquire a sabedoria. Adquire a inteligência em troca de tudo o que possuis.
+
+[[v24-4-8]]
+
+^<<v24-4-8,8>>^ Tem-na em grande estima, ela te exaltará, ela te glorificará quando a abraçares,
+
+[[v24-4-9]]
+
+^<<v24-4-9,9>>^ colocará sobre tua fronte uma graciosa coroa, ela te outorgará um magnífico diadema”.
+
+[[v24-4-10]]
+
+^<<v24-4-10,10>>^ Ouve, meu filho, recebe minhas palavras e se multiplicarão os anos de tua vida.
+
+[[v24-4-11]]
+
+^<<v24-4-11,11>>^ É o caminho da sabedoria que te mostro, é pela senda da retidão que eu te guiarei.^&#42;1^
+
+[[v24-4-12]]
+
+^<<v24-4-12,12>>^ Se nela caminhares, teus passos não serão dificultosos; se correres, não tropeçarás.
+
+[[v24-4-13]]
+
+^<<v24-4-13,13>>^ Aferra-te à instrução, não a soltes, guarda-a, porque ela é tua vida.
+
+[[v24-4-14]]
+
+^<<v24-4-14,14>>^ Na estrada dos ímpios não te embrenhes, não sigas pelo caminho dos maus.
+
+[[v24-4-15]]
+
+^<<v24-4-15,15>>^ Evita-o, não passes por ele, desvia-te e toma outro,
+
+[[v24-4-16]]
+
+^<<v24-4-16,16>>^ porque eles não dormiriam sem antes haverem praticado o mal, não conciliariam o sono se não tivessem feito cair alguém,
+
+[[v24-4-17]]
+
+^<<v24-4-17,17>>^ tanto mais que a maldade é o pão que comem, e a violência, o vinho que bebem.^&#42;1^
+
+[[v24-4-18]]
+
+^<<v24-4-18,18>>^ Mas a vereda dos justos é como a aurora, cujo brilho cresce até o dia pleno.
+
+[[v24-4-19]]
+
+^<<v24-4-19,19>>^ A estrada dos iníquos é tenebrosa, não percebem aquilo em que hão de tropeçar.
+
+[[v24-4-20]]
+
+^<<v24-4-20,20>>^ Meu filho, ouve as minhas palavras, inclina teu ouvido aos meus discursos.
+
+[[v24-4-21]]
+
+^<<v24-4-21,21>>^ Que eles não se afastem dos teus olhos, conserva-os no íntimo do teu coração,
+
+[[v24-4-22]]
+
+^<<v24-4-22,22>>^ pois são vida para aqueles que os encontram, saúde para todo corpo.
+
+[[v24-4-23]]
+
+^<<v24-4-23,23>>^ Guarda teu coração acima de todas as outras coisas, porque dele brotam todas as fontes da vida.^&#42;1^
+
+[[v24-4-24]]
+
+^<<v24-4-24,24>>^ Preserva tua boca da malignidade, longe de teus lábios a falsidade!
+
+[[v24-4-25]]
+
+^<<v24-4-25,25>>^ Que teus olhos vejam de frente e que tua vista perceba o que há diante de ti!
+
+[[v24-4-26]]
+
+^<<v24-4-26,26>>^ Examina os caminhos onde colocas os pés e que sejam sempre retos!
+
+[[v24-4-27]]
+
+^<<v24-4-27,27>>^ Não te desvies nem para a direita nem para a esquerda, e retira teu pé do mal.
+
+'''
+
+xref:024-proverbios/024-proverbios-003.adoc#v24-3-0[&#60; Capítulo Anterior] | <<v24-4-0,Topo>> | xref:024-proverbios/024-proverbios-005.adoc#v24-5-0[Próximo Capítulo &#62;]

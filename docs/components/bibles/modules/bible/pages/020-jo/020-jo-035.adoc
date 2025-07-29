@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v20-35-0]]
+=== Jó, 35
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jó 35 é um capítulo em que Eliú continua seu discurso, argumentando que as ações dos homens não afetam a Deus e que é importante buscar a Deus com sinceridade e humildade. Ele também fala sobre a justiça divina e a importância de confiar em Deus, em vez de confiar nas próprias obras. Abaixo estão cinco versículos relacionados com os temas abordados em Jó 35:
+* Salmos 22:24: "Porque não desprezou, nem abominou a aflição do aflito, nem escondeu dele o seu rosto; antes, quando ele clamou, o ouviu." Este verso fala sobre como Deus não despreza ou abandona os aflitos, mas os ouve quando clamam a Ele, relacionando-se com a mensagem de Eliú sobre a importância de buscar a Deus com sinceridade.
+* Salmos 145:17: "Justo é o Senhor em todos os seus caminhos, e santo em todas as suas obras." Este verso fala sobre a justiça de Deus e sua santidade em todas as obras, o que se relaciona com o discurso de Eliú sobre a justiça divina.
+* Provérbios 3:34: "Certamente ele escarnecerá dos escarnecedores, mas dará graça aos mansos." Este verso fala sobre como Deus recompensa os humildes e mansos, em oposição aos escarnecedores, o que se relaciona com a mensagem de Eliú sobre a importância de buscar a Deus com humildade.
+* Eclesiastes 3:14: "Eu sei que tudo quanto Deus faz durará eternamente; nada se lhe deve acrescentar, e nada se lhe deve tirar; e isso faz Deus para que haja temor diante dele." Este verso fala sobre como tudo o que Deus faz é eterno e não pode ser mudado, o que se relaciona com a mensagem de Eliú sobre a importância de confiar em Deus, em vez de confiar nas próprias obras.
+* Isaías 40:31: "Mas os que esperam no Senhor renovarão as suas forças e subirão com asas como águias; correrão e não se cansarão; caminharão e não se fatigarão." Este verso fala sobre como aqueles que esperam no Senhor serão renovados e não se cansarão, relacionando-se com a mensagem de Eliú sobre a importância de confiar em Deus e não nas próprias forças.
+****
+
+[[v20-35-1]]
+
+^<<v20-35-1,1>>^ Eliú retomou ainda a palavra nestes termos:
+
+[[v20-35-2]]
+
+^<<v20-35-2,2>>^ “Imaginas ter razão em pretender justificar-te contra Deus?
+
+[[v20-35-3]]
+
+^<<v20-35-3,3>>^ Quando dizes: ‘Para que me serve isto, qual é minha vantagem em não pecar?’.
+
+[[v20-35-4]]
+
+^<<v20-35-4,4>>^ Pois vou responder-te, a ti e a teus amigos.
+
+[[v20-35-5]]
+
+^<<v20-35-5,5>>^ Contempla os céus e observa as nuvens: vê como são mais altas do que tu.
+
+[[v20-35-6]]
+
+^<<v20-35-6,6>>^ Se pecas, que danos lhe causas? Se multiplicas tuas faltas, que mal lhe fazes?
+
+[[v20-35-7]]
+
+^<<v20-35-7,7>>^ Se és justo, que vantagem lhe dás? Ou que recebe ele de tua mão?
+
+[[v20-35-8]]
+
+^<<v20-35-8,8>>^ Tua maldade só prejudica o homem, teu semelhante; tua justiça só diz respeito a um ser humano.
+
+[[v20-35-9]]
+
+^<<v20-35-9,9>>^ Sob o peso da opressão, geme-se, e clama-se sob a mão dos poderosos.
+
+[[v20-35-10]]
+
+^<<v20-35-10,10>>^ Mas ninguém diz: ‘Onde está Deus, meu Criador, que inspira cantos de louvor em plena noite,
+
+[[v20-35-11]]
+
+^<<v20-35-11,11>>^ que nos instrui mais do que aos animais selvagens e nos torna mais sábios do que as aves do céu?’.^&#42;1^
+
+[[v20-35-12]]
+
+^<<v20-35-12,12>>^ Clamam, mas não são ouvidos, por causa do orgulho dos maus.
+
+[[v20-35-13]]
+
+^<<v20-35-13,13>>^ Por certo, Deus não ouve palavras frívolas, e o Todo-poderoso não lhes presta atenção.
+
+[[v20-35-14]]
+
+^<<v20-35-14,14>>^ Quando dizes que ele não se ocupa de ti, que tua causa está diante dele e que esperas sua decisão,
+
+[[v20-35-15]]
+
+^<<v20-35-15,15>>^ que sua cólera não castiga e que ele ignora o pecado,
+
+[[v20-35-16]]
+
+^<<v20-35-16,16>>^ Jó abre a boca para palavras ociosas e derrama-se em discursos impertinentes”.
+
+'''
+
+xref:020-jo/020-jo-034.adoc#v20-34-0[&#60; Capítulo Anterior] | <<v20-35-0,Topo>> | xref:020-jo/020-jo-036.adoc#v20-36-0[Próximo Capítulo &#62;]

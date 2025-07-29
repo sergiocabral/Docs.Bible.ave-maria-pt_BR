@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v7-12-0]]
+=== Juízes, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Juízes 12 narra a disputa entre os homens de Gileade e os efraimitas. Os efraimitas questionam a exclusão de sua tribo da guerra contra Amom e ameaçam invadir Gileade. Jefé, líder de Gileade, lidera suas tropas para derrotar os efraimitas e controlar as passagens do rio Jordão.
+* Josué 22:10: "E, quando chegaram às terras de Gileade, que pertenciam a Israel, os filhos de Rúben, os filhos de Gade e a meia tribo de Manassés edificaram ali um altar junto ao Jordão, um altar grande em aparência." Este verso fala sobre a construção de um altar pelos filhos de Rúben, Gade e Manassés em Gileade, onde a batalha entre Gileade e Efraim aconteceu.
+* Salmos 60:8: "Em Deus faremos proezas, porque Ele mesmo calcará aos pés os nossos adversários." Este verso fala sobre a confiança em Deus para ajudar a vencer os inimigos, algo que os homens de Gileade fizeram na batalha contra os efraimitas.
+* Isaías 9:21: "Manassés a Efraim, e Efraim a Manassés, e ambos se unam contra Judá. Contudo, nem assim a sua ira se desviou, e ainda está estendida a mão para ferir." Este verso fala sobre a rivalidade entre as tribos de Efraim e Manassés, uma rivalidade que se manifestou na batalha contra Gileade.
+* Provérbios 15:1: "A resposta branda desvia o furor, mas a palavra dura suscita a ira." Este verso fala sobre a importância de responder com calma e gentileza para evitar conflitos, algo que os efraimitas não fizeram ao ameaçar Gileade.
+* Romanos 12:18: "Se for possível, quanto depender de vós, tende paz com todos os homens." Este verso fala sobre a importância da paz e da reconciliação, algo que os homens de Gileade buscaram após a batalha contra os efraimitas.
+****
+
+[[v7-12-1]]
+
+^<<v7-12-1,1>>^ Os efraimitas, tendo-se sublevado, passaram a Safon e disseram a Jefté: “Por que saíste a combater os amonitas sem nos chamar para irmos contigo? Por isso vamos queimar a tua casa”.
+
+[[v7-12-2]]
+
+^<<v7-12-2,2>>^ Jefté respondeu: “Eu e meu povo tivemos graves contendas com os amonitas. Chamei-vos e vós não me livrastes de suas mãos.
+
+[[v7-12-3]]
+
+^<<v7-12-3,3>>^ Vendo que não podia contar convosco, arrisquei a minha vida marchando sozinho contra os amonitas e o Senhor entregou-os nas minhas mãos. Por que, pois, viestes combater contra mim?”.^&#42;1^
+
+[[v7-12-4]]
+
+^<<v7-12-4,4>>^ Jefté reuniu todos os homens de Galaad e combateu contra Efraim. Os habitantes de Galaad derrotaram os de Efraim, que lhes haviam dito: “Vós sois fugitivos de Efraim que habitais entre Efraim e Manassés!”.
+
+[[v7-12-5]]
+
+^<<v7-12-5,5>>^ Galaad ocupou os vaus do Jordão. Cada vez que um fugitivo de Efraim queria passar, perguntavam-lhe: “És tu efraimita?”. Ele respondia – “Não”.
+
+[[v7-12-6]]
+
+^<<v7-12-6,6>>^ “Pois bem – diziam eles então – dize: Chibólet.” E ele dizia: “Sibólet”, não podendo pronunciar corretamente. Prendiam-no logo e o degolavam junto aos vaus do Jordão. Naquele dia, pereceram quarenta e dois mil homens de Efraim.
+
+[[v7-12-7]]
+
+^<<v7-12-7,7>>^ Jefté, o galaadita, foi juiz em Israel durante seis anos; depois morreu e foi sepultado em uma das cidades de Galaad. Outros juízes menores
+
+[[v7-12-8]]
+
+^<<v7-12-8,8>>^ Depois de Jefté, foi juiz de Israel Abesã, de Belém,
+
+[[v7-12-9]]
+
+^<<v7-12-9,9>>^ o qual teve trinta filhos; casou suas trinta filhas fora de sua família, e mandou vir de fora trinta jovens para os seus filhos. Julgou Israel durante sete anos.
+
+[[v7-12-10]]
+
+^<<v7-12-10,10>>^ Morreu e foi enterrado em Belém.
+
+[[v7-12-11]]
+
+^<<v7-12-11,11>>^ Depois dele, Elon, de Zabulon, foi juiz em Israel e sua judicatura durou dez anos.
+
+[[v7-12-12]]
+
+^<<v7-12-12,12>>^ Morreu e foi enterrado em Aialon, na terra de Zabulon.
+
+[[v7-12-13]]
+
+^<<v7-12-13,13>>^ Em seguida, teve Israel por juiz Abdon, filho de Ilel, de Faraton.
+
+[[v7-12-14]]
+
+^<<v7-12-14,14>>^ Teve quarenta filhos e trinta netos, que montavam em setenta jumentinhos. Julgou Israel durante oito anos.
+
+[[v7-12-15]]
+
+^<<v7-12-15,15>>^ Depois disso, Abdon, filho de Ilel, de Faraton, morreu e foi sepultado em Faraton, na terra de Efraim, na montanha dos amalecitas.
+
+'''
+
+xref:007-juizes/007-juizes-011.adoc#v7-11-0[&#60; Capítulo Anterior] | <<v7-12-0,Topo>> | xref:007-juizes/007-juizes-013.adoc#v7-13-0[Próximo Capítulo &#62;]

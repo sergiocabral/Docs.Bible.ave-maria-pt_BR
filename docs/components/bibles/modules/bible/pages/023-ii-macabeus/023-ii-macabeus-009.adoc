@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v23-9-0]]
+=== II Macabeus, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 9 de 2 Macabeus narra a morte e os momentos finais do rei selêucida Antíoco IV Epifânio, que perseguia brutalmente os judeus e profanou o Templo Sagrado de Jerusalém. Os versículos selecionados abaixo são relacionados aos temas de punição divina, arrependimento e misericórdia.
+* Salmos 50:22: "Entendei agora isto, vós que vos esqueceis de Deus, para que não vos despedace, sem haver quem vos livre." Este versículo fala sobre as consequências daqueles que se esquecem de Deus e de sua justiça, que acabam sendo destruídos sem ninguém para salvá-los, o que pode ser aplicado ao rei Antíoco.
+* Jeremias 31:18: "Certamente ouvi Efraim que se lamentava: Castigaste-me e fui castigado, como novilho ainda não domado; converte-me, e converter-me-ei, porque tu és o Senhor, meu Deus." Este versículo mostra a importância do arrependimento e do pedido de perdão a Deus. Pode ser aplicado aos judeus que sofreram sob o governo de Antíoco, bem como ao próprio rei que, em seus momentos finais, supostamente buscou o perdão divino.
+* Salmos 103:8-10: "O Senhor é misericordioso e compassivo, tardio em irar-se e grande em amor. Não acusa sem cessar nem fica ressentido para sempre; não nos trata conforme os nossos pecados nem nos retribui conforme as nossas iniquidades." Este versículo destaca a misericórdia e a compaixão de Deus, que não trata as pessoas conforme suas falhas, mas sim com amor e perdão. Pode ser aplicado àqueles que buscam arrependimento e perdão divino.
+* Provérbios 16:18: "O orgulho precede a destruição, e a altivez do espírito precede a queda." Este versículo fala sobre os perigos do orgulho e da arrogância, que podem levar à queda e à destruição. Pode ser aplicado ao rei Antíoco, cujo orgulho e tirania o levaram a ser punido por Deus.
+* Lucas 15:10: "Assim vos digo que há alegria na presença dos anjos de Deus por um só pecador que se arrepende." Este versículo mostra a alegria que ocorre no céu quando uma pessoa se arrepende e se volta para Deus. Pode ser aplicado aos judeus que sofreram sob o governo de Antíoco, bem como ao próprio rei que, em seus momentos finais, supostamente buscou o perdão divino.
+****
+
+[[v23-9-1]]
+
+^<<v23-9-1,1>>^ Por essa mesma ocasião, voltava Antíoco da Pérsia, coberto de vergonha.
+
+[[v23-9-2]]
+
+^<<v23-9-2,2>>^ Pois, entrando na cidade que se chamava Persépolis, ele havia tentado saquear o templo e apoderar-se da cidade. O povo, porém, se revoltou e pegou em armas, para defender-se. Com isso, Antíoco viu-se forçado pelos habitantes dessa região a começar uma retirada humilhante.
+
+[[v23-9-3]]
+
+^<<v23-9-3,3>>^ Encontrando-se perto de Ecbátana, soube da derrota de Nicanor e do exército de Timóteo.
+
+[[v23-9-4]]
+
+^<<v23-9-4,4>>^ Num arroubo de cólera, resolveu desforrar imediatamente nos judeus o mal que lhe haviam feito os que o tinham obrigado a fugir. Deu ordem ao condutor de seu carro de prosseguir sem parar, a fim de conseguir o mais depressa possível seu intento. Na realidade, a sentença do céu já havia caído sobre ele. Exclamava com presunção: “Assim que chegar, farei de Jerusalém o sepulcro dos judeus”.
+
+[[v23-9-5]]
+
+^<<v23-9-5,5>>^ Mas o Senhor, Deus de Israel, que tudo vê, feriu-o com um mal implacável e misterioso. Mal acabara de pronunciar essas palavras, aconteceu que ele foi assaltado por atrozes dores nas entranhas e agudos tormentos no interior.
+
+[[v23-9-6]]
+
+^<<v23-9-6,6>>^ E era muito justo, pois ele mesmo havia rasgado as entranhas aos outros por inauditos tormentos!
+
+[[v23-9-7]]
+
+^<<v23-9-7,7>>^ Todavia, em nada desistiu da sua arrogância. Pelo contrário, sempre cheio de soberba, exalava contra os judeus o fogo de sua cólera e ordenava que se apressasse a caminhada. Repentinamente, caiu da carroça, arrancado pela violência da corrida. Na queda fatal, quebrou todos os membros.
+
+[[v23-9-8]]
+
+^<<v23-9-8,8>>^ O homem que, pouco antes, julgando-se acima da natureza humana, pensava poder dominar as frotas do mar e pesar as montanhas nos pratos de sua balança, ei-lo agora estendido sobre a terra, em seguida levado numa liteira, provando assim aos olhos de todos o poder de Deus.
+
+[[v23-9-9]]
+
+^<<v23-9-9,9>>^ Chegou a tal ponto que o corpo vivo do ímpio fervilhava de vermes e as carnes se soltavam em pedaços entre dores atrozes. O mau cheiro da podridão, que enchia o ar, causava náuseas ao exército.
+
+[[v23-9-10]]
+
+^<<v23-9-10,10>>^ Aquele que até há pouco sonhava tocar os astros do céu, agora ninguém podia suportá-lo por causa do mau cheiro que dele saía!
+
+[[v23-9-11]]
+
+^<<v23-9-11,11>>^ Foi então que, derribado, ele começou a perder o orgulho excessivo e a compreender melhor, torturado sob os castigos de Deus pelos constantes sofrimentos.
+
+[[v23-9-12]]
+
+^<<v23-9-12,12>>^ Incapaz de suportar sua própria infecção: “É justo – disse ele – submeter-se a Deus e, como simples mortal, não se querer igualar a ele”.
+
+[[v23-9-13]]
+
+^<<v23-9-13,13>>^ O celerado rezava ao Senhor, de quem não haveria de receber compaixão.
+
+[[v23-9-14]]
+
+^<<v23-9-14,14>>^ Prometia dar a liberdade à cidade santa, para a qual ele se encaminhava, a fim de arrasá-la e fazer dela um sepulcro.
+
+[[v23-9-15]]
+
+^<<v23-9-15,15>>^ Dizia ele que tornaria iguais aos atenienses todos os judeus que havia julgado indignos de sepultura e bons para serem atirados com seus filhos às aves do céu e aos animais selvagens como pasto.^&#42;1^
+
+[[v23-9-16]]
+
+^<<v23-9-16,16>>^ Ornaria com ricas prendas aquele templo que havia despojado antes, restituiria multiplicados os vasos sagrados, proveria com suas próprias rendas todas as despesas necessárias para os sacrifícios.
+
+[[v23-9-17]]
+
+^<<v23-9-17,17>>^ Além disso, ele mesmo se tornaria judeu e percorreria todos os lugares habitados, proclamando o poder de Deus.
+
+[[v23-9-18]]
+
+^<<v23-9-18,18>>^ Mas suas dores não se atenuavam porque o justo castigo de Deus pesava sobre ele. Então, desesperado em vista de seu estado, escreveu aos judeus a seguinte carta, verdadeira súplica, assim exarada:
+
+[[v23-9-19]]
+
+^<<v23-9-19,19>>^ “Aos dedicados súditos judeus, saudações, bem-estar e felicidade, da parte de Antíoco, rei e chefe do exército!
+
+[[v23-9-20]]
+
+^<<v23-9-20,20>>^ Se vós e vossos filhos passais bem e se vos sucedem todas as coisas como desejais, agradeço a Deus, em quem ponho minha esperança.
+
+[[v23-9-21]]
+
+^<<v23-9-21,21>>^ Quanto a mim, estou prostrado pela doença, mas me lembro com prazer dos vossos sentimentos de respeito e da benevolência para comigo. Ao voltar das regiões da Pérsia, surpreendido por um mal cruel, julguei necessário providenciar a segurança de todos.
+
+[[v23-9-22]]
+
+^<<v23-9-22,22>>^ Não que me desespere de meu estado, ao contrário, tenho a firme esperança de restabelecer-me desta enfermidade.
+
+[[v23-9-23]]
+
+^<<v23-9-23,23>>^ Todavia, me lembro de que meu pai designava seu sucessor cada vez que partia em expedição às províncias superiores.
+
+[[v23-9-24]]
+
+^<<v23-9-24,24>>^ Ele queria que no caso de uma desgraça ou má notícia, os habitantes do país não se perturbassem, uma vez que soubessem a quem confiar os negócios.
+
+[[v23-9-25]]
+
+^<<v23-9-25,25>>^ Eu sei, ademais, que os príncipes que me rodeiam e os vizinhos do reino estão de atalaia e espreitam os acontecimentos; por isso, já designei meu filho Antíoco para rei, a quem, em outras ocasiões, confiei e recomendei a maior parte de vós, quando partia para outras terras. A ele escrevi a carta abaixo transcrita:
+
+[[v23-9-26]]
+
+^<<v23-9-26,26>>^ Rogo-vos, portanto, e peço que, em memória de meus benefícios para convosco, tanto gerais, como particulares, tenhais para com meu filho a mesma benevolência que para comigo,
+
+[[v23-9-27]]
+
+^<<v23-9-27,27>>^ pois estou convencido de que ele seguirá minhas intenções e agirá convosco com moderação e humanidade”.
+
+[[v23-9-28]]
+
+^<<v23-9-28,28>>^ Assim, esse carrasco e blasfemador pereceu miseravelmente, distante, nas montanhas, em meio àqueles sofrimentos que ele mesmo havia infligido aos outros.
+
+[[v23-9-29]]
+
+^<<v23-9-29,29>>^ Filipe, seu amigo de infância, trasladou seu corpo. Em seguida, partiu para o Egito, para junto de Ptolomeu Filométor, para escapar ao filho de Antíoco.^&#42;1^
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-008.adoc#v23-8-0[&#60; Capítulo Anterior] | <<v23-9-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-010.adoc#v23-10-0[Próximo Capítulo &#62;]

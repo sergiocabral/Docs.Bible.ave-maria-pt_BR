@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v15-4-0]]
+=== Esdras, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Esdras 4 narra a oposição dos inimigos de Judá e Benjamim ao povo judeu que estava reconstruindo o Templo em Jerusalém. Eles tentaram deter a construção através de suborno e força. O capítulo termina com a interrupção da construção do Templo por ordem do rei persa, e a cidade de Jerusalém fica em ruínas por muitos anos. Abaixo estão cinco versículos relacionados com os temas abordados em Esdras 4.
+* Isaías 41:11: "Eis que envergonhados e confundidos serão todos os que se indignaram contra ti; tornar-se-ão em nada; e os que contenderem contigo, perecerão." Este versículo fala da vergonha e confusão que virão sobre aqueles que se opõem a Deus e ao Seu povo. Isso se relaciona com o capítulo de Esdras 4, onde os inimigos de Judá e Benjamim estão tentando impedir a construção do Templo.
+* Salmos 83:4: "Vinde, digamos-lhes de uma vez por todas: destruamo-los como nação, para que o nome de Israel não mais seja lembrado." Este versículo descreve a conspiração dos inimigos de Israel para destruí-los como uma nação. Isso se relaciona com o capítulo de Esdras 4, onde os inimigos de Judá e Benjamim estão tentando impedir a reconstrução do Templo e destruir a cidade de Jerusalém.
+* Neemias 4:8: "E conspiraram todos juntos para virem pelejar contra Jerusalém, e para os perturbarem." Este versículo descreve a conspiração dos inimigos de Judá para atacar e perturbar a cidade de Jerusalém. Isso se relaciona com o capítulo de Esdras 4, onde os inimigos de Judá e Benjamim estão tentando impedir a reconstrução do Templo.
+* Isaías 60:10: "E os filhos dos estrangeiros edificarão os teus muros, e os seus reis te servirão; porque no meu furor te feri, mas na minha benevolência tive misericórdia de ti." Este versículo fala sobre a restauração de Jerusalém e sua reconstrução por estrangeiros. Isso se relaciona com o capítulo de Esdras 4, onde os inimigos de Judá estão tentando impedir a reconstrução do Templo e a restauração de Jerusalém.
+* Isaías 44:28: "Que digo de Ciro: ele é meu pastor, e cumprirá tudo o que me apraz; dizendo também a Jerusalém: Tu serás edificada; e ao templo: Tu serás fundado." Este versículo fala sobre Ciro, rei da Pérsia, que foi usado por Deus para permitir que o povo judeu retornasse a Jerusalém e reconstruísse o Templo. Isso se relaciona com o capítulo de Esdras 4, onde a construção do Templo é interrompida por ordem do rei persa.
+****
+
+[[v15-4-1]]
+
+^<<v15-4-1,1>>^ Quando os inimigos de Judá e de Benjamim souberam que os filhos do cativeiro estavam construindo o Templo ao Senhor, o Deus de Israel,^&#42;1^
+
+[[v15-4-2]]
+
+^<<v15-4-2,2>>^ vieram procurar Zorobabel e os chefes de família e disseram-lhes: “Deixai-nos construir convosco, porque, como vós, honramos também o vosso Deus e lhe ofertamos sacrifícios desde o tempo de Asaradon, rei da Assíria, que nos transportou para aqui”.^&#42;1^
+
+[[v15-4-3]]
+
+^<<v15-4-3,3>>^ Mas Zorobabel, Josué e os outros chefes das famílias de Israel responderam-lhes: “Não é conveniente que nós e vós construamos em conjunto a morada de nosso Deus; nós a construiremos sozinhos ao Senhor, Deus de Israel, como nos ordenou Ciro, rei da Pérsia”.
+
+[[v15-4-4]]
+
+^<<v15-4-4,4>>^ Disso resultou que os homens daquele lugar intimidavam os trabalhadores do povo de Judá e os inquietavam, enquanto trabalhavam.
+
+[[v15-4-5]]
+
+^<<v15-4-5,5>>^ Assalariaram contra eles alguns conselheiros para frustrar sua obra. Isso durou toda a vida de Ciro, rei da Pérsia, até a de Dario, rei da Pérsia.
+
+[[v15-4-6]]
+
+^<<v15-4-6,6>>^ Sob o reinado de Assuero (Xerxes), nos primórdios de seu governo, escreveram uma carta de acusação contra os habitantes de Judá e de Jerusalém.
+
+[[v15-4-7]]
+
+^<<v15-4-7,7>>^ Depois, no tempo de Artaxerxes, Beselão, Mitridates, Tabeel e seus colegas escreveram ao mesmo Artaxerxes, rei da Pérsia. A carta foi escrita em caracteres aramaicos e depois traduzida.
+
+[[v15-4-8]]
+
+^<<v15-4-8,8>>^ Reum, governador, e o secretário Samsai escreveram a Artaxerxes, a respeito de Jerusalém, uma carta que continha o seguinte:
+
+[[v15-4-9]]
+
+^<<v15-4-9,9>>^ “Reum, governador, Samsai, secretário e seus colegas de Din, de Afarsataq, de Terfal, de Afarsa, de Ercua, de Babilônia, de Susa, de Deha, de Elam,
+
+[[v15-4-10]]
+
+^<<v15-4-10,10>>^ e o restante dos povos que o grande e ilustre Asnafar trouxe e instalou na localidade de Samaria e em outros lugares de além do rio, etc.”.
+
+[[v15-4-11]]
+
+^<<v15-4-11,11>>^ Eis a cópia da carta que enviaram: “Ao rei Artaxerxes, teus servos, os povos da outra margem do rio.
+
+[[v15-4-12]]
+
+^<<v15-4-12,12>>^ Saiba o rei que os judeus, que partiram de tua terra para vir ao nosso meio, a Jerusalém, reconstroem esta cidade maldosa e rebelde, levantando os muros e restaurando-lhe os fundamentos.
+
+[[v15-4-13]]
+
+^<<v15-4-13,13>>^ Saiba também o rei que, se esta cidade for reconstruída e seus muros levantados, seus habitantes não mais pagarão impostos, nem tributos, nem rendas, o que ocasionará prejuízos ao rei.
+
+[[v15-4-14]]
+
+^<<v15-4-14,14>>^ Nós outros, porém, tendo em vista o sal de teu palácio que comemos e não achando conveniente ver menosprezado o rei, transmitimos a ti estas informações,^&#42;1^
+
+[[v15-4-15]]
+
+^<<v15-4-15,15>>^ para que mandes consultar os livros de registro de teus pais. Aí verás como esta cidade é uma localidade rebelde, funesta aos reis e às províncias e como já nos antigos tempos se têm nela incitado rebeliões. É por isso que ela foi destruída.
+
+[[v15-4-16]]
+
+^<<v15-4-16,16>>^ Nós fazemos chegar ao conhecimento do rei que, se esta cidade for reconstruída e seus muros levantados, não poderás mais conservar tuas posses do lado de lá do rio”.
+
+[[v15-4-17]]
+
+^<<v15-4-17,17>>^ Eis a resposta que o rei enviou ao governador Reum, ao secretário Samsai e aos seus colegas, habitantes da Samaria e de outros lugares na outra margem do rio:
+
+[[v15-4-18]]
+
+^<<v15-4-18,18>>^ “Saudações. Comunico que a carta que nos enviastes foi totalmente lida diante de mim.
+
+[[v15-4-19]]
+
+^<<v15-4-19,19>>^ Por minha ordem, foram feitas investigações e ficou averiguado que desde os tempos mais antigos aquela cidade sublevou-se contra os reis e que ali se fomentaram intrigas e revoltas.
+
+[[v15-4-20]]
+
+^<<v15-4-20,20>>^ Houve em Jerusalém reis poderosos; dominaram toda a terra da outra margem do rio; pagavam-lhes impostos, tributos e rendas.
+
+[[v15-4-21]]
+
+^<<v15-4-21,21>>^ Consequentemente, ordenai que cessem os trabalhos dessa gente, a fim de que não se reconstrua tal cidade, até que eu dê ordens em contrário.
+
+[[v15-4-22]]
+
+^<<v15-4-22,22>>^ Guardai-vos de toda negligência no cumprimento dessa ordem para que não aumente o prejuízo causado aos reis”.
+
+[[v15-4-23]]
+
+^<<v15-4-23,23>>^ Logo que a carta do rei Artaxerxes foi lida na presença de Reum, de Samsai, o secretário e de seus colegas, foram com toda a pressa a Jerusalém, junto aos judeus e os obrigaram, empregando a força e a violência, a cessar os trabalhos.
+
+[[v15-4-24]]
+
+^<<v15-4-24,24>>^ A restauração da casa de Deus em Jerusalém foi, pois, interrompida até o segundo ano do reinado de Dario, rei da Pérsia.^&#42;1^
+
+'''
+
+xref:015-esdras/015-esdras-003.adoc#v15-3-0[&#60; Capítulo Anterior] | <<v15-4-0,Topo>> | xref:015-esdras/015-esdras-005.adoc#v15-5-0[Próximo Capítulo &#62;]

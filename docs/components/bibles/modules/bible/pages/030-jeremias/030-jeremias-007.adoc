@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v30-7-0]]
+=== Jeremias, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 7 contém a palavra do Senhor dirigida aos habitantes de Judá que se reuniram no templo para adorar a Deus, mas que estavam pecando e se afastando de seus caminhos. O capítulo mostra que a adoração a Deus deve ser acompanhada de uma vida justa e devoção verdadeira, e não apenas uma prática religiosa vazia e hipócrita. Aqui estão cinco versículos relacionados aos temas abordados em Jeremias 7:
+* Deuteronômio 12:5 - "Mas, ao invés disso, busquem o lugar que o Senhor, seu Deus, escolherá dentre todas as suas tribos para ali estabelecer o seu nome e aí habitar. É para lá que vocês devem ir," Este versículo enfatiza a importância de adorar a Deus no lugar que ele escolheu, e não em qualquer lugar que escolhemos por conta própria.
+* Mateus 7:21 - "Nem todo aquele que me diz: ‘Senhor, Senhor’ entrará no Reino dos céus, mas apenas aquele que faz a vontade de meu Pai que está nos céus." Este versículo destaca que a verdadeira adoração a Deus envolve obedecer a sua vontade e viver uma vida justa.
+* Salmo 50:14-15 - "Ofereçam a Deus sacrifícios de gratidão e cumpram os seus votos para com o Altíssimo. E invoquem-me no dia da angústia; eu os livrarei, e vocês me honrarão." Este salmo enfatiza que a verdadeira adoração a Deus inclui a gratidão e o cumprimento de promessas, além de confiar em Deus para a salvação.
+* Isaías 1:13-14 - "Parem de trazer ofertas inúteis! O incenso de vocês é repugnante para mim! Lua Nova, sábados e convocações, não posso suportar o seu mal-estar. As suas festas da Lua Nova e as suas festas fixas, eu as odeio. Elas se tornaram um fardo para mim; estou cansado de carregá-lo." Este versículo mostra que a adoração a Deus sem arrependimento e mudança de vida é inútil e repugnante para ele.
+* 2 Coríntios 6:16-18 - "Que acordo pode haver entre o templo de Deus e os ídolos? Pois somos o templo do Deus vivo. Como disse Deus: ‘Habitarei com eles e entre eles andarei; serei o seu Deus, e eles serão o meu povo’. Portanto, saiam do meio deles e separem-se, diz o Senhor. Não toquem em coisas impuras, e eu os receberei." Este versículo destaca a importância de sermos santos e nos separarmos do pecado para que Deus habite em nós.
+****
+
+[[v30-7-1]]
+
+^<<v30-7-1,1>>^ A palavra do Senhor foi nestes termos dirigida a Jeremias:
+
+[[v30-7-2]]
+
+^<<v30-7-2,2>>^ “Vai à porta do Templo do Senhor; lá pronunciarás este discurso: escutai a palavra do Senhor, vós todos, povos de Judá, que entrais por estas portas para vos prosternar diante dele.^&#42;1^
+
+[[v30-7-3]]
+
+^<<v30-7-3,3>>^ Eis o que diz o Senhor dos exércitos, o Deus de Israel: reformai vosso procedimento e a maneira de agir, e eu vos deixarei morar neste lugar.
+
+[[v30-7-4]]
+
+^<<v30-7-4,4>>^ Não vos fieis em palavras enganadoras, semelhantes a estas: ‘Templo do Senhor, Templo do Senhor, aqui está o Templo do Senhor’.
+
+[[v30-7-5]]
+
+^<<v30-7-5,5>>^ Se reformardes vossos costumes e modos de proceder, se verdadeiramente praticardes a justiça;
+
+[[v30-7-6]]
+
+^<<v30-7-6,6>>^ se não oprimirdes o estrangeiro, o órfão, a viúva; se não espalhardes neste lugar o sangue inocente e não correrdes, para vossa desgraça, atrás dos deuses alheios,
+
+[[v30-7-7]]
+
+^<<v30-7-7,7>>^ então permitirei que permaneçais neste lugar, nesta terra que dei a vossos pais por todos os séculos.
+
+[[v30-7-8]]
+
+^<<v30-7-8,8>>^ Vós, contudo, vos fiais em fórmulas enganadoras que de nada vos servirão.
+
+[[v30-7-9]]
+
+^<<v30-7-9,9>>^ Roubais, matais, cometeis adultérios, prestais juramentos falsos; ofere-ceis incenso a Baal e procurais deuses que vos são desconhecidos.
+
+[[v30-7-10]]
+
+^<<v30-7-10,10>>^ E depois, vindes apresentar-vos diante de mim, nesta casa em que foi invocado meu nome, e exclamais: Estamos salvos! – para, em seguida, recomeçar a cometer todas essas abominações.
+
+[[v30-7-11]]
+
+^<<v30-7-11,11>>^ É, por acaso, a vossos olhos uma caverna de bandidos esta casa em que meu nome foi invocado? Também eu o vejo – oráculo do Senhor.^&#42;1^
+
+[[v30-7-12]]
+
+^<<v30-7-12,12>>^ Ide, portanto, à minha casa de Silo, onde a princípio habitou meu nome, e vede o que lhe fiz por causa da maldade do meu povo de Israel.
+
+[[v30-7-13]]
+
+^<<v30-7-13,13>>^ E agora, porque tendo-vos já continuamente advertido e não me atendestes,^&#42;1^
+
+[[v30-7-14]]
+
+^<<v30-7-14,14>>^ vou fazer da casa em que foi invocado meu nome e na qual depositastes vossa confiança, desse lugar que vos dei assim como a vossos pais, o que fiz de Silo,
+
+[[v30-7-15]]
+
+^<<v30-7-15,15>>^ e vos repelirei de minha presença, assim como repeli vossos irmãos, a raça inteira de Efraim.^&#42;1^
+
+[[v30-7-16]]
+
+^<<v30-7-16,16>>^ Quanto a ti, não intercedas por esse povo. Não ergas em favor dele queixas ou súplicas e não insistas junto de mim, porque não te escutarei.
+
+[[v30-7-17]]
+
+^<<v30-7-17,17>>^ Não vês o que faz ele nas cidades de Judá e nas ruas de Jerusalém?
+
+[[v30-7-18]]
+
+^<<v30-7-18,18>>^ Os filhos juntam lenha, os pais acendem o fogo e as mulheres sovam a massa para fazer tortas destinadas à rainha do céu, depois fazem libações a deuses estranhos, o que provoca a minha ira.^&#42;1^
+
+[[v30-7-19]]
+
+^<<v30-7-19,19>>^ Será, porém, a mim próprio que ele fere – oráculo do Senhor – ou a si mesmo, para sua maior vergonha?
+
+[[v30-7-20]]
+
+^<<v30-7-20,20>>^ Por isso, eis o que diz o Senhor JAVÉ: eis que minha cólera vai extravasar-se sobre este lugar, sobre os homens e os animais, sobre as árvores dos campos e os frutos da terra. E ela se inflamará para não mais se extinguir.”
+
+[[v30-7-21]]
+
+^<<v30-7-21,21>>^ Eis aqui o que diz o Senhor dos exércitos, o Deus de Israel: “Amontoai holocaustos sobre sacrifícios, e deles comei a carne;^&#42;1^
+
+[[v30-7-22]]
+
+^<<v30-7-22,22>>^ porquanto não falei a vossos pais e nada lhes prescrevi a respeito de holocaustos e sacrifícios, no dia em que os fiz sair do Egito.
+
+[[v30-7-23]]
+
+^<<v30-7-23,23>>^ Foi esta a única ordem que lhes dei: escutai minha voz: serei vosso Deus e vós sereis o meu povo; segui sempre a senda que vos indicar, a fim de que sejais felizes.
+
+[[v30-7-24]]
+
+^<<v30-7-24,24>>^ Eles, porém, não escutaram, nem prestaram ouvidos, seguindo os maus conselhos de seus corações empedernidos; voltaram-me as costas em lugar de me apresentarem seus rostos.
+
+[[v30-7-25]]
+
+^<<v30-7-25,25>>^ Desde o dia em que vossos pais deixaram o Egito até agora, enviei-vos todos os meus servos, os profetas. Todos os dias sem cessar os mandei.
+
+[[v30-7-26]]
+
+^<<v30-7-26,26>>^ Eles, porém, não os escutaram, nem lhes deram atenção; endureceram a cerviz e procederam pior que os pais.
+
+[[v30-7-27]]
+
+^<<v30-7-27,27>>^ Quando tudo isso lhes transmitires, também a ti não escutarão. Tu os chamarás e não obterás resposta.
+
+[[v30-7-28]]
+
+^<<v30-7-28,28>>^ Tu lhes dirás então: Esta é a nação que não escuta a voz do Senhor, seu Deus, e não aceita suas advertências. A lealdade desapareceu, tendo sido banida de sua boca.
+
+[[v30-7-29]]
+
+^<<v30-7-29,29>>^ Corta teus cabelos e lança-os fora. Ergue um canto fúnebre sobre as colinas, porquanto o Senhor rejeita e abandona essa raça contra a qual se encolerizou.
+
+[[v30-7-30]]
+
+^<<v30-7-30,30>>^ Fizeram os filhos de Judá o que é mal a meus olhos – oráculo do Senhor; colocaram ídolos abomináveis na casa em que meu nome foi invocado, e o macularam.
+
+[[v30-7-31]]
+
+^<<v30-7-31,31>>^ Ergueram o lugar alto de Tofet, no vale de Ben-Enom para lá queimarem seus filhos e filhas, não lhes havendo eu ordenado tal coisa que nem me passara pela mente.^&#42;1^
+
+[[v30-7-32]]
+
+^<<v30-7-32,32>>^ Eis por que virão os dias – oráculo do Senhor –, em que não mais se dirá Tofet, nem vale de Ben-Enom, mas ‘vale da Matança’, onde, por falta de lugar, serão enterrados os mortos em Tofet.
+
+[[v30-7-33]]
+
+^<<v30-7-33,33>>^ Os cadáveres desse povo servirão de pasto às aves do céu e aos animais da terra, sem que ninguém os expulse.
+
+[[v30-7-34]]
+
+^<<v30-7-34,34>>^ Nas cidades de Judá e nas ruas de Jerusalém farei silenciarem os gritos de alegria e os cantos de júbilo, cantos do esposo e vozes da esposa, porquanto a terra será reduzida a um deserto”.
+
+'''
+
+xref:030-jeremias/030-jeremias-006.adoc#v30-6-0[&#60; Capítulo Anterior] | <<v30-7-0,Topo>> | xref:030-jeremias/030-jeremias-008.adoc#v30-8-0[Próximo Capítulo &#62;]

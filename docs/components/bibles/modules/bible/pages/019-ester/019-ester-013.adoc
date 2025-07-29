@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-13-0]]
+=== Ester, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Daniel 2:37-38: "Ó rei, tu és rei dos reis; a quem o Deus do céu tem dado o reino, o poder, a força e a glória. E onde quer que habitem filhos de homens, bestas do campo e aves do céu, ele os entregou na tua mão, e fez que dominasses sobre todos eles; tu és a cabeça de ouro." - Este versículo fala sobre a autoridade e poder do rei. No capítulo 7 de Ester, o rei Assuero exerce seu poder para julgar Hamã e salvar Ester e seu povo.
+* Ezequiel 37:23: "Nem se contaminarão mais com os seus ídolos, com as suas abominações, e com todas as suas transgressões; mas eu os livrarei de todas as suas moradas em que pecaram, e os purificarei; assim eles serão o meu povo, e eu serei o seu Deus." - Este versículo fala sobre a salvação e purificação do povo de Deus. No capítulo 7 de Ester, Ester e seu povo são salvos da conspiração de Hamã pelo rei Assuero.
+* Jeremias 39:7: "E fez cegar os olhos de Zedequias, e o amarrou com duas cadeias de bronze, para o levar a babilônia." - Este versículo fala sobre a prisão de um líder e sua subsequente punição. No capítulo 7 de Ester, Hamã é punido pelo rei Assuero por sua conspiração contra Ester e seu povo.
+* Ezequiel 34:17: "E quanto às ovelhas gordas e fortes, deixa-as ficar, porque a elas será dado o pasto das montanhas de Israel." - Este versículo fala sobre o julgamento das pessoas, separando-as entre aquelas que serão poupadas e aquelas que serão julgadas. No capítulo 7 de Ester, Hamã é julgado e condenado por suas ações contra Ester e seu povo.
+****
+
+[[v19-13-1]]
+
+^<<v19-13-1,1>>^ “Assuero, o grande rei, a seus vassalos, os sátrapas e os governadores das cento e vinte e sete províncias, da Índia até a Etiópia, manda o que se segue:
+
+[[v19-13-2]]
+
+^<<v19-13-2,2>>^ Embora eu seja o chefe de numerosas nações e tenha submetido o mundo inteiro, não quero de modo algum abusar da grandeza de meu poder. Quero, por um governo de clemência e de doçura, oferecer a meus súditos uma existência de tranquilidade perpétua; e, procurando para meu reino, até seus confins, a calma e a segurança, garantir a paz, objeto de desejo universal.
+
+[[v19-13-3]]
+
+^<<v19-13-3,3>>^ Tenho, pois, perguntado a meus conselheiros como isso se podia realizar e um deles, chamado Amã, superior a todos por sua sabedoria e fidelidade, que ocupa o primeiro lugar depois do rei,
+
+[[v19-13-4]]
+
+^<<v19-13-4,4>>^ me fez conhecer que há um povo mal-intencionado, disperso entre os outros povos do mundo, de costumes contrários aos dos outros, que despreza constantemente as ordens dos reis, a ponto de ameaçar a concórdia que reina em nosso império.
+
+[[v19-13-5]]
+
+^<<v19-13-5,5>>^ Tendo, portanto, sabido que essa única nação em oposição perpétua com o restante do gênero humano, destruindo os costumes por leis estranhas, malévola para com tudo o que nos diz respeito, comete as piores desordens e compromete assim a ordem pública do reino;
+
+[[v19-13-6]]
+
+^<<v19-13-6,6>>^ por essas razões, ordenamos que todos aqueles que vos são indicados pela carta de Amã (o homem que está à frente de nossos interesses e que nos é um segundo pai), sejam todos radicalmente exterminados, mesmo mulheres e crianças, pela espada de seus inimigos, sem nenhuma compaixão, nem clemência, no dia catorze do duodécimo mês, chamado de Adar, do presente ano.
+
+[[v19-13-7]]
+
+^<<v19-13-7,7>>^ Desse modo esse povo, nosso inimigo de outrora e de agora, lançado violentamente, num mesmo dia, na região dos mortos, deixará para o futuro prosperarem em paz nossos negócios.” O que segue encontrei (no texto grego) depois da passagem em que se lê: “Mardoqueu se retirou e fez o que Ester pedia” e não existe no texto hebraico nem em tradutor algum:
+
+[[v19-13-8]]
+
+^<<v19-13-8,8>>^ Então, Mardoqueu orou ao Senhor, recordando tudo o que tinha feito:
+
+[[v19-13-9]]
+
+^<<v19-13-9,9>>^ “Senhor – disse –, Senhor, Rei Todo-Poderoso, tudo está realmente no vosso poder e ninguém pode resistir à vossa vontade, se tendes resolvido salvar Israel.
+
+[[v19-13-10]]
+
+^<<v19-13-10,10>>^ Fizestes o céu e a terra e todas as maravilhas que estão sob a abóbada celeste.
+
+[[v19-13-11]]
+
+^<<v19-13-11,11>>^ Sois o Senhor universal e ninguém poderia opor-se a vós, Senhor.
+
+[[v19-13-12]]
+
+^<<v19-13-12,12>>^ Conheceis tudo e sabeis que não foi nem por espírito de soberba, nem por presunção, nem por vanglória que recusei prostrar-me diante do orgulhoso Amã.
+
+[[v19-13-13]]
+
+^<<v19-13-13,13>>^ Voluntariamente para salvar Israel eu beijaria os vestígios de seus pés.
+
+[[v19-13-14]]
+
+^<<v19-13-14,14>>^ Mas procedi assim por temor de colocar a honra de um homem acima da glória de Deus; não adorarei jamais a ninguém senão vós. E, contudo, não farei isso por orgulho.
+
+[[v19-13-15]]
+
+^<<v19-13-15,15>>^ E agora, Senhor, que sois meu Deus e meu Rei, Deus de Abraão, poupai vosso povo, pois nossos inimigos nos querem arruinar e destruir vossa antiga herança.
+
+[[v19-13-16]]
+
+^<<v19-13-16,16>>^ Não desprezeis a vossa porção, que vós resgatastes do Egito!
+
+[[v19-13-17]]
+
+^<<v19-13-17,17>>^ Ouvi minha oração! Sede propício para com a partilha de vossa herança e mudai em gozo nossa dor, a fim de vivermos para celebrar vosso nome, Senhor, e não fecheis a boca daqueles que vos louvam, ó Senhor!”.
+
+[[v19-13-18]]
+
+^<<v19-13-18,18>>^ Todo o Israel clamava também ao Senhor, com todas as forças, porque tinham a morte diante dos olhos.
+
+'''
+
+xref:019-ester/019-ester-012.adoc#v19-12-0[&#60; Capítulo Anterior] | <<v19-13-0,Topo>> | xref:019-ester/019-ester-014.adoc#v19-14-0[Próximo Capítulo &#62;]

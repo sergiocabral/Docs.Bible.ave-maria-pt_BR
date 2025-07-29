@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v61-4-0]]
+=== I Timóteo, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Timóteo 4 aborda a importância de se manter a doutrina verdadeira e se afastar de ensinamentos enganosos, além de incentivar o exercício físico e a nutrição adequada como elementos importantes para a saúde do corpo. A seguir, estão cinco versículos relacionados a esses temas:
+* Provérbios 4:23: "Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as fontes da vida." Esse versículo se relaciona com o capítulo de 1 Timóteo 4 ao falar da importância de se manter a doutrina verdadeira, que vem do coração, e evitar ser corrompido por ensinamentos enganosos.
+* 1 Coríntios 6:19-20: "Ou não sabeis que o vosso corpo é o templo do Espírito Santo, que habita em vós, proveniente de Deus, e que não sois de vós mesmos? Porque fostes comprados por bom preço; glorificai, pois, a Deus no vosso corpo e no vosso espírito, os quais pertencem a Deus." Esse versículo destaca a importância do cuidado com o corpo, que deve ser tratado como um templo do Espírito Santo, algo enfatizado em 1 Timóteo 4 com a recomendação de exercício físico e nutrição adequada.
+* Provérbios 23:20-21: "Não estejas entre os beberrões de vinho, nem entre os comilões de carne. Porque o beberrão e o comilão caem em pobreza; e a sonolência vestirá de trapos o homem." Esse versículo destaca a importância da moderação na alimentação, evitando excessos que possam prejudicar a saúde e levar à pobreza. Essa ideia se relaciona com a recomendação em 1 Timóteo 4 de se manter uma nutrição adequada.
+* 2 Pedro 2:1: "E também houve entre o povo falsos profetas, como entre vós haverá também falsos doutores, que introduzirão encobertamente heresias de perdição, e negarão o Senhor que os resgatou, trazendo sobre si mesmos repentina perdição." Esse versículo destaca a presença de falsos profetas e doutores que podem introduzir ensinamentos enganosos, algo que é alertado em 1 Timóteo 4, enfatizando a importância de se manter a doutrina verdadeira.
+* Mateus 6:33: "Mas, buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas." Esse versículo destaca a importância de se priorizar a busca pelo reino de Deus e a sua justiça, algo que está relacionado à recomendação em 1 Timóteo 4 de se manter a doutrina verdadeira e evitar ser corrompido por ensinamentos enganosos.
+****
+
+[[v61-4-1]]
+
+^<<v61-4-1,1>>^ O Espírito diz expressamente que, nos tempos vindouros, alguns hão de apostatar da fé, dando ouvidos a espíritos embusteiros e a doutrinas diabólicas,
+
+[[v61-4-2]]
+
+^<<v61-4-2,2>>^ de hipócritas e impostores que, marcados na própria consciência com o ferrete da infâmia,
+
+[[v61-4-3]]
+
+^<<v61-4-3,3>>^ proíbem o casamento, assim como o uso de alimentos que Deus criou para que sejam tomados com ação de graças pelos fiéis e pelos que conhecem a verdade.
+
+[[v61-4-4]]
+
+^<<v61-4-4,4>>^ Pois tudo o que Deus criou é bom e nada há de reprovável, quando se usa com ação de graças.
+
+[[v61-4-5]]
+
+^<<v61-4-5,5>>^ Porque se torna santificado pela Palavra de Deus e pela oração.
+
+[[v61-4-6]]
+
+^<<v61-4-6,6>>^ Recomenda esta doutrina aos irmãos, e serás bom ministro de Jesus Cristo, alimentado com as palavras da fé e da sã doutrina que até agora seguiste com exatidão.
+
+[[v61-4-7]]
+
+^<<v61-4-7,7>>^ Quanto às fábulas profanas, esses contos extravagantes de comadres, rejeita-as.
+
+[[v61-4-8]]
+
+^<<v61-4-8,8>>^ Exercita-te na piedade. Se o exercício corporal traz algum pequeno proveito, a piedade, esta sim, é útil para tudo, porque tem a promessa da vida presente e da futura.
+
+[[v61-4-9]]
+
+^<<v61-4-9,9>>^ Eis uma verdade absolutamente certa e digna de fé:
+
+[[v61-4-10]]
+
+^<<v61-4-10,10>>^ se nos afadigamos e sofremos ultrajes, é porque pusemos a nossa esperança em Deus vivo, que é o Salvador de todos os homens, sobretudo dos fiéis.
+
+[[v61-4-11]]
+
+^<<v61-4-11,11>>^ Seja este o objeto de tuas prescrições e dos teus ensinamentos.
+
+[[v61-4-12]]
+
+^<<v61-4-12,12>>^ Ninguém te despreze por seres jovem. Ao contrário, torna-te modelo para os fiéis, no modo de falar e de viver, na caridade, na fé, na castidade.
+
+[[v61-4-13]]
+
+^<<v61-4-13,13>>^ Enquanto eu não chegar, aplica-te à leitura, à exortação, ao ensino.
+
+[[v61-4-14]]
+
+^<<v61-4-14,14>>^ Não negligencies o carisma que está em ti e que te foi dado por profecia, quando a assembleia dos anciãos te impôs as mãos.^&#42;1^
+
+[[v61-4-15]]
+
+^<<v61-4-15,15>>^ Põe nisto toda a diligência e empenho, de tal modo que se torne manifesto a todos o teu aproveitamento.
+
+[[v61-4-16]]
+
+^<<v61-4-16,16>>^ Olha por ti e pela instrução dos outros. E persevera nestas coisas. Se isto fizeres, tu te salvarás a ti mesmo e aos que te ouvirem.
+
+'''
+
+xref:061-i-timoteo/061-i-timoteo-003.adoc#v61-3-0[&#60; Capítulo Anterior] | <<v61-4-0,Topo>> | xref:061-i-timoteo/061-i-timoteo-005.adoc#v61-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v23-5-0]]
+=== II Macabeus, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 5 de 2 Macabeus relata a chegada do novo governador da Síria, chamado Andrônico, que foi enviado pelo rei Antíoco Epifânio para subjugar os judeus. Andrônico trouxe consigo uma grande quantidade de soldados e foi responsável por uma terrível perseguição aos judeus, que culminou na profanação do Templo. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* 1 Reis 11:7: "Então edificou Salomão um alto a Quemós, a abominação dos moabitas, sobre o monte fronteiro a Jerusalém, e a Moloc, a abominação dos filhos de Amom." Este versículo fala sobre a prática de Salomão de construir altares para os deuses pagãos Quemós e Moloc, o que é descrito como uma abominação. A profanação do Templo pelos soldados de Andrônico pode ser considerada uma abominação semelhante.
+* Jeremias 4:7: "Subiu um leão da sua ramada, e um destruidor de gentes; ele já partiu, saiu do seu lugar, para fazer da tua terra uma assolação, e as tuas cidades ficarão em ruínas, sem habitante." Este versículo descreve a chegada de um destruidor que deixará as cidades em ruínas e sem habitantes. A chegada de Andrônico com seus soldados teve um efeito semelhante na terra dos judeus.
+* Lamentações 1:8: "Jerusalém gravemente pecou, por isso se tornou em instabilidade; todos os que a honravam a desprezam, porque viram a sua nudez; ela também geme e volta para trás." Este versículo se refere à queda de Jerusalém devido aos pecados de seus habitantes. A profanação do Templo por Andrônico pode ser vista como uma consequência do pecado dos judeus.
+* Ezequiel 7:21: "E darás o ouro por refugo, e a prata por escória; não te poderão salvar no dia da ira do Senhor; não fartarão a tua alma, nem te encherão o ventre, porque foram o tropeço da tua maldade." Este versículo fala sobre a inutilidade dos tesouros acumulados pelos homens no dia da ira do Senhor. O saque do Templo pelos soldados de Andrônico sugere a mesma ideia de que os tesouros terrenos não têm valor no dia do juízo.
+* Isaías 64:10: "A tua cidade santa está deserta; Sião se tornou em deserto, Jerusalém está assolada." Este versículo descreve a desolação da cidade santa de Jerusalém. A perseguição dos judeus por Andrônico e seus soldados resultou na desolação de Jerusalém e do Templo.
+****
+
+[[v23-5-1]]
+
+^<<v23-5-1,1>>^ Por essa ocasião, Antíoco organizou sua segunda expedição contra o Egito.
+
+[[v23-5-2]]
+
+^<<v23-5-2,2>>^ Aconteceu que em toda a cidade e por mais de quarenta dias, apareceram, correndo pelos ares, cavaleiros com vestes de ouro e armados com lanças, coortes armadas, espadas desembainhadas,
+
+[[v23-5-3]]
+
+^<<v23-5-3,3>>^ esquadrões alinhados para a batalha, perseguições e choques de um lado e de outro; movimentos de escudos, multidões de lanças, tiros de dardos, armaduras de ouro resplandecentes e couraças de todo o gênero.
+
+[[v23-5-4]]
+
+^<<v23-5-4,4>>^ Por isso, todos rezavam para que tais aparições produzissem acontecimentos favoráveis.
+
+[[v23-5-5]]
+
+^<<v23-5-5,5>>^ Espalhando-se a notícia, aliás falsa, da morte de Antíoco, Jasão tomou consigo ao menos mil homens e atacou subitamente a cidade. Travou-se o combate sobre os muros e a cidade estava já tomada, quando Menelau fugiu para a Acrópole.
+
+[[v23-5-6]]
+
+^<<v23-5-6,6>>^ Jasão massacrou sem piedade seus próprios concidadãos, esquecendo-se de que uma vitória ganha sobre compatriotas é a maior das desgraças, e agiu como se levantasse troféus de inimigos e não de compatriotas!
+
+[[v23-5-7]]
+
+^<<v23-5-7,7>>^ Todavia, não lhe foi possível conquistar o poder, e só recolhendo de sua maquinação a vergonha, fugiu de novo para a terra dos amonitas.
+
+[[v23-5-8]]
+
+^<<v23-5-8,8>>^ Pereceu, enfim, miseravelmente, porque, acusado junto de Aretas, chefe dos árabes, fugiu de cidade em cidade e, perseguido por todos, detestado como apóstata das leis, desprezado como carrasco de sua pátria e de seus concidadãos, foi levado para o Egito.
+
+[[v23-5-9]]
+
+^<<v23-5-9,9>>^ Aquele que tinha lançado fora de sua pátria tanta gente pereceu numa terra estrangeira, tendo ido para junto dos espartanos, com a esperança de ali encontrar refúgio, por causa de uma origem comum.
+
+[[v23-5-10]]
+
+^<<v23-5-10,10>>^ E, após ter lançado por terra tantos homens, sem sepultá-los, não foi chorado por ninguém, não recebeu as honras dos funerais e nem um lugar no túmulo de seus pais.
+
+[[v23-5-11]]
+
+^<<v23-5-11,11>>^ Quando a notícia desses acontecimentos chegou aos ouvidos do rei, ele concluiu que a Judeia queria desertar. Trazendo seu exército do Egito, com o ânimo enfurecido, conquistou a cidade pelas armas.
+
+[[v23-5-12]]
+
+^<<v23-5-12,12>>^ Ordenou aos soldados que matassem sem compaixão aqueles que caíssem em suas mãos e que degolassem os que se refugiassem nas casas.
+
+[[v23-5-13]]
+
+^<<v23-5-13,13>>^ Houve, pois, uma mortandade de jovens e de velhos, carnificina de homens, mulheres e crianças, um massacre de donzelas e de meninos.
+
+[[v23-5-14]]
+
+^<<v23-5-14,14>>^ Em três dias houve oitenta mil vítimas, das quais quarenta mil foram mortas e outras tantas vendidas como escravas.
+
+[[v23-5-15]]
+
+^<<v23-5-15,15>>^ Não satisfeito com isso, o rei ousou penetrar no templo, o mais santo de toda a terra, conduzido por Menelau, que foi infiel às leis e à pátria.
+
+[[v23-5-16]]
+
+^<<v23-5-16,16>>^ Tomou com as mãos profanas os vasos sagrados e com mãos impuras apoderou-se das oferendas feitas pelos reis anteriores, para proveito, honra e glória do templo.
+
+[[v23-5-17]]
+
+^<<v23-5-17,17>>^ Antíoco exaltava-se de orgulho, mas não percebia que o Senhor momentaneamente se havia irritado por causa dos pecados dos habitantes da cidade, daí essa indiferença pelo templo.
+
+[[v23-5-18]]
+
+^<<v23-5-18,18>>^ Se os judeus não fossem por demais culpados, a exemplo de Heliodoro, enviado pelo rei Seleuco para inspecionar o tesouro, ele teria sido flagelado logo que chegou e dissuadido de sua audácia.
+
+[[v23-5-19]]
+
+^<<v23-5-19,19>>^ Na verdade, Deus não escolheu o povo por causa do templo, mas escolheu o templo por causa do povo.
+
+[[v23-5-20]]
+
+^<<v23-5-20,20>>^ É por isso que o templo, depois de ter participado dos males do povo, teve em seguida parte com ele nos favores divinos. Desamparado no tempo da cólera, foi restaurado com toda a sua glória por ocasião da reconciliação com o soberano Senhor.
+
+[[v23-5-21]]
+
+^<<v23-5-21,21>>^ Tendo Antíoco roubado ao templo mil e oitocentos talentos, voltou sem demora para Antioquia. Com o espírito exaltado, ele cria, em sua soberba, poder navegar sobre a terra e caminhar sobre o mar.
+
+[[v23-5-22]]
+
+^<<v23-5-22,22>>^ Contudo, por motivo de seu ódio para com os judeus, deixou atrás de si oficiais com a incumbência de molestar o povo. Em Jerusalém, Filipe, da Frígia, mais bárbaro ainda que seu senhor;
+
+[[v23-5-23]]
+
+^<<v23-5-23,23>>^ no monte Garizim, Andrônico e, adjunto a estes, Menelau, que se encarniçava contra seus concidadãos de modo mais terrível que os outros.
+
+[[v23-5-24]]
+
+^<<v23-5-24,24>>^ Enviou também o misarca Apolônio à frente de um poderoso exército de vinte e dois mil homens, com a ordem de matar todos os adultos e de vender as mulheres e as crianças.
+
+[[v23-5-25]]
+
+^<<v23-5-25,25>>^ Chegou pois este a Jerusalém, fingindo intenções pacíficas. Esperou até o dia santo de sábado e, apanhando os judeus desocupados, ordenou às suas tropas pegarem em armas.
+
+[[v23-5-26]]
+
+^<<v23-5-26,26>>^ Todos os que saíram para ver o espetáculo foram massacrados e, percorrendo a cidade com seus soldados, matou um grande número de pessoas.
+
+[[v23-5-27]]
+
+^<<v23-5-27,27>>^ Judas Macabeu retirou-se com um grupo de outros homens para o deserto, vivendo com seus companheiros nas montanhas, como animais selvagens e alimentando-se de ervas, para não se contaminarem.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-004.adoc#v23-4-0[&#60; Capítulo Anterior] | <<v23-5-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-006.adoc#v23-6-0[Próximo Capítulo &#62;]

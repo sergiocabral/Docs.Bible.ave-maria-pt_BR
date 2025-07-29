@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v62-3-0]]
+=== II Timóteo, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Timóteo 3 trata principalmente sobre os perigos dos tempos difíceis e da importância da Palavra de Deus na vida do cristão. Com base nisso, aqui estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento, mas os insensatos desprezam a sabedoria e a disciplina." Este versículo mostra a importância do temor do Senhor na vida do cristão, pois é através dele que obtemos o conhecimento e a sabedoria que precisamos para enfrentar os desafios dos tempos difíceis.
+* Salmo 119:105: "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho." Este versículo destaca a importância da Palavra de Deus na vida do cristão, pois ela é a fonte de orientação e direção para enfrentar os tempos difíceis.
+* João 16:33: "No mundo vocês terão aflições; contudo, tenham ânimo! Eu venci o mundo." Este versículo nos lembra que enfrentaremos dificuldades nesta vida, mas podemos ter coragem e esperança porque Jesus já venceu o mundo.
+* 2 Pedro 3:3-4: "Antes de tudo, saibam que nos últimos dias virão zombadores zombando e seguindo suas próprias paixões. Eles dirão: 'Onde está a promessa da sua vinda? Desde que os nossos antepassados morreram, tudo continua como desde o princípio da criação'." Este versículo mostra que, nos tempos difíceis, haverá aqueles que zombarão da fé cristã e questionarão as promessas de Deus. É importante lembrar que esses desafios já foram previstos e devemos permanecer firmes em nossa fé.
+* 1 Coríntios 10:13: "Nenhuma tentação lhe sobreveio, que não fosse comum aos homens. E Deus é fiel; ele não permitirá que vocês sejam tentados além do que podem suportar. Mas, quando forem tentados, ele mesmo providenciará um escape, para que o possam suportar." Este versículo nos lembra que, embora enfrentemos desafios nos tempos difíceis, Deus é fiel e nos dará a força para suportá-los. Devemos confiar em Deus e buscar a força que vem somente Dele.
+****
+
+[[v62-3-1]]
+
+^<<v62-3-1,1>>^ Nota bem o seguinte: nos últimos dias haverá um período difícil.
+
+[[v62-3-2]]
+
+^<<v62-3-2,2>>^ Os homens se tornarão egoístas, avarentos, fanfarrões, soberbos, rebeldes aos pais, ingratos, malvados,
+
+[[v62-3-3]]
+
+^<<v62-3-3,3>>^ desalmados, desleais, caluniadores, devassos, cruéis, inimigos dos bons,
+
+[[v62-3-4]]
+
+^<<v62-3-4,4>>^ traidores, insolentes, cegos de orgulho, amigos dos prazeres e não de Deus,
+
+[[v62-3-5]]
+
+^<<v62-3-5,5>>^ ostentarão a aparência de piedade, mas desdenharão a realidade. Dessa gente, afasta-te!
+
+[[v62-3-6]]
+
+^<<v62-3-6,6>>^ Deles fazem parte os que se insinuam jeitosamente pelas casas e enfeitiçam mulherzinhas carregadas de pecados, atormentadas por toda espécie de paixões,
+
+[[v62-3-7]]
+
+^<<v62-3-7,7>>^ sempre a aprender sem nunca chegar ao conhecimento da verdade.
+
+[[v62-3-8]]
+
+^<<v62-3-8,8>>^ Como Janes e Jambres resistiram a Moisés, assim também estes homens de coração pervertido, reprovados na fé, tentam resistir à verdade.^&#42;1^
+
+[[v62-3-9]]
+
+^<<v62-3-9,9>>^ Mas não irão longe, porque será manifesta a todos a sua insensatez, como o foi a daqueles dois.
+
+[[v62-3-10]]
+
+^<<v62-3-10,10>>^ Tu, pelo contrário, te aplicaste a seguir-me de perto na minha doutrina, no meu modo de vida, nos meus planos, na minha fé, na minha paciência, na minha caridade, na minha constância,
+
+[[v62-3-11]]
+
+^<<v62-3-11,11>>^ nas minhas perseguições, nas provações que me sobrevieram em Antioquia, em Icônio, em Listra. Que perseguições tive que sofrer! E de todas me livrou o Senhor.
+
+[[v62-3-12]]
+
+^<<v62-3-12,12>>^ Pois todos os que quiserem viver piedosamente, em Jesus Cristo, terão de sofrer a perseguição.
+
+[[v62-3-13]]
+
+^<<v62-3-13,13>>^ Mas os homens perversos e impostores irão de mal a pior, sedutores e seduzidos.
+
+[[v62-3-14]]
+
+^<<v62-3-14,14>>^ Tu, porém, permanece firme naquilo que aprendeste e creste. Sabes de quem aprendeste.
+
+[[v62-3-15]]
+
+^<<v62-3-15,15>>^ E desde a infância conheces as Sagradas Escrituras e sabes que elas têm o condão de te proporcionar a sabedoria que conduz à salvação, pela fé em Jesus Cristo.
+
+[[v62-3-16]]
+
+^<<v62-3-16,16>>^ Toda a Escritura é inspirada por Deus, e útil para ensinar, para repreender, para corrigir e para formar na justiça.
+
+[[v62-3-17]]
+
+^<<v62-3-17,17>>^ Por ela, o homem de Deus se torna perfeito, capacitado para toda boa obra.
+
+'''
+
+xref:062-ii-timoteo/062-ii-timoteo-002.adoc#v62-2-0[&#60; Capítulo Anterior] | <<v62-3-0,Topo>> | xref:062-ii-timoteo/062-ii-timoteo-004.adoc#v62-4-0[Próximo Capítulo &#62;]

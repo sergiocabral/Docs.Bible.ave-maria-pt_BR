@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v40-4-0]]
+=== Miquéias, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Miquéias 4 é um capítulo que fala sobre a restauração de Israel e a chegada do Messias. Nele, o profeta descreve a glória que está por vir para o povo de Deus e a justiça que será estabelecida por meio de um líder vindouro. Os versículos a seguir estão relacionados com os temas abordados em Miquéias 4:
+* Isaías 2:2: "E acontecerá nos últimos dias que o monte da casa do Senhor será estabelecido no cimo dos montes e se elevará sobre os outeiros, e para ele afluirão todas as nações." Este versículo fala sobre a restauração de Israel e o estabelecimento do templo do Senhor como centro de adoração e reverência para todas as nações.
+* Isaías 9:6: "Porque um menino nos nasceu, um filho nos foi dado, e o governo está sobre seus ombros; e ele será chamado Maravilhoso Conselheiro, Deus Forte, Pai Eterno, Príncipe da Paz." Este versículo fala sobre a vinda do Messias, que governará com justiça e paz.
+* Jeremias 23:5: "Eis que virão dias, diz o Senhor, em que levantarei a Davi um Renovo justo, e reinará como Rei e prosperará, e executará o juízo e a justiça na terra." Este versículo fala sobre a vinda do Messias, que será descendente de Davi e governará com justiça e retidão.
+* Isaías 11:1-2: "Sairá um rebento do tronco de Jessé, e das suas raízes um renovo frutificará. E repousará sobre ele o Espírito do Senhor, o espírito de sabedoria e de entendimento, o espírito de conselho e de fortaleza, o espírito de conhecimento e de temor do Senhor." Este versículo fala sobre a vinda do Messias, que será ungido pelo Espírito do Senhor e terá sabedoria e entendimento para governar com justiça.
+* Zacarias 9:9: "Alegra-te muito, ó filha de Sião; exulta, ó filha de Jerusalém; eis que o teu rei virá a ti, justo e salvo, pobre e montado sobre um jumento, sobre um jumentinho, filho de jumenta." Este versículo fala sobre a vinda do Messias como um rei justo, mas humilde, que cavalgará sobre um jumento.
+****
+
+[[v40-4-1]]
+
+^<<v40-4-1,1>>^ Acontecerá, no fim dos tempos, que a montanha da casa do Senhor será estabelecida no ápice das montanhas, e será mais elevada que todos os outeiros. Os povos afluirão para ela,
+
+[[v40-4-2]]
+
+^<<v40-4-2,2>>^ numerosas nações ali virão, dizendo: “Vinde, subamos à montanha do Senhor, à casa do Deus de Jacó. Ele nos ensinará os seus caminhos, e andaremos por suas veredas”. Porque de Sião sairá a doutrina, e de Jerusalém a palavra do Senhor.^&#42;1^
+
+[[v40-4-3]]
+
+^<<v40-4-3,3>>^ Ele será árbitro de numerosas nações e juiz de povos longínquos e poderosos. De suas espadas forjarão arados, e de suas lanças, foices; uma nação não levantará mais a espada contra outra, e não se exercitará mais para a guerra.^&#42;1^
+
+[[v40-4-4]]
+
+^<<v40-4-4,4>>^ Mas cada um habitará debaixo de sua vinha e debaixo de sua figueira, sem que ninguém o moleste; porque assim o prometeu, por sua boca, o Senhor dos exércitos.
+
+[[v40-4-5]]
+
+^<<v40-4-5,5>>^ Com efeito, todos os povos andam, cada um em nome de seu deus; nós, porém, andaremos para sempre em nome do Senhor, nosso Deus.
+
+[[v40-4-6]]
+
+^<<v40-4-6,6>>^ Naquele dia – oráculo do Senhor –, recolherei os coxos, reunirei os dispersos e os que eu tinha afligido.
+
+[[v40-4-7]]
+
+^<<v40-4-7,7>>^ Dos estropiados farei um resto, dos afastados, uma nação robusta; e o Senhor será o seu rei sobre o monte Sião, desde agora e para sempre.
+
+[[v40-4-8]]
+
+^<<v40-4-8,8>>^ E tu, torre do Rebanho, colina da filha de Sião: voltará a ti tua soberania de outrora, a realeza sobre a casa de Israel.^&#42;1^
+
+[[v40-4-9]]
+
+^<<v40-4-9,9>>^ E agora, por que gritas? Acaso não há rei em ti? Ou pereceu o teu conselheiro, para que se apoderem de ti dores como as de uma parturiente?
+
+[[v40-4-10]]
+
+^<<v40-4-10,10>>^ Convulsiona-te e geme, filha de Sião, como uma mulher que dá à luz. Vais ter que deixar a cidade e morar no campo; irás até a Babilônia e ali serás salva; ali te resgatará o Senhor da mão de teus inimigos.
+
+[[v40-4-11]]
+
+^<<v40-4-11,11>>^ Agora se juntam contra ti numerosas nações que dizem: “Seja profanada Sião! Possam nossos olhos ver esta ruína!”.
+
+[[v40-4-12]]
+
+^<<v40-4-12,12>>^ Todavia, elas desconhecem os planos do Senhor, não entendem o seu desígnio, que é de ajuntá-los como grãos na eira.^&#42;1^
+
+[[v40-4-13]]
+
+^<<v40-4-13,13>>^ Eia, filha de Sião! Tritura aos pés o grão! Pois te darei uma testa de ferro e te darei cascos de bronze, para que esmagues numerosos povos; votarás seus despojos ao Senhor e suas riquezas ao Senhor da terra.
+
+[[v40-4-14]]
+
+^<<v40-4-14,14>>^ Agora, reúne tuas tropas, filha de guerreiros! Vieram e nos cercaram, ferem com uma vara a face do juiz de Israel.
+
+'''
+
+xref:040-miqueias/040-miqueias-003.adoc#v40-3-0[&#60; Capítulo Anterior] | <<v40-4-0,Topo>> | xref:040-miqueias/040-miqueias-005.adoc#v40-5-0[Próximo Capítulo &#62;]

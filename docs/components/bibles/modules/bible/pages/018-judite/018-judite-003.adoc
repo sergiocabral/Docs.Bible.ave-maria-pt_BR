@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v18-3-0]]
+=== Judite, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Judite 3 descreve a preparação do exército assírio liderado por Holofernes para invadir várias nações, incluindo Judá. O capítulo também menciona a opressão dos israelitas por Nabucodonosor, rei da Assíria. Aqui estão cinco versículos relacionados com os temas abordados em Judite 3:
+* Daniel 1:2: "O Senhor entregou nas mãos de Nabucodonosor, rei de Judá, alguns dos utensílios do templo de Deus. Ele os levou para a terra de Sinar, para o templo dos seus deuses, e colocou os utensílios no tesouro do seu deus." Este versículo menciona a opressão dos israelitas por Nabucodonosor, que é um tema em Judite 3.
+* 2 Reis 17:5-6: "O rei da Assíria invadiu toda a terra e cercou Samaria. Por três anos ele a sitiou, e no nono ano do reinado de Oseias, o rei da Assíria tomou Samaria e levou o povo de Israel para o exílio na Assíria. Ele os colocou em Hala, em Habor, no rio Gozã e nas cidades dos medos." Este versículo descreve a invasão da Assíria em Israel, que é semelhante à invasão planejada em Judite 3.
+* Isaías 10:5-7: "Ai da Assíria, vara da minha ira, em cujas mãos está o bastão do meu castigo! Eu o envio contra uma nação ímpia, contra um povo que me enfurece; para saqueá-lo e despojá-lo, para pisá-lo como se pisa o lodo das ruas." Este versículo descreve Deus usando a Assíria como instrumento de castigo contra nações ímpias, que pode ser visto em Judite 3.
+* 2 Crônicas 36:15-16: "O Senhor, o Deus dos seus antepassados, enviou-lhes mensageiros constantemente, pois ele tinha compaixão do seu povo e da sua morada. Mas eles zombaram dos mensageiros de Deus, desprezaram as suas palavras e zombaram dos seus profetas, até que a ira do Senhor contra o seu povo se tornou tão grande que já não havia remédio." Este versículo descreve como o povo de Israel se desviou de Deus e zombou dos seus profetas, o que pode ter contribuído para a opressão dos israelitas por Nabucodonosor.
+* 2 Crônicas 33:11-13: "Por isso, o Senhor trouxe contra eles os comandantes do exército do rei da Assíria, que prenderam Manassés, o amarraram com correntes e o levaram para a Babilônia. Em sua angústia, ele buscou o favor do Senhor, seu Deus, e se humilhou profundamente perante o Deus de seus antepassados. E, quando orou a ele, o Senhor o ouviu e atendeu à sua súplica, trazendo-o de volta a Jerusalém e ao seu reino.
+****
+
+[[v18-3-1]]
+
+^<<v18-3-1,1>>^ Então, os reis e os príncipes de todas as cidades e de todas as províncias, da Síria, da Mesopotâmia, da Síria de Sobal, da Líbia e da Cilícia, enviaram seus delegados a Holofernes para lhe dizerem:^&#42;1^
+
+[[v18-3-2]]
+
+^<<v18-3-2,2>>^ “Cessa a tua indignação contra nós. É melhor que vivamos servindo o grande rei Nabucodonosor e submetendo-nos a ti, do que morrermos, depois de havermos sofrido, além da nossa perda, os males da escravidão.
+
+[[v18-3-3]]
+
+^<<v18-3-3,3>>^ Eis aí todas as nossas cidades, todas as nossas possessões, todas as nossas montanhas e colinas, nossos campos, nosso gado, nossos rebanhos de cordeiros e de cabras, nossos cavalos e nossos camelos, todos os nossos bens e nossas famílias.
+
+[[v18-3-4]]
+
+^<<v18-3-4,4>>^ Tudo o que nos pertence depende de ti, de ora em diante.
+
+[[v18-3-5]]
+
+^<<v18-3-5,5>>^ Somos teus escravos, nós e nossos filhos.
+
+[[v18-3-6]]
+
+^<<v18-3-6,6>>^ Vem a nós como um senhor pacífico e emprega os nossos serviços como te parecer melhor”.
+
+[[v18-3-7]]
+
+^<<v18-3-7,7>>^ Holofernes desceu então das montanhas com suas poderosas forças de cavalaria e apoderou-se de todas as cidades e de todos os habitantes do país.
+
+[[v18-3-8]]
+
+^<<v18-3-8,8>>^ Levou de todas as cidades, para suas tropas auxiliares, homens valentes e escolhidos para a guerra.
+
+[[v18-3-9]]
+
+^<<v18-3-9,9>>^ Era tão grande o terror daquelas províncias, que os principais e os magistrados de todas as cidades saíam com o povo ao seu encontro
+
+[[v18-3-10]]
+
+^<<v18-3-10,10>>^ e o acolhiam com coroas e archotes, dançando ao som dos tamborins e das flautas.
+
+[[v18-3-11]]
+
+^<<v18-3-11,11>>^ Mas não conseguiram, apesar disso, abrandar a ferocidade daquele coração.
+
+[[v18-3-12]]
+
+^<<v18-3-12,12>>^ Ele destruiu as suas cidades e cortou os seus troncos sagrados.
+
+[[v18-3-13]]
+
+^<<v18-3-13,13>>^ Pois Nabucodonosor havia-lhe ordenado que exterminasse todos os deuses da terra, para que só ele fosse chamado deus por todas as nações que lhe conquistasse o poder de Holofernes.
+
+[[v18-3-14]]
+
+^<<v18-3-14,14>>^ Ele, atravessando a Síria de Sobal, toda a Apameia e toda a Mesopotâmia, chegou aos idumeus, na terra de Gabaá.
+
+[[v18-3-15]]
+
+^<<v18-3-15,15>>^ Depois de haver conquistado suas cidades, fez ali uma parada de trinta dias, durante os quais juntou todas as forças de seu exército.
+
+'''
+
+xref:018-judite/018-judite-002.adoc#v18-2-0[&#60; Capítulo Anterior] | <<v18-3-0,Topo>> | xref:018-judite/018-judite-004.adoc#v18-4-0[Próximo Capítulo &#62;]

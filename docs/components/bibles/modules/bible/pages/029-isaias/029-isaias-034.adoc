@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v29-34-0]]
+=== Isaías, 34
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 34 descreve o julgamento de Deus sobre as nações, especialmente Edom, por causa da sua rebelião contra Ele. O capítulo enfatiza a destruição total e a desolação que virão sobre essas nações ímpias, como resultado da justiça divina. Abaixo estão cinco versículos relacionados com os temas abordados em Isaías 34:
+* Jeremias 49:17: "Assim diz o Senhor dos Exércitos: Eis que cortarei a Babilônia e dela farei um objeto de espanto e de escárnio; vazia ficará para sempre." Este versículo fala sobre a queda da Babilônia, uma das nações que receberam o julgamento de Deus.
+* Naum 1:8: "Com uma inundação que passará, ele porá fim ao lugar dela; as trevas perseguirão os seus inimigos." Naum profetiza a destruição de Nínive, uma cidade ímpia que foi julgada por Deus por causa de sua crueldade e pecado.
+* Ezequiel 25:13: "Por isso diz o Senhor Deus: Também estenderei a minha mão sobre Edom, e tirarei dela homens e animais; e a tornarei em deserto; de Temã até Dedã cairão à espada." Ezequiel profetiza a destruição de Edom, uma nação vizinha de Israel que se rebelou contra Deus e foi julgada por Ele.
+* Joel 3:19: "O Egito se tornará em desolação, e Edom em deserto assolado, por causa da violência contra os filhos de Judá, cujo sangue derramaram na sua terra." Joel profetiza a destruição de Edom por causa da sua violência contra os filhos de Judá.
+* Amós 1:11: "Assim diz o Senhor: Por três transgressões de Edom, e por quatro, não retirarei o castigo, porque perseguiu com espada a seu irmão, e violou as suas entranhas; e a sua ira despedaçou perpetuamente, e conservou a sua indignação para sempre." Amós denuncia Edom por sua crueldade e violência contra o povo de Israel, e profetiza que Deus irá julgá-los por seus pecados.
+****
+
+[[v29-34-1]]
+
+^<<v29-34-1,1>>^ Aproximai-vos, nações, para ouvir, e vós, povos, estai atentos! Que ouça a terra e tudo o que ela contém, o mundo e tudo o que ele produz,
+
+[[v29-34-2]]
+
+^<<v29-34-2,2>>^ porque o Senhor está indignado contra todas as nações e enfurecido contra todas as suas tropas. Ele as devotou ao massacre e as destinou ao morticínio.
+
+[[v29-34-3]]
+
+^<<v29-34-3,3>>^ Os que forem mortos serão atirados sem sepultura, e o mau cheiro exalará de seus cadáveres; os montes serão banhados de sangue,
+
+[[v29-34-4]]
+
+^<<v29-34-4,4>>^ que escorrerá de todas as colinas; os céus se enrolarão como um livro, e todo o seu exército tombará, como cai da vinha a folha morta, como deixa a figueira o verdor emurchecido,^&#42;1^
+
+[[v29-34-5]]
+
+^<<v29-34-5,5>>^ porque, nos céus, está inebriada de cólera a espada do Senhor. Ela vai precipitar-se sobre Edom, sobre o povo que ele destinou ao castigo.^&#42;1^
+
+[[v29-34-6]]
+
+^<<v29-34-6,6>>^ A espada do Senhor está coberta de sangue, está impregnada de gordura, do sangue dos cordeiros e dos bodes, da gordura dos rins dos carneiros. Porque há um sacrifício ao Senhor em Bosra, uma grande carnificina na terra de Edom;
+
+[[v29-34-7]]
+
+^<<v29-34-7,7>>^ em vez de búfalos, os povos aí tombarão, uma multidão de robustos guerreiros, em lugar de touros. Sua terra se embeberá de sangue, o chão se impregnará de gordura.
+
+[[v29-34-8]]
+
+^<<v29-34-8,8>>^ Porque é para o Senhor um dia de vingança, um ano de desforra para o defensor de Sião.
+
+[[v29-34-9]]
+
+^<<v29-34-9,9>>^ As torrentes da terra se mudarão em pez, e sua terra em enxofre; o chão se tornará pez que arderá^&#42;1^
+
+[[v29-34-10]]
+
+^<<v29-34-10,10>>^ dia e noite; jamais se extinguirá, e sua fumaça subirá de geração em geração; (ela) será transformada em deserto por toda a eternidade, e jamais alguém passará por ali.
+
+[[v29-34-11]]
+
+^<<v29-34-11,11>>^ Será domínio do mocho e da garça, a coruja e o corvo a habitarão. O Senhor estenderá sobre ela o cordel da destruição, e o fio de prumo da desolação.
+
+[[v29-34-12]]
+
+^<<v29-34-12,12>>^ Os sátiros farão aí sua morada..., seus covis. Nela não mais se falará em rei, e todos os seus príncipes terão desaparecido.^&#42;1^
+
+[[v29-34-13]]
+
+^<<v29-34-13,13>>^ Os espinhos crescerão em seus palácios, as urtigas e os cardos, em suas fortalezas; será o covil dos chacais e o parque das avestruzes.^&#42;1^
+
+[[v29-34-14]]
+
+^<<v29-34-14,14>>^ Nela se encontrarão cães e gatos selvagens, e os sátiros chamarão uns pelos outros; o espectro noturno frequentará esses lugares e neles encontrará o seu repouso.^&#42;1^
+
+[[v29-34-15]]
+
+^<<v29-34-15,15>>^ A serpente lá fará seu ninho e porá ovos, os chocará e fará sair da casca os filhotes; lá também se ajuntarão os abutres, nenhum estará ausente.
+
+[[v29-34-16]]
+
+^<<v29-34-16,16>>^ Procurai no livro do Senhor e lede: nem um só deles faltará, porque é a boca do Senhor que os mandou, e seu espírito que os ajuntou.^&#42;1^
+
+[[v29-34-17]]
+
+^<<v29-34-17,17>>^ Foi ele que lhes designou seu quinhão, foi sua mão que lhes repartiu a terra com o cordel. Eles a possuirão para sempre, a habitarão de geração em geração.
+
+'''
+
+xref:029-isaias/029-isaias-033.adoc#v29-33-0[&#60; Capítulo Anterior] | <<v29-34-0,Topo>> | xref:029-isaias/029-isaias-035.adoc#v29-35-0[Próximo Capítulo &#62;]

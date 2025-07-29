@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v17-3-0]]
+=== Tobias, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 3 de Tobias relata a oração de Sara, filha de Raguel, que se encontrava aflita por causa de um demônio que a perseguia e aterrorizava, fazendo com que ela desejasse a morte. Tobias, um parente de Sara, é enviado para curá-la e acabar com o mal que a assombrava. Abaixo estão cinco versículos relacionados com os temas abordados em Tobias 3:
+* Tobias 6:16: "Então, Rafael chamou os dois e lhes disse: 'Bendizei a Deus e proclamai diante de todos os viventes as boas obras que ele fez por vós, dando-lhe graças em alta voz". Este versículo destaca a importância de agradecer a Deus por suas bênçãos, algo que é feito durante toda a oração de Sara.
+* 2 Coríntios 12:7: "E para que não me ensoberbecesse com a grandeza das revelações, foi-me posto um espinho na carne, um mensageiro de Satanás, para me esbofetear, a fim de que não me exalte demais". Esse versículo fala sobre o apóstolo Paulo, que também enfrentou um mensageiro de Satanás, como Sara, e como ele orou para que Deus o ajudasse.
+* Tiago 4:7: "Sujeitai-vos, pois, a Deus; mas resisti ao diabo, e ele fugirá de vós". Esse versículo encoraja os cristãos a resistirem ao diabo e a confiarem em Deus para ajudá-los a superar suas tentações e provações.
+* 1 Pedro 5:8-9: "Sede sóbrios e vigilantes, porque o diabo, vosso adversário, anda em derredor, bramando como leão, buscando a quem possa tragar; ao qual resisti firmes na fé, sabendo que as mesmas aflições se cumprem entre os vossos irmãos no mundo". Este versículo fala sobre a necessidade de estar alerta e resistir ao diabo, pois ele está sempre à procura de alguém para tentar.
+* Efésios 6:12: "Porque não temos que lutar contra a carne e o sangue, mas, sim, contra os principados, contra as potestades, contra os príncipes das trevas deste século, contra as hostes espirituais da maldade, nos lugares celestiais". Este versículo fala sobre a natureza espiritual da batalha que os cristãos enfrentam, e como eles devem estar equipados com as armaduras de Deus para resistir às investidas do diabo.
+****
+
+[[v17-3-1]]
+
+^<<v17-3-1,1>>^ Tobit, então, suspirando em meio de suas lágrimas, pôs-se a orar:
+
+[[v17-3-2]]
+
+^<<v17-3-2,2>>^ “Vós sois justo, Senhor! Vossos juízos são cheios de equidade e vossa conduta é toda misericórdia, verdade e justiça.
+
+[[v17-3-3]]
+
+^<<v17-3-3,3>>^ Lembrai-vos, pois, de mim, Senhor! Não me castigueis por meus pecados e não guardeis a memória de minhas ofensas, nem das de meus antepassados.
+
+[[v17-3-4]]
+
+^<<v17-3-4,4>>^ Se fomos entregues à pilhagem, ao cativeiro e à morte e se nos temos tornado objeto de mofa e de riso para os pagãos entre os quais nos dispersastes, é porque não obedecemos às vossas leis.
+
+[[v17-3-5]]
+
+^<<v17-3-5,5>>^ Agora os vossos castigos são grandes, porque não procedemos segundo os vossos preceitos e temos sido leais para convosco.
+
+[[v17-3-6]]
+
+^<<v17-3-6,6>>^ Tratai-me, pois, ó Senhor, como vos aprouver; mas recebei a minha alma em paz, porque me é melhor morrer que viver”.
+
+[[v17-3-7]]
+
+^<<v17-3-7,7>>^ Aconteceu que, precisamente naquele dia, Sara, filha de Raguel, em Ecbátana, na Média, teve também de suportar os ultrajes de uma serva de seu pai.
+
+[[v17-3-8]]
+
+^<<v17-3-8,8>>^ Ela tinha sido dada sucessivamente a sete maridos. Mas logo que eles se aproximavam dela, um demônio chamado Asmodeu os matava.^&#42;1^
+
+[[v17-3-9]]
+
+^<<v17-3-9,9>>^ Tendo Sara repreendido a jovem criada por alguma falta, esta respondeu-lhe: “Não vejamos jamais filho nem filha nascidos de ti sobre a terra! Foste tu que assassinaste os teus maridos.
+
+[[v17-3-10]]
+
+^<<v17-3-10,10>>^ Queres, porventura, matar-me, como mataste todos os sete?”. Ouvindo isso, Sara subiu ao seu quarto e lá ficou três dias completos, sem comer nem beber.
+
+[[v17-3-11]]
+
+^<<v17-3-11,11>>^ E, orando com fervor, ela suplicava a Deus, chorando, que a livrasse dessa humilhação.
+
+[[v17-3-12]]
+
+^<<v17-3-12,12>>^ Ao terceiro dia, acabou sua oração, bendizendo o Senhor desta forma:
+
+[[v17-3-13]]
+
+^<<v17-3-13,13>>^ “Deus de nossos pais, que vosso nome seja bendito. Vós, que depois de vos irardes, usais de misericórdia e no meio da tribulação perdoais os pecados aos que vos invocam.
+
+[[v17-3-14]]
+
+^<<v17-3-14,14>>^ Volto-me para vós, ó Senhor, para vós levanto os meus olhos.
+
+[[v17-3-15]]
+
+^<<v17-3-15,15>>^ Rogo-vos, Senhor, que me livreis dos laços deste opróbrio, ou então que me tireis de sobre a terra!
+
+[[v17-3-16]]
+
+^<<v17-3-16,16>>^ Vós sabeis que eu nunca desejei homem algum e que guardei minha alma pura de todo o mau desejo.
+
+[[v17-3-17]]
+
+^<<v17-3-17,17>>^ Nunca frequentei lugares de prazer nem tive comércio com pessoas levianas.
+
+[[v17-3-18]]
+
+^<<v17-3-18,18>>^ E se consenti em casar-me, foi por vosso temor e não por paixão.
+
+[[v17-3-19]]
+
+^<<v17-3-19,19>>^ Foi, sem dúvida, porque eu não era digna deles; ou, talvez, não eram eles dignos de mim; ou, então, me destinastes a outro homem.
+
+[[v17-3-20]]
+
+^<<v17-3-20,20>>^ Não está nas mãos do homem penetrar os vossos desígnios.
+
+[[v17-3-21]]
+
+^<<v17-3-21,21>>^ Mas todo aquele que vos honra tem a certeza de que sua vida, se for provada, será coroada; que depois da tribulação haverá a libertação e que, se houver castigo, haverá também acesso à vossa misericórdia.
+
+[[v17-3-22]]
+
+^<<v17-3-22,22>>^ Porque vós não vos comprazeis em nossa perda: após a tempestade, mandais a bonança; depois das lágrimas e dos gemidos, derramais a alegria.
+
+[[v17-3-23]]
+
+^<<v17-3-23,23>>^ Ó Deus de Israel, que o vosso nome seja eternamente bendito!”.
+
+[[v17-3-24]]
+
+^<<v17-3-24,24>>^ Essas duas orações foram ouvidas ao mesmo tempo, diante da glória do Deus Altíssimo;
+
+[[v17-3-25]]
+
+^<<v17-3-25,25>>^ e um santo anjo do Senhor, Rafael, foi enviado para curar Tobit e Sara, cujas preces tinham sido simultaneamente dirigidas ao Senhor.^&#42;1^
+
+'''
+
+xref:017-tobias/017-tobias-002.adoc#v17-2-0[&#60; Capítulo Anterior] | <<v17-3-0,Topo>> | xref:017-tobias/017-tobias-004.adoc#v17-4-0[Próximo Capítulo &#62;]

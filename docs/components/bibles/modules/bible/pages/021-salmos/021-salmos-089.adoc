@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v21-89-0]]
+=== Salmos, 89
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 89 é um poema que celebra a fidelidade de Deus para com o seu povo, a aliança que Ele fez com Davi e a promessa de que um descendente dele sempre governaria em Israel. O salmista, no entanto, parece questionar a validade dessa promessa diante das dificuldades enfrentadas por Israel. Abaixo estão cinco versículos que abordam temas relacionados ao Salmo 89.
+* Isaías 55:3: "Inclinai os ouvidos, e vinde a mim; ouvi, e a vossa alma viverá; porque convosco farei uma aliança perpétua, dando-vos as firmes beneficências de Davi." Esse versículo fala sobre a aliança que Deus fez com Davi e que é mencionada no Salmo 89. Aqui, Deus convida o povo a se achegar a Ele e a ouvir a Sua palavra, que traz vida e bênçãos.
+* 2 Samuel 7:16: "E a tua casa e o teu reino serão firmados para sempre diante de ti; teu trono será estabelecido para sempre." Esse versículo é a promessa que Deus fez a Davi, mencionada no Salmo 89, de que um descendente dele sempre governaria em Israel.
+* Jeremias 33:20-21: "Assim diz o Senhor: Se puderdes invalidar o meu concerto com o dia, e o meu concerto com a noite, de tal modo que não haja dia nem noite a seu tempo, também se poderá invalidar o meu concerto com Davi, meu servo, para que não tenha filho que reine no seu trono; e com os levitas, sacerdotes, meus ministros." Nesses versículos, Deus reafirma a promessa que fez a Davi, de que um descendente dele sempre governaria em Israel, e diz que essa promessa é tão certa quanto o ciclo do dia e da noite.
+* Salmos 33:4: "Porque a palavra do Senhor é reta, e todas as suas obras são fiéis." Esse versículo ressalta a fidelidade de Deus, tema central do Salmo 89. Assim como a palavra de Deus é reta e fiel, Ele também é fiel em cumprir as Suas promessas.
+* Isaías 54:10: "Porque os montes se desviarão, e os outeiros tremerão; mas a minha benignidade não se apartará de ti, e o concerto da minha paz não mudará, diz o Senhor que se compadece de ti." Esse versículo fala sobre a fidelidade de Deus, mesmo diante das mudanças e instabilidades da vida. A promessa de Deus a Davi, mencionada no Salmo 89, é um exemplo dessa fidelidade.
+****
+
+[[v21-89-1]]
+
+^<<v21-89-1,1>>^ Prece de Moisés, homem de Deus. Senhor, fostes nosso refúgio de geração em geração.^&#42;1^
+
+[[v21-89-2]]
+
+^<<v21-89-2,2>>^ Antes que se formassem as montanhas, a terra e o universo, desde toda a eternidade vós sois Deus.
+
+[[v21-89-3]]
+
+^<<v21-89-3,3>>^ Reduzis o homem à poeira, e dizeis: “Filhos dos homens, retornai ao pó”,^&#42;1^
+
+[[v21-89-4]]
+
+^<<v21-89-4,4>>^ porque mil anos, diante de vós, são como o dia de ontem que já passou, como uma só vigília da noite.
+
+[[v21-89-5]]
+
+^<<v21-89-5,5>>^ Vós os arrebatais: eles são como um sonho da manhã, como a erva virente,
+
+[[v21-89-6]]
+
+^<<v21-89-6,6>>^ que viceja e floresce de manhã, mas que à tarde é cortada e seca.
+
+[[v21-89-7]]
+
+^<<v21-89-7,7>>^ Sim, somos consumidos pela vossa severidade, e acabrunhados pela vossa cólera.
+
+[[v21-89-8]]
+
+^<<v21-89-8,8>>^ Colocastes diante de vós as nossas culpas, e nossos pecados ocultos à vista de vossos olhos.
+
+[[v21-89-9]]
+
+^<<v21-89-9,9>>^ Ante a vossa ira, passaram todos os nossos dias. Nossos anos se dissiparam como um sopro.
+
+[[v21-89-10]]
+
+^<<v21-89-10,10>>^ Setenta anos é o total de nossa vida, os mais fortes chegam aos oitenta. A maior parte deles, sofrimento e vaidade, porque o tempo passa depressa e desaparecemos.
+
+[[v21-89-11]]
+
+^<<v21-89-11,11>>^ Quem avalia a força de vossa cólera, e mede a vossa ira com o temor que vos é devido?
+
+[[v21-89-12]]
+
+^<<v21-89-12,12>>^ Ensinai-nos a bem contar os nossos dias, para alcançarmos o saber do coração.^&#42;1^
+
+[[v21-89-13]]
+
+^<<v21-89-13,13>>^ Voltai-vos, Senhor – quanto tempo tardareis? E sede propício a vossos servos.
+
+[[v21-89-14]]
+
+^<<v21-89-14,14>>^ Cumulai-nos desde a manhã com as vossas misericórdias, para exultarmos alegres em toda a nossa vida.
+
+[[v21-89-15]]
+
+^<<v21-89-15,15>>^ Consolai-nos tantos dias quantos nos afligistes, tantos anos quantos nós sofremos.
+
+[[v21-89-16]]
+
+^<<v21-89-16,16>>^ Manifestai vossa obra aos vossos servidores, e a vossa glória aos seus filhos.
+
+[[v21-89-17]]
+
+^<<v21-89-17,17>>^ Que o beneplácito do Senhor, nosso Deus, repouse sobre nós. Favorecei as obras de nossas mãos. Sim, fazei prosperar o trabalho de nossas mãos.
+
+'''
+
+xref:021-salmos/021-salmos-088.adoc#v21-88-0[&#60; Capítulo Anterior] | <<v21-89-0,Topo>> | xref:021-salmos/021-salmos-090.adoc#v21-90-0[Próximo Capítulo &#62;]

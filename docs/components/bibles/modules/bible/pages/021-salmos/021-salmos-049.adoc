@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v21-49-0]]
+=== Salmos, 49
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Salmo 49 aborda a sabedoria e a incerteza da riqueza e da mortalidade humana. O salmista nos convida a ouvir seus conselhos e refletir sobre a transitoriedade dos bens materiais e a importância de buscar a verdadeira riqueza, que é encontrada em Deus. Abaixo estão cinco versículos relacionados a esses temas:
+* Provérbios 11:4: "Não servirão de nada as riquezas no dia da ira, mas a justiça livra da morte." Este verso destaca a importância da justiça e da retidão, que são mais valiosas do que a riqueza.
+* Eclesiastes 5:10: "Quem ama o dinheiro jamais terá o suficiente; quem ama as riquezas jamais ficará satisfeito com os seus rendimentos. Isso também não faz sentido." Este verso adverte sobre a ilusão de que a riqueza pode trazer felicidade e realização pessoal.
+* Mateus 16:26: "De que adianta alguém ganhar o mundo inteiro e perder a sua alma? Ou, o que alguém poderia dar em troca de sua alma?" Este verso nos lembra que a verdadeira riqueza é encontrada em nossa relação com Deus e em nossa vida eterna com Ele.
+* Tiago 1:10-11: "Mas o rico deve orgulhar-se em sua humilhação, pois ele passará como a flor do campo. O sol se levanta, e o sol se põe, e com pressa volta ao lugar de onde se levanta." Este verso nos lembra que a riqueza e a posição social são transitórias e que devemos encontrar nossa alegria e satisfação em Deus.
+* 1 Timóteo 6:17-19: "Ordene aos que são ricos no presente mundo que não sejam arrogantes nem ponham sua esperança na incerteza da riqueza, mas em Deus, que nos dá ricamente todas as coisas para a nossa satisfação. Ordene-lhes que façam o bem, que sejam ricos em boas obras, generosos e prontos a compartilhar." Este verso nos encoraja a usar nossa riqueza para ajudar os outros e para a glória de Deus, ao invés de nos orgulharmos dela ou dependermos dela para nossa segurança e satisfação.
+****
+
+[[v21-49-1]]
+
+^<<v21-49-1,1>>^ Salmo de Asaf. Falou o Senhor Deus e convocou toda a terra, desde o levante até o poente.^&#42;1^
+
+[[v21-49-2]]
+
+^<<v21-49-2,2>>^ Do alto de Sião, ideal de beleza, Deus refulgiu:
+
+[[v21-49-3]]
+
+^<<v21-49-3,3>>^ nosso Deus vem vindo e não se calará. Um fogo abrasador o precede; ao seu redor, furiosa tempestade.
+
+[[v21-49-4]]
+
+^<<v21-49-4,4>>^ Do alto ele convoca os céus e a terra para julgar seu povo:
+
+[[v21-49-5]]
+
+^<<v21-49-5,5>>^ “Reuni os meus fiéis, que selaram comigo aliança pelo sacrifício”.
+
+[[v21-49-6]]
+
+^<<v21-49-6,6>>^ E os céus proclamam sua justiça, porque é o próprio Deus quem vai julgar.
+
+[[v21-49-7]]
+
+^<<v21-49-7,7>>^ “Escutai, ó meu povo, que eu vou falar: Israel, vou testemunhar contra ti. Deus, o teu Deus, sou eu.
+
+[[v21-49-8]]
+
+^<<v21-49-8,8>>^ Não te repreendo pelos teus sacrifícios, pois teus holocaustos estão sempre diante de mim.
+
+[[v21-49-9]]
+
+^<<v21-49-9,9>>^ Não preciso do novilho do teu estábulo, nem dos cabritos de teus apriscos,
+
+[[v21-49-10]]
+
+^<<v21-49-10,10>>^ pois minhas são todas as feras das matas; há milhares de animais nos meus montes.
+
+[[v21-49-11]]
+
+^<<v21-49-11,11>>^ Conheço todos os pássaros do céu, e tudo o que se move nos campos.
+
+[[v21-49-12]]
+
+^<<v21-49-12,12>>^ Se tivesse fome, não precisava dizer-te, porque minha é a terra e tudo o que ela contém.
+
+[[v21-49-13]]
+
+^<<v21-49-13,13>>^ Porventura preciso comer carne de touros, ou beber sangue de cabrito?
+
+[[v21-49-14]]
+
+^<<v21-49-14,14>>^ Oferece, antes, a Deus um sacrifício de louvor e cumpre teus votos para com o Altíssimo.^&#42;1^
+
+[[v21-49-15]]
+
+^<<v21-49-15,15>>^ Invoca-me nos dias de tribulação, e eu te livrarei e me darás glória.”
+
+[[v21-49-16]]
+
+^<<v21-49-16,16>>^ Ao pecador, porém, Deus diz: “Por que recitas os meus mandamentos, e tens na boca as palavras da minha aliança?
+
+[[v21-49-17]]
+
+^<<v21-49-17,17>>^ Tu que aborreces meus ensinamentos e rejeitas minhas palavras?
+
+[[v21-49-18]]
+
+^<<v21-49-18,18>>^ Se vês um ladrão, te ajuntas a ele, e com adúlteros te associas.
+
+[[v21-49-19]]
+
+^<<v21-49-19,19>>^ Dás plena licença à tua boca para o mal e tua língua trama fraudes.
+
+[[v21-49-20]]
+
+^<<v21-49-20,20>>^ Tu te assentas para falar contra teu irmão, cobres de calúnias o filho de tua própria mãe.
+
+[[v21-49-21]]
+
+^<<v21-49-21,21>>^ Eis o que fazes, e eu hei de me calar? Pensas que eu sou igual a ti? Não, mas vou te repreender e te lançar em rosto os teus pecados”.
+
+[[v21-49-22]]
+
+^<<v21-49-22,22>>^ Compreendei bem isto, vós que vos esqueceis de Deus: não suceda que eu vos arrebate e não haja quem vos salve.
+
+[[v21-49-23]]
+
+^<<v21-49-23,23>>^ Honra-me quem oferece um sacrifício de louvor; ao que procede retamente, a este eu mostrarei a salvação de Deus.
+
+'''
+
+xref:021-salmos/021-salmos-048.adoc#v21-48-0[&#60; Capítulo Anterior] | <<v21-49-0,Topo>> | xref:021-salmos/021-salmos-050.adoc#v21-50-0[Próximo Capítulo &#62;]

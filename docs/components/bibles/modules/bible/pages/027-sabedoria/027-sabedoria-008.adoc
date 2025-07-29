@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v27-8-0]]
+=== Sabedoria, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 8 do Livro da Sabedoria discorre sobre a importância da sabedoria e como ela pode transformar a vida de uma pessoa. É dito que a sabedoria é mais valiosa do que qualquer tesouro material e que aqueles que a possuem são abençoados. Além disso, é destacado que a sabedoria é um dom divino e que deve ser buscada com todo empenho e diligência. A seguir estão cinco versículos relacionados aos temas abordados em Sabedoria 8:
+* Provérbios 8:11: "Porque melhor é a sabedoria do que as jóias, e de tudo o que se deseja nada se pode comparar com ela." Este versículo destaca a importância da sabedoria, que é mais valiosa do que qualquer objeto material.
+* Provérbios 16:16: "Quanto melhor é adquirir a sabedoria do que o ouro! e quanto mais excelente, adquirir a prudência do que a prata!" Este versículo reforça a ideia de que a sabedoria é mais valiosa do que qualquer riqueza material.
+* Provérbios 4:7: "A sabedoria é a principal coisa; adquire pois a sabedoria, emprega tudo o que possuis na aquisição de entendimento." Este versículo ressalta que a sabedoria é a coisa mais importante que alguém pode adquirir e que deve ser buscada com todo empenho.
+* Tiago 1:5: "E se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, e não o lança em rosto; e ser-lhe-á dada." Este versículo destaca que a sabedoria é um dom divino e que aqueles que a buscam devem pedi-la a Deus.
+* Provérbios 9:10: "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é prudência." Este versículo mostra que a sabedoria tem uma conexão direta com Deus e que o temor do Senhor é o início da sabedoria.
+****
+
+[[v27-8-1]]
+
+^<<v27-8-1,1>>^ Ela estende seu vigor de uma extremidade do mundo à outra e governa todas as coisas com felicidade.
+
+[[v27-8-2]]
+
+^<<v27-8-2,2>>^ Eu a amei e procurei desde minha juventude, esforcei-me por tê-la por esposa e me enamorei de seus encantos.^&#42;1^
+
+[[v27-8-3]]
+
+^<<v27-8-3,3>>^ Ela mostra a nobreza de sua origem em conviver com Deus, ela é amada pelo Senhor de todas as coisas.
+
+[[v27-8-4]]
+
+^<<v27-8-4,4>>^ Ela é iniciada na ciência de Deus e, por sua escolha, decide de suas obras.^&#42;1^
+
+[[v27-8-5]]
+
+^<<v27-8-5,5>>^ Se a riqueza é um bem desejável na vida, que há de mais rico que a sabedoria que tudo criou?
+
+[[v27-8-6]]
+
+^<<v27-8-6,6>>^ Se a inteligência do homem consegue operar, o que, então, mais que a sabedoria, é artífice dos seres?
+
+[[v27-8-7]]
+
+^<<v27-8-7,7>>^ E, se alguém ama a justiça, seus trabalhos são virtudes; ela ensina a temperança e a prudência, a justiça e a força: não há ninguém que seja mais útil aos homens na vida.
+
+[[v27-8-8]]
+
+^<<v27-8-8,8>>^ Se alguém deseja uma vasta ciência, ela sabe o passado e conjetura o futuro; conhece as sutilezas oratórias e revolve os enigmas; prevê os sinais e os prodígios, e o que tem que acontecer no decurso das idades e dos tempos.
+
+[[v27-8-9]]
+
+^<<v27-8-9,9>>^ Portanto, resolvi tomá-la por companheira de minha vida, cuidando que ela será para mim uma boa conselheira, e minha consolação nos cuidados e na tristeza.^&#42;1^
+
+[[v27-8-10]]
+
+^<<v27-8-10,10>>^ Graças a ela, receberei as honras das multidões, e, embora jovem como sou, o respeito dos anciãos.
+
+[[v27-8-11]]
+
+^<<v27-8-11,11>>^ Reconhecerão a penetração de meu julgamento, e excitarei a admiração dos reis.^&#42;1^
+
+[[v27-8-12]]
+
+^<<v27-8-12,12>>^ Se me calo, esperarão que eu fale; se falo, estarão atentos; e se prolongo meu discurso, levarão a mão à boca.^&#42;1^
+
+[[v27-8-13]]
+
+^<<v27-8-13,13>>^ Por meio dela obterei a imortalidade, e deixarei à posteridade uma lembrança eterna.
+
+[[v27-8-14]]
+
+^<<v27-8-14,14>>^ Governarei povos e as nações me serão submissas.
+
+[[v27-8-15]]
+
+^<<v27-8-15,15>>^ Príncipes temíveis estarão cheios de medo ao ouvirem falar de mim; eu me mostrarei bom para com o povo e valoroso no combate.
+
+[[v27-8-16]]
+
+^<<v27-8-16,16>>^ Recolhido em minha casa, repousarei junto dela, porque a sua convivência não tem nada de desagradável, e sua intimidade nada de fastidioso; ela traz consigo, pelo contrário, o contentamento e a alegria!^&#42;1^
+
+[[v27-8-17]]
+
+^<<v27-8-17,17>>^ Meditando comigo mesmo nesses pensamentos, e considerando em meu coração que a imortalidade se encontra na aliança com a sabedoria,
+
+[[v27-8-18]]
+
+^<<v27-8-18,18>>^ a alegria perfeita na sua amizade, contínua riqueza na sua atividade, inteligência nas lições de seus entretenimentos familiares, e glória na comunicação de suas sentenças, saí à sua procura, a fim de possuí-la em mim.
+
+[[v27-8-19]]
+
+^<<v27-8-19,19>>^ Eu era um menino vigoroso, dotado de uma alma excelente,
+
+[[v27-8-20]]
+
+^<<v27-8-20,20>>^ ou antes, como era bom, eu vim a um corpo intato;^&#42;1^
+
+[[v27-8-21]]
+
+^<<v27-8-21,21>>^ mas, consciente de não poder possuir a sabedoria, a não ser por dom de Deus, e já era inteligência o saber de onde vem o dom, eu me voltei para o Senhor, e invoquei-o, dizendo do fundo do coração:
+
+'''
+
+xref:027-sabedoria/027-sabedoria-007.adoc#v27-7-0[&#60; Capítulo Anterior] | <<v27-8-0,Topo>> | xref:027-sabedoria/027-sabedoria-009.adoc#v27-9-0[Próximo Capítulo &#62;]

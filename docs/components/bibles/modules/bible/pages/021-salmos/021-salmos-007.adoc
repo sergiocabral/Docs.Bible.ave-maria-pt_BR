@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v21-7-0]]
+=== Salmos, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 7 é uma oração de Davi, na qual ele clama a Deus para que o livre de seus inimigos. Ele expressa sua confiança na justiça de Deus e pede que Ele julgue sua causa. Os versículos a seguir estão relacionados com os temas abordados nesse salmo:
+* Salmo 3:4 - "Com a minha voz clamo ao Senhor, e Ele do seu santo monte me responde." Assim como Davi clama a Deus em sua aflição, o salmista aqui também expressa sua confiança na resposta de Deus ao seu clamor.
+* Salmo 17:6 - "Eu te invoquei, ó Deus, pois me respondes; inclina para mim os teus ouvidos, e ouve a minha fala." Davi pede a Deus que ouça sua causa em meio à perseguição, e aqui o salmista faz o mesmo.
+* Salmo 28:1 - "A ti, ó Senhor, clamo; tu és a minha rocha; não te emudeças para comigo; não aconteça, calando-te tu a meu respeito, que eu fique semelhante aos que descem à cova." Assim como Davi confia em Deus como sua rocha e salvação, o salmista clama a Deus para que não se cale diante de suas aflições.
+* Salmo 35:23 - "Desperta, e acorda para a minha defesa, para a minha causa, Deus meu e Senhor meu!" Davi pede a Deus que desperte para julgar sua causa e defender sua justiça, e aqui o salmista faz o mesmo.
+* Salmo 55:16-17 - "Quanto a mim, invocarei a Deus, e o Senhor me salvará. De tarde, e de manhã, e ao meio-dia, orarei; e clamarei, e ele ouvirá a minha voz." Davi clama a Deus em todo o tempo, e aqui o salmista expressa sua intenção de fazer o mesmo para ser ouvido por Deus em sua causa.
+****
+
+[[v21-7-1]]
+
+^<<v21-7-1,1>>^ Lamentação de Davi, que cantou em honra do Senhor, por causa de Cus, o benjaminita.^&#42;1^
+
+[[v21-7-2]]
+
+^<<v21-7-2,2>>^ Senhor, ó meu Deus, é em vós que eu busco meu refúgio; salvai-me de todos os que me perseguem e livrai-me,
+
+[[v21-7-3]]
+
+^<<v21-7-3,3>>^ para que o inimigo não me arrebate como um leão, e me dilacere sem que ninguém me livre.
+
+[[v21-7-4]]
+
+^<<v21-7-4,4>>^ Senhor, ó meu Deus, se acaso fiz isso, se minhas mãos cometeram a iniquidade,
+
+[[v21-7-5]]
+
+^<<v21-7-5,5>>^ se fiz mal ao homem pacífico, se oprimi os que me perseguiam sem motivo,
+
+[[v21-7-6]]
+
+^<<v21-7-6,6>>^ que o inimigo me persiga e me apanhe, que ele me pise vivo ao solo e atire a minha honra ao pó.
+
+[[v21-7-7]]
+
+^<<v21-7-7,7>>^ Levantai-vos, Senhor, na vossa cólera; erguei-vos contra o furor dos que me oprimem, erguei-vos para me defender numa causa que tomastes a vós.
+
+[[v21-7-8]]
+
+^<<v21-7-8,8>>^ Que a assembleia das nações vos circunde, presidi-a de um trono elevado.
+
+[[v21-7-9]]
+
+^<<v21-7-9,9>>^ O Senhor é o juiz dos povos. Fazei-me justiça, Senhor, segundo o meu justo direito, conforme minha integridade.
+
+[[v21-7-10]]
+
+^<<v21-7-10,10>>^ Ponde fim à malícia dos ímpios e sustentai o direito, ó Deus de justiça, que sondais os corações e os rins.^&#42;1^
+
+[[v21-7-11]]
+
+^<<v21-7-11,11>>^ O meu escudo é Deus, ele salva os que têm o coração reto.
+
+[[v21-7-12]]
+
+^<<v21-7-12,12>>^ Deus é um juiz íntegro, um Deus perpetuamente vingador.
+
+[[v21-7-13]]
+
+^<<v21-7-13,13>>^ Se eles não se corrigem, ele afiará a espada, entesará o arco e os visará.
+
+[[v21-7-14]]
+
+^<<v21-7-14,14>>^ Contra os ímpios apresentará dardos mortíferos, lançará flechas inflamadas.
+
+[[v21-7-15]]
+
+^<<v21-7-15,15>>^ Eis que o mau está em dores de parto, concebe a malícia e dá à luz a mentira.^&#42;1^
+
+[[v21-7-16]]
+
+^<<v21-7-16,16>>^ Abre um fosso profundo, mas cai no abismo por ele mesmo cavado.
+
+[[v21-7-17]]
+
+^<<v21-7-17,17>>^ Sua malícia recairá em sua própria cabeça, e sua violência se voltará contra a sua fronte.
+
+[[v21-7-18]]
+
+^<<v21-7-18,18>>^ Eu, porém, glorificarei o Senhor por sua justiça, e salmodiarei o nome do Senhor, o Altíssimo.
+
+'''
+
+xref:021-salmos/021-salmos-006.adoc#v21-6-0[&#60; Capítulo Anterior] | <<v21-7-0,Topo>> | xref:021-salmos/021-salmos-008.adoc#v21-8-0[Próximo Capítulo &#62;]

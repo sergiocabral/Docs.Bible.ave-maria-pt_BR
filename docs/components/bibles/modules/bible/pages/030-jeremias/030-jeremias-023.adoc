@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v30-23-0]]
+=== Jeremias, 23
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 23 de Jeremias apresenta uma série de profecias contra os líderes religiosos de Judá, que haviam se desviado do caminho do Senhor e levado o povo a se afastar da verdadeira adoração. O capítulo também fala sobre a promessa de Deus de enviar um líder justo para governar o seu povo. Abaixo estão cinco versículos relacionados aos temas abordados em Jeremias 23:
+* Isaías 55:6: "Buscai o Senhor enquanto se pode achar, invocai-o enquanto está perto." Este versículo enfatiza a importância de buscar o Senhor enquanto Ele ainda pode ser encontrado, antes que seja tarde demais. Os líderes religiosos de Judá negligenciaram essa busca e levaram o povo a seguir falsos deuses.
+* Ezequiel 34:2: "Ai dos pastores de Israel que se apascentam a si mesmos! Não devem os pastores apascentar as ovelhas?" Este versículo condena os líderes que se preocupam apenas com seus próprios interesses e não cuidam do povo que lhes foi confiado. Essa crítica é semelhante à que Jeremias faz aos líderes religiosos de Judá.
+* Miquéias 3:11: "Os seus chefes julgam por presentes, os seus sacerdotes ensinam por interesse, e os seus profetas adivinham por dinheiro; e ainda se encostam ao Senhor, dizendo: Não está o Senhor entre nós? Nenhum mal nos sobrevirá." Este versículo denuncia a corrupção dos líderes religiosos que se vendem por dinheiro e não se importam com a verdadeira adoração a Deus.
+* Zacarias 9:9: "Alegra-te muito, ó filha de Sião; exulta, ó filha de Jerusalém; eis que vem a ti o teu Rei; ele é justo e traz a salvação; humilde e cavalga sobre um jumento, sobre um jumentinho, filho de jumenta." Este versículo fala sobre a promessa de um líder justo que virá para governar o povo. Essa promessa é semelhante à que Jeremias faz em Jeremias 23:5-6.
+* Mateus 23:23: "Ai de vós, escribas e fariseus, hipócritas! porque dais o dízimo da hortelã, do endro e do cominho, e tendes omitido o que há de mais importante na lei, a saber, a justiça, a misericórdia e a fé; estas coisas, porém, devíeis fazer, sem omitir aquelas." Este versículo condena os líderes religiosos que se preocupam com as formalidades externas da religião, mas não se importam com as coisas mais importantes, como a justiça e a misericórdia. Isso é semelhante à crítica que Jeremias faz aos líderes de Judá em Jeremias 23:11-12.
+****
+
+[[v30-23-1]]
+
+^<<v30-23-1,1>>^ Ai dos pastores que deixam perder-se e dispersar-se o rebanho miúdo de minha pastagem! – oráculo do Senhor.
+
+[[v30-23-2]]
+
+^<<v30-23-2,2>>^ Por isso, assim fala o Senhor, Deus de Israel, acerca dos pastores que apascentam o meu povo: “Dispersastes o meu rebanho e o afugentastes, sem dele vos ocupar. Eu, porém, vou ocupar-me à vossa custa da malícia de tal procedimento – oráculo do Senhor.
+
+[[v30-23-3]]
+
+^<<v30-23-3,3>>^ Reunirei o que restar das minhas ovelhas, espalhadas pelos países em que as exilei e as trarei para as pastagens em que se hão de multiplicar.
+
+[[v30-23-4]]
+
+^<<v30-23-4,4>>^ Escolherei para elas pastores que as apascentarão, de sorte que não tenham receios nem temores, e já nenhuma delas se extravie – oráculo do Senhor”.
+
+[[v30-23-5]]
+
+^<<v30-23-5,5>>^ Dias virão – oráculo do Senhor – em que farei brotar de Davi um rebento justo que será rei e governará com sabedoria e exercerá na terra o direito e a equidade.^&#42;1^
+
+[[v30-23-6]]
+
+^<<v30-23-6,6>>^ Sob seu reinado será salvo Judá, e viverá Israel em segurança. E eis o nome com que será chamado: Javé-Nossa-Justiça!^&#42;1^
+
+[[v30-23-7]]
+
+^<<v30-23-7,7>>^ Eis por que chegarão dias – oráculo do Senhor – em que não se dirá mais: “Viva Deus, que tirou do Egito os filhos de Israel”.
+
+[[v30-23-8]]
+
+^<<v30-23-8,8>>^ Mas sim: “Viva Deus, que fez voltar os israelitas do norte e de todas as terras, aonde os exilara, trazendo-os à pátria”.
+
+[[v30-23-9]]
+
+^<<v30-23-9,9>>^ Aos profetas. Parte-se dentro de mim o coração, e se me abalaram todos os ossos. Assemelho-me a um ébrio, qual homem prostrado pelo vinho, por causa do Senhor e de sua palavra santa.^&#42;1^
+
+[[v30-23-10]]
+
+^<<v30-23-10,10>>^ A terra está cheia de adultérios e está em luto esta terra maldita. As pastagens do deserto ressecaram e os homens correm para o mal. É a iniquidade que lhes dá forças.
+
+[[v30-23-11]]
+
+^<<v30-23-11,11>>^ São profanos o próprio profeta e o sacerdote. Até no meu templo encontro sua perversidade – oráculo do Senhor.
+
+[[v30-23-12]]
+
+^<<v30-23-12,12>>^ Por isso, o seu caminho será como um caminho escorregadio nas trevas, e lá se entrechocarão e hão de cair. Pois precipitarei a desgraça sobre eles no ano em que os castigar – oráculo do Senhor.
+
+[[v30-23-13]]
+
+^<<v30-23-13,13>>^ Entre os profetas samaritanos vi absurdos: profetizaram em nome de Baal e desencaminharam meu povo de Israel.
+
+[[v30-23-14]]
+
+^<<v30-23-14,14>>^ Mas entre os profetas de Jerusalém vejo coisas hediondas: adultério e hipocrisia. Encorajam os maus, para que nenhum se converta da maldade. A meus olhos são todos iguais a Sodoma e seus congêneres semelhantes a Gomorra.^&#42;1^
+
+[[v30-23-15]]
+
+^<<v30-23-15,15>>^ Por isso, eis o oráculo do Senhor dos exércitos, contra os profetas: vou nutri-los com absinto, e dar-lhes de beber águas contaminadas. Porquanto, é pela atitude dos profetas de Jerusalém que a impiedade invadiu a terra.
+
+[[v30-23-16]]
+
+^<<v30-23-16,16>>^ Eis o que diz o Senhor dos exércitos: Não escuteis os profetas que vos transmitem vãos oráculos; são visões do próprio espírito que vos divulgam, e não as palavras do Senhor.
+
+[[v30-23-17]]
+
+^<<v30-23-17,17>>^ Não cessam de proclamar aos que me desprezam: “Oráculo do Senhor: Tudo irá bem para vós!” e aos que seguem, obstinadamente, as tendências do coração dizem ainda: “Nada de mal vos acontecerá”.
+
+[[v30-23-18]]
+
+^<<v30-23-18,18>>^ Mas qual deles assistiu à deliberação do Senhor? Quem o viu, e lhe escutou a palavra? Quem a ouviu e lhe prestou atenção?
+
+[[v30-23-19]]
+
+^<<v30-23-19,19>>^ Ora, eis que explode a tempestade do Senhor, o seu furor, e a tormenta que redemoinha, prestes a cair sobre a cabeça dos maus.
+
+[[v30-23-20]]
+
+^<<v30-23-20,20>>^ Não se acalmará a cólera do Senhor, enquanto não se executarem e cumprirem seus desígnios. Somente nos dias que virão os entendereis plenamente.
+
+[[v30-23-21]]
+
+^<<v30-23-21,21>>^ Não enviei tais profetas: são eles que correm; nem jamais lhes falei; e, no entanto, proferiram oráculos.
+
+[[v30-23-22]]
+
+^<<v30-23-22,22>>^ Houvessem eles assistido à minha deliberação, e seriam minhas as palavras que haveriam de proferir, fazendo que meu povo renunciasse à perversidade de seu procedimento.
+
+[[v30-23-23]]
+
+^<<v30-23-23,23>>^ Porventura eu sou Deus apenas quando estou perto? – oráculo do Senhor. Não o sou também quando de longe?
+
+[[v30-23-24]]
+
+^<<v30-23-24,24>>^ Poderá um homem se ocultar de tal modo que eu o não veja? – oráculo do Senhor. Porventura não enche minha presença o céu e a terra? – oráculo do Senhor.
+
+[[v30-23-25]]
+
+^<<v30-23-25,25>>^ Ouço o que dizem os profetas que proferem em meu nome falsos oráculos. “Tive um sonho. Tive um sonho!”
+
+[[v30-23-26]]
+
+^<<v30-23-26,26>>^ Quanto tempo vai durar isso? Julgam esses profetas, ao proferirem mentiras e as imposturas de seus corações,
+
+[[v30-23-27]]
+
+^<<v30-23-27,27>>^ que irão, pelos sonhos que contam uns aos outros, tornar meu nome esquecido do povo, assim como aconteceu a seus pais, que esqueceram o meu nome por causa do de Baal?
+
+[[v30-23-28]]
+
+^<<v30-23-28,28>>^ Conte o profeta o sonho que tiver! Mas, a quem for dado ouvir-me a palavra, que fielmente a reproduza. Que vem fazer a palha com o grão? – oráculo do Senhor.^&#42;1^
+
+[[v30-23-29]]
+
+^<<v30-23-29,29>>^ Não se assemelha ao fogo minha palavra – oráculo do Senhor –, qual martelo que fende a rocha?
+
+[[v30-23-30]]
+
+^<<v30-23-30,30>>^ Eis por que – oráculo do Senhor – vou lançar-me contra os profetas que imitam minhas revelações falando a outros.
+
+[[v30-23-31]]
+
+^<<v30-23-31,31>>^ Vou pedir contas aos profetas, cujas línguas não vacilam em proclamar: oráculo do Senhor.
+
+[[v30-23-32]]
+
+^<<v30-23-32,32>>^ Irei contra os profetas de sonhos enganadores que, ao narrá-los, ludibriam com mentiras e fatuidade o meu povo, quando nem missão lhes outorguei, nem mandato algum, e de nenhuma valia são para esse povo – oráculo do Senhor.
+
+[[v30-23-33]]
+
+^<<v30-23-33,33>>^ Quando esse povo ou algum profeta ou sacerdote vier perguntar-te: “Qual o novo fardo do Senhor que anuncias?” tu lhe dirás: “Fardo? És tu esse fardo, e dele me alijarei – oráculo do Senhor”.^&#42;1^
+
+[[v30-23-34]]
+
+^<<v30-23-34,34>>^ E o profeta, o sacerdote ou o leigo, que ousar dizer: oráculo do Senhor, eu o castigarei, assim como a sua família.
+
+[[v30-23-35]]
+
+^<<v30-23-35,35>>^ Eis como entre vós deveis exprimir-vos: “Que respondeu o Senhor?” ou: “Que disse o Senhor?”
+
+[[v30-23-36]]
+
+^<<v30-23-36,36>>^ Não repitais, porém: oráculo do Senhor, porquanto tal palavra se tornará um fardo para cada um, já que deturpais o sentido das palavras de Deus.
+
+[[v30-23-37]]
+
+^<<v30-23-37,37>>^ Ao profeta dirás portanto: “Que te respondeu o Senhor? Que te disse o Senhor?”.
+
+[[v30-23-38]]
+
+^<<v30-23-38,38>>^ Se, porém, empregardes esta palavra: oráculo do Senhor, sendo que vos adverti de que não a deveríeis repetir,
+
+[[v30-23-39]]
+
+^<<v30-23-39,39>>^ por tal motivo eu vos erguerei qual um fardo e longe de mim vos lançarei, bem como a cidade que a vós e a vossos pais havia outorgado.^&#42;1^
+
+[[v30-23-40]]
+
+^<<v30-23-40,40>>^ Eu vos afligirei com um perpétuo opróbrio, uma eterna vergonha, inesquecível.
+
+'''
+
+xref:030-jeremias/030-jeremias-022.adoc#v30-22-0[&#60; Capítulo Anterior] | <<v30-23-0,Topo>> | xref:030-jeremias/030-jeremias-024.adoc#v30-24-0[Próximo Capítulo &#62;]

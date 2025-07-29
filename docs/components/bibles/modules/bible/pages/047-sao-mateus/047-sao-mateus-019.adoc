@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v47-19-0]]
+=== São Mateus, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Mateus 19 apresenta ensinamentos de Jesus sobre o divórcio, a riqueza e a salvação. Jesus fala sobre como o divórcio não estava nos planos originais de Deus, como é difícil para os ricos entrarem no reino dos céus e como seguir a Jesus exige sacrifícios e renúncias. A seguir, cinco versículos relacionados com os temas abordados em São Mateus 19:
+* Gênesis 2:24: "Por isso, o homem deixará seu pai e sua mãe e se unirá à sua mulher, e eles se tornarão uma só carne." Este versículo é citado por Jesus em Mateus 19:5, quando ele fala sobre a importância do casamento e como Deus criou o homem e a mulher para serem uma só carne.
+* Provérbios 11:28: "Quem confia em suas riquezas cairá, mas os justos florescerão como a folhagem verdejante." Em Mateus 19:23-24, Jesus fala sobre como é difícil para os ricos entrarem no reino dos céus, e este versículo mostra como a confiança na riqueza pode levar à queda.
+* Marcos 10:29-30: "Em verdade vos digo que ninguém há que tenha deixado casa, ou irmãos, ou irmãs, ou mãe, ou pai, ou filhos, ou campos por amor de mim e do evangelho, que não receba cem vezes tanto agora, no presente, em casas, irmãos, irmãs, mães, filhos e campos, com perseguições, e no mundo vindouro a vida eterna." Este versículo é citado por Jesus em Mateus 19:29, quando ele fala sobre os sacrifícios que devem ser feitos para seguir a Jesus e como a recompensa é grande.
+* Mateus 5:32: "Eu, porém, vos digo que todo aquele que se divorcia de sua mulher, exceto por causa de infidelidade, a expõe a tornar-se adúltera; e aquele que casar com a mulher divorciada comete adultério." Em Mateus 19:3-9, Jesus fala sobre o divórcio e como isso não estava nos planos originais de Deus.
+* Mateus 19:21: "Jesus disse a ele: 'Se queres ser perfeito, vai, vende teus bens, dá aos pobres e terás um tesouro no céu; depois vem e segue-me.'" Este versículo mostra como seguir a Jesus exige sacrifícios e renúncias, como também é destacado em Mateus 19:16-22, quando Jesus fala com o jovem rico.
+****
+
+[[v47-19-1]]
+
+^<<v47-19-1,1>>^ Após esses discursos, Jesus deixou a Galileia e veio para a Judeia, além do Jordão.
+
+[[v47-19-2]]
+
+^<<v47-19-2,2>>^ Uma grande multidão o seguiu e ele curou seus doentes.
+
+[[v47-19-3]]
+
+^<<v47-19-3,3>>^ Os fariseus vieram perguntar-lhe para pô-lo à prova: “É permitido a um homem rejeitar sua mulher por um motivo qualquer?”.
+
+[[v47-19-4]]
+
+^<<v47-19-4,4>>^ Respondeu-lhes Jesus: “Não lestes que o Criador, no começo, fez o homem e a mulher e disse:
+
+[[v47-19-5]]
+
+^<<v47-19-5,5>>^ Por isso, o homem deixará seu pai e sua mãe e se unirá à sua mulher; e os dois formarão uma só carne?^&#42;1^
+
+[[v47-19-6]]
+
+^<<v47-19-6,6>>^ Assim, já não são dois, mas uma só carne. Portanto, não separe o homem o que Deus uniu”.
+
+[[v47-19-7]]
+
+^<<v47-19-7,7>>^ Disseram-lhe eles: “Por que, então, Moisés ordenou dar um documento de divórcio à mulher, ao rejeitá-la?”.^&#42;1^
+
+[[v47-19-8]]
+
+^<<v47-19-8,8>>^ Jesus respondeu-lhes: “É por causa da dureza de vosso coração que Moisés havia tolerado o repúdio das mulheres; mas no começo não foi assim.
+
+[[v47-19-9]]
+
+^<<v47-19-9,9>>^ Ora, eu vos declaro que todo aquele que rejeita sua mulher, exceto no caso de matrimônio falso, e desposa uma outra, comete adultério. E aquele que desposa uma mulher rejeitada, comete também adultério”.
+
+[[v47-19-10]]
+
+^<<v47-19-10,10>>^ Seus discípulos disseram-lhe: “Se tal é a condição do homem a respeito da mulher, é melhor não se casar!”.
+
+[[v47-19-11]]
+
+^<<v47-19-11,11>>^ Respondeu ele: “Nem todos são capazes de compreender o sentido dessa palavra, mas somente aqueles a quem foi dado.
+
+[[v47-19-12]]
+
+^<<v47-19-12,12>>^ Porque há eunucos que o são desde o ventre de suas mães, há eunucos tornados tais pelas mãos dos homens e há eunucos que a si mesmos se fizeram eunucos por amor do Reino dos Céus. Quem puder compreender, compreenda”.
+
+[[v47-19-13]]
+
+^<<v47-19-13,13>>^ Foram-lhe, então, apresentadas algumas criancinhas para que pusesse as mãos sobre elas e orasse por elas. Os discípulos, porém, as afastavam.
+
+[[v47-19-14]]
+
+^<<v47-19-14,14>>^ Disse-lhes Jesus: “Deixai vir a mim estas criancinhas e não as impeçais, porque o Reino dos Céus é para aqueles que se lhes assemelham”.
+
+[[v47-19-15]]
+
+^<<v47-19-15,15>>^ E, depois de impor-lhes as mãos, continuou seu caminho.
+
+[[v47-19-16]]
+
+^<<v47-19-16,16>>^ Um jovem aproximou-se de Jesus e lhe perguntou: “Mestre, que devo fazer de bom para ter a vida eterna?”. Disse-lhe Jesus:
+
+[[v47-19-17]]
+
+^<<v47-19-17,17>>^ “Por que me perguntas a respeito do que se deve fazer de bom? Só Deus é bom. Se queres entrar na vida, observa os mandamentos”.^&#42;1^ –
+
+[[v47-19-18]]
+
+^<<v47-19-18,18>>^ “Quais?” – perguntou ele. Jesus respondeu: “Não matarás, não cometerás adultério, não furtarás, não dirás falso testemunho,
+
+[[v47-19-19]]
+
+^<<v47-19-19,19>>^ honra teu pai e tua mãe, amarás teu próximo como a ti mesmo”.
+
+[[v47-19-20]]
+
+^<<v47-19-20,20>>^ Disse-lhe o jovem: “Tenho observado tudo isso desde a minha infância. Que me falta ainda?”.
+
+[[v47-19-21]]
+
+^<<v47-19-21,21>>^ Respondeu Jesus: “Se queres ser perfeito, vai, vende teus bens, dá-os aos pobres e terás um tesouro no céu. Depois, vem e segue-me!”.
+
+[[v47-19-22]]
+
+^<<v47-19-22,22>>^ Ouvindo essas palavras, o jovem foi embora muito triste, porque possuía muitos bens.
+
+[[v47-19-23]]
+
+^<<v47-19-23,23>>^ Jesus disse então aos seus discípulos: “Em verdade vos declaro: é difícil para um rico entrar no Reino dos Céus!
+
+[[v47-19-24]]
+
+^<<v47-19-24,24>>^ Eu vos repito: é mais fácil um camelo passar pelo fundo de uma agulha do que um rico entrar no Reino de Deus”.^&#42;1^
+
+[[v47-19-25]]
+
+^<<v47-19-25,25>>^ A estas palavras seus discípulos, pasmados, perguntaram: “Quem poderá então salvar-se?”.
+
+[[v47-19-26]]
+
+^<<v47-19-26,26>>^ Jesus olhou para eles e disse: “Aos homens isso é impossível, mas a Deus tudo é possível”.
+
+[[v47-19-27]]
+
+^<<v47-19-27,27>>^ Pedro então, tomando a palavra, disse-lhe: “Eis que deixamos tudo para te seguir. Que haverá então para nós?”
+
+[[v47-19-28]]
+
+^<<v47-19-28,28>>^ Respondeu Jesus: “Em verdade vos declaro: no dia da renovação do mundo, quando o Filho do Homem estiver sentado no trono da glória, vós, que me haveis seguido, estareis sentados em doze tronos para julgar as doze tribos de Israel.
+
+[[v47-19-29]]
+
+^<<v47-19-29,29>>^ E todo aquele que por minha causa deixar irmãos, irmãs, pai, mãe, mulher, filhos, terras ou casa receberá o cêntuplo e possuirá a vida eterna”.
+
+[[v47-19-30]]
+
+^<<v47-19-30,30>>^ “Muitos dos primeiros serão os últimos e muitos dos últimos serão os primeiros.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-018.adoc#v47-18-0[&#60; Capítulo Anterior] | <<v47-19-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-020.adoc#v47-20-0[Próximo Capítulo &#62;]

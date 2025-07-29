@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v3-5-0]]
+=== Levítico, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Levítico 5 trata dos pecados cometidos sem intenção, ou seja, pecados que foram cometidos sem conhecimento. O capítulo discute os procedimentos que devem ser seguidos para se arrepender desses pecados e oferecer a Deus um sacrifício para a expiação. Além disso, também é mencionada a obrigação de confessar o pecado e de compensar aqueles que foram prejudicados pelo erro cometido. Abaixo estão cinco versículos relacionados com os temas abordados em Levítico 5:
+* Provérbios 28:13: "O que encobre as suas transgressões jamais prosperará, mas o que as confessa e deixa alcançará misericórdia." Este versículo fala sobre a importância de confessar os pecados em vez de tentar escondê-los.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Este versículo enfatiza a importância de confessar os pecados a Deus para receber o perdão e a purificação.
+* Mateus 5:23-24: "Se, pois, ao trazeres ao altar a tua oferta, ali te lembrares de que teu irmão tem alguma coisa contra ti, deixa perante o altar a tua oferta, vai primeiro reconciliar-te com teu irmão; e então, voltando, faze a tua oferta." Este versículo fala sobre a necessidade de compensar aqueles que foram prejudicados pelo erro cometido antes de oferecer um sacrifício a Deus.
+* 2 Coríntios 7:10: "Porque a tristeza segundo Deus produz arrependimento para a salvação, que a ninguém traz pesar; mas a tristeza do mundo produz morte." Este versículo destaca a importância do arrependimento sincero para alcançar a salvação.
+* Ezequiel 18:21-22: "Se o ímpio se converter de todos os seus pecados que cometeu, e guardar todos os meus estatutos, e proceder com retidão e justiça, certamente viverá; não morrerá. De todas as transgressões que cometeu não haverá lembrança contra ele; pela justiça que praticou, viverá." Este versículo enfatiza a importância de se arrepender dos pecados e seguir os mandamentos de Deus para alcançar a vida eterna.
+****
+
+[[v3-5-1]]
+
+^<<v3-5-1,1>>^ “Se alguém, chamado como testemunha, após ter ouvido a adjuração do juiz, peca por não declarar o que viu ou o que soube, levará o peso de sua falta.
+
+[[v3-5-2]]
+
+^<<v3-5-2,2>>^ Se alguém tocar, por inadvertência, uma coisa impura, como o cadáver de um animal impuro, de uma fera ou de um réptil impuro, ficará manchado e culpado.
+
+[[v3-5-3]]
+
+^<<v3-5-3,3>>^ Da mesma forma, se, por descuido, tocar uma imundície humana qualquer, e logo se der conta disso, será réu de culpa.
+
+[[v3-5-4]]
+
+^<<v3-5-4,4>>^ Se alguém, por descuido ou irreflexão, jurar fazer qualquer coisa de bem ou de mal, logo que se der conta disso, será culpado, qualquer que seja o juramento inconsiderado.
+
+[[v3-5-5]]
+
+^<<v3-5-5,5>>^ Aquele, pois, que for culpado de uma dessas coisas, confessará o pecado que tiver cometido.
+
+[[v3-5-6]]
+
+^<<v3-5-6,6>>^ Apresentará ao Senhor em expiação pelo pecado cometido uma fêmea de seu rebanho miúdo, uma ovelha ou uma cabra em sacrifício pelo pecado; e o sacerdote fará por ele a expiação de seu pecado.
+
+[[v3-5-7]]
+
+^<<v3-5-7,7>>^ Se não houver meio de se obter uma ovelha ou uma cabra, oferecerá ao Senhor em expiação pelo seu pecado duas rolas ou dois pombinhos, um em sacrifício pelo pecado e o outro em holocausto.
+
+[[v3-5-8]]
+
+^<<v3-5-8,8>>^ Ele os levará ao sacerdote, que oferecerá primeiro a vítima pelo pecado, quebrando-lhe a cabeça, perto da nuca, sem desprendê-la.
+
+[[v3-5-9]]
+
+^<<v3-5-9,9>>^ Aspergirá a parede do altar com o sangue da vítima pelo pecado, e o resto do sangue será aspergido no pé do altar. Esse é um sacrifício pelo pecado.
+
+[[v3-5-10]]
+
+^<<v3-5-10,10>>^ Fará da outra ave um holocausto segundo os ritos. É assim que o sacerdote fará por esse homem a expiação do pecado que ele cometeu, e ele será perdoado.
+
+[[v3-5-11]]
+
+^<<v3-5-11,11>>^ Se não houver meio de se encontrarem duas rolas ou dois pombinhos, trará como oferta pelo pecado cometido, o décimo de um efá de flor de farinha em sacrifício pelo pecado. Não lhe deitará azeite nem lhe porá incenso, porque é um sacrifício pelo pecado.
+
+[[v3-5-12]]
+
+^<<v3-5-12,12>>^ Trará ao sacerdote, que dela tomará um punhado como memorial, e a queimará sobre o altar, entre os sacrifícios feitos pelo fogo ao Senhor. Esse é um sacrifício pelo pecado.
+
+[[v3-5-13]]
+
+^<<v3-5-13,13>>^ É assim que o sacerdote fará a expiação pelo pecado cometido por esse homem, em uma dessas coisas; e ele será perdoado. O que sobrar será do sacerdote, como na oblação.”
+
+[[v3-5-14]]
+
+^<<v3-5-14,14>>^ O Senhor disse a Moisés:
+
+[[v3-5-15]]
+
+^<<v3-5-15,15>>^ “Se alguém cometer involuntariamente uma infidelidade, retendo ofertas consagradas ao Senhor, oferecerá ao Senhor em sacrifício de reparação um carneiro sem defeito, tomado do rebanho, segundo a tua avaliação em siclos de prata, conforme o siclo do santuário; esse é um sacrifício de reparação.
+
+[[v3-5-16]]
+
+^<<v3-5-16,16>>^ Restituirá o que tirou do santuário, com um quinto a mais, que entregará ao sacerdote. O sacerdote fará a expiação por esse homem com o carneiro oferecido em sacrifício de reparação, e o pecado lhe será perdoado.
+
+[[v3-5-17]]
+
+^<<v3-5-17,17>>^ Se alguém pecar, fazendo, sem se dar conta, uma ação proibida por um mandamento do Senhor, será culpado e deverá arcar com a falta.
+
+[[v3-5-18]]
+
+^<<v3-5-18,18>>^ Levará ao sacerdote, em sacrifício de reparação, um carneiro sem defeito tomado do rebanho, segundo sua avaliação. O sacerdote fará por ele a expiação da falta cometida por inadvertência, inconscientemente; e ele será perdoado.
+
+[[v3-5-19]]
+
+^<<v3-5-19,19>>^ Esse é um sacrifício de reparação, porque esse homem era certamente culpado diante do Senhor”.
+
+[[v3-5-20]]
+
+^<<v3-5-20,20>>^ O Senhor disse a Moisés:
+
+[[v3-5-21]]
+
+^<<v3-5-21,21>>^ “Se alguém pecar e cometer uma infidelidade contra o Senhor, negando ter recebido de seu próximo um depósito ou um penhor, recusando restituir uma coisa roubada ou extorquida,
+
+[[v3-5-22]]
+
+^<<v3-5-22,22>>^ ou um objeto perdido que encontrou, e jurando falso a respeito de uma das coisas com que se pode pecar,
+
+[[v3-5-23]]
+
+^<<v3-5-23,23>>^ se vem assim a pecar e tornar-se culpado, restituirá o objeto roubado ou extorquido, o depósito confiado, ou toda coisa que tenha sido objeto de juramento falso.
+
+[[v3-5-24]]
+
+^<<v3-5-24,24>>^ Restituirá integralmente esse objeto ao seu proprietário, ajuntando um quinto do seu valor, no mesmo dia em que oferecer o sacrifício de reparação.
+
+[[v3-5-25]]
+
+^<<v3-5-25,25>>^ Levará ao sacerdote para o sacrifício de reparação ao Senhor um carneiro sem defeito, tomado do rebanho, segundo a tua avaliação.
+
+[[v3-5-26]]
+
+^<<v3-5-26,26>>^ O sacerdote fará por ele a expiação diante do Senhor, e ele será perdoado, seja qual for a falta de que se tenha tornado culpado”.
+
+'''
+
+xref:003-levitico/003-levitico-004.adoc#v3-4-0[&#60; Capítulo Anterior] | <<v3-5-0,Topo>> | xref:003-levitico/003-levitico-006.adoc#v3-6-0[Próximo Capítulo &#62;]

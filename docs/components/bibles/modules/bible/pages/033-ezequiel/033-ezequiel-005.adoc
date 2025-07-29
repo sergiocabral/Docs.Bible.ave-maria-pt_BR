@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v33-5-0]]
+=== Ezequiel, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Ezequiel 5 fala sobre a destruição de Jerusalém como um castigo pelos pecados do povo de Israel. Deus usa Ezequiel como um sinal para mostrar a severidade do julgamento que está por vir. Abaixo estão cinco versículos relacionados com os temas abordados em Ezequiel 5:
+* Jeremias 7:34: "E porei fim aos gritos de alegria e aos gritos de satisfação, à voz do noivo e à voz da noiva, nas cidades de Judá e nas ruas de Jerusalém, porque a terra ficará desolada." Este versículo descreve a desolação que virá sobre Jerusalém como resultado de seus pecados.
+* Amós 9:8: "Eis que os olhos do Senhor Deus estão sobre o reino pecaminoso; e eu o destruirei da superfície da terra, exceto que não destruirei completamente a casa de Jacó, diz o Senhor." Este versículo fala sobre a destruição de Israel como um castigo pelos seus pecados, mas também mostra que Deus ainda manterá Sua promessa a Jacó.
+* Isaías 1:9: "Se o Senhor dos exércitos não nos tivesse deixado alguns sobreviventes, já seríamos como Sodoma e semelhantes a Gomorra." Este versículo destaca a misericórdia de Deus ao deixar alguns sobreviventes, apesar da punição que o povo merece.
+* Lamentações 4:9: "Mais bem-aventurados foram os que foram mortos à espada do que os que pereceram de fome; porque estes se desfaleciam, como que traspassados, por falta dos frutos dos campos." Este versículo descreve a fome que virá sobre Jerusalém durante o cerco babilônico, mostrando a severidade do julgamento de Deus.
+* Ezequiel 9:4: "E o Senhor lhe disse: Passa pelo meio da cidade, pelo meio de Jerusalém, e marca com um sinal as testas dos homens que suspiram e que gemem por causa de todas as abominações que se cometem no meio dela." Este versículo mostra a preocupação de Deus com os justos em Jerusalém que se lamentam pelos pecados do povo.
+****
+
+[[v33-5-1]]
+
+^<<v33-5-1,1>>^ “E tu, filho do homem, toma uma navalha afiada, à maneira de navalha de barbeiro, e passa-a sobre a cabeça e na barba; em seguida, colocarás numa balança os cabelos que houveres cortado.
+
+[[v33-5-2]]
+
+^<<v33-5-2,2>>^ Queimarás um terço no meio da cidade, logo que tiver decorrido o tempo do assédio; tomarás outro terço e o cortarás com a espada, em derredor da cidade; o último terço o dispersará ao vento, e sacarei da espada contra eles.^&#42;1^
+
+[[v33-5-3]]
+
+^<<v33-5-3,3>>^ Reservarás, entretanto, pequena quantidade que guardarás na dobra do teu manto,
+
+[[v33-5-4]]
+
+^<<v33-5-4,4>>^ mas guardarás ainda uma parte para arremessá-la ao fogo e queimá-la. É de lá que sairá a chama.^&#42;1^
+
+[[v33-5-5]]
+
+^<<v33-5-5,5>>^ E dirás a toda a casa de Israel: oráculo do Senhor Javé. Trata-se de Jerusalém, que eu tinha situado em meio às nações, tendo em derredor os povos pagãos.
+
+[[v33-5-6]]
+
+^<<v33-5-6,6>>^ Ela, porém, se rebelou contra as minhas leis, com mais perversidade que as outras nações, e contra as minhas ordens com maior violência que os países vizinhos, pois rejeitaram os meus decretos e não seguiram as minhas prescrições.
+
+[[v33-5-7]]
+
+^<<v33-5-7,7>>^ Portanto, oráculo do Senhor Javé: já que vos mostrastes mais turbulentos que os pagãos, vossos vizinhos; já que não tendes observado as minhas leis, nem executado os meus preceitos nem seguido os costumes dos povos que vos circundam,
+
+[[v33-5-8]]
+
+^<<v33-5-8,8>>^ pois bem, – oráculo do Senhor – irei apoderar-me de ti à vista das nações, e com rigor procederei contra ti,
+
+[[v33-5-9]]
+
+^<<v33-5-9,9>>^ e, por causa das tuas abominações, vou executar no meio de ti coisas como não fiz e como não hei jamais de fazer.
+
+[[v33-5-10]]
+
+^<<v33-5-10,10>>^ No teu meio, os pais devorarão os filhos e os filhos devorarão os pais. Contra ti hei de proceder com rigor, e a todo vento dispersarei o que de ti restar.
+
+[[v33-5-11]]
+
+^<<v33-5-11,11>>^ Por minha vida – oráculo do Senhor Javé! Já que manchaste o meu santuário com todas as tuas infâmias e todas as tuas abominações, eu também te arrasarei sem um gesto de consideração e piedade.
+
+[[v33-5-12]]
+
+^<<v33-5-12,12>>^ Um terço de tua população morrerá de peste ou perecerá de fome no interior dos muros, um terço tombará sob a espada ao teu redor; e o outro terço, que dispersarei por todos os ventos, desembainharei a espada contra ele.
+
+[[v33-5-13]]
+
+^<<v33-5-13,13>>^ Darei livre curso à minha cólera, saciarei o meu furor contra eles e eu me vingarei. E cairão na conta, quando eu tiver saciado o meu furor contra eles, de que foi por zelo e afeição que o falei, eu, o Senhor.
+
+[[v33-5-14]]
+
+^<<v33-5-14,14>>^ Farei de ti uma desolação, uma infâmia entre as nações que te cercam, aos olhos de todos os transeuntes.
+
+[[v33-5-15]]
+
+^<<v33-5-15,15>>^ Serás presa dos opróbrios, objeto de vergonha, um exemplo e horror para os povos que te rodeiam, quando eu saciar contra ti a minha cólera ardente, com os castigos da minha ira sou eu, o Senhor, que o digo,
+
+[[v33-5-16]]
+
+^<<v33-5-16,16>>^ quando eu dardejar contra vós as flechas funestas e mortais da fome porque tornarei a fome cada vez mais rude, e vos privarei do pão,
+
+[[v33-5-17]]
+
+^<<v33-5-17,17>>^ quando contra ti enviar a fome e as feras que farão perecer teus filhos, quando passar a ti a peste sangrenta, e quando invocar sobre ti o gládio. Sou eu, o Senhor, que o digo.”
+
+'''
+
+xref:033-ezequiel/033-ezequiel-004.adoc#v33-4-0[&#60; Capítulo Anterior] | <<v33-5-0,Topo>> | xref:033-ezequiel/033-ezequiel-006.adoc#v33-6-0[Próximo Capítulo &#62;]

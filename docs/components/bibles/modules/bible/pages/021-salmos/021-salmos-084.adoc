@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v21-84-0]]
+=== Salmos, 84
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 84 é um cântico que expressa o desejo profundo do salmista pela presença de Deus em sua vida e alegria em estar em Sua casa. O capítulo começa com o salmista descrevendo o quão amável é o lugar onde Deus habita e o quão grande é o seu desejo de estar ali. Em seguida, ele expressa sua admiração pela graça de Deus e confiança em sua proteção. Aqui estão cinco versículos relacionados aos temas do Salmo 84:
+* Salmos 27:4: "Uma coisa peço ao Senhor, é o que procuro: que eu possa viver na casa do Senhor todos os dias da minha vida, para contemplar a bondade do Senhor e buscar sua orientação no seu templo." Este verso expressa o mesmo desejo do salmista em Salmo 84 de habitar na casa de Deus e desfrutar de Sua presença.
+* Salmos 85:10: "A misericórdia e a verdade se encontraram; a justiça e a paz se beijaram." O salmista de Salmo 84 descreve a bondade e a misericórdia de Deus, e este verso em Salmos 85 também enfatiza a misericórdia de Deus.
+* Salmos 118:8: "É melhor confiar no Senhor do que confiar no homem." O salmista de Salmo 84 expressa sua confiança em Deus e em sua proteção. Este verso em Salmos 118 reforça essa confiança em Deus em vez de confiar em seres humanos.
+* Salmos 119:105: "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho." O salmista de Salmo 84 busca a orientação de Deus, e a Palavra de Deus é vista como uma fonte de orientação e sabedoria para os crentes. Este verso enfatiza a importância da Palavra de Deus como uma bússola para a vida dos crentes.
+* Salmos 146:5: "Como feliz é aquele que tem o Deus de Jacó para ajudá-lo e cuja esperança está no Senhor, seu Deus." Este verso destaca a felicidade que o salmista de Salmo 84 encontra na presença de Deus e em Sua proteção e ajuda.
+****
+
+[[v21-84-1]]
+
+^<<v21-84-1,1>>^ Ao mestre de canto. Salmo dos filhos de Coré.^&#42;1^
+
+[[v21-84-2]]
+
+^<<v21-84-2,2>>^ Fostes propício, Senhor, à vossa terra; restabelecestes a sorte de Jacó.
+
+[[v21-84-3]]
+
+^<<v21-84-3,3>>^ A iniquidade de vosso povo perdoastes, foram por vós cobertos seus pecados.
+
+[[v21-84-4]]
+
+^<<v21-84-4,4>>^ Aplacastes toda a vossa cólera, refreastes o furor de vossa ira.
+
+[[v21-84-5]]
+
+^<<v21-84-5,5>>^ Restaurai-nos, ó Deus, nosso salvador, ponde termo à indignação que tínheis contra nós.
+
+[[v21-84-6]]
+
+^<<v21-84-6,6>>^ Acaso será eterna contra nós a vossa cólera? Estendereis vossa ira sobre todas as gerações?
+
+[[v21-84-7]]
+
+^<<v21-84-7,7>>^ Não nos restituireis a vida, para que vosso povo se rejubile em vós?
+
+[[v21-84-8]]
+
+^<<v21-84-8,8>>^ Mostrai-nos, Senhor, a vossa misericórdia, e dai-nos a vossa salvação.
+
+[[v21-84-9]]
+
+^<<v21-84-9,9>>^ Escutarei o que diz o Senhor Deus, porque ele diz palavras de paz ao seu povo, para seus fiéis, e àqueles cujos corações se voltam para ele.
+
+[[v21-84-10]]
+
+^<<v21-84-10,10>>^ Sim, sua salvação está bem perto dos que o temem, de sorte que sua glória retornará à nossa terra.^&#42;1^
+
+[[v21-84-11]]
+
+^<<v21-84-11,11>>^ A bondade e a fidelidade outra vez se irão unir, a justiça e a paz de novo se darão as mãos.
+
+[[v21-84-12]]
+
+^<<v21-84-12,12>>^ A verdade brotará da terra, e a justiça olhará do alto do céu.
+
+[[v21-84-13]]
+
+^<<v21-84-13,13>>^ Enfim, o Senhor nos dará seus benefícios, e nossa terra produzirá seu fruto.
+
+[[v21-84-14]]
+
+^<<v21-84-14,14>>^ A justiça caminhará diante dele, e a felicidade lhe seguirá os passos.
+
+'''
+
+xref:021-salmos/021-salmos-083.adoc#v21-83-0[&#60; Capítulo Anterior] | <<v21-84-0,Topo>> | xref:021-salmos/021-salmos-085.adoc#v21-85-0[Próximo Capítulo &#62;]

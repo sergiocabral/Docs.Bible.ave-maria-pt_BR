@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v45-3-0]]
+=== Zacarias, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Zacarias 3 relata a visão de um julgamento divino em que o sumo sacerdote Josué é acusado e, em seguida, purificado de seus pecados. A temática principal do capítulo é a justificação diante de Deus, a remoção da culpa e a redenção. Cinco versículos que abordam esses temas são:
+* Salmos 103:12: "Quanto ao oriente está longe do ocidente, assim afasta de nós as nossas transgressões." Este versículo fala sobre o perdão de Deus e como Ele é capaz de remover completamente nossos pecados e transgressões.
+* Isaías 1:18: "Vinde então, e argui-me, diz o Senhor: ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, tornar-se-ão como a branca lã." Este versículo mostra a capacidade de Deus de perdoar e limpar o pecado, transformando-o em algo puro e limpo.
+* Romanos 8:33-34: "Quem intentará acusação contra os escolhidos de Deus? É Deus quem os justifica; quem os condenará? Cristo Jesus é quem morreu, ou antes quem ressuscitou dentre os mortos, o qual está à direita de Deus, e também intercede por nós." Este versículo fala sobre a justificação dos crentes diante de Deus e como Cristo intercede por eles.
+* Hebreus 9:14: "Quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu a si mesmo imaculado a Deus, purificará das obras mortas a vossa consciência, para servirdes ao Deus vivo?" Este versículo fala sobre a purificação que o sangue de Cristo traz para a consciência dos crentes, removendo a culpa e permitindo que eles sirvam a Deus.
+* 1 João 1:9: "Se confessarmos os nossos pecados, Ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Este versículo destaca a importância da confissão de pecados e a promessa de Deus de perdoá-los e purificar da injustiça.
+****
+
+[[v45-3-1]]
+
+^<<v45-3-1,1>>^ O Senhor mostrou-me o sumo sacerdote Josué, de pé diante do anjo do Senhor; Satã estava à sua direita como acusador.^&#42;1^
+
+[[v45-3-2]]
+
+^<<v45-3-2,2>>^ O anjo do Senhor disse a Satã: “O Senhor te confunda, Satã! Confunda-te o Senhor que escolheu Jerusalém. Josué não é porventura um tição escapado ao incêndio?”.^&#42;1^
+
+[[v45-3-3]]
+
+^<<v45-3-3,3>>^ Josué, vestido com roupas sujas, estava de pé diante do anjo do Senhor.^&#42;1^
+
+[[v45-3-4]]
+
+^<<v45-3-4,4>>^ O Senhor falou àqueles que estavam à volta dele, dizendo: “Tirai-lhe essas roupas sujas”. Depois disse a Josué: “Eis que tirei de ti a tua imundície e te revesti de roupa de festa”.
+
+[[v45-3-5]]
+
+^<<v45-3-5,5>>^ E acrescentou: “Ponde-lhe na cabeça uma tiara limpa”. Eles puseram-lhe na cabeça uma tiara limpa e fizeram-no mudar de vestes em presença do anjo do Senhor.
+
+[[v45-3-6]]
+
+^<<v45-3-6,6>>^ Em seguida, o anjo do Senhor declarou a Josué:
+
+[[v45-3-7]]
+
+^<<v45-3-7,7>>^ “Eis o que diz o Senhor dos exércitos: se andares nos meus caminhos e fores fiel no meu serviço, governarás a minha casa, guardarás os meus átrios e eu te darei lugar entre estes que estão aqui diante de mim.
+
+[[v45-3-8]]
+
+^<<v45-3-8,8>>^ Ouve, ó Josué, sumo sacerdote, tu e teus colegas que se sentam diante de ti – porque são pessoas de presságio: porque eis que farei vir o meu servo Rebento.^&#42;1^
+
+[[v45-3-9]]
+
+^<<v45-3-9,9>>^ Eis a pedra que pus diante de Josué; sobre essa pedra estão sete olhos; gravarei eu mesmo sobre ela a inscrição – oráculo do Senhor dos exércitos – e em um só dia tirarei o mal desta terra.
+
+[[v45-3-10]]
+
+^<<v45-3-10,10>>^ Naquele dia – oráculo do Senhor dos exércitos – convidareis uns aos outros para debaixo de sua vinha e de sua figueira”.^&#42;1^
+
+'''
+
+xref:045-zacarias/045-zacarias-002.adoc#v45-2-0[&#60; Capítulo Anterior] | <<v45-3-0,Topo>> | xref:045-zacarias/045-zacarias-004.adoc#v45-4-0[Próximo Capítulo &#62;]

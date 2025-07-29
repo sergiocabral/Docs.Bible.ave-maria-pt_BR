@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v3-10-0]]
+=== Levítico, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Levítico 10 narra a morte dos filhos de Arão, Nadabe e Abiú, por oferecerem fogo estranho diante do Senhor. Deus dá instruções a Arão sobre como os sacerdotes devem se comportar diante de Deus e do povo, incluindo como eles devem lidar com o vinho e outras bebidas alcoólicas. Abaixo estão cinco versículos relacionados aos temas abordados em Levítico 10.
+* Levítico 16:1: "E falou o Senhor a Moisés, depois da morte dos dois filhos de Arão, quando se chegaram perante o Senhor, e morreram." Esse versículo faz referência à morte de Nadabe e Abiú, que é o tema principal de Levítico 10.
+* Provérbios 20:1: "O vinho é escarnecedor, e a bebida forte alvoroçadora; e todo aquele que neles errar nunca será sábio." Este versículo fala sobre a natureza do vinho e como ele pode levar as pessoas ao erro, o que é relevante em Levítico 10, onde Deus dá instruções aos sacerdotes sobre como lidar com bebidas alcoólicas.
+* 1 Pedro 5:8: "Sede sóbrios; vigiai; porque o diabo, vosso adversário, anda em derredor, bramando como leão, buscando a quem possa tragar;" Esse versículo fala sobre a importância da sobriedade e da vigilância, algo que é enfatizado em Levítico 10, onde Deus dá instruções sobre como os sacerdotes devem se comportar diante de Deus e do povo.
+* 1 Coríntios 9:27: "Antes subjugo o meu corpo, e o reduzo à servidão, para que, pregando aos outros, eu mesmo não venha de alguma maneira a ficar reprovado." Este versículo fala sobre a necessidade de controlar nossos corpos e nossos desejos, algo que é importante para os sacerdotes em Levítico 10, onde Deus dá instruções sobre como eles devem se comportar diante de Deus e do povo.
+* 1 Timóteo 5:23: "Não bebas mais água só, mas usa de um pouco de vinho, por causa do teu estômago e das tuas frequentes enfermidades." Esse versículo fala sobre o uso moderado de vinho para fins medicinais, o que é relevante em Levítico 10, onde Deus dá instruções aos sacerdotes sobre como lidar com bebidas alcoólicas.
+****
+
+[[v3-10-1]]
+
+^<<v3-10-1,1>>^ Os filhos de Aarão, Nadab e Abiú, tomaram cada um o seu turíbulo, puseram neles fogo e incenso e ofereceram ao Senhor um fogo estranho, que não lhes tinha sido ordenado.
+
+[[v3-10-2]]
+
+^<<v3-10-2,2>>^ Saiu, então, um fogo de diante do Senhor, que os devorou, e morreram na presença do Senhor.
+
+[[v3-10-3]]
+
+^<<v3-10-3,3>>^ Moisés disse a Aarão: “Era isso o que o Senhor tinha anunciado quando disse: Serei santificado naqueles que se aproximam de mim, e serei glorificado em presença de todo o povo”. Aarão calou-se.
+
+[[v3-10-4]]
+
+^<<v3-10-4,4>>^ Moisés chamou Misael e Elisafã, filhos de Oziel, tio de Aarão, e disse-lhes: “Vinde e levai vossos irmãos para longe do santuário, fora do acampamento”.
+
+[[v3-10-5]]
+
+^<<v3-10-5,5>>^ Eles vieram e levaram-nos com suas túnicas para fora do acampamento, como Moisés lhes tinha dito.
+
+[[v3-10-6]]
+
+^<<v3-10-6,6>>^ Moisés disse a Aarão, a Eleazar e a Itamar: “Não descubrais as cabeças nem rasgueis as vossas vestes. Não suceda que morrais e que se levante a ira do Senhor contra toda a assembleia. Vossos irmãos e toda a casa de Israel chorem por causa do incêndio que o Senhor acendeu.
+
+[[v3-10-7]]
+
+^<<v3-10-7,7>>^ Vós, porém, não deixareis a entrada da tenda de reunião, para que não morrais, porque o óleo da unção do Senhor está sobre vós”. E obedeceram à palavra de Moisés.
+
+[[v3-10-8]]
+
+^<<v3-10-8,8>>^ O Senhor disse a Aarão:
+
+[[v3-10-9]]
+
+^<<v3-10-9,9>>^ “Não beberás vinho nem cerveja, tu e teus filhos, quando entrardes na tenda de reunião, para que não morrais. Essa é uma lei perpétua para vossos descendentes,^&#42;1^
+
+[[v3-10-10]]
+
+^<<v3-10-10,10>>^ a fim de que estejais sempre em condições de discernir o que é santo do que é profano, o puro do impuro,
+
+[[v3-10-11]]
+
+^<<v3-10-11,11>>^ e de ensinar aos israelitas todas as leis que o Senhor lhes deu por meio de Moisés”.
+
+[[v3-10-12]]
+
+^<<v3-10-12,12>>^ Moisés disse a Aarão, a Eleazar e a Itamar, os dois filhos sobreviventes de Aarão: “Tomai a oblação que resta dos sacrifícios pelo fogo ao Senhor e comei-a sem fermento junto do altar, porque essa é uma coisa santíssima.
+
+[[v3-10-13]]
+
+^<<v3-10-13,13>>^ Vós a comereis em um lugar santo, porquanto essa parte dos sacrifícios feitos pelo fogo ao Senhor é tua e de teus filhos, como me foi prescrito.
+
+[[v3-10-14]]
+
+^<<v3-10-14,14>>^ Comereis, também, em lugar limpo, tu, teus filhos e tuas filhas, o peito que foi agitado e a coxa que foi separada. Isso é o que vos toca a ti e a teus filhos como parte dos sacrifícios pacíficos dos israelitas.
+
+[[v3-10-15]]
+
+^<<v3-10-15,15>>^ Além das gorduras que deverão ser queimadas, trarão a coxa e o peito separados para agitá-los diante do Senhor. Assim deve ser para ti e teus filhos em virtude de uma lei perpétua, assim como prescreveu o Senhor”.
+
+[[v3-10-16]]
+
+^<<v3-10-16,16>>^ Moisés se informou acerca do bode imolado pelo pecado, mas eis que ele tinha sido já queimado. Irou-se, então, contra Eleazar e Itamar, últimos filhos de Aarão:
+
+[[v3-10-17]]
+
+^<<v3-10-17,17>>^ “Por que – disse ele – não comestes no lugar santo o sacrifício pelo pecado? Pois essa é uma coisa santíssima que o Senhor vos deu, a fim de que leveis a iniquidade da assembleia e façais a expiação por ela diante dele.
+
+[[v3-10-18]]
+
+^<<v3-10-18,18>>^ Já que o sangue da vítima não foi trazido para dentro do tabernáculo, vós devíeis tê-la comido em um lugar santo como ordenei”.
+
+[[v3-10-19]]
+
+^<<v3-10-19,19>>^ Aarão disse-lhe: “Eles ofereceram hoje seu sacrifício pelo pecado e seu holocausto ao Senhor; mas, depois do que me aconteceu, se eu tivesse comido hoje a vítima pelo pecado, teria isso agradado ao Senhor?”.
+
+[[v3-10-20]]
+
+^<<v3-10-20,20>>^ Moisés, ouvindo essas palavras, deu-se por satisfeito.
+
+'''
+
+xref:003-levitico/003-levitico-009.adoc#v3-9-0[&#60; Capítulo Anterior] | <<v3-10-0,Topo>> | xref:003-levitico/003-levitico-011.adoc#v3-11-0[Próximo Capítulo &#62;]

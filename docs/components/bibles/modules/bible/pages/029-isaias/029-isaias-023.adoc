@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v29-23-0]]
+=== Isaías, 23
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 23 contém uma profecia contra a cidade de Tiro, que é condenada por sua arrogância e cobiça. A cidade será destruída e seus habitantes levados cativos. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Ezequiel 26:3 - "Portanto, assim diz o Senhor Deus: Eis que eu sou contra ti, ó Tiro, e farei subir contra ti muitas nações, como o mar faz subir as suas ondas." Este versículo reforça a mensagem de que Deus está condenando Tiro por sua arrogância e que a cidade será atacada por várias nações.
+* Amós 1:9 - "Assim diz o Senhor: Por três transgressões de Tiro, e por quatro, não retirarei o castigo, porque entregaram todos os cativos a Edom, e não se lembraram da aliança dos irmãos." Este versículo menciona a aliança que Tiro quebrou com Israel, o que pode ter contribuído para a sua queda.
+* Zacarias 9:3 - "Tiro edificou para si fortaleza, e amontoou prata como pó, e ouro como lama das ruas." Este versículo destaca a cobiça de Tiro e sua busca por riqueza e poder.
+* Jeremias 25:22 - "e a todos os reis de Tiro, e a todos os reis de Sidom, e aos reis das terras que estão além do mar." Este versículo mostra que Tiro não foi a única cidade a ser atacada e conquistada, mas que outras cidades também sofreram as consequências de sua arrogância e cobiça.
+* Apocalipse 18:21 - "E um forte anjo levantou uma pedra como uma grande mó, e lançou-a no mar, dizendo: Com igual ímpeto será lançada Babilônia, aquela grande cidade, e não será jamais achada." Este versículo faz referência à queda de Babilônia, mas pode ser aplicado à queda de Tiro e outras cidades que foram destruídas por causa de sua arrogância e pecado.
+****
+
+[[v29-23-1]]
+
+^<<v29-23-1,1>>^ Oráculo contra Tiro. Lastimai-vos, navios de Társis, porque vosso porto foi destruído. Foi no regresso de Chipre que eles receberam a nova.^&#42;1^
+
+[[v29-23-2]]
+
+^<<v29-23-2,2>>^ Estão estupefatos os habitantes da costa, o mercador de Sidônia, o corredor do mar,
+
+[[v29-23-3]]
+
+^<<v29-23-3,3>>^ cujos mensageiros navegam ao largo. O grão de Sihor era a sua colheita, e sua renda era tirada do comércio das nações.^&#42;1^
+
+[[v29-23-4]]
+
+^<<v29-23-4,4>>^ Envergonha-te, Sidônia, porque o mar, a fortaleza do mar te diz: “Eu não concebi nem dei à luz. Não criei rapazes nem eduquei moças”.^&#42;1^
+
+[[v29-23-5]]
+
+^<<v29-23-5,5>>^ Quando o Egito receber esta nova, tremerá ao ter conhecimento da sorte de Tiro.^&#42;1^
+
+[[v29-23-6]]
+
+^<<v29-23-6,6>>^ Passai a Társis, lastimai-vos, habitantes da costa.
+
+[[v29-23-7]]
+
+^<<v29-23-7,7>>^ Acaso não é a vossa cidade gloriosa, cuja origem remonta aos dias antigos, e que dirigia seus passos para se estabelecer ao longe?
+
+[[v29-23-8]]
+
+^<<v29-23-8,8>>^ Quem, pois, tomou essa decisão contra Tiro, essa cidade coroada, cujos mercadores eram soberanos, e os traficantes, fidalgos da terra?
+
+[[v29-23-9]]
+
+^<<v29-23-9,9>>^ Foi o Senhor dos exércitos quem o decidiu, para ferir o orgulho da nobreza e para aviltar os mais considerados da terra.^&#42;1^
+
+[[v29-23-10]]
+
+^<<v29-23-10,10>>^ Cultiva agora a terra, filha de Társis, teu porto já não existe.^&#42;1^
+
+[[v29-23-11]]
+
+^<<v29-23-11,11>>^ O Senhor estendeu a mão sobre o mar e abalou os reinos.^&#42;1^ Ele ordenou a destruição das fortalezas de Canaã.
+
+[[v29-23-12]]
+
+^<<v29-23-12,12>>^ E disse: “Cessa de rejubilar-te, Sidônia, filha desonrada! Levanta-te e vai estabelecer-te em Chipre! Mesmo lá, não terás repouso”.
+
+[[v29-23-13]]
+
+^<<v29-23-13,13>>^ Reduziram-na a ruínas.^&#42;1^
+
+[[v29-23-14]]
+
+^<<v29-23-14,14>>^ Lastimai-vos, navios de Társis, porque vosso porto foi destruído.
+
+[[v29-23-15]]
+
+^<<v29-23-15,15>>^ Naquele tempo, Tiro será esquecida durante setenta anos. No reinado de outro rei, ao fim de setenta anos, se realizará para ela a canção da meretriz:^&#42;1^
+
+[[v29-23-16]]
+
+^<<v29-23-16,16>>^ “Toma a tua cítara, percorre a cidade, meretriz esquecida, toca com perfeição, canta a toda voz para que se lembrem de ti”.
+
+[[v29-23-17]]
+
+^<<v29-23-17,17>>^ No fim de setenta anos, o Senhor visitará Tiro, e ela recomeçará a enriquecer-se, mantendo comércio com todos os reinos do mundo, em toda a superfície da terra.
+
+[[v29-23-18]]
+
+^<<v29-23-18,18>>^ Porém, os lucros, que lhe trouxer seu comércio, serão consagrados ao Senhor, em vez de serem entesourados; seu comércio aproveitará àqueles que habitam na presença do Senhor, a fim de que tenham com que se nutrir com abundância e se vestir magnificamente.
+
+'''
+
+xref:029-isaias/029-isaias-022.adoc#v29-22-0[&#60; Capítulo Anterior] | <<v29-23-0,Topo>> | xref:029-isaias/029-isaias-024.adoc#v29-24-0[Próximo Capítulo &#62;]

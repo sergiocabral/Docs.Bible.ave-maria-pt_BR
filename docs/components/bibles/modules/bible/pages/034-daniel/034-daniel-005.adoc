@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v34-5-0]]
+=== Daniel, 5
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 5 do livro de Daniel relata a história do rei Belsazar, que deu um grande banquete para mil dos seus nobres e bebeu vinho de vasos sagrados tirados do templo de Jerusalém. Durante o banquete, apareceu uma mão que escreveu na parede uma mensagem misteriosa, que Daniel interpretou como um julgamento de Deus sobre o rei por sua arrogância e profanação do templo. Abaixo estão cinco versículos relacionados aos temas abordados nesse capítulo:
+* Provérbios 16:18: "O orgulho precede a ruína; a arrogância, a queda." Este versículo fala da conexão entre o orgulho e a queda, o que é ilustrado na história do rei Belsazar, que se considerava invencível e imune ao julgamento de Deus.
+* Hebreus 10:31: "Terrível coisa é cair nas mãos do Deus vivo." Este versículo fala da justiça e do poder de Deus, que é capaz de julgar e punir os ímpios. É uma mensagem que o rei Belsazar precisava ouvir, mas infelizmente não levou a sério.
+* Isaías 44:25: "Desfaço os sinais dos falsos profetas e faço de seus adivinhos tolos; torno sábios os que têm discernimento e transformo o conhecimento dos seus sábios em loucura." Este versículo fala da superioridade do conhecimento e da sabedoria de Deus em relação às falsas religiões e às práticas de adivinhação. Daniel demonstrou essa superioridade ao interpretar a mensagem escrita na parede, que ninguém mais podia entender.
+* Romanos 2:4: "Você despreza as riquezas da bondade, tolerância e paciência de Deus, não reconhecendo que a bondade de Deus o leva ao arrependimento?" Este versículo fala da paciência e misericórdia de Deus, que deseja que as pessoas se arrependam de seus pecados e voltem para Ele. O rei Belsazar teve a oportunidade de se arrepender, mas escolheu ignorar a mensagem de Deus e sofreu as consequências.
+* Mateus 7:6: "Não deem o que é sagrado aos cães, nem joguem suas pérolas aos porcos. Se fizerem isso, eles poderão pisá-las e depois se voltar contra vocês e despedaçá-los." Este versículo fala da importância de reconhecer o valor das coisas sagradas e não profaná-las ou jogá-las fora de forma irresponsável. O rei Belsazar foi culpado de profanar os vasos sagrados do templo de Jerusalém, mostrando sua falta de respeito pelas coisas santas de Deus.
+****
+
+[[v34-5-1]]
+
+^<<v34-5-1,1>>^ O rei Baltazar deu uma festa para seus mil nobres, em presença dos quais pôs-se a beber vinho.^&#42;1^
+
+[[v34-5-2]]
+
+^<<v34-5-2,2>>^ Excitado pela bebida, mandou trazer os vasos de ouro e de prata que seu pai Nabucodonosor tinha arrebatado ao templo de Jerusalém, a fim de que o rei, seus nobres, suas mulheres e suas concubinas deles se servissem para beber.
+
+[[v34-5-3]]
+
+^<<v34-5-3,3>>^ Trouxeram então os vasos de ouro que tinham sido arrebatados ao Templo de Deus em Jerusalém. O rei, seus nobres, suas mulheres e suas concubinas beberam neles
+
+[[v34-5-4]]
+
+^<<v34-5-4,4>>^ e, depois de terem bebido vinho, entoaram o louvor aos deuses de ouro e prata, bronze, ferro, madeira e pedra.
+
+[[v34-5-5]]
+
+^<<v34-5-5,5>>^ Ora, nesse momento, eis que surgiram dedos de mão humana a escrever, defronte do candelabro, no revestimento da parede do palácio real. O rei, à vista dessa mão que escrevia,
+
+[[v34-5-6]]
+
+^<<v34-5-6,6>>^ mudou de cor; pensamentos tétricos assaltaram-no; os músculos de seus rins relaxaram-se e seus joelhos entrechocaram-se.
+
+[[v34-5-7]]
+
+^<<v34-5-7,7>>^ Gritou violentamente que mandassem vir os magos, os caldeus e os astrólogos. Mandou-lhes dizer: “Aquele que decifrar essa inscrição e me der o sentido dela será revestido de púrpura, usará ao pescoço um colar de ouro e tomará o terceiro lugar no governo do reino”.
+
+[[v34-5-8]]
+
+^<<v34-5-8,8>>^ Todos os sábios do rei entraram na sala, mas foram incapazes de ler a inscrição e dar seu significado ao rei.
+
+[[v34-5-9]]
+
+^<<v34-5-9,9>>^ Baltazar ficou muito assustado, seu rosto mudou de cor; seus nobres sentiam-se constrangidos.
+
+[[v34-5-10]]
+
+^<<v34-5-10,10>>^ Mas a rainha, (atraída pelo) barulho das palavras do rei e dos nobres, entrou na sala do festim: “Ó rei” – disse –, “vive para sempre! Não te deixes atemorizar pelas tuas ideias; não mudes assim de cor.
+
+[[v34-5-11]]
+
+^<<v34-5-11,11>>^ Há no teu reino um homem no qual habita o espírito dos deuses santos. Quando teu pai era vivo, encontrava-se nele uma luz, uma inteligência e uma sabedoria comparáveis à sabedoria dos deuses. Por isso, o rei Nabucodonosor, teu pai, tinha-o nomeado chefe dos escribas, dos magos, dos caldeus e dos astrólogos;
+
+[[v34-5-12]]
+
+^<<v34-5-12,12>>^ havia-se descoberto nesse Daniel (cognominado Baltazar pelo rei) um espírito superior, uma ciência e uma penetração particular para interpretar os sonhos, explicar os enigmas e resolver as dificuldades. Que se chame logo Daniel, e ele dará o significado da inscrição”.
+
+[[v34-5-13]]
+
+^<<v34-5-13,13>>^ Daniel foi então introduzido diante do rei, o qual lhe disse: “És realmente Daniel, o deportado de Judá, que meu pai trouxe aqui da Judeia?
+
+[[v34-5-14]]
+
+^<<v34-5-14,14>>^ Ouvi dizer a teu respeito que o espírito dos deuses habita em ti e que se encontram em ti uma luz, uma inteligência e uma sabedoria singulares.
+
+[[v34-5-15]]
+
+^<<v34-5-15,15>>^ Acabam de introduzir diante de mim os sábios e os magos para ler esta inscrição e descobrir o seu significado. Não puderam dar-me a significação dessas palavras.
+
+[[v34-5-16]]
+
+^<<v34-5-16,16>>^ Ora, asseguraram-me que tu és mestre na arte das interpretações e das soluções de enigmas. Portanto, se puderes ler esse texto e me dar o seu significado, serás revestido de púrpura, usarás ao pescoço um colar de ouro e ocuparás o terceiro lugar no governo do reino”.
+
+[[v34-5-17]]
+
+^<<v34-5-17,17>>^ Respondeu Daniel ao rei: “Guarda teus presentes; concede-os a outros! Lerei, todavia, este texto ao rei e lhe darei o significado.
+
+[[v34-5-18]]
+
+^<<v34-5-18,18>>^ Ó rei, o Deus Altíssimo havia outorgado a Nabucodonosor, teu pai, realeza, grandeza, glória e majestade.
+
+[[v34-5-19]]
+
+^<<v34-5-19,19>>^ Em razão dessa grandeza que lhe era conferida, todos os povos, todas as nações e pessoas de todas as línguas tremiam de medo diante dele. Mandava matar quem queria; deixava viver quem desejava; elevava e rebaixava quem lhe aprazia.
+
+[[v34-5-20]]
+
+^<<v34-5-20,20>>^ Mas, seu coração tendo-se engrandecido e seu espírito, tendo-se endurecido na presunção, foi deposto de seu trono e despojado de sua glória.
+
+[[v34-5-21]]
+
+^<<v34-5-21,21>>^ Foi expulso do meio dos homens e, tornando-se seu coração semelhante ao dos animais, ficou em companhia dos animais selvagens, pastando ervas como os bois; e seu corpo foi molhado pelo orvalho do céu, até que ele reconhecesse que o Deus Altíssimo domina sobre a realeza humana, e aí eleva a quem bem lhe apraz.
+
+[[v34-5-22]]
+
+^<<v34-5-22,22>>^ Tu, Baltazar, seu filho, também sabias tudo isso e não humilhaste teu coração.
+
+[[v34-5-23]]
+
+^<<v34-5-23,23>>^ Tu te ergueste contra o Senhor do céu. Trouxeram-te os vasos de seu templo, nos quais bebestes o vinho, tu, teus nobres, tuas mulheres e tuas concubinas. Deste louvor aos deuses de prata e ouro, bronze, ferro, madeira e pedra, cegos, surdos e impassíveis, em lugar de dar glória ao Deus de quem depende o teu sopro vital e todo teu destino.
+
+[[v34-5-24]]
+
+^<<v34-5-24,24>>^ Assim, por ordem sua, essa mão foi enviada e essas palavras foram traçadas.
+
+[[v34-5-25]]
+
+^<<v34-5-25,25>>^ O texto aqui escrito (se lê): MENÊ, Tequêl e PERÊS.^&#42;1^
+
+[[v34-5-26]]
+
+^<<v34-5-26,26>>^ Eis o significado dessas palavras: MENÊ – Deus contou os anos de teu reinado e nele põe um fim;
+
+[[v34-5-27]]
+
+^<<v34-5-27,27>>^ Tequêl – foste pesado na balança e considerado leve demais;
+
+[[v34-5-28]]
+
+^<<v34-5-28,28>>^ PERÊS – teu reino vai ser dividido e entregue aos medos e persas”.
+
+[[v34-5-29]]
+
+^<<v34-5-29,29>>^ Então, por ordem de Baltazar, Daniel foi revestido de púrpura; colocaram-lhe ao pescoço um colar de ouro e publicou-se que ele ocuparia o terceiro lugar no governo do reino.
+
+[[v34-5-30]]
+
+^<<v34-5-30,30>>^ Mas nessa mesma noite, Baltazar, rei dos caldeus, foi morto.
+
+'''
+
+xref:034-daniel/034-daniel-004.adoc#v34-4-0[&#60; Capítulo Anterior] | <<v34-5-0,Topo>> | xref:034-daniel/034-daniel-006.adoc#v34-6-0[Próximo Capítulo &#62;]

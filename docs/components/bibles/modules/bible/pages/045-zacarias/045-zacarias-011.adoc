@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v45-11-0]]
+=== Zacarias, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Zacarias 11 é um capítulo que trata da destruição de Israel e da rejeição do Messias pelos judeus. O profeta fala sobre pastores que abandonam o rebanho e sobre a quebra da aliança entre Deus e o povo de Israel. Abaixo estão cinco versículos relacionados aos temas abordados em Zacarias 11:
+* Isaías 53:3: "Desprezado e rejeitado pelos homens, homem de dores e experimentado nos sofrimentos; e como um de quem os homens escondiam o rosto, era desprezado, e não fizemos dele caso algum." Este versículo fala sobre a rejeição do Messias pelos judeus, que não o reconheceram como o Filho de Deus.
+* Jeremias 23:1: "Ai dos pastores que destroem e dispersam as ovelhas do meu pasto, diz o Senhor." Este versículo fala sobre a negligência dos pastores em cuidar do rebanho de Deus, o que é semelhante à situação descrita em Zacarias 11.
+* Ezequiel 34:10: "Assim diz o Senhor Deus: Eis que eu estou contra os pastores; das suas mãos requererei as minhas ovelhas, e farei com que eles deixem de apascentar as ovelhas, de modo que não se apascentem mais a si mesmos; livrarei as minhas ovelhas da sua boca, para que não lhes sirvam de pasto." Este versículo também se refere à negligência dos pastores em cuidar do rebanho de Deus, e à necessidade de Deus intervir para salvar suas ovelhas.
+* Salmo 79:1: "Ó Deus, os gentios entraram na tua herança; contaminaram o teu santo templo; reduziram Jerusalém a montões de pedras." Este salmo fala sobre a destruição de Jerusalém e do templo de Deus, que foi profetizada em Zacarias 11.
+* Mateus 21:42: "Disse-lhes Jesus: Nunca lestes nas Escrituras: A pedra que os construtores rejeitaram, essa veio a ser a principal pedra, angular; isso procede do Senhor e é maravilhoso aos nossos olhos?" Este versículo se refere à rejeição do Messias pelos líderes religiosos judeus, e à sua eventual importância como a pedra angular da igreja de Deus.
+****
+
+[[v45-11-1]]
+
+^<<v45-11-1,1>>^ Abre, ó Líbano, as tuas portas, e o fogo devore os teus cedros; geme, cipreste, porque o cedro caiu.
+
+[[v45-11-2]]
+
+^<<v45-11-2,2>>^ As mais belas árvores foram abatidas! Gemei, carvalhos de Basã, porque foi dizimada a floresta impenetrável.
+
+[[v45-11-3]]
+
+^<<v45-11-3,3>>^ Ouve-se o pranto dos pastores porque foram arruinados os seus pastos, o seu orgulho. Ouve-se o rugir dos leõezinhos, porque foram devastadas as florestas do Jordão.
+
+[[v45-11-4]]
+
+^<<v45-11-4,4>>^ Eis o que diz o Senhor, meu Deus:
+
+[[v45-11-5]]
+
+^<<v45-11-5,5>>^ “Apascenta estas ovelhas destinadas ao matadouro, que são compradas e degoladas impunemente, cujos vendedores dizem: Bendito seja o Senhor! Eis que estou rico! – sem que nenhum pastor tenha compaixão delas.
+
+[[v45-11-6]]
+
+^<<v45-11-6,6>>^ Por minha vez, não pouparei mais os habitantes desta terra – oráculo do Senhor. Entregarei os homens uns aos outros e nas mãos de seu rei; devastarão o país e não livrarei ninguém de sua mão”.
+
+[[v45-11-7]]
+
+^<<v45-11-7,7>>^ Pus-me, então, a apascentar as ovelhas destinadas ao matadouro, as mais miseráveis do rebanho. Escolhi dois cajados, aos quais chamei respectivamente Benevolência e União, e comecei a apascentar o rebanho.
+
+[[v45-11-8]]
+
+^<<v45-11-8,8>>^ Despedi os três pastores desde o primeiro mês: eu estava cansado deles, e eles estavam desgostados de mim.
+
+[[v45-11-9]]
+
+^<<v45-11-9,9>>^ Eu declarei: “Não quero mais saber do ofício de pastor. Pereça o que perecer, morra o que morrer! Os que restarem, que se devorem uns aos outros”.
+
+[[v45-11-10]]
+
+^<<v45-11-10,10>>^ Tomando então Benevolência, meu cajado, quebrei-o, rompendo assim o pacto concluído com todos os povos.
+
+[[v45-11-11]]
+
+^<<v45-11-11,11>>^ Ele foi quebrado naquele dia e os mercadores de animais que me observavam perceberam que aquilo indicava um oráculo do Senhor.
+
+[[v45-11-12]]
+
+^<<v45-11-12,12>>^ Eu disse-lhes: “Dai-me o meu salário, se o julgais bem ou, então, retende-o!”. Eles pagaram-me apenas trinta moedas de prata pelo meu salário.
+
+[[v45-11-13]]
+
+^<<v45-11-13,13>>^ O Senhor disse-me: “Lança esse dinheiro no tesouro, esta bela soma, na qual estimaram os teus serviços”. Tomei as trinta moedas de prata e lancei-as no tesouro da casa do Senhor.^&#42;1^
+
+[[v45-11-14]]
+
+^<<v45-11-14,14>>^ Depois tomei o meu cajado União e quebrei-o, rompendo assim o pacto de fraternidade entre Judá e Israel.
+
+[[v45-11-15]]
+
+^<<v45-11-15,15>>^ O Senhor disse-me: “Aparelha-te agora como um mau pastor.
+
+[[v45-11-16]]
+
+^<<v45-11-16,16>>^ Estou pronto a suscitar nesta terra um pastor que não terá cuidado das ovelhas que perecem, não buscará as que se desgarram, não curará a que for ferida, nem alimentará a sã; mas comerá a carne das melhores e lhes arrancará as unhas.^&#42;1^
+
+[[v45-11-17]]
+
+^<<v45-11-17,17>>^ Ai do mau pastor que abandona o seu rebanho! Que a espada fira o seu braço e o seu olho direito! Que seque seu braço e seja coberto de trevas o seu olho direito!”.^&#42;1^
+
+'''
+
+xref:045-zacarias/045-zacarias-010.adoc#v45-10-0[&#60; Capítulo Anterior] | <<v45-11-0,Topo>> | xref:045-zacarias/045-zacarias-012.adoc#v45-12-0[Próximo Capítulo &#62;]

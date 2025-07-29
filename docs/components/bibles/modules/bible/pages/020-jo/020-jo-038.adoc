@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v20-38-0]]
+=== Jó, 38
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* No capítulo 38 de Jó, Deus responde a Jó do meio de uma tempestade, questionando-o sobre quem ele é para questionar a sabedoria divina e o propósito da criação. Deus fala sobre o poder da natureza, o estabelecimento das fronteiras do mar e a origem do relâmpago, entre outros temas. Abaixo estão cinco versículos relacionados aos temas abordados em Jó 38:
+* Salmos 104:5-6: "Estabeleceste a terra sobre os seus fundamentos; ela jamais será abalada. Tu a cobriste com o abismo, como com um manto; as águas envolviam as montanhas." Este versículo fala sobre como Deus estabeleceu a terra em sua posição e a cobriu com águas.
+* Provérbios 8:29: "Quando ele fixou as nuvens no alto e fez as nascentes das águas do mar poderem chegar até aqui," Este versículo descreve como Deus criou as nuvens e estabeleceu os limites do mar.
+* Jó 38:8: "Ou quem encerrou o mar com portas, quando ele, irrompendo do seio materno, saiu para a luz," Este versículo está diretamente relacionado ao tema do estabelecimento das fronteiras do mar mencionado por Deus em Jó 38.
+* Salmos 29:3-4: "A voz do Senhor ressoa sobre as águas; o Deus da glória troveja, o Senhor sobre as muitas águas. A voz do Senhor é poderosa; a voz do Senhor é majestosa." Este versículo menciona o poder da voz de Deus sobre as águas, um tema relacionado à descrição da tempestade em Jó 38.
+* Jeremias 10:12: "Ele fez a terra pelo seu poder, estabeleceu o mundo por sua sabedoria, e estendeu os céus por sua inteligência." Este versículo fala sobre a sabedoria e poder de Deus na criação do mundo, um tema central na resposta de Deus a Jó em Jó 38.
+****
+
+[[v20-38-1]]
+
+^<<v20-38-1,1>>^ Então, do seio da tempestade, o Senhor deu a Jó esta resposta:^&#42;1^
+
+[[v20-38-2]]
+
+^<<v20-38-2,2>>^ “Quem é este que obscurece a Providência com discursos sem sentido?
+
+[[v20-38-3]]
+
+^<<v20-38-3,3>>^ Cinge os teus rins como um valente! Vou interrogar-te e tu me responderás.
+
+[[v20-38-4]]
+
+^<<v20-38-4,4>>^ Onde estavas, quando lancei os fundamentos da terra? Fala, se estiveres informado disso.
+
+[[v20-38-5]]
+
+^<<v20-38-5,5>>^ Quem lhe deu as medidas, já que o sabes? Ou quem sobre ela estendeu o cordel?^&#42;1^
+
+[[v20-38-6]]
+
+^<<v20-38-6,6>>^ Onde se assentam suas bases? Ou quem colocou nela a pedra angular,
+
+[[v20-38-7]]
+
+^<<v20-38-7,7>>^ sob os alegres concertos dos astros da manhã e sob as aclamações de todos os filhos de Deus?
+
+[[v20-38-8]]
+
+^<<v20-38-8,8>>^ Quem fechou com portas o mar, quando brotou do seio materno,
+
+[[v20-38-9]]
+
+^<<v20-38-9,9>>^ quando lhe dei as nuvens por vestimenta e o enfaixava com névoas tenebrosas?
+
+[[v20-38-10]]
+
+^<<v20-38-10,10>>^ Eu lhe tracei limites e lhe pus portas e ferrolhos,
+
+[[v20-38-11]]
+
+^<<v20-38-11,11>>^ dizendo: ‘Chegarás até aqui e não irás mais longe; aqui se deterá o orgulho de tuas ondas?’.
+
+[[v20-38-12]]
+
+^<<v20-38-12,12>>^ Algum dia na vida deste ordens à manhã, ou indicaste à aurora o seu lugar,
+
+[[v20-38-13]]
+
+^<<v20-38-13,13>>^ para que ela alcançasse as extremidades da terra e dela sacudisse os ímpios?^&#42;1^
+
+[[v20-38-14]]
+
+^<<v20-38-14,14>>^ A terra se molda como a argila sob o sinete e toma cor como um vestido.
+
+[[v20-38-15]]
+
+^<<v20-38-15,15>>^ Aos ímpios, contudo, é recusada sua luz e se rompe o braço ameaçador.^&#42;1^
+
+[[v20-38-16]]
+
+^<<v20-38-16,16>>^ Acaso chegaste até as fontes do mar ou passaste até o fundo do abismo?
+
+[[v20-38-17]]
+
+^<<v20-38-17,17>>^ Apareceram-te, porventura, as portas da morte, ou viste a entrada da morada tenebrosa?
+
+[[v20-38-18]]
+
+^<<v20-38-18,18>>^ Tens ideia da extensão da terra? Fala, se sabes tudo!
+
+[[v20-38-19]]
+
+^<<v20-38-19,19>>^ Onde está o caminho para a morada da luz? Quanto às trevas, onde é o seu lugar?
+
+[[v20-38-20]]
+
+^<<v20-38-20,20>>^ Poderias alcançá-las em seu domínio e reconhecer as veredas de sua morada?
+
+[[v20-38-21]]
+
+^<<v20-38-21,21>>^ Deverias sabê-lo, pois já tinhas nascido e são numerosos os teus dias!^&#42;1^
+
+[[v20-38-22]]
+
+^<<v20-38-22,22>>^ Entraste nos depósitos da neve ou visitaste os armazéns dos granizos
+
+[[v20-38-23]]
+
+^<<v20-38-23,23>>^ que reservo para os tempos de tormento, para os dias de luta e de batalha?
+
+[[v20-38-24]]
+
+^<<v20-38-24,24>>^ Por que caminho se espalha o nevoeiro e se expande o vento do oriente sobre a terra?
+
+[[v20-38-25]]
+
+^<<v20-38-25,25>>^ Quem abre um canal para o aguaceiro e uma rota para os relâmpagos dos trovões,
+
+[[v20-38-26]]
+
+^<<v20-38-26,26>>^ para fazer chover sobre uma terra desabitada e sobre um deserto sem seres humanos,
+
+[[v20-38-27]]
+
+^<<v20-38-27,27>>^ para regar regiões vastas e desoladas, para nelas fazer germinar a erva verdejante?
+
+[[v20-38-28]]
+
+^<<v20-38-28,28>>^ Terá a chuva um pai? Quem gera as gotas do orvalho?
+
+[[v20-38-29]]
+
+^<<v20-38-29,29>>^ De que seio sai o gelo e quem engendra a geada do céu?
+
+[[v20-38-30]]
+
+^<<v20-38-30,30>>^ As águas se endurecem como pedra e a superfície do abismo se congela!
+
+[[v20-38-31]]
+
+^<<v20-38-31,31>>^ És tu que atas os laços das Plêiades ou desatas as correntes do Órion?^&#42;1^
+
+[[v20-38-32]]
+
+^<<v20-38-32,32>>^ És tu que fazes sair a seu tempo as constelações ou conduzes a Ursa com seus filhos?
+
+[[v20-38-33]]
+
+^<<v20-38-33,33>>^ Conheces as leis do céu e regulas sua influência sobre a terra?
+
+[[v20-38-34]]
+
+^<<v20-38-34,34>>^ Levantarás a tua voz até as nuvens e o dilúvio te obedecerá?
+
+[[v20-38-35]]
+
+^<<v20-38-35,35>>^ Tua ordem fará os relâmpagos surgirem e te dirão: ‘Aqui estamos?’.
+
+[[v20-38-36]]
+
+^<<v20-38-36,36>>^ Quem pôs sabedoria nas nuvens e inteligência no meteoro?^&#42;1^
+
+[[v20-38-37]]
+
+^<<v20-38-37,37>>^ Quem pode enumerar com sabedoria as nuvens e inclinar as odres do céu,
+
+[[v20-38-38]]
+
+^<<v20-38-38,38>>^ para que a poeira se transforme em massa compacta e os seus torrões se aglomerem?
+
+[[v20-38-39]]
+
+^<<v20-38-39,39>>^ És tu que caças a presa para a leoa ou satisfazes a fome dos leõezinhos,
+
+[[v20-38-40]]
+
+^<<v20-38-40,40>>^ quando estão deitados em seus covis ou quando se emboscam nas covas?
+
+[[v20-38-41]]
+
+^<<v20-38-41,41>>^ Quem prepara ao corvo o seu alimento, quando seus filhotes gritam a Deus, quando andam de um lado para outro por não terem o que comer?
+
+'''
+
+xref:020-jo/020-jo-037.adoc#v20-37-0[&#60; Capítulo Anterior] | <<v20-38-0,Topo>> | xref:020-jo/020-jo-039.adoc#v20-39-0[Próximo Capítulo &#62;]

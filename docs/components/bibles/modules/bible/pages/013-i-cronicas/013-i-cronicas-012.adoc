@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v13-12-0]]
+=== I Crônicas, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Crônicas 12 é um capítulo que descreve a chegada dos guerreiros que se juntaram a Davi em sua luta contra Saul. Esses guerreiros vieram de diversas tribos de Israel e trouxeram consigo habilidades e recursos valiosos. Abaixo estão cinco versículos relacionados com temas abordados neste capítulo:
+* Salmos 18:32-33: "É Deus que me cinge de força e torna perfeito o meu caminho. Ele faz os meus pés como os da corça e me firma nas alturas." Este salmo fala da proteção e fortalecimento que Deus oferece a Davi, que é um tema recorrente em 1 Crônicas 12.
+* Provérbios 24:6: "Com sabedoria se constrói uma casa, e com discernimento ela é cheia de preciosidades." Este versículo fala da importância da sabedoria e discernimento na tomada de decisões e na construção de um lar, o que pode ser relacionado com a seleção cuidadosa dos guerreiros em 1 Crônicas 12.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo fala da proteção e ajuda que Deus oferece a seu povo, o que é relevante para a proteção que Davi e seus guerreiros buscavam em 1 Crônicas 12.
+* Romanos 12:6-8: "Tendo, pois, diferentes dons, segundo a graça que nos foi dada, se é profecia, seja ela segundo a medida da fé; se é ministério, seja em ministrar; se é ensinar, haja dedicação ao ensino; ou o que exorta, use esse dom em exortar." Este versículo fala dos diferentes dons e habilidades que Deus concede a seu povo, o que pode ser relacionado com as habilidades variadas trazidas pelos guerreiros em 1 Crônicas 12.
+* Efésios 6:11: "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo." Este versículo fala da importância de estar preparado para a batalha espiritual, o que pode ser relacionado com a preparação física e mental que os guerreiros em 1 Crônicas 12 devem ter tido para a luta contra Saul e seus exércitos.
+****
+
+[[v13-12-1]]
+
+^<<v13-12-1,1>>^ Eis os que foram juntar-se a Davi, em Siceleg, quando este ainda estava escondido de Saul, filho de Cis; eram do grupo dos homens valentes que lhe prestaram auxílio durante a guerra.
+
+[[v13-12-2]]
+
+^<<v13-12-2,2>>^ Eram arqueiros, exercitados em lançar pedras, tão bem com a mão esquerda como com a direita e a atirar flechas com o arco; eram irmãos da tribo de Saul, de Benjamim.
+
+[[v13-12-3]]
+
+^<<v13-12-3,3>>^ Seus chefes eram Aiezer, em seguida Joás, ambos filhos de Samaá, de Gabaá; Jaziel e Falet, filhos de Azmot; Baraca e Jeú, de Anatot;
+
+[[v13-12-4]]
+
+^<<v13-12-4,4>>^ Ismaías, de Gabaon, valente entre os trinta e chefe dos trinta; Jeremias; Jeeziel; Joanã; Jozabad, de Gederot; Eluzai; Jerimot; Baalias; Samarias;
+
+[[v13-12-5]]
+
+^<<v13-12-5,5>>^ Safatias, de Harif;
+
+[[v13-12-6]]
+
+^<<v13-12-6,6>>^ Elcana, Jesias, Azareel, Joezer e Jesbaam, filhos de Coré;
+
+[[v13-12-7]]
+
+^<<v13-12-7,7>>^ Joela e Zabadias, filhos de Jeroam, de Gedor.
+
+[[v13-12-8]]
+
+^<<v13-12-8,8>>^ Homens valentes dos gaditas passaram para o lado de Davi nas cavernas do deserto. Eram guerreiros exercitados no combate, que sabiam manejar o escudo e a lança. Tinham o aspecto de leões e a agilidade das gazelas nas montanhas.
+
+[[v13-12-9]]
+
+^<<v13-12-9,9>>^ Ezer era seu chefe; Abdias, o segundo; Eliab, o terceiro;
+
+[[v13-12-10]]
+
+^<<v13-12-10,10>>^ Masmana, o quarto; Jeremias, o quinto;
+
+[[v13-12-11]]
+
+^<<v13-12-11,11>>^ Eti, o sexto; Eliel, o sétimo;
+
+[[v13-12-12]]
+
+^<<v13-12-12,12>>^ Joanã, o oitavo; Elzebad, o nono;
+
+[[v13-12-13]]
+
+^<<v13-12-13,13>>^ Jeremias, o décimo; Macbanai, o décimo primeiro.
+
+[[v13-12-14]]
+
+^<<v13-12-14,14>>^ Eram estes os filhos de Gad, chefes do exército. O menor deles, sozinho, podia vencer cem e o mais forte, mil.
+
+[[v13-12-15]]
+
+^<<v13-12-15,15>>^ Foram eles que atravessaram o Jordão, no primeiro mês, quando o rio costuma transbordar em todo o seu curso e que puseram em fuga todos os habitantes dos vales, a leste e a oeste.
+
+[[v13-12-16]]
+
+^<<v13-12-16,16>>^ Houve também filhos de Benjamim e de Judá, que vieram aliar-se a Davi, que estava escondido nas cavernas.
+
+[[v13-12-17]]
+
+^<<v13-12-17,17>>^ Davi saiu-lhes ao encontro e lhes disse: “Se é como amigos que vindes a mim, para me prestar auxílio, eu estou unido de coração convosco; mas, se é para me trair e me entregar aos inimigos, enquanto minhas mãos estão limpas de toda violência, que o Deus de nossos pais o veja e faça justiça”.
+
+[[v13-12-18]]
+
+^<<v13-12-18,18>>^ Então, o espírito entrou em Amasaí, chefe dos trinta, o qual disse: “A ti, Davi e contigo, filho de Jessé! Paz, paz a ti e àquele que te protege, porque teu Deus te presta auxílio”. Davi recebeu-os e lhes deu um lugar entre os chefes da tropa.
+
+[[v13-12-19]]
+
+^<<v13-12-19,19>>^ De Manassés também passaram homens para o lado de Davi, quando ele foi, com os filisteus, fazer guerra a Saul. Contudo, não socorreram os filisteus, porque, depois de se reunirem em conselho, os príncipes dos filisteus despediram Davi, dizendo: “Ele passará para o lado de seu mestre Saul à custa de nossas cabeças”.
+
+[[v13-12-20]]
+
+^<<v13-12-20,20>>^ Quando voltou a Siceleg, homens de Manassés juntaram-se a ele: Ednas, Jozabad, Jediel, Miguel, Jozabad, Eliú e Salati, chefes de milhares de homens de Manassés.
+
+[[v13-12-21]]
+
+^<<v13-12-21,21>>^ Ajudaram Davi contra os bandos de saqueadores, porque todos eram homens valentes e foram chefes no exército.
+
+[[v13-12-22]]
+
+^<<v13-12-22,22>>^ Todos os dias vinham homens a Davi para auxiliá-lo, tanto que, por fim, ele teve um grande exército, como um exército de Deus.
+
+[[v13-12-23]]
+
+^<<v13-12-23,23>>^ Este é o número dos homens equipados para a guerra que foram ter com Davi, em Hebron, para transferir-lhe o reino de Saul, segundo a ordem do Senhor:
+
+[[v13-12-24]]
+
+^<<v13-12-24,24>>^ filhos de Judá, portadores de escudo e lança: seis mil e oitocentos, armados para a guerra.
+
+[[v13-12-25]]
+
+^<<v13-12-25,25>>^ Dos filhos de Simeão, sete mil e cem valentes guerreiros.
+
+[[v13-12-26]]
+
+^<<v13-12-26,26>>^ Dos filhos de Levi, quatro mil e seissentos;
+
+[[v13-12-27]]
+
+^<<v13-12-27,27>>^ Joiada, chefe da casa de Aarão, com tres mil e setecentos homens,
+
+[[v13-12-28]]
+
+^<<v13-12-28,28>>^ e Sadoc, jovem e valente guerreiro, e a casa de seu pai, 22 chefes.
+
+[[v13-12-29]]
+
+^<<v13-12-29,29>>^ Dos filhos de Benjamim, irmãos de Saul, três mil; até então, a maior parte deles guardava fidelidade à casa de Saul.
+
+[[v13-12-30]]
+
+^<<v13-12-30,30>>^ Dos filhos de Efraim, vinte mil e oitocentos guerreiros conhecidos pela sua valentia nas suas famílias.
+
+[[v13-12-31]]
+
+^<<v13-12-31,31>>^ Da meia tribo de Manassés, dezoito mil, que foram nominalmente designados para ir proclamar Davi rei.
+
+[[v13-12-32]]
+
+^<<v13-12-32,32>>^ Dos filhos de Issacar, que tinham o senso da oportunidade e sabiam o que Israel devia fazer, duzentos chefes e todos os seus irmãos sob suas ordens.^&#42;1^
+
+[[v13-12-33]]
+
+^<<v13-12-33,33>>^ De Zabulon, 50.000 homens preparados para a guerra e perfeitamente equipados com todas as armas, prontos para socorrer Davi, de coração resoluto.
+
+[[v13-12-34]]
+
+^<<v13-12-34,34>>^ De Neftali, mil chefes e com eles trinta e sete mil homens levando escudo e lança.
+
+[[v13-12-35]]
+
+^<<v13-12-35,35>>^ Dos danitas, vinte e oito mil e seissentos homens prontos para se pôr em linha de batalha.
+
+[[v13-12-36]]
+
+^<<v13-12-36,36>>^ De Aser, aptos para o serviço militar e preparados para o combate, quarenta mil.
+
+[[v13-12-37]]
+
+^<<v13-12-37,37>>^ E, do outro lado do Jordão, dos rubenitas, dos gaditas e da meia tribo de Manassés, em perfeito equipamento de armas de guerra, cento e vinte mil.
+
+[[v13-12-38]]
+
+^<<v13-12-38,38>>^ Todos esses homens de guerra, prontos para se formarem em linha de batalha, vieram de coração sincero a Hebron, para aclamar Davi rei de todo o Israel. E todo o restante de Israel estava igualmente unânime em aclamar Davi rei.
+
+[[v13-12-39]]
+
+^<<v13-12-39,39>>^ Permaneceram ali três dias com Davi, comendo e bebendo, porque seus irmãos lhes tinham preparado víveres.^&#42;1^
+
+[[v13-12-40]]
+
+^<<v13-12-40,40>>^ Ademais, os que moravam perto deles, até Issacar, Zabulon e Neftali, traziam-lhes víveres, sobre jumentos, camelos, mulas e bois, farinha, massa de figos, tortas de uvas, vinho, óleo, bois, ovelhas em abundância, porque havia alegria em Israel.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-011.adoc#v13-11-0[&#60; Capítulo Anterior] | <<v13-12-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-013.adoc#v13-13-0[Próximo Capítulo &#62;]

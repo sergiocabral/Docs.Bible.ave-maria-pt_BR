@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v30-43-0]]
+=== Jeremias, 43
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 43 narra a fuga dos judeus para o Egito, mesmo após terem sido advertidos pelo profeta Jeremias de que essa não era a vontade de Deus. Os versículos abaixo abordam temas relacionados a essa desobediência e rebeldia do povo contra Deus:
+* Jeremias 42:19-20: "O Senhor falou a vosso respeito, ó remanescente de Judá: Não entrem no Egito. Saibam com certeza que hoje eu os adverti." Esse versículo mostra a advertência de Deus aos judeus, pedindo-lhes que não fossem para o Egito.
+* Deuteronômio 28:68: "O Senhor os levará de volta ao Egito em navios, pelo caminho do qual eu disse que vocês jamais tornariam a ver. Ali vocês oferecerão-se como escravos aos vossos inimigos, mas não haverá ninguém que os compre." Esse versículo fala sobre a maldição de Deus que recairia sobre os judeus caso se rebelassem contra ele, sendo levados de volta ao Egito como escravos.
+* Jeremias 42:13-14: "Se vocês decidirem ficar nesta terra, eu os edificarei e não os destruirei; eu os plantarei e não os arrancarei, pois estou arrependido do mal que lhes fiz. Não tenham medo do rei da Babilônia, a quem vocês temem agora. Não tenham medo dele, diz o Senhor, pois eu estou com vocês e os salvarei das suas mãos." Esse versículo mostra a promessa de Deus aos judeus caso decidissem ficar na terra, confiando em sua proteção e livramento.
+* Êxodo 13:21-22: "O Senhor ia à frente deles, durante o dia, numa coluna de nuvem, para guiá-los pelo caminho, e durante a noite, numa coluna de fogo, para iluminá-los, para que pudessem caminhar de dia e de noite. Jamais abandonou a coluna de nuvem durante o dia, nem a coluna de fogo durante a noite, perante o povo." Esse versículo mostra a liderança e a proteção de Deus sobre seu povo, guiando-os por meio da coluna de nuvem durante o dia e da coluna de fogo durante a noite.
+* Salmos 106:7-8: "Nossos pais, no Egito, não compreenderam as tuas maravilhas, não se lembraram da multidão das tuas misericórdias, antes rebelaram-se junto ao mar, o Mar Vermelho." Esse versículo fala sobre a desobediência e a rebeldia dos pais dos judeus no Egito, que não compreenderam as maravilhas de Deus e se rebelaram contra ele.
+****
+
+[[v30-43-1]]
+
+^<<v30-43-1,1>>^ Assim que Jeremias acabou de dizer ao povo o que o Senhor lhe tinha encarregado de transmitir,
+
+[[v30-43-2]]
+
+^<<v30-43-2,2>>^ Azarias, filho de Osaías, Joanã, filho de Carea, e todos aqueles orgulhosos exclamaram: “São mentiras o que proferes. Não te deu o Senhor, nosso Deus, o encargo de nos dizer que não fôssemos morar no Egito.
+
+[[v30-43-3]]
+
+^<<v30-43-3,3>>^ É Baruc, filho de Neerias, que te lança contra nós com o fim de nos entregar aos caldeus para a morte e para a deportação à Babilônia”.
+
+[[v30-43-4]]
+
+^<<v30-43-4,4>>^ E assim Joanã, filho de Carea, os chefes e os sobreviventes do povo mostraram-se surdos à voz do Senhor que lhes ordenara permanecerem em Judá.
+
+[[v30-43-5]]
+
+^<<v30-43-5,5>>^ Joanã, filho de Carea, e os chefes conduziram os sobreviventes judeus que haviam regressado dos países em que se tinham dispersado, a fim de habitarem novamente na terra de Judá.
+
+[[v30-43-6]]
+
+^<<v30-43-6,6>>^ Eram homens, mulheres e crianças, as princesas reais, todos os que Nebuzardã, chefe dos guardas, havia deixado junto de Godolias, filho de Aicam, filho de Safã, entre eles o profeta Jeremias e Baruc, filho de Neerias.^&#42;1^
+
+[[v30-43-7]]
+
+^<<v30-43-7,7>>^ Desobedecendo, assim, à voz do Senhor, partiram para o Egito e alcançaram Táfnis.
+
+[[v30-43-8]]
+
+^<<v30-43-8,8>>^ Em Táfnis, foi dirigida a Jeremias a palavra do Senhor nestes termos:
+
+[[v30-43-9]]
+
+^<<v30-43-9,9>>^ “Toma em tuas mãos pedras bem grandes e, ante os olhos dos judeus, introduze-as na calçada em frente à porta do palácio do faraó, em Táfnis.
+
+[[v30-43-10]]
+
+^<<v30-43-10,10>>^ E, em seguida, lhes dirás: Eis o que diz o Senhor dos exércitos, Deus de Israel: Vou mandar chamar aqui meu servo Nabucodonosor, rei da Babilônia. Eu lhe colocarei o trono sobre as pedras introduzidas neste lugar, e sobre elas estenderá ele também o seu tapete.
+
+[[v30-43-11]]
+
+^<<v30-43-11,11>>^ Ele virá aqui e ferirá o Egito. O que é para a morte, à morte! O que é para o cativeiro, ao cativeiro! O que é para a espada, à espada!
+
+[[v30-43-12]]
+
+^<<v30-43-12,12>>^ Lançará fogo aos templos dos deuses do Egito, e os queimará, levando cativos (os seus ídolos). Despojará o Egito, qual pastor a limpar seu manto, e regressará triunfante.^&#42;1^
+
+[[v30-43-13]]
+
+^<<v30-43-13,13>>^ E destruirá os obeliscos do templo do Sol, no Egito, e entregará às chamas todos os templos dos seus deuses”.
+
+'''
+
+xref:030-jeremias/030-jeremias-042.adoc#v30-42-0[&#60; Capítulo Anterior] | <<v30-43-0,Topo>> | xref:030-jeremias/030-jeremias-044.adoc#v30-44-0[Próximo Capítulo &#62;]

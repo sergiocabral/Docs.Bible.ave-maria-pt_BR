@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v48-7-0]]
+=== São Marcos, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Marcos 7 começa com fariseus e escribas questionando Jesus sobre os discípulos que comiam sem lavar as mãos, e Jesus condena a hipocrisia deles e a ênfase nas tradições humanas em detrimento dos mandamentos de Deus. Em seguida, Jesus ensina que o que torna o homem impuro não é o que entra em sua boca, mas sim o que sai dela, pois o que sai do coração é que contamina o homem. Os versículos relacionados com esses temas são:
+* Provérbios 4:23: "Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as saídas da vida." Este versículo ressalta a importância de cuidar do coração, já que é dele que saem as ações e palavras que moldam a vida de uma pessoa.
+* Isaías 29:13: "Porque o Senhor disse: Pois que este povo se aproxima de mim, e com a sua boca, e com os seus lábios me honra, mas o seu coração se afasta para longe de mim e o seu temor para comigo consiste só em mandamentos de homens, em que foi instruído." Este versículo mostra a crítica divina aos que honram a Deus apenas com os lábios, mas têm o coração longe d'Ele, e se agarram apenas em tradições humanas.
+* Mateus 15:11: "Não é o que entra pela boca que contamina o homem, mas o que sai da boca, isso é o que contamina o homem." Este versículo é uma afirmação de Jesus, mostrando que o que torna uma pessoa impura não é o que ela come, mas sim o que ela fala e faz.
+* Colossenses 2:8: "Cuidado que ninguém vos venha a enredar com sua filosofia e vãs sutilezas, conforme a tradição dos homens, conforme os rudimentos do mundo e não segundo Cristo." Este versículo adverte contra a crença em tradições humanas e filosofias vazias que se opõem aos ensinamentos de Cristo.
+* Efésios 5:6: "Ninguém vos engane com palavras vãs; porque por estas coisas vem a ira de Deus sobre os filhos da desobediência." Este versículo alerta para o perigo de seguir ensinamentos vazios e desobedecer os mandamentos de Deus.
+****
+
+[[v48-7-1]]
+
+^<<v48-7-1,1>>^ Os fariseus e alguns dos escribas vindos de Jerusalém tinham se reunido em torno dele.
+
+[[v48-7-2]]
+
+^<<v48-7-2,2>>^ E perceberam que alguns dos seus discípulos comiam o pão com as mãos impuras, isto é, sem as lavar.
+
+[[v48-7-3]]
+
+^<<v48-7-3,3>>^ (Com efeito, os fariseus e todos os judeus, apegando-se à tradição dos antigos, não comem sem lavar cuidadosamente as mãos;
+
+[[v48-7-4]]
+
+^<<v48-7-4,4>>^ e, quando voltam do mercado, não comem sem ter feito abluções. E há muitos outros costumes que observam por tradição, como lavar os copos, os jarros e os pratos de metal)
+
+[[v48-7-5]]
+
+^<<v48-7-5,5>>^ Os fariseus e os escribas perguntaram-lhe: “Por que não andam os teus discípulos conforme a tradição dos antigos, mas comem o pão com as mãos impuras?”.
+
+[[v48-7-6]]
+
+^<<v48-7-6,6>>^ Jesus disse-lhes: “Isaías com muita razão profetizou de vós, hipócritas, quando escreveu: Este povo honra-me com os lábios, mas o seu coração está longe de mim.
+
+[[v48-7-7]]
+
+^<<v48-7-7,7>>^ Em vão, pois, me cultuam, porque ensinam doutrinas e preceitos humanos (29,13).
+
+[[v48-7-8]]
+
+^<<v48-7-8,8>>^ Deixando o mandamento de Deus, vos apegais à tradição dos homens”.
+
+[[v48-7-9]]
+
+^<<v48-7-9,9>>^ E Jesus acrescentou: “Na realidade, invalidais o mandamento de Deus para estabelecer a vossa tradição.
+
+[[v48-7-10]]
+
+^<<v48-7-10,10>>^ Pois Moisés disse: Honra teu pai e tua mãe; e: Todo aquele que amaldiçoar pai ou mãe seja morto.
+
+[[v48-7-11]]
+
+^<<v48-7-11,11>>^ Vós, porém, dizeis: Se alguém disser ao pai ou à mãe: Qualquer coisa que de minha parte te pudesse ser útil é corban, isto é, oferta,^&#42;1^
+
+[[v48-7-12]]
+
+^<<v48-7-12,12>>^ e já não lhe deixais fazer coisa alguma a favor de seu pai ou de sua mãe,
+
+[[v48-7-13]]
+
+^<<v48-7-13,13>>^ anulando a Palavra de Deus por vossa tradição que vós vos transmitistes. E fazeis ainda muitas coisas semelhantes”.
+
+[[v48-7-14]]
+
+^<<v48-7-14,14>>^ Tendo chamado de novo a turba, dizia-lhes: “Ouvi-me todos, e entendei.
+
+[[v48-7-15]]
+
+^<<v48-7-15,15>>^ Nada há fora do homem que, entrando nele, o possa manchar; mas o que sai do homem, isso é que mancha o homem.
+
+[[v48-7-16]]
+
+^<<v48-7-16,16>>^ [A bom entendedor meia palavra basta.]”.
+
+[[v48-7-17]]
+
+^<<v48-7-17,17>>^ Quando deixou o povo e entrou em casa, os seus discípulos perguntaram-lhe acerca da parábola.
+
+[[v48-7-18]]
+
+^<<v48-7-18,18>>^ Respondeu-lhes: “Sois também vós assim ignorantes? Não compreendeis que tudo o que de fora entra no homem não o pode tornar impuro,
+
+[[v48-7-19]]
+
+^<<v48-7-19,19>>^ porque não lhe entra no coração, mas vai ao ventre e dali segue sua Lei natural?”. Assim ele declarava puros todos os alimentos. E acrescentava:
+
+[[v48-7-20]]
+
+^<<v48-7-20,20>>^ “Ora, o que sai do homem, isso é que mancha o homem.
+
+[[v48-7-21]]
+
+^<<v48-7-21,21>>^ Porque é do interior do coração dos homens que procedem os maus pensamentos: devassidões, roubos, assassinatos,
+
+[[v48-7-22]]
+
+^<<v48-7-22,22>>^ adultérios, cobiças, perversidades, fraudes, desonestidade, inveja, difamação, orgulho e insensatez.
+
+[[v48-7-23]]
+
+^<<v48-7-23,23>>^ Todos estes vícios procedem de dentro e tornam impuro o homem”. (= Mt 15,21-28)
+
+[[v48-7-24]]
+
+^<<v48-7-24,24>>^ Em seguida, deixando aquele lugar, foi para a terra de Tiro e de Sidônia. E tendo entrado numa casa, não quis que ninguém o soubesse. Mas não pôde ficar oculto,
+
+[[v48-7-25]]
+
+^<<v48-7-25,25>>^ pois uma mulher, cuja filha possuía um espírito imundo, logo que soube que ele estava ali, entrou e caiu a seus pés.
+
+[[v48-7-26]]
+
+^<<v48-7-26,26>>^ (Essa mulher era pagã, de origem siro-fenícia.) Ora, ela suplicava-lhe que expelisse de sua filha o demônio.
+
+[[v48-7-27]]
+
+^<<v48-7-27,27>>^ Disse-lhe Jesus: “Deixa primeiro que se fartem os filhos, porque não fica bem tomar o pão dos filhos e lançá-lo aos cães”.
+
+[[v48-7-28]]
+
+^<<v48-7-28,28>>^ Mas ela respondeu: “É verdade, Senhor; mas também os cachorrinhos debaixo da mesa comem das migalhas dos filhos”.
+
+[[v48-7-29]]
+
+^<<v48-7-29,29>>^ Jesus respondeu-lhe: “Por causa desta palavra, vai-te, que saiu o demônio, de tua filha”.
+
+[[v48-7-30]]
+
+^<<v48-7-30,30>>^ Voltou ela para casa e achou a menina deitada na cama. O demônio havia saído. (= Mt 15,29ss)
+
+[[v48-7-31]]
+
+^<<v48-7-31,31>>^ Ele deixou de novo as fronteiras de Tiro e foi por Sidônia ao mar da Galileia, no meio do território da Decápole.
+
+[[v48-7-32]]
+
+^<<v48-7-32,32>>^ Ora, apresentaram-lhe um surdo-mudo, rogando-lhe que lhe impusesse a mão.
+
+[[v48-7-33]]
+
+^<<v48-7-33,33>>^ Jesus tomou-o à parte dentre o povo, pôs-lhe os dedos nos ouvidos e tocou-lhe a língua com saliva.
+
+[[v48-7-34]]
+
+^<<v48-7-34,34>>^ E levantou os olhos ao céu, deu um suspiro e disse-lhe: “Éfeta!”, que quer dizer “abre-te!”
+
+[[v48-7-35]]
+
+^<<v48-7-35,35>>^ No mesmo instante, os ouvidos se lhe abriram, a prisão da língua se lhe desfez e ele falava perfeitamente.
+
+[[v48-7-36]]
+
+^<<v48-7-36,36>>^ Proibiu-lhes que o dissessem a alguém. Mas quanto mais lhes proibia, tanto mais o publicavam.
+
+[[v48-7-37]]
+
+^<<v48-7-37,37>>^ E tanto mais se admiravam, dizendo: “Ele fez bem todas as coisas. Fez ouvirem os surdos e falarem os mudos!”. (= Mt 15,32-39)
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-006.adoc#v48-6-0[&#60; Capítulo Anterior] | <<v48-7-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-008.adoc#v48-8-0[Próximo Capítulo &#62;]

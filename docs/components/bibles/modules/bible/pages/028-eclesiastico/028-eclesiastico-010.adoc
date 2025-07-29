@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v28-10-0]]
+=== Eclesiástico, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiástico 10 aborda a sabedoria e a tolice, apresentando as consequências de cada uma delas na vida das pessoas. O capítulo destaca a importância da prudência e da justiça, além de alertar sobre os perigos da arrogância e do orgulho.
+* Provérbios 16:18: "O orgulho vem antes da destruição; o espírito altivo, antes da queda." Este versículo destaca o perigo do orgulho, tema recorrente em Eclesiástico 10.
+* Provérbios 14:16: "O sábio teme e evita o mal, mas o insensato é impetuoso e despreocupado." Esse versículo enfatiza a importância da prudência, uma das principais virtudes destacadas em Eclesiástico 10.
+* Provérbios 10:8: "O sábio de coração aceita os mandamentos, mas o falador tolo será derrubado." Este versículo destaca a importância da sabedoria e da obediência aos mandamentos, temas importantes em Eclesiástico 10.
+* Provérbios 11:2: "Quando vem o orgulho, vem a desgraça, mas a sabedoria está com os humildes." Este versículo enfatiza a importância da humildade e da modéstia, e alerta sobre os perigos do orgulho.
+* Provérbios 13:10: "Com a arrogância só se acende a contenda, mas a sabedoria está com aqueles que aceitam conselho." Este versículo destaca a importância de ouvir conselhos e evitar a arrogância, alertando sobre as consequências negativas que a arrogância pode trazer.
+****
+
+[[v28-10-1]]
+
+^<<v28-10-1,1>>^ Um governador sábio julga o seu povo; o governo de um homem sensato será estável.
+
+[[v28-10-2]]
+
+^<<v28-10-2,2>>^ Tal o juiz do povo, tais os seus ministros; tal o governador da cidade, tais os seus habitantes.
+
+[[v28-10-3]]
+
+^<<v28-10-3,3>>^ Um rei privado de juízo perde o seu povo, as cidades povoam-se pelo bom senso dos que governam.
+
+[[v28-10-4]]
+
+^<<v28-10-4,4>>^ O domínio sobre um país está na mão de Deus. Ele lhe suscitará no tempo oportuno um governador útil.
+
+[[v28-10-5]]
+
+^<<v28-10-5,5>>^ A prosperidade do homem está na mão de Deus; é ele que põe na fronte do escriba um sinal de honra.
+
+[[v28-10-6]]
+
+^<<v28-10-6,6>>^ Não te recordes de nenhuma injustiça causada pelo próximo, nada faças por um procedimento injusto.^&#42;1^
+
+[[v28-10-7]]
+
+^<<v28-10-7,7>>^ O orgulho é abominável a Deus e aos homens; e toda a iniquidade das nações provoca horror.^&#42;1^
+
+[[v28-10-8]]
+
+^<<v28-10-8,8>>^ Um reino passa de um povo a outro, por causa das injustiças, dos ultrajes e de fraudes diversas.
+
+[[v28-10-9]]
+
+^<<v28-10-9,9>>^ Nada há mais criminoso do que a avareza; de que se orgulha o que é terra e cinza?^&#42;1^
+
+[[v28-10-10]]
+
+^<<v28-10-10,10>>^ Nada há mais iníquo do que o amor ao dinheiro; aquele que o ama chega até a vender a sua alma. Vivo ainda, despojou-se de suas próprias entranhas.^&#42;1^
+
+[[v28-10-11]]
+
+^<<v28-10-11,11>>^ A duração de todo o poder é breve; uma doença prolongada cansa o médico.
+
+[[v28-10-12]]
+
+^<<v28-10-12,12>>^ O médico atalha um breve mal-estar; assim, um que hoje é rei amanhã morrerá.^&#42;1^
+
+[[v28-10-13]]
+
+^<<v28-10-13,13>>^ Quando o homem está morto, tem por herança serpentes, bichos e vermes.
+
+[[v28-10-14]]
+
+^<<v28-10-14,14>>^ O início do orgulho num homem é renegar a Deus,
+
+[[v28-10-15]]
+
+^<<v28-10-15,15>>^ pois seu coração se afasta daquele que o criou, porque o princípio de todo pecado é o orgulho; aquele que nele se compraz será coberto de maldições, e acabará sendo por elas derrubado.^&#42;1^
+
+[[v28-10-16]]
+
+^<<v28-10-16,16>>^ Eis por que o Senhor desonrou a assembleia dos maus, e os destruiu para sempre.^&#42;1^
+
+[[v28-10-17]]
+
+^<<v28-10-17,17>>^ Deus derrubou os tronos dos chefes orgulhosos e em lugar deles fez sentar homens pacíficos.
+
+[[v28-10-18]]
+
+^<<v28-10-18,18>>^ Deus fez secar as raízes das nações arrogantes, e implantou os humildes entre as mesmas nações.
+
+[[v28-10-19]]
+
+^<<v28-10-19,19>>^ O Senhor destruiu as terras das nações, e as arruinou até os alicerces.
+
+[[v28-10-20]]
+
+^<<v28-10-20,20>>^ Destruiu muitas delas e exterminou-as, apagou a sua lembrança de sobre a terra.
+
+[[v28-10-21]]
+
+^<<v28-10-21,21>>^ Deus apaga a memória dos orgulhosos, enquanto faz perdurar a dos humildes de coração.
+
+[[v28-10-22]]
+
+^<<v28-10-22,22>>^ O orgulho não foi criado para os homens, nem a cólera para o sexo feminino.^&#42;1^
+
+[[v28-10-23]]
+
+^<<v28-10-23,23>>^ A raça do homem que teme a Deus será honrada; será desonrado aquele que desprezar os preceitos do Senhor.^&#42;1^
+
+[[v28-10-24]]
+
+^<<v28-10-24,24>>^ Entre os seus irmãos, a homenagem é feita para aquele que os governa; aqueles que temem a Deus serão honrados na presença do Senhor.
+
+[[v28-10-25]]
+
+^<<v28-10-25,25>>^ Rico, nobre ou pobre, sua glória é o temor do Senhor.
+
+[[v28-10-26]]
+
+^<<v28-10-26,26>>^ Não desprezes o homem justo, ainda que pobre; não enalteças um pecador, ainda que rico,^&#42;1^
+
+[[v28-10-27]]
+
+^<<v28-10-27,27>>^ O grande, o justo e o poderoso recebem homenagens, mas ninguém é maior do que aquele que teme a Deus.
+
+[[v28-10-28]]
+
+^<<v28-10-28,28>>^ Homens livres serão os súditos de um escravo sensato. Repreendido, o homem prudente e bem-educado não murmura, e o ignorante não será honrado.
+
+[[v28-10-29]]
+
+^<<v28-10-29,29>>^ Não te orgulhes do trabalho que fazes, não sejas indolente no tempo da adversidade.^&#42;1^
+
+[[v28-10-30]]
+
+^<<v28-10-30,30>>^ Mais vale o trabalho e abundância, do que o jactancioso que não tem pão.
+
+[[v28-10-31]]
+
+^<<v28-10-31,31>>^ Meu filho, conserva tua alma na doçura, e dá-lhe a honra que merece.
+
+[[v28-10-32]]
+
+^<<v28-10-32,32>>^ Aquele que peca contra si mesmo, que o justificará? Quem devolverá a honra a quem desonrou sua vida?
+
+[[v28-10-33]]
+
+^<<v28-10-33,33>>^ Um pobre é honrado pelo seu conhecimento e temor a Deus; há quem o é por causa de suas riquezas.
+
+[[v28-10-34]]
+
+^<<v28-10-34,34>>^ Mas quanta glória teria se fosse rico aquele que é honrado, mesmo sendo pobre! Mas o que se gloria de sua riqueza, acautele-se para não se tornar pobre.^&#42;1^
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-009.adoc#v28-9-0[&#60; Capítulo Anterior] | <<v28-10-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-011.adoc#v28-11-0[Próximo Capítulo &#62;]

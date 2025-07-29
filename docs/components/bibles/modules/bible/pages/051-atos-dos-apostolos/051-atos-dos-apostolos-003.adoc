@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v51-3-0]]
+=== Atos dos Apóstolos, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 3 de Atos dos Apóstolos narra a cura de um homem coxo que ficava na porta do templo pedindo esmolas. Pedro e João, ao passarem por ele, curam-no em nome de Jesus Cristo. Esse episódio resulta em grande comoção do povo que presenciou o milagre e Pedro aproveita a oportunidade para pregar a respeito de Jesus como o Messias e exorta o povo ao arrependimento e à conversão. Os versículos relacionados com os temas do capítulo são:
+* Salmos 103:3: "Ele é quem perdoa todas as tuas iniquidades, quem sara todas as tuas enfermidades" Pedro e João curam um homem que estava enfermo desde o nascimento, mostrando que Jesus é capaz de curar e perdoar pecados.
+* Atos dos Apóstolos 2:38: "Respondeu-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo para remissão dos vossos pecados, e recebereis o dom do Espírito Santo." Pedro prega a respeito do arrependimento e conversão, mostrando que é através de Jesus que podemos ser perdoados e receber o Espírito Santo.
+* Isaías 53:5: "Mas ele foi ferido por causa das nossas transgressões, e moído por causa das nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados." A cura do homem coxo através da fé em Jesus Cristo se dá em cumprimento a uma profecia de Isaías, que mostra que ele foi ferido para nos dar paz e nos sarar.
+* Mateus 4:23: "E percorria Jesus toda a Galiléia, ensinando nas sinagogas, e pregando o evangelho do reino, e curando todas as enfermidades e moléstias entre o povo." A cura do homem coxo em Atos 3 é um exemplo da continuação do ministério de Jesus Cristo, que curava enfermos e pregava o Evangelho.
+* Marcos 16:17-18: "E estes sinais seguirão aos que crerem: Em meu nome expulsarão demônios; falarão novas línguas; pegarão nas serpentes; e, se beberem alguma coisa mortífera, não lhes fará dano algum; e porão as mãos sobre os enfermos, e os curarão." Pedro e João demonstram poder sobrenatural ao curar o homem coxo em nome de Jesus Cristo, cumprindo a promessa de sinais e maravilhas aos que crerem em Jesus.
+****
+
+[[v51-3-1]]
+
+^<<v51-3-1,1>>^ Pedro e João iam subindo ao templo para rezar à hora nona.
+
+[[v51-3-2]]
+
+^<<v51-3-2,2>>^ Nisto levavam um homem que era coxo de nascença e que punham todos os dias à porta do templo, chamada Formosa, para que pedisse esmolas aos que entravam no templo.
+
+[[v51-3-3]]
+
+^<<v51-3-3,3>>^ Quando ele viu que Pedro e João iam entrando no templo, implorou a eles uma esmola.
+
+[[v51-3-4]]
+
+^<<v51-3-4,4>>^ Pedro fitou nele os olhos, como também João, e disse: “Olha para nós”.
+
+[[v51-3-5]]
+
+^<<v51-3-5,5>>^ Ele os olhou com atenção, esperando receber deles alguma coisa.
+
+[[v51-3-6]]
+
+^<<v51-3-6,6>>^ Pedro, porém, disse: “Não tenho nem ouro nem prata, mas o que tenho, eu te dou: em nome de Jesus Cristo Nazareno, levanta-te e anda!”.
+
+[[v51-3-7]]
+
+^<<v51-3-7,7>>^ E, tomando-o pela mão direita, levantou-o. Imediatamente os pés e os tornozelos se lhe firmaram. De um salto, pôs-se de pé e andava.
+
+[[v51-3-8]]
+
+^<<v51-3-8,8>>^ Entrou com eles no templo, caminhando, saltando e louvando a Deus.
+
+[[v51-3-9]]
+
+^<<v51-3-9,9>>^ Todo o povo o viu andar e louvar a Deus.
+
+[[v51-3-10]]
+
+^<<v51-3-10,10>>^ Reconheceram ser o mesmo coxo que se sentava para mendigar à porta Formosa do templo, e encheram-se de espanto e pasmo pelo que lhe tinha acontecido.
+
+[[v51-3-11]]
+
+^<<v51-3-11,11>>^ Como ele se conservava perto de Pedro e João, uma multidão de curiosos afluiu a eles no pórtico chamado Salomão.
+
+[[v51-3-12]]
+
+^<<v51-3-12,12>>^ À vista disso, falou Pedro ao povo: “Homens de Israel, por que vos admirais assim? Ou por que fitais os olhos em nós, como se por nossa própria virtude ou piedade tivéssemos feito este homem andar?
+
+[[v51-3-13]]
+
+^<<v51-3-13,13>>^ O Deus de Abraão, de Isaac, de Jacó, o Deus de nossos pais glorificou seu servo Jesus, que vós entregastes e negastes perante Pilatos, quando este resolvera soltá-lo.
+
+[[v51-3-14]]
+
+^<<v51-3-14,14>>^ Mas vós renegastes o Santo e o Justo e pedistes que se vos desse um homicida.
+
+[[v51-3-15]]
+
+^<<v51-3-15,15>>^ Matastes o Príncipe da vida, mas Deus o ressuscitou dentre os mortos: disso nós somos testemunhas.
+
+[[v51-3-16]]
+
+^<<v51-3-16,16>>^ Em virtude da fé em seu nome foi que esse mesmo nome consolidou este homem, que vedes e conheceis. Foi a fé em Jesus que lhe deu essa cura perfeita, à vista de todos vós.
+
+[[v51-3-17]]
+
+^<<v51-3-17,17>>^ Agora, irmãos, sei que o fizestes por ignorância, como também os vossos chefes.
+
+[[v51-3-18]]
+
+^<<v51-3-18,18>>^ Deus, porém, assim cumpriu o que já antes anunciara pela boca de todos os profetas: que o seu Cristo devia padecer.
+
+[[v51-3-19]]
+
+^<<v51-3-19,19>>^ Arrependei-vos, portanto, e convertei-vos, para serem apagados os vossos pecados.
+
+[[v51-3-20]]
+
+^<<v51-3-20,20>>^ Virão, assim, da parte do Senhor os tempos de refrigério, e ele enviará aquele que vos é destinado: Cristo Jesus.
+
+[[v51-3-21]]
+
+^<<v51-3-21,21>>^ É necessário, porém, que o céu o receba até os tempos da restauração universal, da qual falou Deus, outrora, pela boca dos seus santos profetas.
+
+[[v51-3-22]]
+
+^<<v51-3-22,22>>^ Já dissera Moisés: O Senhor, nosso Deus, vos suscitará dentre vossos irmãos um profeta semelhante a mim: a este ouvireis em tudo o que ele vos disser.
+
+[[v51-3-23]]
+
+^<<v51-3-23,23>>^ Todo aquele que não ouvir esse profeta será exterminado do meio do povo (Dt 18,15.19).
+
+[[v51-3-24]]
+
+^<<v51-3-24,24>>^ Todos os profetas, que têm falado sucessivamente desde Samuel, anunciaram estes dias.
+
+[[v51-3-25]]
+
+^<<v51-3-25,25>>^ Vós sois filhos dos profetas e da aliança que Deus estabeleceu com os nossos pais, quando disse a Abraão: Na tua descendência serão abençoadas todas as famílias da terra (Gn 22,18).
+
+[[v51-3-26]]
+
+^<<v51-3-26,26>>^ Foi em primeiro lugar para vós que Deus suscitou o seu servo, para vos abençoar, a fim de que cada um se aparte da sua iniquidade”.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-002.adoc#v51-2-0[&#60; Capítulo Anterior] | <<v51-3-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-004.adoc#v51-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v2-34-0]]
+=== Êxodo, 34
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 34 de Êxodo relata a renovação da aliança de Deus com Moisés e os filhos de Israel, depois do episódio do bezerro de ouro. O capítulo inclui a proclamação dos mandamentos da aliança, bem como instruções para a adoração e a observância do sábado. Aqui estão cinco versículos relacionados aos temas abordados em Êxodo 34:
+* Deuteronômio 7:9: "Saiba, portanto, que o Senhor, o seu Deus, é Deus; ele é o Deus fiel, que mantém a aliança e a bondade por mil gerações daqueles que o amam e obedecem aos seus mandamentos." Este versículo destaca a fidelidade de Deus em manter sua aliança com o povo de Israel, uma das principais mensagens do capítulo 34.
+* Levítico 19:3: "Cada um de vocês deve ter reverência por sua mãe e por seu pai e obedecer aos meus sábados. Eu sou o Senhor, o seu Deus." A observância do sábado é um tema importante em Êxodo 34, e este versículo de Levítico reforça a importância desse mandamento.
+* Deuteronômio 4:23: "Tenham cuidado para não esquecer a aliança que o Senhor, o seu Deus, fez com vocês; não façam para si mesmos ídolos de qualquer tipo, como figura de homem ou de mulher." O capítulo 34 de Êxodo inclui uma advertência contra a idolatria, e este versículo de Deuteronômio reforça a importância de obedecer a este mandamento.
+* Salmo 25:10: "Todos os caminhos do Senhor são amor e fidelidade para os que cumprem os seus preceitos e as suas alianças." Este versículo destaca a importância da obediência aos mandamentos de Deus, uma das principais mensagens de Êxodo 34.
+* Jeremias 31:33: "Esta é a aliança que farei com a comunidade de Israel depois daqueles dias", declara o Senhor. "Porei a minha lei no íntimo deles e a escreverei nos seus corações. Serei o Deus deles e eles serão o meu povo." Este versículo destaca a importância da lei de Deus e da obediência a ela, bem como a promessa de uma nova aliança com o povo de Israel.
+****
+
+[[v2-34-1]]
+
+^<<v2-34-1,1>>^ O Senhor disse a Moisés: “Talha duas tábuas de pedra semelhantes às primeiras: escreverei nelas as palavras que se encontravam nas primeiras tábuas que quebraste.
+
+[[v2-34-2]]
+
+^<<v2-34-2,2>>^ Estejas pronto pela manhã para subir ao monte Sinai. Tu te apresentarás diante de mim no cume do monte.
+
+[[v2-34-3]]
+
+^<<v2-34-3,3>>^ Ninguém subirá contigo, nem apareça em parte alguma do monte: Não haja nem mesmo ovelhas ou bois pastando em seus flancos”.
+
+[[v2-34-4]]
+
+^<<v2-34-4,4>>^ Moisés talhou, pois, duas tábuas de pedra semelhantes às primeiras e, no dia seguinte, pela manhã, subiu ao monte Sinai, como o Senhor lhe havia ordenado, segurando nas mãos as duas tábuas de pedra.
+
+[[v2-34-5]]
+
+^<<v2-34-5,5>>^ O Senhor desceu na nuvem e esteve perto dele, pronunciando o nome de Javé.
+
+[[v2-34-6]]
+
+^<<v2-34-6,6>>^ O Senhor passou diante dele, exclamando: “Senhor, Senhor, Deus compassivo e misericordioso, lento para a cólera, rico em bondade e em fidelidade,
+
+[[v2-34-7]]
+
+^<<v2-34-7,7>>^ que conserva sua graça até mil gerações, que perdoa a iniquidade, a rebeldia e o pecado, mas não tem por inocente o culpado, porque castiga o pecado dos pais nos filhos e nos filhos de seus filhos, até a terceira e a quarta geração”.
+
+[[v2-34-8]]
+
+^<<v2-34-8,8>>^ Moisés inclinou-se incontinenti até a terra e prostrou-se,
+
+[[v2-34-9]]
+
+^<<v2-34-9,9>>^ dizendo: “Se tenho o vosso favor, Senhor, dignai-vos marchar no meio de nós: somos um povo de cabeça dura, mas perdoai nossas iniquidades e nossos pecados, e aceitai-nos como propriedade vossa”.
+
+[[v2-34-10]]
+
+^<<v2-34-10,10>>^ O Senhor disse: “Vou fazer uma aliança contigo. Diante de todo o teu povo farei prodígios como nunca se viu em nenhum outro país, em nenhuma outra nação, a fim de que todo o povo que te cerca veja quão terríveis são as obras do Senhor, que faço por meio de ti.
+
+[[v2-34-11]]
+
+^<<v2-34-11,11>>^ Sê atento ao que te vou ordenar hoje. Vou expulsar diante de ti os amorreus, os cananeus, os hiteus, os ferezeus, os heveus e os jebuseus.
+
+[[v2-34-12]]
+
+^<<v2-34-12,12>>^ Guarda-te de fazer algum pacto com os habitantes da terra em que vais entrar, para que sua presença no meio de vós não se vos torne um laço.
+
+[[v2-34-13]]
+
+^<<v2-34-13,13>>^ Derrubareis os seus altares, quebrareis suas estelas e cortareis suas asserás.^&#42;1^
+
+[[v2-34-14]]
+
+^<<v2-34-14,14>>^ Não adorarás nenhum outro deus, porque o Senhor, que se chama o Zeloso, é um Deus zeloso.
+
+[[v2-34-15]]
+
+^<<v2-34-15,15>>^ Guarda-te de fazer algum pacto com os habitantes do país, pois, quando se prostituírem a seus deuses e lhes oferecerem sacrifícios, poderiam convidar-te e tu comerias de seus sacrifícios;^&#42;1^
+
+[[v2-34-16]]
+
+^<<v2-34-16,16>>^ poderia acontecer também que tomasses entre suas filhas esposas para teus filhos, e essas mulheres que se prostituem a seus deuses, poderiam arrastar a isso também os teus filhos.
+
+[[v2-34-17]]
+
+^<<v2-34-17,17>>^ Não farás deuses de metal fundido.
+
+[[v2-34-18]]
+
+^<<v2-34-18,18>>^ Guardarás a festa dos Ázimos: como te prescrevi, no tempo fixado do mês das espigas (porque foi nesse mês que saíste do Egito) só comerás, durante sete dias, pães sem fermento.
+
+[[v2-34-19]]
+
+^<<v2-34-19,19>>^ Todo primogênito me pertence, assim como todo macho primogênito de teus rebanhos, tanto do gado maior como do menor.
+
+[[v2-34-20]]
+
+^<<v2-34-20,20>>^ Resgatarás com um cordeiro o primogênito do jumento; do contrário, tu lhe quebrarás a nuca. Resgatarás sempre o primogênito de teus filhos; e não te apresentarás diante de minha face com as mãos vazias.
+
+[[v2-34-21]]
+
+^<<v2-34-21,21>>^ Trabalharás durante seis dias, mas descansarás no sétimo, mesmo quando for tempo de arar e de ceifar.
+
+[[v2-34-22]]
+
+^<<v2-34-22,22>>^ Celebrarás a festa das Semanas, no tempo das primícias da ceifa do trigo, e a festa da Colheita, no fim do ano.
+
+[[v2-34-23]]
+
+^<<v2-34-23,23>>^ Três vezes por ano, todos vossos varões se apresentarão diante do Senhor, Deus de Israel.
+
+[[v2-34-24]]
+
+^<<v2-34-24,24>>^ Porque expulsarei as nações diante de ti, e alargarei tuas fronteiras, e ninguém cobiçará tua terra, enquanto subires três vezes por ano para te apresentares diante do Senhor, teu Deus.
+
+[[v2-34-25]]
+
+^<<v2-34-25,25>>^ Quando sacrificares uma vítima, não oferecerás o seu sangue com pão fermentado. O animal sacrificado para a festa da Páscoa não será conservado até o dia seguinte.
+
+[[v2-34-26]]
+
+^<<v2-34-26,26>>^ Trarás à casa do Senhor, teu Deus, as primícias dos frutos do teu solo.
+
+[[v2-34-27]]
+
+^<<v2-34-27,27>>^ O Senhor disse a Moisés: “Escreve estas palavras, pois são elas a base da aliança que faço contigo e com Israel”.
+
+[[v2-34-28]]
+
+^<<v2-34-28,28>>^ Moisés ficou junto do Senhor quarenta dias e quarenta noites, sem comer pão nem beber água. E o Senhor escreveu nas tábuas o texto da aliança, as dez palavras.
+
+[[v2-34-29]]
+
+^<<v2-34-29,29>>^ Moisés desceu do monte Sinai, tendo nas mãos as duas tábuas da lei. Descendo do monte, Moisés não sabia que a pele de seu rosto se tornara brilhante, durante a sua conversa com o Senhor.
+
+[[v2-34-30]]
+
+^<<v2-34-30,30>>^ E, tendo-o visto Aarão e todos os israelitas, notaram que a pele de seu rosto se tornara brilhante e não ousaram aproximar-se dele.
+
+[[v2-34-31]]
+
+^<<v2-34-31,31>>^ Mas ele os chamou, e Aarão com todos os chefes da assembleia voltaram para junto dele, e ele se entreteve com eles.
+
+[[v2-34-32]]
+
+^<<v2-34-32,32>>^ Aproximaram-se, em seguida, todos os israelitas, a quem ele transmitiu as ordens que tinha recebido do Senhor, no monte Sinai.
+
+[[v2-34-33]]
+
+^<<v2-34-33,33>>^ Tendo Moisés acabado de falar, pôs um véu no seu rosto.^&#42;1^
+
+[[v2-34-34]]
+
+^<<v2-34-34,34>>^ Mas, entrando Moisés diante do Senhor para falar com ele, tirava o véu até sair. E, saindo, transmitia aos israelitas as ordens recebidas.
+
+[[v2-34-35]]
+
+^<<v2-34-35,35>>^ Estes viam irradiar a pele de seu rosto; em seguida, Moisés recolocava o véu no seu rosto até a próxima entrevista com o Senhor.
+
+'''
+
+xref:002-exodo/002-exodo-033.adoc#v2-33-0[&#60; Capítulo Anterior] | <<v2-34-0,Topo>> | xref:002-exodo/002-exodo-035.adoc#v2-35-0[Próximo Capítulo &#62;]

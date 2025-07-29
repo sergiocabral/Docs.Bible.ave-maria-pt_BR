@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v53-12-0]]
+=== I Coríntios, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 12 de 1 Coríntios aborda o tema dos dons espirituais e a unidade do corpo de Cristo. Paulo destaca que, embora haja diferentes dons, todos são dados pelo mesmo Espírito e são para o bem comum da igreja. Além disso, ele enfatiza que todos são membros do mesmo corpo, independentemente do seu papel ou dom específico. A seguir estão cinco versículos relacionados com os temas abordados em 1 Coríntios 12:
+* Romanos 12:4-5: "Pois, assim como em um corpo temos muitos membros, e nem todos os membros têm a mesma função, assim também em Cristo, sendo muitos, formamos um corpo, e cada membro está ligado a todos os outros." Este versículo destaca a importância da diversidade de dons e papéis dentro do corpo de Cristo, bem como a necessidade de unidade e interdependência.
+* Efésios 4:4-6: "Há um só corpo e um só Espírito, assim como também fostes chamados em uma só esperança da vossa vocação; há um só Senhor, uma só fé, um só batismo; um só Deus e Pai de todos, o qual é sobre todos, e por todos e em todos." Aqui, Paulo enfatiza a unidade do corpo de Cristo e a importância de manter essa unidade, apesar das diferenças.
+* 1 Pedro 4:10-11: "Cada um exerça o dom que recebeu para servir os outros, administrando fielmente a graça de Deus em suas várias formas. Se alguém fala, faça-o como quem transmite a palavra de Deus. Se alguém serve, faça-o com a força que Deus provê, de forma que em todas as coisas Deus seja glorificado mediante Jesus Cristo, a quem seja a glória e o poder para todo o sempre. Amém." Este versículo destaca a importância de usar os dons espirituais para servir aos outros e trazer glória a Deus.
+* Colossenses 3:15-17: "Que a paz de Cristo seja o árbitro em seus corações, visto que vocês foram chamados para viver em paz, como membros de um só corpo. E sejam agradecidos. Habite ricamente em vocês a palavra de Cristo; ensinem e aconselhem-se uns aos outros com toda a sabedoria e cantem salmos, hinos e cânticos espirituais com gratidão a Deus em seu coração. E tudo o que fizerem, seja em palavra, seja em ação, façam-no em nome do Senhor Jesus, dando por meio dele graças a Deus Pai." Este versículo destaca a importância da unidade e da gratidão dentro do corpo de Cristo, bem como a importância de usar os dons espirituais para edificação mútua.
+* 1 Coríntios 12:27-31: "Ora, vós sois o corpo de Cristo, e cada um individualmente seus membros. E a uns pôs Deus na igreja, primeiramente apóstolos, em segundo lugar profetas, em terceiro doutores, depois milagres, depois dons de curar, socorros, governos, variedades de línguas. Porventura são todos apóstolos? são todos profetas? são todos doutores? são todos operadores de milagres? têm todos o dom de curar? falam todos diversas línguas? interpretam-nas todos? Portanto, procurai com zelo os melhores dons; e eu vos mostrarei um caminho ainda mais excelente." Nesse capítulo, Paulo trata da diversidade de dons concedidos pelo Espírito Santo aos membros do corpo de Cristo, enfatizando que cada um tem uma função importante e complementar. Assim como cada parte do corpo é importante para o seu funcionamento adequado, cada membro da igreja é fundamental para o bem-estar e crescimento do corpo de Cristo. Esse versículo destaca a diversidade de dons e a importância de buscar os melhores dons para edificar a igreja.
+****
+
+[[v53-12-1]]
+
+^<<v53-12-1,1>>^ A respeito dos dons espirituais, irmãos, não quero que vivais na ignorância.^&#42;1^
+
+[[v53-12-2]]
+
+^<<v53-12-2,2>>^ Sabeis que, quando éreis pagãos, vos deixáveis levar, conforme vossas tendências, aos ídolos mudos.
+
+[[v53-12-3]]
+
+^<<v53-12-3,3>>^ Por isso, eu vos declaro: ninguém, falando sob a ação divina, pode dizer: “Jesus seja maldito”; e ninguém pode dizer: “Jesus é o Senhor”, senão sob a ação do Espírito Santo.
+
+[[v53-12-4]]
+
+^<<v53-12-4,4>>^ Há diversidade de dons, mas um só Espírito.
+
+[[v53-12-5]]
+
+^<<v53-12-5,5>>^ Os ministérios são diversos, mas um só é o Senhor.
+
+[[v53-12-6]]
+
+^<<v53-12-6,6>>^ Há também diversas operações, mas é o mesmo Deus que opera tudo em todos.
+
+[[v53-12-7]]
+
+^<<v53-12-7,7>>^ A cada um é dada a manifestação do Espírito para proveito comum.
+
+[[v53-12-8]]
+
+^<<v53-12-8,8>>^ A um é dada pelo Espírito uma palavra de sabedoria; a outro, uma palavra de ciência, por esse mesmo Espírito;
+
+[[v53-12-9]]
+
+^<<v53-12-9,9>>^ a outro, a fé, pelo mesmo Espírito; a outro, a graça de curar as doenças, no mesmo Espírito;
+
+[[v53-12-10]]
+
+^<<v53-12-10,10>>^ a outro, o dom de milagres; a outro, a profecia; a outro, o discernimento dos espíritos; a outro, a variedade de línguas; a outro, por fim, a interpretação das línguas.^&#42;1^
+
+[[v53-12-11]]
+
+^<<v53-12-11,11>>^ Mas um e o mesmo Espírito distribui todos esses dons, repartindo a cada um como lhe apraz.
+
+[[v53-12-12]]
+
+^<<v53-12-12,12>>^ Porque, como o corpo é um todo com muitos membros, e todos os membros do corpo, embora muitos, formam um só corpo, assim também é Cristo.
+
+[[v53-12-13]]
+
+^<<v53-12-13,13>>^ Em um só Espírito fomos batizados todos nós, para formar um só corpo, judeus ou gregos, escravos ou livres; e todos fomos impregnados do mesmo Espírito.
+
+[[v53-12-14]]
+
+^<<v53-12-14,14>>^ Assim, o corpo não consiste em um só membro, mas em muitos.
+
+[[v53-12-15]]
+
+^<<v53-12-15,15>>^ Se o pé dissesse: “Eu não sou a mão; por isso, não sou do corpo”, acaso deixaria ele de ser do corpo?
+
+[[v53-12-16]]
+
+^<<v53-12-16,16>>^ E se a orelha dissesse: “Eu não sou o olho; por isso, não sou do corpo”, deixaria ela de ser do corpo?
+
+[[v53-12-17]]
+
+^<<v53-12-17,17>>^ Se o corpo todo fosse olho, onde estaria o ouvido? Se fosse todo ouvido, onde estaria o olfato?
+
+[[v53-12-18]]
+
+^<<v53-12-18,18>>^ Mas Deus dispôs no corpo cada um dos membros como lhe aprouve.
+
+[[v53-12-19]]
+
+^<<v53-12-19,19>>^ Se todos fossem um só membro, onde estaria o corpo?
+
+[[v53-12-20]]
+
+^<<v53-12-20,20>>^ Há, pois, muitos membros, mas um só corpo.
+
+[[v53-12-21]]
+
+^<<v53-12-21,21>>^ O olho não pode dizer à mão: “Eu não preciso de ti”; nem a cabeça aos pés: “Não necessito de vós”.
+
+[[v53-12-22]]
+
+^<<v53-12-22,22>>^ Antes, pelo contrário, os membros do corpo que parecem os mais fracos são os mais necessários.
+
+[[v53-12-23]]
+
+^<<v53-12-23,23>>^ E os membros do corpo que temos por menos honrosos, a esses cobrimos com mais decoro. Os que em nós são menos decentes, recatamo-los com maior empenho,
+
+[[v53-12-24]]
+
+^<<v53-12-24,24>>^ ao passo que os membros decentes não reclamam tal cuidado. Deus dispôs o corpo de tal modo que deu maior honra aos membros que não a têm,
+
+[[v53-12-25]]
+
+^<<v53-12-25,25>>^ para que não haja dissensões no corpo e que os membros tenham o mesmo cuidado uns para com os outros.
+
+[[v53-12-26]]
+
+^<<v53-12-26,26>>^ Se um membro sofre, todos os membros padecem com ele; e se um membro é tratado com carinho, todos os outros se congratulam por ele.
+
+[[v53-12-27]]
+
+^<<v53-12-27,27>>^ Ora, vós sois o corpo de Cristo e cada um, de sua parte, é um dos seus membros.
+
+[[v53-12-28]]
+
+^<<v53-12-28,28>>^ Na Igreja, Deus constituiu primeiramente os apóstolos, em segundo lugar os profetas, em terceiro lugar os doutores, depois os que têm o dom dos milagres, o dom de curar, de socorrer, de governar, de falar diversas línguas.^&#42;1^
+
+[[v53-12-29]]
+
+^<<v53-12-29,29>>^ São todos apóstolos? São todos profetas? São todos doutores?
+
+[[v53-12-30]]
+
+^<<v53-12-30,30>>^ Fazem todos milagres? Têm todos a graça de curar? Falam todos em diversas línguas? Interpretam todos?
+
+[[v53-12-31]]
+
+^<<v53-12-31,31>>^ Aspirai aos dons superiores. E agora, ainda vou indicar-vos o caminho mais excelente de todos.
+
+'''
+
+xref:053-i-corintios/053-i-corintios-011.adoc#v53-11-0[&#60; Capítulo Anterior] | <<v53-12-0,Topo>> | xref:053-i-corintios/053-i-corintios-013.adoc#v53-13-0[Próximo Capítulo &#62;]

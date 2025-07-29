@@ -1,0 +1,187 @@
+include::./index.adoc[]
+
+[[v49-10-0]]
+=== São Lucas, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Lucas 10 apresenta o envio de setenta discípulos por Jesus para pregar e curar em várias cidades da região. Além disso, o capítulo também contém a parábola do bom samaritano e a visita de Jesus à casa de Marta e Maria. Abaixo estão cinco versículos relacionados com os temas abordados em São Lucas 10:
+* João 14:12 - "Em verdade, em verdade vos digo que aquele que crê em mim fará também as obras que eu faço e outras maiores fará, porque eu vou para junto do Pai." Jesus envia os setenta discípulos para pregar e curar em seu nome, e este versículo fala da continuidade de suas obras através dos seus seguidores.
+* Tiago 5:16 - "Confessai, pois, os vossos pecados uns aos outros e orai uns pelos outros, para serdes curados. A oração feita por um justo pode muito em seus efeitos." Os discípulos enviados por Jesus realizam curas, e este versículo destaca a importância da oração e da confissão de pecados para a cura.
+* Mateus 22:37-39 - "Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de todo o teu entendimento. Este é o grande e primeiro mandamento. O segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo." A parábola do bom samaritano enfatiza a importância de amar e cuidar do próximo, e este versículo resume os dois grandes mandamentos que Jesus ensinou.
+* Lucas 10:41-42 - "Marta, Marta, andas inquieta e te preocupas com muitas coisas. Entretanto, pouco é necessário ou mesmo uma só coisa; Maria, pois, escolheu a boa parte, e esta não lhe será tirada." Jesus visita a casa de Marta e Maria, e este versículo destaca a importância de estar presente e ouvir a palavra de Deus em vez de se preocupar com tarefas mundanas.
+* João 10:16 - "Ainda tenho outras ovelhas que não são deste aprisco; a estas também me importa conduzir, e ouvirão a minha voz, e haverá um rebanho e um pastor." Jesus envia seus discípulos para pregar em várias cidades, e este versículo fala da unidade entre as ovelhas de Jesus, independentemente de sua origem ou localização.
+****
+
+[[v49-10-1]]
+
+^<<v49-10-1,1>>^ Depois disso, designou o Senhor ainda setenta e dois outros discípulos e mandou-os, dois a dois, adiante de si, por todas as cidades e lugares para onde ele tinha de ir.^&#42;1^
+
+[[v49-10-2]]
+
+^<<v49-10-2,2>>^ Disse-lhes: “Grande é a messe, mas poucos são os operários. Rogai ao Senhor da messe que mande operários para a sua messe.
+
+[[v49-10-3]]
+
+^<<v49-10-3,3>>^ Ide, eis que vos envio como cordeiros entre lobos.
+
+[[v49-10-4]]
+
+^<<v49-10-4,4>>^ Não leveis bolsa nem mochila, nem calçado e a ninguém saudeis pelo caminho.
+
+[[v49-10-5]]
+
+^<<v49-10-5,5>>^ Em toda casa em que entrardes, dizei primeiro: Paz a esta casa!
+
+[[v49-10-6]]
+
+^<<v49-10-6,6>>^ Se ali houver algum homem pacífico, repousará sobre ele a vossa paz; mas, se não houver, ela tornará para vós.^&#42;1^
+
+[[v49-10-7]]
+
+^<<v49-10-7,7>>^ Permanecei na mesma casa, comei e bebei do que eles tiverem, pois o operário é digno do seu salário. Não andeis de casa em casa.
+
+[[v49-10-8]]
+
+^<<v49-10-8,8>>^ Em qualquer cidade em que entrardes e vos receberem, comei o que se vos servir.
+
+[[v49-10-9]]
+
+^<<v49-10-9,9>>^ Curai os enfermos que nela houver e dizei-lhes: O Reino de Deus está próximo.
+
+[[v49-10-10]]
+
+^<<v49-10-10,10>>^ Mas se entrardes em alguma cidade e não vos receberem, saindo pelas suas praças, dizei:
+
+[[v49-10-11]]
+
+^<<v49-10-11,11>>^ Até o pó que se nos pegou da vossa cidade, sacudimos contra vós; sabei, contudo, que o Reino de Deus está próximo.
+
+[[v49-10-12]]
+
+^<<v49-10-12,12>>^ Digo-vos: naqueles dias haverá um tratamento menos rigoroso para Sodoma.^&#42;1^
+
+[[v49-10-13]]
+
+^<<v49-10-13,13>>^ Ai de ti, Corozaim! Ai de ti, Betsaida! Porque, se em Tiro e Sidônia tivessem sido feitos os prodígios que foram realizados em vosso meio, há muito tempo teriam feito penitência, cobrindo-se de saco e cinza.
+
+[[v49-10-14]]
+
+^<<v49-10-14,14>>^ Por isso, haverá no dia do juízo menos rigor para Tiro e Sidônia do que para vós.
+
+[[v49-10-15]]
+
+^<<v49-10-15,15>>^ E tu, Cafarnaum, que te elevas até o céu, serás precipitada até aos infernos.
+
+[[v49-10-16]]
+
+^<<v49-10-16,16>>^ Quem vos ouve a mim ouve; e quem vos rejeita a mim rejeita; e quem me rejeita rejeita aquele que me enviou.”
+
+[[v49-10-17]]
+
+^<<v49-10-17,17>>^ Voltaram alegres os setenta e dois, dizendo: “Senhor, até os demônios se nos submetem em teu nome!”.
+
+[[v49-10-18]]
+
+^<<v49-10-18,18>>^ Jesus disse-lhes: “Vi Satanás cair do céu como um raio.
+
+[[v49-10-19]]
+
+^<<v49-10-19,19>>^ Eis que vos dei poder para pisar serpentes, escorpiões e todo o poder do inimigo.^&#42;1^
+
+[[v49-10-20]]
+
+^<<v49-10-20,20>>^ Contudo, não vos alegreis porque os espíritos vos estão sujeitos, mas alegrai-vos porque os vossos nomes estejam escritos nos céus”. (= Mt 11,25ss; 13,16s)
+
+[[v49-10-21]]
+
+^<<v49-10-21,21>>^ Naquela mesma hora, Jesus exultou de alegria no Espírito Santo e disse: “Pai, Senhor do céu e da terra, eu te dou graças porque escondeste essas coisas aos sábios e inteligentes e as revelaste aos pequeninos. Sim, Pai, bendigo-te porque assim foi do teu agrado.
+
+[[v49-10-22]]
+
+^<<v49-10-22,22>>^ Todas as coisas me foram entregues por meu Pai. Ninguém conhece quem é o Filho senão o Pai, nem quem é o Pai senão o Filho, e aquele a quem o Filho o quiser revelar”.^&#42;1^
+
+[[v49-10-23]]
+
+^<<v49-10-23,23>>^ E voltou-se para os seus discípulos e disse: “Ditosos os olhos que veem o que vós vedes,
+
+[[v49-10-24]]
+
+^<<v49-10-24,24>>^ pois vos digo que muitos profetas e reis desejaram ver o que vós vedes, e não o viram; e ouvir o que vós ouvis, e não o ouviram”. (= Mt 22,34-40 = Mc 12,28-34)
+
+[[v49-10-25]]
+
+^<<v49-10-25,25>>^ Levantou-se um doutor da Lei e, para pô-lo à prova, perguntou: “Mestre, que devo fazer para possuir a vida eterna?”.
+
+[[v49-10-26]]
+
+^<<v49-10-26,26>>^ Disse-lhe Jesus: “Que está escrito na Lei? Como é que lês?”.
+
+[[v49-10-27]]
+
+^<<v49-10-27,27>>^ Respondeu ele: “Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma, de todas as tuas forças e de todo o teu pensamento (Dt 6,5); e a teu próximo como a ti mesmo” (Lv 19,18).
+
+[[v49-10-28]]
+
+^<<v49-10-28,28>>^ Falou-lhe Jesus: “Respondeste bem; faze isto e viverás”.
+
+[[v49-10-29]]
+
+^<<v49-10-29,29>>^ Mas ele, querendo justificar-se, perguntou a Jesus: “E quem é o meu próximo?”^&#42;1^
+
+[[v49-10-30]]
+
+^<<v49-10-30,30>>^ Jesus então contou: “Um homem descia de Jerusalém a Jericó, e caiu nas mãos de ladrões, que o despojaram; e depois de o terem maltratado com muitos ferimentos, retiraram-se, deixando-o meio morto.
+
+[[v49-10-31]]
+
+^<<v49-10-31,31>>^ Por acaso desceu pelo mesmo caminho um sacerdote, viu-o e passou adiante.
+
+[[v49-10-32]]
+
+^<<v49-10-32,32>>^ Igualmente um levita, chegando àquele lugar, viu-o e passou também adiante.
+
+[[v49-10-33]]
+
+^<<v49-10-33,33>>^ Mas um samaritano que viajava, chegando àquele lugar, viu-o e moveu-se de compaixão.
+
+[[v49-10-34]]
+
+^<<v49-10-34,34>>^ Aproximando-se, atou-lhe as feridas, deitando nelas azeite e vinho; colocou-o sobre a sua própria montaria e levou-o a uma hospedaria e tratou dele.
+
+[[v49-10-35]]
+
+^<<v49-10-35,35>>^ No dia seguinte, tirou dois denários e deu-os ao hospedeiro, dizendo-lhe: Trata dele e, quanto gastares a mais, na volta to pagarei.
+
+[[v49-10-36]]
+
+^<<v49-10-36,36>>^ Qual desses três parece ter sido o próximo daquele que caiu nas mãos dos ladrões?”.
+
+[[v49-10-37]]
+
+^<<v49-10-37,37>>^ Respondeu o doutor: “Aquele que usou de misericórdia para com ele”. Então, Jesus lhe disse: “Vai, e faze tu o mesmo”.
+
+[[v49-10-38]]
+
+^<<v49-10-38,38>>^ Estando Jesus em viagem, entrou numa aldeia, onde uma mulher, chamada Marta, o recebeu em sua casa.^&#42;1^
+
+[[v49-10-39]]
+
+^<<v49-10-39,39>>^ Tinha ela uma irmã por nome Maria, que se assentou aos pés do Senhor para ouvi-lo falar.
+
+[[v49-10-40]]
+
+^<<v49-10-40,40>>^ Marta, toda preocupada na lida da casa, veio a Jesus e disse: “Senhor, não te importas que minha irmã me deixe só a servir? Dize-lhe que me ajude”.
+
+[[v49-10-41]]
+
+^<<v49-10-41,41>>^ Respondeu-lhe o Senhor: “Marta, Marta, andas muito inquieta e te preocupas com muitas coisas;
+
+[[v49-10-42]]
+
+^<<v49-10-42,42>>^ no entanto, uma só coisa é necessária; Maria escolheu a boa parte, que lhe não será tirada”. (= Mt 6,9-15; 7,7-11)
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-009.adoc#v49-9-0[&#60; Capítulo Anterior] | <<v49-10-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-011.adoc#v49-11-0[Próximo Capítulo &#62;]

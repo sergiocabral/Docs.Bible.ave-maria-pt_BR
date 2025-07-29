@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v7-16-0]]
+=== Juízes, 16
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Juízes 16 conta a história de Sansão e sua queda, após se envolver com Dalila, uma mulher filisteia que o seduz e tenta descobrir a fonte de sua força. Sansão acaba revelando o segredo de sua força a Dalila, que o trai e o entrega aos filisteus, que o prendem, cegam e o usam como espetáculo em seus templos. Abaixo estão cinco versículos relacionados aos temas abordados em Juízes 16.
+* Provérbios 16:18: "O orgulho precede a destruição, e a altivez do espírito precede a queda." Sansão é um exemplo de como a arrogância e a confiança excessiva em suas próprias habilidades podem levar à queda.
+* Romanos 6:23: "Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus, nosso Senhor." A queda de Sansão em Juízes 16 serve como um lembrete de que nossas escolhas têm consequências e que a desobediência a Deus pode levar à destruição.
+* 1 Coríntios 10:13: "Não veio sobre vós tentação, senão humana; mas fiel é Deus, que não permitirá que sejais tentados acima do que podeis resistir, antes com a tentação dará também o escape, para que a possais suportar." Sansão é tentado por Dalila em Juízes 16, mas ele escolhe ceder à tentação, em vez de buscar a ajuda e a força de Deus para resistir.
+* 2 Coríntios 12:9: "E ele me disse: Minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. Por isso, de boa vontade antes me gloriarei nas minhas fraquezas, a fim de que repouse sobre mim o poder de Cristo." A história de Sansão em Juízes 16 mostra a importância de reconhecer nossa fraqueza e depender da graça e poder de Deus para nos ajudar a superar a tentação.
+* Tiago 1:14-15: "Mas cada um é tentado, quando atraído e engodado pela sua própria concupiscência. Depois, havendo a concupiscência concebido, dá à luz o pecado; e o pecado, sendo consumado, gera a morte." A queda de Sansão em Juízes 16 é um exemplo de como ceder à tentação pode levar ao pecado e à morte.
+****
+
+[[v7-16-1]]
+
+^<<v7-16-1,1>>^ Sansão foi a Gaza, onde viu uma mulher meretriz e foi procurá-la.
+
+[[v7-16-2]]
+
+^<<v7-16-2,2>>^ E a notícia correu pela cidade: “Sansão está aqui”. Puseram-se de emboscada nos arredores durante toda a noite, junto às portas da cidade, e ficaram quietos toda a noite, dizendo: “Ao romper do dia, vamos matá-lo”.
+
+[[v7-16-3]]
+
+^<<v7-16-3,3>>^ Sansão dormiu até a meia-noite. E, levantando-se pela meia-noite, tomou os batentes da porta de Gaza, com os seus postes, arrancou-os juntamente com o ferrolho, pô-los sobre os ombros e levou-os até o alto da montanha, que está defronte de Hebron.
+
+[[v7-16-4]]
+
+^<<v7-16-4,4>>^ Depois disso, enamorou-se de uma mulher que habitava no vale de Sorec, chamada Dalila.
+
+[[v7-16-5]]
+
+^<<v7-16-5,5>>^ Os príncipes dos filisteus foram ter com ela e disseram-lhe: “Procura seduzi-lo e vê se descobres de onde lhe vem sua força e como o poderemos vencer, a fim de o amarrarmos para dominá-lo. Se fizeres isso, te daremos cada um de nós mil e cem moedas de prata”.
+
+[[v7-16-6]]
+
+^<<v7-16-6,6>>^ Dalila disse a Sansão: “Dize-me, de onde vem tua força? E de que modo se precisaria ligar-te para que fosses dominado?”.
+
+[[v7-16-7]]
+
+^<<v7-16-7,7>>^ Sansão respondeu-lhe: “Se me amarrassem com sete cordas de nervos ainda frescas e úmidas, eu me tornaria tão fraco como qualquer homem”.
+
+[[v7-16-8]]
+
+^<<v7-16-8,8>>^ Os príncipes dos filisteus trouxeram a Dalila sete cordas de nervos bem frescas e úmidas, com as quais ela o ligou.
+
+[[v7-16-9]]
+
+^<<v7-16-9,9>>^ Ora, estando eles de emboscada no quarto, ela gritou: “Sansão, os filisteus vêm contra ti!”. E ele rompeu as cordas como se rompe um cordão de estopa, chamuscada pelo fogo. Assim, permaneceu oculto o segredo de sua força.
+
+[[v7-16-10]]
+
+^<<v7-16-10,10>>^ Dalila disse-lhe: “Tu zombaste de mim, contando-me mentiras. Dize-me agora com que se precisaria ligar-te”.
+
+[[v7-16-11]]
+
+^<<v7-16-11,11>>^ “Se me amarrassem com cordas novas – disse ele – que ainda não tenham servido, eu me tornaria tão fraco como qualquer homem”.
+
+[[v7-16-12]]
+
+^<<v7-16-12,12>>^ Dalila tomou, pois, cordas novas, amarrou-o com elas e gritou: “Sansão, os filisteus vêm contra ti!”. Ora, estavam eles de emboscada no quarto, mas Sansão rompeu como se fossem um fio as cordas que lhe amarravam os braços.
+
+[[v7-16-13]]
+
+^<<v7-16-13,13>>^ “Até o presente – disse-lhe Dalila – só tens zombado de mim e só me tens dito mentiras. Dize-me com que será preciso amarrar-te.” “Bastará – respondeu Sansão – que teças as sete tranças de minha cabeça com a urdidura do teu tear.”
+
+[[v7-16-14]]
+
+^<<v7-16-14,14>>^ Ela fixou-as com o torno do tear e gritou: “Sansão, os filisteus vêm contra ti!” Ele, despertando do sono, arrancou o torno do tear com os liços.
+
+[[v7-16-15]]
+
+^<<v7-16-15,15>>^ Dalila disse-lhe: “Como podes dizer que me amas, se o teu coração não está comigo? Eis já três vezes que me enganas e não me queres dizer onde reside a tua força”.
+
+[[v7-16-16]]
+
+^<<v7-16-16,16>>^ Ela o importunava cada dia com suas perguntas, instando com ele e molestando-o de tal sorte, que ele sentiu com isso uma impaciência mortal.
+
+[[v7-16-17]]
+
+^<<v7-16-17,17>>^ E Sansão acabou por confiar-lhe o seu segredo: “Sobre minha cabeça – disse ele – nunca passou a navalha, porque sou nazareno de Deus desde o seio de minha mãe. Se me for rapada a cabeça, a minha força me abandonará e serei então fraco como qualquer homem”.
+
+[[v7-16-18]]
+
+^<<v7-16-18,18>>^ Dalila sentiu que ele lhe tinha aberto todo o seu coração e mandou dizer aos príncipes dos filisteus: “Subi agora, porque ele me abriu todo o seu coração”. E os príncipes dos filisteus foram ter com ela, levando o dinheiro em suas mãos.
+
+[[v7-16-19]]
+
+^<<v7-16-19,19>>^ Dalila fez que seu marido adormecesse nos seus joelhos, e chamando um homem, mandou-lhe que rapasse as sete tranças de sua cabeça. Ela começou a dominá-lo, pois sua força o deixou.
+
+[[v7-16-20]]
+
+^<<v7-16-20,20>>^ E disse: “Sansão, os filisteus vêm contra ti!”. Despertando ele do sono, disse consigo mesmo: “Sairei deles como das outras vezes e me livrarei”. Ignorava Sansão que o Senhor se tinha retirado dele.
+
+[[v7-16-21]]
+
+^<<v7-16-21,21>>^ E os filisteus, tomando-o, furaram-lhe os olhos e levaram-no a Gaza ligado com uma dupla cadeia de bronze e ali o colocaram na prisão, fazendo-o girar a mó.
+
+[[v7-16-22]]
+
+^<<v7-16-22,22>>^ Entretanto, os seus cabelos recomeçavam a crescer.
+
+[[v7-16-23]]
+
+^<<v7-16-23,23>>^ Ora, os príncipes dos filisteus reuniram-se para oferecer um grande sacrifício a Dagon, seu deus, e celebrar uma festa. “Nosso deus – diziam eles – entregou-nos Sansão nosso inimigo.”
+
+[[v7-16-24]]
+
+^<<v7-16-24,24>>^ Também o povo, vendo isso, louvava o seu deus, dizendo: “O nosso deus entregou-nos o nosso inimigo, aquele que devastava nossa terra e matava tantos dos nossos”.
+
+[[v7-16-25]]
+
+^<<v7-16-25,25>>^ E estando eles de coração alegre, exclamaram: “Mandai vir Sansão para nos divertir!”. Tiraram-no da prisão e Sansão teve que dançar diante deles. Tendo sido colocado entre as colunas,
+
+[[v7-16-26]]
+
+^<<v7-16-26,26>>^ Sansão disse ao jovem que o conduzia pela mão: “Deixa que eu toque as colunas que sustêm o templo e que me apóie nelas”.
+
+[[v7-16-27]]
+
+^<<v7-16-27,27>>^ Ora, o templo estava repleto de homens e mulheres. Estavam ali todos os príncipes dos filisteus. Havia cerca de três mil pessoas, homens e mulheres, que do teto olhavam o prisioneiro dançar.
+
+[[v7-16-28]]
+
+^<<v7-16-28,28>>^ Sansão, porém, invocando o Senhor, disse: “Senhor Javé, rogo-vos que vos lembreis de mim. Dai-me, ó Deus, ainda esta vez, força para vingar-me dos filisteus pela perda de meus olhos”.
+
+[[v7-16-29]]
+
+^<<v7-16-29,29>>^ Abraçando então as duas colunas centrais sobre as quais repousava todo o edifício, pegou numa com a mão direita e noutra com a mão esquerda e gritou:
+
+[[v7-16-30]]
+
+^<<v7-16-30,30>>^ “Morra eu com os filisteus!”. Dizendo isso, sacudiu com todas as suas forças o edifício, que ruiu sobre os príncipes e sobre todo o povo reunido. Desse modo, matou pela sua própria morte muito mais homens do que os que matara em toda a sua vida.
+
+[[v7-16-31]]
+
+^<<v7-16-31,31>>^ Então, desceram a Gaza os seus irmãos e toda a sua família paterna, tomaram-no e tendo voltado, sepultaram-no no túmulo de seu pai, entre Saraá e Estaol. Sansão foi juiz em Israel durante vinte anos.
+
+'''
+
+xref:007-juizes/007-juizes-015.adoc#v7-15-0[&#60; Capítulo Anterior] | <<v7-16-0,Topo>> | xref:007-juizes/007-juizes-017.adoc#v7-17-0[Próximo Capítulo &#62;]

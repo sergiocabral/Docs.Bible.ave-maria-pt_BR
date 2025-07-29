@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v24-30-0]]
+=== Provérbios, 30
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Provérbios 30 é um capítulo escrito pelo sábio Agur, que fala sobre sua busca pela sabedoria e conhecimento de Deus. Alguns dos temas abordados incluem a humildade, a santidade, a confiança em Deus e a importância de se viver com integridade. Abaixo estão cinco versículos que se relacionam com esses temas:
+* Salmos 119:66: "Ensina-me o bom senso e o conhecimento, pois confio em teus mandamentos." Este versículo destaca a importância de buscar a sabedoria e o conhecimento de Deus, em vez de depender apenas do nosso próprio entendimento limitado.
+* Isaías 6:3: "Eles clamam uns para os outros, dizendo: 'Santo, santo, santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória'." Este verso fala sobre a santidade de Deus e a importância de viver uma vida santa para honrá-lo.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo destaca a importância de confiar em Deus em vez de confiar em nosso próprio entendimento limitado.
+* Salmos 19:14: "Sejam agradáveis as palavras da minha boca e a meditação do meu coração perante ti, Senhor, rocha minha e redentor meu!" Este verso destaca a importância de viver com integridade, tanto em nossas palavras quanto em nossas ações, para honrar a Deus.
+* Provérbios 22:4: "A recompensa da humildade e do temor do Senhor são a riqueza, a honra e a vida." Este versículo destaca a importância da humildade e do temor do Senhor como valores fundamentais para uma vida abençoada.
+****
+
+[[v24-30-1]]
+
+^<<v24-30-1,1>>^ Palavras de Agur, filho de Jaces, de Massa. Palavras desse homem: Eu me fatiguei por Deus, estou esgotado por Deus, eis-me entregue.^&#42;1^
+
+[[v24-30-2]]
+
+^<<v24-30-2,2>>^ Porque eu sou o mais insensato dos homens, não tenho a inteligência de um homem.
+
+[[v24-30-3]]
+
+^<<v24-30-3,3>>^ Não aprendi a sabedoria e não conheci a ciência do Santo.^&#42;1^
+
+[[v24-30-4]]
+
+^<<v24-30-4,4>>^ Quem subiu ao céu e desceu? Quem reteve o vento em suas mãos? Quem envolveu as águas em seu manto? Quem determinou as extremidades da terra? Qual é o seu nome, qual é o nome de seu filho, se é que o sabes?
+
+[[v24-30-5]]
+
+^<<v24-30-5,5>>^ Toda a palavra de Deus é provada, é um escudo para quem se fia nele.
+
+[[v24-30-6]]
+
+^<<v24-30-6,6>>^ Não acrescentes nada às suas palavras, para que ele não te corrija e sejas achado mentiroso.
+
+[[v24-30-7]]
+
+^<<v24-30-7,7>>^ Eu te peço duas coisas, não me negues antes de minha morte:
+
+[[v24-30-8]]
+
+^<<v24-30-8,8>>^ afasta de mim falsidade e mentira, não me dês nem pobreza nem riqueza, concede-me o pão que me é necessário,
+
+[[v24-30-9]]
+
+^<<v24-30-9,9>>^ para que, saciado, eu não te renegue, e não diga: “Quem é o Senhor?”. Ou que, pobre, eu não roube, e não profane o nome do meu Deus.
+
+[[v24-30-10]]
+
+^<<v24-30-10,10>>^ Não calunies um escravo junto de seu senhor, para que ele não te amaldiçoe e sofras o castigo.
+
+[[v24-30-11]]
+
+^<<v24-30-11,11>>^ Há uma raça que amaldiçoa seu pai e que não abençoa sua mãe.
+
+[[v24-30-12]]
+
+^<<v24-30-12,12>>^ Há uma raça que se julga pura e que não está limpa de sua mancha.
+
+[[v24-30-13]]
+
+^<<v24-30-13,13>>^ Há uma raça, oh, cujos olhos são altivos, com pálpebras levantadas!
+
+[[v24-30-14]]
+
+^<<v24-30-14,14>>^ Há uma raça cujos dentes são espadas e os maxilares, facas, para devorar os desvalidos da terra e os indigentes dentre os homens.
+
+[[v24-30-15]]
+
+^<<v24-30-15,15>>^ A sanguessuga tem duas filhas: Dá! Dá! Há três coisas insaciáveis, quatro mesmo, que nunca dizem: “Basta!”.
+
+[[v24-30-16]]
+
+^<<v24-30-16,16>>^ A habitação dos mortos, o seio estéril, o solo que a água jamais sacia e o fogo que nunca diz: “Basta!”.
+
+[[v24-30-17]]
+
+^<<v24-30-17,17>>^ Os olhos de quem zomba do pai, de quem se recusa a obedecer a sua mãe: os corvos da torrente o arrebatarão, os filhos da águia o devorarão.
+
+[[v24-30-18]]
+
+^<<v24-30-18,18>>^ Há três coisas que me são mistério, quatro mesmo, que não compreendo:
+
+[[v24-30-19]]
+
+^<<v24-30-19,19>>^ O voo da águia nos céus, o rastejar da cobra no rochedo, a navegação de um navio em pleno mar, o caminho de um homem junto a uma jovem.^&#42;1^
+
+[[v24-30-20]]
+
+^<<v24-30-20,20>>^ Tal é o procedimento da mulher adúltera: come, depois limpa a boca, dizendo: “Não fiz mal algum”.^&#42;1^
+
+[[v24-30-21]]
+
+^<<v24-30-21,21>>^ Três coisas fazem tremer a terra, há mesmo quatro que ela não pode suportar:
+
+[[v24-30-22]]
+
+^<<v24-30-22,22>>^ Um escravo que se torna rei, um tolo que está farto de pão,
+
+[[v24-30-23]]
+
+^<<v24-30-23,23>>^ uma filha desprezada que se casa, uma serva que suplanta sua senhora.
+
+[[v24-30-24]]
+
+^<<v24-30-24,24>>^ Há quatro animais pequenos na terra que, entretanto, são sábios, muito sábios:
+
+[[v24-30-25]]
+
+^<<v24-30-25,25>>^ as formigas, povo sem força, que, durante o verão, preparam suas provisões,
+
+[[v24-30-26]]
+
+^<<v24-30-26,26>>^ os arganazes, povo sem poder, que fazem sua habitação nos rochedos,
+
+[[v24-30-27]]
+
+^<<v24-30-27,27>>^ os gafanhotos, que não têm rei e avançam todos em bandos,
+
+[[v24-30-28]]
+
+^<<v24-30-28,28>>^ a lagartixa, que se pode pegar na mão e penetra nos palácios reais.
+
+[[v24-30-29]]
+
+^<<v24-30-29,29>>^ Há três coisas que têm bela aparência, quatro mesmo, que andam garbosamente:
+
+[[v24-30-30]]
+
+^<<v24-30-30,30>>^ o leão, o mais bravo dos animais, que não recua diante de nada,
+
+[[v24-30-31]]
+
+^<<v24-30-31,31>>^ o animal cingido pelos rins, o bode e o rei acompanhado de seu exército.^&#42;1^
+
+[[v24-30-32]]
+
+^<<v24-30-32,32>>^ Se tiveres a asneira de elevar-te a ti mesmo, refletindo nisso, depois, põe tua mão à boca,
+
+[[v24-30-33]]
+
+^<<v24-30-33,33>>^ porque quem comprime o leite, tira dele a manteiga, quem aperta o nariz, faz jorrar o sangue, quem provoca a cólera, promove a disputa.
+
+'''
+
+xref:024-proverbios/024-proverbios-029.adoc#v24-29-0[&#60; Capítulo Anterior] | <<v24-30-0,Topo>> | xref:024-proverbios/024-proverbios-031.adoc#v24-31-0[Próximo Capítulo &#62;]

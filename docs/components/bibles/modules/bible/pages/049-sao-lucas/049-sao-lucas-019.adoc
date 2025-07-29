@@ -1,0 +1,211 @@
+include::./index.adoc[]
+
+[[v49-19-0]]
+=== São Lucas, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em Lucas 19, Jesus encontra e salva Zaqueu, um cobrador de impostos, e conta a parábola das dez minas, onde um homem confia seus bens a seus servos antes de partir. Os versículos selecionados são os seguintes:
+* Deuteronômio 14:28-29: "Ao fim de três anos, tirarás o dízimo de todos os frutos, do ano terceiro, e o depositarás nas tuas cidades. Então, virão o levita, porquanto não tem parte nem herança contigo, como também o estrangeiro, o órfão e a viúva, que estão dentro das tuas cidades, e comerão até se fartarem; para que o SENHOR, teu Deus, te abençoe em toda obra que as tuas mãos fizerem." Esse versículo se relaciona com o fato de que Zaqueu devolveu o dinheiro que havia extorquido quatro vezes mais e prometeu dar metade de seus bens aos pobres.
+* Provérbios 28:13: "O que encobre as suas transgressões jamais prosperará; mas o que as confessa e deixa alcançará misericórdia." Essa passagem se relaciona com a história de Zaqueu porque ele admitiu seu pecado e prometeu fazer reparações.
+* Lucas 6:38: "Dai, e ser-vos-á dado; boa medida, recalcada, sacudida, transbordante, generosamente vos darão; porque com a medida com que tiverdes medido vos medirão também." Essa passagem se relaciona com a parábola das dez minas em Lucas 19, onde os servos são recompensados por investir bem os recursos que lhes foram confiados.
+* 2 Coríntios 9:6: "Mas digo isto: Aquele que semeia pouco pouco também ceifará; e o que semeia com fartura com abundância também ceifará." Esse versículo se relaciona com a parábola das dez minas, onde o servo que investiu suas minas com sucesso recebeu dez cidades como recompensa.
+* Atos dos Apóstolos 16:31: "E eles disseram: Crê no Senhor Jesus e serás salvo, tu e tua casa." Essa passagem se relaciona com a história de Zaqueu, que foi salvo por Jesus por causa de sua fé e arrependimento, e sua casa também foi abençoada por isso.
+****
+
+[[v49-19-1]]
+
+^<<v49-19-1,1>>^ Jesus entrou em Jericó e ia atravessando a cidade.
+
+[[v49-19-2]]
+
+^<<v49-19-2,2>>^ Havia aí um homem muito rico chamado Zaqueu, chefe dos recebedores de impostos.
+
+[[v49-19-3]]
+
+^<<v49-19-3,3>>^ Ele procurava ver quem era Jesus, mas não o conseguia por causa da multidão, porque era de baixa estatura.
+
+[[v49-19-4]]
+
+^<<v49-19-4,4>>^ Ele correu adiante, subiu a um sicômoro para o ver, quando ele passasse por ali.
+
+[[v49-19-5]]
+
+^<<v49-19-5,5>>^ Chegando Jesus àquele lugar e levantando os olhos, viu-o e disse-lhe: “Zaqueu, desce depressa, porque é preciso que eu fique hoje em tua casa.”
+
+[[v49-19-6]]
+
+^<<v49-19-6,6>>^ Ele desceu a toda a pressa e recebeu-o alegremente.
+
+[[v49-19-7]]
+
+^<<v49-19-7,7>>^ Vendo isso, todos murmuravam e diziam: “Ele vai hospedar-se em casa de um pecador...”.
+
+[[v49-19-8]]
+
+^<<v49-19-8,8>>^ Zaqueu, entretanto, de pé diante do Senhor, disse-lhe: “Senhor, vou dar a metade dos meus bens aos pobres e, se tiver defraudado alguém, restituirei o quádruplo”.
+
+[[v49-19-9]]
+
+^<<v49-19-9,9>>^ Disse-lhe Jesus: “Hoje entrou a salvação nesta casa, porquanto também este é filho de Abraão.
+
+[[v49-19-10]]
+
+^<<v49-19-10,10>>^ Pois o Filho do Homem veio procurar e salvar o que estava perdido”. (= Mt 25,14-30)
+
+[[v49-19-11]]
+
+^<<v49-19-11,11>>^ Ouviam-no falar. E, como estava perto de Jerusalém, alguns se persuadiam de que o Reino de Deus se havia de manifestar brevemente; ele acrescentou esta parábola:
+
+[[v49-19-12]]
+
+^<<v49-19-12,12>>^ “Um homem ilustre foi para um país distante, a fim de ser investido da realeza e depois regressar.
+
+[[v49-19-13]]
+
+^<<v49-19-13,13>>^ Chamou dez dos seus servos e deu-lhes dez minas, dizendo-lhes: Negociai até eu voltar.^&#42;1^
+
+[[v49-19-14]]
+
+^<<v49-19-14,14>>^ Mas os homens daquela região odiavam-no e enviaram atrás dele embaixadores, para protestarem: Não queremos que ele reine sobre nós.
+
+[[v49-19-15]]
+
+^<<v49-19-15,15>>^ Quando, investido da dignidade real, voltou, mandou chamar os servos a quem confiara o dinheiro, a fim de saber quanto cada um tinha lucrado.
+
+[[v49-19-16]]
+
+^<<v49-19-16,16>>^ Veio o primeiro: Senhor, teu dinheiro rendeu 10 vezes mais.
+
+[[v49-19-17]]
+
+^<<v49-19-17,17>>^ Ele lhe disse: Muito bem, servo bom; porque foste fiel nas coisas pequenas, receberás o governo de dez cidades.
+
+[[v49-19-18]]
+
+^<<v49-19-18,18>>^ Veio o segundo: Senhor, teu dinheiro rendeu 5 vezes mais.
+
+[[v49-19-19]]
+
+^<<v49-19-19,19>>^ Disse a este: Sê também tu governador de cinco cidades.
+
+[[v49-19-20]]
+
+^<<v49-19-20,20>>^ Veio também o outro: Senhor, aqui tens teu dinheiro, que guardei embrulhado num lenço;
+
+[[v49-19-21]]
+
+^<<v49-19-21,21>>^ pois tive medo de ti, por seres homem rigoroso, que tiras o que não puseste e ceifas o que não semeaste.
+
+[[v49-19-22]]
+
+^<<v49-19-22,22>>^ Replicou-lhe ele: Servo mau, pelas tuas palavras te julgo. Sabias que sou rigoroso, que tiro o que não depositei e ceifo o que não semeei...
+
+[[v49-19-23]]
+
+^<<v49-19-23,23>>^ Por que, pois, não puseste o meu dinheiro num banco? Na minha volta, eu o teria retirado com juros.
+
+[[v49-19-24]]
+
+^<<v49-19-24,24>>^ E disse aos que estavam presentes: Tirai-lhe a mina, e dai-a ao que tem dez minas.
+
+[[v49-19-25]]
+
+^<<v49-19-25,25>>^ Replicaram-lhe: Senhor, este já tem dez minas!...
+
+[[v49-19-26]]
+
+^<<v49-19-26,26>>^ Eu vos declaro: a todo aquele que tiver, lhe será dado; mas, ao que não tiver, lhe será tirado até o que tem.
+
+[[v49-19-27]]
+
+^<<v49-19-27,27>>^ Quanto aos que me odeiam, e que não me quiseram por rei, trazei-os e massacrai-os na minha presença”.
+
+[[v49-19-28]]
+
+^<<v49-19-28,28>>^ Depois dessas palavras, Jesus os foi precedendo no caminho que sobe a Jerusalém. (= Mt 21,1-16 = Mc 11,1-11 = Jo 12,12-19)
+
+[[v49-19-29]]
+
+^<<v49-19-29,29>>^ Chegando perto de Betfagé e de Betânia, junto do monte chamado das Oliveiras, Jesus enviou dois dos seus discípulos e disse-lhes:
+
+[[v49-19-30]]
+
+^<<v49-19-30,30>>^ “Ide a essa aldeia que está defronte de vós. Entrando nela, achareis um jumentinho atado, em que nunca montou pessoa alguma; desprendei-o e trazei-mo.
+
+[[v49-19-31]]
+
+^<<v49-19-31,31>>^ Se alguém vos perguntar por que o soltais, respondereis assim: O Senhor precisa dele”.
+
+[[v49-19-32]]
+
+^<<v49-19-32,32>>^ Partiram os dois discípulos e acharam tudo como Jesus tinha dito.
+
+[[v49-19-33]]
+
+^<<v49-19-33,33>>^ Quando desprendiam o jumentinho, perguntaram-lhes seus donos: “Por que fazeis isto?”.
+
+[[v49-19-34]]
+
+^<<v49-19-34,34>>^ Eles responderam: “O Senhor precisa dele”.
+
+[[v49-19-35]]
+
+^<<v49-19-35,35>>^ E trouxeram a Jesus o jumentinho, sobre o qual deitaram seus mantos e fizeram Jesus montar.
+
+[[v49-19-36]]
+
+^<<v49-19-36,36>>^ À sua passagem, muitas pessoas estendiam seus mantos no caminho.
+
+[[v49-19-37]]
+
+^<<v49-19-37,37>>^ Quando já se ia aproximando da descida do monte das Oliveiras, toda a multidão dos discípulos, tomada de alegria, começou a louvar a Deus em altas vozes, por todas as maravilhas que tinha visto.
+
+[[v49-19-38]]
+
+^<<v49-19-38,38>>^ E dizia: “Bendito o rei que vem em nome do Senhor! Paz no céu e glória no mais alto dos céus!”.
+
+[[v49-19-39]]
+
+^<<v49-19-39,39>>^ Nesse momento, alguns fariseus interpelaram a Jesus no meio da multidão: “Mestre, repreende os teus discípulos”.
+
+[[v49-19-40]]
+
+^<<v49-19-40,40>>^ Ele respondeu: “Digo-vos: se estes se calarem, clamarão as pedras!”.
+
+[[v49-19-41]]
+
+^<<v49-19-41,41>>^ Aproximando-se ainda mais, Jesus contemplou Jerusalém e chorou sobre ela, dizendo:
+
+[[v49-19-42]]
+
+^<<v49-19-42,42>>^ “Oh! Se também tu, ao menos neste dia que te é dado, conhecesses o que te pode trazer a paz!... Mas não, isso está oculto aos teus olhos.
+
+[[v49-19-43]]
+
+^<<v49-19-43,43>>^ Virão sobre ti dias em que os teus inimigos te cercarão de trincheiras, te sitiarão e te apertarão de todos os lados;
+
+[[v49-19-44]]
+
+^<<v49-19-44,44>>^ eles destruirão a ti e a teus filhos que estiverem dentro de ti, e não deixarão em ti pedra sobre pedra, porque não conheceste o tempo em que foste visitada”.^&#42;1^ (Mt 21,12s = Mc 11,15-19)
+
+[[v49-19-45]]
+
+^<<v49-19-45,45>>^ Em seguida, entrou no templo e começou a expulsar os mercadores.
+
+[[v49-19-46]]
+
+^<<v49-19-46,46>>^ Disse ele: “Está escrito: A minha casa é casa de oração! Mas vós a fizestes um covil de ladrões” (Is 56,7; Jr 7,11).
+
+[[v49-19-47]]
+
+^<<v49-19-47,47>>^ Todos os dias ensinava no templo. Os príncipes dos sacerdotes, porém, os escribas e os chefes do povo procuravam tirar-lhe a vida.
+
+[[v49-19-48]]
+
+^<<v49-19-48,48>>^ Mas não sabiam como realizá-lo, porque todo o povo ficava muito admirado, quando o ouvia falar. (Mt 21,23-27 = Mc 11,27-33)
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-018.adoc#v49-18-0[&#60; Capítulo Anterior] | <<v49-19-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-020.adoc#v49-20-0[Próximo Capítulo &#62;]

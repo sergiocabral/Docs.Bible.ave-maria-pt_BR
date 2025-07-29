@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v10-12-0]]
+=== II Samuel, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Samuel 12 relata o confronto do profeta Natã com o rei Davi, depois que este havia cometido adultério com Bate-Seba e mandado matar Urias, seu marido. Natã repreende Davi pela sua conduta e o confronta com a parábola do homem rico que roubou a ovelha do homem pobre. Davi reconhece o seu pecado e se arrepende. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Samuel 12:
+* Provérbios 28:13: "O que encobre as suas transgressões jamais prosperará; mas o que as confessa e deixa alcançará misericórdia." Este versículo fala sobre a importância de confessar os pecados para obter perdão e misericórdia.
+* Salmos 51:1-2: "Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias. Lava-me completamente da minha iniquidade, e purifica-me do meu pecado." Este salmo é uma oração de Davi após seu pecado com Bate-Seba e Urias, pedindo a Deus para perdoá-lo e purificá-lo.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Este versículo destaca a importância da confissão de pecados para obter o perdão e a purificação.
+* Salmos 32:3-5: "Enquanto calei os meus pecados, envelheceram os meus ossos pelos meus constantes gemidos todo o dia. Porque de dia e de noite a tua mão pesava sobre mim; o meu humor se tornou em sequidão de estio. Confessei-te o meu pecado, e a minha iniquidade não encobri. Disse eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a culpa do meu pecado." Este salmo fala sobre a aflição que o pecado traz e a importância de confessá-lo para obter perdão e alívio.
+* Provérbios 6:32-33: "O que adultera com uma mulher é falto de entendimento; destrói a sua alma o que tal faz. Acha açoites e afronta o que faz tal coisa; e a sua vergonha nunca se apagará." Este versículo destaca a gravidade do adultério e a consequência destrutiva que ele traz para a alma da pessoa.
+****
+
+[[v10-12-1]]
+
+^<<v10-12-1,1>>^ O Senhor mandou a Davi o pro-feta Natã. Este entrou em sua casa e disse-lhe: “Dois homens moravam na mesma cidade, um rico e outro pobre.
+
+[[v10-12-2]]
+
+^<<v10-12-2,2>>^ O rico possuía ovelhas e bois em grande quantidade;
+
+[[v10-12-3]]
+
+^<<v10-12-3,3>>^ o pobre, porém, só tinha uma ovelha, pequenina, que ele comprara. Ele a criava e ela crescia junto dele, com os seus filhos, comendo do seu pão, bebendo do seu copo e dormindo no seu seio; era para ele como uma filha.
+
+[[v10-12-4]]
+
+^<<v10-12-4,4>>^ Certo dia, chegou à casa do homem rico a visita de um estranho e ele, não querendo tomar de suas ovelhas nem de seus bois para aprontá-los e dar de comer ao hóspede que lhe tinha chegado, foi e apoderou-se da ovelhinha do pobre, preparando-a para o seu hóspede”.
+
+[[v10-12-5]]
+
+^<<v10-12-5,5>>^ Davi, indignado contra tal homem, disse a Natã: “Pela vida de Deus! O homem que fez isso merece a morte.
+
+[[v10-12-6]]
+
+^<<v10-12-6,6>>^ Ele restituirá sete vezes o valor da ovelha, por ter feito isso e não ter tido compaixão”.
+
+[[v10-12-7]]
+
+^<<v10-12-7,7>>^ Natã disse então a Davi: “Tu és esse homem. Eis o que diz o Senhor, Deus de Israel: Ungi-te rei de Israel, salvei-te das mãos de Saul,
+
+[[v10-12-8]]
+
+^<<v10-12-8,8>>^ dei-te a casa do teu senhor e pus as suas mulheres nos teus braços. Entreguei-te a casa de Israel e de Judá e se isso fosse ainda pouco, eu teria ajuntado outros favores.
+
+[[v10-12-9]]
+
+^<<v10-12-9,9>>^ Por que desprezaste o Senhor, fazendo o que é mau aos seus olhos? Feriste com a espada Urias, o hiteu, para fazer de sua mulher a tua esposa e o fizeste perecer pela espada dos amonitas.
+
+[[v10-12-10]]
+
+^<<v10-12-10,10>>^ Por isso, jamais se afastará a espada de tua casa, porque me desprezaste, tomando a mulher de Urias, o hiteu, para fazer dela a tua esposa.^&#42;1^
+
+[[v10-12-11]]
+
+^<<v10-12-11,11>>^ Eis o que diz o Senhor: Vou fazer com que se levantem contra ti males vindos de tua própria casa. Sob os teus olhos, tomarei as tuas mulheres e as darei a um outro que dormirá com elas à luz do sol!^&#42;1^
+
+[[v10-12-12]]
+
+^<<v10-12-12,12>>^ Porque agiste em segredo, mas eu o farei diante de todo o Israel e diante do sol”.
+
+[[v10-12-13]]
+
+^<<v10-12-13,13>>^ Davi disse a Natã: “Pequei contra o Senhor”. Natã respondeu-lhe: “O Senhor perdoa o teu pecado; não morrerás.
+
+[[v10-12-14]]
+
+^<<v10-12-14,14>>^ Todavia, como desprezaste o Senhor com essa ação, morrerá o filho que te nasceu”.
+
+[[v10-12-15]]
+
+^<<v10-12-15,15>>^ E Natã voltou para sua casa. O Senhor feriu o menino que a mulher de Urias tinha dado a Davi e ele adoeceu gravemente.
+
+[[v10-12-16]]
+
+^<<v10-12-16,16>>^ Davi suplicou ao Senhor pelo menino; jejuou e passou a noite em sua casa prostrado por terra, vestido com um saco.
+
+[[v10-12-17]]
+
+^<<v10-12-17,17>>^ Os anciãos de sua casa, de pé junto dele, insistiam em que ele se levantasse do chão, mas ele não o quis, nem tomou com eles alimento algum.
+
+[[v10-12-18]]
+
+^<<v10-12-18,18>>^ Ao sétimo dia, morreu o menino. Os servos do rei não ousavam dar-lhe a notícia, pensando: “Quando o menino ainda vivia, nós lhe falávamos e ele não queria ouvir-nos; quanto mais se afligirá agora, se lhe anunciarmos que o menino morreu? Seria uma desgraça”.
+
+[[v10-12-19]]
+
+^<<v10-12-19,19>>^ Davi notou que seus servos cochichavam entre si e compreendeu que o menino morrera. Perguntou-lhes: “Morreu o menino?”. “Sim – responderam-lhe.
+
+[[v10-12-20]]
+
+^<<v10-12-20,20>>^ Então, Davi levantou-se do chão, lavou-se, perfumou-se, mudou de roupa e entrou na casa do Senhor para se prostrar. De volta à sua casa, mandou que lhe servissem a refeição e comeu.
+
+[[v10-12-21]]
+
+^<<v10-12-21,21>>^ Seus servos disseram-lhe: “Que fazes? Quando a criança ainda vivia, jejuavas e choravas. Agora, que morreu, tu te levantas e comes”.
+
+[[v10-12-22]]
+
+^<<v10-12-22,22>>^ “Eu jejuava e orava pelo menino enquanto vivia – respondeu ele –, porque dizia comigo: Quem sabe? Talvez o Senhor tenha pena de mim e o menino ficará bom.
+
+[[v10-12-23]]
+
+^<<v10-12-23,23>>^ Mas agora, que morreu, por que jejuar ainda? Posso por acaso fazê-lo voltar à vida? Eu é que irei para junto dele; ele, porém, não voltará mais a mim!”
+
+[[v10-12-24]]
+
+^<<v10-12-24,24>>^ Davi consolou Betsabeia, sua mulher. Foi procurá-la e dormiu com ela. Ela concebeu e deu à luz um filho, ao qual chamou Salomão. O Senhor o amou,^&#42;1^
+
+[[v10-12-25]]
+
+^<<v10-12-25,25>>^ e revelou isso a Davi por intermédio do profeta Natã, que deu ao menino o sobrenome de Amado-de-Javé, segundo a ordem do Senhor.^&#42;1^
+
+[[v10-12-26]]
+
+^<<v10-12-26,26>>^ Joab, que sitiava Rabá dos amonitas, apoderou-se da cidade das Águas.^&#42;1^
+
+[[v10-12-27]]
+
+^<<v10-12-27,27>>^ E enviou a Davi mensageiros com esta notícia: “Assaltei Rabá e ocupei a cidade das Águas.
+
+[[v10-12-28]]
+
+^<<v10-12-28,28>>^ Ajunta o resto do exército, vem acampar perto da cidade e tomá-la, para não acontecer que, tomando-a eu, seja-lhe dado o meu nome”.
+
+[[v10-12-29]]
+
+^<<v10-12-29,29>>^ Reuniu Davi todo o exército e foi contra Rabá, assaltando-a e tomando-a.
+
+[[v10-12-30]]
+
+^<<v10-12-30,30>>^ Tirou a coroa da cabeça de Milcom. Esta pesava um talento de ouro e era ornada de uma pedra preciosa, que foi colocada sobre a cabeça de Davi. Também foi tirada da cidade grande quantidade de despojos.^&#42;1^
+
+[[v10-12-31]]
+
+^<<v10-12-31,31>>^ Quanto à sua população, fê-la sair para empregá-la em serrar, em trabalhar com a picareta e o machado e em fazer tijolos. Assim fez com todas as cidades dos amonitas. E Davi voltou com todas as suas tropas para Jerusalém.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-011.adoc#v10-11-0[&#60; Capítulo Anterior] | <<v10-12-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-013.adoc#v10-13-0[Próximo Capítulo &#62;]

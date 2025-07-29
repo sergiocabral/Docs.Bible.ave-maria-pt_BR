@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v44-2-0]]
+=== Ageu, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 2 de Ageu fala sobre a restauração do Templo de Jerusalém, que havia sido destruído pelos babilônios. Ageu profetiza que a glória deste Templo será maior do que a do Templo anterior e que Deus trará prosperidade para o povo de Judá. Abaixo estão cinco versículos relacionados com os temas abordados em Ageu 2:
+* 2 Crônicas 36:23: "Assim diz Ciro, rei da Pérsia: O SENHOR Deus dos céus me deu todos os reinos da terra, e me encarregou de lhe edificar uma casa em Jerusalém, que está em Judá. Quem há entre vós de todo o seu povo? O SENHOR seu Deus seja com ele, e suba." Este verso fala sobre a ordem de Ciro, rei da Pérsia, para a reconstrução do Templo em Jerusalém, o que é o tema principal de Ageu 2.
+* Esdras 6:14: "E os anciãos dos judeus iam edificando e prosperando, pela profecia do profeta Ageu e de Zacarias, filho de Ido. Edificaram a casa e a aperfeiçoaram, conforme ao mandado do Deus de Israel, e conforme ao mandado de Ciro, e de Dario, e de Artaxerxes, reis da Pérsia." Este verso mostra que a profecia de Ageu sobre a restauração do Templo se cumpriu e que os judeus foram abençoados com prosperidade.
+* Isaías 60:7: "Todo o rebanho de Quedar se congregarão a ti; os carneiros de Nebaiote te servirão; subirão aceitavelmente ao meu altar, e eu glorificarei a casa da minha glória." Este verso fala sobre a glória que Deus trará para o seu povo e para o seu Templo, o que se relaciona com a profecia de Ageu sobre a glória do novo Templo.
+* 1 Reis 8:10-11: "E sucedeu que, saindo os sacerdotes do santuário, uma nuvem encheu a casa do SENHOR, de maneira que os sacerdotes não podiam ter-se em pé para ministrar, por causa da nuvem, porque a glória do SENHOR enchera a casa do SENHOR." Este verso fala sobre a glória de Deus que encheu o Templo de Salomão, o que se relaciona com a profecia de Ageu sobre a glória do novo Templo.
+* Salmos 72:16: "Haverá abundância de trigo na terra, até aos cimos dos montes; o seu fruto fará ruído como o Líbano, e os homens florescerão nas cidades como a erva da terra." Este verso fala sobre a prosperidade que Deus trará para o seu povo, o que se relaciona com a profecia de Ageu sobre a prosperidade que virá para Judá após a restauração do Templo.
+****
+
+[[v44-2-1]]
+
+^<<v44-2-1,1>>^ No segundo ano do reinado de Dario, no vigésimo primeiro dia do sétimo mês, a palavra do Senhor fez-se ouvir por intermédio do profeta Ageu, nestes termos:
+
+[[v44-2-2]]
+
+^<<v44-2-2,2>>^ “Fala ao governador de Judá, Zorobabel, filho de Salatiel, ao sumo sacerdote Josué, filho de Josedec, e ao resto do povo.
+
+[[v44-2-3]]
+
+^<<v44-2-3,3>>^ Haverá alguém entre vós que tenha visto esta casa em seu primeiro esplendor? E em que estado a vedes agora! Tal como está, não parece ela insignificante aos vossos olhos?
+
+[[v44-2-4]]
+
+^<<v44-2-4,4>>^ Todavia, ó Zorobabel, tem ânimo, diz o Senhor. Coragem, Josué, filho de Josedec, sumo sacerdote! Coragem todos vós, habitantes da terra, diz o Senhor. Mãos à obra! Eu estou convosco – oráculo do Senhor dos exércitos.
+
+[[v44-2-5]]
+
+^<<v44-2-5,5>>^ Segundo o pacto que fiz convosco quando saístes do Egito, meu Espírito habitará convosco. Não temais.
+
+[[v44-2-6]]
+
+^<<v44-2-6,6>>^ Porque isto diz o Senhor dos exércitos: Ainda um pouco de tempo, e abalarei céu e terra, mares e continentes;^&#42;1^
+
+[[v44-2-7]]
+
+^<<v44-2-7,7>>^ sacudirei todas as nações, afluirão riquezas de todos os povos e encherei de minha glória esta casa, diz o Senhor dos exércitos.
+
+[[v44-2-8]]
+
+^<<v44-2-8,8>>^ A prata e o ouro me pertencem – oráculo do Senhor dos exércitos.
+
+[[v44-2-9]]
+
+^<<v44-2-9,9>>^ O esplendor desta casa sobrepujará o da primeira – oráculo do Senhor dos exércitos.
+
+[[v44-2-10]]
+
+^<<v44-2-10,10>>^ Sim, farei reinar a paz neste lugar, diz o Senhor dos exércitos”. No segundo ano do reinado de Dario, no vigésimo quarto dia do nono mês, a palavra do Senhor fez-se ouvir pelo ministério do profeta Ageu, nestes termos:
+
+[[v44-2-11]]
+
+^<<v44-2-11,11>>^ “Isto diz o Senhor dos exércitos: propõe aos sacerdotes esta questão:
+
+[[v44-2-12]]
+
+^<<v44-2-12,12>>^ Suponhamos que um homem traga na orla da sua veste carne consagrada. Se ele tocasse com esta veste o pão, ou o guisado, ou o vinho, ou o óleo, ou qualquer outro alimento, porventura se tornaria santo tal objeto?”. “Não” – responderam os sacerdotes –.
+
+[[v44-2-13]]
+
+^<<v44-2-13,13>>^ “Mas, suponhamos” – replicou Ageu – “que alguém esteja manchado por ter tocado um cadáver; se ele tocar qualquer dessas coisas, ficará ela impura?” “Sim, ficará impura” – responderam os sacerdotes –.^&#42;1^
+
+[[v44-2-14]]
+
+^<<v44-2-14,14>>^ Então, Ageu retomou a palavra e disse: “Assim é este povo, assim é esta nação diante de mim – oráculo do Senhor; assim também é o trabalho de suas mãos: tudo o que me oferecem ali está manchado.^&#42;1^
+
+[[v44-2-15]]
+
+^<<v44-2-15,15>>^ Prestai toda a atenção pois, a partir de hoje e para sempre. Antes que se começasse a colocar pedra sobre pedra no Templo do Senhor, que vos acontecia?
+
+[[v44-2-16]]
+
+^<<v44-2-16,16>>^ Um feixe de trigo, do qual se esperava vinte medidas de grãos, não dava mais que dez; uma cuba de vinho de cinquenta medidas não dava mais que vinte;
+
+[[v44-2-17]]
+
+^<<v44-2-17,17>>^ mandei ferrugem, mangra e saraiva para destruir o trabalho de vossas mãos, e não vos voltastes para mim – oráculo do Senhor.
+
+[[v44-2-18]]
+
+^<<v44-2-18,18>>^ Prestai toda a atenção no que vai acontecer a partir deste dia, a partir do vigésimo quarto dia do nono mês, dia em que foram lançadas as pedras de fundamento da casa do Senhor. Prestai toda a atenção!
+
+[[v44-2-19]]
+
+^<<v44-2-19,19>>^ Vede se o grão falta ainda nos celeiros, se a vinha, a figueira, a romãzeira e a oliveira continuam improdutivas... porque a partir deste dia derramarei a minha bênção”.
+
+[[v44-2-20]]
+
+^<<v44-2-20,20>>^ A palavra do Senhor foi dirigida pela segunda vez a Ageu no vigésimo quarto dia do mês, nestes termos:
+
+[[v44-2-21]]
+
+^<<v44-2-21,21>>^ “Vai ter com o governador de Judá, Zorobabel, e dize-lhe:
+
+[[v44-2-22]]
+
+^<<v44-2-22,22>>^ Abalarei o céu e a terra, derrubarei o trono de todos os reis, aniquilarei o poder das nações, destruirei os carros e suas equipagens; cavalos e cavaleiros cairão, e eles se matarão mutuamente a golpes de espada.
+
+[[v44-2-23]]
+
+^<<v44-2-23,23>>^ Naquele dia – oráculo do Senhor, – eu te tomarei, ó Zorobabel, filho de Salatiel, meu servo – oráculo do Senhor –, e te conservarei como se conserva um sinete. Porque é a ti que escolhi – oráculo do Senhor dos exércitos”.^&#42;1^
+
+'''
+
+xref:044-ageu/044-ageu-001.adoc#v44-1-0[&#60; Capítulo Anterior] | <<v44-2-0,Topo>> | xref:045-zacarias/045-zacarias-001.adoc#v45-1-0[Próximo Capítulo &#62;]

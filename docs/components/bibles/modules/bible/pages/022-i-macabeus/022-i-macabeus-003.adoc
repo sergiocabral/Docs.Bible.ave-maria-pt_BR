@@ -1,0 +1,259 @@
+include::./index.adoc[]
+
+[[v22-3-0]]
+=== I Macabeus, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Macabeus 3 narra as primeiras vitórias de Judas Macabeu contra as forças gregas, que tentavam impor sua cultura e religião ao povo judeu. O capítulo descreve a organização do exército de Judas e suas estratégias de batalha. A seguir estão cinco versículos relacionados com os temas abordados em 1 Macabeus 3:
+* Deuteronômio 20:4: "Pois o Senhor, o seu Deus, os acompanhará e lutará por vocês contra os seus inimigos, para dar a vitória a vocês." Este versículo fala sobre a ajuda divina na luta contra os inimigos e mostra a importância da fé em Deus em tempos de guerra.
+* Josué 1:9: "Não fui eu que lhe ordenei? Seja forte e corajoso! Não se apavore nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar." Essas palavras de Deus a Josué mostram a importância da coragem e da confiança em Deus na luta contra inimigos poderosos.
+* 2 Crônicas 20:15: "Não tenham medo nem desanimem por causa desse exército vasto. Pois a batalha não é de vocês, mas de Deus." Essa passagem mostra que Deus é o verdadeiro comandante em tempos de guerra e que a vitória pertence a Ele.
+* Provérbios 21:31: "O cavalo é preparado para o dia da batalha, mas a vitória vem do Senhor." Essa passagem mostra a importância da preparação para a guerra, mas também que a vitória depende da ajuda divina.
+* Efésios 6:11: "Vistam toda a armadura de Deus, para poderem ficar firmes contra as ciladas do diabo." Essa passagem fala sobre a importância da proteção divina na batalha espiritual e mostra que a luta contra as forças do mal requer uma armadura espiritual.
+****
+
+[[v22-3-1]]
+
+^<<v22-3-1,1>>^ Seu filho Judas, cognominado Macabeu, ficou em seu lugar.
+
+[[v22-3-2]]
+
+^<<v22-3-2,2>>^ Todos os seus irmãos o auxiliaram, bem como todos os que se tinham unido a seu pai, aceitando generosamente a promessa de combater por Israel.
+
+[[v22-3-3]]
+
+^<<v22-3-3,3>>^ Aumentou a glória do povo; revestiu-se da couraça, como um gigante, cingiu-se com as armas da guerra e empenhou-se nos combates, protegendo seu exército com a espada.
+
+[[v22-3-4]]
+
+^<<v22-3-4,4>>^ Assemelhava-se nas suas ações a um leão, e parecia um leãozinho, que ruge na caçada.
+
+[[v22-3-5]]
+
+^<<v22-3-5,5>>^ Perseguiu e rebuscou com cuidado os traidores e lançou ao fogo os que perseguiam seu povo.
+
+[[v22-3-6]]
+
+^<<v22-3-6,6>>^ Os maus recuaram diante dele transidos de medo, tremeram os que praticaram o mal e a salvação do povo firmou-se em suas mãos.
+
+[[v22-3-7]]
+
+^<<v22-3-7,7>>^ Seus feitos exasperaram os reis, mas alegraram Jacó, e sua memória permaneceu eternamente abençoada.
+
+[[v22-3-8]]
+
+^<<v22-3-8,8>>^ Percorreu as cidades de Judá, expulsando os ímpios, desviando assim de Israel a cólera divina.
+
+[[v22-3-9]]
+
+^<<v22-3-9,9>>^ Seu nome foi pronunciado até as extremidades da terra, e ele conseguiu a adesão daqueles que estavam a ponto de perecer.
+
+[[v22-3-10]]
+
+^<<v22-3-10,10>>^ Aconteceu que Apolônio convocou os gentios e, de Samaria, partiu com um grande exército para combater Israel.
+
+[[v22-3-11]]
+
+^<<v22-3-11,11>>^ Soube-o Judas, saiu-lhe ao encontro, venceu-o e o matou. Muitos caíram aos seus golpes e os restantes puseram-se em fuga.
+
+[[v22-3-12]]
+
+^<<v22-3-12,12>>^ Apoderou-se dos espólios, tomou a espada de Apolônio e desde então usava-a sempre nos combates.
+
+[[v22-3-13]]
+
+^<<v22-3-13,13>>^ Seron, general do exército sírio, veio a saber que Judas cercara-se de soldados fiéis convocados e que ele os levara ao combate.
+
+[[v22-3-14]]
+
+^<<v22-3-14,14>>^ “Vou tornar-me célebre – disse ele –, e cobrir-me de glória no reino. Vencerei Judas e suas tropas que se opõem às ordens do rei.”
+
+[[v22-3-15]]
+
+^<<v22-3-15,15>>^ Armou-se ele para a guerra. Um poderoso exército de ímpios marchou com ele, para reforçar e tomar vingança dos filhos de Israel.
+
+[[v22-3-16]]
+
+^<<v22-3-16,16>>^ Avançaram até a muralha de Bet-Horon e Judas, seguido de poucos homens, foi-lhe ao encontro.
+
+[[v22-3-17]]
+
+^<<v22-3-17,17>>^ Mas, à vista do exército que vinha contra eles, os companheiros de Judas disseram-lhe: “Como poderemos enfrentar tamanho exército, se somos tão poucos, tanto mais que nos sentimos fracos, porque hoje nada temos comido?”.
+
+[[v22-3-18]]
+
+^<<v22-3-18,18>>^ “É fácil – respondeu Judas – a um punhado de gente fazer-se respeitar por muitos. Para o Deus do céu não há diferença entre a salvação de uma multidão e a de um punhado de homens,
+
+[[v22-3-19]]
+
+^<<v22-3-19,19>>^ porque a vitória no combate não depende do número, mas da força que desce do céu.
+
+[[v22-3-20]]
+
+^<<v22-3-20,20>>^ Essa gente vem contra nós, com insolência e orgulho, para nos aniquilar, juntamente com nossas mulheres e nossos filhos, e para nos despojar.
+
+[[v22-3-21]]
+
+^<<v22-3-21,21>>^ Nós, porém, lutamos por nossas vidas e nossas leis.
+
+[[v22-3-22]]
+
+^<<v22-3-22,22>>^ O próprio Deus os esmagará aos nossos olhos. Não os temais.”
+
+[[v22-3-23]]
+
+^<<v22-3-23,23>>^ E logo que cessara de falar, arrojou-se Judas com rapidez sobre os inimigos. Seron diante dele foi derrotado com seu exército.
+
+[[v22-3-24]]
+
+^<<v22-3-24,24>>^ Judas o perseguiu na descida de Bet-Horon até a planície. Morreram cerca de oitocentos sírios e os restantes fugiram para a terra dos filisteus.
+
+[[v22-3-25]]
+
+^<<v22-3-25,25>>^ E foi assim que se espalhou o terror de Judas e seus irmãos, e todos os povos das vizinhanças encheram-se de consternação.
+
+[[v22-3-26]]
+
+^<<v22-3-26,26>>^ Sua fama chegou aos ouvidos do rei. E todas as nações comentaram os feitos heroicos de Judas.
+
+[[v22-3-27]]
+
+^<<v22-3-27,27>>^ Quando o rei Antíoco soube dessas novas, encolerizou-se terrivelmente e reuniu todas as forças do reino, formando um exército poderosíssimo.
+
+[[v22-3-28]]
+
+^<<v22-3-28,28>>^ Abriu o tesouro e deu ao exército o soldo de um ano com a ordem de estarem prontos para qualquer eventualidade.
+
+[[v22-3-29]]
+
+^<<v22-3-29,29>>^ No entanto, viu que lhe faltava dinheiro no tesouro e que os tributos do território eram deficientes em vista das perturbações e da maldade que havia provocado, suprimindo em toda a parte as instituições em vigor desde outrora.
+
+[[v22-3-30]]
+
+^<<v22-3-30,30>>^ Temeu, portanto, não poder pagar as despesas, como fizera já uma ou duas vezes, e outorgar as liberalidades, que distribuía em certo tempo com mão generosa, porque excedia em liberalidade a todos os reis, seus predecessores.
+
+[[v22-3-31]]
+
+^<<v22-3-31,31>>^ Profundamente consternado, resolveu ir à Pérsia cobrar os tributos dessas regiões e recolher muito dinheiro.
+
+[[v22-3-32]]
+
+^<<v22-3-32,32>>^ Deixou Lísias, pessoa de relevo, de linhagem real, para dirigir os negócios do reino, desde o rio Eufrates até as fronteiras do Egito,
+
+[[v22-3-33]]
+
+^<<v22-3-33,33>>^ e ocupar-se, até sua volta, de seu filho Antíoco.
+
+[[v22-3-34]]
+
+^<<v22-3-34,34>>^ Deixou-lhe a metade do exército do reino, com os elefantes e deu-lhe as instruções referentes à execução de seus planos, especialmente no que dizia respeito aos habitantes da Judeia e de Jerusalém.
+
+[[v22-3-35]]
+
+^<<v22-3-35,35>>^ Devia enviar um exército contra eles para destruir e aniquilar o poderio de Israel e o que restara de Jerusalém, e apagar desses lugares até a sua lembrança.
+
+[[v22-3-36]]
+
+^<<v22-3-36,36>>^ Depois, devia estabelecer em todos os seus confins estrangeiros, aos quais distribuiria as terras por meio de sorte.
+
+[[v22-3-37]]
+
+^<<v22-3-37,37>>^ O rei tomou a outra metade do exército, partiu de Antioquia, a capital de seu reino, no ano cento e quarenta e sete. Passou o Eufrates e atravessou as terras do planalto.^&#42;1^
+
+[[v22-3-38]]
+
+^<<v22-3-38,38>>^ Lísias escolheu Ptolomeu, filho de Dorímenes, Nicanor e Górgias, valorosos generais e familiares do rei.
+
+[[v22-3-39]]
+
+^<<v22-3-39,39>>^ Enviou com estes quarenta mil soldados de infantaria e sete mil cavaleiros, para invadirem e devastarem o país de Judá, conforme a ordem do rei.
+
+[[v22-3-40]]
+
+^<<v22-3-40,40>>^ Postos a caminho com todas essas tropas, chegaram à planície perto de Emaús e penetraram nela.
+
+[[v22-3-41]]
+
+^<<v22-3-41,41>>^ Quando os mercadores ouviram falar deles, tomaram grande quantidade de prata e ouro e se dirigiram com peias ao campo para comprar os filhos de Israel como escravos. Exércitos da Síria, bem como do estrangeiro, vieram juntar-se a eles.^&#42;1^
+
+[[v22-3-42]]
+
+^<<v22-3-42,42>>^ Judas e seus irmãos viram que a situação era grave e que as forças inimigas acampavam dentro de suas fronteiras. Sabendo também como o rei havia ordenado de tratar o povo para destruí-lo e exterminá-lo,
+
+[[v22-3-43]]
+
+^<<v22-3-43,43>>^ disseram uns aos outros: “Levantemos nossa pátria de seu abatimento e lutemos por nosso povo e por nosso lugar santo!”.
+
+[[v22-3-44]]
+
+^<<v22-3-44,44>>^ Convocaram então toda a gente, a fim de se prepararem para a luta, de rezarem, de implorarem piedade e misericórdia de Deus.
+
+[[v22-3-45]]
+
+^<<v22-3-45,45>>^ Porquanto, Jerusalém estava desabitada e deserta: não havia um só de seus filhos que nela entrasse ou dela saísse. Seu santuário estava profanado, soldados estrangeiros ocupavam a fortaleza, gentios faziam ali sua habitação. Toda a alegria havia desaparecido de Jacó, e a flauta e a harpa estavam abandonadas.
+
+[[v22-3-46]]
+
+^<<v22-3-46,46>>^ Os israelitas se concentraram, pois, e se dirigiram a Masfa, defronte de Jerusalém, porque tinham tido outrora em Masfa, um local de oração.
+
+[[v22-3-47]]
+
+^<<v22-3-47,47>>^ Jejuaram naquele dia, vestiram-se com sacos, cobriram a cabeça com cinza e rasgaram suas vestes.
+
+[[v22-3-48]]
+
+^<<v22-3-48,48>>^ Abriram o Livro da Lei, para ler nele o que os gentios perguntavam às representações de seus falsos deuses.^&#42;1^
+
+[[v22-3-49]]
+
+^<<v22-3-49,49>>^ Trouxeram os ornamentos sacerdotais, as primícias e os dízimos, e mandaram vir os nazarenos que tinham cumprido o tempo de seu voto.^&#42;1^
+
+[[v22-3-50]]
+
+^<<v22-3-50,50>>^ Em seguida, sua voz se elevou com força ao céu: “O que faremos desta gente e para onde a levaremos?
+
+[[v22-3-51]]
+
+^<<v22-3-51,51>>^ Vosso santuário está profanado e manchado, vossos sacerdotes estão em luto e na humilhação.
+
+[[v22-3-52]]
+
+^<<v22-3-52,52>>^ As nações se coligaram para nos aniquilar e vós sabeis o que elas tramam contra nós.
+
+[[v22-3-53]]
+
+^<<v22-3-53,53>>^ Como resistir diante deles, se vós não vierdes em nosso auxílio?”.
+
+[[v22-3-54]]
+
+^<<v22-3-54,54>>^ Então, eles soaram as trombetas e levantaram um grande clamor.
+
+[[v22-3-55]]
+
+^<<v22-3-55,55>>^ Depois disso, Judas nomeou chefes para grupos de mil, cem, cinquenta e dez homens.
+
+[[v22-3-56]]
+
+^<<v22-3-56,56>>^ E disse aos que acabavam de construir uma casa, de tomar mulher, plantar uma vinha, ou que tinham medo, que voltassem cada qual para sua casa, conforme a Lei.
+
+[[v22-3-57]]
+
+^<<v22-3-57,57>>^ Os israelitas se puseram então a caminho e vieram acampar ao sul de Emaús.
+
+[[v22-3-58]]
+
+^<<v22-3-58,58>>^ “Preparai-vos – disse-lhes Judas –, sede corajosos e estai prontos desde a manhã para o combate a essas nações que estão unidas para nos arruinar, a nós e tudo o que possuímos de sagrado.
+
+[[v22-3-59]]
+
+^<<v22-3-59,59>>^ Porquanto é preferível morrer no combate do que ver nosso povo perseguido e profanado nosso santuário.
+
+[[v22-3-60]]
+
+^<<v22-3-60,60>>^ Que se faça somente a vontade de Deus!”
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-002.adoc#v22-2-0[&#60; Capítulo Anterior] | <<v22-3-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-004.adoc#v22-4-0[Próximo Capítulo &#62;]

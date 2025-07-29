@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v2-29-0]]
+=== Êxodo, 29
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Êxodo 29 trata da consagração dos sacerdotes levitas, onde Moisés recebe instruções detalhadas de Deus sobre como deve ser feita a cerimônia. Os sacerdotes deveriam ser lavados, vestidos com roupas sagradas e ungidos com óleo. A cerimônia de consagração era importante para que os sacerdotes estivessem em condições de servir a Deus e oferecer sacrifícios no tabernáculo. Abaixo seguem cinco versículos relacionados com os temas abordados em Êxodo 29:
+* Levítico 8:6: "Então Moisés apresentou Arão e seus filhos e os lavou com água." Este versículo descreve um momento importante na cerimônia de consagração, quando Moisés lava Arão e seus filhos antes de vesti-los com as roupas sagradas.
+* Levítico 8:12: "Derramou também do óleo da unção sobre a cabeça de Arão e o ungiu para santificá-lo." Aqui, vemos a importância da unção com óleo durante a consagração dos sacerdotes. Esse gesto simbolizava a separação e a santificação dos sacerdotes para o serviço a Deus.
+* Levítico 8:30: "Tomou também Moisés do óleo da unção e do sangue que estava sobre o altar, e o espargiu sobre Arão e sobre suas vestes, como também sobre seus filhos e sobre as vestes deles; assim santificou a Arão, suas vestes, seus filhos e as vestes deles." Este versículo descreve como Moisés ungiu Arão e seus filhos com óleo e sangue do altar, seguindo as instruções de Deus para consagrá-los como sacerdotes.
+* Levítico 8:33: "Não saireis da porta da tenda da congregação por sete dias, até ao dia em que se cumprirem os dias da vossa consagração; porquanto por sete dias sereis consagrados." Este versículo enfatiza a importância da cerimônia de consagração e da separação dos sacerdotes por um período de sete dias, antes que eles possam começar a exercer suas funções no tabernáculo.
+* Números 18:7: "Mas a ti e a teus filhos contigo guardareis o vosso sacerdócio em tudo o que se relaciona com o altar e com o que está detrás do véu; e servireis. Dar-vos-ei, pois, o vosso sacerdócio por dádiva; e o estranho que se aproximar morrerá." Este versículo destaca a exclusividade do sacerdócio levita e como apenas aqueles que foram consagrados para esse serviço podem exercê-lo. Isso era uma questão séria, e qualquer um que tentasse se aproximar do altar sem autorização poderia ser morto.
+****
+
+[[v2-29-1]]
+
+^<<v2-29-1,1>>^ “Eis como procederás para consagrá-los como sacerdotes a meu serviço.
+
+[[v2-29-2]]
+
+^<<v2-29-2,2>>^ Tomarás um novilho e dois carneiros sem defeito; pães sem fermento, bolos sem fermento amassados com azeite, bolachas sem fermento untadas com azeite, tudo feito de flor de farinha de trigo.
+
+[[v2-29-3]]
+
+^<<v2-29-3,3>>^ Tu os porás em uma cesta e os oferecerás ao mesmo tempo que o novilho e os dois carneiros.
+
+[[v2-29-4]]
+
+^<<v2-29-4,4>>^ Farás aproximarem-se Aarão e seus filhos da entrada da tenda de reunião, e os submeterás a uma ablução.
+
+[[v2-29-5]]
+
+^<<v2-29-5,5>>^ Tomarás, em seguida, os ornamentos e revestirás Aarão com a túnica, o manto do efod, o efod e o peitoral, e lhe porás o cinto do efod.
+
+[[v2-29-6]]
+
+^<<v2-29-6,6>>^ Tu lhe porás o turbante na cabeça, e sobre o turbante porás o diadema da santidade.
+
+[[v2-29-7]]
+
+^<<v2-29-7,7>>^ Tomarás o óleo de unção e o ungirás, derramando-o sobre a cabeça.
+
+[[v2-29-8]]
+
+^<<v2-29-8,8>>^ Mandarás aproximarem-se seus filhos e os revestirás de túnicas.
+
+[[v2-29-9]]
+
+^<<v2-29-9,9>>^ Tu os cingirás com um cinto, a Aarão e seus filhos, aos quais imporás tiaras. O sacerdócio lhes pertencerá em virtude de uma lei perpétua. Empossarás Aarão e seus filhos.
+
+[[v2-29-10]]
+
+^<<v2-29-10,10>>^ Levarás o novilho diante da tenda de reunião: Aarão e seus filhos imporão suas mãos sobre a sua cabeça.
+
+[[v2-29-11]]
+
+^<<v2-29-11,11>>^ E imolarás em presença do Senhor o novilho, na entrada da tenda de reunião.
+
+[[v2-29-12]]
+
+^<<v2-29-12,12>>^ Depois tomarás do sangue do novilho, e com o dedo o porás sobre os chifres do altar e derramarás o resto ao pé do altar.
+
+[[v2-29-13]]
+
+^<<v2-29-13,13>>^ Tomarás toda a gordura que cobre as entranhas, a membrana do fígado, os dois rins e a gordura que os envolve, e queimarás tudo sobre o altar.
+
+[[v2-29-14]]
+
+^<<v2-29-14,14>>^ Mas a carne de touro, seu pêlo e seus excrementos, tu os queimarás fora do acampamento: é um sacrifício pelo pecado.
+
+[[v2-29-15]]
+
+^<<v2-29-15,15>>^ Tomarás um dos carneiros, e Aarão e seus filhos imporão suas mãos sobre sua cabeça.
+
+[[v2-29-16]]
+
+^<<v2-29-16,16>>^ Tu o degolarás e tomarás do seu sangue para derramá-lo em volta do altar.
+
+[[v2-29-17]]
+
+^<<v2-29-17,17>>^ Cortarás o carneiro em pedaços, e depois de ter lavado os intestinos e as pernas, os porás sobre os pedaços e sobre a cabeça;
+
+[[v2-29-18]]
+
+^<<v2-29-18,18>>^ e queimarás o carneiro todo sobre o altar. É um holocausto ao Senhor, um sacrifício de agradável odor consumido em honra do Senhor.
+
+[[v2-29-19]]
+
+^<<v2-29-19,19>>^ Tomarás, em seguida, o segundo carneiro, e Aarão e seus filhos imporão suas mãos sobre sua cabeça.
+
+[[v2-29-20]]
+
+^<<v2-29-20,20>>^ Tu degolarás e tomarás do seu sangue para untá-lo na extremidade da orelha direita de Aarão e na extremidade da orelha direita de seus filhos, sobre os dedos polegares de suas mãos direitas e sobre os hálux de seus pés direitos. Depois derramarás o resto do sangue em volta do altar.
+
+[[v2-29-21]]
+
+^<<v2-29-21,21>>^ Aspergirás Aarão e suas vestes, e igualmente seus filhos e suas vestes, com o sangue tomado do altar e com o óleo da unção. Eles serão assim consagrados, ele e suas vestes, bem como seus filhos e suas vestes.
+
+[[v2-29-22]]
+
+^<<v2-29-22,22>>^ Tomarás tudo o que é gordura no carneiro, a cauda, a gordura que envolve as entranhas, a membrana do fígado, os dois rins e a gordura que os envolve, e a coxa direita, porque é o carneiro da investidura.
+
+[[v2-29-23]]
+
+^<<v2-29-23,23>>^ Tomarás ainda, na cesta de pães sem fermento colocada diante do Senhor, um pão, um bolo e uma bolacha.
+
+[[v2-29-24]]
+
+^<<v2-29-24,24>>^ Depositarás tudo isso nas palmas das mãos de Aarão e de seus filhos, e os oferecerás, agitando-os, como oblação diante do Senhor.^&#42;1^
+
+[[v2-29-25]]
+
+^<<v2-29-25,25>>^ Tu os retomarás, em seguida, de suas mãos e os queimarás no altar sobre o holocausto. Esse é um sacrifício de agradável odor apresentado ao Senhor, um sacrifício pelo fogo ao Senhor.
+
+[[v2-29-26]]
+
+^<<v2-29-26,26>>^ Tomarás o peito do carneiro de inauguração de Aarão e o oferecerás, agitando-o, como oblação diante do Senhor. Essa será a tua porção.
+
+[[v2-29-27]]
+
+^<<v2-29-27,27>>^ Consagrarás então o peito da oferta agitada e a perna da oferta reservada, todas as partes agitadas e reservadas do carneiro de inauguração que são destinadas a Aarão e seus filhos.
+
+[[v2-29-28]]
+
+^<<v2-29-28,28>>^ Esse será um direito perpétuo devido a Aarão e seus filhos pelos israelitas; essa é uma oferta reservada – aquela que os israelitas terão de tomar de seus sacrifícios pacíficos –, uma reserva que devem ao Senhor.
+
+[[v2-29-29]]
+
+^<<v2-29-29,29>>^ Os ornamentos sagrados de Aarão servirão para seus filhos depois dele, que os vestirão quando se lhes der a unção e forem empossados.
+
+[[v2-29-30]]
+
+^<<v2-29-30,30>>^ Aquele dentre os seus filhos que for sumo sacerdote em seu lugar, e que penetrar na tenda de reunião para o serviço do santuário, os levará durante sete dias.
+
+[[v2-29-31]]
+
+^<<v2-29-31,31>>^ Tomarás o carneiro de inauguração e farás cozer a sua carne em um lugar santo.
+
+[[v2-29-32]]
+
+^<<v2-29-32,32>>^ Aarão e seus filhos comerão a sua carne e o pão que está na cesta à entrada da tenda de reunião.
+
+[[v2-29-33]]
+
+^<<v2-29-33,33>>^ Comerão o que tiver sido utilizado para a expiação quando de sua tomada de posse e sua consagração. Estrangeiro algum comerá deles, porque são coisas santas.
+
+[[v2-29-34]]
+
+^<<v2-29-34,34>>^ Se sobrar ainda da carne da vítima de inauguração ou do pão até o dia seguinte, queimarás o resto: não será comido, porque é uma coisa santa.
+
+[[v2-29-35]]
+
+^<<v2-29-35,35>>^ Quanto a Aarão e seus filhos, farás como te ordenei: empregarás sete dias em sua tomada de posse.
+
+[[v2-29-36]]
+
+^<<v2-29-36,36>>^ Cada dia imolarás um novilho em sacrifício expiatório pelo pecado; por esse sacrifício expiatório tirarás o pecado do altar, e tu lhe farás uma unção para consagrá-lo.
+
+[[v2-29-37]]
+
+^<<v2-29-37,37>>^ A expiação do altar se fará durante sete dias; e consagrarás esse altar, que se tornará coisa santíssima, e tudo o que o tocar será consagrado.”
+
+[[v2-29-38]]
+
+^<<v2-29-38,38>>^ “Eis o que sacrificarás permanentemente sobre o altar: dois cordeiros de um ano em cada dia.
+
+[[v2-29-39]]
+
+^<<v2-29-39,39>>^ Oferecerás um desses cordeiros pela manhã e o outro entre as duas tardes.
+
+[[v2-29-40]]
+
+^<<v2-29-40,40>>^ Com o primeiro cordeiro oferecerás a décima parte de um efá de flor de farinha amassada com um quarto de hin de óleo de olivas esmagadas, e como libação um quarto de hin de vinho.
+
+[[v2-29-41]]
+
+^<<v2-29-41,41>>^ Entre as duas tardes oferecerás o segundo cordeiro, acompanhado de uma oferta e de uma libação semelhantes às da manhã. Esse é um sacrifício de agradável odor consumido pelo fogo em honra do Senhor.
+
+[[v2-29-42]]
+
+^<<v2-29-42,42>>^ Esse holocausto será perpétuo e será oferecido, em todas as gerações futuras, à entrada da tenda de reunião, diante do Senhor, onde virei a vós, para falar contigo.
+
+[[v2-29-43]]
+
+^<<v2-29-43,43>>^ É nesse lugar que darei entrevista aos filhos de Israel, e ele será consagrado pela minha glória.
+
+[[v2-29-44]]
+
+^<<v2-29-44,44>>^ Consagrarei a tenda de reunião e o altar; consagrarei igualmente Aarão e seus filhos, para que sejam sacerdotes a meu serviço.
+
+[[v2-29-45]]
+
+^<<v2-29-45,45>>^ Habitarei no meio dos israelitas e serei o seu Deus.
+
+[[v2-29-46]]
+
+^<<v2-29-46,46>>^ Saberão então que eu, o Senhor, sou o seu Deus que os tirou do Egito para habitar entre eles, eu, o Senhor, seu Deus.”
+
+'''
+
+xref:002-exodo/002-exodo-028.adoc#v2-28-0[&#60; Capítulo Anterior] | <<v2-29-0,Topo>> | xref:002-exodo/002-exodo-030.adoc#v2-30-0[Próximo Capítulo &#62;]

@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v14-18-0]]
+=== II Crônicas, 18
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Crônicas 18 conta a história do rei Josafá de Judá, que se une em uma aliança com o rei Acabe de Israel para lutar contra os sírios. Antes da batalha, Acabe consulta seus profetas que lhe dão uma resposta favorável, mas Josafá pede que um profeta de Deus seja consultado e Micaías é trazido para dar sua opinião. Micaías profetiza que a batalha será uma derrota para eles e é preso por isso. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Crônicas 18, em ordem de similaridade:
+* 1 Reis 22:14: "Mas Micaías disse: 'Juro pelo Senhor que o que o Senhor me disser, isso falarei'." Este versículo destaca a coragem de Micaías em falar a verdade, mesmo que isso resulte em punição. Ele se recusa a dizer o que as pessoas querem ouvir e fala apenas a verdade que Deus lhe revela.
+* Provérbios 12:19: "O lábio verdadeiro é firme para sempre, mas a língua mentirosa, apenas por um momento." Este versículo enfatiza a importância da honestidade e da fala verdadeira, em vez de mentiras que podem ser temporariamente agradáveis, mas que acabam por prejudicar.
+* Mateus 7:15-16: "Cuidado com os falsos profetas. Eles vêm a vocês vestidos de ovelhas, mas por dentro são lobos devoradores. Vocês os reconhecerão por seus frutos. É possível colher uvas de espinhos ou figos de ervas daninhas?" Este versículo adverte sobre a presença de falsos profetas, que podem falar com segurança e aparentar ser boas pessoas, mas que no fundo não possuem a verdade de Deus.
+* João 14:6: "Respondeu Jesus: 'Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, a não ser por mim'." Este versículo destaca a importância de seguir a verdade que é encontrada em Jesus Cristo, em vez de confiar nas mentiras e ilusões que o mundo pode oferecer.
+* Efésios 6:14: "Estejam firmes, vestindo toda a armadura de Deus, para que possam ficar firmes contra as ciladas do diabo." Este versículo incentiva os cristãos a se vestirem com a armadura de Deus, para que possam ficar firmes e fortes em face das mentiras e tentações do diabo.
+****
+
+[[v14-18-1]]
+
+^<<v14-18-1,1>>^ Josafá, que possuía riqueza e glória em abundância, aliou-se por casamento a Acab.
+
+[[v14-18-2]]
+
+^<<v14-18-2,2>>^ Ao cabo de alguns anos, desceu à Samaria, à casa de Acab. Para recebê-lo com a comitiva, este mandou matar numerosas ovelhas e bois. Em seguida, persuadiu-o a fazer guerra contra Ramot de Galaad.
+
+[[v14-18-3]]
+
+^<<v14-18-3,3>>^ Acab, rei de Israel, disse a Josafá, rei de Judá: “Queres ir comigo para atacar Ramot de Galaad?”. Josafá respondeu-lhe: “Farei o que fizeres, assim como meu exército. Iremos à guerra contigo”.
+
+[[v14-18-4]]
+
+^<<v14-18-4,4>>^ Contudo, Josafá disse mais ao rei de Israel: “Consulta primeiro, eu te peço, o oráculo do Senhor”.
+
+[[v14-18-5]]
+
+^<<v14-18-5,5>>^ O rei de Israel reuniu os profetas, que eram em número de quatrocentos e lhes perguntou: “Devemos atacar Ramot de Galaad, ou devemos abster-nos disso?”. Eles responderam: “Vai. O Senhor a entregará às mãos do rei”.
+
+[[v14-18-6]]
+
+^<<v14-18-6,6>>^ Mas Josafá replicou: “Por acaso não existe aqui algum outro profeta do Senhor a quem possamos consultar?”.
+
+[[v14-18-7]]
+
+^<<v14-18-7,7>>^ “Sim – respondeu o rei de Israel –, há ainda um, por meio do qual se poderia consultar o Senhor, mas eu o detesto, porque nunca anuncia algo de bom, mas sempre a desgraça. É Miqueias, filho de Jemla.” Josafá disse: “Não fale o rei assim”.
+
+[[v14-18-8]]
+
+^<<v14-18-8,8>>^ Então, o rei de Israel fez sinal a um eunuco e lhe deu esta ordem: “Faze vir o mais depressa possível Miqueias, filho de Jemla”.
+
+[[v14-18-9]]
+
+^<<v14-18-9,9>>^ O rei de Israel e Josafá, rei de Judá, tomaram lugar cada em seu trono, revestidos de suas insígnias reais, na praça que está à entrada da porta de Samaria e todos os profetas profetizavam em sua presença.
+
+[[v14-18-10]]
+
+^<<v14-18-10,10>>^ Sedecias, filho de Canaana, tinha feito para si chifres de ferro e disse: “Eis o que diz o Senhor: Com estes chifres ferirás os sírios até exterminá-los”.
+
+[[v14-18-11]]
+
+^<<v14-18-11,11>>^ E todos os profetas profetizavam da mesma maneira, nestes termos: “Sobe a Ramot de Galaad: e serás vencedor, porque o Senhor entregará a cidade às mãos do rei”.
+
+[[v14-18-12]]
+
+^<<v14-18-12,12>>^ Todavia, o mensageiro que tinha ido chamar Miqueias disse-lhe: “Os profetas são unânimes em predizer a vitória do rei. Seja teu oráculo conforme o deles. Predize o bom êxito”.
+
+[[v14-18-13]]
+
+^<<v14-18-13,13>>^ Miqueias respondeu: “Por Deus, só anunciarei o que o Senhor me disser”.
+
+[[v14-18-14]]
+
+^<<v14-18-14,14>>^ Quando ele chegou perto do rei, este lhe perguntou: “Miqueias, devemos ir atacar Ramot de Galaad, ou devemos abster-nos disso?”. “Vai – respondeu Miqueias –, serás vencedor; ela será entregue às mãos do rei.”
+
+[[v14-18-15]]
+
+^<<v14-18-15,15>>^ Disse-lhe o rei: “Quantas vezes terei que conjurar-te a que só digas a verdade em nome do Senhor?”.
+
+[[v14-18-16]]
+
+^<<v14-18-16,16>>^ Respondeu então Miqueias: “Vejo todo o Israel disperso pelas montanhas, qual um rebanho sem pastor. O Senhor disse: Estes não têm chefe. Voltem eles tranquilamente, cada qual para sua casa!”.
+
+[[v14-18-17]]
+
+^<<v14-18-17,17>>^ Disse o rei de Israel a Josafá: “Bem que eu te dizia que a meu respeito ele não havia de anunciar jamais alguma coisa boa; sempre a desgraça”.
+
+[[v14-18-18]]
+
+^<<v14-18-18,18>>^ Replicou Miqueias: “Escutai o oráculo do Senhor! Vi o Senhor assentado no seu trono e todo o exército do céu em volta dele, à sua direita e à sua esquerda.
+
+[[v14-18-19]]
+
+^<<v14-18-19,19>>^ Disse o Senhor: ‘Quem seduzirá Acab para que suba a Ramot de Galaad e lá pereça?’. Um respondia de um modo e outro de outro.
+
+[[v14-18-20]]
+
+^<<v14-18-20,20>>^ Então, um espírito avançou até a frente do Senhor e disse: ‘Eu irei seduzi-lo’. Perguntou o Senhor: ‘De que maneira?’.
+
+[[v14-18-21]]
+
+^<<v14-18-21,21>>^ ‘Vou – respondeu ele –, fazendo-me espírito de mentira na boca de seus profetas’. O Senhor disse: ‘Tu conseguirás enganá-lo. Vai, faze isso mesmo!’.
+
+[[v14-18-22]]
+
+^<<v14-18-22,22>>^ O Senhor infundiu, portanto, um espírito de mentira na boca de todos os profetas aqui presentes; mas foi a tua perda que decretou o Senhor”.
+
+[[v14-18-23]]
+
+^<<v14-18-23,23>>^ Nesse momento, Sedecias, filho de Canaana, aproximou-se de Miqueias e deu-lhe uma bofetada, dizendo: “Por onde saiu de mim o espírito do Senhor para falar-te?”.
+
+[[v14-18-24]]
+
+^<<v14-18-24,24>>^ “Tu o verás – respondeu Miqueias – no dia em que hás de ir de aposento em aposento, a fim de te esconderes.”
+
+[[v14-18-25]]
+
+^<<v14-18-25,25>>^ Então, o rei de Israel deu esta ordem: “Prendei Miqueias e conduzi-o a Amon, o governador da cidade, e a Joás, o filho do rei.
+
+[[v14-18-26]]
+
+^<<v14-18-26,26>>^ Dizei-lhes: ‘Ordem do rei: Lançai este homem na prisão. Dai-lhe uma alimentação de mísero até que eu retorne são e salvo’.”
+
+[[v14-18-27]]
+
+^<<v14-18-27,27>>^ Ao que Miqueias respondeu: “Se realmente voltares são e salvo, é sinal de que não falou o Senhor por mim”. E acrescentou: “Escutai bem, povos todos”.
+
+[[v14-18-28]]
+
+^<<v14-18-28,28>>^ O rei de Israel subiu, portanto, a Ramot de Galaad com o rei de Judá, Josafá.
+
+[[v14-18-29]]
+
+^<<v14-18-29,29>>^ Ele lhe disse: “Eu vou disfarçar-me para entrar no combate; tu, porém, veste tuas próprias roupas”. O rei de Israel disfarçou-se, por conseguinte, antes de entrar em combate.
+
+[[v14-18-30]]
+
+^<<v14-18-30,30>>^ Ora, o rei da Síria tinha dado a seus trinta e dois chefes de carros a seguinte ordem: “Não atacareis, nem pequeno nem grande, mas só o rei de Israel”.
+
+[[v14-18-31]]
+
+^<<v14-18-31,31>>^ Ao verem Josafá, os chefes dos carros disseram entre si: “É certamente o rei de Israel” e avançaram sobre ele. Mas Josafá soltou seu grito de guerra e o Senhor o socorreu; Deus afastou dele os sírios.
+
+[[v14-18-32]]
+
+^<<v14-18-32,32>>^ Então, os chefes dos carros, vendo que não era o rei de Israel, afastaram-se dele.
+
+[[v14-18-33]]
+
+^<<v14-18-33,33>>^ Nesse momento, um homem que tinha retesado o arco ao acaso, feriu o rei de Israel na parte fraca da couraça. O rei disse ao cocheiro de seu carro: “Volta a rédea e conduze-me para fora do campo, porque estou ferido”.
+
+[[v14-18-34]]
+
+^<<v14-18-34,34>>^ Mas, nesse dia, o combate foi tão violento que o rei teve que ficar em pé no carro diante dos sírios até a tarde. Ao pôr do sol ele morreu.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-017.adoc#v14-17-0[&#60; Capítulo Anterior] | <<v14-18-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-019.adoc#v14-19-0[Próximo Capítulo &#62;]

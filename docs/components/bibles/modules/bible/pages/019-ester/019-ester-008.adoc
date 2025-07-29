@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v19-8-0]]
+=== Ester, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 8 de Ester trata da solução encontrada por Ester e Mardoqueu para o problema da sentença de morte que havia sido decretada contra os judeus. Após Hamã ter sido enforcado, o rei emitiu um novo decreto que permitia que os judeus se defendessem de seus agressores. Abaixo seguem cinco versículos relacionados com os temas abordados nesse capítulo:
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Esse versículo mostra a importância da confiança em Deus, que pode ajudar seus fiéis a enfrentar qualquer situação.
+* Salmo 46:1: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia." Esse versículo também enfatiza a importância da confiança em Deus em tempos difíceis.
+* Provérbios 21:1: "Como ribeiros de águas assim é o coração do rei na mão do Senhor; este, segundo o seu querer, o inclina." Esse versículo indica que, embora os reis tenham poder, Deus é quem controla seus corações e suas decisões.
+* 1 Pedro 5:7: "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós." Esse versículo é um lembrete de que podemos entregar nossas preocupações a Deus, confiando que Ele cuidará de nós.
+* Filipenses 4:6: "Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus, pela oração e súplicas, com ação de graças." Esse versículo encoraja a oração como meio de expressar nossas necessidades e preocupações a Deus, tendo a certeza de que Ele ouve e responde à nossa oração.
+****
+
+[[v19-8-1]]
+
+^<<v19-8-1,1>>^ Naquele mesmo dia, o rei Assuero fez presente à rainha Ester a casa de Amã, o opressor dos judeus. Mardoqueu se apresentou diante do rei, porque Ester tinha manifestado o que ele era dela.
+
+[[v19-8-2]]
+
+^<<v19-8-2,2>>^ Tirando seu anel, que tinha retomado de Amã, o rei o presenteou a Mardoqueu, que foi colocado por Ester à frente da casa de Amã.
+
+[[v19-8-3]]
+
+^<<v19-8-3,3>>^ Ester retornou de novo à presença do rei e falou. Prostrada a seus pés, desfeita em lágrimas, suplicava-lhe que destruísse as maquinações que Amã, o agagita, tinha perversamente urdido contra os judeus.
+
+[[v19-8-4]]
+
+^<<v19-8-4,4>>^ O rei estendeu o cetro de ouro a Ester, a qual se pôs em pé diante dele.
+
+[[v19-8-5]]
+
+^<<v19-8-5,5>>^ “Se parecer bem ao rei – disse ela –, e se achei graça diante dele e se isso lhe parecer justo e se sou agradável a seus olhos, que revogue por escrito as cartas, que Amã, filho de Amadates, o agagita, tinha concebido e redigido para perder os judeus de todas as províncias do rei.
+
+[[v19-8-6]]
+
+^<<v19-8-6,6>>^ Como poderia eu ver a desgraça que aguarda meu povo e como poderia assistir ao extermínio de minha raça?”
+
+[[v19-8-7]]
+
+^<<v19-8-7,7>>^ O rei Assuero respondeu à rainha Ester e ao judeu Mardoqueu: “Fiz presente a Ester da casa de Amã e fiz perecer esse homem por ter levantado a mão contra os judeus.
+
+[[v19-8-8]]
+
+^<<v19-8-8,8>>^ Escrevei, portanto, vós mesmos em nome do rei em favor dos judeus, como bem vos parecer e selai com o selo real, porque toda ordem escrita em nome do rei e firmada com seu selo é irrevogável”.
+
+[[v19-8-9]]
+
+^<<v19-8-9,9>>^ Foram então chamados os escribas do rei, no vigésimo terceiro dia do terceiro mês, chamado Sivã; e conforme as instruções de Mardoqueu escreveram aos judeus, aos sátrapas, aos governadores e aos senhores das cento e vinte e sete províncias situadas entre a Índia e a Etiópia, a cada província em sua escritura, a cada nação em sua língua e aos judeus na sua própria escritura e língua.
+
+[[v19-8-10]]
+
+^<<v19-8-10,10>>^ Redigiram-se, pois, em nome do rei Assuero e marcaram-se com o selo real as cartas, que foram expedidas por correios a cavalo, tendo como montarias cavalos procedentes das cavalariças reais.
+
+[[v19-8-11]]
+
+^<<v19-8-11,11>>^ Essas comunicações diziam que o rei outorgava aos judeus em qualquer cidade em que residissem, o direito de se reunir para defender sua vida, de destruir, matar e fazer perecer em cada província do reino, todos os que se armassem para atacá-los, com suas mulheres e filhos; igualmente o direito de se apoderarem de seus despojos.
+
+[[v19-8-12]]
+
+^<<v19-8-12,12>>^ (Tudo isso se faria) num só dia em todas as províncias do rei Assuero, no dia treze do duodécimo mês, chamado Adar.
+
+[[v19-8-13]]
+
+^<<v19-8-13,13>>^ Uma cópia do edito, que devia ser promulgado como lei em cada província, foi enviada a todos os povos, a fim de que os judeus estivessem preparados, naquele dia, para se vingarem de seus inimigos.
+
+[[v19-8-14]]
+
+^<<v19-8-14,14>>^ Os correios, montando cavalos das cavalariças reais, partiram apressadamente e cumpriram diligentemente a ordem do rei. O edito foi publicado primeiramente em Susa, a capital.
+
+[[v19-8-15]]
+
+^<<v19-8-15,15>>^ Saiu então Mardoqueu da casa do rei, com uma veste real, azul e branca, com uma grande coroa de ouro e um manto de linho e púrpura. A cidade de Susa alegrou-se com os gritos de júbilo.
+
+[[v19-8-16]]
+
+^<<v19-8-16,16>>^ Não havia para os judeus senão felicidade, alegria e cantos de triunfo.
+
+[[v19-8-17]]
+
+^<<v19-8-17,17>>^ Em cada província e em cada cidade, aonde quer que chegasse o edito real, havia entre os judeus transportes de gozo, banquetes e regozijo. Muitos no país se fizeram judeus, tanto era o temor que lhes inspiravam.
+
+'''
+
+xref:019-ester/019-ester-007.adoc#v19-7-0[&#60; Capítulo Anterior] | <<v19-8-0,Topo>> | xref:019-ester/019-ester-009.adoc#v19-9-0[Próximo Capítulo &#62;]

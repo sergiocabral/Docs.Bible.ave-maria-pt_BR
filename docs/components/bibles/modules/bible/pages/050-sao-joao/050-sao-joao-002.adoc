@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v50-2-0]]
+=== São João, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O segundo capítulo do Evangelho de João relata o primeiro milagre público de Jesus, quando ele transformou água em vinho em um casamento em Caná. Este capítulo também inclui o episódio em que Jesus expulsa os comerciantes do templo em Jerusalém e fala sobre sua morte e ressurreição. Abaixo estão cinco versículos relacionados aos temas deste capítulo:
+* Lucas 2:19: "Maria, porém, guardava todas essas coisas e sobre elas refletia em seu coração." Este versículo fala sobre Maria guardando em seu coração as palavras e os eventos que cercaram o nascimento de Jesus. Da mesma forma, os eventos do capítulo 2 do Evangelho de João mostram a importância de refletir sobre os ensinamentos e milagres de Jesus.
+* Mateus 21:12: "E Jesus entrou no templo de Deus, expulsou todos os que ali vendiam e compravam, derrubou as mesas dos cambistas e as cadeiras dos que vendiam pombas." Este versículo descreve uma cena semelhante à que ocorre em João 2, em que Jesus expulsa os comerciantes do templo em Jerusalém. Isso mostra a importância que Jesus dava ao culto correto a Deus e à santidade do templo.
+* Marcos 10:34: "E zombarão dele, cuspirão nele, açoitá-lo-ão e o matarão; mas depois de três dias, ressuscitará." Neste versículo, Jesus fala sobre sua morte e ressurreição, um tema importante que é abordado em João 2 quando Jesus diz aos discípulos que, se o templo for destruído, ele o reconstruirá em três dias.
+* João 1:14: "E o Verbo se fez carne e habitou entre nós, e vimos a sua glória, a glória como do unigênito do Pai, cheio de graça e de verdade." Este versículo descreve a encarnação de Jesus, um tema importante no capítulo 2 de João, pois seu primeiro milagre público demonstra seu poder divino.
+* Hebreus 4:15: "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; antes, foi ele tentado em todas as coisas, à nossa semelhança, mas sem pecado." Este versículo fala sobre como Jesus experimentou as mesmas tentações e fraquezas que os seres humanos, mas permaneceu sem pecado. Isso é relevante para o episódio em que Jesus transforma água em vinho, mostrando que ele pode fornecer abundância sem se render aos excessos e tentações da vida.
+****
+
+[[v50-2-1]]
+
+^<<v50-2-1,1>>^ Três dias depois, celebravam-se bodas em Caná da Galileia, e achava-se ali a mãe de Jesus.
+
+[[v50-2-2]]
+
+^<<v50-2-2,2>>^ Também foram convidados Jesus e os seus discípulos.
+
+[[v50-2-3]]
+
+^<<v50-2-3,3>>^ Como viesse a faltar vinho, a mãe de Jesus disse-lhe: “Eles já não têm vinho”.
+
+[[v50-2-4]]
+
+^<<v50-2-4,4>>^ Respondeu-lhe Jesus: “Mulher, isso compete a nós? Minha hora ainda não chegou”.^&#42;1^
+
+[[v50-2-5]]
+
+^<<v50-2-5,5>>^ Disse, então, sua mãe aos serventes: “Fazei o que ele vos disser”.
+
+[[v50-2-6]]
+
+^<<v50-2-6,6>>^ Ora, achavam-se ali seis talhas de pedra para as purificações dos judeus, que continham cada qual duas ou três medidas.^&#42;1^
+
+[[v50-2-7]]
+
+^<<v50-2-7,7>>^ Jesus ordena-lhes: “Enchei as talhas de água”. Eles encheram-nas até em cima.
+
+[[v50-2-8]]
+
+^<<v50-2-8,8>>^ “Tirai agora” – disse-lhes Jesus – “e levai ao chefe dos serventes”. E levaram.
+
+[[v50-2-9]]
+
+^<<v50-2-9,9>>^ Logo que o chefe dos serventes provou da água tornada vinho, não sabendo de onde era (se bem que o soubessem os serventes, pois tinham tirado a água), chamou o noivo
+
+[[v50-2-10]]
+
+^<<v50-2-10,10>>^ e disse-lhe: “É costume servir primeiro o vinho bom e, depois, quando os convidados já estão quase embriagados, servir o menos bom. Mas tu guardaste o vinho melhor até agora”.
+
+[[v50-2-11]]
+
+^<<v50-2-11,11>>^ Esse foi o primeiro milagre de Jesus; realizou-o em Caná da Galileia. Manifestou a sua glória, e os seus discípulos creram nele.
+
+[[v50-2-12]]
+
+^<<v50-2-12,12>>^ Depois disso, desceu para Cafarnaum, com sua mãe, seus irmãos e seus discípulos; e ali só demoraram poucos dias.
+
+[[v50-2-13]]
+
+^<<v50-2-13,13>>^ Estava próxima a Páscoa dos judeus, e Jesus subiu a Jerusalém.
+
+[[v50-2-14]]
+
+^<<v50-2-14,14>>^ Encontrou no templo os negociantes de bois, ovelhas e pombas, e mesas dos trocadores de moedas.^&#42;1^
+
+[[v50-2-15]]
+
+^<<v50-2-15,15>>^ Fez ele um chicote de cordas, expulsou todos do templo, como também as ovelhas e os bois, espalhou pelo chão o dinheiro dos trocadores e derrubou as mesas.
+
+[[v50-2-16]]
+
+^<<v50-2-16,16>>^ Disse aos que vendiam as pombas: “Tirai isto daqui e não façais da casa de meu Pai uma casa de negociantes”.
+
+[[v50-2-17]]
+
+^<<v50-2-17,17>>^ Lembraram-se então os seus discípulos do que está escrito: O zelo da tua casa me consome (Sl 68,10).
+
+[[v50-2-18]]
+
+^<<v50-2-18,18>>^ Perguntaram-lhe os judeus: “Que sinal nos apresentas tu, para procederes deste modo?”.
+
+[[v50-2-19]]
+
+^<<v50-2-19,19>>^ Respondeu-lhes Jesus: “Destruí vós este templo, e eu o reerguerei em três dias”.
+
+[[v50-2-20]]
+
+^<<v50-2-20,20>>^ Os judeus replicaram: “Em quarenta e seis anos foi edificado este templo, e tu hás de levantá-lo em três dias?!”.
+
+[[v50-2-21]]
+
+^<<v50-2-21,21>>^ Mas ele falava do templo do seu corpo.
+
+[[v50-2-22]]
+
+^<<v50-2-22,22>>^ Depois que ressurgiu dos mortos, os seus discípulos lembraram-se destas palavras e creram na Escritura e na Palavra de Jesus.
+
+[[v50-2-23]]
+
+^<<v50-2-23,23>>^ Enquanto Jesus celebrava em Jerusalém a festa da Páscoa, muitos creram no seu nome, à vista dos milagres que fazia.
+
+[[v50-2-24]]
+
+^<<v50-2-24,24>>^ Mas Jesus mesmo não se fiava neles, porque os conhecia a todos.
+
+[[v50-2-25]]
+
+^<<v50-2-25,25>>^ Ele não necessitava que alguém lhe desse testemunho do homem, pois ele bem sabia o que havia no homem.
+
+'''
+
+xref:050-sao-joao/050-sao-joao-001.adoc#v50-1-0[&#60; Capítulo Anterior] | <<v50-2-0,Topo>> | xref:050-sao-joao/050-sao-joao-003.adoc#v50-3-0[Próximo Capítulo &#62;]

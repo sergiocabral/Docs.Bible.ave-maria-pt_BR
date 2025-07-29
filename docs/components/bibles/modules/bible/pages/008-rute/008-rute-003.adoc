@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v8-3-0]]
+=== Rute, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 3 do livro de Rute narra o plano de Noemi para garantir um futuro seguro para Rute, sua nora. Ela instrui Rute a se vestir com suas melhores roupas e perfumar-se, antes de ir até o campo onde Boaz, parente próximo de Noemi, está dormindo. Rute então deita-se a seus pés e cobre-o com seu manto, simbolizando seu pedido para que ele a cubra com sua proteção e amor. Os seguintes cinco versículos, em ordem de proximidade com os temas do capítulo, foram selecionados para ilustrar a temática do livro:
+* Salmos 17:8: "Protege-me como à menina dos teus olhos; esconde-me à sombra das tuas asas." Este versículo fala sobre a proteção divina e a necessidade de confiar em Deus para encontrar segurança e refúgio. É relevante para a situação de Rute, que busca proteção e segurança em Boaz.
+* Provérbios 31:10-11: "Mulher virtuosa, quem a achará? O seu valor muito excede o de rubis. O coração do seu marido confia nela, e não haverá falta de ganho." Este versículo descreve as qualidades de uma mulher virtuosa, incluindo sua confiança e valor para seu marido. É relevante para a relação entre Rute e Boaz, que começa a se desenvolver neste capítulo.
+* Cânticos 2:3: "Como uma macieira entre as árvores da floresta, assim é o meu amado entre os rapazes. Eu me assento à sua sombra com grande prazer, e o seu fruto é doce ao meu paladar." Este versículo descreve o amor e a proteção oferecidos por um amado, o que é relevante para o relacionamento em desenvolvimento entre Rute e Boaz.
+* Gênesis 24:12-14: "Ó Senhor, Deus do meu senhor Abraão, dá-me hoje a tua bondade e concede sucesso à minha missão. Aqui estou, junto à fonte de água, e as filhas dos homens desta cidade estão saindo para buscar água. Faze com que a moça a quem eu disser: ‘Por favor, incline o cântaro para eu beber’, e que responder: ‘Bebe, e também darei água aos teus camelos’, seja a escolhida por ti para o servo Isaac. Assim conhecerei que mostraste bondade a meu senhor." Este versículo fala sobre a oração de um servo em busca de uma esposa para seu mestre. É relevante para a situação em que Boaz se encontra, procurando uma esposa e uma herdeira para sua propriedade.
+* Provérbios 18:22: "Quem encontra uma esposa encontra algo excelente; recebeu uma bênção do Senhor." Este versículo destaca a importância da escolha de uma boa esposa, que é uma bênção de Deus. É relevante para a busca de Boaz por uma esposa e a decisão de Rute de se tornar sua pretendente.
+****
+
+[[v8-3-1]]
+
+^<<v8-3-1,1>>^ Noemi, sua sogra, disse-lhe: “Minha filha, é preciso que eu te assegure uma existência tranquila, para que sejas feliz.
+
+[[v8-3-2]]
+
+^<<v8-3-2,2>>^ Este Booz, nosso parente, cujas servas seguiste, deverá joeirar esta tarde a cevada de sua eira.
+
+[[v8-3-3]]
+
+^<<v8-3-3,3>>^ Lava-te, unge-te, põe tuas melhores vestes e desce à eira, mas não te deixes reconhecer por ele antes que ele tenha acabado de comer.
+
+[[v8-3-4]]
+
+^<<v8-3-4,4>>^ Quando for dormir, observa o lugar em que dorme. Entra, então, levanta a cobertura de seus pés e deita-te! Ele mesmo te dirá o que deves fazer”.
+
+[[v8-3-5]]
+
+^<<v8-3-5,5>>^ “Farei – disse ela – tudo o que me indicas.”
+
+[[v8-3-6]]
+
+^<<v8-3-6,6>>^ Ela desceu à eira e fez tudo o que sua sogra lhe tinha recomendado.
+
+[[v8-3-7]]
+
+^<<v8-3-7,7>>^ Booz comeu e bebeu e o seu coração tornou-se alegre. Depois disso, foi e deitou-se junto de um monte de feixes. Rute aproximou-se de mansinho, levantou o manto de seus pés e deitou-se também.
+
+[[v8-3-8]]
+
+^<<v8-3-8,8>>^ Pelo meio da noite, o homem despertou, de repente, voltou-se e viu uma mulher deitada a seus pés.
+
+[[v8-3-9]]
+
+^<<v8-3-9,9>>^ “Quem és tu?” – perguntou-lhe ele –. “Eu sou Rute, tua serva” – respondeu ela –. “Estende o teu manto sobre a tua serva, porque tens o direito de resgate.”
+
+[[v8-3-10]]
+
+^<<v8-3-10,10>>^ Ele disse: “Deus te abençoe, minha filha. Esta tua última bondade vale mais que a primeira, porque não buscaste jovens, pobres ou ricos.
+
+[[v8-3-11]]
+
+^<<v8-3-11,11>>^ Agora, minha filha, não temas. Tudo o que disseres eu te farei, porque todos em Belém sabem que és uma mulher virtuosa.
+
+[[v8-3-12]]
+
+^<<v8-3-12,12>>^ Tenho, realmente, o direito de resgate, mas há outro mais próximo parente do que eu.
+
+[[v8-3-13]]
+
+^<<v8-3-13,13>>^ Passa aqui esta noite. Amanhã, se ele quiser usar de seu direito de resgate sobre ti, está bem, que o faça. Do contrário, eu o farei; juro pelo Senhor! Dorme, pois até pela manhã”.
+
+[[v8-3-14]]
+
+^<<v8-3-14,14>>^ Ela ficou deitada aos seus pés até de madrugada. Levantou-se quando ainda não se podiam distinguir as pessoas. Booz tinha dito: “Não é bom que se saiba ter esta mulher entrado na eira”.
+
+[[v8-3-15]]
+
+^<<v8-3-15,15>>^ E acrescentou: “Estende o manto que tens sobre ti e segura-o”. Ela estendeu-o e Booz encheu-o com seis medidas de cevada, que lhe pôs às costas. Em seguida, ela voltou à cidade.
+
+[[v8-3-16]]
+
+^<<v8-3-16,16>>^ Rute voltou para junto de sua sogra, que lhe disse: “Como vais, minha filha?”. Rute contou-lhe então tudo o que aquele homem fizera por ela. E acrescentou:
+
+[[v8-3-17]]
+
+^<<v8-3-17,17>>^ “Ele deu-me estas seis medidas de cevada, dizendo-me: ‘Não voltarás com as mãos vazias para a tua sogra’.”
+
+[[v8-3-18]]
+
+^<<v8-3-18,18>>^ “Espera, minha filha – retomou Noemi –, até sabermos como vai terminar tudo isso. Esse homem não descansará enquanto não tiver resolvido esse assunto e o fará hoje mesmo.”
+
+'''
+
+xref:008-rute/008-rute-002.adoc#v8-2-0[&#60; Capítulo Anterior] | <<v8-3-0,Topo>> | xref:008-rute/008-rute-004.adoc#v8-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,231 @@
+include::./index.adoc[]
+
+[[v49-24-0]]
+=== São Lucas, 24
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Lucas 24 relata o evento da ressurreição de Jesus e suas aparições aos discípulos. É um capítulo repleto de mistério, emoção e revelação. Abaixo estão cinco versículos de outras partes da Bíblia que se relacionam com os temas abordados em São Lucas 24:
+* João 11:25-26: "Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá; e todo o que vive e crê em mim não morrerá, eternamente." Essas palavras de Jesus a Marta, irmã de Lázaro, mostram que Jesus tem poder sobre a morte e que aqueles que creem nele terão a vida eterna.
+* Mateus 28:6: "Ele não está aqui, pois ressuscitou, como havia dito. Vinde, vede o lugar onde ele jazia." Essas palavras do anjo no túmulo vazio indicam que a ressurreição de Jesus realmente aconteceu e que ele não está mais morto.
+* Atos 1:9: "E quando dizia isto, foi elevado à vista deles, e uma nuvem o recebeu, ocultando-o a seus olhos." Essas palavras descrevem a ascensão de Jesus ao céu, mostrando que ele não está mais presente na terra fisicamente.
+* João 20:29: "Disse-lhe Jesus: Porque me viste, Tomé, creste; bem-aventurados os que não viram e creram." Essas palavras de Jesus a Tomé, que precisou ver Jesus ressuscitado para crer, indicam que a fé é essencial para crer na ressurreição de Jesus.
+* 1 Coríntios 15:17: "E, se Cristo não ressuscitou, é vã a vossa fé, e ainda estais nos vossos pecados." Essas palavras de Paulo mostram a importância da ressurreição de Jesus como base para a fé cristã e para a salvação dos pecados.
+****
+
+[[v49-24-1]]
+
+^<<v49-24-1,1>>^ No primeiro dia da semana, muito cedo, dirigiram-se ao sepulcro com os aromas que haviam preparado.
+
+[[v49-24-2]]
+
+^<<v49-24-2,2>>^ Acharam a pedra removida longe da abertura do sepulcro.
+
+[[v49-24-3]]
+
+^<<v49-24-3,3>>^ Entraram, mas não encontraram o corpo do Senhor Jesus.
+
+[[v49-24-4]]
+
+^<<v49-24-4,4>>^ Não sabiam elas o que pensar, quando apareceram em frente delas dois personagens com vestes resplandecentes.
+
+[[v49-24-5]]
+
+^<<v49-24-5,5>>^ Como estivessem amedrontadas e voltassem o rosto para o chão, disseram-lhes eles: “Por que buscais entre os mortos aquele que está vivo?
+
+[[v49-24-6]]
+
+^<<v49-24-6,6>>^ Não está aqui, mas ressuscitou. Lembrai-vos de como ele vos disse, quando ainda estava na Galileia:
+
+[[v49-24-7]]
+
+^<<v49-24-7,7>>^ O Filho do Homem deve ser entregue nas mãos dos pecadores e crucificado, mas ressuscitará ao terceiro dia”.
+
+[[v49-24-8]]
+
+^<<v49-24-8,8>>^ Então, elas se lembraram das palavras de Jesus.
+
+[[v49-24-9]]
+
+^<<v49-24-9,9>>^ Voltando do sepulcro, contaram tudo isso aos Onze e a todos os demais.
+
+[[v49-24-10]]
+
+^<<v49-24-10,10>>^ Eram elas Maria Madalena, Joana e Maria, mãe de Tiago; as outras suas amigas relataram aos apóstolos a mesma coisa.
+
+[[v49-24-11]]
+
+^<<v49-24-11,11>>^ Mas essas notícias pareciam-lhes como um delírio, e não lhes deram crédito.
+
+[[v49-24-12]]
+
+^<<v49-24-12,12>>^ Contudo, Pedro correu ao sepulcro; inclinando-se para olhar, viu só os panos de linho na terra. Depois, retirou-se para a sua casa, admirado do que acontecera. (= Mc 16,12-13)
+
+[[v49-24-13]]
+
+^<<v49-24-13,13>>^ Nesse mesmo dia, dois discípulos caminhavam para uma aldeia chamada Emaús, distante de Jerusalém sessenta estádios.^&#42;1^
+
+[[v49-24-14]]
+
+^<<v49-24-14,14>>^ Iam falando um com o outro de tudo o que se tinha passado.
+
+[[v49-24-15]]
+
+^<<v49-24-15,15>>^ Enquanto iam conversando e discorrendo entre si, o mesmo Jesus aproximou-se deles e caminhava com eles.
+
+[[v49-24-16]]
+
+^<<v49-24-16,16>>^ Mas os olhos estavam-lhes como que vendados e não o reconheceram.
+
+[[v49-24-17]]
+
+^<<v49-24-17,17>>^ Perguntou-lhes, então: “De que estais falando pelo caminho, e por que estais tristes?”
+
+[[v49-24-18]]
+
+^<<v49-24-18,18>>^ Um deles, chamado Cléofas, respondeu-lhe: “És tu acaso o único forasteiro em Jerusalém que não sabe o que nela aconteceu estes dias?”.
+
+[[v49-24-19]]
+
+^<<v49-24-19,19>>^ Perguntou-lhes ele: “Que foi?”. Disseram: “A respeito de Jesus de Nazaré... Era um profeta poderoso em obras e palavras, diante de Deus e de todo o povo.
+
+[[v49-24-20]]
+
+^<<v49-24-20,20>>^ Os nossos sumos sacerdotes e os nossos magistrados o entregaram para ser condenado à morte e o crucificaram.
+
+[[v49-24-21]]
+
+^<<v49-24-21,21>>^ Nós esperávamos que fosse ele quem haveria de restaurar Israel e agora, além de tudo isso, é hoje o terceiro dia que essas coisas sucederam.
+
+[[v49-24-22]]
+
+^<<v49-24-22,22>>^ É verdade que algumas mulheres dentre nós nos alarmaram. Elas foram ao sepulcro, antes do nascer do sol;
+
+[[v49-24-23]]
+
+^<<v49-24-23,23>>^ e, não tendo achado o seu corpo, voltaram, dizendo que tiveram uma visão de anjos, os quais asseguravam que está vivo.
+
+[[v49-24-24]]
+
+^<<v49-24-24,24>>^ Alguns dos nossos foram ao sepulcro e acharam-no assim como as mulheres tinham dito, mas a ele mesmo não viram”.
+
+[[v49-24-25]]
+
+^<<v49-24-25,25>>^ Jesus lhes disse: “Ó gente sem inteligência! Como sois tardos de coração para crerdes em tudo o que anunciaram os profetas!
+
+[[v49-24-26]]
+
+^<<v49-24-26,26>>^ Porventura não era necessário que Cristo sofresse essas coisas e assim entrasse na sua glória?”.
+
+[[v49-24-27]]
+
+^<<v49-24-27,27>>^ E começando por Moisés, percorrendo todos os profetas, explicava-lhes o que dele se achava dito em todas as Escrituras.
+
+[[v49-24-28]]
+
+^<<v49-24-28,28>>^ Aproximaram-se da aldeia para onde iam e ele fez como se quisesse passar adiante.
+
+[[v49-24-29]]
+
+^<<v49-24-29,29>>^ Mas eles forçaram-no a parar: “Fica conosco, já é tarde e já declina o dia”. Entrou então com eles.
+
+[[v49-24-30]]
+
+^<<v49-24-30,30>>^ Aconteceu que, estando sentado conjuntamente à mesa, ele tomou o pão, abençoou-o, partiu-o e serviu-lho.^&#42;1^
+
+[[v49-24-31]]
+
+^<<v49-24-31,31>>^ Então, se lhes abriram os olhos e o reconheceram... mas ele desapareceu.
+
+[[v49-24-32]]
+
+^<<v49-24-32,32>>^ Diziam então um para o outro: “Não se nos abrasava o coração, quando ele nos falava pelo caminho e nos explicava as Escrituras?”.
+
+[[v49-24-33]]
+
+^<<v49-24-33,33>>^ Levantaram-se na mesma hora e voltaram a Jerusalém. Aí acharam reunidos os Onze e os que com eles estavam.
+
+[[v49-24-34]]
+
+^<<v49-24-34,34>>^ Todos diziam: “O Senhor ressuscitou verdadeiramente e apareceu a Simão”.
+
+[[v49-24-35]]
+
+^<<v49-24-35,35>>^ Eles, por sua parte, contaram o que lhes havia acontecido no caminho e como o tinham reconhecido ao partir o pão. (= Jo 20,19-23)
+
+[[v49-24-36]]
+
+^<<v49-24-36,36>>^ Enquanto ainda falavam dessas coisas, Jesus apresentou-se no meio deles e disse-lhes: “A paz esteja convosco!”.
+
+[[v49-24-37]]
+
+^<<v49-24-37,37>>^ Perturbados e espantados, pensaram estar vendo um espírito.
+
+[[v49-24-38]]
+
+^<<v49-24-38,38>>^ Mas ele lhes disse: “Por que estais perturbados, e por que essas dúvidas nos vossos corações?
+
+[[v49-24-39]]
+
+^<<v49-24-39,39>>^ Vede minhas mãos e meus pés, sou eu mesmo; apalpai e vede: um espírito não tem carne nem ossos, como vedes que tenho”.
+
+[[v49-24-40]]
+
+^<<v49-24-40,40>>^ E, dizendo isso, mostrou-lhes as mãos e os pés.
+
+[[v49-24-41]]
+
+^<<v49-24-41,41>>^ Mas, vacilando eles ainda e estando transportados de alegria, perguntou: “Tendes aqui alguma coisa para comer?”.
+
+[[v49-24-42]]
+
+^<<v49-24-42,42>>^ Então, ofereceram-lhe um pedaço de peixe assado.
+
+[[v49-24-43]]
+
+^<<v49-24-43,43>>^ Ele tomou e comeu à vista deles.
+
+[[v49-24-44]]
+
+^<<v49-24-44,44>>^ Depois lhes disse: “Isto é o que vos dizia quando ainda estava convosco: era necessário que se cumprisse tudo o que de mim está escrito na Lei de Moisés, nos profetas e nos Salmos.”^&#42;1^
+
+[[v49-24-45]]
+
+^<<v49-24-45,45>>^ Abriu-lhes então o espírito, para que compreendessem as Escrituras, dizendo:
+
+[[v49-24-46]]
+
+^<<v49-24-46,46>>^ “Assim é que está escrito, e assim era necessário que Cristo padecesse, mas que ressurgisse dos mortos ao terceiro dia.
+
+[[v49-24-47]]
+
+^<<v49-24-47,47>>^ E que em seu nome se pregasse a penitência e a remissão dos pecados a todas as nações, começando por Jerusalém.
+
+[[v49-24-48]]
+
+^<<v49-24-48,48>>^ Vós sois as testemunhas de tudo isso.
+
+[[v49-24-49]]
+
+^<<v49-24-49,49>>^ Eu vos mandarei o Prometido de meu Pai; entretanto, permanecei na cidade, até que sejais revestidos da força do alto”.^&#42;1^
+
+[[v49-24-50]]
+
+^<<v49-24-50,50>>^ Depois os levou para Betânia e, levantando as mãos, os abençoou.
+
+[[v49-24-51]]
+
+^<<v49-24-51,51>>^ Enquanto os abençoava, separou-se deles e foi arrebatado ao céu.
+
+[[v49-24-52]]
+
+^<<v49-24-52,52>>^ Depois de o terem adorado, voltaram para Jerusalém com grande júbilo.
+
+[[v49-24-53]]
+
+^<<v49-24-53,53>>^ E permaneciam no templo, louvando e bendizendo a Deus.
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-023.adoc#v49-23-0[&#60; Capítulo Anterior] | <<v49-24-0,Topo>> | xref:050-sao-joao/050-sao-joao-001.adoc#v50-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v4-6-0]]
+=== Números, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 6 detalha as leis e os requisitos para aqueles que fazem um voto nazireu, que inclui abstinência de álcool, evitar contato com os mortos e deixar o cabelo crescer sem cortar durante todo o período do voto. Aqui estão cinco versículos relacionados com os temas abordados em Números 6:
+* Juízes 13:5: "Pois eis que tu conceberás e terás um filho; e navalha não passará sobre a sua cabeça, porquanto o menino será nazireu a Deus desde o ventre; e ele começará a livrar a Israel da mão dos filisteus." Este versículo se relaciona com Números 6, já que a vida de Sansão foi dedicada a Deus como um nazireu desde antes do seu nascimento.
+* 1 Samuel 1:11: "E fez um voto, dizendo: Senhor dos Exércitos, se benignamente atentares para a aflição da tua serva, e de mim te lembrares, e da tua serva não te esqueceres, mas à tua serva deres um filho homem, ao Senhor o darei todos os dias da sua vida, e sobre a sua cabeça não passará navalha." Este versículo é semelhante à prática de fazer um voto nazireu, em que alguém dedica uma parte da sua vida a Deus em troca de uma bênção.
+* Amós 2:11: "E dentre os seus filhos suscitei profetas, e dentre os seus jovens nazireus. Não é assim, ó filhos de Israel? diz o Senhor." Este versículo destaca a importância dos nazireus na história de Israel e como Deus usou essas pessoas como profetas e líderes.
+* Mateus 3:4: "E este João tinha as suas vestes de pelos de camelo, e um cinto de couro em torno de seus lombos; e alimentava-se de gafanhotos e de mel silvestre." João Batista pode ser considerado um nazireu, já que ele viveu uma vida de abstinência e simplicidade, semelhante às práticas de um nazireu.
+* Atos 18:18: "E Paulo, tendo permanecido ali ainda muitos dias, despediu-se dos irmãos, e dali navegou para a Síria, levando consigo Priscila e Áquila, havendo rapado a sua cabeça em Cencreia, porque tinha um voto." Paulo faz um voto nazireu em Atos 18:18, semelhante aos nazireus mencionados em Números 6.
+****
+
+[[v4-6-1]]
+
+^<<v4-6-1,1>>^ O Senhor disse a Moisés: “Dirás aos israelitas o seguinte:
+
+[[v4-6-2]]
+
+^<<v4-6-2,2>>^ Quando um homem ou uma mulher fizer o voto de nazireu, separando-se para se consagrar ao Senhor,^&#42;1^
+
+[[v4-6-3]]
+
+^<<v4-6-3,3>>^ se absterá de vinho e de bebida inebriante: não beberá vinagre de vinho, nem vinagre de uma outra bebida inebriante; não beberá suco de uva, não comerá nem uvas frescas, nem uvas secas.
+
+[[v4-6-4]]
+
+^<<v4-6-4,4>>^ Durante todo o tempo de seu nazireato não comerá produto algum da vinha, desde as sementes até as cascas de uva.
+
+[[v4-6-5]]
+
+^<<v4-6-5,5>>^ Durante todo o tempo de seu voto de nazireato, a navalha não passará pela sua cabeça, até que se completem os dias, em que vive separado em honra do Senhor. Será santo, e deixará crescer livremente os cabelos de sua cabeça.
+
+[[v4-6-6]]
+
+^<<v4-6-6,6>>^ Durante todo o tempo em que ele viver separado para o Senhor, não tocará em nenhum cadáver:
+
+[[v4-6-7]]
+
+^<<v4-6-7,7>>^ nem mesmo por seu pai, sua mãe, seu irmão ou sua irmã, que tiverem morrido, se contaminará, porque leva sobre sua cabeça o sinal de sua consagração ao seu Deus.
+
+[[v4-6-8]]
+
+^<<v4-6-8,8>>^ Durante todo o tempo de seu nazireato ele é consagrado ao Senhor.
+
+[[v4-6-9]]
+
+^<<v4-6-9,9>>^ Se alguém morrer de repente perto dele, e manchar assim a cabeça consagrada, ele rapará a sua cabeça no dia de sua purificação e o fará no sétimo dia.
+
+[[v4-6-10]]
+
+^<<v4-6-10,10>>^ No oitavo dia trará ao sacerdote, à entrada da tenda de reunião, duas rolas ou dois pombinhos.
+
+[[v4-6-11]]
+
+^<<v4-6-11,11>>^ O sacerdote oferecerá um em sacrifício pelo pecado e outro em holocausto, e fará por ele a expiação do pecado que cometeu, manchando-se com a presença do morto. E consagrará naquele dia a sua cabeça.
+
+[[v4-6-12]]
+
+^<<v4-6-12,12>>^ Recomeçará os dias de seu nazireato para o Senhor e oferecerá um cordeiro de um ano em sacrifício de reparação: não se contam os dias precedentes em que seu nazireato foi manchado.
+
+[[v4-6-13]]
+
+^<<v4-6-13,13>>^ Eis a lei do nazireu: findo o seu nazireato, será conduzido à entrada da tenda de reunião,
+
+[[v4-6-14]]
+
+^<<v4-6-14,14>>^ onde apresentará a sua oferta ao Senhor: um cordeiro de um ano, sem defeito, em holocausto; uma ovelha de um ano, sem defeito, para o sacrifício pelo pecado; um carneiro sem defeito para o sacrifício pacífico,
+
+[[v4-6-15]]
+
+^<<v4-6-15,15>>^ bem como uma cesta de pães sem fermento, bolos de farinha amassados com azeite, bolachas sem fermento untadas com óleo, com a oblação e as libações habituais.
+
+[[v4-6-16]]
+
+^<<v4-6-16,16>>^ O sacerdote os apresentará ao Senhor e oferecerá seu sacrifício pelo pecado e o seu holocausto.
+
+[[v4-6-17]]
+
+^<<v4-6-17,17>>^ Oferecerá o carneiro ao Senhor em sacrifício pacífico, bem como a cesta de pães sem fermento, e fará sua oblação com sua libação.
+
+[[v4-6-18]]
+
+^<<v4-6-18,18>>^ Então será rapada ao nazireu sua cabeça consagrada à entrada da tenda de reunião; o sacerdote tomará os seus cabelos consagrados e os porá no fogo que está por baixo do sacrifício pacífico.
+
+[[v4-6-19]]
+
+^<<v4-6-19,19>>^ Colocará nas mãos do nazireu, depois de lhe ter sido rapada a cabeça consagrada, a espádua cozida do carneiro, um bolo sem fermento tirado da cesta e uma bolacha sem fermento.
+
+[[v4-6-20]]
+
+^<<v4-6-20,20>>^ O sacerdote os agitará diante do Senhor: é uma coisa santa que pertence ao sacerdote, como também o peito agitado e a coxa oferecida. Somente depois disso o nazireu poderá beber vinho.
+
+[[v4-6-21]]
+
+^<<v4-6-21,21>>^ Essa é a lei para aquele que fez voto de nazireato, e a oferta que ele deve fazer ao Senhor, além do que ele puder oferecer espontaneamente. Procederá conforme o voto que tiver feito, de acordo com a lei de seu nazireato”.
+
+[[v4-6-22]]
+
+^<<v4-6-22,22>>^ O Senhor disse a Moisés:
+
+[[v4-6-23]]
+
+^<<v4-6-23,23>>^ “Dize a Aarão e seus filhos o seguinte: Eis como abençoareis os filhos de Israel:
+
+[[v4-6-24]]
+
+^<<v4-6-24,24>>^ O Senhor te abençoe e te guarde!
+
+[[v4-6-25]]
+
+^<<v4-6-25,25>>^ O Senhor te mostre a sua face e conceda-te sua graça!
+
+[[v4-6-26]]
+
+^<<v4-6-26,26>>^ O Senhor volva o seu rosto para ti e te dê a paz!
+
+[[v4-6-27]]
+
+^<<v4-6-27,27>>^ E assim invocarão o meu nome sobre os filhos de Israel e eu os abençoarei”.
+
+'''
+
+xref:004-numeros/004-numeros-005.adoc#v4-5-0[&#60; Capítulo Anterior] | <<v4-6-0,Topo>> | xref:004-numeros/004-numeros-007.adoc#v4-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v65-3-0]]
+=== Hebreus, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Hebreus 3 trata do contraste entre a fidelidade de Deus e a infidelidade do povo de Israel durante a jornada no deserto. O autor exorta os leitores a manterem suas confianças em Deus e a perseverarem na fé. Além disso, o capítulo destaca a superioridade de Jesus sobre Moisés e a importância de ouvir a voz de Deus.
+* Salmo 95:7-8: "Porque ele é o nosso Deus, e nós povo do seu pasto e ovelhas da sua mão. Hoje, se ouvirdes a sua voz, não endureçais os vossos corações." Este versículo é citado em Hebreus 3:7-8 para enfatizar a importância de ouvir a voz de Deus e não endurecer o coração, como o povo de Israel fez durante a jornada no deserto.
+* Números 14:22: "Certamente todos estes homens que viram a minha glória e os meus sinais que fiz no Egito e no deserto, e todavia me tentaram estas dez vezes, e não deram ouvidos à minha voz." Este versículo é citado em Hebreus 3:16-19 como um exemplo da infidelidade do povo de Israel no deserto e como um aviso aos leitores para não seguir o mesmo caminho.
+* Deuteronômio 1:35-36: "Nenhum deles, desta geração perversa, verá a boa terra que jurei dar a vossos pais, exceto Calebe, filho de Jefoné; ele a verá, e a terra que pisou darei a ele e a seus filhos, porquanto perseverou em seguir ao Senhor." Este versículo é citado em Hebreus 3:12 como um exemplo de perseverança na fé, a fim de encorajar os leitores a não desistirem em suas jornadas.
+* Salmo 106:24-25: "Eles desprezaram a terra aprazível, não creram na sua palavra, mas murmuraram em suas tendas, e não ouviram a voz do Senhor." Este versículo é citado em Hebreus 3:18-19 para enfatizar a consequência da descrença e da falta de obediência à voz de Deus.
+* Jeremias 31:31-34: "Mas este é o pacto que farei com a casa de Israel depois daqueles dias, diz o Senhor: Porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo. E não ensinarão mais cada um ao seu próximo, nem cada um ao seu irmão, dizendo: Conhecei ao Senhor; porque todos me conhecerão, desde o menor até ao maior deles, diz o Senhor; porque lhes perdoarei a sua iniqüidade, e nunca mais me lembrarei dos seus pecados." Este versículo é citado em Hebreus 3:7-8 para destacar a superioridade do novo pacto feito em Jesus, que permite aos crentes terem um relacionamento direto com Deus e terem suas transgressões perdoadas.
+****
+
+[[v65-3-1]]
+
+^<<v65-3-1,1>>^ Portanto, irmãos santos, participantes da vocação que vos destina à herança do céu, considerai o mensageiro e pontífice da fé que professamos, Jesus.
+
+[[v65-3-2]]
+
+^<<v65-3-2,2>>^ Ele é fiel àquele que o constituiu, como também Moisés o foi em toda a sua casa (Nm 12,7).
+
+[[v65-3-3]]
+
+^<<v65-3-3,3>>^ Porém, é tido muito superior em glória a Moisés, tanto quanto o fundador de uma casa é mais digno do que a própria casa.
+
+[[v65-3-4]]
+
+^<<v65-3-4,4>>^ Pois toda casa tem seu construtor, mas o construtor de todas as coisas é Deus.
+
+[[v65-3-5]]
+
+^<<v65-3-5,5>>^ Moisés foi fiel em toda a sua casa, como servo e testemunha das palavras de Deus.^&#42;1^
+
+[[v65-3-6]]
+
+^<<v65-3-6,6>>^ Cristo, porém, o foi como Filho à frente de sua própria casa. E sua casa somos nós, contanto que permaneçamos firmes, até o fim, professando intrepidamente a nossa fé e ufanos da esperança que nos pertence.
+
+[[v65-3-7]]
+
+^<<v65-3-7,7>>^ Por isso, como diz o Espírito Santo: Hoje, se ouvirdes a sua voz,
+
+[[v65-3-8]]
+
+^<<v65-3-8,8>>^ não endureçais os vossos corações, como por ocasião da revolta, como no dia da tentação no deserto,
+
+[[v65-3-9]]
+
+^<<v65-3-9,9>>^ quando vossos pais me puseram à prova e viram o meu poder por quarenta anos.^&#42;1^
+
+[[v65-3-10]]
+
+^<<v65-3-10,10>>^ Eu me indignei contra aquela geração, porque andavam sempre extraviados em seu coração e não compreendiam absolutamente nada dos meus desígnios.
+
+[[v65-3-11]]
+
+^<<v65-3-11,11>>^ Por isso, em minha ira, jurei que não haveriam de entrar no lugar de descanso que lhes prometera (Sl 94,8-11)!
+
+[[v65-3-12]]
+
+^<<v65-3-12,12>>^ Tomai precaução, meus irmãos, para que ninguém de vós venha a perder interiormente a fé, a ponto de abandonar o Deus vivo.
+
+[[v65-3-13]]
+
+^<<v65-3-13,13>>^ Antes, animai-vos mutuamente cada dia durante todo o tempo compreendido na palavra hoje, para não acontecer que alguém se torne empedernido com a sedução do pecado.
+
+[[v65-3-14]]
+
+^<<v65-3-14,14>>^ Porque somos incorporados a Cristo, mas sob a condição de conservarmos firme até o fim nossa fé dos primeiros dias,
+
+[[v65-3-15]]
+
+^<<v65-3-15,15>>^ enquanto se nos diz: Hoje, se ouvirdes a sua voz, não endureçais os vossos corações, como aconteceu no tempo da Revolta.
+
+[[v65-3-16]]
+
+^<<v65-3-16,16>>^ E quais foram os que se revoltaram contra o Senhor depois de terem ouvido a sua voz? Não foram todos os que saíram do Egito, conduzidos por Moisés?
+
+[[v65-3-17]]
+
+^<<v65-3-17,17>>^ Contra quem esteve indignado o Senhor durante quarenta anos? Não foi contra os revoltosos, cujos corpos caíram no deserto?
+
+[[v65-3-18]]
+
+^<<v65-3-18,18>>^ E a quem jurou que não entrariam no seu descanso senão a estes rebeldes?
+
+[[v65-3-19]]
+
+^<<v65-3-19,19>>^ Portanto, estamos vendo: foi por causa da sua descrença que não puderam entrar.
+
+'''
+
+xref:065-hebreus/065-hebreus-002.adoc#v65-2-0[&#60; Capítulo Anterior] | <<v65-3-0,Topo>> | xref:065-hebreus/065-hebreus-004.adoc#v65-4-0[Próximo Capítulo &#62;]

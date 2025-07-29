@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v1-38-0]]
+=== Gênesis, 38
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 38 é um capítulo que narra a história de Judá, filho de Jacó, e sua relação com Tamar, a esposa de seu filho. O capítulo aborda temas como traição, prostituição e justiça. Abaixo estão cinco versículos relacionados a esses temas:
+* Deuteronômio 22:22 - "Se for apanhado em flagrante o homem que estiver com uma mulher casada com outro homem, ambos deverão morrer, o homem que se deitou com a mulher e a mulher também. Assim vocês eliminarão o mal de Israel." O adultério é um tema recorrente em Gênesis 38 e é considerado um pecado grave na lei de Moisés.
+* Provérbios 6:32 - "O que comete adultério não tem juízo; quem assim procede a si mesmo se destrói." Esse versículo destaca as consequências graves da prática do adultério, que incluem não apenas punições legais, mas também a destruição pessoal.
+* Tiago 4:4 - "Adúlteros, vocês não sabem que a amizade com o mundo é inimizade com Deus? Quem quer ser amigo do mundo faz-se inimigo de Deus." Tiago reforça a gravidade do pecado do adultério e enfatiza que aqueles que se envolvem em práticas imorais estão se afastando de Deus.
+* Ezequiel 18:20 - "O filho não pagará pelos pecados do pai, e o pai não pagará pelos pecados do filho. A justiça do justo lhe será creditada, e a impiedade do ímpio lhe será cobrada." Esse versículo destaca a importância da justiça e da responsabilidade individual pelos pecados cometidos, que é um tema importante em Gênesis 38.
+* 1 Coríntios 6:18 - "Fujam da imoralidade sexual. Todos os outros pecados que alguém cometer são fora do corpo; mas quem peca sexualmente, peca contra o seu próprio corpo." Paulo adverte contra a imoralidade sexual e enfatiza que, além das consequências legais e espirituais, essa prática pode ter efeitos negativos na saúde física e mental da pessoa.
+****
+
+[[v1-38-1]]
+
+^<<v1-38-1,1>>^ Naquele tempo, Judá, apartando-se dos seus irmãos, foi para a casa de um homem de Odolam, chamado Hira.^&#42;1^
+
+[[v1-38-2]]
+
+^<<v1-38-2,2>>^ Judá viu ali a filha de um cananeu, de nome Sué, e desposou-a, unindo-se a ela.
+
+[[v1-38-3]]
+
+^<<v1-38-3,3>>^ Ela concebeu e deu à luz um filho, ao qual chamou Her.
+
+[[v1-38-4]]
+
+^<<v1-38-4,4>>^ Concebeu novamente e deu ao mundo um filho, e deu-lhe o nome de Onã.
+
+[[v1-38-5]]
+
+^<<v1-38-5,5>>^ E teve ainda um filho, que chamou Sela. Judá estava em Casib, na ocasião desse nascimento.
+
+[[v1-38-6]]
+
+^<<v1-38-6,6>>^ Judá escolheu para Her, seu primogênito, uma mulher chamada Tamar.
+
+[[v1-38-7]]
+
+^<<v1-38-7,7>>^ Her, porém, o primogênito de Judá, era mau aos olhos do Senhor, e o Senhor o feriu de morte.
+
+[[v1-38-8]]
+
+^<<v1-38-8,8>>^ Então Judá disse a Onã: “Vai, toma a mulher de teu irmão, cumpre teu dever de levirato e suscita uma posteridade a teu irmão”.^&#42;1^
+
+[[v1-38-9]]
+
+^<<v1-38-9,9>>^ Mas Onã, que sabia que essa posteridade não seria dele, maculava-se por terra cada vez que se unia à mulher do seu irmão, para não dar a ele posteridade.
+
+[[v1-38-10]]
+
+^<<v1-38-10,10>>^ Seu comportamento desagradou ao Senhor, que o feriu de morte também.
+
+[[v1-38-11]]
+
+^<<v1-38-11,11>>^ E Judá disse a Tamar, sua nora: “Conserva-te viúva em casa de teu pai até que meu filho Sela se torne adulto”. “Não é bom – pensava ele – que também ele morra como seus irmãos.” E Tamar voltou a habitar na casa paterna.
+
+[[v1-38-12]]
+
+^<<v1-38-12,12>>^ Muito tempo depois, morreu a filha de Sué, mulher de Judá. Passado o luto, subiu Judá a Tamna para a tosquia de suas ovelhas, com seu amigo Hira, o odolamita.
+
+[[v1-38-13]]
+
+^<<v1-38-13,13>>^ E foi noticiado a Tamar: “Eis que o teu sogro sobe a Tamna para a tosquia de suas ovelhas.”
+
+[[v1-38-14]]
+
+^<<v1-38-14,14>>^ Depôs ela então os seus vestidos de viúva, cobriu-se de um véu, e, assim disfarçada, assentou-se à entrada de Enaim, que se encontra no caminho de Tamna, pois via que Sela tinha crescido e não lha tinham dado por mulher.
+
+[[v1-38-15]]
+
+^<<v1-38-15,15>>^ Judá, vendo-a, julgou tratar-se de uma prostituta, porque tinha o rosto coberto.
+
+[[v1-38-16]]
+
+^<<v1-38-16,16>>^ E, chegando-se a ela no caminho, disse: “Queres juntar-te comigo?”. (Ignorava ele que se tratava de sua nora.) Ela respondeu: “O que me darás para juntar-me contigo?”.
+
+[[v1-38-17]]
+
+^<<v1-38-17,17>>^ “Mandarei a ti um cabrito do meu rebanho.” “Está bem; mas dá-me então um penhor, até que o tenhas enviado.”
+
+[[v1-38-18]]
+
+^<<v1-38-18,18>>^ “Que penhor queres que eu te dê?” “Teu anel, teu cordão e o bastão que tens na mão.” Ele os entregou; em seguida, aproximou-se dela e ela concebeu.
+
+[[v1-38-19]]
+
+^<<v1-38-19,19>>^ E levantando-se, partiu; tirou o seu véu e retomou seus vestidos de viúva.
+
+[[v1-38-20]]
+
+^<<v1-38-20,20>>^ E Judá mandou-lhe o cabrito por seu amigo, o odolamita, para retirar o penhor das mãos daquela mulher, mas ele, não a encontrando,
+
+[[v1-38-21]]
+
+^<<v1-38-21,21>>^ perguntou aos habitantes do lugar: “Onde está aquela prostituta que estava em Enaim, à beira do caminho?”. Responderam-lhe: “Não há prostituta nesse lugar!”.
+
+[[v1-38-22]]
+
+^<<v1-38-22,22>>^ Ele voltou para junto de Judá: “Não a encontrei – disse ele – e os moradores daquele lugar disseram-me que não havia nenhuma prostituta ali”.
+
+[[v1-38-23]]
+
+^<<v1-38-23,23>>^ “Guarde ela o meu penhor – respondeu Judá – não nos tornemos ridículos! Eu mandei o cabrito; tu, porém, não a encontraste.”
+
+[[v1-38-24]]
+
+^<<v1-38-24,24>>^ Mais ou menos três meses depois, vieram dizer a Judá: “Tamar, tua nora, conduziu-se mal: vê-se que está grávida”. Judá respondeu: “Tirai-a para fora, que ela seja queimada!”.
+
+[[v1-38-25]]
+
+^<<v1-38-25,25>>^ E, enquanto era conduzida, ela mandou dizer ao seu sogro: “Concebi do homem a quem pertence isto: examine bem – ajuntou ela – de quem são este anel, este cordão e este bastão”.
+
+[[v1-38-26]]
+
+^<<v1-38-26,26>>^ Judá, reconhecendo-os, exclamou: “Ela é mais justa do que eu; pois que não a dei ao meu filho Sela”. E não a conheceu mais.
+
+[[v1-38-27]]
+
+^<<v1-38-27,27>>^ E, na ocasião de dar à luz, eis que ela trazia dois gêmeos no seu ventre.
+
+[[v1-38-28]]
+
+^<<v1-38-28,28>>^ No parto, saindo a mão, a parteira tomou-a e atou nela um fio vermelho, dizendo: “Este é o que saiu primeiro!”.
+
+[[v1-38-29]]
+
+^<<v1-38-29,29>>^ Mas, como ele retirasse a mão, saiu o seu irmão. “Que brecha fizeste! – exclamou a parteira: Que a brecha esteja sobre ti!”
+
+[[v1-38-30]]
+
+^<<v1-38-30,30>>^ E chamou-se-lhe Farés. Em seguida, veio o seu irmão, com o fio vermelho atado na mão. Deu-se-lhe o nome de Zara.^&#42;1^
+
+'''
+
+xref:001-genesis/001-genesis-037.adoc#v1-37-0[&#60; Capítulo Anterior] | <<v1-38-0,Topo>> | xref:001-genesis/001-genesis-039.adoc#v1-39-0[Próximo Capítulo &#62;]

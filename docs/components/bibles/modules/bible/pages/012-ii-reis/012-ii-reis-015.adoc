@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v12-15-0]]
+=== II Reis, 15
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 15 de 2 Reis registra o reinado de vários reis de Judá e Israel. Entre eles estão Azarias de Judá e Zacarias de Israel, que foram assassinados. O capítulo também apresenta Menáem, um rei de Israel que governou com crueldade e violência. Abaixo estão cinco versículos da Bíblia que se relacionam com os temas abordados em 2 Reis 15:
+* Jeremias 17:5: "Assim diz o Senhor: Maldito é o homem que confia no homem, que faz da carne o seu braço e cujo coração se afasta do Senhor." Este versículo fala sobre a importância de confiar em Deus e não em homens. Isso pode ser aplicado à história de 2 Reis 15, onde alguns reis confiaram em alianças políticas ou em sua própria força, em vez de depender de Deus.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez do espírito precede a queda." Este versículo fala sobre como a arrogância e a soberba podem levar à destruição. É possível aplicar isso à história de Menáem, que governou com crueldade e violência, e também a outros líderes que foram punidos por sua arrogância.
+* Salmos 146:3: "Não confieis em príncipes, nem nos filhos dos homens, em quem não há salvação." Este versículo também fala sobre a importância de confiar em Deus e não em homens. Ele pode ser aplicado à história de 2 Reis 15, onde muitos líderes confiaram em suas próprias habilidades e não em Deus.
+* Oséias 10:13: "Lavrai a terra não lavrada, porque é tempo de buscar ao Senhor, até que venha e chova a justiça sobre vós." Este versículo fala sobre a necessidade de buscar a justiça e a vontade de Deus. Pode ser aplicado à história de 2 Reis 15, onde alguns líderes não buscaram a vontade de Deus, mas governaram com violência e crueldade.
+* 2 Crônicas 27:6: "Jotão tornou-se poderoso, porque preparou os seus caminhos diante do Senhor seu Deus." Este versículo fala sobre a importância de buscar a vontade de Deus e preparar o caminho para Ele. Pode ser aplicado à história de 2 Reis 15, onde alguns reis fizeram o mal diante do Senhor, enquanto outros buscaram a justiça e a vontade de Deus.
+****
+
+[[v12-15-1]]
+
+^<<v12-15-1,1>>^ No vigésimo sétimo ano de Jero- boão, rei de Israel, Azarias, filho de Amasias, rei de Judá, tornou-se rei.
+
+[[v12-15-2]]
+
+^<<v12-15-2,2>>^ Tinha dezesseis anos quando começou a reinar e reinou durante cinquenta e dois anos em Jerusalém. Sua mãe chamava-se Jequelias e era natural de Jerusalém.
+
+[[v12-15-3]]
+
+^<<v12-15-3,3>>^ Fez o que era bom aos olhos do Senhor, seguindo fielmente as pisadas de seu pai Amasias.
+
+[[v12-15-4]]
+
+^<<v12-15-4,4>>^ Todavia, os lugares altos não desapareceram. O povo continuava sacrificando e oferecendo perfumes neles.
+
+[[v12-15-5]]
+
+^<<v12-15-5,5>>^ O Senhor feriu de lepra o rei e ele ficou leproso até o dia de sua morte, vivendo numa casa afastada. Joatão, filho do rei, administrava o palácio e governava a terra.
+
+[[v12-15-6]]
+
+^<<v12-15-6,6>>^ O restante da história de Azarias, seus atos e grandes feitos, tudo se acha consignado no Livro das Crônicas dos reis de Judá.
+
+[[v12-15-7]]
+
+^<<v12-15-7,7>>^ Azarias adormeceu com seus pais e foi sepultado com eles na Cidade de Davi. Seu filho, Joatão, sucedeu-lhe no trono.
+
+[[v12-15-8]]
+
+^<<v12-15-8,8>>^ No trigésimo oitavo ano do reinado de Azarias, rei de Judá, Zacarias, filho de Jeroboão, tornou-se rei de Israel em Samaria. Seu reinado durou seis meses.
+
+[[v12-15-9]]
+
+^<<v12-15-9,9>>^ Fez o mal aos olhos do Senhor, como tinham feito seus pais e não se apartou dos pecados de Jeroboão, filho de Nabat, que fizera pecar Israel.
+
+[[v12-15-10]]
+
+^<<v12-15-10,10>>^ Selum, filho de Jabes, conspirou contra ele e assassinou-o à vista do povo, sucedendo-lhe no trono.
+
+[[v12-15-11]]
+
+^<<v12-15-11,11>>^ O restante da história de Zacarias encontra-se consignado no Livro das Crônicas dos reis de Israel.
+
+[[v12-15-12]]
+
+^<<v12-15-12,12>>^ Assim se cumpria o que o Senhor dissera a Jeú: “Teus descendentes ocuparão o trono de Israel durante quatro gerações”. E realmente assim sucedeu.
+
+[[v12-15-13]]
+
+^<<v12-15-13,13>>^ No trigésimo nono ano do reinado de Ozias, rei de Judá, Selum, filho de Jabes, tornou-se rei em Samaria. Seu reinado durou um mês.
+
+[[v12-15-14]]
+
+^<<v12-15-14,14>>^ Manaém, filho de Gadi, subiu de Tersa foi à Samaria e assassinou Selum, filho de Jabes, sucedendo-lhe no trono.
+
+[[v12-15-15]]
+
+^<<v12-15-15,15>>^ O restante da história de Selum e a conspiração que tramou, tudo se acha consignado no Livro das Crônicas dos reis de Israel.
+
+[[v12-15-16]]
+
+^<<v12-15-16,16>>^ Manaém, que subira de Tersa, devastou Tapsa e seu território e matou todos os seus habitantes, porque não lhe tinham franqueado as portas; arrasou a cidade e rasgou pelo meio o ventre de todas as mulheres grávidas.
+
+[[v12-15-17]]
+
+^<<v12-15-17,17>>^ No trigésimo nono ano do reinado de Azarias, rei de Judá, Manaém, filho de Gadi, tornou-se rei de Israel em Samaria. Seu reino durou dez anos.
+
+[[v12-15-18]]
+
+^<<v12-15-18,18>>^ Fez o mal aos olhos do Senhor e não se afastou de nenhum dos pecados de Jeroboão, filho de Nabat, que fizera pecar Israel.
+
+[[v12-15-19]]
+
+^<<v12-15-19,19>>^ Pul, rei da Assíria, veio então contra Israel. Manaém deu-lhe mil talentos de prata para que o ajudasse a consolidar seu poder.
+
+[[v12-15-20]]
+
+^<<v12-15-20,20>>^ Manaém requereu essa contribuição para o rei da Assíria de todos os grandes proprietários de Israel, à razão de cinquenta siclos de prata por pessoa. Então, o rei da Assíria retirou-se sem demora da terra.
+
+[[v12-15-21]]
+
+^<<v12-15-21,21>>^ O restante da história de Manaém, seus atos e grandes feitos, tudo se acha consignado no Livro das Crônicas dos reis de Israel.
+
+[[v12-15-22]]
+
+^<<v12-15-22,22>>^ Manaém adormeceu com seus pais e seu filho, Pecaia, sucedeu-lhe no trono.
+
+[[v12-15-23]]
+
+^<<v12-15-23,23>>^ No quinquagésimo ano do reinado de Azarias, rei de Judá, Pecaia, filho de Manaém, tornou-se rei de Israel em Samaria. Seu reinado durou dois anos.
+
+[[v12-15-24]]
+
+^<<v12-15-24,24>>^ Fez o mal aos olhos do Senhor e não se apartou dos pecados de Jeroboão, filho de Nabat, que fizera pecar Israel.
+
+[[v12-15-25]]
+
+^<<v12-15-25,25>>^ Pecá, filho de Romelias, um de seus oficiais, conspirou contra ele e assassinou-o em Samaria na torre do palácio real, juntamente com Argob e Arié, tendo com ele cinquenta galaaditas. Matou-o e ficou reinando em seu lugar.
+
+[[v12-15-26]]
+
+^<<v12-15-26,26>>^ O restante da história de Pecaia, seus atos e grandes feitos, tudo se acha consignado no Livro das Crônicas dos reis de Israel.
+
+[[v12-15-27]]
+
+^<<v12-15-27,27>>^ No quinquagésimo segundo ano do reinado de Azarias, rei de Judá, Pecá, filho de Romelias, tornou-se rei de Israel em Samaria.
+
+[[v12-15-28]]
+
+^<<v12-15-28,28>>^ Fez o mal aos olhos do Senhor e não se apartou dos pecados de Jeroboão, filho de Nabat, que fizera pecar Israel.
+
+[[v12-15-29]]
+
+^<<v12-15-29,29>>^ No tempo de Pecá, rei de Israel, Teglat-Falasar, rei da Assíria, veio e apoderou-se de Aion, tomando também Abel-Bet-Macaa, Janoé, Cedes, Asor, Galaad, Galileia e toda a terra de Neftali e deportou todos os seus habitantes para a Assíria.
+
+[[v12-15-30]]
+
+^<<v12-15-30,30>>^ Oseias, filho de Ela, conspirou contra Pecá, filho de Romelias e assassinou-o, sucedendo-lhe no trono, no vigésimo ano do reinado de Joatão, filho de Ozias.
+
+[[v12-15-31]]
+
+^<<v12-15-31,31>>^ O restante da história de Pecá, seus atos e grandes feitos, tudo se acha consignado no Livro das Crônicas dos reis de Israel.
+
+[[v12-15-32]]
+
+^<<v12-15-32,32>>^ No segundo ano do reinado de Pecá, filho de Romelias, rei de Israel, Joatão, filho de Ozias, rei de Judá, tornou-se rei.
+
+[[v12-15-33]]
+
+^<<v12-15-33,33>>^ Tinha vinte e cinco anos quando começou a reinar e reinou dezesseis anos em Jerusalém. Sua mãe chamava-se Jerusa, filha de Sadoc.
+
+[[v12-15-34]]
+
+^<<v12-15-34,34>>^ Ele fez o que era bom aos olhos do Senhor e seguiu em tudo as pisadas de seu pai Ozias.
+
+[[v12-15-35]]
+
+^<<v12-15-35,35>>^ Todavia, não desapareceram os lugares altos. O povo continuava sacrificando e queimando incenso ali. Joatão edificou a porta superior do Templo do Senhor.
+
+[[v12-15-36]]
+
+^<<v12-15-36,36>>^ O restante da história de Joatão, seus atos e grandes feitos, tudo se acha consignado no Livro das Crônicas dos reis de Judá.
+
+[[v12-15-37]]
+
+^<<v12-15-37,37>>^ Foi nesse tempo que o Senhor começou a excitar contra Judá o rei da Síria, Rasin e Pecá, filho de Romelias.
+
+[[v12-15-38]]
+
+^<<v12-15-38,38>>^ Joatão adormeceu com seus pais e foi sepultado com eles na Cidade de Davi, seu pai. Seu filho Acaz sucedeu-lhe no trono.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-014.adoc#v12-14-0[&#60; Capítulo Anterior] | <<v12-15-0,Topo>> | xref:012-ii-reis/012-ii-reis-016.adoc#v12-16-0[Próximo Capítulo &#62;]

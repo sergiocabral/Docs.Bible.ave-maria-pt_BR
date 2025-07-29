@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v58-1-0]]
+=== Colossenses, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Colossenses 1 começa com Paulo se apresentando aos colossenses e dando graças a Deus por eles. O capítulo então trata da supremacia de Cristo e da reconciliação através de seu sacrifício na cruz. Paulo explica que seu ministério é proclamar a mensagem de Cristo e fazer discípulos em todas as nações. Ele também fala sobre a importância de perseverar na fé e da necessidade de crescer em conhecimento e compreensão de Deus.
+* 1 Coríntios 1:18: "Porque a mensagem da cruz é loucura para os que estão perecendo, mas para nós, que estamos sendo salvos, é o poder de Deus." Este versículo destaca a mensagem central de Colossenses 1, que é a supremacia de Cristo e a reconciliação através de sua morte na cruz.
+* 2 Coríntios 4:4: "O deus desta era cegou o entendimento dos descrentes, para que não vejam a luz do evangelho da glória de Cristo, que é a imagem de Deus." Paulo fala sobre a necessidade de crescer em conhecimento e compreensão de Deus em Colossenses 1, e este versículo destaca a importância de ter uma mente aberta para receber a mensagem do evangelho.
+* Efésios 3:17-19: "E, pela fé em Jesus Cristo, vocês também estão sendo edificados juntos, formando habitação de Deus no Espírito. " Este versículo fala sobre a importância da unidade entre os crentes, e a necessidade de estar enraizado no amor de Cristo.
+* Hebreus 1:3: "O Filho é o resplendor da glória de Deus e a expressão exata do seu ser, sustentando todas as coisas por sua palavra poderosa. Depois de ter realizado a purificação dos pecados, ele se sentou à direita da Majestade nas alturas." Este versículo destaca a supremacia de Cristo, que é um tema central de Colossenses 1.
+* Romanos 16:26: "Agora, por meio do evangelho, a verdadeira natureza de Deus, que permanece oculta há tempos, foi revelada, e foi anunciada aos pagãos, para que eles creiam e obedeçam a ele." Este versículo destaca a importância de proclamar a mensagem de Cristo e fazer discípulos em todas as nações, que é um tema importante em Colossenses 1.
+****
+
+[[v58-1-1]]
+
+^<<v58-1-1,1>>^ Paulo, apóstolo de Jesus Cristo pela vontade de Deus, e o irmão Timóteo,
+
+[[v58-1-2]]
+
+^<<v58-1-2,2>>^ aos irmãos em Cristo, santos e fiéis de Colossos: a vós, graça e paz da parte de Deus, nosso Pai!^&#42;1^
+
+[[v58-1-3]]
+
+^<<v58-1-3,3>>^ Nas contínuas orações que por vós fazemos, damos graças a Deus, Pai de nosso Senhor Jesus Cristo,
+
+[[v58-1-4]]
+
+^<<v58-1-4,4>>^ porque temos ouvido falar da vossa fé em Jesus Cristo e da vossa caridade com os irmãos,
+
+[[v58-1-5]]
+
+^<<v58-1-5,5>>^ em vista da esperança que vos está reservada nos céus. Esperança que vos foi transmitida pela pregação da verdade do Evangelho,
+
+[[v58-1-6]]
+
+^<<v58-1-6,6>>^ que chegou até vós, assim como toma incremento no mundo inteiro e produz frutos sempre mais abundantes. É o que acontece entre vós, desde o dia em que ouvistes anunciar a graça de Deus e verdadeiramente a conhecestes,
+
+[[v58-1-7]]
+
+^<<v58-1-7,7>>^ pela pregação de Epafras, nosso muito amado companheiro no ministério. Ele nos ajuda como fiel ministro de Cristo.^&#42;1^
+
+[[v58-1-8]]
+
+^<<v58-1-8,8>>^ Foi ele que nos informou do amor com que o Espírito vos anima.
+
+[[v58-1-9]]
+
+^<<v58-1-9,9>>^ Por isso, também nós, desde o dia em que o soubemos, não cessamos de orar por vós e pedir a Deus para que vos conceda pleno conhecimento de sua vontade, perfeita sabedoria e penetração espiritual,
+
+[[v58-1-10]]
+
+^<<v58-1-10,10>>^ para que vos comporteis de maneira digna do Senhor, procurando agradar-lhe em tudo, frutificando em toda boa obra e crescendo no conhecimento de Deus.
+
+[[v58-1-11]]
+
+^<<v58-1-11,11>>^ Para que, confortados em tudo pelo seu glorioso poder, tenhais a paciência de tudo suportar com longanimidade.
+
+[[v58-1-12]]
+
+^<<v58-1-12,12>>^ Sede contentes e agradecidos ao Pai, que vos fez dignos de participar da herança dos santos na luz.
+
+[[v58-1-13]]
+
+^<<v58-1-13,13>>^ Ele nos arrancou do poder das trevas e nos introduziu no Reino de seu Filho muito amado,
+
+[[v58-1-14]]
+
+^<<v58-1-14,14>>^ no qual temos a redenção, a remissão dos pecados.
+
+[[v58-1-15]]
+
+^<<v58-1-15,15>>^ Ele é a imagem de Deus invisível, o Primogênito de toda a Criação.^&#42;1^
+
+[[v58-1-16]]
+
+^<<v58-1-16,16>>^ Nele foram criadas todas as coisas nos céus e na terra, as criaturas visíveis e as invisíveis. Tronos, dominações, principados, potestades: tudo foi criado por ele e para ele.
+
+[[v58-1-17]]
+
+^<<v58-1-17,17>>^ Ele existe antes de todas as coisas, e todas as coisas subsistem nele.
+
+[[v58-1-18]]
+
+^<<v58-1-18,18>>^ Ele é a Cabeça do corpo, da Igreja. Ele é o Princípio, o primogênito dentre os mortos e por isso tem o primeiro lugar em todas as coisas.^&#42;1^
+
+[[v58-1-19]]
+
+^<<v58-1-19,19>>^ Porque aprouve a Deus fazer habitar nele toda a plenitude^&#42;1^
+
+[[v58-1-20]]
+
+^<<v58-1-20,20>>^ e por seu intermédio reconciliar consigo todas as criaturas, por intermédio daquele que, ao preço do próprio sangue na cruz, restabeleceu a paz a tudo quanto existe na terra e nos céus.
+
+[[v58-1-21]]
+
+^<<v58-1-21,21>>^ Há bem pouco tempo, sendo vós alheios a Deus e inimigos pelos vossos pensamentos e obras más,
+
+[[v58-1-22]]
+
+^<<v58-1-22,22>>^ eis que agora ele vos reconciliou pela morte de seu corpo humano, para que vos possais apresentar santos, imaculados, irrepreensíveis aos olhos do Pai.
+
+[[v58-1-23]]
+
+^<<v58-1-23,23>>^ Para isto, é necessário que permaneçais fundados e firmes na fé, inabaláveis na esperança do Evangelho que ouvistes, que foi pregado a toda criatura que há debaixo do céu, e do qual eu, Paulo, fui constituído ministro.
+
+[[v58-1-24]]
+
+^<<v58-1-24,24>>^ Agora me alegro nos sofrimentos suportados por vós. O que falta às tribulações de Cristo, completo na minha carne, por seu corpo que é a Igreja.^&#42;1^
+
+[[v58-1-25]]
+
+^<<v58-1-25,25>>^ Dela fui constituído ministro, em virtude da missão que Deus me conferiu de anunciar em vosso favor a realização da Palavra de Deus,
+
+[[v58-1-26]]
+
+^<<v58-1-26,26>>^ mistério este que esteve escondido desde a origem às gerações (passadas), mas que agora foi manifestado aos seus santos.
+
+[[v58-1-27]]
+
+^<<v58-1-27,27>>^ A estes quis Deus dar a conhecer a riqueza e glória deste mistério entre os gentios: Cristo em vós, esperança da glória!
+
+[[v58-1-28]]
+
+^<<v58-1-28,28>>^ A ele é que anunciamos, admoestando todos os homens e instruindo-os em toda a sabedoria, para tornar todo homem perfeito em Cristo.
+
+[[v58-1-29]]
+
+^<<v58-1-29,29>>^ Eis a finalidade do meu trabalho, a razão por que luto auxiliado por sua força que atua poderosamente em mim.
+
+'''
+
+xref:057-filipenses/057-filipenses-004.adoc#v57-4-0[&#60; Capítulo Anterior] | <<v58-1-0,Topo>> | xref:058-colossenses/058-colossenses-002.adoc#v58-2-0[Próximo Capítulo &#62;]

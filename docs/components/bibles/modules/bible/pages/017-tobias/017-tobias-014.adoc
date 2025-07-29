@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v17-14-0]]
+=== Tobias, 14
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Tobias 14 narra o fim da história de Tobias, seu filho Tobias Jr. e a família de Sara. O capítulo apresenta Tobias idoso, após viver uma vida longa e próspera ao lado de sua família. Ele aconselha seu filho a honrar a Deus e a manter-se fiel à Lei, e depois morre em paz. Abaixo estão cinco versículos relacionados aos temas abordados em Tobias 14:
+* Eclesiastes 7:1: "Melhor é o nome de bom odor do que o unguento precioso, e o dia da morte do que o dia do nascimento." Este versículo fala sobre a importância da vida e como a morte pode ser vista como um momento de liberação da vida terrena para uma vida melhor no céu.
+* Eclesiastes 12:13: "De tudo o que se tem ouvido, o fim é: Teme a Deus e guarda os seus mandamentos; porque este é o dever de todo o homem." Esse versículo fala sobre a importância de honrar a Deus e guardar seus mandamentos, que é o conselho que Tobias dá a seu filho no final de sua vida.
+* Salmos 90:10: "Os dias da nossa vida chegam a setenta anos, e se alguns, pela sua robustez, chegam a oitenta anos, a medida deles é canseira e enfado, pois passa rapidamente, e nós voamos." Esse versículo fala sobre a brevidade da vida humana e como devemos usá-la sabiamente, como Tobias fez.
+* Hebreus 9:27: "E, assim como aos homens está ordenado morrerem uma só vez, vindo, depois disso, o juízo." Esse versículo fala sobre a certeza da morte e o julgamento que segue. Como Tobias, devemos nos esforçar para viver nossas vidas de forma justa e agradável a Deus para que possamos enfrentar o julgamento com confiança.
+* 2 Timóteo 4:7-8: "Combati o bom combate, acabei a carreira, guardei a fé. Desde agora, a coroa da justiça me está guardada, a qual o Senhor, justo juiz, me dará naquele Dia; e não somente a mim, mas também a todos os que amarem a sua vinda." Esse versículo fala sobre o fim da vida e como aqueles que guardam a fé e amam a Deus serão recompensados na vida eterna, como Tobias.
+****
+
+[[v17-14-1]]
+
+^<<v17-14-1,1>>^ Tal foi o cântico de Tobit.
+
+[[v17-14-2]]
+
+^<<v17-14-2,2>>^ Tobit morreu em paz, na idade de cento e doze anos. Foi sepultado com muita honra em Nínive.
+
+[[v17-14-3]]
+
+^<<v17-14-3,3>>^ Tinha sessenta e dois anos quando ficou cego.
+
+[[v17-14-4]]
+
+^<<v17-14-4,4>>^ Todo o restante de sua vida se passou na alegria. E a paz de que gozou foi em proporção aos seus progressos no temor a Deus.
+
+[[v17-14-5]]
+
+^<<v17-14-5,5>>^ Quando veio a hora de sua morte, chamou à sua presença o seu filho Tobias, com os sete filhos deste e disse-lhes:
+
+[[v17-14-6]]
+
+^<<v17-14-6,6>>^ “Está próxima a ruína de Nínive, porque a palavra de Deus não falha; os nossos irmãos, que foram dispersos para longe da pátria de Israel, voltarão para ela.
+
+[[v17-14-7]]
+
+^<<v17-14-7,7>>^ Todo o seu país deserto será repovoado e a casa de Deus, que ali foi queimada, será reconstruída. Todos os homens que temem a Deus voltarão para ela
+
+[[v17-14-8]]
+
+^<<v17-14-8,8>>^ e as nações pagãs abandonarão os seus ídolos e virão habitar em Jerusalém.
+
+[[v17-14-9]]
+
+^<<v17-14-9,9>>^ Todos os reis da terra se alegrarão de apresentar suas homenagens ao rei de Israel.
+
+[[v17-14-10]]
+
+^<<v17-14-10,10>>^ Ouvi, pois, o vosso pai, meus filhos. Servi fielmente o Senhor e procurai fazer o que lhe é agradável.
+
+[[v17-14-11]]
+
+^<<v17-14-11,11>>^ Recomendai aos vossos filhos que pratiquem a justiça, sejam caridosos e esmoleres, que se lembrem de Deus e o bendigam em todo o tempo, fielmente e com todas as suas forças.
+
+[[v17-14-12]]
+
+^<<v17-14-12,12>>^ E agora, meus filhos, ouvi-me: não fiqueis aqui; mas, no dia em que tiverdes enterrado vossa mãe junto de mim no mesmo túmulo, ponde-vos logo a caminho para deixar estes lugares;
+
+[[v17-14-13]]
+
+^<<v17-14-13,13>>^ porque eu vejo que a iniquidade desta cidade será a causa de sua queda.”^&#42;1^
+
+[[v17-14-14]]
+
+^<<v17-14-14,14>>^ Depois da morte de sua mãe, Tobias partiu de Nínive com sua mulher, seus filhos e seus netos e voltou para a casa de seus sogros.
+
+[[v17-14-15]]
+
+^<<v17-14-15,15>>^ Encontrou-os em perfeita saúde, numa ditosa velhice. Teve para com eles todas as atenções e fechou-lhes os olhos. Tomou posse de toda a herança da casa de Raguel e viu os filhos de seus filhos até a quinta geração.
+
+[[v17-14-16]]
+
+^<<v17-14-16,16>>^ Morreu com alegria, tendo vivido noventa e nove anos no temor ao Senhor e seus filhos o sepultaram.
+
+[[v17-14-17]]
+
+^<<v17-14-17,17>>^ Toda a sua parentela e toda a sua descendência perseveraram numa vida íntegra e santo procedimento, de modo que foram amados tanto por Deus como pelos homens e por todos os seus compatriotas.
+
+'''
+
+xref:017-tobias/017-tobias-013.adoc#v17-13-0[&#60; Capítulo Anterior] | <<v17-14-0,Topo>> | xref:018-judite/018-judite-001.adoc#v18-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v52-10-0]]
+=== Romanos, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Romanos 10 é um capítulo que trata sobre a importância da fé em Cristo e a proclamação do evangelho. Paulo destaca que a justiça de Deus vem por meio da fé em Jesus e que a mensagem do evangelho deve ser pregada a todas as nações. Além disso, ele enfatiza que a fé vem pelo ouvir, e o ouvir vem pela palavra de Cristo. Com base nisso, aqui estão cinco versículos relacionados com os temas abordados em Romanos 10, em ordem de proximidade com o capítulo:
+* Mateus 28:19: "Portanto, ide e fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo." Esse versículo é a chamada Grande Comissão de Jesus, em que ele ordena que seus seguidores vão e preguem o evangelho a todas as nações, batizando-os em nome do Pai, do Filho e do Espírito Santo. Esse mandamento é fundamental para a proclamação do evangelho e a disseminação da fé em Cristo.
+* Marcos 16:15: "E disse-lhes: Ide por todo o mundo, pregai o evangelho a toda criatura." Esse versículo também destaca a importância da proclamação do evangelho e da disseminação da fé em Cristo a todas as pessoas e nações. Ele enfatiza que essa é uma tarefa que deve ser realizada por todos os seguidores de Jesus.
+* Hebreus 11:6: "Ora, sem fé é impossível agradar-lhe, porque é necessário que aquele que se aproxima de Deus creia que ele existe, e que é galardoador dos que o buscam." Esse versículo destaca a importância da fé em Deus e em Jesus para a salvação e agradar a Deus. Ele enfatiza que é necessário crer em Deus e buscar sua vontade para alcançar a salvação.
+* Efésios 2:8-9: "Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus. Não vem das obras, para que ninguém se glorie." Esse versículo destaca que a salvação vem pela graça de Deus, por meio da fé em Jesus. Ele enfatiza que a salvação não é alcançada por obras ou méritos próprios, mas é um dom de Deus.
+* João 3:16: "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna." Esse versículo é um dos mais conhecidos da Bíblia e destaca o amor de Deus pela humanidade e a salvação por meio da fé em Jesus. Ele enfatiza que aqueles que crêem em Jesus não perecerão, mas terão a vida eterna.
+****
+
+[[v52-10-1]]
+
+^<<v52-10-1,1>>^ Irmãos, o desejo do meu coração e a súplica que dirijo a Deus por eles são para que se salvem.
+
+[[v52-10-2]]
+
+^<<v52-10-2,2>>^ Pois lhes dou testemunho de que têm zelo por Deus, mas um zelo sem discernimento.
+
+[[v52-10-3]]
+
+^<<v52-10-3,3>>^ Desconhecendo a justiça de Deus e procurando estabelecer a sua própria justiça, não se sujeitaram à justiça de Deus.
+
+[[v52-10-4]]
+
+^<<v52-10-4,4>>^ Porque Cristo é o fim da Lei, para justificar todo aquele que crê.
+
+[[v52-10-5]]
+
+^<<v52-10-5,5>>^ Ora, Moisés escreve da justiça que vem da Lei: O homem que a praticar viverá por ela (Lv 18,5).
+
+[[v52-10-6]]
+
+^<<v52-10-6,6>>^ Mas a justiça que vem da fé diz assim: “Não digas em teu coração: ‘Quem subirá ao céu?’. Isto é, para trazer do alto o Cristo;^&#42;1^
+
+[[v52-10-7]]
+
+^<<v52-10-7,7>>^ ou: ‘Quem descerá ao abismo?’. Isto é, para fazer voltar Cristo dentre os mortos”.
+
+[[v52-10-8]]
+
+^<<v52-10-8,8>>^ Que diz ela, afinal? A palavra está perto de ti, na tua boca e no teu coração (Dt 30,14). Essa é a palavra da fé, que pregamos.
+
+[[v52-10-9]]
+
+^<<v52-10-9,9>>^ Portanto, se com tua boca confessares que Jesus é o Senhor, e se em teu coração creres que Deus o ressuscitou dentre os mortos, serás salvo.
+
+[[v52-10-10]]
+
+^<<v52-10-10,10>>^ É crendo de coração que se obtém a justiça, e é professando com palavras que se chega à salvação.
+
+[[v52-10-11]]
+
+^<<v52-10-11,11>>^ A Escritura diz: Todo o que nele crer não será confundido (Is 28,16).
+
+[[v52-10-12]]
+
+^<<v52-10-12,12>>^ Pois não há distinção entre judeu e grego, porque todos têm um mesmo Senhor, rico para com todos os que o invocam,
+
+[[v52-10-13]]
+
+^<<v52-10-13,13>>^ porque todo aquele que invocar o nome do Senhor será salvo (Jl 3,5).
+
+[[v52-10-14]]
+
+^<<v52-10-14,14>>^ Porém, como invocarão aquele em quem não têm fé? E como crerão naquele de quem não ouviram falar? E como ouvirão falar, se não houver quem pregue?
+
+[[v52-10-15]]
+
+^<<v52-10-15,15>>^ E como pregarão, se não forem enviados, como está escrito: Quão formosos são os pés daqueles que anunciam as boas-novas (Is 52,7)?
+
+[[v52-10-16]]
+
+^<<v52-10-16,16>>^ Mas não são todos que prestaram ouvido à Boa-Nova. É o que exclama Isaías: Senhor, quem acreditou na nossa pregação (Is 53,1)?^&#42;1^
+
+[[v52-10-17]]
+
+^<<v52-10-17,17>>^ Logo, a fé provém da pregação e a pregação se exerce em razão da palavra de Cristo.^&#42;1^
+
+[[v52-10-18]]
+
+^<<v52-10-18,18>>^ Pergunto, agora: Acaso não ouviram? Claro que sim! Por toda a terra correu a sua voz, e até os confins do mundo foram as suas palavras (Sl 18,5).
+
+[[v52-10-19]]
+
+^<<v52-10-19,19>>^ E pergunto ainda: Acaso Israel não o compreendeu? Já Moisés lhes havia dito: Eu vos despertarei ciúmes com um povo que não merece este nome; eu vos provocarei a ira contra uma nação insensata (Dt 32,21).
+
+[[v52-10-20]]
+
+^<<v52-10-20,20>>^ E Isaías se abalança a dizer: Fui achado pelos que não me buscavam; manifestei-me aos que não perguntavam por mim (Is 65,1).
+
+[[v52-10-21]]
+
+^<<v52-10-21,21>>^ Ao passo que a respeito de Israel, ele diz: Todo o dia estendi as minhas mãos a um povo desobediente e teimoso (Is 65,2).
+
+'''
+
+xref:052-romanos/052-romanos-009.adoc#v52-9-0[&#60; Capítulo Anterior] | <<v52-10-0,Topo>> | xref:052-romanos/052-romanos-011.adoc#v52-11-0[Próximo Capítulo &#62;]

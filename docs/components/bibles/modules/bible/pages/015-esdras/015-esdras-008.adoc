@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v15-8-0]]
+=== Esdras, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* No capítulo 8 de Esdras, Esdras convoca um grupo de pessoas para retornar a Jerusalém com ele, incluindo sacerdotes e levitas. Antes de sair, eles fazem um inventário de todos os bens que estão levando para o Templo e confiam a segurança desses bens a Deus. Abaixo estão cinco versículos relacionados com os temas abordados em Esdras 8.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo fala sobre confiar em Deus e buscar Sua direção em todas as áreas da vida. Isso se relaciona com o capítulo de Esdras 8, onde Esdras e seus companheiros confiam a segurança de seus bens a Deus enquanto viajam para Jerusalém.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo fala sobre a presença e o poder de Deus para ajudar Seu povo. Isso se relaciona com o capítulo de Esdras 8, onde Esdras confia em Deus para proteger e guiar ele e seus companheiros durante a viagem a Jerusalém.
+* Salmos 32:8: "Instruir-te-ei e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos." Este versículo fala sobre a orientação de Deus para o Seu povo. Isso se relaciona com o capítulo de Esdras 8, onde Esdras busca a direção de Deus enquanto viaja para Jerusalém com seus companheiros.
+* Salmos 121:7-8: "O Senhor te guardará de todo o mal; ele guardará a tua alma. O Senhor guardará a tua entrada e a tua saída, desde agora e para sempre." Este versículo fala sobre a proteção de Deus para o Seu povo. Isso se relaciona com o capítulo de Esdras 8, onde Esdras confia na proteção de Deus enquanto viaja para Jerusalém com seus companheiros.
+* Filipenses 4:6-7: "Não andeis ansiosos por coisa alguma; antes, em tudo, sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças; e a paz de Deus, que excede todo o entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus." Este versículo fala sobre a importância da oração e do agradecimento a Deus para receber paz em tempos de ansiedade. Isso se relaciona com o capítulo de Esdras 8, onde Esdras e seus companheiros buscam a direção de Deus e confiam em Sua proteção durante a viagem a Jerusalém.
+****
+
+[[v15-8-1]]
+
+^<<v15-8-1,1>>^ “Eis, com sua genealogia, os chefes de família que partiram comigo da Babilônia, sob o reinado do rei Artaxerxes.^&#42;1^
+
+[[v15-8-2]]
+
+^<<v15-8-2,2>>^ Dos filhos de Fineias: Gérson; dos filhos de Itamar: Daniel; dos filhos de Davi: Hatus, que descendia de Sequenias.
+
+[[v15-8-3]]
+
+^<<v15-8-3,3>>^ Dos filhos de Faros: Zacarias e com ele cento e cinquenta homens inscritos no registro da família.
+
+[[v15-8-4]]
+
+^<<v15-8-4,4>>^ Dos filhos de Faat-Moab: Elioenai, filho de Zaraías, e com ele duzentos homens.
+
+[[v15-8-5]]
+
+^<<v15-8-5,5>>^ Dos filhos de Zetua: Sequenias, filho de Jaaziel, e com ele trezentos homens;
+
+[[v15-8-6]]
+
+^<<v15-8-6,6>>^ dos filhos de Adin: Abed, filho de Jônatas, e com ele cinquenta homens;
+
+[[v15-8-7]]
+
+^<<v15-8-7,7>>^ dos filhos de Elam: Isaías, filho de Atalia, e com ele setenta homens;
+
+[[v15-8-8]]
+
+^<<v15-8-8,8>>^ dos filhos de Safatias: Zebedias, filho de Miguel, e com ele oitenta homens;
+
+[[v15-8-9]]
+
+^<<v15-8-9,9>>^ dos filhos de Joab: Abdias, filho de Jaiel, e com ele duzentos e dezoito homens;
+
+[[v15-8-10]]
+
+^<<v15-8-10,10>>^ dos filhos de Bani: Salomit, filho de Josfias, e com ele cento e sessenta homens;
+
+[[v15-8-11]]
+
+^<<v15-8-11,11>>^ dos filhos de Bebai: Zacarias, filho de Bebai, e com ele vinte e oito homens;
+
+[[v15-8-12]]
+
+^<<v15-8-12,12>>^ dos filhos de Azgad: Joanã, filho de Ecetã, e com ele cento e dez homens;
+
+[[v15-8-13]]
+
+^<<v15-8-13,13>>^ dos filhos de Adonicam: os últimos, dos quais são estes os nomes: Elifalet, Jeiel e Semeías e com eles sessenta homens;
+
+[[v15-8-14]]
+
+^<<v15-8-14,14>>^ dos filhos de Beguai: Utai, filho de Zacur, e com eles setenta homens.
+
+[[v15-8-15]]
+
+^<<v15-8-15,15>>^ Reuni-os perto do riacho que corre para Aava e ali acampamos por três dias. Tendo observado o povo e os sacerdotes, não encontrei entre eles nenhum dos filhos de Levi.^&#42;1^
+
+[[v15-8-16]]
+
+^<<v15-8-16,16>>^ Então, mandei procurar os chefes Eliezer, Ariel, Semeías, Elnatã, Jarib, um outro Elnatã, Natã, Zacarias e Mesolam, bem como Joiarib e Elnatã, doutores da lei.
+
+[[v15-8-17]]
+
+^<<v15-8-17,17>>^ Enviei-os ao chefe Ado, que residia em Casfia. Ditei-lhes as palavras que deviam dizer a Ado e seus irmãos, os natineus, residentes em Casfia, a fim de que nos trouxessem ministros para a casa de nosso Deus.
+
+[[v15-8-18]]
+
+^<<v15-8-18,18>>^ E como a mão benfazeja de nosso Deus estivesse conosco, trouxeram eles um homem inteligente dentre os filhos de Mooli, filho de Levi, filho de Israel, Hasabias, com seus filhos e irmãos em número de dezoito.
+
+[[v15-8-19]]
+
+^<<v15-8-19,19>>^ Hasabias, junto com Isaías, dentre os filhos de Merari, seus irmãos e seus filhos em número de vinte.
+
+[[v15-8-20]]
+
+^<<v15-8-20,20>>^ Dentre os natineus, que Davi e os chefes tinham entregue para o serviço dos levitas, duzentos e vinte natineus, todos designados por seu nome.
+
+[[v15-8-21]]
+
+^<<v15-8-21,21>>^ Ali, junto ao riacho Aava, publiquei um jejum, a fim de nos humilharmos diante de nosso Deus e implorar dele uma feliz viagem, para nós, nossos filhos e para todos os nossos bens.
+
+[[v15-8-22]]
+
+^<<v15-8-22,22>>^ Tive vergonha, com efeito, de pedir ao rei uma escolta e cavaleiros para nos proteger contra os inimigos durante o trajeto; porque havíamos dito ao rei: ‘A mão de nosso Deus protege com sua bondade todos os que o procuram; mas sua força e sua cólera se fazem sentir em todos aqueles que o abandonam’.^&#42;1^
+
+[[v15-8-23]]
+
+^<<v15-8-23,23>>^ Por isso, jejuamos e invocamos o nosso Deus; e ele nos ouviu.
+
+[[v15-8-24]]
+
+^<<v15-8-24,24>>^ Escolhi doze chefes dos sacerdotes, Serebias e Hasabias e mais dez de seus irmãos.
+
+[[v15-8-25]]
+
+^<<v15-8-25,25>>^ Diante deles pesei a prata, o ouro e os utensílios dados em oferenda para a casa de nosso Deus pelo rei, seus conselheiros e seus príncipes, bem como pelos israelitas que ali se encontravam.
+
+[[v15-8-26]]
+
+^<<v15-8-26,26>>^ Entreguei-lhes o peso de seiscentos e cinquenta talentos de prata, utensílios de prata do peso de cem talentos, cem talentos de ouro,
+
+[[v15-8-27]]
+
+^<<v15-8-27,27>>^ vinte taças de ouro valendo mil dáricos e dois vasos de um bronze muito claro e brilhante, tão belo como o ouro.
+
+[[v15-8-28]]
+
+^<<v15-8-28,28>>^ E disse-lhes: ‘Vós sois santos diante do Senhor; estes utensílios são consagrados; esta prata e este ouro são uma oferta espontânea feita ao Senhor, o Deus de vossos pais.
+
+[[v15-8-29]]
+
+^<<v15-8-29,29>>^ Guardai-os com cuidado até o momento em que vós os pesareis diante dos chefes dos sacerdotes e levitas e diante dos chefes da família de Israel, em Jerusalém, nas salas da casa do Senhor.
+
+[[v15-8-30]]
+
+^<<v15-8-30,30>>^ Os sacerdotes e levitas receberam, pois, o ouro, a prata e os utensílios assim pesados, para levá-los a Jerusalém, à casa de nosso Deus.
+
+[[v15-8-31]]
+
+^<<v15-8-31,31>>^ Partimos do riacho de Aava no dia doze do primeiro mês, a fim de irmos para Jerusalém. A mão de nosso Deus nos protegia e nos salvava das mãos dos inimigos e de suas emboscadas durante o trajeto.
+
+[[v15-8-32]]
+
+^<<v15-8-32,32>>^ Chegados a Jerusalém, repousamos durante três dias.
+
+[[v15-8-33]]
+
+^<<v15-8-33,33>>^ Ao quarto dia, a prata, o ouro e os utensílios foram pesados na casa de nosso Deus e entregues a Meremot, filho de Urias, o sacerdote. Ele tinha consigo Eleazar, filho de Fineias, e com eles os levitas Jozabad, filho de Josué, e Noadaías, filho de Benui.
+
+[[v15-8-34]]
+
+^<<v15-8-34,34>>^ Tudo foi contado e pesado. E, ao mesmo tempo, o peso total foi consignado por escrito.
+
+[[v15-8-35]]
+
+^<<v15-8-35,35>>^ Os exilados que voltavam do exílio, homens nascidos no cativeiro, ofereceram em holocausto ao Deus de Israel doze touros por todo o Israel, noventa e seis carneiros, setenta e sete cordeiros e doze bodes pelos pecados, tudo em holocausto ao Senhor.
+
+[[v15-8-36]]
+
+^<<v15-8-36,36>>^ Entregaram o decreto do rei aos sátrapas do rei e aos governadores de além do rio. Estes deram seu apoio ao povo e à casa de Deus’.”
+
+'''
+
+xref:015-esdras/015-esdras-007.adoc#v15-7-0[&#60; Capítulo Anterior] | <<v15-8-0,Topo>> | xref:015-esdras/015-esdras-009.adoc#v15-9-0[Próximo Capítulo &#62;]

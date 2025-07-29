@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v20-41-0]]
+=== Jó, 41
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jó 41 descreve a grandeza e a força do monstro marinho Leviatã, criatura que só pode ser domada por Deus. Os versículos a seguir falam de outras criaturas poderosas e como Deus as criou:
+* Salmos 104:25-26: "Lá está o mar imenso e vasto, onde se movem numerosos seres vivos, grandes e pequenos demais para se contar. Navios atravessam as águas, e ali vive Leviatã, que formaste para te divertires." Esse verso fala sobre a criação de Deus no mar, incluindo Leviatã.
+* Jó 26:12-13: "Ele acalma o mar furioso, e com o seu poder destrói o monstro marinho. Com seu sopro, o céu se torna límpido; suas mãos transpassam a serpente fugitiva." Esse verso descreve como Deus é capaz de controlar e até destruir criaturas poderosas, como o monstro marinho.
+* Jó 12:7-9: "Mas agora, pergunte aos animais, e eles o ensinarão, ou às aves do céu, e elas lhe explicarão. Fale com a terra, e ela o instruirá; deixe que os peixes do mar o informem. Quem dentre todos esses seres não sabe que a mão do Senhor fez tudo isso?" Esse verso destaca a grandeza de Deus como Criador de todas as criaturas, incluindo Leviatã.
+* Isaías 27:1: "Naquele dia, o Senhor castigará, com sua espada dura, Leviatã, a serpente rápida e sinuosa, e matará o monstro marinho que vive no mar." Esse verso fala sobre a punição que Deus pode infligir a Leviatã, mostrando sua autoridade sobre todas as criaturas.
+* Salmos 74:13-14: "Com seu braço poderoso, tu fendeste o mar e esmagaste a cabeça dos monstros marinhos. Fizeste o leviatã como comida para os animais do deserto." Esse verso destaca a capacidade de Deus de subjugar até mesmo as criaturas mais poderosas, como Leviatã, e sua soberania sobre todas as coisas.
+****
+
+[[v20-41-1]]
+
+^<<v20-41-1,1>>^ Ninguém é bastante ousado para provocá-lo. Quem lhe resistiria face a face?
+
+[[v20-41-2]]
+
+^<<v20-41-2,2>>^ Quem pôde afrontá-lo e sair com vida? Quem, debaixo de toda a extensão do céu?^&#42;1^
+
+[[v20-41-3]]
+
+^<<v20-41-3,3>>^ Não quero calar a glória de seus membros e falarei de seu vigor incomparável.
+
+[[v20-41-4]]
+
+^<<v20-41-4,4>>^ Quem levantou a dianteira de sua couraça? Quem penetrou na dupla linha de sua dentadura?
+
+[[v20-41-5]]
+
+^<<v20-41-5,5>>^ Quem lhe abriu os dois batentes da goela? Em torno dos seus dentes, só terror!
+
+[[v20-41-6]]
+
+^<<v20-41-6,6>>^ Sua costa é um aglomerado de escudos, cujas juntas são estreitamente ligadas:
+
+[[v20-41-7]]
+
+^<<v20-41-7,7>>^ uma encaixa na outra, nem sequer o ar passa por entre elas;
+
+[[v20-41-8]]
+
+^<<v20-41-8,8>>^ uma adere tão bem à outra, que são encaixadas sem se poderem desunir.
+
+[[v20-41-9]]
+
+^<<v20-41-9,9>>^ Seu espirro faz jorrar a luz e seus olhos são como as pálpebras da aurora.
+
+[[v20-41-10]]
+
+^<<v20-41-10,10>>^ De sua goela saem chamas e escapam centelhas ardentes.
+
+[[v20-41-11]]
+
+^<<v20-41-11,11>>^ De suas ventas sai fumaça como de uma panela que ferve entre chamas.
+
+[[v20-41-12]]
+
+^<<v20-41-12,12>>^ Seu hálito queima como brasa e a chama jorra de sua goela.
+
+[[v20-41-13]]
+
+^<<v20-41-13,13>>^ Em seu pescoço reside sua força, diante dele salta o espanto.
+
+[[v20-41-14]]
+
+^<<v20-41-14,14>>^ As dobras de seus músculos são aderentes, esticadas sobre ele, elas são inabaláveis.
+
+[[v20-41-15]]
+
+^<<v20-41-15,15>>^ Firme como a pedra é seu coração, firme como a mó fixa de um moinho.
+
+[[v20-41-16]]
+
+^<<v20-41-16,16>>^ Quando se levanta, estremecem as ondas e os vagalhões do mar se afastam.
+
+[[v20-41-17]]
+
+^<<v20-41-17,17>>^ Se uma espada o atinge, ela não resiste, nem a lança, nem a flecha, nem o dardo.
+
+[[v20-41-18]]
+
+^<<v20-41-18,18>>^ O ferro para ele é como palha e o bronze, como madeira podre.
+
+[[v20-41-19]]
+
+^<<v20-41-19,19>>^ A flecha não o afugenta, as pedras de funda são palhinhas para ele.
+
+[[v20-41-20]]
+
+^<<v20-41-20,20>>^ O martelo lhe parece um fiapo de palha e ri-se do assobio da espada.
+
+[[v20-41-21]]
+
+^<<v20-41-21,21>>^ Sob seu ventre há cacos pontiagudos, como uma grade de ferro que se arrasta sobre o lodo.
+
+[[v20-41-22]]
+
+^<<v20-41-22,22>>^ Faz ferver o abismo como uma caldeira e transforma o mar num queimador de perfumes.
+
+[[v20-41-23]]
+
+^<<v20-41-23,23>>^ Deixa atrás de si um sulco luminoso, como se o abismo tivesse cabeleira branca.
+
+[[v20-41-24]]
+
+^<<v20-41-24,24>>^ Não há nada igual a ele na terra, pois foi feito para não ter medo de nada.
+
+[[v20-41-25]]
+
+^<<v20-41-25,25>>^ Ele afronta tudo o que é elevado. Ele é o rei dos mais orgulhosos animais”.
+
+'''
+
+xref:020-jo/020-jo-040.adoc#v20-40-0[&#60; Capítulo Anterior] | <<v20-41-0,Topo>> | xref:020-jo/020-jo-042.adoc#v20-42-0[Próximo Capítulo &#62;]

@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v9-6-0]]
+=== I Samuel, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Samuel 6 descreve a devolução da Arca da Aliança pelos filisteus, após terem sofrido diversas calamidades em suas cidades. A passagem fala sobre a forma como os filisteus planejaram devolver a Arca a Israel e como ela foi recebida pelo povo. Os versículos selecionados abaixo abordam temas como o arrependimento dos filisteus, a presença divina e a santidade da Arca.
+* 1 Samuel 6:9: "E observai: se subir pelo caminho do seu território para Bete-Semes, foi ele que nos fez este grande mal; mas, se não, saberemos que a sua mão não nos tocou; foi antes um acaso que nos aconteceu." Os filisteus pedem orientação a seus sacerdotes sobre como devolver a Arca e como saber se a praga que tinham sofrido era um castigo divino ou uma coincidência. Este verso mostra como acreditavam na intervenção divina em suas vidas.
+* 1 Samuel 6:13: "Ora, os de Bete-Semes estavam segando o trigo no vale; levantaram os olhos e viram a arca e alegraram-se ao vê-la." Este verso retrata a alegria dos habitantes de Bete-Semes ao verem a Arca da Aliança retornando para Israel. A Arca representava a presença de Deus, e a sua devolução foi um sinal de que Deus não tinha abandonado o povo de Israel.
+* 1 Samuel 6:19: "Mas o Senhor feriu alguns homens de Bete-Semes, porque tinham olhado para dentro da arca do Senhor; feriu cinquenta mil homens do povo, e o povo pranteou, porque o Senhor fizera grande mortandade entre o povo." Este verso destaca a santidade da Arca da Aliança e as consequências da profanação de um objeto sagrado. Os homens de Bete-Semes foram punidos por olharem dentro da Arca, algo que era proibido por lei.
+* 1 Samuel 6:20: "Então disseram os homens de Bete-Semes: Quem poderá subsistir perante o Senhor, este Deus santo? A quem subirá ele, para se afastar de nós?" Este verso reflete a percepção dos habitantes de Bete-Semes sobre a santidade de Deus e a necessidade de se manterem afastados de qualquer coisa que pudesse profaná-la. A devolução da Arca foi uma lição sobre o respeito e a reverência que deviam ter pela presença divina.
+* 1 Samuel 6:21: "Enviaram, pois, mensageiros aos habitantes de Quiriate-Jearim, dizendo: Os filisteus devolveram a arca do Senhor; vinde, e levai-a para vós." Este verso destaca a importância da Arca da Aliança como símbolo da presença de Deus em Israel. Mesmo após todos os problemas que tinham ocorrido, os habitantes de Quiriate-Jearim desejaram receber a Arca em sua cidade, a fim de honrar a Deus e manter viva a tradição religiosa de Israel.
+****
+
+[[v9-6-1]]
+
+^<<v9-6-1,1>>^ Esteve a arca do Senhor na terra dos filisteus sete meses.
+
+[[v9-6-2]]
+
+^<<v9-6-2,2>>^ Estes convocaram os seus sacerdotes e adivinhos e perguntaram-lhes: “Que faremos da arca do Senhor? Dizei-nos como havemos de devolvê-la ao seu lugar”. Eles responderam:
+
+[[v9-6-3]]
+
+^<<v9-6-3,3>>^ “Se devolveis a arca do Deus de Israel, não a mandeis vazia, mas juntai a ela uma oferta expiatória. Se fordes curados, sabereis então por que sua mão não cessou de pesar sobre vós”.
+
+[[v9-6-4]]
+
+^<<v9-6-4,4>>^ “Que oferta expiatória – perguntaram eles – devemos fazer?” Responderam: “Cinco tumores de ouro e cinco ratos de ouro, conforme o número dos príncipes dos filisteus, porque foi essa a praga que vos feriu a vós e aos vossos príncipes.
+
+[[v9-6-5]]
+
+^<<v9-6-5,5>>^ Fazei, pois, figuras de vossos tumores e figuras de ratos que devastam a terra. Dai assim glória ao Deus de Israel; talvez retire ele a sua mão de cima de vós, de vosso deus e de vossa terra.
+
+[[v9-6-6]]
+
+^<<v9-6-6,6>>^ Por que endureceis os vossos corações como os egípcios e o faraó? Estes só deixaram partir os israelitas quando o Senhor mandou os seus castigos sobre eles.
+
+[[v9-6-7]]
+
+^<<v9-6-7,7>>^ Fazei um carro novo, escolhei duas vacas que aleitam e que não tenham ainda levado o jugo. Atrelai-as no carro, depois de terdes preso os seus bezerros no curral.
+
+[[v9-6-8]]
+
+^<<v9-6-8,8>>^ Colocareis no carro a arca do Senhor, juntamente com um cofre, no qual poreis todos os objetos de ouro que ofereceis como expiação. Depois deixai-a partir.
+
+[[v9-6-9]]
+
+^<<v9-6-9,9>>^ Segui-a com os olhos: se ela subir pelo caminho de sua terra, para as bandas de Bet-Sames, é o Senhor quem nos enviou esta praga; do contrário, conheceremos que não foi a sua mão que nos feriu, mas que tudo isso foi um simples acidente”.
+
+[[v9-6-10]]
+
+^<<v9-6-10,10>>^ Assim o fizeram. Tomaram duas vacas que aleitavam e prenderam-nas a um carro, pondo os seus bezerros no curral.
+
+[[v9-6-11]]
+
+^<<v9-6-11,11>>^ Puseram no carro a arca do Senhor com o cofre que continha os ratos de ouro e as figuras dos tumores.
+
+[[v9-6-12]]
+
+^<<v9-6-12,12>>^ As vacas tomaram diretamente o caminho que vai a Bet-Sames e seguiram sempre o mesmo caminho, mugindo, sem se desviarem nem para a direita nem para a esquerda. Os príncipes dos filisteus seguiram-nas até o limite de Bet-Sames.
+
+[[v9-6-13]]
+
+^<<v9-6-13,13>>^ Ora, os betsamitas segavam o trigo no vale. Levantando os olhos, viram a arca e alegraram-se.
+
+[[v9-6-14]]
+
+^<<v9-6-14,14>>^ O carro chegou à terra de Josué, o betsamita, onde se deteve. Havia ali uma grande pedra. Cortaram em pedaços a madeira do carro e ofereceram as vacas em holocausto ao Senhor.
+
+[[v9-6-15]]
+
+^<<v9-6-15,15>>^ Os levitas desceram a arca do Senhor, juntamente com o cofre que vinha junto, contendo os objetos de ouro e colocaram-na sobre a grande pedra. Os betsamitas ofereceram holocaustos e sacrifícios ao Senhor naquele dia.
+
+[[v9-6-16]]
+
+^<<v9-6-16,16>>^ E os cinco príncipes dos filisteus, que tudo tinham visto, voltaram naquele mesmo dia para Acaron.
+
+[[v9-6-17]]
+
+^<<v9-6-17,17>>^ Eis o número das figuras de hemorroidas de ouro que os filisteus ofereceram ao Senhor como oferta expiatória: uma por Azoto, uma por Gaza, uma por Ascalon, uma por Gat, uma por Acaron.
+
+[[v9-6-18]]
+
+^<<v9-6-18,18>>^ Ofereceram, além disso, tantos ratos de ouro quantas cidades havia pertencentes aos cinco príncipes, cidades fortificadas e aldeias sem muros. Disso é testemunha a grande pedra, sobre a qual puseram a arca do Senhor, no campo de Josué, o betsamita, onde pode ser vista até o dia de hoje.^&#42;1^
+
+[[v9-6-19]]
+
+^<<v9-6-19,19>>^ O Senhor feriu os habitantes de Bet-Sames, porque tinham olhado para dentro de sua arca: feriu setenta homens entre cinquenta mil. O povo chorou por causa desse grande golpe com que o Senhor o tinha ferido.
+
+[[v9-6-20]]
+
+^<<v9-6-20,20>>^ Os habitantes de Bet-Sames disseram: “Quem poderá subsistir na presença do Senhor e deste Deus Santo? E para quem irá a arca, afastando-se de nós?”.
+
+[[v9-6-21]]
+
+^<<v9-6-21,21>>^ Mandaram dizer aos habitantes de Cariatarim: “Os filisteus devolveram a arca do Senhor; vinde e levai-a para vós”.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-005.adoc#v9-5-0[&#60; Capítulo Anterior] | <<v9-6-0,Topo>> | xref:009-i-samuel/009-i-samuel-007.adoc#v9-7-0[Próximo Capítulo &#62;]

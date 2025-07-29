@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v45-6-0]]
+=== Zacarias, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 6 de Zacarias descreve uma visão do profeta na qual quatro carros são apresentados, representando a presença de Deus em toda a terra. Em seguida, Zacarias recebe a ordem de coroar Josué, o sumo sacerdote, com uma coroa de prata, simbolizando a chegada do Messias que virá como sacerdote e rei. Abaixo estão cinco versículos relacionados com os temas abordados em Zacarias 6:
+* Salmos 72:17: "Seja bendito o seu nome para sempre; enquanto o sol durar, seu nome permaneça; todos os povos sejam abençoados nele; todas as nações o chamem feliz." Este versículo fala sobre a bênção que o Messias trará para todas as nações da terra, algo que Zacarias também destaca em sua visão.
+* Jeremias 33:15: "Nos dias daqueles, e naquele tempo, farei brotar a Davi um Renovo de justiça, e ele fará juízo e justiça na terra." A coroação de Josué em Zacarias 6 é uma antecipação da chegada do Messias, como descrito por Jeremias.
+* Salmo 110:4: "O SENHOR jurou, e não se arrependerá: Tu és sacerdote eternamente, segundo a ordem de Melquisedeque." Esse versículo se refere ao sacerdócio do Messias, que será tanto sacerdote quanto rei, e que é simbolizado na visão de Zacarias pela coroação de Josué.
+* Zacarias 3:8: "Ouve, pois, Josué, sumo sacerdote, tu e os teus companheiros que se assentam diante de ti; porque são homens portentosos; eis que eu farei vir o meu servo, o Ramo." Este versículo é uma referência direta à coroação de Josué em Zacarias 6 e antecipa a chegada do Messias como o "Ramo".
+* Hebreus 7:17: "Porque dele se testifica: Tu és sacerdote eternamente, segundo a ordem de Melquisedeque." Assim como Salmo 110:4, esse versículo destaca a dualidade do Messias como sacerdote e rei, em consonância com a visão de Zacarias.
+****
+
+[[v45-6-1]]
+
+^<<v45-6-1,1>>^ Levantando de novo os olhos, olhei e vi quatro carros que saíam dentre duas montanhas: estas eram montanhas de bronze.^&#42;1^
+
+[[v45-6-2]]
+
+^<<v45-6-2,2>>^ No primeiro carro havia cavalos vermelhos; no segundo, cavalos negros;
+
+[[v45-6-3]]
+
+^<<v45-6-3,3>>^ no terceiro, cavalos brancos; e no quarto, cavalos baios.
+
+[[v45-6-4]]
+
+^<<v45-6-4,4>>^ Tomando então a palavra, perguntei ao anjo que falava comigo: “Que carros são esses, meu Senhor?”.
+
+[[v45-6-5]]
+
+^<<v45-6-5,5>>^ Ele respondeu-me: “Eles vão para os quatro ventos do céu e deixam o lugar onde se apresentaram diante do Senhor de toda a terra.
+
+[[v45-6-6]]
+
+^<<v45-6-6,6>>^ Os cavalos negros dirigem-se para o Norte; os brancos, para o Ocidente; os baios, para o Sul”.
+
+[[v45-6-7]]
+
+^<<v45-6-7,7>>^ Partiram fogosos e procuraram lançar-se para percorrer a terra. O Senhor disse-lhes: “Ide, percorrei a terra!”. E eles puseram-se a percorrer a terra.
+
+[[v45-6-8]]
+
+^<<v45-6-8,8>>^ Ele chamou-me e disse: “Olha, os que se dirigem para o Norte vão saciar a minha cólera contra a terra do Norte”.^&#42;1^
+
+[[v45-6-9]]
+
+^<<v45-6-9,9>>^ A palavra do Senhor foi-me dirigida nestes termos:
+
+[[v45-6-10]]
+
+^<<v45-6-10,10>>^ “Vai e recebe a oferta da comunidade, os dons de Heldai, Tobias e Idaías; vai hoje mesmo à casa de Josias, filho de Sofonias, pois se dirigiram para lá de volta da Babilônia.^&#42;1^
+
+[[v45-6-11]]
+
+^<<v45-6-11,11>>^ Tomarás prata e ouro e farás uma coroa, que porás sobre a cabeça do sumo sacerdote Josué, filho de Josedec,^&#42;1^
+
+[[v45-6-12]]
+
+^<<v45-6-12,12>>^ e lhe dirás: Assim fala o Senhor dos exércitos: Eis o homem, cujo nome é Rebento; alguma coisa vai germinar de sua linhagem.
+
+[[v45-6-13]]
+
+^<<v45-6-13,13>>^ Ele é que reconstruirá o Templo do Senhor: usará insígnias reais e se sentará como rei sobre o seu trono; terá um sacerdote à sua direita, e reinará a perfeita paz entre eles.
+
+[[v45-6-14]]
+
+^<<v45-6-14,14>>^ A coroa será conservada no Templo do Senhor em memória de Heldai, Tobias e Idaías, como também de Josias, filho de Sofonias.
+
+[[v45-6-15]]
+
+^<<v45-6-15,15>>^ Virão, então, aqueles que se acham distantes para trabalhar na construção do Templo do Senhor, e sabereis que fui enviado a vós pelo Senhor dos exércitos. Tudo isso há de realizar-se, se fordes dóceis à voz do Senhor, vosso Deus”.
+
+'''
+
+xref:045-zacarias/045-zacarias-005.adoc#v45-5-0[&#60; Capítulo Anterior] | <<v45-6-0,Topo>> | xref:045-zacarias/045-zacarias-007.adoc#v45-7-0[Próximo Capítulo &#62;]

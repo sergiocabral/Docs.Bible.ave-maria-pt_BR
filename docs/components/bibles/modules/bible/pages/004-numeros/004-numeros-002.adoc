@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v4-2-0]]
+=== Números, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Números 2 detalha a organização do acampamento de Israel no deserto. Cada tribo é atribuída a uma posição específica em torno da tenda da reunião, com Judá, Issacar e Zebulom acampando no leste, Rúben, Simeão e Gade no sul, Efraim, Manassés e Benjamim no oeste, e Dã, Aser e Naftali no norte. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Êxodo 40:2: "No primeiro dia do primeiro mês, você deve erguer a tenda da reunião." Este versículo se relaciona com Números 2:2, que especifica que o acampamento deve ser organizado em torno da tenda da reunião.
+* Números 2:10: "A tribo de Rúben, com suas unidades militares, será a segunda a marchar. O líder de Rúben será Elisur, filho de Sedeur." Este versículo se relaciona com Números 2 em geral, que descreve a ordem de marcha das tribos de Israel no deserto.
+* Números 2:18: "No lado oeste estarão as divisões da tribo de Efraim, com suas unidades militares. O líder de Efraim será Elisama, filho de Amiúde." Este versículo se relaciona com Números 2 em geral, que descreve a posição de acampamento de cada tribo de Israel no deserto.
+* Josué 3:3-4: "Quando vocês virem a arca da aliança do Senhor, o seu Deus, e os levitas sacerdotes carregando-a, vocês devem sair do lugar onde estão e segui-la. Mas mantenham uma distância de cerca de dois mil côvados entre vocês e a arca; não se aproximem dela." Este versículo se relaciona com Números 2:17, que especifica que a tribo de Levi deve acampar em torno da tenda da reunião e transportar a arca da aliança durante as marchas.
+* Josué 4:4-5: "Então Josué chamou os doze homens que havia escolhido dentre os israelitas, um de cada tribo, e lhes disse: Passem adiante da arca do Senhor, o seu Deus, para o meio do Jordão. Cada um de vocês levante uma pedra sobre o seu ombro, de acordo com o número das tribos dos israelitas." Este versículo se relaciona com Números 2:2, que especifica que o acampamento deve ser organizado em torno da tenda da reunião, que é simbolizada pela arca da aliança.
+****
+
+[[v4-2-1]]
+
+^<<v4-2-1,1>>^ O Senhor disse a Moisés:
+
+[[v4-2-2]]
+
+^<<v4-2-2,2>>^ “Os israelitas acamparão cada um perto de sua bandeira, sob as insígnias de suas casas patriarcais; acamparão em volta e defronte da tenda de reunião.
+
+[[v4-2-3]]
+
+^<<v4-2-3,3>>^ Ao oriente, Judá assentará as suas tendas com sua bandeira e suas tropas. O príncipe dos filhos de Judá é Naasson, filho de Abinadab;
+
+[[v4-2-4]]
+
+^<<v4-2-4,4>>^ e a divisão do seu exército, segundo o recenseamento, é de setenta e quatro mil e seiscentos homens.
+
+[[v4-2-5]]
+
+^<<v4-2-5,5>>^ Junto dele acampará a tribo de Issacar. O príncipe dos filhos de Issacar é Natanael, filho de Suar;
+
+[[v4-2-6]]
+
+^<<v4-2-6,6>>^ e sua divisão, segundo o recenseamento, é de cinquenta e quatro mil e quatrocentos homens.
+
+[[v4-2-7]]
+
+^<<v4-2-7,7>>^ Em seguida, a tribo de Zabulon. O príncipe dos filhos de Zabulon é Eliab, filho de Helon,
+
+[[v4-2-8]]
+
+^<<v4-2-8,8>>^ e sua divisão é, segundo o recenseamento, de cinquenta e sete mil e quatrocentos homens.
+
+[[v4-2-9]]
+
+^<<v4-2-9,9>>^ O total para o acampamento de Judá, segundo o recenseamento, se eleva a cento e oitenta e seis mil e quatrocentos homens, segundo suas divisões. São estes os primeiros que se porão em marcha.
+
+[[v4-2-10]]
+
+^<<v4-2-10,10>>^ Para o lado do meio-dia estará a bandeira do acampamento de Rúben, com suas divisões; o príncipe dos rubenitas é Elisur, filho de Sedeur,
+
+[[v4-2-11]]
+
+^<<v4-2-11,11>>^ e sua divisão, segundo o recenseamento, é de quarenta e seis mil e quinhentos homens.
+
+[[v4-2-12]]
+
+^<<v4-2-12,12>>^ Junto dele acampará a tribo de Simeão; o príncipe dos simeonitas é Salamiel, filho de Surisadai,
+
+[[v4-2-13]]
+
+^<<v4-2-13,13>>^ e sua divisão, segundo o recenseamento, é de cinquenta e nove mil e trezentos homens.
+
+[[v4-2-14]]
+
+^<<v4-2-14,14>>^ Em seguida, a tribo de Gad; o príncipe dos gaditas é Eliasaf, filho de Reuel,
+
+[[v4-2-15]]
+
+^<<v4-2-15,15>>^ e sua divisão é, segundo o recenseamento, de quarenta e cinco mil seiscentos e cinquenta homens.
+
+[[v4-2-16]]
+
+^<<v4-2-16,16>>^ O total dos homens recenseados para o acampamento de Rúben se eleva a cento e cinquenta e um mil quatrocentos e cinquenta homens, segundo suas divisões. Esses serão os segundos a se porem em marcha.
+
+[[v4-2-17]]
+
+^<<v4-2-17,17>>^ Em seguida, partirá a tenda de reunião com o acampamento dos levitas, no meio dos outros acampamentos. Eles marcharão na ordem em que tiverem acampado, cada um no seu lugar, segundo a sua bandeira.
+
+[[v4-2-18]]
+
+^<<v4-2-18,18>>^ Para o lado do ocidente estará a bandeira de Efraim com suas divisões; o príncipe dos efraimitas é Elisama, filho de Amiud,
+
+[[v4-2-19]]
+
+^<<v4-2-19,19>>^ e sua divisão, segundo o recenseamento, é de quarenta mil e quinhentos homens.
+
+[[v4-2-20]]
+
+^<<v4-2-20,20>>^ Junto dele acampará a tribo de Manassés; o príncipe dos filhos de Manassés é Gamaliel, filho de Fadassur,
+
+[[v4-2-21]]
+
+^<<v4-2-21,21>>^ e sua divisão, segundo o recenseamento, é de trinta e dois mil e duzentos homens.
+
+[[v4-2-22]]
+
+^<<v4-2-22,22>>^ Em seguida, a tribo de Benjamim; o príncipe dos filhos de Benjamim é Abidã, filho de Gedeão,
+
+[[v4-2-23]]
+
+^<<v4-2-23,23>>^ e sua divisão, segundo o recenseamento, é de trinta e cinco mil e quatrocentos homens.
+
+[[v4-2-24]]
+
+^<<v4-2-24,24>>^ O total dos homens recenseados para o acampamento de Efraim é de cento e oito mil e cem homens, segundo suas divisões. Serão os terceiros a partir.
+
+[[v4-2-25]]
+
+^<<v4-2-25,25>>^ Ao norte se encontrará a bandeira do acampamento de Dã com suas divisões; o príncipe dos danitas é Aiezer, filho de Amisadai,
+
+[[v4-2-26]]
+
+^<<v4-2-26,26>>^ e sua divisão, segundo o recenseamento, é de sessenta e dois mil e setecentos homens.
+
+[[v4-2-27]]
+
+^<<v4-2-27,27>>^ Junto dele acampará a tribo de Aser; o príncipe dos filhos de Aser é Fegiel, filho de Ocrã,
+
+[[v4-2-28]]
+
+^<<v4-2-28,28>>^ e sua divisão, segundo o recenseamento, é de quarenta e um mil e quinhentos homens.
+
+[[v4-2-29]]
+
+^<<v4-2-29,29>>^ Em seguida, a tribo de Neftali; o príncipe dos neftalitas é Aíra, filho de Enã,
+
+[[v4-2-30]]
+
+^<<v4-2-30,30>>^ e sua divisão, segundo o recenseamento, é de cinquenta e tres mil e quatrocentos homens.
+
+[[v4-2-31]]
+
+^<<v4-2-31,31>>^ O total para o acampamento de Dã, segundo o recenseamento, se eleva a cento e cinquenta e sete mil e seiscentos homens. Esses se porão em marcha em último lugar, segundo suas bandeiras”.
+
+[[v4-2-32]]
+
+^<<v4-2-32,32>>^ Esses são os israelitas recenseados segundo suas casas patriarcais. O total de todos os homens recenseados, repartidos em diversos acampamentos, segundo suas divisões, é de seiscentos e tres mil quinhentos e cinquenta homens.
+
+[[v4-2-33]]
+
+^<<v4-2-33,33>>^ Os levitas não foram contados no recenseamento com os israelitas, segundo a ordem que o Senhor tinha dado a Moisés.
+
+[[v4-2-34]]
+
+^<<v4-2-34,34>>^ Os israelitas fizeram tudo o que o Senhor tinha ordenado a Moisés. Acamparam segundo suas bandeiras, e puseram-se em marcha cada um segundo a sua família e conforme a sua casa patriarcal.
+
+'''
+
+xref:004-numeros/004-numeros-001.adoc#v4-1-0[&#60; Capítulo Anterior] | <<v4-2-0,Topo>> | xref:004-numeros/004-numeros-003.adoc#v4-3-0[Próximo Capítulo &#62;]

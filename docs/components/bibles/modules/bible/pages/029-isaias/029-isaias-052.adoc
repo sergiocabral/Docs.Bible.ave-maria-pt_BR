@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v29-52-0]]
+=== Isaías, 52
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 52 contém uma mensagem de esperança e restauração para o povo de Deus. O capítulo começa com um chamado para despertar e se preparar para a libertação que Deus trará, e continua com uma profecia sobre a redenção e restauração do povo de Deus. Aqui estão cinco versículos relacionados com os temas do capítulo:
+* Salmos 98:3 - "Ele se lembrou da sua misericórdia e da sua fidelidade para com a casa de Israel; todos os confins da terra viram a salvação do nosso Deus." Este versículo fala sobre a misericórdia e fidelidade de Deus para com o Seu povo, assim como Isaías 52 enfatiza a libertação e restauração do povo de Deus.
+* Jeremias 31:10 - "Ouvi, nações, a palavra do Senhor, e anunciai nas ilhas longínquas, e dizei: Aquele que espalhou a Israel o congregará e o guardará, como o pastor ao seu rebanho." Este versículo fala sobre a promessa de Deus de reunir Seu povo disperso e protegê-los como um pastor cuida de seu rebanho, que é semelhante à mensagem de esperança de Isaías 52.
+* Zacarias 9:12 - "Voltai à fortaleza, ó presos de esperança; também hoje vos anuncio que vos restaurarei em dobro." Este versículo fala sobre a restauração do povo de Deus e a promessa de que eles serão restaurados em dobro, o que é semelhante à mensagem de restauração e redenção de Isaías 52.
+* Romanos 10:15 - "E como pregarão, se não forem enviados? Como está escrito: Quão formosos os pés dos que anunciam coisas boas!" Este versículo fala sobre a importância de pregar o evangelho, o que é semelhante ao chamado para despertar e se preparar para a libertação que Deus trará, mencionado em Isaías 52.
+* Efésios 5:14 - "Por isso diz: Desperta, tu que dormes, e levanta-te dentre os mortos, e Cristo te iluminará." Este versículo fala sobre o chamado para despertar e se levantar da inatividade espiritual, que é semelhante ao chamado para despertar e se preparar para a libertação que Deus trará, mencionado em Isaías 52.
+****
+
+[[v29-52-1]]
+
+^<<v29-52-1,1>>^ Desperta, desperta, põe teus adornos, Sião, veste teus trajes de gala, Jerusalém, cidade santa, porque não mais verás penetrar em tua casa nem incircuncisos nem impuros!
+
+[[v29-52-2]]
+
+^<<v29-52-2,2>>^ Sacode a poeira que te cobre, levanta-te, Jerusalém, e reina, desvencilha-te das cadeias que te prendem o pescoço, filha cativa de Sião.^&#42;1^
+
+[[v29-52-3]]
+
+^<<v29-52-3,3>>^ Porque eis o que diz o Senhor: “Vós fostes vendidos gratuitamente e sereis resgatados sem pagamento”.
+
+[[v29-52-4]]
+
+^<<v29-52-4,4>>^ Porque eis o que diz o Senhor Deus: “Meu povo desceu outrora do Egito para aí habitar, depois a Assíria o oprimiu sem motivo.
+
+[[v29-52-5]]
+
+^<<v29-52-5,5>>^ E agora que faço eu aqui, diz o Senhor, já que meu povo foi levado gratuitamente? Seus opressores soltam brados de triunfo, diz o Senhor, e meu nome é ultrajado todo dia, sem cessar.^&#42;1^
+
+[[v29-52-6]]
+
+^<<v29-52-6,6>>^ Por isso, meu povo vai saber meu nome: naquele dia, compreenderá que sou eu quem diz: ‘Eis-me aqui!’.”
+
+[[v29-52-7]]
+
+^<<v29-52-7,7>>^ Como são belos sobre as montanhas os pés do mensageiro que anuncia a felicidade, que traz as boas-novas e anuncia a libertação, que diz a Sião: “Teu Deus reina!”.^&#42;1^
+
+[[v29-52-8]]
+
+^<<v29-52-8,8>>^ Ouve! Tuas sentinelas elevam a voz, e todas juntas soltam alegres gritos, porque veem com seus próprios olhos o Senhor voltar a Sião.
+
+[[v29-52-9]]
+
+^<<v29-52-9,9>>^ Prorrompei todas em brados de alegria, ruínas de Jerusalém, porque o Senhor se compadece de seu povo, e resgata Jerusalém!
+
+[[v29-52-10]]
+
+^<<v29-52-10,10>>^ O Senhor descobre seu braço santo aos olhares das nações, e todos os confins da terra verão o triunfo de nosso Deus.
+
+[[v29-52-11]]
+
+^<<v29-52-11,11>>^ Parti, parti! Retirai-vos daí, não toqueis nada de impuro! Deixai estas paragens, purificai-vos, vós que levais os vasos do Senhor,^&#42;1^
+
+[[v29-52-12]]
+
+^<<v29-52-12,12>>^ porque não partireis com precipitação, não vos retirareis como fugitivos, porquanto diante de vós irá o Senhor, e o Deus de Israel seguirá à vossa retaguarda.
+
+[[v29-52-13]]
+
+^<<v29-52-13,13>>^ Eis que meu Servo prosperará, crescerá, ele se elevará, será exaltado.
+
+[[v29-52-14]]
+
+^<<v29-52-14,14>>^ Assim como, à sua vista, muitos ficaram embaraçados – tão desfigurado estava que havia perdido a aparência humana –,^&#42;1^
+
+[[v29-52-15]]
+
+^<<v29-52-15,15>>^ assim o admirarão muitos povos: os reis permanecerão mudos diante dele, porque verão o que nunca lhes tinha sido contado, e observarão um prodígio inaudito.^&#42;1^
+
+'''
+
+xref:029-isaias/029-isaias-051.adoc#v29-51-0[&#60; Capítulo Anterior] | <<v29-52-0,Topo>> | xref:029-isaias/029-isaias-053.adoc#v29-53-0[Próximo Capítulo &#62;]

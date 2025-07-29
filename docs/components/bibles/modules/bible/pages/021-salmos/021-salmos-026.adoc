@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v21-26-0]]
+=== Salmos, 26
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 26 é uma oração de Davi pedindo a Deus para que julgue sua integridade e o proteja dos seus inimigos. Ele afirma sua inocência e sua fé em Deus. Abaixo estão cinco versículos que abordam temas relacionados ao Salmo 26:
+* Salmos 7:8: "O Senhor julgará os povos. Julga-me, Senhor, conforme a minha justiça, e conforme a minha integridade." Davi pede a Deus para julgá-lo de acordo com sua integridade e justiça, assim como ele pede em Salmo 26.
+* Salmos 18:20: "O Senhor me recompensou conforme a minha justiça; conforme a pureza das minhas mãos me retribuiu." Davi expressa sua confiança em Deus para recompensá-lo de acordo com sua justiça e pureza, o que é semelhante ao que ele pede em Salmo 26.
+* Salmos 28:7: "O Senhor é a minha força e o meu escudo; nele confia o meu coração, e fui socorrido; pelo que o meu coração salta de prazer, e com o meu cântico o louvarei." Davi confia em Deus como seu escudo e protetor, o que é semelhante ao que ele pede em Salmo 26.
+* Salmos 119:26: "Contei os meus caminhos, e tu me respondeste; ensina-me os teus estatutos." Davi pede a Deus para ensiná-lo seus estatutos, o que indica sua busca pela sabedoria e orientação divina, assim como ele afirma em Salmo 26.
+* Salmos 143:2: "E não entres em juízo com o teu servo, porque à tua vista não se achará justo nenhum vivente." Davi pede a Deus para não julgá-lo com sua justiça, mas sim com sua misericórdia, o que sugere sua humildade e confiança na graça divina, que é semelhante ao que ele expressa em Salmo 26.
+****
+
+[[v21-26-1]]
+
+^<<v21-26-1,1>>^ De Davi. O Senhor é minha luz e minha salvação, a quem temerei? O Senhor é o protetor de minha vida, de quem terei medo?^&#42;1^
+
+[[v21-26-2]]
+
+^<<v21-26-2,2>>^ Quando os malvados me atacam para me devorar vivo, são eles, meus adversários e inimigos, que resvalam e caem.
+
+[[v21-26-3]]
+
+^<<v21-26-3,3>>^ Se todo um exército se acampar contra mim, não temerá meu coração. Se se travar contra mim uma batalha, mesmo assim terei confiança.
+
+[[v21-26-4]]
+
+^<<v21-26-4,4>>^ Uma só coisa peço ao Senhor e a peço incessantemente: é habitar na casa do Senhor todos os dias de minha vida, para admirar aí a beleza do Senhor e contemplar o seu santuário.
+
+[[v21-26-5]]
+
+^<<v21-26-5,5>>^ Assim, no dia mau ele me esconderá na sua tenda, irá ocultar-me no recôndito de seu tabernáculo, sobre um rochedo me erguerá.
+
+[[v21-26-6]]
+
+^<<v21-26-6,6>>^ Mas desde agora ele levanta a minha cabeça acima dos inimigos que me cercam; e oferecerei no tabernáculo sacrifícios de regozijo, com cantos e louvores ao Senhor.
+
+[[v21-26-7]]
+
+^<<v21-26-7,7>>^ Escutai, Senhor, a voz de minha oração, tende piedade de mim e ouvi-me.
+
+[[v21-26-8]]
+
+^<<v21-26-8,8>>^ Fala-vos meu coração, minha face vos busca; a vossa face, ó Senhor, eu a procuro.
+
+[[v21-26-9]]
+
+^<<v21-26-9,9>>^ Não escondais de mim vosso semblante, não afasteis com ira o vosso servo. Vós sois o meu amparo, não me rejeiteis. Nem me abandoneis, ó Deus, meu Salvador.
+
+[[v21-26-10]]
+
+^<<v21-26-10,10>>^ Se meu pai e minha mãe me abandonarem, o Senhor me acolherá.
+
+[[v21-26-11]]
+
+^<<v21-26-11,11>>^ Ensinai-me, Senhor, vosso caminho; por causa dos adversários, guiai-me pela senda reta.
+
+[[v21-26-12]]
+
+^<<v21-26-12,12>>^ Não me abandoneis à mercê dos inimigos, contra mim se ergueram violentos e falsos testemunhos.
+
+[[v21-26-13]]
+
+^<<v21-26-13,13>>^ Sei que verei os benefícios do Senhor na terra dos vivos!
+
+[[v21-26-14]]
+
+^<<v21-26-14,14>>^ Espera no Senhor e sê forte! Fortifique-se o teu coração e espera no Senhor!
+
+'''
+
+xref:021-salmos/021-salmos-025.adoc#v21-25-0[&#60; Capítulo Anterior] | <<v21-26-0,Topo>> | xref:021-salmos/021-salmos-027.adoc#v21-27-0[Próximo Capítulo &#62;]

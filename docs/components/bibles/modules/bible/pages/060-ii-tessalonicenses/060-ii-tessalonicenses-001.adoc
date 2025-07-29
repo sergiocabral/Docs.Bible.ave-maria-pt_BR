@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v60-1-0]]
+=== II Tessalonicenses, 1
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Tessalonicenses 1 fala sobre a justiça de Deus e sua retribuição aos que perseguem os cristãos. O capítulo enfatiza que Deus é justo e que trará juízo aos que fazem o mal, enquanto recompensa os que permanecem fiéis a Ele. A seguir, estão cinco versículos relacionados aos temas abordados em 2 Tessalonicenses 1:
+* Salmos 94:23 - "Ele fará recair sobre eles a sua própria maldade e os destruirá na sua própria malícia; sim, o Senhor nosso Deus os destruirá." Este versículo fala sobre como Deus trará justiça para aqueles que praticam o mal e os destruirá em sua própria maldade, assim como é enfatizado em 2 Tessalonicenses 1.
+* Apocalipse 19:2 - "Porque verdadeiros e justos são os seus juízos, pois julgou a grande prostituta que havia corrompido a terra com a sua prostituição e das mãos dela vingou o sangue dos seus servos." Aqui, vemos que Deus é justo em seus juízos e traz justiça aos seus servos, assim como é destacado em 2 Tessalonicenses 1.
+* Romanos 2:5 - "Mas, segundo a tua dureza e teu coração impenitente, entesouras ira para ti no dia da ira e da revelação do justo juízo de Deus." Este versículo fala sobre como a dureza de coração e a falta de arrependimento levam à ira de Deus no dia do julgamento. Isso se relaciona com o tema de justiça e retribuição de Deus em 2 Tessalonicenses 1.
+* Hebreus 10:30-31 - "Porque nós conhecemos aquele que disse: Minha é a vingança, eu darei a recompensa, diz o Senhor. E outra vez: O Senhor julgará o seu povo. Horrível coisa é cair nas mãos do Deus vivo." Este versículo destaca que Deus é o juiz justo e que trará retribuição aos que o rejeitam. Isso se relaciona com o tema de justiça e julgamento em 2 Tessalonicenses 1.
+* Salmo 50:3-4 - "O nosso Deus vem, e não guarda silêncio; perante ele arde um fogo devorador, e grande tormenta há ao redor dele. Ele chama os céus lá em cima, e a terra, para julgar o seu povo." Este versículo enfatiza que Deus é um juiz justo e que trará julgamento para o seu povo. Isso se relaciona com o tema de justiça e retribuição de Deus em 2 Tessalonicenses 1.
+****
+
+[[v60-1-1]]
+
+^<<v60-1-1,1>>^ Paulo, Silvano e Timóteo à igreja dos tessalonicenses, reunida em Deus, nosso Pai, e no Senhor Jesus Cristo.
+
+[[v60-1-2]]
+
+^<<v60-1-2,2>>^ A vós, graça e paz da parte de Deus Pai e do Senhor Jesus Cristo!
+
+[[v60-1-3]]
+
+^<<v60-1-3,3>>^ Sentimo-nos na obrigação de incessantemente dar graças a Deus a respeito de vós, irmãos. Aliás, com muita razão, visto que a vossa fé vai progredindo sempre mais e desenvolvendo-se a caridade que tendes uns para com os outros.
+
+[[v60-1-4]]
+
+^<<v60-1-4,4>>^ De sorte que nos gloriamos de vós nas igrejas de Deus, pela vossa constância e fidelidade no meio de todas as perseguições e tribulações que sofreis.
+
+[[v60-1-5]]
+
+^<<v60-1-5,5>>^ Elas constituem um indício do justo juízo de Deus e de que sereis considerados dignos do Reino de Deus, pelo qual padeceis.
+
+[[v60-1-6]]
+
+^<<v60-1-6,6>>^ De fato, justo é que Deus dê em paga aflição àqueles que vos afligem;
+
+[[v60-1-7]]
+
+^<<v60-1-7,7>>^ e a vós, que sois afligidos, o alívio, juntamente conosco, no dia da manifestação do Senhor Jesus. Ele descerá do céu com os mensageiros do seu poder,
+
+[[v60-1-8]]
+
+^<<v60-1-8,8>>^ por entre chamas de fogo, para fazer justiça àqueles que não reconhecem a Deus e aos que não obedecem ao Evangelho de nosso Senhor Jesus.
+
+[[v60-1-9]]
+
+^<<v60-1-9,9>>^ Eles sofrerão como castigo a perdição eterna, longe da face do Senhor, e da sua suprema glória.
+
+[[v60-1-10]]
+
+^<<v60-1-10,10>>^ Naquele dia ele virá e será a glória dos seus santos e a admiração de todos os fiéis, e vossa também, porque crestes no testemunho que vos demos.
+
+[[v60-1-11]]
+
+^<<v60-1-11,11>>^ Nessa esperança, suplicamos incessantemente por vós, para que nosso Deus vos faça dignos da vossa vocação e que leve eficazmente a bom termo todo o vosso zelo pelo bem e a atividade de vossa fé.
+
+[[v60-1-12]]
+
+^<<v60-1-12,12>>^ Para que seja glorificado o nome de nosso Senhor Jesus em vós, e vós nele, segundo a graça de nosso Deus e do Senhor Jesus Cristo.
+
+'''
+
+xref:059-i-tessalonicenses/059-i-tessalonicenses-005.adoc#v59-5-0[&#60; Capítulo Anterior] | <<v60-1-0,Topo>> | xref:060-ii-tessalonicenses/060-ii-tessalonicenses-002.adoc#v60-2-0[Próximo Capítulo &#62;]

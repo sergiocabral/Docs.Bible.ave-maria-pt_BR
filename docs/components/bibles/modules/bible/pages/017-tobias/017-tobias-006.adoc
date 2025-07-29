@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v17-6-0]]
+=== Tobias, 6
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Tobias 6 conta a história de Tobias e do anjo Rafael, que o ajuda a curar sua futura esposa Sara e a afastar o demônio Asmodeu. Entre os temas abordados no capítulo estão a importância da confiança em Deus, a orientação divina, a oração e a importância da fidelidade conjugal.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas". Este versículo destaca a importância de confiar em Deus e buscar sua orientação em todas as decisões e caminhos da vida.
+* Salmo 32:8: "Instruir-te-ei e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos". Este versículo fala sobre a orientação de Deus e sua disposição para nos ensinar e guiar pelo caminho certo.
+* Filipenses 4:6-7: "Não andeis ansiosos por coisa alguma; antes em tudo sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças; e a paz de Deus, que excede todo o entendimento, guardará o vosso coração e a vossa mente em Cristo Jesus". Este versículo enfatiza a importância da oração e da gratidão a Deus em todos os momentos, e a promessa de paz que ele nos dá em troca.
+* Provérbios 5:18-19: "Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade, como cerva amada e gazela graciosa; saciem-te os seus seios em todo o tempo; e embriaga-te sempre com as suas carícias". Este versículo fala sobre a importância da fidelidade e do prazer sexual dentro do casamento.
+* Efésios 5:25: "Vós, maridos, amai a vossas mulheres, como também Cristo amou a igreja e a si mesmo se entregou por ela". Este versículo destaca a importância do amor sacrificial dentro do casamento, assim como Cristo se entregou por sua igreja.
+****
+
+[[v17-6-1]]
+
+^<<v17-6-1,1>>^ Tobias partiu, pois, em companhia do anjo. Também o cão foi atrás deles.Deteve-se na primeira parada à beira do rio Tigre.
+
+[[v17-6-2]]
+
+^<<v17-6-2,2>>^ Descendo ao rio para lavar os pés, eis que um enorme peixe se lançou sobre ele para devorá-lo.
+
+[[v17-6-3]]
+
+^<<v17-6-3,3>>^ Aterrorizado, Tobias gritou, dizendo: “Senhor, ele lança-se sobre mim”.
+
+[[v17-6-4]]
+
+^<<v17-6-4,4>>^ O anjo disse-lhe: “Pega-o pelas guelras e puxa-o para ti”. Tobias assim o fez. Arrastou o peixe para a terra, o qual se pôs a saltar aos seus pés.
+
+[[v17-6-5]]
+
+^<<v17-6-5,5>>^ O anjo então disse-lhe: “Abre o peixe e tira-lhe o coração, o fel e o fígado. Guarda-os contigo e joga fora as entranhas. O coração, o fel e o fígado do peixe servirão para remédios muito eficazes”. Ele assim o fez.
+
+[[v17-6-6]]
+
+^<<v17-6-6,6>>^ A seguir, assou uma parte da carne do peixe, que levaram consigo pelo caminho. Salgaram o resto, para que lhes bastasse até chegarem a Ragés, na Média.
+
+[[v17-6-7]]
+
+^<<v17-6-7,7>>^ Entretanto, Tobias interrogou o anjo: “Azarias, meu irmão, peço-te que me digas qual é a virtude curativa dessas partes do peixe que me mandaste guardar”.
+
+[[v17-6-8]]
+
+^<<v17-6-8,8>>^ O anjo respondeu-lhe: “Se puseres um pedaço do coração sobre brasas, a sua fumaça expulsará toda espécie de mau espírito, tanto do homem como da mulher e impedirá que ele volte de novo a eles.
+
+[[v17-6-9]]
+
+^<<v17-6-9,9>>^ Quanto ao fel, pode-se fazer com ele um unguento para os olhos que foram atingidos por manchas brancas, porque ele tem a propriedade de curar”.
+
+[[v17-6-10]]
+
+^<<v17-6-10,10>>^ Em seguida, Tobias disse-lhe: “Onde queres que pousemos?”.
+
+[[v17-6-11]]
+
+^<<v17-6-11,11>>^ “Há aqui – respondeu o anjo – um homem de tua tribo e de tua família, chamado Raguel, que tem uma filha chamada Sara; além dela não tem mais filho nem filha.^&#42;1^
+
+[[v17-6-12]]
+
+^<<v17-6-12,12>>^ Todos os seus bens te devem pertencer: mas é preciso que a recebas por esposa.^&#42;1^
+
+[[v17-6-13]]
+
+^<<v17-6-13,13>>^ Pede-a, pois, ao seu pai e ele a dará por esposa.
+
+[[v17-6-14]]
+
+^<<v17-6-14,14>>^ Tobias replicou: “Ouvi dizer que ela já teve sete maridos e que todos morreram. Diz-se mesmo que foi um demônio que os matou,
+
+[[v17-6-15]]
+
+^<<v17-6-15,15>>^ por isso, eu temo que o mesmo venha a me acontecer, a mim que sou filho único e, desse modo, faça descer lamentavelmente a velhice de meus pais à habitação dos mortos”.
+
+[[v17-6-16]]
+
+^<<v17-6-16,16>>^ O anjo respondeu-lhe: “Ouve-me e eu te mostrarei sobre quem o demônio tem poder:^&#42;1^
+
+[[v17-6-17]]
+
+^<<v17-6-17,17>>^ são os que se casam, banindo Deus de seu coração e de seu pensamento e se entregam à sua paixão como o cavalo e o burro, que não têm entendimento: sobre estes o demônio tem poder.
+
+[[v17-6-18]]
+
+^<<v17-6-18,18>>^ Tu, porém, quando te casares e entrares na câmara nupcial, viverás com ela em castidade durante três dias e não vos ocupareis de outra coisa senão de orar juntos.
+
+[[v17-6-19]]
+
+^<<v17-6-19,19>>^ Na primeira noite, queimarás o fígado do peixe e será posto em fuga o demônio.
+
+[[v17-6-20]]
+
+^<<v17-6-20,20>>^ Na segunda noite, serás admitido na sociedade dos santos patriarcas.
+
+[[v17-6-21]]
+
+^<<v17-6-21,21>>^ Na terceira noite, receberás a bênção que vos dará filhos cheios de saúde.
+
+[[v17-6-22]]
+
+^<<v17-6-22,22>>^ Passada essa terceira noite, te aproximarás da jovem no temor ao Senhor, mais com o desejo de ter filhos que o ímpeto da paixão. Obterás assim para os teus filhos a bênção prometida à raça de Abraão”.^&#42;1^
+
+'''
+
+xref:017-tobias/017-tobias-005.adoc#v17-5-0[&#60; Capítulo Anterior] | <<v17-6-0,Topo>> | xref:017-tobias/017-tobias-007.adoc#v17-7-0[Próximo Capítulo &#62;]

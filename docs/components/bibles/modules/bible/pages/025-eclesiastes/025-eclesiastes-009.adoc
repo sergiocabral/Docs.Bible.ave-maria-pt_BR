@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v25-9-0]]
+=== Eclesiastes, 9
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiastes 9 é um capítulo que fala sobre a inevitabilidade da morte e a transitoriedade da vida. O autor reflete sobre a imprevisibilidade dos eventos e o fato de que a morte chega para todos, independentemente de suas realizações ou fracassos. Os versículos selecionados abaixo ajudam a ampliar esses temas:
+* Salmos 89:48: "Qual é o homem que vive e não vê a morte, ou que pode livrar-se do poder do sepulcro?" Este verso destaca a inevitabilidade da morte e a transitoriedade da vida humana.
+* Salmos 90:12: "Ensina-nos a contar os nossos dias, de tal maneira que alcancemos corações sábios." Este verso destaca a importância de valorizar o tempo que temos, pois a vida é breve e passageira.
+* Hebreus 9:27: "E, assim como aos homens está ordenado morrerem uma só vez, vindo, depois disso, o juízo." Este verso ressalta que a morte é um evento inevitável e que será seguida pelo juízo divino.
+* Lucas 12:19-20: "E direi à minha alma: tens em depósito muitos bens para muitos anos; descansa, come, bebe e folga. Mas Deus lhe disse: Louco, esta noite te pedirão a tua alma; e o que tens preparado, para quem será?" Este verso alerta contra a arrogância e a complacência, lembrando que a morte pode chegar a qualquer momento e que, por isso, devemos estar preparados.
+* 2 Coríntios 5:1: "Porque sabemos que, se a nossa casa terrestre deste tabernáculo se desfizer, temos da parte de Deus um edifício, uma casa não feita por mãos, eterna, nos céus." Este verso fala sobre a esperança cristã de uma vida após a morte, o que oferece conforto e perspectiva diante da inevitabilidade da morte.
+****
+
+[[v25-9-1]]
+
+^<<v25-9-1,1>>^ Apliquei então meu espírito ao esclarecimento de tudo isso: os justos e sábios, com todas as suas obras, estão na mão de Deus. O homem ignora se isso será amor ou ódio. Tudo é possível.^&#42;1^
+
+[[v25-9-2]]
+
+^<<v25-9-2,2>>^ Todos têm um só destino: há uma sorte idêntica ao justo e ao ímpio, ao que é bom como ao que é impuro, ao que oferece sacrifícios como ao que deles se abstém. O homem bom é tratado como o pecador e o perjuro como o que respeita seu juramento.^&#42;1^
+
+[[v25-9-3]]
+
+^<<v25-9-3,3>>^ Entre tudo o que se faz debaixo do sol, é uma desgraça só existir para todos um mesmo destino. Por isso, o espírito dos homens transborda de malícia, a loucura ocupa o coração deles, durante a vida, depois da qual vão para a casa dos mortos.
+
+[[v25-9-4]]
+
+^<<v25-9-4,4>>^ Porque, enquanto um homem permanece entre os vivos, ainda há esperança, pois mais vale um cão vivo do que um leão morto.
+
+[[v25-9-5]]
+
+^<<v25-9-5,5>>^ Com efeito, os vivos sabem que hão de morrer, mas os mortos de nada sabem. Para eles não há mais recompensa, porque sua lembrança jaz no esquecimento.
+
+[[v25-9-6]]
+
+^<<v25-9-6,6>>^ Amor, ódio e inveja acabaram. Não terão mais parte alguma, para o futuro, no que se faz debaixo do sol.^&#42;1^
+
+[[v25-9-7]]
+
+^<<v25-9-7,7>>^ Ora, pois, come com alegria o teu pão e bebe contente o teu vinho, porque Deus se agrada de teus trabalhos.
+
+[[v25-9-8]]
+
+^<<v25-9-8,8>>^ Traja sempre vestes brancas e haja sempre azeite perfumado em tua cabeça.^&#42;1^
+
+[[v25-9-9]]
+
+^<<v25-9-9,9>>^ Desfruta da vida com a mulher que amas, durante todos os dias da fugitiva e vã existência que Deus te concede debaixo do sol. Essa é a tua parte na vida, o prêmio do labor a que te entregas debaixo do sol.
+
+[[v25-9-10]]
+
+^<<v25-9-10,10>>^ Tudo o que tua mão encontra para fazer, faze-o com todas as tuas faculdades, pois que na região dos mortos, para onde vais, não há mais trabalho, nem ciência, nem inteligência, nem sabedoria.
+
+[[v25-9-11]]
+
+^<<v25-9-11,11>>^ Nas minhas investigações debaixo do sol, vi ainda que a corrida não é para os ágeis, nem a batalha para os bravos, nem o pão para os prudentes, nem a riqueza para os inteligentes, nem o favor para os sábios, porque todos estão à mercê das circunstâncias e da sorte.
+
+[[v25-9-12]]
+
+^<<v25-9-12,12>>^ O homem não conhece sua própria hora. Semelhantes aos peixes apanhados pela rede fatal, os passarinhos presos no laço, os homens são enlaçados na hora da calamidade, que se arremessa sobre eles de súbito.
+
+[[v25-9-13]]
+
+^<<v25-9-13,13>>^ Vi também, debaixo do sol, este exemplo de sabedoria, que me pareceu grande.
+
+[[v25-9-14]]
+
+^<<v25-9-14,14>>^ Havia uma pequena cidade, pouco populosa. Veio contra ela um poderoso rei que, sitiando-a, construiu grandes fortificações ao seu redor.
+
+[[v25-9-15]]
+
+^<<v25-9-15,15>>^ Ora, aí se encontrava um homem pobre, porém sábio, cuja sabedoria salvou a cidade, contudo ninguém se lembrou desse pobre.
+
+[[v25-9-16]]
+
+^<<v25-9-16,16>>^ Por isso, eu disse: “A sabedoria vale mais que a força, mas a sabedoria do pobre é desprezada e às suas palavras não se dão ouvidos”.
+
+[[v25-9-17]]
+
+^<<v25-9-17,17>>^ As palavras calmas dos sábios são mais bem ouvidas do que os gritos de um chefe entre insensatos.
+
+[[v25-9-18]]
+
+^<<v25-9-18,18>>^ A sabedoria vale mais que as máquinas de guerra, mas um só pecador pode causar a perda de muitos bens.
+
+'''
+
+xref:025-eclesiastes/025-eclesiastes-008.adoc#v25-8-0[&#60; Capítulo Anterior] | <<v25-9-0,Topo>> | xref:025-eclesiastes/025-eclesiastes-010.adoc#v25-10-0[Próximo Capítulo &#62;]

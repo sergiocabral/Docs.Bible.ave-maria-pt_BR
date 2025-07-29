@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v29-55-0]]
+=== Isaías, 55
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 55 é um capítulo que destaca o convite de Deus para o seu povo a viver uma vida em plenitude. Deus convida a todos para que venham e recebam de graça água, vinho e alimento. Deus convida a todos a abandonar seus maus caminhos e pensar e agir como Ele, pois Seus pensamentos e caminhos são mais altos do que os do homem. Este capítulo destaca a grandeza e a bondade de Deus, bem como a Sua vontade de nos salvar e nos dar vida eterna.
+* João 6:35: "Disse-lhes Jesus: Eu sou o pão da vida; aquele que vem a mim não terá fome, e quem crê em mim nunca terá sede." Este versículo destaca a ideia de que Jesus é o pão da vida e que aqueles que O seguem nunca terão fome ou sede, o que é semelhante à oferta de Deus em Isaías 55.
+* Salmos 145:9: "O Senhor é bom para todos, e as suas misericórdias são sobre todas as suas obras." Este versículo destaca a bondade de Deus, que é um tema importante em Isaías 55.
+* João 7:37: "E no último dia, o grande dia da festa, Jesus pôs-se em pé, e clamou, dizendo: Se alguém tem sede, venha a mim, e beba." Este versículo destaca a ideia de que Jesus é a fonte da vida eterna e que aqueles que O seguem nunca terão sede, o que é semelhante à oferta de Deus em Isaías 55.
+* Provérbios 9:5: "Vinde, comei do meu pão, e bebei do vinho que tenho misturado." Este versículo destaca a ideia de que a sabedoria oferece um banquete, semelhante à oferta de Deus em Isaías 55.
+* Filipenses 4:7: "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus." Este versículo destaca a paz que Deus oferece, que é um tema importante em Isaías 55.
+****
+
+[[v29-55-1]]
+
+^<<v29-55-1,1>>^ Todos vós, que estais sedentos, vinde à nascente das águas; vinde comer, vós que não tendes alimento. Vinde comprar trigo sem dinheiro, vinho e leite sem pagar!^&#42;1^
+
+[[v29-55-2]]
+
+^<<v29-55-2,2>>^ Por que despender vosso dinheiro naquilo que não alimenta, e o produto de vosso trabalho naquilo que não sacia? Se me ouvis, comereis excelentes manjares, uma suculenta comida fará vossas delícias.^&#42;1^
+
+[[v29-55-3]]
+
+^<<v29-55-3,3>>^ Prestai-me atenção, e vinde a mim; escutai, e vossa alma viverá: quero concluir convosco uma eterna aliança, outorgando-vos os favores prometidos a Davi.^&#42;1^
+
+[[v29-55-4]]
+
+^<<v29-55-4,4>>^ Farei de ti um testemunho para os povos, um condutor soberano das nações;^&#42;1^
+
+[[v29-55-5]]
+
+^<<v29-55-5,5>>^ conclamarás povos que nunca conheceste, e nações que te ignoravam acorrerão a ti, por causa do Senhor, teu Deus, e do Santo de Israel que fará tua glória.
+
+[[v29-55-6]]
+
+^<<v29-55-6,6>>^ Buscai o Senhor, já que ele se deixa encontrar; invocai-o, já que está perto.
+
+[[v29-55-7]]
+
+^<<v29-55-7,7>>^ Renuncie o malvado a seu comportamento, e o pecador a seus projetos; volte ao Senhor, que dele terá piedade, e a nosso Deus que perdoa generosamente.
+
+[[v29-55-8]]
+
+^<<v29-55-8,8>>^ Pois meus pensamentos não são os vossos, e vosso modo de agir não é o meu, diz o Senhor;^&#42;1^
+
+[[v29-55-9]]
+
+^<<v29-55-9,9>>^ mas tanto quanto o céu domina a terra, tanto é superior à vossa a minha conduta e meus pensamentos ultrapassam os vossos.
+
+[[v29-55-10]]
+
+^<<v29-55-10,10>>^ Tal como a chuva e a neve caem do céu e para lá não volvem sem ter regado a terra, sem a ter fecundado, e feito germinar as plantas, sem dar o grão a semear e o pão a comer,
+
+[[v29-55-11]]
+
+^<<v29-55-11,11>>^ assim acontece à palavra que minha boca profere: não volta sem ter produzido seu efeito, sem ter executado minha vontade e cumprido sua missão.^&#42;1^
+
+[[v29-55-12]]
+
+^<<v29-55-12,12>>^ Sim, partireis com júbilo, e sereis reconduzidos em paz; montanhas e colinas vos aclamarão, e todas as árvores do campo vos aplaudirão.
+
+[[v29-55-13]]
+
+^<<v29-55-13,13>>^ Em lugar do espinheiro, crescerá o cipreste, em lugar da urtiga, crescerá a murta; isso será para o renome do Senhor, um título para sempre imperecível.
+
+'''
+
+xref:029-isaias/029-isaias-054.adoc#v29-54-0[&#60; Capítulo Anterior] | <<v29-55-0,Topo>> | xref:029-isaias/029-isaias-056.adoc#v29-56-0[Próximo Capítulo &#62;]

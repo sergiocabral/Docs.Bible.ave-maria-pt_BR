@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v21-73-0]]
+=== Salmos, 73
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 73 aborda a questão da prosperidade dos ímpios e da justiça divina. O salmista se questiona por que os ímpios parecem estar em vantagem e vivem uma vida próspera, enquanto ele, que busca seguir a Deus, passa por dificuldades e sofrimentos. Ele reflete sobre como é fácil ser tentado a se desviar do caminho da justiça ao ver a aparente felicidade dos ímpios. No entanto, ele encontra consolo ao perceber que a verdadeira prosperidade vem de estar próximo a Deus e que a justiça divina não falha.
+* Salmos 37:7-8: "Descanse no Senhor e aguarde por ele com paciência; não se aborreça com o sucesso dos outros, nem com aqueles que maquinam o mal. Evite a ira e rejeite a fúria; não se preocupe, isso só leva ao mal." Este versículo incentiva a paciência e confiança em Deus, mesmo diante da aparente prosperidade dos ímpios. Ele aconselha a evitar a inveja e o ódio e a confiar que Deus agirá de acordo com a justiça.
+* Salmos 37:16: "É melhor o pouco do justo do que a riqueza de muitos ímpios." Este versículo destaca que a verdadeira riqueza não está na posse de bens materiais, mas em estar em paz com Deus e ter uma vida justa.
+* Salmos 49:16-17: "Não tenha medo quando alguém ficar rico, quando a glória da sua casa aumentar; pois, quando morrer, nada levará consigo; a sua glória não descerá com ele." Este versículo lembra que a prosperidade material é temporária e que a verdadeira riqueza é encontrada em Deus.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento; em todos os seus caminhos, reconheça-o, e ele endireitará as suas veredas." Este versículo incentiva a confiança em Deus e a lembrar que Ele está no controle, mesmo quando a vida parece difícil e desafiadora.
+* Romanos 8:28: "E sabemos que Deus age em todas as coisas para o bem daqueles que o amam, dos que foram chamados de acordo com o seu propósito." Este versículo lembra que Deus está trabalhando em todas as coisas para o bem daqueles que O amam, mesmo quando a vida é difícil e não entendemos os caminhos Dele.
+****
+
+[[v21-73-1]]
+
+^<<v21-73-1,1>>^ Hino de Asaf. Por que, Senhor, persistis em nos rejeitar? Por que se inflama vossa ira contra as ovelhas de vosso rebanho?^&#42;1^
+
+[[v21-73-2]]
+
+^<<v21-73-2,2>>^ Recordai-vos de vosso povo que elegestes outrora, da tribo que resgatastes para vossa possessão, da montanha de Sião onde fizestes vossa morada.
+
+[[v21-73-3]]
+
+^<<v21-73-3,3>>^ Dirigi vossos passos a estes lugares definitivamente devastados; o inimigo tudo destruiu no santuário.
+
+[[v21-73-4]]
+
+^<<v21-73-4,4>>^ Os adversários rugiam no local de vossas assembleias, como troféus hastearam suas bandeiras.
+
+[[v21-73-5]]
+
+^<<v21-73-5,5>>^ Pareciam homens a vibrar o machado na floresta espessa.
+
+[[v21-73-6]]
+
+^<<v21-73-6,6>>^ Rebentaram os portais do templo com malhos e martelos,
+
+[[v21-73-7]]
+
+^<<v21-73-7,7>>^ atearam fogo ao vosso santuário, profanaram, arrasaram a morada do vosso nome.
+
+[[v21-73-8]]
+
+^<<v21-73-8,8>>^ Disseram em seus corações: “Destruamo-los todos juntos; incendiai todos os lugares santos da terra”.
+
+[[v21-73-9]]
+
+^<<v21-73-9,9>>^ Não vemos mais nossos emblemas, já não há nenhum profeta e ninguém entre nós que saiba até quando...
+
+[[v21-73-10]]
+
+^<<v21-73-10,10>>^ Ó Deus, até quando nos insultará o inimigo? O adversário blasfemará vosso nome para sempre?
+
+[[v21-73-11]]
+
+^<<v21-73-11,11>>^ Por que retirais a vossa mão? Por que guardais vossa destra em vosso seio?
+
+[[v21-73-12]]
+
+^<<v21-73-12,12>>^ Entretanto, Deus é meu rei desde os tempos antigos, ele que opera a salvação por toda a terra.
+
+[[v21-73-13]]
+
+^<<v21-73-13,13>>^ Vosso poder abriu o mar, esmagastes nas águas as cabeças de dragões.
+
+[[v21-73-14]]
+
+^<<v21-73-14,14>>^ Quebrastes as cabeças do Leviatã, e as destes como pasto aos monstros do mar.^&#42;1^
+
+[[v21-73-15]]
+
+^<<v21-73-15,15>>^ Fizestes jorrar fontes e torrentes, secastes rios caudalosos.
+
+[[v21-73-16]]
+
+^<<v21-73-16,16>>^ Vosso é o dia, a noite vos pertence: vós criastes a lua e o sol,
+
+[[v21-73-17]]
+
+^<<v21-73-17,17>>^ Vós marcastes à terra seus confins, estabelecestes o inverno e o verão.
+
+[[v21-73-18]]
+
+^<<v21-73-18,18>>^ Lembrai-vos: o inimigo vos insultou, Senhor, e um povo insensato ultrajou o vosso nome.
+
+[[v21-73-19]]
+
+^<<v21-73-19,19>>^ Não abandoneis ao abutre a vida de vossa pomba, não esqueçais para sempre a vida de vossos pobres.
+
+[[v21-73-20]]
+
+^<<v21-73-20,20>>^ Olhai para a vossa aliança, porque todos os recantos da terra são antros de violência.
+
+[[v21-73-21]]
+
+^<<v21-73-21,21>>^ Que os oprimidos não voltem confundidos, que o pobre e o indigente possam louvar o vosso nome.
+
+[[v21-73-22]]
+
+^<<v21-73-22,22>>^ Levantai-vos, ó Deus, defendei a vossa causa. Lembrai-vos das blasfêmias que continuamente vos dirige o insensato.
+
+[[v21-73-23]]
+
+^<<v21-73-23,23>>^ Não olvideis os insultos de vossos adversários, e o tumulto crescente dos que se insurgem contra vós.
+
+'''
+
+xref:021-salmos/021-salmos-072.adoc#v21-72-0[&#60; Capítulo Anterior] | <<v21-73-0,Topo>> | xref:021-salmos/021-salmos-074.adoc#v21-74-0[Próximo Capítulo &#62;]

@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v4-29-0]]
+=== Números, 29
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 29 de Números apresenta as instruções para as celebrações das festas religiosas durante o sétimo mês do calendário hebraico. Estas celebrações incluem o Dia da Expiação e a Festa dos Tabernáculos. Abaixo estão cinco versículos relacionados com esses temas:
+* Levítico 23:27 - "Porém no décimo dia desse sétimo mês será o Dia da Expiação. Tereis santa convocação, afligireis as vossas almas e oferecereis oferta queimada ao Senhor." Este versículo faz referência à celebração do Dia da Expiação mencionada em Números 29, onde é prescrito um ritual de expiação pelos pecados do povo.
+* Levítico 23:34 - "Fala aos filhos de Israel, dizendo: Aos quinze dias deste mês sétimo será a Festa dos Tabernáculos ao Senhor por sete dias." Esse versículo se refere à celebração da Festa dos Tabernáculos, uma das festas religiosas mencionadas em Números 29.
+* Levítico 23:37 - "Estas são as solenidades do Senhor, que convocareis santas assembleias para oferecer ao Senhor oferta queimada, holocausto e oferta de cereais, sacrifício e libação, cada qual no seu dia próprio." Este versículo reforça a importância das celebrações religiosas prescritas por Deus e destaca a necessidade de oferecer as ofertas apropriadas.
+* Levítico 23:39 - "Porém aos quinze dias do mês sétimo, quando houverdes recolhido o produto da terra, celebrareis a festa do Senhor por sete dias; no primeiro dia haverá descanso e no oitavo dia haverá descanso." Este versículo reitera as instruções sobre a celebração da Festa dos Tabernáculos, mencionada em Números 29.
+* Neemias 8:18 - "Também dia após dia, desde o primeiro até o último dia, Esdras leu no Livro da Lei de Deus. Celebraram a festa durante sete dias, e no oitavo dia houve uma solenidade, segundo o ritual." Este versículo descreve uma celebração da Festa dos Tabernáculos após o exílio na Babilônia, mostrando a continuidade da tradição mesmo após a destruição do Templo de Jerusalém.
+****
+
+[[v4-29-1]]
+
+^<<v4-29-1,1>>^ “No primeiro dia do sétimo mês tereis uma santa assembleia e a suspensão de todo o trabalho servil. Será para vós um dia de toques de trombetas.
+
+[[v4-29-2]]
+
+^<<v4-29-2,2>>^ Oferecereis, em holocausto de suave odor ao Senhor, um novilho, um carneiro e sete cordeiros de um ano sem defeito,
+
+[[v4-29-3]]
+
+^<<v4-29-3,3>>^ com flor de farinha amassada com óleo, à guisa de oblação: três décimos pelo touro, dois décimos pelo carneiro
+
+[[v4-29-4]]
+
+^<<v4-29-4,4>>^ e um décimo para cada um dos sete cordeiros.
+
+[[v4-29-5]]
+
+^<<v4-29-5,5>>^ Além disso, um bode, em sacrifício pelo pecado, para fazer a expiação por vós.
+
+[[v4-29-6]]
+
+^<<v4-29-6,6>>^ Tudo isso, sem prejuízo do holocausto do mês e sua oblação, do holocausto perpétuo e sua oblação, e das libações que devem acompanhar regularmente esses sacrifícios. Esses serão sacrifícios pelo fogo, de agradável odor ao Senhor.
+
+[[v4-29-7]]
+
+^<<v4-29-7,7>>^ No dia dez desse sétimo mês, tereis uma santa assembleia, um jejum e a suspensão de todo o trabalho servil.
+
+[[v4-29-8]]
+
+^<<v4-29-8,8>>^ Oferecereis em holocausto de suave odor ao Senhor, um novilho, um carneiro e sete cordeiros de um ano sem defeito,
+
+[[v4-29-9]]
+
+^<<v4-29-9,9>>^ com flor de farinha amassada com óleo, à guisa de oblação: três décimos para o touro, dois décimos para o carneiro
+
+[[v4-29-10]]
+
+^<<v4-29-10,10>>^ e um décimo para cada um dos sete cordeiros.
+
+[[v4-29-11]]
+
+^<<v4-29-11,11>>^ Além disso, um bode, em sacrifício pelo pecado, sem prejuízo do sacrifício para as expiações, do holocausto perpétuo com sua oblação, nem de suas libações.
+
+[[v4-29-12]]
+
+^<<v4-29-12,12>>^ No dia quinze do sétimo mês, tereis uma santa assembleia com a suspensão de toda obra servil. Celebrareis uma festa em honra do Senhor durante sete dias.
+
+[[v4-29-13]]
+
+^<<v4-29-13,13>>^ Oferecereis em holocausto, em sacrifício de agradável odor ao Senhor: treze novilhos, dois carneiros e catorze cordeiros de um ano sem defeito,
+
+[[v4-29-14]]
+
+^<<v4-29-14,14>>^ com flor de farinha amassada com óleo, à guisa de oblação: três décimos por touro, dois décimos por carneiro
+
+[[v4-29-15]]
+
+^<<v4-29-15,15>>^ e um décimo para cada um dos catorze cordeiros.
+
+[[v4-29-16]]
+
+^<<v4-29-16,16>>^ Além disso, um bode, em sacrifício pelo pecado, sem prejuízo do holocausto perpétuo, com sua oblação e sua libação.
+
+[[v4-29-17]]
+
+^<<v4-29-17,17>>^ No segundo dia, oferecereis doze novilhos, dois carneiros e catorze cordeiros de um ano sem defeito,
+
+[[v4-29-18]]
+
+^<<v4-29-18,18>>^ com a oblação e as libações pelos touros, carneiros e cordeiros, proporcionalmente ao seu número, segundo a regra.
+
+[[v4-29-19]]
+
+^<<v4-29-19,19>>^ Além disso, um bode em sacrifício pelo pecado, sem prejuízo do holocausto perpétuo, com sua oblação e sua libação.
+
+[[v4-29-20]]
+
+^<<v4-29-20,20>>^ No terceiro dia, oferecereis onze novilhos, dois carneiros e catorze cordeiros de um ano sem defeito,
+
+[[v4-29-21]]
+
+^<<v4-29-21,21>>^ com a oblação e as libações pelos touros, carneiros e cordeiros, proporcionalmente ao seu número, segundo a regra.
+
+[[v4-29-22]]
+
+^<<v4-29-22,22>>^ Além disso, um bode, em sacrifício pelo pecado, sem prejuízo do holocausto perpétuo, com sua oblação e sua libação.
+
+[[v4-29-23]]
+
+^<<v4-29-23,23>>^ No quarto dia, oferecereis dez novilhos, dois carneiros e catorze cordeiros de um ano sem defeito,
+
+[[v4-29-24]]
+
+^<<v4-29-24,24>>^ com a oblação e as libações pelos touros, carneiros e cordeiros, proporcionalmente ao seu número, segundo a regra.
+
+[[v4-29-25]]
+
+^<<v4-29-25,25>>^ Além disso, um bode em sacrifício pelo pecado, sem prejuízo do holocausto perpétuo, com sua oblação e sua libação.
+
+[[v4-29-26]]
+
+^<<v4-29-26,26>>^ No quinto dia, oferecereis nove novilhos, dois carneiros e catorze cordeiros de um ano sem defeito,
+
+[[v4-29-27]]
+
+^<<v4-29-27,27>>^ com a oblação e as libações pelos touros, carneiros e cordeiros, proporcionalmente ao seu número, segundo a regra.
+
+[[v4-29-28]]
+
+^<<v4-29-28,28>>^ Além disso, um bode em sacrifício pelo pecado, sem prejuízo do holocausto perpétuo, com sua oblação e sua libação.
+
+[[v4-29-29]]
+
+^<<v4-29-29,29>>^ No sexto dia, oferecereis oito novilhos, dois carneiros e catorze cordeiros de um ano sem defeito,
+
+[[v4-29-30]]
+
+^<<v4-29-30,30>>^ com a oblação e as libações pelos touros, carneiros e cordeiros, proporcionalmente ao seu número, segundo a regra.
+
+[[v4-29-31]]
+
+^<<v4-29-31,31>>^ Além disso, um bode, em sacrifício pelo pecado, sem prejuízo do holocausto perpétuo, com sua oblação e sua libação.
+
+[[v4-29-32]]
+
+^<<v4-29-32,32>>^ No sétimo dia, oferecereis sete novilhos, dois carneiros e catorze cordeiros de um ano sem defeito,
+
+[[v4-29-33]]
+
+^<<v4-29-33,33>>^ com a oblação e as libações pelos touros, carneiros e cordeiros, proporcionalmente ao seu número, segundo a regra.
+
+[[v4-29-34]]
+
+^<<v4-29-34,34>>^ Além disso, um bode em sacrifício pelo pecado, sem prejuízo do holocausto perpétuo, com sua oblação e sua libação.
+
+[[v4-29-35]]
+
+^<<v4-29-35,35>>^ No oitavo dia, tereis uma solene assembleia e a cessação de todo o trabalho servil.
+
+[[v4-29-36]]
+
+^<<v4-29-36,36>>^ Oferecereis em holocausto, em sacrifício consumido pelo fogo, de suave odor ao Senhor: um touro, um carneiro e sete cordeiros de um ano sem defeito,
+
+[[v4-29-37]]
+
+^<<v4-29-37,37>>^ com a oblação e as libações pelo touro, pelo carneiro e pelos cordeiros, proporcionalmente ao seu número, segundo a regra.
+
+[[v4-29-38]]
+
+^<<v4-29-38,38>>^ Além disso, um bode, em sacrifício pelo pecado, sem prejuízo do holocausto perpétuo, com sua oblação e sua libação.
+
+[[v4-29-39]]
+
+^<<v4-29-39,39>>^ Tais são os sacrifícios que oferecereis ao Senhor em vossas solenidades, além de vossos votos e vossas ofertas espontâneas: holocaustos, oblações, libações e sacrifícios pacíficos.”
+
+'''
+
+xref:004-numeros/004-numeros-028.adoc#v4-28-0[&#60; Capítulo Anterior] | <<v4-29-0,Topo>> | xref:004-numeros/004-numeros-030.adoc#v4-30-0[Próximo Capítulo &#62;]

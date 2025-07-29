@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v11-19-0]]
+=== I Reis, 19
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 1 Reis 19 narra a história de Elias depois de ter fugido para o deserto, cansado e com medo da rainha Jezabel, que queria matá-lo. Nesse capítulo, Elias tem uma experiência com Deus, ouvindo a sua voz em um "sussurro suave". Além disso, Deus instrui Elias a ungir um novo rei para Israel e um novo profeta para sucedê-lo. Seguem abaixo cinco versículos relacionados aos temas abordados em 1 Reis 19:
+* Salmos 46:10: "Aquietai-vos, e sabei que eu sou Deus; serei exaltado entre os gentios; serei exaltado sobre a terra." Assim como Elias ouviu a voz de Deus em um sussurro suave, este versículo nos fala sobre a importância de nos aquietarmos para ouvir a Deus, lembrando-nos que Ele é Deus e está no controle de todas as coisas.
+* Mateus 11:28-30: "Vinde a mim, todos os que estai cansados e oprimidos, e eu vos aliviarei. Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração, e encontrareis descanso para as vossas almas. Porque o meu jugo é suave, e o meu fardo é leve." Assim como Elias estava cansado e oprimido, este versículo nos mostra que podemos encontrar descanso em Jesus, que é manso e humilde de coração.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo nos lembra que, assim como Deus encorajou Elias em sua fraqueza, Ele também nos fortalece, ajuda e sustenta.
+* 2 Timóteo 1:7: "Porque Deus não nos deu o espírito de covardia, mas de poder, de amor e de moderação." Elias pode ter se sentido covarde e com medo, mas este versículo nos mostra que Deus nos deu um espírito de poder e amor, e que podemos ser corajosos através de Sua força.
+* 2 Reis 2:9: "E sucedeu que, havendo eles passado, Elias disse a Eliseu: Pede-me o que queres que te faça, antes que seja tomado de ti. E disse Eliseu: Peço-te que haja porção dobrada de teu espírito sobre mim." Este versículo mostra como Deus estava preparando Eliseu para suceder Elias como profeta em Israel.
+****
+
+[[v11-19-1]]
+
+^<<v11-19-1,1>>^ Quando Acab contou a Jezabel tudo o que fizera Elias e como ele passara a fio de espada todos os profetas de Baal,
+
+[[v11-19-2]]
+
+^<<v11-19-2,2>>^ a rainha mandou um mensageiro a Elias para dizer-lhe: “Que os deuses me tratem com o último rigor, se amanhã, a esta mesma hora, eu não fizer de tua vida o que fizeste da deles”.
+
+[[v11-19-3]]
+
+^<<v11-19-3,3>>^ Elias teve medo e partiu, a fim de salvar a sua vida. Chegando a Bersabeia, em Judá, deixou ali o seu servo,
+
+[[v11-19-4]]
+
+^<<v11-19-4,4>>^ e caminhou pelo deserto, durante um dia. Sentou-se debaixo de um junípero e desejou a morte: “Basta, Senhor – disse ele –, tirai-me a vida, porque não sou melhor do que meus pais”.
+
+[[v11-19-5]]
+
+^<<v11-19-5,5>>^ Deitou-se por terra e adormeceu debaixo do junípero. Mas eis que um anjo tocou-o e disse: “Levanta-te e come”.
+
+[[v11-19-6]]
+
+^<<v11-19-6,6>>^ Elias olhou e viu junto à sua cabeça um pão cozido debaixo da cinza e um vaso de água. Comeu, bebeu e tornou a dormir.
+
+[[v11-19-7]]
+
+^<<v11-19-7,7>>^ O anjo do Senhor o tocou uma segunda vez, dizendo: “Levanta-te e come, porque tens um longo caminho a percorrer”.
+
+[[v11-19-8]]
+
+^<<v11-19-8,8>>^ Elias levantou-se, comeu e bebeu; e com o vigor daquela comida andou quarenta dias e quarenta noites, até Horeb, a montanha de Deus.
+
+[[v11-19-9]]
+
+^<<v11-19-9,9>>^ Chegando lá, passou a noite numa caverna. Então, a palavra do Senhor foi-lhe dirigida: “Que fazes aqui, Elias?”.
+
+[[v11-19-10]]
+
+^<<v11-19-10,10>>^ Ele respondeu: “Estou devorado de zelo pelo Senhor, o Deus dos exércitos. Porque os israelitas abandonaram a vossa aliança, derrubaram os vossos altares e passaram os vossos profetas a fio de espada. Só eu fiquei e querem tirar-me a vida”.
+
+[[v11-19-11]]
+
+^<<v11-19-11,11>>^ O Senhor disse-lhe: “Sai e conserva-te em cima do monte, na presença do Senhor! Ele vai passar”. Nesse momento, passou diante do Senhor um furacão, tão violento que fendia as montanhas e quebrava os rochedos, mas o Senhor não estava naquele vento. Depois do vento, a terra tremeu, mas o Senhor não estava no tremor de terra.
+
+[[v11-19-12]]
+
+^<<v11-19-12,12>>^ Passado o tremor de terra, acendeu-se um fogo, mas o Senhor não estava no fogo. Depois do fogo, ouviu-se o murmúrio de uma brisa ligeira.
+
+[[v11-19-13]]
+
+^<<v11-19-13,13>>^ Tendo Elias ouvido isso, cobriu o rosto com o manto, saiu e pôs-se à entrada da caverna. Uma voz disse-lhe: “Que fazes aqui, Elias?”.
+
+[[v11-19-14]]
+
+^<<v11-19-14,14>>^ Ele respondeu: “Consumo-me de zelo pelo Senhor, Deus dos exércitos. Porque os israelitas abandonaram a vossa aliança, derrubaram os vossos altares e passaram os vossos profetas a fio de espada. Só eu fiquei e agora querem tirar-me a vida”.
+
+[[v11-19-15]]
+
+^<<v11-19-15,15>>^ O Senhor disse-lhe: “Retoma o caminho do deserto, na direção de Damasco. Ali chegando, ungirás Hazael como rei da Síria,
+
+[[v11-19-16]]
+
+^<<v11-19-16,16>>^ Jeú, filho de Namsi, como rei de Israel e Eliseu, filho de Safat, de Abel-Meúla, como profeta em teu lugar.
+
+[[v11-19-17]]
+
+^<<v11-19-17,17>>^ Todo o que escapar à espada de Hazael será morto por Jeú e o que escapar à de Jeú será morto por Eliseu.
+
+[[v11-19-18]]
+
+^<<v11-19-18,18>>^ Mas reservarei em Israel sete mil homens que não dobraram os joelhos diante de Baal e cujos lábios não o beijaram”.^&#42;1^
+
+[[v11-19-19]]
+
+^<<v11-19-19,19>>^ Elias, partindo dali, encontrou Eliseu, filho de Safat, lavrando com doze juntas de bois diante dele; ele mesmo conduzia a duodécima junta. Elias aproximou-se e jogou o seu manto sobre ele.
+
+[[v11-19-20]]
+
+^<<v11-19-20,20>>^ Eliseu, deixando imediatamente os seus bois, correu atrás de Elias e disse: “Deixa-me ir beijar meu pai e minha mãe depois te seguirei”. “Vai – disse-lhe Elias –, mas volta, porque sabes o que te fiz”.
+
+[[v11-19-21]]
+
+^<<v11-19-21,21>>^ Eliseu, deixando Elias, tomou uma junta de bois e imolou-os. Com a lenha do arado cozeu as carnes e deu-as a comer à sua gente. Em seguida, partiu e seguiu Elias, pondo-se a seu serviço.
+
+'''
+
+xref:011-i-reis/011-i-reis-018.adoc#v11-18-0[&#60; Capítulo Anterior] | <<v11-19-0,Topo>> | xref:011-i-reis/011-i-reis-020.adoc#v11-20-0[Próximo Capítulo &#62;]

@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v23-2-0]]
+=== II Macabeus, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 2 de 2 Macabeus trata da tradição dos livros sagrados e da preservação das relíquias sagradas do Templo de Jerusalém. É relatada a história de como o profeta Jeremias escondeu a Arca da Aliança e outros objetos sagrados antes da destruição do Templo pelos babilônios. Além disso, é mencionada a existência de outros livros sagrados além da Torá. Abaixo estão cinco versículos relacionados com os temas abordados nesse capítulo:
+* Êxodo 25:10: "Farão uma arca de madeira de acácia; o seu comprimento será de dois côvados e meio, a sua largura de um côvado e meio, e a sua altura de um côvado e meio." Esse versículo faz parte das instruções dadas por Deus a Moisés para a construção da Arca da Aliança, um dos objetos sagrados mencionados em 2 Macabeus 2.
+* Deuteronômio 31:26: "Tomai este livro da lei, e ponde-o ao lado da arca da aliança do Senhor vosso Deus, para que ali esteja por testemunha contra ti." Esse versículo faz parte das instruções dadas por Moisés ao povo de Israel para que a Lei fosse lida diante de todo o povo a cada sete anos e que o livro da Lei fosse colocado ao lado da Arca da Aliança como um testemunho contra o povo caso este se desviasse dos mandamentos de Deus.
+* Josué 3:3: "Deram ordem ao povo, dizendo: Quando virdes a arca da aliança do Senhor vosso Deus, e que os sacerdotes levitas a levam, então vos poreis em marcha do vosso lugar e seguireis." Esse versículo descreve como o povo de Israel seguia a Arca da Aliança em suas jornadas, mostrando a importância que este objeto sagrado tinha para o povo.
+* 1 Reis 8:9: "Na arca nada havia senão as duas tábuas de pedra que Moisés ali pusera junto a Horebe, onde o Senhor fizera aliança com os filhos de Israel, quando saíram da terra do Egito." Esse versículo se refere ao momento em que a Arca da Aliança foi colocada no Templo de Jerusalém pelo rei Salomão. Ele destaca a importância das tábuas da Lei que estavam dentro da Arca.
+* Eclesiástico 24:23: "Todas estas coisas são o livro da aliança do Altíssimo Deus, a Lei que Moisés nos prescreveu, a herança das congregações de Jacó." Esse versículo se refere à existência de outros livros sagrados além da Torá e destaca a importância de todos eles como uma herança sagrada para o povo de Israel.
+****
+
+[[v23-2-1]]
+
+^<<v23-2-1,1>>^ Acha-se escrito nos documentos relativos ao profeta Jeremias, que foi ele quem ordenou aos cativos tomar o fogo, como se acaba de contar,
+
+[[v23-2-2]]
+
+^<<v23-2-2,2>>^ e que o profeta, dando-lhes um exemplar da Lei, recomendou-lhes não esquecerem os mandamentos do Senhor. E não se deixarem seduzir à vista dos ídolos de ouro e de prata, ou dos ornamentos dos quais estavam ornados.
+
+[[v23-2-3]]
+
+^<<v23-2-3,3>>^ Conjurou-os, entre outros avisos, a não afastarem a Lei de seu coração.
+
+[[v23-2-4]]
+
+^<<v23-2-4,4>>^ O escrito mencionava também como o profeta, pela fé da revelação, havia desejado fazer-se acompanhar pela arca e pelo tabernáculo, quando se dirigisse à montanha que subiu Moisés para contemplar a herança de Deus.^&#42;1^
+
+[[v23-2-5]]
+
+^<<v23-2-5,5>>^ No momento em que chegou, descobriu uma vasta caverna, na qual mandou depositar a arca, o tabernáculo e o altar dos perfumes. Em seguida, tapou a entrada.
+
+[[v23-2-6]]
+
+^<<v23-2-6,6>>^ Alguns daqueles que o haviam acompanhado voltaram para marcar o caminho com sinais, mas não puderam achá-lo.
+
+[[v23-2-7]]
+
+^<<v23-2-7,7>>^ Quando Jeremias soube, repreendeu-os e disse-lhes que esse lugar ficaria desconhecido, até que Deus reunisse seu povo e usasse com ele de misericórdia.^&#42;1^
+
+[[v23-2-8]]
+
+^<<v23-2-8,8>>^ Então, revelará o Senhor o que ele encerra e aparecerá a glória do Senhor como uma densa nuvem, semelhante à que apareceu no tempo de Moisés e quando Salomão rezou para que o templo recebesse uma consagração magnífica.
+
+[[v23-2-9]]
+
+^<<v23-2-9,9>>^ Estava também relatado como esse sábio ofereceu o sacrifício da dedicação e da conclusão do santuário,
+
+[[v23-2-10]]
+
+^<<v23-2-10,10>>^ como também, à semelhança de Moisés que orou ao Senhor e obteve que o fogo do céu descesse e consumisse as ofertas, assim também Salomão pôs-se a rezar e o fogo desceu do alto para queimar os holocaustos.
+
+[[v23-2-11]]
+
+^<<v23-2-11,11>>^ Moisés disse: “Por não ter sido comido, o sacrifício pelo pecado foi consumido”.
+
+[[v23-2-12]]
+
+^<<v23-2-12,12>>^ Também Salomão prolongou por oito dias a dedicação.
+
+[[v23-2-13]]
+
+^<<v23-2-13,13>>^ Nas relações e nas memórias do tempo de Neemias, contavam-se os mesmos feitos e como também ele formou uma biblioteca, reunindo tudo o que se referia aos reis e aos profetas, os escritos de Davi e as cartas dos reis a respeito das oferendas.
+
+[[v23-2-14]]
+
+^<<v23-2-14,14>>^ Do mesmo modo, Judas reuniu todos os livros espalhados pelas guerras que nos sobrevieram, e essa coleção se encontra em nosso poder.
+
+[[v23-2-15]]
+
+^<<v23-2-15,15>>^ Por conseguinte, se tendes necessidade de um desses livros enviai-nos mensageiros que vo-los levarão.
+
+[[v23-2-16]]
+
+^<<v23-2-16,16>>^ Vamos, pois, celebrar a purificação do templo, e é por isso que vos escrevemos. Seria bom que também celebrásseis essas festas.
+
+[[v23-2-17]]
+
+^<<v23-2-17,17>>^ Foi Deus quem salvou todo o seu povo e restituiu a todos a herança, o reino, o sacerdócio e a santificação,
+
+[[v23-2-18]]
+
+^<<v23-2-18,18>>^ como havia prometido pela Lei. Este Deus, em quem esperamos, sem dúvida terá logo piedade de nós e de toda a terra, nos reunirá no solo sagrado. Pois já nos livrou de grandes males e purificou o templo.
+
+[[v23-2-19]]
+
+^<<v23-2-19,19>>^ Os acontecimentos efetuados no tempo de Judas Macabeu e de seus irmãos, a purificação do augusto templo e a dedicação do altar,
+
+[[v23-2-20]]
+
+^<<v23-2-20,20>>^ como também as guerras sustentadas contra Antíoco Epífanes e seu filho Eupátor,
+
+[[v23-2-21]]
+
+^<<v23-2-21,21>>^ as manifestações celestes sobrevindas em favor dos bravos, que lutaram corajosamente em defesa do judaísmo e que, apesar de seu número reduzido, se tornaram senhores de todo o país, puseram em fuga as hordas bárbaras,
+
+[[v23-2-22]]
+
+^<<v23-2-22,22>>^ recobraram a posse do templo famoso em todo o universo, livraram a cidade e restabeleceram as leis em via de abolição, tudo isso, graças ao Senhor que lhes foi misericordioso;
+
+[[v23-2-23]]
+
+^<<v23-2-23,23>>^ eis o que Jasão de Cirene narra em cinco livros, que tentaremos resumir em um só.
+
+[[v23-2-24]]
+
+^<<v23-2-24,24>>^ Considerando a multidão das letras e a dificuldade que em vista da abundância dos assuntos experimentam aqueles que desejam penetrar no estudo das narrativas históricas,
+
+[[v23-2-25]]
+
+^<<v23-2-25,25>>^ temo-nos preocupado em agradar aos que apenas desejam lê-las, em facilitar aos que procuram retê-las e em ser úteis a todos em geral.
+
+[[v23-2-26]]
+
+^<<v23-2-26,26>>^ Para nós, que empreendemos este árduo trabalho de resumir, não é coisa fácil, mas uma questão de suor e vigílias.
+
+[[v23-2-27]]
+
+^<<v23-2-27,27>>^ No entanto, como aquele que prepara um festim e procura satisfazer aos outros, assume uma tarefa penosa, assim nós, de boa vontade, tomamos a nós este trabalho, para obter a gratidão de muitos.
+
+[[v23-2-28]]
+
+^<<v23-2-28,28>>^ E deixando para o autor o cuidado de tratar cada assunto em seus detalhes, nós nos esforçamos em expô-los com auxílio de fórmulas resumidas.
+
+[[v23-2-29]]
+
+^<<v23-2-29,29>>^ Assim como para uma casa nova cabe ao arquiteto preocupar-se com o conjunto da construção, enquanto aquele que está encarregado dos afrescos e das pinturas só se ocupa com a decoração. Assim, me parece, é o que cabe a nós.
+
+[[v23-2-30]]
+
+^<<v23-2-30,30>>^ Ao autor de uma história toca aprofundar tudo, dissertar sobre tudo, procurar todos os detalhes.
+
+[[v23-2-31]]
+
+^<<v23-2-31,31>>^ Mas o que resume deve, ao contrário, procurar condensar a narrativa e evitar a minúcia na exposição dos fatos.
+
+[[v23-2-32]]
+
+^<<v23-2-32,32>>^ Agora, após tão longos prolegômenos, comecemos nossa relação, porque seria absurdo ser prolixo antes da história e breve na própria história.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-001.adoc#v23-1-0[&#60; Capítulo Anterior] | <<v23-2-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-003.adoc#v23-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v1-11-0]]
+=== Gênesis, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gênesis 11 apresenta a história da Torre de Babel, onde os descendentes de Noé, ainda unidos em uma só língua, decidem construir uma torre que chegasse aos céus. Deus, porém, confunde as línguas dos construtores e dispersa-os pela terra. Os versículos relacionados com os temas abordados nesse capítulo são:
+* Salmos 2:4 - "Aquele que está sentado nos céus ri; o Senhor zomba deles." Este versículo mostra a soberania de Deus sobre os homens, que muitas vezes tentam desafiar a sua autoridade e sabedoria, como no caso da Torre de Babel.
+* Provérbios 21:30 - "Não há sabedoria, nem entendimento, nem conselho contra o Senhor." Isso destaca a inutilidade da tentativa dos homens de construírem algo que desafie a Deus e sua vontade.
+* Atos 2:5-11 - Este trecho descreve o momento em que o Espírito Santo desce sobre os discípulos de Jesus, permitindo-lhes falar em línguas que eram entendidas pelos judeus de várias partes do mundo. Isso é uma reversão do que aconteceu na Torre de Babel, quando Deus confundiu as línguas para dispersar as pessoas.
+* Apocalipse 7:9 - "Depois destas coisas olhei, e eis uma multidão, a qual ninguém podia contar, de todas as nações, tribos, povos e línguas, que estavam em pé diante do trono e diante do Cordeiro, trajando vestes brancas e com palmas nas mãos." Este versículo mostra a restauração da unidade entre as nações e línguas, que foram divididas na Torre de Babel.
+* 1 Coríntios 14:10 - "Há, por exemplo, muitos tipos diferentes de vozes no mundo, e nenhuma delas é sem significado." Este versículo fala sobre a importância da comunicação e da compreensão entre as pessoas, mesmo que falem línguas diferentes. Isso é uma lição que pode ser aprendida a partir da história da Torre de Babel.
+****
+
+[[v1-11-1]]
+
+^<<v1-11-1,1>>^ Toda a terra tinha uma só língua, e servia-se das mesmas palavras.
+
+[[v1-11-2]]
+
+^<<v1-11-2,2>>^ Alguns homens, partindo para o oriente, encontraram na terra de Senaar uma planície onde se estabeleceram.
+
+[[v1-11-3]]
+
+^<<v1-11-3,3>>^ E disseram uns aos outros: “Vamos, façamos tijolos e cozamo-los no fogo”. Serviram-se de tijolos em vez de pedras, e de betume em lugar de argamassa.
+
+[[v1-11-4]]
+
+^<<v1-11-4,4>>^ Depois disseram: “Vamos, façamos para nós uma cidade e uma torre cujo cimo atinja os céus. Tornemos assim célebre o nosso nome, para que não sejamos dispersos pela face de toda a terra”.
+
+[[v1-11-5]]
+
+^<<v1-11-5,5>>^ Mas o Senhor desceu para ver a cidade e a torre que construíram os filhos dos homens.
+
+[[v1-11-6]]
+
+^<<v1-11-6,6>>^ “Eis que são um só povo – disse ele – e falam uma só língua: se começam assim, nada futuramente os impedirá de executarem todos os seus empreendimentos.
+
+[[v1-11-7]]
+
+^<<v1-11-7,7>>^ Vamos: desçamos para lhes confundir a linguagem, de sorte que já não se compreendam um ao outro.”
+
+[[v1-11-8]]
+
+^<<v1-11-8,8>>^ Foi dali que o Senhor os dispersou daquele lugar pela face de toda a terra, e cessaram a construção da cidade.
+
+[[v1-11-9]]
+
+^<<v1-11-9,9>>^ Por isso, deram-lhe o nome de Babel, porque ali o Senhor confundiu a linguagem de todos os habitantes da terra, e dali os dispersou sobre a face de toda a terra.^&#42;1^
+
+[[v1-11-10]]
+
+^<<v1-11-10,10>>^ Eis a descendência de Sem: Sem, com a idade de cem anos, gerou Arfaxad, dois anos depois do dilúvio.
+
+[[v1-11-11]]
+
+^<<v1-11-11,11>>^ Depois do nascimento de Arfaxad, Sem viveu ainda quinhentos anos, e gerou filhos e filhas.
+
+[[v1-11-12]]
+
+^<<v1-11-12,12>>^ Arfaxad, com a idade de trinta e cinco anos, gerou Salé.
+
+[[v1-11-13]]
+
+^<<v1-11-13,13>>^ Após o nascimento de Salé, Arfaxad viveu ainda quatrocentos anos, e gerou filhos e filhas.
+
+[[v1-11-14]]
+
+^<<v1-11-14,14>>^ Salé, com a idade de trinta anos, gerou Héber.
+
+[[v1-11-15]]
+
+^<<v1-11-15,15>>^ Após o nascimento de Héber, Salé viveu ainda quatrocentos anos, e gerou filhos e filhas.
+
+[[v1-11-16]]
+
+^<<v1-11-16,16>>^ Héber, com a idade de trinta e quatro anos, gerou Faleg.
+
+[[v1-11-17]]
+
+^<<v1-11-17,17>>^ Após o nascimento de Faleg, Héber viveu ainda quatrocentos anos, e gerou filhos e filhas.
+
+[[v1-11-18]]
+
+^<<v1-11-18,18>>^ Faleg, com a idade de trinta anos, gerou Reu.
+
+[[v1-11-19]]
+
+^<<v1-11-19,19>>^ Após o nascimento de Reu, Faleg viveu ainda duzentos e nove anos, e gerou filhos e filhas.
+
+[[v1-11-20]]
+
+^<<v1-11-20,20>>^ Reu, com a idade de trinta e dois anos, gerou Sarug.
+
+[[v1-11-21]]
+
+^<<v1-11-21,21>>^ Após o nascimento de Sarug, Reu viveu ainda duzentos e sete anos, e gerou filhos e filhas.
+
+[[v1-11-22]]
+
+^<<v1-11-22,22>>^ Sarug, com a idade de trinta anos, gerou Nacor.
+
+[[v1-11-23]]
+
+^<<v1-11-23,23>>^ Após o nascimento de Nacor, Sarug viveu ainda duzentos anos, e gerou filhos e filhas.
+
+[[v1-11-24]]
+
+^<<v1-11-24,24>>^ Nacor, com a idade de vinte e nove anos, gerou Taré.
+
+[[v1-11-25]]
+
+^<<v1-11-25,25>>^ Após o nascimento de Taré, Nacor viveu ainda cento e dezenove anos, e gerou filhos e filhas.
+
+[[v1-11-26]]
+
+^<<v1-11-26,26>>^ Taré, com a idade de setenta anos, gerou Abrão, Nacor e Aram.
+
+[[v1-11-27]]
+
+^<<v1-11-27,27>>^ Eis a descendência de Taré: Taré gerou Abrão, Nacor e Aram.
+
+[[v1-11-28]]
+
+^<<v1-11-28,28>>^ Aram gerou Ló. Aram morreu em presença de Taré, seu pai, em Ur da Caldeia, sua terra natal.
+
+[[v1-11-29]]
+
+^<<v1-11-29,29>>^ Abrão e Nacor casaram-se: a mulher de Abrão chamava-se Sarai, e a de Nacor, Melca, filha de Aram, pai de Melca e de Jesca.
+
+[[v1-11-30]]
+
+^<<v1-11-30,30>>^ Sarai era estéril, e não tinha filhos.
+
+[[v1-11-31]]
+
+^<<v1-11-31,31>>^ Taré tomou seu filho Abrão, seu neto Ló, filho de Aram, e Sarai, sua nora, mulher de Abrão, seu filho, e partiu com eles de Ur da Caldeia, indo para a terra de Canaã. Chegados a Harã, estabeleceram-se ali.
+
+[[v1-11-32]]
+
+^<<v1-11-32,32>>^ Todo o tempo da vida de Taré foi de duzentos e cinco anos; e morreu em Harã.
+
+'''
+
+xref:001-genesis/001-genesis-010.adoc#v1-10-0[&#60; Capítulo Anterior] | <<v1-11-0,Topo>> | xref:001-genesis/001-genesis-012.adoc#v1-12-0[Próximo Capítulo &#62;]

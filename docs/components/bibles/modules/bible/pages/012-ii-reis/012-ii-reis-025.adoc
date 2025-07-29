@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v12-25-0]]
+=== II Reis, 25
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 25 de 2 Reis narra a queda final de Jerusalém e a destruição do Templo pelos babilônios. O rei Zedequias foi capturado e levado a Nabucodonosor, que ordenou a execução de seus filhos diante dele. A cidade de Jerusalém foi completamente destruída e seus habitantes foram levados cativos para Babilônia. Aqui estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Jeremias 52:13: "E queimou a casa do Senhor, e a casa do rei, como também todas as casas de Jerusalém; todas as casas importantes ele as queimou." Este versículo confirma a destruição completa de Jerusalém e do Templo pelo exército babilônico.
+* Jeremias 52:17: "Mas a guarda dos caldeus quebraram as colunas de bronze que estavam na casa do Senhor, e as bases, e o mar de bronze que estava na casa do Senhor, e levaram todo o bronze para Babilônia." Este versículo detalha a pilhagem da Casa do Senhor pelos babilônios.
+* 2 Reis 25:11: "Então o rei de Babilônia deportou o povo para Babilônia, e eles se tornaram seus escravos até o dia de hoje." Este versículo relata que os judeus foram levados cativos para Babilônia como resultado da destruição de Jerusalém.
+* Jeremias 52:27: "E Jeoiaquim removeu as suas roupas de prisioneiro e comeu regularmente na presença do rei de Babilônia todos os dias de sua vida." Este versículo se refere a Jeoaquim, que foi libertado da prisão pelo rei babilônico Evil-Merodaque e recebeu um tratamento privilegiado pelo resto de sua vida.
+* Jeremias 52:31-34: "No trigésimo sétimo ano do exílio de Joaquim, rei de Judá, no dia vinte e cinco do décimo segundo mês, Evil-Merodaque, rei da Babilônia, emitiu uma ordem em favor de Joaquim e o libertou da prisão. Ele falou gentilmente com Joaquim e deu-lhe um lugar acima dos outros reis que estavam com ele em Babilônia. Então Joaquim tirou suas roupas de prisioneiro e comeu na presença do rei de Babilônia todos os dias de sua vida. E seu sustento diário foi fornecido pelo rei de Babilônia, até o dia de sua morte, por todos os dias de sua vida." Estes versículos contam como o rei Joaquim foi libertado da prisão e teve um tratamento privilegiado pelo rei babilônico Evil-Merodaque até sua morte.
+****
+
+[[v12-25-1]]
+
+^<<v12-25-1,1>>^ No nono ano de seu reinado, no décimo dia do décimo mês, Nabucodonosor veio com todo o seu exército contra Jerusalém. Levantou seu acampamento diante da cidade e fez aterros ao redor dela.
+
+[[v12-25-2]]
+
+^<<v12-25-2,2>>^ O cerco da cidade durou até o décimo primeiro ano do reinado de Sedecias.
+
+[[v12-25-3]]
+
+^<<v12-25-3,3>>^ No nono dia do (quarto) mês, como a cidade se visse apertada pela fome e a população não tivesse mais o que comer,^&#42;1^
+
+[[v12-25-4]]
+
+^<<v12-25-4,4>>^ fizeram uma brecha na muralha da cidade e todos os homens de guerra fugiram de noite pelo caminho da porta que está entre os dois muros, junto do jardim do rei. Entretanto, os caldeus cercavam a cidade. Os fugitivos tomaram o caminho da planície do Jordão,
+
+[[v12-25-5]]
+
+^<<v12-25-5,5>>^ mas o exército dos caldeus perseguiu o rei e alcançou-o nas planícies de Jericó. Então, as tropas de Sedecias o abandonaram e se dispersaram.
+
+[[v12-25-6]]
+
+^<<v12-25-6,6>>^ O rei foi preso e conduzido a Rebla, diante do rei da Babilônia, o qual pronunciou sentença contra ele.
+
+[[v12-25-7]]
+
+^<<v12-25-7,7>>^ Degolou na presença de Sedecias os seus filhos, furou-lhe os olhos e o levou para Babilônia ligado com duas correntes de bronze.
+
+[[v12-25-8]]
+
+^<<v12-25-8,8>>^ No sétimo dia do quinto mês, no décimo nono ano do reinado de Nabucodonosor, rei da Babilônia, Nabuzardã, chefe da guarda e servo do rei da Babilônia, entrou em Jerusalém.
+
+[[v12-25-9]]
+
+^<<v12-25-9,9>>^ Incendiou o Templo do Senhor, o palácio real e todas as casas da cidade.
+
+[[v12-25-10]]
+
+^<<v12-25-10,10>>^ E as tropas que acompanhavam o chefe da guarda demoliram o muro que cercava Jerusalém.
+
+[[v12-25-11]]
+
+^<<v12-25-11,11>>^ Nabuzardã, chefe da guarda, deportou para Babilônia o que restava da população da cidade, os que já se tinham rendido ao rei da Babilônia e todo o povo que restava.
+
+[[v12-25-12]]
+
+^<<v12-25-12,12>>^ O chefe da guarda só deixou ali alguns pobres como vinhateiros e agricultores.
+
+[[v12-25-13]]
+
+^<<v12-25-13,13>>^ Os caldeus quebraram as colunas de bronze do Templo do Senhor, os pedestais e o mar de bronze que estavam no templo e levaram o metal para Babilônia.
+
+[[v12-25-14]]
+
+^<<v12-25-14,14>>^ Tomaram também os cinzeiros, as pás, as facas, os vasos e todos os objetos de bronze que se usavam no culto.
+
+[[v12-25-15]]
+
+^<<v12-25-15,15>>^ O chefe da guarda levou também os turíbulos e os vasos, tudo quanto era de ouro e tudo quanto era de prata.
+
+[[v12-25-16]]
+
+^<<v12-25-16,16>>^ Quanto às duas colunas, ao mar e aos pedestais que Salomão mandara fazer para o Templo do Senhor, não se poderia calcular o peso do bronze de todos esses objetos.
+
+[[v12-25-17]]
+
+^<<v12-25-17,17>>^ Uma das colunas tinha dezoito côvados de altura e sobre ela descansava um capitel de bronze de três côvados; em volta do capitel da coluna havia uma rede e romãs, tudo de bronze. A segunda coluna era semelhante, com sua rede.
+
+[[v12-25-18]]
+
+^<<v12-25-18,18>>^ O chefe da guarda prendeu também o sumo sacerdote Saraías, Sofonias, segundo sacerdote e os três porteiros.
+
+[[v12-25-19]]
+
+^<<v12-25-19,19>>^ Tomou na cidade um eunuco que era encarregado de comandar os homens de guerra, cinco homens do pessoal do rei que encontrou na cidade e o escriba, chefe do exército, encarregado do recrutamento na terra, assim como sessenta homens da terra, que foram encontrados na cidade.
+
+[[v12-25-20]]
+
+^<<v12-25-20,20>>^ Nabuzardã, chefe da guarda, prendeu-os e levou-os ao rei da Babilônia em Rebla,
+
+[[v12-25-21]]
+
+^<<v12-25-21,21>>^ e este mandou executá-los em Rebla, na terra de Emat. Assim, foi Judá deportado para longe de sua terra.
+
+[[v12-25-22]]
+
+^<<v12-25-22,22>>^ Quanto ao resto da população que Nabucodonosor tinha deixado na terra de Judá, ele a entregou ao governo de Godolias, filho de Aicam, filho de Safã.
+
+[[v12-25-23]]
+
+^<<v12-25-23,23>>^ Quando os chefes do exército e seus homens souberam que o rei da Babilônia tinha nomeado Godolias como governador, foram ter com ele em Masfa. Eram os seguintes: Ismael, filho de Natanias, Joanã, filho de Carea, Saraías, filho de Taneumet, de Netofa e Jezonias, filho de Macati, eles e os seus homens.^&#42;1^
+
+[[v12-25-24]]
+
+^<<v12-25-24,24>>^ Godolias declarou, sob juramento, a eles e aos seus homens: “Nada tendes a temer dos caldeus. Ficai na terra, submetei-vos ao rei da Babilônia e tudo vos correrá bem”.
+
+[[v12-25-25]]
+
+^<<v12-25-25,25>>^ Mas no sétimo mês, Ismael, filho de Natanias, filho de Elisama, de linhagem real, veio com dez homens e assassinaram Godolias, matando ao mesmo tempo os judeus e os caldeus que estavam com ele em Masfa.
+
+[[v12-25-26]]
+
+^<<v12-25-26,26>>^ Então todo o povo, desde o menor até o maior, como também os chefes das tropas, fugiram para o Egito com medo dos caldeus.
+
+[[v12-25-27]]
+
+^<<v12-25-27,27>>^ No trigésimo sétimo ano do cativeiro de Joaquin, rei de Judá, no vigésimo sétimo dia do décimo segundo mês, Evil-Merodac, rei da Babilônia, no primeiro ano de seu reinado, fez graça a Joaquin, rei de Judá e o pôs em liberdade.
+
+[[v12-25-28]]
+
+^<<v12-25-28,28>>^ Falou-lhe benignamente e deu-lhe um trono mais elevado que os dos reis que estavam com ele em Babilônia.
+
+[[v12-25-29]]
+
+^<<v12-25-29,29>>^ Mudou-lhe as vestes de prisioneiro e, até o fim de sua vida, Joaquin comeu à mesa do rei da Babilônia.
+
+[[v12-25-30]]
+
+^<<v12-25-30,30>>^ E o seu sustento diário foi assegurado pelo rei durante todo o tempo de sua vida.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-024.adoc#v12-24-0[&#60; Capítulo Anterior] | <<v12-25-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-001.adoc#v13-1-0[Próximo Capítulo &#62;]

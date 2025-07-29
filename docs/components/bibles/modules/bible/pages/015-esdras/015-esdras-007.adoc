@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v15-7-0]]
+=== Esdras, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em Esdras 7, o livro apresenta Esdras, um sacerdote e escriba que recebe uma comissão do rei persa para liderar um grupo de judeus de volta a Jerusalém e restaurar a adoração a Deus. Esdras é apresentado como um líder religioso e civil que é habilidoso na lei de Deus. Os versículos abaixo são relacionados aos temas de liderança, obediência à lei de Deus e a graça de Deus que permite a restauração.
+* Neemias 8:1-3: "Toda a congregação...pediu a Esdras, o escriba, que trouxesse o livro da lei de Moisés...E ele leu nele, diante da praça que está diante da porta das Águas, desde a alva até ao meio-dia, perante homens e mulheres, e os que podiam entender; e os ouvidos de todo o povo estavam atentos ao livro da lei." Esdras lidera a congregação de volta à Palavra de Deus, e eles se reúnem para ouvir a lei de Moisés sendo lida em voz alta.
+* Neemias 8:8: "Leram no livro, na lei de Deus, claramente, dando explicações, de maneira que entendessem o que se lia." Esdras e outros líderes explicam a Palavra de Deus para que o povo possa entendê-la e aplicá-la em suas vidas.
+* Salmos 103:10-11: "Não trata-nos segundo os nossos pecados, nem nos recompensa segundo as nossas iniquidades. Pois assim como o céu está elevado acima da terra, assim é grande a sua misericórdia para com os que o temem." A graça de Deus é um tema importante em Esdras 7, já que é a graça de Deus que permite que Esdras e os judeus retornem a Jerusalém e restaurem a adoração a Deus.
+* Tiago 1:22: "E sede cumpridores da palavra e não somente ouvintes, enganando-vos com falsos discursos." Esdras e o povo de Jerusalém são chamados a obedecer à Palavra de Deus e não apenas ouvi-la.
+* Neemias 8:9: "Não pranteieis, nem choreis; porque todo o povo chorava, ouvindo as palavras da lei." A Palavra de Deus traz convicção ao povo, e eles choram e se arrependem de seus pecados.
+****
+
+[[v15-7-1]]
+
+^<<v15-7-1,1>>^ Após esses acontecimentos, sob o reinado de Artaxerxes, rei da Pérsia, chegou Esdras, filho de Saraías, filho de Azarias, filho de Helcias,^&#42;1^
+
+[[v15-7-2]]
+
+^<<v15-7-2,2>>^ filho de Selum, filho de Sadoc, filho de Aquitob,
+
+[[v15-7-3]]
+
+^<<v15-7-3,3>>^ filho de Amarias, filho de Azarias, filho de Maraiot,
+
+[[v15-7-4]]
+
+^<<v15-7-4,4>>^ filho de Zaraías, filho de Ozi, filho de Boci,
+
+[[v15-7-5]]
+
+^<<v15-7-5,5>>^ filho de Abisue, filho de Fineias, filho de Eleazar, filho de Aarão, o sumo sacerdote.
+
+[[v15-7-6]]
+
+^<<v15-7-6,6>>^ Este Esdras vinha da Babilônia. Era um escriba versado na Lei de Moisés dada pelo Senhor, Deus de Israel. Como a mão do Senhor, seu Deus, repousasse sobre ele, o rei concedeu-lhe tudo o que pediu.
+
+[[v15-7-7]]
+
+^<<v15-7-7,7>>^ Com ele, vários israelitas, sacerdotes e levitas, cantores, porteiros e natineus, voltaram para Jerusalém, no sétimo ano do rei Artaxerxes.
+
+[[v15-7-8]]
+
+^<<v15-7-8,8>>^ Chegou Esdras a Jerusalém no quinto mês do sétimo ano do rei.
+
+[[v15-7-9]]
+
+^<<v15-7-9,9>>^ Foi no primeiro dia do primeiro mês que ele partiu da Babilônia e chegou a Jerusalém no primeiro dia do quinto mês, porque a mão benevolente de seu Deus estava com ele.
+
+[[v15-7-10]]
+
+^<<v15-7-10,10>>^ Esdras se tinha aplicado de todo o coração a estudar a Lei do Senhor, a praticá-la e a ensinar em Israel as leis e as prescrições.
+
+[[v15-7-11]]
+
+^<<v15-7-11,11>>^ Eis a cópia da carta que o rei Artaxerxes entregou a Esdras, sacerdote e escriba, versado no conhecimento do texto da Lei do Senhor e de suas prescrições concernentes a Israel:
+
+[[v15-7-12]]
+
+^<<v15-7-12,12>>^ “Artaxerxes, rei dos reis, a Esdras, sacerdote e escriba versado na Lei do Deus do céu, saudações.
+
+[[v15-7-13]]
+
+^<<v15-7-13,13>>^ Dei ordem para que deixassem partir contigo todos aqueles do povo de Israel, seus sacerdotes e seus levitas, residentes em meu reino, que desejavam ir a Jerusalém.
+
+[[v15-7-14]]
+
+^<<v15-7-14,14>>^ Pois foste enviado pelo rei e seus sete conselheiros para fazer uma inspeção em Judá e em Jerusalém e para ver como está sendo observada ali a Lei de teu Deus que tens em tuas mãos.
+
+[[v15-7-15]]
+
+^<<v15-7-15,15>>^ Levarás a prata e o ouro que o rei e seus conselheiros ofereceram espontaneamente ao Deus de Israel, cuja morada fica em Jerusalém,
+
+[[v15-7-16]]
+
+^<<v15-7-16,16>>^ bem como todo o ouro e a prata que encontrares por toda a província da Babilônia e, por fim, os dons voluntários que o povo e os sacerdotes ofereceram livremente para a casa de seu Deus, em Jerusalém.
+
+[[v15-7-17]]
+
+^<<v15-7-17,17>>^ Por conseguinte, cuidarás de comprar, com esse dinheiro, novilhos, carneiros, cordeiros, bem como as oferendas e as libações e as oferecerás em Jerusalém no altar da casa de vosso Deus.
+
+[[v15-7-18]]
+
+^<<v15-7-18,18>>^ Com o restante do dinheiro e do ouro, fareis o que parecer melhor a ti e a teus irmãos, em conformidade com a vontade de vosso Deus.
+
+[[v15-7-19]]
+
+^<<v15-7-19,19>>^ Os utensílios que te forem entregues para o serviço da casa de teu Deus, tu os depositarás diante do Deus de Jerusalém.
+
+[[v15-7-20]]
+
+^<<v15-7-20,20>>^ Quanto às outras despesas que deverás fazer para o templo de teu Deus, tu as providenciarás por meio dos recursos que o tesouro real te fornecerá.
+
+[[v15-7-21]]
+
+^<<v15-7-21,21>>^ Ademais, eu, rei Artaxerxes, ordeno a todos os tesoureiros de além do rio, que entreguem pontualmente a Esdras, o sacerdote, escriba versado na Lei do Deus do céu, tudo o que ele solicitar,
+
+[[v15-7-22]]
+
+^<<v15-7-22,22>>^ até a quantia de cem talentos de prata, cem coros de trigo, até cem batos de vinho, cem batos de azeite e sal à vontade.
+
+[[v15-7-23]]
+
+^<<v15-7-23,23>>^ Tudo o que prescreveu o Deus do céu para a sua casa seja fielmente observado, a fim de que a cólera divina não se desencadeie contra o reino, o rei e seus filhos.
+
+[[v15-7-24]]
+
+^<<v15-7-24,24>>^ Por fim, notificamo-vos de que não se deverá lançar imposto algum, nem tributo, nem encargos, sobre qualquer dos sacerdotes, levitas, cantores, porteiros, natineus e servos dessa casa de Deus.
+
+[[v15-7-25]]
+
+^<<v15-7-25,25>>^ E tu, Esdras, segundo a sabedoria de teu Deus que te foi dada, estabelecerás juízes e magistrados para fazer justiça a todo o povo da outra banda do rio, a todos aqueles que conhecem a Lei de teu Deus; e tu deverás ensinar aos que não as conhecem.
+
+[[v15-7-26]]
+
+^<<v15-7-26,26>>^ Todo aquele que não observar a Lei de teu Deus e a lei do rei será castigado rigorosamente, seja com a morte, seja com o desterro, seja com uma multa, ou mesmo com a prisão”.
+
+[[v15-7-27]]
+
+^<<v15-7-27,27>>^ “Bendito seja o Senhor, o Deus de nossos pais, que pôs no coração do rei o desejo de honrar a casa do Senhor que está em Jerusalém,^&#42;1^
+
+[[v15-7-28]]
+
+^<<v15-7-28,28>>^ e que me fez obter o favor do rei, dos seus conselheiros e de todos os mais poderosos oficiais do rei. Enchi-me pois de coragem, porque a mão do Senhor, meu Deus, estava comigo e reuni os chefes de Israel para que partissem comigo.”
+
+'''
+
+xref:015-esdras/015-esdras-006.adoc#v15-6-0[&#60; Capítulo Anterior] | <<v15-7-0,Topo>> | xref:015-esdras/015-esdras-008.adoc#v15-8-0[Próximo Capítulo &#62;]

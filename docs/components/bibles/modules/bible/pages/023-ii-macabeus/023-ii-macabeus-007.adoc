@@ -1,0 +1,187 @@
+include::./index.adoc[]
+
+[[v23-7-0]]
+=== II Macabeus, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Macabeus 7 narra a história dos sete irmãos e sua mãe que foram presos e torturados pelo rei Antíoco Epifânio por se recusarem a comer carne de porco, que era considerada impura pela lei judaica. Cada irmão é submetido a torturas terríveis, mas nenhum deles cede a pressão do rei para abandonar suas crenças e renunciar a sua fé em Deus.
+* 2 Samuel 22:33: "Deus é a minha fortaleza e a minha força, e ele torna o meu caminho perfeito." Esse verso enfatiza a força interior que os irmãos encontram em Deus para resistir às torturas e permanecer fiéis às suas crenças.
+* Mateus 10:28: "Não temais os que matam o corpo, e não podem matar a alma; temei antes aquele que pode fazer perecer no inferno a alma e o corpo." Esse verso enfatiza a importância da fé e da lealdade a Deus acima de todas as coisas, mesmo que isso signifique enfrentar a morte.
+* Romanos 8:18: "Porque para mim tenho por certo que os sofrimentos do tempo presente não podem ser comparados com a glória a ser revelada em nós." Esse verso destaca a ideia de que os sofrimentos temporais são insignificantes em comparação com a recompensa eterna de permanecer fiel a Deus.
+* Hebreus 11:35-38: "As mulheres receberam pela ressurreição os seus mortos; uns foram torturados, não aceitando o seu livramento, para alcançarem uma melhor ressurreição; e outros experimentaram escárnios e açoites, e até cadeias e prisões. Foram apedrejados, provados, serrados pelo meio, mortos a fio de espada; andaram peregrinos, vestidos de peles de ovelhas e de cabras, necessitados, afligidos, maltratados (de quem o mundo não era digno), errantes pelos desertos, pelos montes, pelas covas e pelos antros da terra." Esse verso faz referência a muitas pessoas na história bíblica que sofreram perseguição e tortura por causa da sua fé em Deus, destacando sua perseverança e lealdade a Deus em meio a grande adversidade.
+* 1 Pedro 1:6-7: "O que muito me alegra é o fato de terdes sido chamados à comunhão com Jesus Cristo, nosso Senhor. Pois, embora sejais entristecidos por todo tipo de provação, elas são uma prova da vossa fé - muito mais preciosa do que o ouro, que é perecível e contudo é refinado pelo fogo - para que seja reconhecido que, ao passardes por muitas tribulações, a vossa fé não se abala, mas persevera." Esse verso destaca a importância da fé e da perseverança em meio às tribulações e sofrimentos, enfatizando a crença de que essas provações ajudam a fortalecer a fé e a tornar a pessoa mais próxima de Deus.
+****
+
+[[v23-7-1]]
+
+^<<v23-7-1,1>>^ Havia também sete irmãos que foram um dia presos com sua mãe, e que o rei, por meio de golpes de azorrague e de nervos de boi, quis coagir a comerem a proibida carne de porco.^&#42;1^
+
+[[v23-7-2]]
+
+^<<v23-7-2,2>>^ Um dentre eles tomou a palavra e falou assim em nome de todos: “Que nos pretendes perguntar e saber de nós? Estamos prontos a morrer, antes de violar as leis de nossos pais”.
+
+[[v23-7-3]]
+
+^<<v23-7-3,3>>^ O rei, fora de si, ordenou que aquecessem até a brasa assadeiras e caldeirões.
+
+[[v23-7-4]]
+
+^<<v23-7-4,4>>^ Logo que ficaram em brasa ordenou que cortassem a língua do que falara por todos e, depois, que lhe arrancassem a pele da cabeça e lhe cortassem também as extremidades, tudo isso à vista de seus irmãos e de sua mãe.
+
+[[v23-7-5]]
+
+^<<v23-7-5,5>>^ Em seguida, mandou conduzi-lo ao fogo inerte e mal respirando, para assá-lo. Enquanto o vapor da assadeira se espalhava em profusão, os outros, com sua mãe, exortavam-se mutuamente a morrer com coragem.
+
+[[v23-7-6]]
+
+^<<v23-7-6,6>>^ “O Senhor nos vê – diziam – e certamente terá compaixão de nós, como o diz claramente Moisés no seu cântico de admoestações: Ele terá compaixão de seus servos.”^&#42;1^
+
+[[v23-7-7]]
+
+^<<v23-7-7,7>>^ Desse modo, morto o primeiro, conduziram o segundo ao suplício. Arrancaram-lhe a pele da cabeça com os cabelos e perguntaram-lhe: “Comerás carne de porco, ou preferes que teu corpo seja torturado membro por membro?”.
+
+[[v23-7-8]]
+
+^<<v23-7-8,8>>^ Ele respondeu: “Não” – no idioma de seu país. Por isso, padeceu os mesmos tormentos do primeiro.
+
+[[v23-7-9]]
+
+^<<v23-7-9,9>>^ Estando prestes a dar o último suspiro, disse: “Maldito, tu nos arrebatas a vida presente, mas o Rei do universo nos ressuscitará para uma vida eterna, pois morremos por fidelidade às suas leis”.
+
+[[v23-7-10]]
+
+^<<v23-7-10,10>>^ Após este, torturaram o terceiro. Reclamada a língua, ele a apresentou logo, e estendeu as mãos corajosamente.
+
+[[v23-7-11]]
+
+^<<v23-7-11,11>>^ Declarou com nobreza: “Do céu recebi estes membros, mas eu os desprezo por amor às suas leis, e dele espero recebê-los um dia de novo”.
+
+[[v23-7-12]]
+
+^<<v23-7-12,12>>^ O próprio rei e os que o acompanhavam ficaram admirados com o heroísmo desse jovem, que reputava por nada os sofrimentos.
+
+[[v23-7-13]]
+
+^<<v23-7-13,13>>^ Morto este, aplicaram os mesmos suplícios ao quarto,
+
+[[v23-7-14]]
+
+^<<v23-7-14,14>>^ e este disse, quando estava a ponto de expirar: “É uma sorte desejável perecer pela mão humana com a esperança de que Deus nos ressuscite. Para ti, porém, certamente não haverá ressurreição para a vida!”.
+
+[[v23-7-15]]
+
+^<<v23-7-15,15>>^ Arrastaram, em seguida, o quinto e torturaram.
+
+[[v23-7-16]]
+
+^<<v23-7-16,16>>^ Encarando o rei, lhe disse: “Ainda que mortal, tens poder sobre os homens, e fazes o que queres. Não penses, todavia, que nosso povo esteja abandonado por Deus!
+
+[[v23-7-17]]
+
+^<<v23-7-17,17>>^ Espera, verás quão grande é a sua potência e como ele te castigará a ti e à tua raça”.
+
+[[v23-7-18]]
+
+^<<v23-7-18,18>>^ Após este, fizeram achegar-se o sexto, que disse antes de morrer: “Não te iludas. Nós mesmos merecemos estes sofrimentos, porque pecamos contra nosso Deus. Em consequência, recebemos estes flagelos surpreendentes.
+
+[[v23-7-19]]
+
+^<<v23-7-19,19>>^ Mas não creias tu que ficarás impune, após haveres ousado combater contra Deus”.
+
+[[v23-7-20]]
+
+^<<v23-7-20,20>>^ Particularmente admirável e digna de elogios foi a mãe que viu perecer seus sete filhos no espaço de um só dia e o suportou com heroísmo, porque sua esperança repousava no Senhor.
+
+[[v23-7-21]]
+
+^<<v23-7-21,21>>^ Ela exortava a cada um no seu idioma materno e, cheia de nobres sentimentos, com uma coragem varonil, realçava seu temperamento de mulher.
+
+[[v23-7-22]]
+
+^<<v23-7-22,22>>^ “Ignoro – dizia-lhes ela – como crescestes em meu seio, porque não fui eu que vos dei o espírito e a vida, não fui eu que ajuntei os vossos membros.
+
+[[v23-7-23]]
+
+^<<v23-7-23,23>>^ Mas o Criador do mundo, que formou o homem na sua origem e deu existência a todas as coisas, vos restituirá, em sua misericórdia, tanto o espírito como a vida, se agora fizerdes pouco caso de vós mesmos por amor às suas leis.”
+
+[[v23-7-24]]
+
+^<<v23-7-24,24>>^ Receando, todavia, o desprezo e temendo o insulto, Antíoco solicitou em termos insistentes o mais jovem, que ainda restava, prometendo-lhe com juramento torná-lo rico e feliz, se abandonasse as tradições de seus antepassados, tratá-lo como amigo e confiar-lhe cargos.
+
+[[v23-7-25]]
+
+^<<v23-7-25,25>>^ Como o jovem não lhe prestava nenhuma atenção, o rei mandou que a mãe se aproximasse e o exortasse com seus conselhos, para que o adolescente salvasse sua vida.
+
+[[v23-7-26]]
+
+^<<v23-7-26,26>>^ Como ele insistiu por muito tempo, ela consentiu em persuadir o filho.
+
+[[v23-7-27]]
+
+^<<v23-7-27,27>>^ Inclinou-se sobre ele e, zombando do cruel tirano, disse-lhe na língua materna: “Meu filho, compadece-te de tua mãe, que te trouxe nove meses no seio, que te amamentou durante três anos, que te nutriu, te conduziu e te educou até esta idade.
+
+[[v23-7-28]]
+
+^<<v23-7-28,28>>^ Eu te suplico, meu filho, contempla o céu e a terra. Reflete bem: tudo o que vês, Deus criou do nada, assim como todos os homens.
+
+[[v23-7-29]]
+
+^<<v23-7-29,29>>^ Não temas, pois, este algoz, mas sê digno de teus irmãos e aceita a morte, para que no dia da misericórdia eu te encontre no meio deles”.
+
+[[v23-7-30]]
+
+^<<v23-7-30,30>>^ Logo que ela acabou de falar, o jovem disse: “Que estais a esperar? Não atenderei às ordens do rei. Obedeço àquele que deu a Lei a nossos pais, por intermédio de Moisés.
+
+[[v23-7-31]]
+
+^<<v23-7-31,31>>^ Mas tu, que és o inventor dessa perseguição contra os judeus, não escaparás à mão de Deus.
+
+[[v23-7-32]]
+
+^<<v23-7-32,32>>^ Quanto a nós é por causa de nossos pecados que sofremos
+
+[[v23-7-33]]
+
+^<<v23-7-33,33>>^ e se, para nos punir e corrigir, o Deus vivo e Senhor nosso se irou por pouco tempo contra nós, ele há de se reconciliar de novo com seus servos.
+
+[[v23-7-34]]
+
+^<<v23-7-34,34>>^ Ímpio, não te exaltes sem razão, embalando-te em vãs esperanças, enquanto levantas a mão sobre os servos do céu.
+
+[[v23-7-35]]
+
+^<<v23-7-35,35>>^ Tu ainda não escapaste ao julgamento do Deus Todo-poderoso que tudo vê!
+
+[[v23-7-36]]
+
+^<<v23-7-36,36>>^ Enquanto meus irmãos participam agora da vida eterna, em virtude do sinal da Aliança, após terem padecido um instante, tu sofrerás o justo castigo de teu orgulho, pelo julgamento de Deus.
+
+[[v23-7-37]]
+
+^<<v23-7-37,37>>^ A exemplo de meus irmãos, entrego meu corpo e minha vida pelas leis de nossos pais, e suplico a Deus que ele não se demore em apiedar-se de seu povo. Oxalá tu, em meio aos sofrimentos e provações, reconheças nele o Deus único.
+
+[[v23-7-38]]
+
+^<<v23-7-38,38>>^ Enfim, que se detenha em mim e em meus irmãos a cólera do Todo-poderoso, que se desencadeou sobre toda a nossa raça”.
+
+[[v23-7-39]]
+
+^<<v23-7-39,39>>^ Abrasado de ira e enraivecido pela zombaria, o rei maltratou este com maior crueldade do que os outros.
+
+[[v23-7-40]]
+
+^<<v23-7-40,40>>^ Morreu, pois, o jovem purificado de toda mancha e completamente entregue ao Senhor.
+
+[[v23-7-41]]
+
+^<<v23-7-41,41>>^ Seguindo as pegadas de todos os seus filhos, a mãe pereceu por último.
+
+[[v23-7-42]]
+
+^<<v23-7-42,42>>^ Terminamos aqui nossa narração concernente aos banquetes rituais e a estas atrozes perseguições.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-006.adoc#v23-6-0[&#60; Capítulo Anterior] | <<v23-7-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-008.adoc#v23-8-0[Próximo Capítulo &#62;]

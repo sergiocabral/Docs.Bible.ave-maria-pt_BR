@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v48-13-0]]
+=== São Marcos, 13
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 13 de Marcos é conhecido como o "Discurso do Monte das Oliveiras", no qual Jesus fala sobre a destruição do templo, o fim dos tempos e a sua segunda vinda. Os versículos escolhidos são:
+* Mateus 24:42: "Portanto, vigiem, porque vocês não sabem em que dia virá o seu Senhor." Neste versículo, Jesus está instruindo seus discípulos a ficarem atentos e preparados para a sua segunda vinda, que virá de forma inesperada.
+* Mateus 24:14: "E este evangelho do Reino será pregado em todo o mundo como testemunho a todas as nações, e então virá o fim." Jesus afirma que o evangelho será pregado em todo o mundo antes do fim dos tempos, indicando que a salvação estará disponível para todas as nações.
+* Apocalipse 1:7: "Eis que ele vem com as nuvens, e todo olho o verá, até mesmo aqueles que o traspassaram; e todas as tribos da terra se lamentarão por causa dele. Certamente isso acontecerá! Amém!" Este versículo se refere à segunda vinda de Cristo, quando todos verão a sua glória e autoridade.
+* Apocalipse 22:12: "Eis que venho em breve! A minha recompensa está comigo, e eu retribuirei a cada um de acordo com o que fez." Aqui, Jesus reafirma a sua vinda e promete recompensar cada pessoa de acordo com as suas obras.
+* 1 Tessalonicenses 4:16-17: "Pois o Senhor mesmo descerá do céu com brado de comando, com voz de arcanjo e com trombeta de Deus, e os mortos em Cristo ressuscitarão primeiro. Depois nós, os que estivermos vivos, seremos arrebatados juntamente com eles nas nuvens, para o encontro com o Senhor nos ares. E assim estaremos com o Senhor para sempre." Este trecho se refere à segunda vinda de Cristo, quando os mortos serão ressuscitados e os crentes que estiverem vivos serão arrebatados para encontrar o Senhor nos ares.
+****
+
+[[v48-13-1]]
+
+^<<v48-13-1,1>>^ Saindo Jesus do templo, disse-lhe um dos seus discípulos:“Mestre, olha que pedras e que construções!”
+
+[[v48-13-2]]
+
+^<<v48-13-2,2>>^ Jesus replicou-lhe: “Vês este grande edifício? Não se deixará pedra sobre pedra que não seja demolida”.
+
+[[v48-13-3]]
+
+^<<v48-13-3,3>>^ E estando sentado no monte das Oliveiras, defronte do templo, perguntaram-lhe à parte Pedro, Tiago, João e André:
+
+[[v48-13-4]]
+
+^<<v48-13-4,4>>^ “Dize-nos, quando hão de suceder essas coisas? E por que sinal se saberá que tudo isso se vai realizar?”.
+
+[[v48-13-5]]
+
+^<<v48-13-5,5>>^ Jesus pôs-se, então, a dizer-lhes: “Cuidai que ninguém vos engane.
+
+[[v48-13-6]]
+
+^<<v48-13-6,6>>^ Muitos virão em meu nome, dizendo: Sou eu. E seduzirão a muitos.
+
+[[v48-13-7]]
+
+^<<v48-13-7,7>>^ Quando ouvirdes falar de guerras e de rumores de guerra, não temais; porque é necessário que essas coisas aconteçam, mas não será ainda o fim.
+
+[[v48-13-8]]
+
+^<<v48-13-8,8>>^ Irão levantar-se nação contra nação e reino contra reino; e haverá terremotos em diversos lugares, e fome. Isto será o princípio das dores.
+
+[[v48-13-9]]
+
+^<<v48-13-9,9>>^ Cuidai de vós mesmos; sereis arrastados diante dos tribunais e açoitados nas sinagogas e comparecereis diante dos governadores e reis por minha causa, para dar testemunho de mim diante deles.
+
+[[v48-13-10]]
+
+^<<v48-13-10,10>>^ Mas primeiro é necessário que o Evangelho seja pregado a todas as nações.
+
+[[v48-13-11]]
+
+^<<v48-13-11,11>>^ Quando vos levarem para vos entregar, não premediteis no que haveis de dizer, mas dizei o que vos for inspirado naquela hora; porque não sois vós que falais, mas sim o Espírito Santo.
+
+[[v48-13-12]]
+
+^<<v48-13-12,12>>^ O irmão entregará à morte o irmão, e o pai, o filho; e os filhos irão insurgir-se contra os pais e lhes darão a morte.
+
+[[v48-13-13]]
+
+^<<v48-13-13,13>>^ E sereis odiados de todos por causa de meu nome. Mas o que perseverar até o fim será salvo”.
+
+[[v48-13-14]]
+
+^<<v48-13-14,14>>^ “Quando virdes a abominação da desolação no lugar onde não deve estar – o leitor entenda –, então os que estiverem na Judeia fujam para os montes;
+
+[[v48-13-15]]
+
+^<<v48-13-15,15>>^ o que estiver sobre o terraço não desça nem entre em casa para dela levar alguma coisa;
+
+[[v48-13-16]]
+
+^<<v48-13-16,16>>^ e o que se achar no campo não volte a buscar o seu manto.
+
+[[v48-13-17]]
+
+^<<v48-13-17,17>>^ Ai das mulheres que naqueles dias estiverem grávidas e amamentando!
+
+[[v48-13-18]]
+
+^<<v48-13-18,18>>^ Rogai para que isso não aconteça no inverno!
+
+[[v48-13-19]]
+
+^<<v48-13-19,19>>^ Porque naqueles dias haverá tribulações tais, como não as houve desde o princípio do mundo que Deus criou até agora, nem haverá jamais.
+
+[[v48-13-20]]
+
+^<<v48-13-20,20>>^ Se o Senhor não abreviasse aqueles dias, ninguém se salvaria; mas ele os abreviou em atenção aos eleitos que escolheu.
+
+[[v48-13-21]]
+
+^<<v48-13-21,21>>^ E se então alguém vos disser: Eis, aqui está o Cristo; ou: Ei-lo acolá, não creiais.
+
+[[v48-13-22]]
+
+^<<v48-13-22,22>>^ Porque se levantarão falsos cristos e falsos profetas, que farão sinais e portentos para seduzir, se possível for, até os escolhidos.
+
+[[v48-13-23]]
+
+^<<v48-13-23,23>>^ Ficai de sobreaviso. Eis que vos preveni de tudo.” (= Mt 24,29-44 = Lc 21,25-36)
+
+[[v48-13-24]]
+
+^<<v48-13-24,24>>^ “Naqueles dias, depois dessa tribulação, o sol se escurecerá, a lua não dará o seu resplendor;
+
+[[v48-13-25]]
+
+^<<v48-13-25,25>>^ cairão os astros do céu e as forças que estão no céu serão abaladas.
+
+[[v48-13-26]]
+
+^<<v48-13-26,26>>^ Então, verão o Filho do Homem voltar sobre as nuvens com grande poder e glória.
+
+[[v48-13-27]]
+
+^<<v48-13-27,27>>^ Ele enviará os anjos, e reunirá os seus escolhidos dos quatro ventos, desde a extremidade da terra até a extremidade do céu.
+
+[[v48-13-28]]
+
+^<<v48-13-28,28>>^ Compreendei por uma comparação tirada da figueira. Quando os seus ramos vão ficando tenros e brotam as folhas, sabeis que está perto o verão.
+
+[[v48-13-29]]
+
+^<<v48-13-29,29>>^ Assim também quando virdes acontecerem essas coisas, sabei que o Filho do Homem está próximo, às portas.
+
+[[v48-13-30]]
+
+^<<v48-13-30,30>>^ Em verdade vos digo: não passará esta geração sem que tudo isso aconteça.^&#42;1^
+
+[[v48-13-31]]
+
+^<<v48-13-31,31>>^ Passarão o céu e a terra, mas as minhas palavras não passarão.
+
+[[v48-13-32]]
+
+^<<v48-13-32,32>>^ A respeito, porém, daquele dia ou daquela hora, ninguém o sabe, nem os anjos do céu nem mesmo o Filho, mas somente o Pai.
+
+[[v48-13-33]]
+
+^<<v48-13-33,33>>^ Ficai de sobreaviso, vigiai; porque não sabeis quando será o tempo.
+
+[[v48-13-34]]
+
+^<<v48-13-34,34>>^ Será como um homem que, partindo em viagem, deixa a sua casa e delega sua autoridade aos seus servos, indicando o trabalho de cada um, e manda ao porteiro que vigie.
+
+[[v48-13-35]]
+
+^<<v48-13-35,35>>^ Vigiai, pois, visto que não sabeis quando o senhor da casa voltará, se à tarde, se à meia-noite, se ao cantar do galo, se pela manhã,
+
+[[v48-13-36]]
+
+^<<v48-13-36,36>>^ para que, vindo de repente, não vos encontre dormindo.
+
+[[v48-13-37]]
+
+^<<v48-13-37,37>>^ O que vos digo, digo a todos: vigiai!” (= Mt 26,1-5 = Lc 22,1s)
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-012.adoc#v48-12-0[&#60; Capítulo Anterior] | <<v48-13-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-014.adoc#v48-14-0[Próximo Capítulo &#62;]

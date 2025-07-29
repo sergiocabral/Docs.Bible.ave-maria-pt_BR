@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v49-4-0]]
+=== São Lucas, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Em Lucas 4, Jesus é tentado pelo diabo no deserto e começa seu ministério público na Galileia. O capítulo também apresenta a rejeição de Jesus em sua cidade natal, Nazaré, e seu ensinamento e cura em Cafarnaum.
+* Deuteronômio 6:13 - "Temerás ao Senhor, teu Deus, e só a ele servirás, e jurarás pelo seu nome." Esse versículo é citado por Jesus em resposta a uma das tentações do diabo, onde ele oferece a Jesus todos os reinos do mundo em troca de adoração. Jesus responde que apenas Deus deve ser adorado e servido.
+* Isaías 61:1 - "O Espírito do Senhor está sobre mim, porque o Senhor me ungiu para pregar boas novas aos pobres. Ele me enviou para curar os quebrantados de coração, para proclamar liberdade aos cativos e libertação das trevas aos prisioneiros." Jesus cita este versículo quando anuncia que ele é o cumprimento da profecia de Isaías de um Messias enviado para libertar e curar.
+* Isaías 42:7 - "Para abrir os olhos dos cegos, para tirar da prisão os cativos e do cárcere os que jazem em trevas." Este versículo também é citado por Jesus para explicar sua missão de libertar aqueles que estão espiritualmente cativos.
+* Salmos 91:11-12 - "Porque aos seus anjos dará ordens a teu respeito, para que te guardem em todos os teus caminhos. Eles te sustentarão nas suas mãos, para que não tropeces em alguma pedra." O diabo cita este versículo ao tentar Jesus a pular do pináculo do templo para provar que Deus o salvaria. Jesus responde que não deve tentar o Senhor seu Deus.
+* Isaías 53:4 - "Verdadeiramente, ele tomou sobre si as nossas enfermidades e carregou as nossas dores; e nós o reputávamos por aflito, ferido de Deus e oprimido." Este versículo é citado por Lucas para explicar como as curas de Jesus foram uma forma de cumprir a profecia messiânica de Isaías 53:4 de que o Messias carregaria as doenças e dores de seu povo.
+****
+
+[[v49-4-1]]
+
+^<<v49-4-1,1>>^ Cheio do Espírito Santo, voltou Jesus do Jordão e foi levado pelo Espírito ao deserto,
+
+[[v49-4-2]]
+
+^<<v49-4-2,2>>^ onde foi tentado pelo demônio durante quarenta dias. Durante esse tempo ele nada comeu e, terminados esses dias, teve fome.
+
+[[v49-4-3]]
+
+^<<v49-4-3,3>>^ Disse-lhe então o demônio: “Se és o Filho de Deus, ordena a esta pedra que se torne pão”.
+
+[[v49-4-4]]
+
+^<<v49-4-4,4>>^ Jesus respondeu: “Está escrito: Não só de pão vive o homem, mas de toda a Palavra de Deus (Dt 8,3)”.
+
+[[v49-4-5]]
+
+^<<v49-4-5,5>>^ O demônio levou-o em seguida a um alto monte e mostrou-lhe em um só momento todos os reinos da terra,
+
+[[v49-4-6]]
+
+^<<v49-4-6,6>>^ e disse-lhe: “Eu te darei todo este poder e a glória desses reinos, porque me foram dados, e dou-os a quem quero.
+
+[[v49-4-7]]
+
+^<<v49-4-7,7>>^ Portanto, se te prostrares diante de mim, tudo será teu”.
+
+[[v49-4-8]]
+
+^<<v49-4-8,8>>^ Jesus disse-lhe: “Está escrito: Adorarás o Senhor, teu Deus, e a ele só servirás” (Dt 6,13).
+
+[[v49-4-9]]
+
+^<<v49-4-9,9>>^ O demônio levou-o ainda a Jerusalém, ao ponto mais alto do templo, e disse-lhe: “Se és o Filho de Deus, lança-te daqui abaixo;
+
+[[v49-4-10]]
+
+^<<v49-4-10,10>>^ porque está escrito: Ordenou aos seus anjos a teu respeito que te guardassem.
+
+[[v49-4-11]]
+
+^<<v49-4-11,11>>^ E que te sustivessem em suas mãos, para não ferires o teu pé nalguma pedra” (Sl 90,11s).
+
+[[v49-4-12]]
+
+^<<v49-4-12,12>>^ Jesus disse: “Foi dito: Não tentarás o Senhor, teu Deus” (Dt 6,16).
+
+[[v49-4-13]]
+
+^<<v49-4-13,13>>^ Depois de tê-lo assim tentado de todos os modos, o demônio apartou-se dele até outra ocasião.^&#42;1^
+
+[[v49-4-14]]
+
+^<<v49-4-14,14>>^ Jesus, então, cheio da força do Espírito, voltou para a Galileia. E a sua fama divulgou-se por toda a região.
+
+[[v49-4-15]]
+
+^<<v49-4-15,15>>^ Ele ensinava nas sinagogas e era aclamado por todos. (= Mt 13,53-58 = Mc 6,1-6)
+
+[[v49-4-16]]
+
+^<<v49-4-16,16>>^ Dirigiu-se a Nazaré, onde se havia criado. Entrou na sinagoga em dia de sábado, segundo o seu costume, e levantou-se para ler.
+
+[[v49-4-17]]
+
+^<<v49-4-17,17>>^ Foi-lhe dado o livro do profeta Isaías. Desenrolando o livro, escolheu a passagem onde está escrito (61,1s):^&#42;1^
+
+[[v49-4-18]]
+
+^<<v49-4-18,18>>^ O Espírito do Senhor está sobre mim, porque me ungiu; e enviou-me para anunciar a Boa-Nova aos pobres, para sarar os contritos de coração,
+
+[[v49-4-19]]
+
+^<<v49-4-19,19>>^ para anunciar aos cativos a redenção, aos cegos a restauração da vista, para pôr em liberdade os cativos, para publicar o ano da graça do Senhor.
+
+[[v49-4-20]]
+
+^<<v49-4-20,20>>^ E, enrolando o livro, deu-o ao ministro e sentou-se; todos quantos estavam na sinagoga tinham os olhos fixos nele.
+
+[[v49-4-21]]
+
+^<<v49-4-21,21>>^ Ele começou a dizer-lhes: “Hoje se cumpriu este oráculo que vós acabais de ouvir”.
+
+[[v49-4-22]]
+
+^<<v49-4-22,22>>^ Todos lhe davam testemunho e se admiravam das palavras de graça, que procediam da sua boca, e diziam: “Não é este o filho de José?”.
+
+[[v49-4-23]]
+
+^<<v49-4-23,23>>^ Então, lhes disse: “Sem dúvida me citareis este provérbio: Médico, cura-te a ti mesmo; todas as maravilhas que fizeste em Cafarnaum, segundo ouvimos dizer, faze-as também aqui na tua pátria”.
+
+[[v49-4-24]]
+
+^<<v49-4-24,24>>^ E acrescentou: “Em verdade vos digo: nenhum profeta é bem aceito na sua pátria.
+
+[[v49-4-25]]
+
+^<<v49-4-25,25>>^ Em verdade vos digo: muitas viúvas havia em Israel, no tempo de Elias, quando se fechou o céu por três anos e meio e houve grande fome por toda a terra;
+
+[[v49-4-26]]
+
+^<<v49-4-26,26>>^ mas a nenhuma delas foi mandado Elias, senão a uma viúva em Sarepta, na Sidônia.
+
+[[v49-4-27]]
+
+^<<v49-4-27,27>>^ Igualmente havia muitos leprosos em Israel, no tempo do profeta Eliseu; mas nenhum deles foi limpo, senão o sírio Naamã”.
+
+[[v49-4-28]]
+
+^<<v49-4-28,28>>^ A essas palavras, encheram-se todos de cólera na sinagoga.
+
+[[v49-4-29]]
+
+^<<v49-4-29,29>>^ Levantaram-se e lançaram-no fora da cidade; e conduziram-no até o alto do monte sobre o qual estava construída a sua cidade, e queriam precipitá-lo dali abaixo.
+
+[[v49-4-30]]
+
+^<<v49-4-30,30>>^ Ele, porém, passou por entre eles e retirou-se. (= Mc 1,21-28)
+
+[[v49-4-31]]
+
+^<<v49-4-31,31>>^ Desceu a Cafarnaum, cidade da Galileia, e ali ensinava-os aos sábados.
+
+[[v49-4-32]]
+
+^<<v49-4-32,32>>^ Maravilharam-se da sua doutrina, porque ele ensinava com autoridade.
+
+[[v49-4-33]]
+
+^<<v49-4-33,33>>^ Estava na sinagoga um homem que tinha um demônio imundo, e exclamou em alta voz:
+
+[[v49-4-34]]
+
+^<<v49-4-34,34>>^ “Deixa-nos! Que temos nós contigo, Jesus de Nazaré? Vieste para nos perder? Sei quem és: o Santo de Deus!”.
+
+[[v49-4-35]]
+
+^<<v49-4-35,35>>^ Mas Jesus replicou severamente: “Cala-te e sai deste homem”. O demônio lançou-o por terra no meio de todos e saiu dele, sem lhe fazer mal algum.
+
+[[v49-4-36]]
+
+^<<v49-4-36,36>>^ Todos ficaram cheios de pavor e falavam uns com os outros: “Que significa isso? Manda com poder e autoridade aos espíritos imundos, e eles saem?”.^&#42;1^
+
+[[v49-4-37]]
+
+^<<v49-4-37,37>>^ E corria a sua fama por todos os lugares da circunvizinhança. (= Mt 8,14-22 = Mc 1,29-38)
+
+[[v49-4-38]]
+
+^<<v49-4-38,38>>^ Saindo Jesus da sinagoga, entrou na casa de Simão. A sogra de Simão estava com febre alta; e pediram-lhe por ela.
+
+[[v49-4-39]]
+
+^<<v49-4-39,39>>^ Inclinando-se sobre ela, ordenou ele à febre, e a febre deixou-a. Ela levantou-se imediatamente e pôs-se a servi-los.
+
+[[v49-4-40]]
+
+^<<v49-4-40,40>>^ Depois do pôr do sol, todos os que tinham enfermos de diversas moléstias lhos traziam. Impondo-lhes a mão, os sarava.
+
+[[v49-4-41]]
+
+^<<v49-4-41,41>>^ De muitos saíam os demônios, aos gritos, dizendo: “Tu és o Filho de Deus”. Mas ele repreendia-os severamente, não lhes permitindo falar, porque sabiam que ele era o Cristo.
+
+[[v49-4-42]]
+
+^<<v49-4-42,42>>^ Ao amanhecer, ele saiu e retirou-se para um lugar afastado. As multidões o procuravam e foram até onde ele estava e queriam detê-lo, para que não as deixasse.
+
+[[v49-4-43]]
+
+^<<v49-4-43,43>>^ Mas ele disse-lhes: “É necessário que eu anuncie a Boa-Nova do Reino de Deus também às outras cidades, pois essa é a minha missão”.
+
+[[v49-4-44]]
+
+^<<v49-4-44,44>>^ E andava pregando nas sinagogas da Galileia.
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-003.adoc#v49-3-0[&#60; Capítulo Anterior] | <<v49-4-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-005.adoc#v49-5-0[Próximo Capítulo &#62;]

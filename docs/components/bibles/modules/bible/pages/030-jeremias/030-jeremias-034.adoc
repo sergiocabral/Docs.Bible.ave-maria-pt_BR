@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v30-34-0]]
+=== Jeremias, 34
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jeremias 34 descreve a mensagem de Deus para o rei Zedequias e os líderes de Judá para libertarem seus escravos hebreus conforme a lei de Deus. O capítulo também mostra a desobediência deles e a consequente punição divina. Aqui estão cinco versículos relacionados com os temas abordados em Jeremias 34:
+* Levítico 25:39-40: "Se teu irmão empobrecer e vender alguma parte da sua possessão, então, aquele que tiver poder de resgatar o que seu irmão vendeu, venha a fazê-lo. E, se o homem não tiver quem lho resgate, porém ele mesmo alcançar bastante para o resgate," Este versículo faz parte das leis de Deus sobre a libertação de escravos e a restituição de propriedades. Essas leis foram violadas pelos líderes de Judá em Jeremias 34.
+* Deuteronômio 15:12-13: "Quando teu irmão hebreu ou tua irmã hebréia se vender a ti, seis anos servirá, mas ao sétimo ano o despedirás forro." Este é outro exemplo das leis de Deus sobre a libertação de escravos, e a necessidade de respeitá-las. Essas leis foram violadas pelos líderes de Judá em Jeremias 34.
+* Deuteronômio 28:48: "Portanto, servirás aos teus inimigos que o SENHOR enviará contra ti, com fome, e com sede, e com nudez, e com falta de tudo; e sobre o teu pescoço porá um jugo de ferro, até que te tenha destruído." Este versículo descreve a consequência da desobediência às leis de Deus, como a violação das leis sobre a libertação de escravos em Jeremias 34.
+* Jeremias 22:13: "Ai daquele que edifica a sua casa com injustiça, e os seus aposentos sem direito, que se serve do serviço do seu próximo sem remunerá-lo, e não lhe dá o salário do seu trabalho." Esse versículo é semelhante à mensagem de Jeremias 34, pois fala daqueles que exploram os outros sem pagar salários justos, violando assim as leis de Deus.
+* Jeremias 7:5-6: "Mas se deveras emendardes os vossos caminhos e as vossas obras, se deveras executardes a justiça entre um homem e o seu próximo, se não oprimirdes o estrangeiro, e o órfão, e a viúva, nem derramardes sangue inocente neste lugar, nem andardes após outros deuses para vosso próprio mal," Este versículo faz parte da mensagem geral de Jeremias, que é a necessidade de obedecer às leis de Deus e fazer o que é justo e correto. Isso inclui a necessidade de libertar os escravos hebreus, como descrito em Jeremias 34.
+****
+
+[[v30-34-1]]
+
+^<<v30-34-1,1>>^ Eis a palavra que pelo Senhor foi dirigida a Jeremias, quando Nabucodonosor, rei da Babilônia, com seu exército, com todos os reinos da terra que lhe eram vassalos e com todos os povos, combatia contra Jerusalém e as cidades que a cercavam.
+
+[[v30-34-2]]
+
+^<<v30-34-2,2>>^ “Eis o que disse o Senhor, Deus de Israel: Vai procurar Sedecias, rei de Judá, e dize-lhe: Eis o que diz o Senhor: Vou entregar esta cidade ao rei da Babilônia, que a incendiará.
+
+[[v30-34-3]]
+
+^<<v30-34-3,3>>^ Nem tu lhe poderás escapar. Serás capturado e entregue às suas mãos. Verás o rei da Babilônia, face a face, que de viva voz te falará, e irás para a Babilônia.
+
+[[v30-34-4]]
+
+^<<v30-34-4,4>>^ Escuta, contudo, Sedecias, rei de Judá, a palavra do Senhor! Eis o que ele profere a teu respeito: Não morrerás pela espada.
+
+[[v30-34-5]]
+
+^<<v30-34-5,5>>^ Será em paz que haverás de morrer e, assim como perfumes foram queimados em honra de teus pais, os reis antigos que te precederam, assim também por ti serão queimados. Lágrimas serão derramadas por tua causa: eu, o Senhor, sou eu quem o prediz – oráculo do Senhor.”
+
+[[v30-34-6]]
+
+^<<v30-34-6,6>>^ Tudo isso transmitiu Jeremias ao rei Sedecias de Judá, em Jerusalém,
+
+[[v30-34-7]]
+
+^<<v30-34-7,7>>^ enquanto o exército do rei da Babilônia sitiava a cidade, assim como Laquis e Azeca, últimas cidades de Judá que ainda resistiam.
+
+[[v30-34-8]]
+
+^<<v30-34-8,8>>^ Eis a palavra que foi dirigida a Jeremias pelo Senhor, depois que o rei Sedecias fez um pacto com o povo de Jerusalém, a fim de proclamar um decreto de alforria,
+
+[[v30-34-9]]
+
+^<<v30-34-9,9>>^ segundo o qual cada um deveria libertar seu escravo hebreu, homem ou mulher, não conservando na escravidão seus irmãos judeus.
+
+[[v30-34-10]]
+
+^<<v30-34-10,10>>^ Aceitaram todos esse acordo, chefes e povo, consentindo em emancipar seus escravos e em não mais conservá-los em servidão.
+
+[[v30-34-11]]
+
+^<<v30-34-11,11>>^ Mais tarde, porém, voltando atrás em tal decisão, retomaram os escravos e mulheres, que haviam libertado, reduzindo-os novamente ao estado de escravidão.
+
+[[v30-34-12]]
+
+^<<v30-34-12,12>>^ Foi então que a palavra do Senhor assim se dirigiu a Jeremias:
+
+[[v30-34-13]]
+
+^<<v30-34-13,13>>^ “Eis o que disse o Senhor, Deus de Israel: No dia em que tirei vossos pais da terra do Egito, desse período de escravidão, com eles concluí uma aliança, assim concebida:^&#42;1^
+
+[[v30-34-14]]
+
+^<<v30-34-14,14>>^ ao fim de sete anos, cada um de vós emancipará seu irmão hebreu que lhe houver sido vendido. Ele te servirá durante seis anos; no sétimo, porém, o libertarás. – Não me escutaram, entretanto, vossos pais, nem prestaram atenção.
+
+[[v30-34-15]]
+
+^<<v30-34-15,15>>^ Agora, fizestes o que é grato a meus olhos, cada um proclamando a liberdade ao próximo pela conclusão de um acordo em minha presença, na casa em que meu nome é invocado.
+
+[[v30-34-16]]
+
+^<<v30-34-16,16>>^ Mudastes, porém, de parecer e profanastes meu nome, retomando cada qual vosso escravo e vossa serva que se haviam tornado livres, para de novo os reduzirdes à escravidão.
+
+[[v30-34-17]]
+
+^<<v30-34-17,17>>^ Eis por que diz o Senhor: Assim como não me haveis obedecido no que tange à proclamação da liberdade de vossos irmãos, vou, por minha vez, proclamar a vossa volta à espada, à peste e à fome, transformando-vos em objeto de espanto para todos os reinos da terra.
+
+[[v30-34-18]]
+
+^<<v30-34-18,18>>^ Os homens que violaram minha aliança, e não observaram as cláusulas do acordo celebrado em minha presença, vou tratá-los como o touro, que cortaram em dois para passar entre as duas metades.^&#42;1^
+
+[[v30-34-19]]
+
+^<<v30-34-19,19>>^ Os chefes de Judá e de Jerusalém, os eunucos, os sacerdotes e toda a gente da terra, que passaram entre as duas partes do touro,
+
+[[v30-34-20]]
+
+^<<v30-34-20,20>>^ eu os entregarei aos seus inimigos e àqueles que lhes procuram tirar a vida, e os seus cadáveres servirão de pasto às aves do céu e aos animais da terra.
+
+[[v30-34-21]]
+
+^<<v30-34-21,21>>^ Quanto a Sedecias, rei de Judá, eu o entregarei, juntamente com seus príncipes, aos inimigos e àqueles que lhe querem tirar a vida, ao exército do rei da Babilônia que de vós se apartou.
+
+[[v30-34-22]]
+
+^<<v30-34-22,22>>^ Vou dar ordens – oráculo do Senhor –, para que voltem a esta cidade. Eles a sitiarão tomando-a de assalto, e haverão de lhe pôr fogo. E transformarei as cidades de Judá em solidão, sem habitantes!”.
+
+'''
+
+xref:030-jeremias/030-jeremias-033.adoc#v30-33-0[&#60; Capítulo Anterior] | <<v30-34-0,Topo>> | xref:030-jeremias/030-jeremias-035.adoc#v30-35-0[Próximo Capítulo &#62;]

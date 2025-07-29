@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v10-8-0]]
+=== II Samuel, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 8 do livro de 2 Samuel descreve as conquistas militares do rei Davi, que expandiu o reino de Israel e estabeleceu o seu poder sobre nações vizinhas. Os versículos a seguir abordam temas relacionados à guerra, vitória e submissão de outros povos:
+* Deuteronômio 20:1 - "Quando saíres à peleja contra teus inimigos, e vires cavalos, e carros, e povo maior em número do que tu, não os temerás; pois o SENHOR teu Deus, que te tirou da terra do Egito, está contigo." Este versículo fala sobre a confiança que o povo de Deus deve ter na batalha, sabendo que Ele está com eles.
+* Salmos 60:12 - "Com Deus faremos proezas, pois ele esmagará os nossos inimigos." Este salmo expressa a confiança do salmista na vitória que Deus dará ao seu povo contra os inimigos.
+* Provérbios 21:31 - "O cavalo é preparado para o dia da batalha, mas a vitória vem do SENHOR." Este provérbio destaca a importância do preparo e da estratégia, mas também ressalta que a vitória final vem de Deus.
+* Isaías 14:2 - "E os povos os levarão, e os farão voltar aos seus lugares; e a casa de Israel os possuirá na terra do SENHOR, por servos e por servas; e cativarão aqueles que os cativaram, e dominarão sobre os seus opressores." Este versículo profético descreve a submissão dos inimigos de Israel e a restauração da sua posição como povo escolhido por Deus.
+* Romanos 8:37 - "Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou." Este versículo fala sobre a vitória que os cristãos têm em Cristo, que os fortalece em todas as circunstâncias, inclusive nas lutas e batalhas que enfrentam.
+****
+
+[[v10-8-1]]
+
+^<<v10-8-1,1>>^ Depois disso, Davi bateu os filisteus e os submeteu, tirando-lhes as rédeas do governo.^&#42;1^
+
+[[v10-8-2]]
+
+^<<v10-8-2,2>>^ Depois venceu os moabitas e mediu-os com uma corda, fazendo-os deitar-se por terra: duas medidas de corda para a morte e uma medida plena de corda para a vida. Os moabitas tornaram-se súditos de Davi e pagaram-lhe tributo.
+
+[[v10-8-3]]
+
+^<<v10-8-3,3>>^ Davi derrotou em seguida Adadezer, filho de Roob, rei de Soba, quando este foi restabelecer o seu exército junto do rio.
+
+[[v10-8-4]]
+
+^<<v10-8-4,4>>^ Davi tomou-lhe mil e setecentos cavaleiros e vinte mil soldados de infantaria e cortou os jarretes de todos os cavalos de carros, dos quais somente reservou cem.
+
+[[v10-8-5]]
+
+^<<v10-8-5,5>>^ Os arameus de Damasco, tendo vindo em socorro de Adadezer, foram feridos por Davi, que abateu vinte e dois mil deles.
+
+[[v10-8-6]]
+
+^<<v10-8-6,6>>^ Feito isso, estabeleceu guarnições em Aram de Damasco e os arameus tornaram-se súditos de Davi, pagando-lhe tributo. Desse modo, o Senhor fazia que Davi triunfasse em toda parte por onde ia.
+
+[[v10-8-7]]
+
+^<<v10-8-7,7>>^ Tomou Davi os escudos de ouro que pertenciam aos soldados de Adadezer e levou-os para Jerusalém.
+
+[[v10-8-8]]
+
+^<<v10-8-8,8>>^ De Bete e de Berot, cidades de Adadezer, levou ainda bronze em grande quantidade.
+
+[[v10-8-9]]
+
+^<<v10-8-9,9>>^ Ouvindo Tou, rei de Emat, que Davi tinha desbaratado o exército de Adadezer,
+
+[[v10-8-10]]
+
+^<<v10-8-10,10>>^ mandou seu filho Adoram ao rei Davi para saudá-lo e felicitá-lo por ter combatido e vencido Adadezer, pois este era inimigo de Tou. Adoram levou a Davi muitos presentes em prata, ouro e bronze,
+
+[[v10-8-11]]
+
+^<<v10-8-11,11>>^ que o rei consagrou ao Senhor, juntamente com a prata e o ouro de todos os povos que subjugara:
+
+[[v10-8-12]]
+
+^<<v10-8-12,12>>^ Edom, Moab, os amonitas, os filisteus, Amalec e ainda o espólio de Adadezer, filho de Roob, rei de Soba.
+
+[[v10-8-13]]
+
+^<<v10-8-13,13>>^ Voltando de sua vitória sobre os arameus, Davi aumentou ainda o seu renome, vencendo dezoito mil edomitas no vale do Sal.^&#42;1^
+
+[[v10-8-14]]
+
+^<<v10-8-14,14>>^ Estabeleceu então governadores em Edom e todos os edomitas tornaram-se súditos de Davi. E o Senhor fazia com que Davi triunfasse em toda parte por onde ia.
+
+[[v10-8-15]]
+
+^<<v10-8-15,15>>^ Reinava pois Davi sobre todo o Israel e praticava a justiça e a equidade para com todo o seu povo.
+
+[[v10-8-16]]
+
+^<<v10-8-16,16>>^ Joab, filho de Sárvia, comandava o exército; Josafá, filho de Ailud, era o cronista;
+
+[[v10-8-17]]
+
+^<<v10-8-17,17>>^ Sadoc, filho de Aquitob e Abimelec, filho de Abiatar, eram sacerdotes e Saraías era escriba.
+
+[[v10-8-18]]
+
+^<<v10-8-18,18>>^ Banaías, filho de Joiada, comandava os cereteus e os feleteus. Os filhos de Davi eram sacerdotes.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-007.adoc#v10-7-0[&#60; Capítulo Anterior] | <<v10-8-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-009.adoc#v10-9-0[Próximo Capítulo &#62;]

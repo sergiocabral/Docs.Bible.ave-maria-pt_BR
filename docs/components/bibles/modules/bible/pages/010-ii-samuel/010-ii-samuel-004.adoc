@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v10-4-0]]
+=== II Samuel, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Samuel 4 descreve a morte de Is-Bosete, o filho de Saul, que havia sido proclamado rei de Israel após a morte de seu pai. Dois dos comandantes de Is-Bosete, Baaná e Recabe, conspiram contra ele e o matam enquanto ele descansa em sua casa. A seguir estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Provérbios 26:27: "Quem faz uma cova, nela cairá; se alguém rola uma pedra, esta rolará de volta sobre ele". Este verso destaca a ideia de que a violência e a conspiração contra outros acabam voltando contra aqueles que as cometem, como foi o caso de Baaná e Recabe.
+* Salmo 55:23: "Mas tu, ó Deus, farás descer à cova da destruição; homens sanguinários e enganadores não viverão metade dos seus dias; mas eu em ti confio". Este verso fala sobre a confiança em Deus para lidar com aqueles que são violentos e enganadores, como os assassinos de Is-Bosete.
+* Provérbios 21:30: "Não há sabedoria, nem inteligência, nem conselho contra o Senhor". Este verso destaca a soberania de Deus sobre todas as coisas e a futilidade daqueles que conspiram contra os planos de Deus.
+* Salmos 31:15: "Nas tuas mãos estão os meus dias; livra-me das mãos dos meus inimigos e dos que me perseguem". Este verso expressa a confiança em Deus para proteger aqueles que são perseguidos e atacados pelos seus inimigos, algo que Is-Bosete certamente teria desejado.
+* Provérbios 24:17: "Não se alegre quando o seu inimigo cai; não se regozije o seu coração quando ele tropeça". Este verso adverte contra a alegria diante da desgraça dos outros e destaca a importância da empatia, mesmo em relação aos inimigos.
+****
+
+[[v10-4-1]]
+
+^<<v10-4-1,1>>^ Quando o filho de Saul soube da morte de Abner, em Hebron, perdeu o ânimo e todo o Israel ficou consternado.^&#42;1^
+
+[[v10-4-2]]
+
+^<<v10-4-2,2>>^ Ora, tinha ele a seu serviço dois chefes de bando, um chamado Baana e o outro Recab, ambos filhos de Remon de Berot, benjaminitas. Porque Berot também fora contada entre os benjaminitas,
+
+[[v10-4-3]]
+
+^<<v10-4-3,3>>^ embora seus habitantes se tenham refugiado em Getaim, onde residem até hoje.
+
+[[v10-4-4]]
+
+^<<v10-4-4,4>>^ Jônatas, filho de Saul, tinha também um filho paralítico dos dois pés. Ele tinha cinco anos, quando chegou de Jezrael a notícia da morte de Saul e de Jônatas. Sua ama fugiu levando-o consigo, mas, na precipitação da fuga, o menino caiu e ficou manco. Chamava-se Mifiboset.^&#42;1^
+
+[[v10-4-5]]
+
+^<<v10-4-5,5>>^ Os filhos de Remon de Berot partiram no maior calor do dia e foram à casa de Isbaal, que estava dormindo a sesta.
+
+[[v10-4-6]]
+
+^<<v10-4-6,6>>^ Penetraram na casa sob o pretexto de buscar trigo e feriram-no no ventre. Recab e seu irmão Baana conseguiram entrar furtivamente^&#42;1^
+
+[[v10-4-7]]
+
+^<<v10-4-7,7>>^ e, tendo penetrado na casa, onde Isbaal repousava no seu leito, no quarto de dormir, feriram-no de morte e cortaram-lhe a cabeça. Tomaram-na depois consigo e andaram toda a noite pelo caminho da planície.
+
+[[v10-4-8]]
+
+^<<v10-4-8,8>>^ E levaram a cabeça de Isbaal a Davi, em Hebron. “Eis aqui – disseram-lhe – a cabeça de Isbaal, filho de Saul, teu inimigo que queria matar-te. O Senhor vingou hoje o rei, meu senhor, de Saul e de sua raça.”
+
+[[v10-4-9]]
+
+^<<v10-4-9,9>>^ Mas Davi respondeu a Recab e ao seu irmão Baana, filhos de Remon de Berot: “Pela vida de Deus que me salvou de todos os perigos!
+
+[[v10-4-10]]
+
+^<<v10-4-10,10>>^ O homem que me veio anunciar a morte de Saul, cuidando trazer-me uma boa notícia, tomei-o e matei-o em Siceleg, em recompensa de sua boa mensagem.
+
+[[v10-4-11]]
+
+^<<v10-4-11,11>>^ Quanto mais agora a homens celerados que mataram um inocente dentro de sua casa, em seu leito, não vos pedirei eu conta de seu sangue e não vos farei desaparecer da terra?”.
+
+[[v10-4-12]]
+
+^<<v10-4-12,12>>^ Davi ordenou aos seus homens que os matassem. Cortaram-lhes as mãos e os pés e penduraram-nos junto da piscina de Hebron. A cabeça de Isbaal foi recolhida e depositada no túmulo de Abner, em Hebron.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-003.adoc#v10-3-0[&#60; Capítulo Anterior] | <<v10-4-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-005.adoc#v10-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v35-8-0]]
+=== Oséias, 8
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Oséias 8 descreve como o povo de Israel se rebelou contra Deus, rejeitando as leis e os estatutos divinos em favor de líderes humanos e deuses falsos. A seguir estão cinco versículos de outras partes da Bíblia que se relacionam com os temas abordados em Oséias 8.
+* Deuteronômio 8:19-20: "Se vocês se desviarem, adorando e seguindo outros deuses, eu os declaro hoje que certamente serão destruídos... Vocês serão eliminados como as nações que o Senhor destruiu diante de vocês, por não terem obedecido ao Senhor, o seu Deus." Este trecho destaca a importância de seguir fielmente a Deus e de não se desviar para adorar outros deuses, ou sofrer consequências graves.
+* Êxodo 20:3: "Não terás outros deuses diante de mim." Este mandamento enfatiza a exclusividade da adoração a Deus, e como é errado colocar outras entidades no mesmo nível que o Criador.
+* Jeremias 2:13: "O meu povo cometeu dois pecados: eles me abandonaram, a mim, a fonte de água viva, e cavaram as suas próprias cisternas, cisternas rachadas que não retêm água." Este versículo ilustra como é tolo e inútil buscar fontes de água insatisfatórias e negligenciar a fonte de vida verdadeira em Deus.
+* 2 Reis 17:15: "Eles rejeitaram os seus estatutos e o pacto que tinha feito com seus antepassados, e as advertências que ele tinha dado. Seguiram ídolos falsos e se tornaram falsos em si mesmos, seguindo as nações vizinhas que o Senhor tinha expulsado de diante deles." Este trecho descreve como o povo de Israel se afastou do caminho de Deus e se tornou como as nações pagãs que os cercavam.
+* Jeremias 7:4: "Não confiem em palavras enganosas, dizendo: ‘Este é o templo do Senhor, o templo do Senhor, o templo do Senhor!’" Este versículo destaca a importância de não confiar apenas em lugares de culto ou rituais religiosos externos, mas sim em um relacionamento pessoal com Deus.
+****
+
+[[v35-8-1]]
+
+^<<v35-8-1,1>>^ À boca a trombeta! O inimigo precipita-se como uma águia sobre a casa do Senhor, porque violaram minha aliança e transgrediram minha Lei.
+
+[[v35-8-2]]
+
+^<<v35-8-2,2>>^ Clamam a mim: “Meu Deus!”. – Nós te conhecemos, Israel!^&#42;1^
+
+[[v35-8-3]]
+
+^<<v35-8-3,3>>^ Israel rejeitou o bem, o inimigo o persegue.
+
+[[v35-8-4]]
+
+^<<v35-8-4,4>>^ Constituíram reis sem minha aprovação, e chefes sem meu conhecimento. Fizeram para si ídolos de sua prata e de seu ouro, para a sua própria perdição.^&#42;1^
+
+[[v35-8-5]]
+
+^<<v35-8-5,5>>^ Rejeito teu bezerro (de ouro), ó Samaria! Minha cólera inflamou-se contra eles. Até quando não poderão eles purificar-se?
+
+[[v35-8-6]]
+
+^<<v35-8-6,6>>^ Porque (esse bezerro) é obra de Israel, foi um artista que o fez; ele não é um deus, será, pois, despedaçado o bezerro de Samaria.
+
+[[v35-8-7]]
+
+^<<v35-8-7,7>>^ Visto que semearam ventos, colherão tempestades; não terão sequer uma espiga, e o grão não dará farinha; e, mesmo que a desse, seria comida pelos estrangeiros.^&#42;1^
+
+[[v35-8-8]]
+
+^<<v35-8-8,8>>^ Israel foi devorado; ei-los que se tornaram como um objeto sem valor entre as nações,
+
+[[v35-8-9]]
+
+^<<v35-8-9,9>>^ porque fizeram aliança com a Assíria. O jumento montês anda sozinho, mas Efraim assalaria aliados.^&#42;1^
+
+[[v35-8-10]]
+
+^<<v35-8-10,10>>^ Em vão multiplicam as alianças, eu os juntarei; terão de se sujeitar ao rei e aos príncipes.^&#42;1^
+
+[[v35-8-11]]
+
+^<<v35-8-11,11>>^ Efraim multiplicou os altares, e seus altares só lhe serviram para pecar.
+
+[[v35-8-12]]
+
+^<<v35-8-12,12>>^ Mesmo que eu lhe escreva todos os preceitos de minha Lei, ele a estimará como uma Lei estrangeira.
+
+[[v35-8-13]]
+
+^<<v35-8-13,13>>^ Oferecem vítimas em sacrifício e comem-lhes as carnes, mas o Senhor não se compraz nelas. Doravante ele se lembrará da iniquidade deles, e punirá os seus pecados: voltarão para o Egito.^&#42;1^
+
+[[v35-8-14]]
+
+^<<v35-8-14,14>>^ Israel esqueceu-se de seu Criador, e construiu palácios para si. Judá multiplicou suas praças fortes. Mas vou pôr fogo às suas cidades e ele consumirá os seus edifícios.
+
+'''
+
+xref:035-oseias/035-oseias-007.adoc#v35-7-0[&#60; Capítulo Anterior] | <<v35-8-0,Topo>> | xref:035-oseias/035-oseias-009.adoc#v35-9-0[Próximo Capítulo &#62;]

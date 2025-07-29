@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v21-24-0]]
+=== Salmos, 24
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 24 fala sobre a majestade e a glória de Deus e como aqueles que são fiéis a Ele podem se aproximar de Sua presença. O salmista destaca a santidade de Deus e como Ele é digno de louvor e adoração. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 24:
+* Isaías 6:3: "E clamavam uns para os outros, dizendo: Santo, Santo, Santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória." Este versículo fala sobre a santidade de Deus e a glória que enche toda a terra. Isso se relaciona com o Salmo 24, que também enfatiza a santidade de Deus e Sua glória.
+* Salmo 29:2: "Dai ao Senhor a glória devida ao seu nome; adorai o Senhor vestidos de trajes santos." Este versículo enfatiza a adoração a Deus e a importância de reconhecer Sua santidade. O Salmo 24 também fala sobre a adoração a Deus e como aqueles que são fiéis podem se aproximar de Sua presença.
+* João 4:24: "Deus é Espírito, e importa que os que o adoram o adorem em espírito e em verdade." Este versículo enfatiza a importância de adorar a Deus com sinceridade e devoção. O Salmo 24 destaca como aqueles que são limpos de mãos e puros de coração podem se aproximar de Deus.
+* Salmos 48:1: "Grande é o Senhor e mui digno de ser louvado, na cidade do nosso Deus, no seu monte santo." Este versículo destaca a grandeza de Deus e como Ele é digno de louvor. O Salmo 24 também enfatiza a grandeza e a dignidade de Deus e Sua santidade.
+* Hebreus 10:22: "Cheguemo-nos com verdadeiro coração, em inteira certeza de fé, tendo o coração purificado da má consciência, e o corpo lavado com água limpa." Este versículo enfatiza a importância da pureza e da fé ao se aproximar de Deus. O Salmo 24 também enfatiza a pureza e a santidade necessárias para se aproximar de Deus.
+****
+
+[[v21-24-1]]
+
+^<<v21-24-1,1>>^ De Davi. Para vós, Senhor, elevo a minha alma.^&#42;1^
+
+[[v21-24-2]]
+
+^<<v21-24-2,2>>^ Meu Deus, em vós confio: não seja eu decepcionado! Não escarneçam de mim meus inimigos!
+
+[[v21-24-3]]
+
+^<<v21-24-3,3>>^ Não, nenhum daqueles que esperam em vós será confundido, mas os pérfidos serão cobertos de vergonha.
+
+[[v21-24-4]]
+
+^<<v21-24-4,4>>^ Senhor, mostrai-me os vossos caminhos, e ensinai-me as vossas veredas.
+
+[[v21-24-5]]
+
+^<<v21-24-5,5>>^ Dirigi-me na vossa verdade e ensinai-me, porque sois o Deus de minha salvação e em vós eu espero sempre.
+
+[[v21-24-6]]
+
+^<<v21-24-6,6>>^ Lembrai-vos, Senhor, de vossas misericórdias e de vossas bondades, que são eternas.
+
+[[v21-24-7]]
+
+^<<v21-24-7,7>>^ Não vos lembreis dos pecados de minha juventude e dos meus delitos; em nome de vossa misericórdia, lembrai-vos de mim, por causa de vossa bondade, Senhor.
+
+[[v21-24-8]]
+
+^<<v21-24-8,8>>^ O Senhor é bom e reto, por isso reconduz os extraviados ao caminho reto.
+
+[[v21-24-9]]
+
+^<<v21-24-9,9>>^ Dirige os humildes na justiça, e lhes ensina a sua via.
+
+[[v21-24-10]]
+
+^<<v21-24-10,10>>^ Todos os caminhos do Senhor são graça e fidelidade, para aqueles que guardam sua aliança e seus preceitos.
+
+[[v21-24-11]]
+
+^<<v21-24-11,11>>^ Por amor de vosso nome, Senhor, perdoai meu pecado, por maior que seja.
+
+[[v21-24-12]]
+
+^<<v21-24-12,12>>^ Que advém ao homem que teme o Senhor? Deus lhe ensina o caminho que deve escolher.
+
+[[v21-24-13]]
+
+^<<v21-24-13,13>>^ Viverá na felicidade, e sua posteridade possuirá a terra.
+
+[[v21-24-14]]
+
+^<<v21-24-14,14>>^ O Senhor se torna íntimo dos que o temem, e lhes manifesta a sua aliança.
+
+[[v21-24-15]]
+
+^<<v21-24-15,15>>^ Meus olhos estão sempre fixos no Senhor, porque ele livrará do laço os meus pés.
+
+[[v21-24-16]]
+
+^<<v21-24-16,16>>^ Olhai-me e tende piedade de mim, porque estou só e na miséria.
+
+[[v21-24-17]]
+
+^<<v21-24-17,17>>^ Aliviai as angústias do meu coração, e livrai-me das aflições.
+
+[[v21-24-18]]
+
+^<<v21-24-18,18>>^ Vede minha miséria e meu sofrimento, e perdoai-me todas as faltas.
+
+[[v21-24-19]]
+
+^<<v21-24-19,19>>^ Vede meus inimigos: são muitos, e com ódio implacável me perseguem.
+
+[[v21-24-20]]
+
+^<<v21-24-20,20>>^ Defendei minha alma e livrai-me: não seja confundido eu que em vós me acolhi.
+
+[[v21-24-21]]
+
+^<<v21-24-21,21>>^ Protejam-me a inocência e a integridade, porque espero em vós, Senhor.
+
+[[v21-24-22]]
+
+^<<v21-24-22,22>>^ Ó Deus, livrai Israel de todas as suas angústias.
+
+'''
+
+xref:021-salmos/021-salmos-023.adoc#v21-23-0[&#60; Capítulo Anterior] | <<v21-24-0,Topo>> | xref:021-salmos/021-salmos-025.adoc#v21-25-0[Próximo Capítulo &#62;]

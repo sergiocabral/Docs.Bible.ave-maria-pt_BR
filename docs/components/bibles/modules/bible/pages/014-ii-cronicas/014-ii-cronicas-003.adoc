@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v14-3-0]]
+=== II Crônicas, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* 2 Crônicas 3 descreve a construção do templo de Salomão em Jerusalém. O capítulo detalha as dimensões e materiais usados na construção do templo, incluindo o Santo dos Santos, os querubins e a cortina de linho fino. O capítulo também menciona a mão de obra envolvida na construção, incluindo artesãos e escultores habilidosos.
+* 1 Reis 6:7 - "E enquanto construía a casa, ela foi erguida com pedras já preparadas na pedreira, de modo que nem o martelo nem o machado nem qualquer outra ferramenta de ferro foram ouvidos na casa enquanto ela era construída." Este versículo descreve a construção do templo de Salomão e é uma continuação direta do relato em 2 Crônicas 3.
+* 2 Crônicas 3:5 - "As grandes figuras de querubins esculpidas em madeira de oliveira revestida de ouro foram colocadas no Santo dos Santos." Este versículo descreve a instalação dos querubins no Santo dos Santos, uma parte importante do templo de Salomão.
+* Êxodo 25:22 - "Ali, acima do propiciatório, entre os dois querubins que estão sobre a arca da aliança, falarei com você sobre tudo o que eu lhe ordenar a respeito dos israelitas." Este versículo descreve como Deus falava com Moisés no propiciatório, entre os querubins. Em 2 Crônicas 3, os querubins também são colocados no Santo dos Santos, mostrando a importância dessas figuras.
+* 1 Reis 7:13-14 - "O rei Salomão enviou buscar Hirão, de Tiro. Ele era filho de uma viúva da tribo de Naftali, e seu pai era de Tiro, que trabalhava com bronze. Hirão era um homem habilidoso e capaz de fazer todo tipo de trabalho em bronze. Ele veio para o rei Salomão e fez todo o trabalho em bronze." Este versículo descreve a habilidade de Hirão, que foi um artesão habilidoso na construção do templo de Salomão.
+* 2 Crônicas 3:1 - "Salomão começou a construir o templo do Senhor em Jerusalém, no monte Moriá, onde o Senhor havia aparecido a seu pai Davi. Esse era o lugar designado por Davi na eira de Araúna, o jebuseu, onde Davi havia construído um altar ao Senhor." Este versículo estabelece o local da construção do templo, mostrando que Salomão seguiu o plano de seu pai Davi.
+****
+
+[[v14-3-1]]
+
+^<<v14-3-1,1>>^ Salomão começou a construção do Templo do Senhor, em Jerusalém, no monte Moriá, onde Deus tinha aparecido a seu pai Davi, no lugar que este tinha preparado, na eira de Ornã.
+
+[[v14-3-2]]
+
+^<<v14-3-2,2>>^ Foi no segundo dia do segundo mês, no quarto ano de seu reinado, que iniciou a obra.
+
+[[v14-3-3]]
+
+^<<v14-3-3,3>>^ Estes são os fundamentos determinados por Salomão para a construção do templo: de comprimento, sessenta côvados, segundo a antiga medida; de largura, vinte côvados.
+
+[[v14-3-4]]
+
+^<<v14-3-4,4>>^ O pórtico, que se achava no frontispício e cujo comprimento correspondia à largura do edifício, tinha vinte côvados e vinte de altura. Era revestido de ouro puro por dentro.^&#42;1^
+
+[[v14-3-5]]
+
+^<<v14-3-5,5>>^ A grande sala foi forrada de ciprestes; ele a guarneceu de ouro puro nos lugares em que estavam esculpidas as palmas e as pequenas cadeias.
+
+[[v14-3-6]]
+
+^<<v14-3-6,6>>^ Ornou essa sala com pedras preciosas; o ouro era de Parvaim.
+
+[[v14-3-7]]
+
+^<<v14-3-7,7>>^ O rei revestiu de ouro a sala: traves, umbrais, paredes e portas; nas paredes mandou esculpir querubins.
+
+[[v14-3-8]]
+
+^<<v14-3-8,8>>^ Fez também a construção da sala do Santo dos Santos, cujo comprimento, igual à largura do edifício, era de vinte côvados. O valor do ouro fino, com que o recobriu, era de seiscentos talentos.
+
+[[v14-3-9]]
+
+^<<v14-3-9,9>>^ Mesmo os pregos eram de ouro e pesavam cinquenta siclos. Revestiu igualmente de ouro os aposentos.
+
+[[v14-3-10]]
+
+^<<v14-3-10,10>>^ Para o interior do Santo dos Santos, mandou esculpir dois querubins e os revestiu de ouro.
+
+[[v14-3-11]]
+
+^<<v14-3-11,11>>^ O comprimento de suas asas era de vinte côvados. Uma asa do primeiro, de cinco côvados de comprimento, tocava a parede da sala e a outra, de cinco côvados, tocava a asa do segundo querubim.
+
+[[v14-3-12]]
+
+^<<v14-3-12,12>>^ Uma asa do segundo querubim, de cinco côvados de comprimento, tocava a parede da sala e a outra, de cinco côvados de comprimento, tocava a asa do primeiro.
+
+[[v14-3-13]]
+
+^<<v14-3-13,13>>^ Assim, a envergadura das asas desses querubins era de vinte côvados. Sustentavam-se sobre seus pés com o rosto voltado para a sala.
+
+[[v14-3-14]]
+
+^<<v14-3-14,14>>^ O rei mandou fazer a cortina de púrpura violeta, carmesim e de linho fino e nela mandou bordar querubins.
+
+[[v14-3-15]]
+
+^<<v14-3-15,15>>^ Diante do edifício, levantou duas colunas de trinta e cinco côvados de altura, tendo no alto um capitel de cinco côvados.^&#42;1^
+
+[[v14-3-16]]
+
+^<<v14-3-16,16>>^ Como para o santuário, fez pequenas cadeias, colocou-as no cimo das colunas e suspendeu nelas cem romãs.
+
+[[v14-3-17]]
+
+^<<v14-3-17,17>>^ Levantou colunas, uma à direita e outra à esquerda da fachada do templo; chamou à da direita Jaquin e à da esquerda, Booz.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-002.adoc#v14-2-0[&#60; Capítulo Anterior] | <<v14-3-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-004.adoc#v14-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v53-10-0]]
+=== I Coríntios, 10
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 10 de 1 Coríntios aborda a importância de se manter fiel a Deus e evitar cair em tentação, lembrando de exemplos do passado onde o povo de Israel falhou em seguir a Deus. Também fala sobre a liberdade que os cristãos têm em relação a certas práticas, mas alerta para que não se tornem tropeço para os outros. Abaixo estão cinco versículos relacionados com os temas abordados nesse capítulo:
+* Gálatas 5:1: "Para a liberdade Cristo nos libertou; permanecei, pois, firmes e não vos dobreis novamente a um jugo de escravidão." Este versículo fala sobre a liberdade que temos em Cristo, tema abordado em 1 Coríntios 10, mas alerta para não voltar à escravidão do pecado. É um lembrete de que, apesar de termos liberdade em Cristo, devemos usá-la com sabedoria e responsabilidade.
+* 2 Pedro 2:9: "Assim, o Senhor sabe livrar da tentação os piedosos e reservar os injustos para o dia do juízo, para serem castigados." Este versículo destaca a fidelidade de Deus em livrar os fiéis da tentação e também ressalta que os injustos serão castigados. Isso se relaciona com o tema abordado em 1 Coríntios 10 sobre a importância de se manter fiel a Deus e evitar cair em tentação.
+* 1 Coríntios 8:9: "Contudo, vede que esta liberdade vossa não se torne em tropeço para os fracos." Este versículo se relaciona diretamente com o tema abordado em 1 Coríntios 10 sobre a liberdade que os cristãos têm em relação a certas práticas, mas alerta para que não se tornem tropeço para os outros. É um lembrete de que devemos usar nossa liberdade com amor e consideração pelos outros.
+* Hebreus 3:12-13: "Vede, irmãos, que nunca haja em qualquer de vós um coração mau e incrédulo, para se apartar do Deus vivo. Antes, exortai-vos uns aos outros todos os dias, durante o tempo que se chama hoje, para que nenhum de vós seja endurecido pelo engano do pecado." Este versículo fala sobre a importância de encorajar e exortar uns aos outros na fé para evitar o endurecimento do coração pelo pecado. Isso se relaciona com o tema abordado em 1 Coríntios 10 sobre a importância de se manter fiel a Deus e evitar cair em tentação.
+* 1 João 5:21: "Filhinhos, guardai-vos dos ídolos." Este versículo é um lembrete de que devemos evitar a idolatria, tema abordado em 1 Coríntios 10. É uma exortação a manter nossa fé em Deus e não permitir que outros deuses ou práticas nos afastem dele.
+****
+
+[[v53-10-1]]
+
+^<<v53-10-1,1>>^ (Não quero que ignoreis, irmãos), que os nossos pais estiveram todos debaixo da nuvem e que todos atravessaram o mar;
+
+[[v53-10-2]]
+
+^<<v53-10-2,2>>^ todos foram batizados em Moisés, na nuvem e no mar;
+
+[[v53-10-3]]
+
+^<<v53-10-3,3>>^ todos comeram do mesmo alimento espiritual;^&#42;1^
+
+[[v53-10-4]]
+
+^<<v53-10-4,4>>^ todos beberam da mesma bebida espiritual (pois todos bebiam da pedra espiritual que os seguia; e essa pedra era Cristo).^&#42;1^
+
+[[v53-10-5]]
+
+^<<v53-10-5,5>>^ Não obstante, a maioria deles desgostou a Deus, pois seus cadáveres cobriram o deserto.
+
+[[v53-10-6]]
+
+^<<v53-10-6,6>>^ Essas coisas aconteceram para nos servir de exemplo, a fim de não cobiçarmos coisas más, como eles as cobiçaram.
+
+[[v53-10-7]]
+
+^<<v53-10-7,7>>^ Nem vos torneis idólatras, como alguns deles, conforme está escrito: O povo sentou-se para comer e para beber, e depois levantou-se para se divertir (Ex 32,6).
+
+[[v53-10-8]]
+
+^<<v53-10-8,8>>^ Nem nos entreguemos à impureza como alguns deles se entregaram, e morreram num só dia vinte e três mil.
+
+[[v53-10-9]]
+
+^<<v53-10-9,9>>^ Nem tentemos o Senhor, como alguns deles o tentaram, e pereceram mordidos pelas serpentes.
+
+[[v53-10-10]]
+
+^<<v53-10-10,10>>^ Nem murmureis, como murmuraram alguns deles, e foram mortos pelo exterminador.^&#42;1^
+
+[[v53-10-11]]
+
+^<<v53-10-11,11>>^ Todas essas desgraças lhes aconteceram para nosso exemplo; foram escritas para advertência nossa, para nós, que tocamos o final dos tempos.
+
+[[v53-10-12]]
+
+^<<v53-10-12,12>>^ Portanto, quem pensa estar de pé veja que não caia.
+
+[[v53-10-13]]
+
+^<<v53-10-13,13>>^ Não vos sobreveio tentação alguma que ultrapassasse as forças humanas. Deus é fiel: não permitirá que sejais tentados além das vossas forças, mas com a tentação, ele vos dará os meios de suportá-la e sairdes dela.
+
+[[v53-10-14]]
+
+^<<v53-10-14,14>>^ Portanto, caríssimos meus, fugi da idolatria.
+
+[[v53-10-15]]
+
+^<<v53-10-15,15>>^ Falo como a pessoas sensatas; julgai vós mesmos o que digo.
+
+[[v53-10-16]]
+
+^<<v53-10-16,16>>^ O cálice de bênção, que benzemos, não é a comunhão do sangue de Cristo? E o pão, que partimos, não é a comunhão do corpo de Cristo?
+
+[[v53-10-17]]
+
+^<<v53-10-17,17>>^ Uma vez que há um único pão, nós, embora sendo muitos, formamos um só corpo, porque todos nós comungamos do mesmo pão.
+
+[[v53-10-18]]
+
+^<<v53-10-18,18>>^ Considerai Israel segundo a carne: não entram em comunhão com o altar os que comem as vítimas?^&#42;1^
+
+[[v53-10-19]]
+
+^<<v53-10-19,19>>^ Que quero afirmar com isso? Que a carne sacrificada aos ídolos ou o próprio ídolo são alguma coisa?
+
+[[v53-10-20]]
+
+^<<v53-10-20,20>>^ Não! As coisas que os pagãos sacrificam, sacrificam-nas a demônios e não a Deus. E eu não quero que tenhais comunhão com os demônios.
+
+[[v53-10-21]]
+
+^<<v53-10-21,21>>^ Não podeis beber ao mesmo tempo o cálice do Senhor e o cálice dos demônios. Não podeis participar ao mesmo tempo da mesa do Senhor e da mesa dos demônios.
+
+[[v53-10-22]]
+
+^<<v53-10-22,22>>^ Ou queremos provocar a ira do Senhor? Acaso somos mais fortes do que ele?
+
+[[v53-10-23]]
+
+^<<v53-10-23,23>>^ Tudo é permitido, mas nem tudo é oportuno. Tudo é permitido, mas nem tudo edifica.
+
+[[v53-10-24]]
+
+^<<v53-10-24,24>>^ Ninguém busque o seu interesse, mas o do próximo.
+
+[[v53-10-25]]
+
+^<<v53-10-25,25>>^ Comei de tudo o que se vende no açougue, sem indagar de coisa alguma por motivo de consciência.
+
+[[v53-10-26]]
+
+^<<v53-10-26,26>>^ Do Senhor é a terra e tudo que ela encerra.^&#42;1^
+
+[[v53-10-27]]
+
+^<<v53-10-27,27>>^ Se algum infiel vos convidar e quiserdes ir, comei de tudo o que se vos puser diante sem indagar de coisa alguma por motivo de consciência.
+
+[[v53-10-28]]
+
+^<<v53-10-28,28>>^ Mas se alguém disser: “Isto foi sacrificado aos ídolos”, não o comais, em atenção àquele que o advertiu e por motivo de consciência.
+
+[[v53-10-29]]
+
+^<<v53-10-29,29>>^ Dizendo consciência, refiro-me não à tua, mas à do outro. Com efeito, por que razão seria regulada a minha liberdade pela consciência alheia?
+
+[[v53-10-30]]
+
+^<<v53-10-30,30>>^ Se eu como com ações de graças, por que serei eu censurado por causa do alimento pelo qual rendo graças?
+
+[[v53-10-31]]
+
+^<<v53-10-31,31>>^ Portanto, quer comais, quer bebais ou façais qualquer outra coisa, fazei tudo para a glória de Deus.
+
+[[v53-10-32]]
+
+^<<v53-10-32,32>>^ Não vos torneis causa de escândalo, nem para os judeus, nem para os gentios, nem para a Igreja de Deus.
+
+[[v53-10-33]]
+
+^<<v53-10-33,33>>^ Fazei como eu: em todas as circunstâncias, procuro agradar a todos. Não busco os meus interesses próprios, mas os interesses dos outros, para que todos sejam salvos.
+
+'''
+
+xref:053-i-corintios/053-i-corintios-009.adoc#v53-9-0[&#60; Capítulo Anterior] | <<v53-10-0,Topo>> | xref:053-i-corintios/053-i-corintios-011.adoc#v53-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v20-39-0]]
+=== Jó, 39
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jó 39 trata sobre os animais selvagens e o cuidado que Deus tem por eles, apresentando exemplos de como eles se comportam e se reproduzem. Abaixo seguem cinco versículos relacionados com os temas abordados no capítulo:
+* Salmos 104:21: "Os leõezinhos rugem pela presa e buscam de Deus o seu sustento." Este versículo mostra a dependência dos animais selvagens de Deus para sua sobrevivência.
+* Provérbios 30:25: "As formigas não são um povo forte, contudo no verão preparam a sua comida." Assim como os animais selvagens, as formigas têm um instinto que os leva a se prepararem para o futuro.
+* Isaías 11:6: "O lobo habitará com o cordeiro, e o leopardo se deitará com o cabrito; o bezerro, o leão novo e o animal cevado andarão juntos, e um pequenino os guiará." Este versículo descreve a paz que existirá na criação de Deus.
+* Mateus 6:26: "Observai as aves do céu: não semeiam, não colhem, nem ajuntam em celeiros; contudo, vosso Pai celestial as sustenta. Não tendes vós muito mais valor do que as aves?" Jesus usa a criação como exemplo para mostrar a preocupação de Deus em sustentar todas as criaturas.
+* Jeremias 8:7: "Até a cegonha no céu conhece o tempo de sua migração; a rola, o grou e a andorinha observam atentamente a época de sua chegada. Mas o meu povo não conhece o julgamento do Senhor." Este versículo compara a sabedoria da criação de Deus com a falta de sabedoria do povo de Israel em relação ao seu julgamento divino.
+****
+
+[[v20-39-1]]
+
+^<<v20-39-1,1>>^ Sabes o tempo em que as cabras monteses dão cria nos rochedos? Observaste o parto das corças?
+
+[[v20-39-2]]
+
+^<<v20-39-2,2>>^ Contaste os meses de sua gravidez e sabes o tempo de seu parto?
+
+[[v20-39-3]]
+
+^<<v20-39-3,3>>^ Elas se agacham, dão cria e se livram de suas dores.
+
+[[v20-39-4]]
+
+^<<v20-39-4,4>>^ Seus filhotes tornam-se fortes e crescem nos campos, apartam-se delas e não voltam mais a elas.
+
+[[v20-39-5]]
+
+^<<v20-39-5,5>>^ Quem pôs o jumento selvagem em liberdade e quem rompeu os laços do asno veloz?
+
+[[v20-39-6]]
+
+^<<v20-39-6,6>>^ Dei-lhe o deserto por morada e a planície salgada como lugar de habitação.
+
+[[v20-39-7]]
+
+^<<v20-39-7,7>>^ Ele se ri do tumulto da cidade e não escuta os gritos do tropeiro.
+
+[[v20-39-8]]
+
+^<<v20-39-8,8>>^ Explora as montanhas da sua pastagem e nela anda buscando tudo o que é verde.
+
+[[v20-39-9]]
+
+^<<v20-39-9,9>>^ Quererá servir-te o boi selvagem ou passará a noite em teu estábulo?
+
+[[v20-39-10]]
+
+^<<v20-39-10,10>>^ Podes prendê-lo com uma corda em seu pescoço ou fenderá ele atrás de ti os teus sulcos?
+
+[[v20-39-11]]
+
+^<<v20-39-11,11>>^ Fiarás nele porque sua força é grande e lhe deixarás a seu cuidado o teu trabalho?
+
+[[v20-39-12]]
+
+^<<v20-39-12,12>>^ Confiarás nele para que te traga para a casa o que semeaste e que te encha a tua eira?
+
+[[v20-39-13]]
+
+^<<v20-39-13,13>>^ O avestruz bate as asas alegremente, não tem asas nem penas de bondade?^&#42;1^
+
+[[v20-39-14]]
+
+^<<v20-39-14,14>>^ Abandona os seus ovos na terra e os deixa aquecer no solo,
+
+[[v20-39-15]]
+
+^<<v20-39-15,15>>^ esquecendo-se que um pé poderá esmagá-los ou que animais selvagens poderão pisá-los.
+
+[[v20-39-16]]
+
+^<<v20-39-16,16>>^ É cruel com seus filhotes, como se não fossem seus e não se incomoda de ter sofrido em vão.
+
+[[v20-39-17]]
+
+^<<v20-39-17,17>>^ Pois Deus lhe negou sabedoria e não lhe concedeu inteligência.
+
+[[v20-39-18]]
+
+^<<v20-39-18,18>>^ Mas, quando alça voo, ri-se do cavalo e do cavaleiro.
+
+[[v20-39-19]]
+
+^<<v20-39-19,19>>^ És tu que dás vigor ao cavalo e foste tu que enfeitaste seu pescoço com uma crina ondulante?
+
+[[v20-39-20]]
+
+^<<v20-39-20,20>>^ Que o fazes saltar como um gafanhoto, relinchando terrivelmente?
+
+[[v20-39-21]]
+
+^<<v20-39-21,21>>^ Orgulhoso de sua força, escava a terra com a pata e atira-se à frente das armas.
+
+[[v20-39-22]]
+
+^<<v20-39-22,22>>^ Ri-se do medo, nada o assusta e não recua diante da espada.
+
+[[v20-39-23]]
+
+^<<v20-39-23,23>>^ Sobre ele ressoam a aljava, o ferro brilhante da lança e o dardo.
+
+[[v20-39-24]]
+
+^<<v20-39-24,24>>^ Tremendo de impaciência, devora o espaço e o som da trombeta não o deixa no lugar.
+
+[[v20-39-25]]
+
+^<<v20-39-25,25>>^ Ao sinal do clarim, diz: ‘Vamos!’. De longe fareja a batalha, a voz troante dos chefes e o alarido dos guerreiros.
+
+[[v20-39-26]]
+
+^<<v20-39-26,26>>^ É graças à tua sabedoria que o falcão alça voo e desdobra as suas asas para o sul?
+
+[[v20-39-27]]
+
+^<<v20-39-27,27>>^ É por tua ordem que a águia levanta voo e faz seu ninho nas alturas?
+
+[[v20-39-28]]
+
+^<<v20-39-28,28>>^ Ela habita nos rochedos e neles passa a noite, sobre a ponta rochosa e o cimo escarpado.
+
+[[v20-39-29]]
+
+^<<v20-39-29,29>>^ De lá espia sua presa, pois seus olhos penetram as distâncias.
+
+[[v20-39-30]]
+
+^<<v20-39-30,30>>^ Seus filhotes se alimentam de sangue e onde quer que haja cadáveres, ali está ela”.
+
+'''
+
+xref:020-jo/020-jo-038.adoc#v20-38-0[&#60; Capítulo Anterior] | <<v20-39-0,Topo>> | xref:020-jo/020-jo-040.adoc#v20-40-0[Próximo Capítulo &#62;]

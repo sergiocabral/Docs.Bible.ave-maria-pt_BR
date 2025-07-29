@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v65-11-0]]
+=== Hebreus, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Hebreus 11 é conhecido como o capítulo da fé na Bíblia, que apresenta uma lista de heróis da fé do Antigo Testamento e como eles confiaram em Deus em meio às adversidades. Esses homens e mulheres foram considerados justos pela sua fé e, mesmo sem verem a realização das promessas de Deus em suas vidas, eles permaneceram firmes em sua confiança no Senhor. A seguir estão cinco versículos relacionados com os temas abordados em Hebreus 11:
+* Gênesis 6:9: "Estas são as gerações de Noé. Noé era homem justo e íntegro entre os seus contemporâneos; Noé andava com Deus." Este versículo apresenta Noé como um homem justo e íntegro que andava com Deus, o que o levou a obedecer às ordens do Senhor para construir uma arca e se salvar do dilúvio. A fé de Noé em Deus o ajudou a superar as dificuldades e a confiar nas promessas divinas.
+* Gênesis 15:6: "Abrão creu no Senhor, e isso lhe foi creditado como justiça." Esse versículo é frequentemente citado em Hebreus 11 para mostrar como Abraão foi justificado pela fé em Deus. Mesmo em sua velhice, quando a promessa de ter um filho parecia impossível, Abraão acreditou nas promessas de Deus e foi considerado justo por sua fé.
+* Gênesis 22:17: "Abençoar-te-ei e multiplicarei a tua descendência como as estrelas dos céus e como a areia na praia do mar. E a tua descendência conquistará as cidades dos seus inimigos." Esse versículo destaca a promessa de Deus a Abraão de que sua descendência seria numerosa e conquistaria seus inimigos. A fé de Abraão nessa promessa o sustentou em meio às dificuldades e desafios que ele enfrentou.
+* Êxodo 2:10: "Quando o menino cresceu, ela o levou à filha do faraó, e ele se tornou filho dela. Ela o chamou Moisés, e disse: 'Porque das águas o tirei'." Esse versículo se refere à história de Moisés, que foi salvo da morte quando sua mãe o colocou em um cesto e o colocou no rio Nilo. A fé de sua mãe em Deus a levou a acreditar que ele seria protegido e salvo, e essa fé foi recompensada quando ele foi encontrado e adotado pela filha do faraó.
+* Josué 6:20: "Então o povo deu um grande grito, e as muralhas da cidade desabaram; o povo atacou a cidade de todos os lados, e assim a tomaram." Esse versículo se refere à história da queda de Jericó, que foi conquistada pelos israelitas depois que eles seguiram as instruções de Deus e circularam a cidade por sete dias. A fé do povo de Israel em Deus os ajudou a superar as muralhas da cidade e a conquistá-la, mostrando que a confiança em Deus é capaz de mover montanhas.
+****
+
+[[v65-11-1]]
+
+^<<v65-11-1,1>>^ A fé é o fundamento da esperança, é uma certeza a respeito do que não se vê.^&#42;1^
+
+[[v65-11-2]]
+
+^<<v65-11-2,2>>^ Foi ela que fez a glória dos nossos antepassados.
+
+[[v65-11-3]]
+
+^<<v65-11-3,3>>^ Pela fé reconhecemos que o mundo foi formado pela Palavra de Deus e que as coisas visíveis se originaram do invisível.
+
+[[v65-11-4]]
+
+^<<v65-11-4,4>>^ Pela fé Abel ofereceu a Deus um sacrifício bem superior ao de Caim, e mereceu ser chamado justo, porque Deus aceitou as suas ofertas. Graças a ela é que, apesar de sua morte, ele ainda fala.^&#42;1^
+
+[[v65-11-5]]
+
+^<<v65-11-5,5>>^ Pela fé Henoc foi arrebatado, sem ter conhecido a morte: e não foi achado, porquanto Deus o arrebatou; mas a Escritura diz que, antes de ser arrebatado, ele tinha agradado a Deus (Gn 5,24).
+
+[[v65-11-6]]
+
+^<<v65-11-6,6>>^ Ora, sem fé é impossível agradar a Deus, pois para se achegar a ele é necessário que se creia primeiro que ele existe e que recompensa os que o procuram.
+
+[[v65-11-7]]
+
+^<<v65-11-7,7>>^ Pela fé na Palavra de Deus, Noé foi avisado a respeito de acontecimentos imprevisíveis; cheio de santo temor, construiu a arca para salvar a sua família. Pela fé ele condenou o mundo e se tornou o herdeiro da justificação mediante a fé.
+
+[[v65-11-8]]
+
+^<<v65-11-8,8>>^ Foi pela fé que Abraão, obedecendo ao apelo divino, partiu para uma terra que devia receber em herança. E partiu não sabendo para onde ia.
+
+[[v65-11-9]]
+
+^<<v65-11-9,9>>^ Foi pela fé que ele habitou na terra prometida, como em terra estrangeira, habitando aí em tendas com Isaac e Jacó, coerdeiros da mesma promessa.
+
+[[v65-11-10]]
+
+^<<v65-11-10,10>>^ Porque tinha a esperança fixa na cidade assentada sobre os fundamentos (eternos), cujo arquiteto e construtor é Deus.
+
+[[v65-11-11]]
+
+^<<v65-11-11,11>>^ Foi pela fé que a própria Sara cobrou o vigor de conceber, apesar de sua idade avançada, porque acreditou na fidelidade daquele que lhe havia prometido.
+
+[[v65-11-12]]
+
+^<<v65-11-12,12>>^ Assim, de um só homem quase morto nasceu uma posteridade tão numerosa como as estrelas do céu e inumerável como os grãos de areia da praia do mar.
+
+[[v65-11-13]]
+
+^<<v65-11-13,13>>^ Foi na fé que todos (nossos pais) morreram. Embora sem atingir o que lhes tinha sido prometido, viram-no e o saudaram de longe, confessando que eram só estrangeiros e peregrinos sobre a terra (Gn 23,4).
+
+[[v65-11-14]]
+
+^<<v65-11-14,14>>^ Dizendo isto, declaravam que buscavam uma pátria.
+
+[[v65-11-15]]
+
+^<<v65-11-15,15>>^ E se se referissem àquela donde saíram, ocasião teriam de tornar a ela...
+
+[[v65-11-16]]
+
+^<<v65-11-16,16>>^ Mas não. Eles aspiravam a uma pátria melhor, isto é, à celestial. Por isso, Deus não se dedigna de ser chamado o seu Deus; de fato, ele lhes preparou uma cidade.
+
+[[v65-11-17]]
+
+^<<v65-11-17,17>>^ Foi pela sua fé que Abraão, submetido à prova, ofereceu Isaac, seu único filho,
+
+[[v65-11-18]]
+
+^<<v65-11-18,18>>^ depois de ter recebido a promessa e ouvido as palavras: Uma posteridade com o teu nome te será dada em Isaac (Gn 21,12).
+
+[[v65-11-19]]
+
+^<<v65-11-19,19>>^ Estava ciente de que Deus é poderoso até para ressuscitar alguém dentre os mortos. Assim, ele conseguiu que seu filho lhe fosse devolvido. E isso é um ensinamento para nós!
+
+[[v65-11-20]]
+
+^<<v65-11-20,20>>^ Foi inspirado pela fé que Isaac deu a Jacó e a Esaú uma bênção em vista de acontecimentos futuros.
+
+[[v65-11-21]]
+
+^<<v65-11-21,21>>^ Foi pela fé que Jacó, estando para morrer, abençoou cada um dos filhos de José e venerou a extremidade do seu bastão.^&#42;1^
+
+[[v65-11-22]]
+
+^<<v65-11-22,22>>^ Foi pela fé que José, quando estava para morrer, fez menção da partida dos filhos de Israel e dispôs a respeito dos seus despojos.
+
+[[v65-11-23]]
+
+^<<v65-11-23,23>>^ Foi pela fé que os pais de Moisés, vendo nele uma criança encantadora, o esconderam durante três meses e não temeram o edito real.
+
+[[v65-11-24]]
+
+^<<v65-11-24,24>>^ Foi pela fé que Moisés, uma vez crescido, renunciou a ser tido como filho da filha do faraó,
+
+[[v65-11-25]]
+
+^<<v65-11-25,25>>^ preferindo participar da sorte infeliz do povo de Deus, a fruir dos prazeres culpáveis e passageiros.
+
+[[v65-11-26]]
+
+^<<v65-11-26,26>>^ Com os olhos fixos na recompensa, considerava os ultrajes por amor de Cristo como um bem mais precioso que todos os tesouros dos egípcios.
+
+[[v65-11-27]]
+
+^<<v65-11-27,27>>^ Foi pela fé que deixou o Egito, não temendo a cólera do rei, com tanta segurança como estivesse vendo o invisível.
+
+[[v65-11-28]]
+
+^<<v65-11-28,28>>^ Foi pela fé que mandou celebrar a Páscoa e aspergir (os portais) com sangue, para que o anjo exterminador dos primogênitos poupasse os filhos de Israel.
+
+[[v65-11-29]]
+
+^<<v65-11-29,29>>^ Foi pela fé que os fez atravessar o mar Vermelho, como por terreno seco, ao passo que os egípcios que se atreveram a persegui-los foram afogados.
+
+[[v65-11-30]]
+
+^<<v65-11-30,30>>^ Foi pela fé que desabaram as muralhas de Jericó, depois de rodeadas por sete dias.
+
+[[v65-11-31]]
+
+^<<v65-11-31,31>>^ Foi pela fé que Raab, a meretriz, não pereceu com aqueles que resistiram, por ter dado asilo aos espias.
+
+[[v65-11-32]]
+
+^<<v65-11-32,32>>^ Que mais direi? Irá me faltar o tempo, se falar de Gedeão, Barac, Sansão, Jefté, Davi, Samuel e dos profetas.
+
+[[v65-11-33]]
+
+^<<v65-11-33,33>>^ Graças à sua fé conquistaram reinos, praticaram a justiça, viram se realizar as promessas. Taparam bocas de leões,
+
+[[v65-11-34]]
+
+^<<v65-11-34,34>>^ extinguiram a violência do fogo, escaparam a fio de espada, triunfaram de enfermidades, foram corajosos na guerra e puseram em debandada exércitos estrangeiros.
+
+[[v65-11-35]]
+
+^<<v65-11-35,35>>^ Devolveram vivos às suas mães os filhos mortos. Alguns foram torturados, por recusarem ser libertados, movidos pela esperança de uma ressurreição mais gloriosa.
+
+[[v65-11-36]]
+
+^<<v65-11-36,36>>^ Outros sofreram escárnio e açoites, cadeias e prisões.
+
+[[v65-11-37]]
+
+^<<v65-11-37,37>>^ Foram apedrejados, massacrados, serrados ao meio, mortos a fio de espada. Andaram errantes, vestidos de pele de ovelha e de cabra, necessitados de tudo, perseguidos e maltratados,
+
+[[v65-11-38]]
+
+^<<v65-11-38,38>>^ homens de que o mundo não era digno! Refugiaram-se nas solidões das montanhas, nas cavernas e em antros subterrâneos.
+
+[[v65-11-39]]
+
+^<<v65-11-39,39>>^ E, no entanto, todos estes mártires da fé não conheceram a realização das promessas!
+
+[[v65-11-40]]
+
+^<<v65-11-40,40>>^ Porque Deus, que tinha para nós uma sorte melhor, não quis que eles chegassem sem nós à perfeição (da felicidade).
+
+'''
+
+xref:065-hebreus/065-hebreus-010.adoc#v65-10-0[&#60; Capítulo Anterior] | <<v65-11-0,Topo>> | xref:065-hebreus/065-hebreus-012.adoc#v65-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v47-7-0]]
+=== São Mateus, 7
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* São Mateus 7 começa com Jesus ensinando sobre julgar os outros, alertando que seremos julgados da mesma forma que julgamos os outros. Ele continua falando sobre o caminho estreito e largo, bons e maus frutos, e a importância de praticar a vontade de Deus. Jesus também fala sobre aqueles que o chamam de Senhor, mas não fazem a vontade de Deus, e termina com a parábola da casa construída na rocha e na areia. Aqui estão cinco versículos relacionados com esses temas:
+* Provérbios 21:2: "Todo caminho do homem é reto aos seus próprios olhos, mas o Senhor sonda os corações." Este versículo se relaciona com a ideia de que o caminho largo pode parecer certo aos nossos próprios olhos, mas devemos nos submeter à vontade de Deus, que conhece os nossos corações.
+* Mateus 7:12: "Tudo o que vocês desejam que os outros façam a vocês, façam também a eles. Esta é a essência da Lei e dos Profetas." Aqui, Jesus ensina sobre fazer aos outros o que gostaríamos que fizessem a nós, o que se relaciona com amar o próximo como a si mesmo e praticar a vontade de Deus.
+* Mateus 7:21: "Nem todo aquele que me diz: ‘Senhor, Senhor’, entrará no Reino dos céus, mas apenas aquele que faz a vontade de meu Pai que está nos céus." Este versículo fala sobre a importância de praticar a vontade de Deus e não apenas chamar Jesus de Senhor em palavras.
+* Mateus 7:24: "Portanto, quem ouve estas minhas palavras e as pratica é como um homem prudente que construiu a sua casa sobre a rocha." Este versículo se relaciona com a parábola da casa construída sobre a rocha e a importância de praticar os ensinamentos de Jesus.
+* Tiago 1:22: "Não sejam apenas ouvintes da palavra, enganando-se a si mesmos. Pratiquem o que ela diz." Este versículo reforça a ideia de que a prática da palavra é fundamental, em vez de apenas ouvi-la sem agir.
+****
+
+[[v47-7-1]]
+
+^<<v47-7-1,1>>^ “Não julgueis, e não sereis julgados.
+
+[[v47-7-2]]
+
+^<<v47-7-2,2>>^ Porque do mesmo modo que julgardes, sereis também vós julgados e, com a medida com que tiverdes medido, também vós sereis medidos.
+
+[[v47-7-3]]
+
+^<<v47-7-3,3>>^ Por que olhas a palha que está no olho do teu irmão e não vês a trave que está no teu?
+
+[[v47-7-4]]
+
+^<<v47-7-4,4>>^ Como ousas dizer a teu irmão: Deixa-me tirar a palha do teu olho, quando tens uma trave no teu?
+
+[[v47-7-5]]
+
+^<<v47-7-5,5>>^ Hipócrita! Tira primeiro a trave de teu olho e assim verás para tirar a palha do olho do teu irmão.
+
+[[v47-7-6]]
+
+^<<v47-7-6,6>>^ Não lanceis aos cães as coisas santas, não atireis aos porcos as vossas pérolas, para que não as calquem com os seus pés, e, voltando-se contra vós, vos despedacem.
+
+[[v47-7-7]]
+
+^<<v47-7-7,7>>^ Pedi e se vos dará. Buscai e achareis. Batei e vos será aberto.
+
+[[v47-7-8]]
+
+^<<v47-7-8,8>>^ Porque todo aquele que pede, recebe. Quem busca, acha. A quem bate, se abrirá.
+
+[[v47-7-9]]
+
+^<<v47-7-9,9>>^ Quem dentre vós dará uma pedra a seu filho, se este lhe pedir pão?
+
+[[v47-7-10]]
+
+^<<v47-7-10,10>>^ E, se lhe pedir um peixe, lhe dará uma serpente?
+
+[[v47-7-11]]
+
+^<<v47-7-11,11>>^ Se vós, pois, que sois maus, sabeis dar boas coisas a vossos filhos, quanto mais vosso Pai celeste dará boas coisas aos que lhe pedirem.
+
+[[v47-7-12]]
+
+^<<v47-7-12,12>>^ Tudo o que quereis que os homens vos façam, fazei-o vós a eles. Esta é a Lei e os profetas.^&#42;1^
+
+[[v47-7-13]]
+
+^<<v47-7-13,13>>^ Entrai pela porta estreita, porque larga é a porta e espaçoso o caminho que conduz à perdição e numerosos são os que por aí entram.
+
+[[v47-7-14]]
+
+^<<v47-7-14,14>>^ Estreita, porém, é a porta e apertado o caminho da vida e raros são os que o encontram.
+
+[[v47-7-15]]
+
+^<<v47-7-15,15>>^ Guardai-vos dos falsos profetas. Eles vêm a vós disfarçados de ovelhas, mas por dentro são lobos arrebatadores.
+
+[[v47-7-16]]
+
+^<<v47-7-16,16>>^ Pelos seus frutos os conhecereis. Colhem-se, porventura, uvas dos espinhos e figos dos abrolhos?
+
+[[v47-7-17]]
+
+^<<v47-7-17,17>>^ Toda árvore boa dá bons frutos; toda árvore má dá maus frutos.
+
+[[v47-7-18]]
+
+^<<v47-7-18,18>>^ Uma árvore boa não pode dar maus frutos; nem uma árvore má, bons frutos.
+
+[[v47-7-19]]
+
+^<<v47-7-19,19>>^ Toda árvore que não der bons frutos será cortada e lançada ao fogo.
+
+[[v47-7-20]]
+
+^<<v47-7-20,20>>^ Pelos seus frutos os conhecereis.
+
+[[v47-7-21]]
+
+^<<v47-7-21,21>>^ Nem todo aquele que me diz: Senhor, Senhor, entrará no Reino dos Céus, mas sim aquele que faz a vontade de meu Pai, que está nos céus.
+
+[[v47-7-22]]
+
+^<<v47-7-22,22>>^ Muitos me dirão naquele dia: Senhor, Senhor, não pregamos nós em vosso nome, e não foi em vosso nome que expulsamos os demônios e fizemos muitos milagres?^&#42;1^
+
+[[v47-7-23]]
+
+^<<v47-7-23,23>>^ E, no entanto, eu lhes direi: Nunca vos conheci. Retirai-vos de mim, operários maus!”.^&#42;1^
+
+[[v47-7-24]]
+
+^<<v47-7-24,24>>^ “Aquele, pois, que ouve estas minhas palavras e as põe em prática é semelhante a um homem prudente, que edificou sua casa sobre a rocha.
+
+[[v47-7-25]]
+
+^<<v47-7-25,25>>^ Caiu a chuva, vieram as enchentes, sopraram os ventos e investiram contra aquela casa; ela, porém, não caiu, porque estava edificada na rocha.
+
+[[v47-7-26]]
+
+^<<v47-7-26,26>>^ Mas aquele que ouve as minhas palavras e não as põe em prática é semelhante a um homem insensato, que construiu sua casa na areia.
+
+[[v47-7-27]]
+
+^<<v47-7-27,27>>^ Caiu a chuva, vieram as enchentes, sopraram os ventos e investiram contra aquela casa; ela caiu e grande foi a sua ruína.”
+
+[[v47-7-28]]
+
+^<<v47-7-28,28>>^ Quando Jesus terminou o discurso, a multidão ficou impressionada com a sua doutrina.
+
+[[v47-7-29]]
+
+^<<v47-7-29,29>>^ Com efeito, ele a ensinava como quem tinha autoridade e não como os seus escribas.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-006.adoc#v47-6-0[&#60; Capítulo Anterior] | <<v47-7-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-008.adoc#v47-8-0[Próximo Capítulo &#62;]

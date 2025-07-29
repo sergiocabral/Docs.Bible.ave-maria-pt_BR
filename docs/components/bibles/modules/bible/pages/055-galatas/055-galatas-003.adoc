@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v55-3-0]]
+=== Gálatas, 3
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Gálatas 3 aborda o tema da justificação pela fé em oposição à justificação pelas obras da lei. Paulo argumenta que a fé em Cristo é o único meio de ser justificado diante de Deus e que a lei foi dada para mostrar a necessidade dessa fé. Os versículos relacionados com esse tema são:
+* Romanos 3:28 - "Concluímos, pois, que o homem é justificado pela fé, independentemente das obras da lei." Esse versículo resume o argumento central de Paulo em Gálatas 3 de que a justificação vem somente pela fé e não pelas obras da lei.
+* Efésios 2:8-9 - "Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus. Não vem das obras, para que ninguém se glorie." Esse versículo destaca a graça de Deus como a fonte da salvação e enfatiza que a fé é o meio pelo qual recebemos essa graça, não as obras da lei.
+* Romanos 4:3-5 - "Pois que diz a Escritura? Creu Abraão em Deus, e isso lhe foi imputado como justiça. Ora, àquele que faz qualquer obra não lhe é imputado o galardão segundo a graça, mas segundo a dívida; mas, àquele que não pratica, mas crê naquele que justifica o ímpio, a sua fé lhe é imputada como justiça." Esse versículo usa o exemplo de Abraão para mostrar que a justificação vem pela fé e não pelas obras, pois a fé de Abraão foi imputada como justiça.
+* Gálatas 2:16 - "Sabendo que o homem não é justificado pelas obras da lei, mas sim pela fé em Jesus Cristo, temos também crido em Jesus Cristo, para sermos justificados pela fé em Cristo, e não pelas obras da lei; porquanto pelas obras da lei nenhuma carne será justificada." Esse versículo reforça o argumento de Paulo em Gálatas 3 de que a justificação vem somente pela fé e não pelas obras da lei.
+* Filipenses 3:9 - "E ser achado nele, não tendo a minha justiça que vem da lei, mas a que vem pela fé em Cristo, a saber, a justiça que vem de Deus pela fé." Esse versículo destaca que a justiça não vem pelas obras da lei, mas somente pela fé em Cristo.
+****
+
+[[v55-3-1]]
+
+^<<v55-3-1,1>>^ Ó insensatos gálatas! Quem vos fascinou a vós, ante cujos olhos foi apresentada a imagem de Jesus Cristo crucificado?
+
+[[v55-3-2]]
+
+^<<v55-3-2,2>>^ Apenas isto quero saber de vós: recebestes o Espírito pelas práticas da Lei ou pela aceitação da fé?^&#42;1^
+
+[[v55-3-3]]
+
+^<<v55-3-3,3>>^ Sois assim tão levianos? Depois de terdes começado pelo Espírito, quereis agora acabar pela carne?
+
+[[v55-3-4]]
+
+^<<v55-3-4,4>>^ Ter feito tais experiências em vão! Se é que foi em vão!
+
+[[v55-3-5]]
+
+^<<v55-3-5,5>>^ Aquele que vos dá o Espírito e realiza milagres entre vós, acaso o faz pela prática da Lei, ou pela aceitação da fé?
+
+[[v55-3-6]]
+
+^<<v55-3-6,6>>^ Foi este o caso de Abraão: ele creu em Deus e isto lhe foi levado em conta de justiça (Gn 15,6).
+
+[[v55-3-7]]
+
+^<<v55-3-7,7>>^ Sabei, pois: só os que têm fé é que são filhos de Abraão.
+
+[[v55-3-8]]
+
+^<<v55-3-8,8>>^ Prevendo a Escritura que Deus justificaria os povos pagãos pela fé, anunciou esta Boa-Nova a Abraão: Em ti todos os povos serão abençoados (Gn 18,18).
+
+[[v55-3-9]]
+
+^<<v55-3-9,9>>^ De modo que os homens de fé são abençoados com a bênção de Abraão, homem de fé.
+
+[[v55-3-10]]
+
+^<<v55-3-10,10>>^ Todos os que se apoiam nas práticas legais estão sob um regime de maldição. Pois está escrito: Maldito aquele que não cumpre todas as prescrições do Livro da Lei (Dt 27,26).
+
+[[v55-3-11]]
+
+^<<v55-3-11,11>>^ Que ninguém é justificado pela Lei perante Deus é evidente, porque o justo viverá pela fé (Hab 2,4).
+
+[[v55-3-12]]
+
+^<<v55-3-12,12>>^ Ora, a Lei não provém da fé e sim (do cumprimento): quem observar estes preceitos viverá por eles (Lv 18,5).
+
+[[v55-3-13]]
+
+^<<v55-3-13,13>>^ Cristo remiu-nos da maldição da Lei, fazendo-se por nós maldição, pois está escrito: Maldito todo aquele que é suspenso no madeiro (Dt 21,23).
+
+[[v55-3-14]]
+
+^<<v55-3-14,14>>^ Assim a bênção de Abraão se estende aos gentios, em Cristo Jesus, e pela fé recebemos o Espírito prometido.
+
+[[v55-3-15]]
+
+^<<v55-3-15,15>>^ Irmãos, vou apresentar-vos uma comparação de ordem humana. Se um testamento for feito em boa e devida forma, por quem quer que seja, ninguém o pode anular ou acrescentar-lhe alguma coisa.
+
+[[v55-3-16]]
+
+^<<v55-3-16,16>>^ Ora, as promessas foram feitas a Abraão e à sua descendência. Não diz: aos seus descendentes, como se fossem muitos, mas fala de um só: e a tua descendência (Gn 12,7), isto é, a Cristo.
+
+[[v55-3-17]]
+
+^<<v55-3-17,17>>^ Afirmo, portanto: a Lei, que veio quatrocentos e trinta anos mais tarde, não pode anular o testamento feito por Deus em boa e devida forma e não pode tornar sem efeito a promessa.
+
+[[v55-3-18]]
+
+^<<v55-3-18,18>>^ Porque, se a herança se obtivesse pela Lei, já não proviria da promessa. Ora, pela promessa é que Deus deu o seu favor a Abraão.
+
+[[v55-3-19]]
+
+^<<v55-3-19,19>>^ Então, que é a Lei? É um complemento ajuntado em vista das transgressões, até que viesse a descendência a quem fora feita a promessa; foi promulgada por anjos, passando por um intermediário.^&#42;1^
+
+[[v55-3-20]]
+
+^<<v55-3-20,20>>^ Mas não há intermediário, tratando-se de uma só pessoa, e Deus é um só.^&#42;1^
+
+[[v55-3-21]]
+
+^<<v55-3-21,21>>^ Portanto, é a Lei contrária às promessas de Deus? De nenhum modo. Se fosse dada uma Lei que pudesse vivificar, em verdade a justiça viria pela Lei;
+
+[[v55-3-22]]
+
+^<<v55-3-22,22>>^ mas a Escritura encerrou tudo sob o império do pecado, para que a promessa mediante a fé em Jesus Cristo fosse dada aos que creem.
+
+[[v55-3-23]]
+
+^<<v55-3-23,23>>^ Antes que viesse a fé, estávamos encerrados sob a vigilância de uma Lei, esperando a revelação da fé.
+
+[[v55-3-24]]
+
+^<<v55-3-24,24>>^ Assim a Lei se nos tornou pedagogo encarregado de levar-nos a Cristo, para sermos justificados pela fé.
+
+[[v55-3-25]]
+
+^<<v55-3-25,25>>^ Mas, depois que veio a fé, já não dependemos de pedagogo,
+
+[[v55-3-26]]
+
+^<<v55-3-26,26>>^ porque todos sois filhos de Deus pela fé em Jesus Cristo.
+
+[[v55-3-27]]
+
+^<<v55-3-27,27>>^ Todos vós que fostes batizados em Cristo, vos revestistes de Cristo.
+
+[[v55-3-28]]
+
+^<<v55-3-28,28>>^ Já não há judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um em Cristo Jesus.
+
+[[v55-3-29]]
+
+^<<v55-3-29,29>>^ Ora, se sois de Cristo, então sois verdadeiramente a descendência de Abraão, herdeiros segundo a promessa.
+
+'''
+
+xref:055-galatas/055-galatas-002.adoc#v55-2-0[&#60; Capítulo Anterior] | <<v55-3-0,Topo>> | xref:055-galatas/055-galatas-004.adoc#v55-4-0[Próximo Capítulo &#62;]

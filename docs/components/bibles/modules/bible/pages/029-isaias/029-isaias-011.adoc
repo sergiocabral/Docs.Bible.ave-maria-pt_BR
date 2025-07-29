@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v29-11-0]]
+=== Isaías, 11
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Isaías 11 fala sobre a promessa do surgimento de um descendente de Jessé, pai do rei Davi, que trará justiça e paz ao mundo. Este descendente, conhecido como o Messias, terá o Espírito do Senhor sobre si e governará com sabedoria e poder. Os versículos relacionados com os temas abordados em Isaías 11 são:
+* Jeremias 23:5: "Eis que vêm dias, diz o Senhor, em que levantarei a Davi um Renovo justo; e, rei que é, reinará, e prosperará, e praticará o juízo e a justiça na terra." Este versículo fala sobre a vinda do Messias, que será um descendente justo de Davi e governará com justiça e sabedoria.
+* Mateus 3:16-17: "E, sendo Jesus batizado, saiu logo da água, e eis que se lhe abriram os céus, e viu o Espírito de Deus descendo como pomba e vindo sobre ele. E eis que uma voz dos céus dizia: Este é o meu Filho amado, em quem me comprazo." Estes versículos mostram o cumprimento da profecia de Isaías 11:2, que fala sobre o Espírito do Senhor repousando sobre o Messias.
+* Mateus 12:17-21: "Para que se cumprisse o que fora dito pelo profeta Isaías, que diz: Eis aqui o meu servo, que escolhi, o meu amado, em quem a minha alma se compraz; porei sobre ele o meu Espírito, e anunciará aos gentios o juízo. Não contenderá, nem clamará, nem alguém ouvirá pelas ruas a sua voz. Não esmagará a cana quebrada, nem apagará a torcida que fumega, até que faça vencedor o juízo. E no seu nome os gentios esperarão." Estes versículos mostram como Jesus cumpriu a profecia de Isaías 42:1-4, que fala sobre o Servo do Senhor, que trará justiça às nações.
+* João 14:26: "Mas aquele Consolador, o Espírito Santo, que o Pai enviará em meu nome, vos ensinará todas as coisas, e vos fará lembrar de tudo quanto vos tenho dito." Este versículo fala sobre o Espírito Santo, que Jesus prometeu enviar aos seus discípulos após a sua morte e ressurreição, para guiá-los em toda a verdade.
+* Romanos 15:12: "E outra vez diz Isaías: Haverá a raiz de Jessé, aquele que se levanta para reinar sobre os gentios; nele os gentios esperarão." Este versículo cita Isaías 11:10 e mostra como a vinda do Messias foi aguardada não apenas pelos judeus, mas também pelos gentios, que depositaram sua esperança nele.
+****
+
+[[v29-11-1]]
+
+^<<v29-11-1,1>>^ Um renovo sairá do tronco de Jessé, e um rebento brotará de suas raízes.^&#42;1^
+
+[[v29-11-2]]
+
+^<<v29-11-2,2>>^ Sobre ele repousará o Espírito do Senhor, Espírito de sabedoria e de entendimento, Espírito de prudência e de coragem, Espírito de ciência e de temor do Senhor.
+
+[[v29-11-3]]
+
+^<<v29-11-3,3>>^ Sua alegria se encontrará no temor do Senhor. Ele não julgará pelas aparências, e não decidirá pelo que ouvir dizer;^&#42;1^
+
+[[v29-11-4]]
+
+^<<v29-11-4,4>>^ mas julgará os fracos com equidade, fará justiça aos pobres da terra, ferirá o homem impetuoso com uma sentença de sua boca, e com o sopro dos seus lábios fará morrer o ímpio.
+
+[[v29-11-5]]
+
+^<<v29-11-5,5>>^ A justiça será como o cinto de seus rins, e a lealdade circundará seus flancos.
+
+[[v29-11-6]]
+
+^<<v29-11-6,6>>^ Então, o lobo será hóspede do cordeiro, a pantera se deitará ao pé do cabrito, o touro e o leão comerão juntos, e um menino pequeno os conduzirá;
+
+[[v29-11-7]]
+
+^<<v29-11-7,7>>^ a vaca e o urso se fraternizarão, suas crias repousarão juntas, e o leão comerá palha com o boi.
+
+[[v29-11-8]]
+
+^<<v29-11-8,8>>^ A criança de peito brincará junto à toca da víbora, e o menino desmamado meterá a mão na caverna da áspide.
+
+[[v29-11-9]]
+
+^<<v29-11-9,9>>^ Não se fará mal nem dano em todo o meu santo monte, porque a terra estará cheia de ciência do Senhor, assim como as águas recobrem o fundo do mar.
+
+[[v29-11-10]]
+
+^<<v29-11-10,10>>^ Naquele tempo, o rebento de Jessé, posto como estandarte para os povos, será procurado pelas nações e gloriosa será a sua morada.
+
+[[v29-11-11]]
+
+^<<v29-11-11,11>>^ Naquele tempo, o Senhor levantará de novo a mão para resgatar o resto de seu povo, os sobreviventes da Assíria e do Egito de Patros, da Etiópia, de Elam, de Senaar, de Emat e das ilhas do mar.
+
+[[v29-11-12]]
+
+^<<v29-11-12,12>>^ Levantará o seu estandarte entre as nações, reunirá os exilados de Israel, e recolherá os dispersos de Judá dos quatro cantos da terra.
+
+[[v29-11-13]]
+
+^<<v29-11-13,13>>^ A inveja de Efraim se abrandará, e os inimigos de Judá se desvanecerão. Efraim não mais invejará Judá, e Judá não será mais inimigo de Efraim.
+
+[[v29-11-14]]
+
+^<<v29-11-14,14>>^ Eles voarão para o lado dos filisteus ao Ocidente e, juntos, saquearão os filhos do Oriente. Estenderão a mão sobre Edom e Moab, e os amonitas lhes serão submissos.
+
+[[v29-11-15]]
+
+^<<v29-11-15,15>>^ Assim como o Senhor pôs a seco o braço de mar do Egito, com seu sopro ardente, ele estenderá a mão sobre o rio e o dividirá em sete braços, de sorte que se poderá atravessar a vau.^&#42;1^
+
+[[v29-11-16]]
+
+^<<v29-11-16,16>>^ O caminho se abrirá para o resto de seu povo que escapar da Assíria, como se abriu para Israel no tempo em que ele saiu da terra do Egito.
+
+'''
+
+xref:029-isaias/029-isaias-010.adoc#v29-10-0[&#60; Capítulo Anterior] | <<v29-11-0,Topo>> | xref:029-isaias/029-isaias-012.adoc#v29-12-0[Próximo Capítulo &#62;]

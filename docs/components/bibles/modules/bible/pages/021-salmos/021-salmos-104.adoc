@@ -1,0 +1,199 @@
+include::./index.adoc[]
+
+[[v21-104-0]]
+=== Salmos, 104
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 104 é um hino de louvor a Deus por sua criação e providência contínua na sustentação do universo e da vida humana. O salmista exalta a grandeza, poder e sabedoria do Criador, que tudo fez com propósito e beleza. Os versículos a seguir são exemplos de outros trechos bíblicos que tratam dos temas presentes nesse Salmo:
+* Salmos 19:1 - "Os céus proclamam a glória de Deus; o firmamento proclama a obra das suas mãos." Este versículo destaca a grandiosidade e a beleza da criação, bem como a capacidade que a natureza tem de revelar a glória de Deus.
+* Mateus 6:26 - "Observem as aves do céu: não semeiam nem colhem nem armazenam em celeiros; contudo, o Pai celestial as alimenta. Não têm vocês muito mais valor do que elas?" Jesus ensina que Deus, que criou e sustenta a natureza, também cuida e provê para as necessidades humanas.
+* Colossenses 1:16-17 - "Pois nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos ou soberanias, poderes ou autoridades; todas as coisas foram criadas por ele e para ele. Ele é antes de todas as coisas, e nele tudo subsiste." Esse versículo reforça a ideia de que todas as coisas foram criadas por Deus com um propósito e que ele é o Senhor e sustentador de tudo.
+* Gênesis 1:31 - "Deus viu tudo o que havia feito, e tudo havia ficado muito bom. Passaram-se a tarde e a manhã; esse foi o sexto dia." Esse verso enfatiza que, depois de criar tudo, Deus viu que era muito bom. Isso mostra a satisfação divina com sua obra.
+* Salmos 139:14 - "Eu te louvo porque me fizeste de modo especial e admirável. Tuas obras são maravilhosas! Digo isso com convicção." Esse versículo destaca que Deus criou cada pessoa de maneira única e com valor inestimável. Ele nos criou com propósito e amor.
+****
+
+[[v21-104-1]]
+
+^<<v21-104-1,1>>^ Aleluia. Celebrai o Senhor, aclamai o seu nome, apregoai entre as nações as suas obras.^&#42;1^
+
+[[v21-104-2]]
+
+^<<v21-104-2,2>>^ Cantai-lhe hinos e cânticos, anunciai todas as suas maravilhas.
+
+[[v21-104-3]]
+
+^<<v21-104-3,3>>^ Gloriai-vos do seu santo nome; rejubile o coração dos que procuram o Senhor.
+
+[[v21-104-4]]
+
+^<<v21-104-4,4>>^ Recorrei ao Senhor e ao seu poder, procurai continuamente sua face.
+
+[[v21-104-5]]
+
+^<<v21-104-5,5>>^ Recordai as maravilhas que operou, seus prodígios e julgamentos por seus lábios proferidos,
+
+[[v21-104-6]]
+
+^<<v21-104-6,6>>^ ó descendência de Abraão, seu servidor, ó filhos de Jacó, seus escolhidos!
+
+[[v21-104-7]]
+
+^<<v21-104-7,7>>^ É ele o Senhor, nosso Deus; suas sentenças comandam a terra inteira.
+
+[[v21-104-8]]
+
+^<<v21-104-8,8>>^ Ele se lembra eternamente de sua aliança, da palavra que empenhou a mil gerações,^&#42;1^
+
+[[v21-104-9]]
+
+^<<v21-104-9,9>>^ que garantiu a Abraão, e jurou a Isaac,
+
+[[v21-104-10]]
+
+^<<v21-104-10,10>>^ e confirmou a Jacó irrevogavelmente, e a Israel como aliança eterna,
+
+[[v21-104-11]]
+
+^<<v21-104-11,11>>^ quando disse: “Eu te darei a terra de Canaã, como parte de vossa herança”.
+
+[[v21-104-12]]
+
+^<<v21-104-12,12>>^ Quando não passavam de um reduzido número, minoria insignificante e estrangeiros na terra,
+
+[[v21-104-13]]
+
+^<<v21-104-13,13>>^ e andavam errantes de nação em nação, de reino em reino,
+
+[[v21-104-14]]
+
+^<<v21-104-14,14>>^ não permitiu que os oprimissem, e castigou a reis por causa deles.
+
+[[v21-104-15]]
+
+^<<v21-104-15,15>>^ “Não ouseis tocar nos que me são consagrados, nem maltratar os meus profetas.”
+
+[[v21-104-16]]
+
+^<<v21-104-16,16>>^ E chamou a fome sobre a terra, e os privou do pão que os sustentava.
+
+[[v21-104-17]]
+
+^<<v21-104-17,17>>^ Diante deles enviara um homem: José, que fora vendido como escravo.
+
+[[v21-104-18]]
+
+^<<v21-104-18,18>>^ Apertaram-lhe os pés entre grilhões, com cadeias cingiram-lhe o pescoço,
+
+[[v21-104-19]]
+
+^<<v21-104-19,19>>^ até que se cumpriu a profecia, e o justificou a palavra de Deus.
+
+[[v21-104-20]]
+
+^<<v21-104-20,20>>^ Então o rei ordenou que o soltassem, o soberano de povos o livrou,
+
+[[v21-104-21]]
+
+^<<v21-104-21,21>>^ e o nomeou senhor de sua casa e governador de seus domínios,
+
+[[v21-104-22]]
+
+^<<v21-104-22,22>>^ para, a seu bel-prazer, dar ordens a seus príncipes, e a seus anciãos, lições de sabedoria.
+
+[[v21-104-23]]
+
+^<<v21-104-23,23>>^ Então Israel penetrou no Egito, Jacó foi viver na terra de Cam.
+
+[[v21-104-24]]
+
+^<<v21-104-24,24>>^ Deus multiplicou grandemente o seu povo, e o tornou mais forte que seus inimigos.
+
+[[v21-104-25]]
+
+^<<v21-104-25,25>>^ Depois, de tal modo lhes mudou os corações, que com aversão trataram o seu povo, e com perfídia, os seus servidores.
+
+[[v21-104-26]]
+
+^<<v21-104-26,26>>^ Mas Deus lhes suscitou Moisés, seu servo, e Aarão, seu escolhido.
+
+[[v21-104-27]]
+
+^<<v21-104-27,27>>^ Ambos operaram entre eles prodígios e milagres na terra de Cam.
+
+[[v21-104-28]]
+
+^<<v21-104-28,28>>^ Mandou trevas e se fez noite: resistiram, porém, às suas palavras.
+
+[[v21-104-29]]
+
+^<<v21-104-29,29>>^ Converteu-lhes as águas em sangue, matando-lhes todos os seus peixes.
+
+[[v21-104-30]]
+
+^<<v21-104-30,30>>^ Infestou-lhes a terra de rãs, até nos aposentos reais.
+
+[[v21-104-31]]
+
+^<<v21-104-31,31>>^ A uma palavra sua vieram nuvens de moscas, mosquitos em todo o seu território.
+
+[[v21-104-32]]
+
+^<<v21-104-32,32>>^ Em vez de chuva lhes mandou granizo e chamas devorantes sobre a terra.
+
+[[v21-104-33]]
+
+^<<v21-104-33,33>>^ Devastou-lhes as vinhas e figueiras, e partiu-lhes as árvores de seus campos.
+
+[[v21-104-34]]
+
+^<<v21-104-34,34>>^ A seu mando vieram os gafanhotos, e lagartas em quantidade enorme,
+
+[[v21-104-35]]
+
+^<<v21-104-35,35>>^ que devoraram toda a erva de suas terras e comeram os frutos de seus campos.
+
+[[v21-104-36]]
+
+^<<v21-104-36,36>>^ Depois matou os primogênitos do seu povo, primícias de sua virilidade.
+
+[[v21-104-37]]
+
+^<<v21-104-37,37>>^ E Deus tirou os hebreus carregados de ouro e prata; não houve, nas tribos, nenhum enfermo.
+
+[[v21-104-38]]
+
+^<<v21-104-38,38>>^ Alegraram-se os egípcios com sua partida, pelo temor que os hebreus lhes tinham causado.
+
+[[v21-104-39]]
+
+^<<v21-104-39,39>>^ Para os abrigar Deus estendeu uma nuvem, e para lhes iluminar a noite uma coluna de fogo.
+
+[[v21-104-40]]
+
+^<<v21-104-40,40>>^ A seu pedido, mandou-lhes codornizes, e os fartou com pão vindo do céu.
+
+[[v21-104-41]]
+
+^<<v21-104-41,41>>^ Abriu o rochedo e jorrou água como um rio a correr pelo deserto,
+
+[[v21-104-42]]
+
+^<<v21-104-42,42>>^ pois se lembrava da palavra sagrada, empenhada a seu servo Abraão.
+
+[[v21-104-43]]
+
+^<<v21-104-43,43>>^ E fez sair, com júbilo, o seu povo, e seus eleitos com grande exultação.
+
+[[v21-104-44]]
+
+^<<v21-104-44,44>>^ Deu-lhes a terra dos pagãos e desfrutaram das riquezas desses povos,
+
+[[v21-104-45]]
+
+^<<v21-104-45,45>>^ sob a condição de guardarem seus mandamentos e observarem fielmente suas leis.
+
+'''
+
+xref:021-salmos/021-salmos-103.adoc#v21-103-0[&#60; Capítulo Anterior] | <<v21-104-0,Topo>> | xref:021-salmos/021-salmos-105.adoc#v21-105-0[Próximo Capítulo &#62;]

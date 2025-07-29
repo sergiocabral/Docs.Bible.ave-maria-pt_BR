@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v25-4-0]]
+=== Eclesiastes, 4
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Eclesiastes 4 trata da opressão e solidão enfrentadas pelos seres humanos, bem como da importância da amizade e da união. O autor afirma que é melhor ter companhia do que viver isolado, e que duas pessoas trabalhando juntas podem ter um resultado melhor do que trabalhar sozinho. Para complementar essa temática, seguem cinco versículos relacionados:
+* Provérbios 17:17: "O amigo ama em todos os momentos; é um irmão na adversidade." Este versículo ressalta a importância da amizade e companhia, que são fundamentais para enfrentar momentos difíceis e superar a solidão.
+* Provérbios 27:17: "Assim como o ferro afia o ferro, o homem afia o seu companheiro." Este versículo destaca a importância de ter amigos que possam contribuir para o nosso crescimento pessoal e profissional, através da troca de conhecimentos e experiências.
+* Gálatas 6:2: "Levem os fardos pesados uns dos outros e, assim, cumpram a lei de Cristo." Este versículo ressalta a importância de ajudar os outros em suas dificuldades, apoiando uns aos outros em tempos difíceis.
+* Provérbios 18:24: "Há amigos que levam à ruína, e há amigos mais chegados que um irmão." Este versículo destaca a importância de escolher bem nossos amigos, procurando pessoas que nos apoiem e ajudem a crescer.
+* 1 Coríntios 12:12-27: "Pois, assim como o corpo é uma unidade, embora tenha muitos membros, e todos os membros, mesmo sendo muitos, formam um só corpo, assim também com respeito a Cristo." Este versículo compara a união de um grupo de pessoas à união de um corpo, destacando que cada membro tem uma função importante e que juntos podem alcançar grandes feitos.
+****
+
+[[v25-4-1]]
+
+^<<v25-4-1,1>>^ Pus-me, então, a considerar todas as opressões que se exercem debaixo do sol. Eis aqui as lágrimas dos oprimidos, sem ninguém para consolá-los. Seus opressores fazem-lhes violência e ninguém os consola.
+
+[[v25-4-2]]
+
+^<<v25-4-2,2>>^ E julguei os mortos, que já faleceram, mais felizes que os vivos, que ainda estão em vida;
+
+[[v25-4-3]]
+
+^<<v25-4-3,3>>^ porém, mais feliz que eles é aquele que não chegou a nascer, porque não viu o mal que se comete debaixo do sol.^&#42;1^
+
+[[v25-4-4]]
+
+^<<v25-4-4,4>>^ Vi que todo o trabalho, toda a habilidade numa obra não passa de rivalidade de um homem diante do seu próximo. Isso é também fugacidade e vento que passa.
+
+[[v25-4-5]]
+
+^<<v25-4-5,5>>^ O insensato cruza os braços e devora sua própria carne.^&#42;1^
+
+[[v25-4-6]]
+
+^<<v25-4-6,6>>^ Mais vale um punhado de tranquilidade do que dois punhados de trabalho e de vento que passa.
+
+[[v25-4-7]]
+
+^<<v25-4-7,7>>^ Vi ainda outra fugacidade debaixo do sol:
+
+[[v25-4-8]]
+
+^<<v25-4-8,8>>^ um homem sozinho, sem alguém junto de si, sem filho nem irmão; trabalha sem parar e, não obstante, seus olhos não se fartam de riquezas: “Para quem trabalho eu, privando-me de todo bem-estar?”. Eis uma fugacidade e um trabalho ingrato.
+
+[[v25-4-9]]
+
+^<<v25-4-9,9>>^ Dois homens juntos são mais felizes que um só, porque obterão um bom salário do seu trabalho.
+
+[[v25-4-10]]
+
+^<<v25-4-10,10>>^ Se um vem a cair, o outro o levanta. Mas ai do homem só: se ele cair, não há ninguém para levantá-lo.
+
+[[v25-4-11]]
+
+^<<v25-4-11,11>>^ Da mesma forma, se dormirem dois juntos, aquecem-se; mas um homem só, como se há de aquecer?
+
+[[v25-4-12]]
+
+^<<v25-4-12,12>>^ Se é possível dominar o homem que está sozinho, dois podem resistir ao agressor. Uma corda tripla não se rompe facilmente.
+
+[[v25-4-13]]
+
+^<<v25-4-13,13>>^ Mais vale um adolescente pobre, mas sábio, do que um rei velho, mas insensato, que já não aceita conselhos.
+
+[[v25-4-14]]
+
+^<<v25-4-14,14>>^ Porque aquele jovem saiu da prisão para reinar, se bem que tenha nascido pobre no reino deste ancião.^&#42;1^
+
+[[v25-4-15]]
+
+^<<v25-4-15,15>>^ Vi todos os viventes, que se acham debaixo do sol, apressarem-se junto do jovem que ia sucedê-lo;
+
+[[v25-4-16]]
+
+^<<v25-4-16,16>>^ era interminável o cortejo dessa multidão, à testa da qual ele caminhava. Contudo, a geração seguinte não se regozijará por sua causa. Tudo isso é ainda fugacidade e vento que passa.
+
+[[v25-4-17]]
+
+^<<v25-4-17,17>>^ Vê onde pões teu pé quando entras no Templo do Senhor. Mais vale a obediência que os sacrifícios dos insensatos, porque eles só sabem fazer o mal!^&#42;1^
+
+'''
+
+xref:025-eclesiastes/025-eclesiastes-003.adoc#v25-3-0[&#60; Capítulo Anterior] | <<v25-4-0,Topo>> | xref:025-eclesiastes/025-eclesiastes-005.adoc#v25-5-0[Próximo Capítulo &#62;]

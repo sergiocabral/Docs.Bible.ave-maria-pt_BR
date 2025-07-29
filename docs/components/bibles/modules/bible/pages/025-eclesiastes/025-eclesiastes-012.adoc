@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v25-12-0]]
+=== Eclesiastes, 12
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O capítulo 12 de Eclesiastes apresenta uma reflexão sobre a velhice, a morte e a importância de temer a Deus. O autor destaca que a juventude e a saúde são fugazes e que, no fim, todos os homens morrem. Ele exorta o leitor a lembrar-se do Criador enquanto ainda é jovem e a se preparar para o dia da morte. A seguir estão cinco versículos relacionados com os temas abordados em Eclesiastes 12:
+* Salmos 90:12: "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio." O autor de Eclesiastes destaca a importância de reconhecer a brevidade da vida e aproveitar bem o tempo que temos. Este versículo do Salmo 90 também enfatiza a necessidade de lembrar que nossa vida é passageira e buscar a sabedoria.
+* Jó 14:5: "Se os seus dias estão determinados, se o número dos seus meses está contigo, e se lhe puseste limites, que não pode passar." Eclesiastes também fala sobre a vida humana ter um limite estabelecido por Deus. Este versículo de Jó ressalta a ideia de que a duração da vida humana é finita e está sob o controle de Deus.
+* Hebreus 9:27: "E, como aos homens está ordenado morrerem uma só vez, vindo depois disso o juízo." O autor de Eclesiastes enfatiza a inevitabilidade da morte. Este versículo de Hebreus destaca que todos morremos uma vez e, em seguida, enfrentamos o julgamento de Deus.
+* 2 Coríntios 5:10: "Porque é necessário que todos nós sejamos manifestos diante do tribunal de Cristo, para que cada um receba o que fez por meio do corpo, segundo o que praticou, o bem ou o mal." Eclesiastes incentiva a temer a Deus e lembrar-se dele enquanto somos jovens. Este versículo de 2 Coríntios destaca a necessidade de vivermos de forma justa e sermos responsáveis ​​por nossas ações, sabendo que um dia prestaremos contas diante de Deus.
+* Lucas 12:20: "Mas Deus lhe disse: Insensato, esta noite te pedirão a tua alma; e o que tens preparado, para quem será?" Eclesiastes exorta o leitor a lembrar-se do Criador enquanto ainda é jovem e a se preparar para o dia da morte. Este versículo de Lucas enfatiza a importância de estar preparado para a morte a qualquer momento, pois não sabemos quando ela virá.
+****
+
+[[v25-12-1]]
+
+^<<v25-12-1,1>>^ Lembra-te do teu Criador nos dias da tua juventude, antes que venham os maus dias e que apareçam os anos dos quais dirás: “Não sinto prazer neles!”.
+
+[[v25-12-2]]
+
+^<<v25-12-2,2>>^ Antes que se escureçam o sol, a luz, a lua e as estrelas, e que à chuva sucedam as nuvens;^&#42;1^
+
+[[v25-12-3]]
+
+^<<v25-12-3,3>>^ anos nos quais tremem os guardas da casa, nos quais se curvam os homens robustos e param de moer as moleiras pouco numerosas, nos quais se escurecem aqueles que olham pelas janelas,
+
+[[v25-12-4]]
+
+^<<v25-12-4,4>>^ nos quais se fecham para a rua os dois batentes da porta, nos quais se enfraquece o ruído do moinho, nos quais os homens se levantam ao canto do passarinho, nos quais se extingue o som da voz,
+
+[[v25-12-5]]
+
+^<<v25-12-5,5>>^ nos quais se temem as subidas; nos quais se terão sobressaltos no caminho, nos quais a amendoeira branqueia, nos quais o gafanhoto engorda, nos quais a alcaparra perde a sua eficácia, porque o homem se encaminha para a morada eterna e os carpidores percorrem as ruas.^&#42;1^
+
+[[v25-12-6]]
+
+^<<v25-12-6,6>>^ Antes que se rompa o cordão de prata, que se despedace a lâmpada de ouro, antes que se quebre a bilha na fonte, e que se fenda a roldana sobre a cisterna;^&#42;1^
+
+[[v25-12-7]]
+
+^<<v25-12-7,7>>^ antes que a poeira retorne à terra para se tornar o que era; e antes que o sopro de vida retorne a Deus que o deu.^&#42;1^
+
+[[v25-12-8]]
+
+^<<v25-12-8,8>>^ fugacidade das fugacidades, diz o Eclesiastes, tudo é fugaz.
+
+[[v25-12-9]]
+
+^<<v25-12-9,9>>^ Além de ser sábio, o Eclesiastes ensinou a ciência ao povo. Ele pesou, perscrutou e dispôs numerosas máximas.
+
+[[v25-12-10]]
+
+^<<v25-12-10,10>>^ O Eclesiastes aplicou-se à procura de sentenças agradáveis e a redigir com exatidão adágios verídicos.
+
+[[v25-12-11]]
+
+^<<v25-12-11,11>>^ As palavras dos sábios são semelhantes a aguilhões, e as sentenças, reunidas em coleção, são parecidas a estacas plantadas, inspiradas por um só pastor.^&#42;1^
+
+[[v25-12-12]]
+
+^<<v25-12-12,12>>^ De resto, meu filho, quanto ao maior número de palavras que estas, fica sabendo que se podem multiplicar os livros a não mais acabar, e que muito estudo se torna uma fadiga para o corpo.
+
+[[v25-12-13]]
+
+^<<v25-12-13,13>>^ Em conclusão: tudo bem entendido, teme a Deus e observa seus preceitos, é este o dever de todo homem.
+
+[[v25-12-14]]
+
+^<<v25-12-14,14>>^ Deus fará prestar contas de tudo o que está oculto, todo ato, seja ele bom ou mau.
+
+'''
+
+xref:025-eclesiastes/025-eclesiastes-011.adoc#v25-11-0[&#60; Capítulo Anterior] | <<v25-12-0,Topo>> | xref:026-cantico-dos-canticos/026-cantico-dos-canticos-001.adoc#v26-1-0[Próximo Capítulo &#62;]

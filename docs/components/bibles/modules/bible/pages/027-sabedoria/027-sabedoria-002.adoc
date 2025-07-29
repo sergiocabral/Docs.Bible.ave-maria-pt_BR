@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v27-2-0]]
+=== Sabedoria, 2
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Sabedoria 2 apresenta um discurso dos ímpios que negam a existência de Deus e se gabam de suas más ações, zombando dos justos e esperando que suas vidas sejam gratificantes e livres de consequências. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Provérbios 1:22 - "Até quando vocês, inexperientes, irão contentar-se com a sua inexperiência? E vocês, zombadores, até quando terão prazer na zombaria? E vocês, tolos, até quando desprezarão o conhecimento?" Este versículo fala daqueles que zombam e desprezam o conhecimento, assim como os ímpios de Sabedoria 2.
+* Jó 21:14-15 - "Eles dizem a Deus: ‘Afasta-te de nós! Não queremos conhecer os teus caminhos. Quem é o Todo-poderoso, para que lhe obedeçamos? Que lucro teremos em buscá-lo?’". Esses versículos retratam a atitude dos ímpios em Sabedoria 2, que negam a existência de Deus e rejeitam Seus caminhos.
+* Salmo 10:3-4 - "O ímpio, na sua arrogância, não busca a Deus; em todas as suas tramas não há lugar para Deus. Ele se considera superior a Deus e zomba dele, mas acaba sendo castigado pela sua própria arrogância." Estes versículos descrevem a arrogância dos ímpios em Sabedoria 2, que acham que são superiores a Deus e não buscam a Sua orientação.
+* Provérbios 3:34 - "Ele zomba dos zombadores, mas é generoso com os humildes." Este versículo fala sobre a atitude de Deus em relação aos arrogantes e humildes, que está em contraste com a atitude dos ímpios em Sabedoria 2.
+* Provérbios 10:24 - "O que os ímpios temem, isso lhes sobrevém, mas o desejo dos justos se realiza." Este versículo fala sobre as consequências das más ações, que os ímpios em Sabedoria 2 pensam que não terão.
+****
+
+[[v27-2-1]]
+
+^<<v27-2-1,1>>^ Dizem, com efeito, nos seus falsos raciocínios: “Curta é a nossa vida, e cheia de tristezas; para a morte não há remédio algum; não há notícia de alguém que tenha voltado da região dos mortos.^&#42;1^
+
+[[v27-2-2]]
+
+^<<v27-2-2,2>>^ Um belo dia nascemos e, depois disso, seremos como se jamais tivéssemos sido! É fumaça a respiração de nossos narizes, e nosso pensamento, uma centelha que salta do bater de nosso coração!
+
+[[v27-2-3]]
+
+^<<v27-2-3,3>>^ Extinta ela, nosso corpo se tornará pó, e o nosso espírito se dissipará como um vapor inconsistente!
+
+[[v27-2-4]]
+
+^<<v27-2-4,4>>^ Com o tempo nosso nome cairá no esquecimento, e ninguém se lembrará de nossas obras. Nossa vida passará como os traços de uma nuvem, ela desvanecerá como uma névoa que os raios do sol expulsam, e que seu calor dissipa.^&#42;1^
+
+[[v27-2-5]]
+
+^<<v27-2-5,5>>^ A passagem de uma sombra: eis a nossa vida, e nenhum reinício é possível uma vez chegado o fim, porque o selo lhe é aposto e ninguém volta.
+
+[[v27-2-6]]
+
+^<<v27-2-6,6>>^ Vinde, portanto! Aproveitemo-nos das boas coisas que existem! Vivamente gozemos das criaturas durante nossa juventude!
+
+[[v27-2-7]]
+
+^<<v27-2-7,7>>^ Inebriemo-nos de vinhos preciosos e de perfumes, e não deixemos passar a flor da primavera!
+
+[[v27-2-8]]
+
+^<<v27-2-8,8>>^ Coroemo-nos de botões de rosas antes que eles murchem!^&#42;1^
+
+[[v27-2-9]]
+
+^<<v27-2-9,9>>^ Ninguém de nós falte à nossa orgia; em toda parte deixemos sinais de nossa alegria, porque esta é a nossa parte, esta a nossa sorte!
+
+[[v27-2-10]]
+
+^<<v27-2-10,10>>^ Tiranizemos o justo na sua pobreza, não poupemos a viúva, e não tenhamos consideração com os cabelos brancos do ancião!
+
+[[v27-2-11]]
+
+^<<v27-2-11,11>>^ Que a nossa força seja o critério do direito, porque o fraco, em verdade, não serve para nada.^&#42;1^
+
+[[v27-2-12]]
+
+^<<v27-2-12,12>>^ Cerquemos o justo, porque ele nos incomoda; é contrário às nossas ações; ele nos censura por violar a lei e nos acusa de contrariar a nossa educação.
+
+[[v27-2-13]]
+
+^<<v27-2-13,13>>^ Ele se gaba de conhecer a Deus, e se chama a si mesmo filho do Senhor!
+
+[[v27-2-14]]
+
+^<<v27-2-14,14>>^ Sua existência é uma censura às nossas ideias; basta sua vista para nos importunar.
+
+[[v27-2-15]]
+
+^<<v27-2-15,15>>^ Sua vida, com efeito, não se parece com as outras, e os seus caminhos são muito diferentes.
+
+[[v27-2-16]]
+
+^<<v27-2-16,16>>^ Ele nos tem por uma moeda de mau quilate, e afasta-se de nossos caminhos como de manchas. Julga feliz a morte do justo, e gloria-se de ter Deus por pai.
+
+[[v27-2-17]]
+
+^<<v27-2-17,17>>^ Vejamos, pois, se suas palavras são verdadeiras, e experimentemos o que acontecerá quando da sua morte,
+
+[[v27-2-18]]
+
+^<<v27-2-18,18>>^ porque, se o justo é filho de Deus, Deus o defenderá, e o tirará das mãos dos seus adversários.
+
+[[v27-2-19]]
+
+^<<v27-2-19,19>>^ Provemo-lo por ultrajes e torturas, a fim de conhecer a sua doçura e estarmos cientes de sua paciência.
+
+[[v27-2-20]]
+
+^<<v27-2-20,20>>^ Condenemo-lo a uma morte infame. Porque, conforme ele, Deus deve intervir”.^&#42;1^
+
+[[v27-2-21]]
+
+^<<v27-2-21,21>>^ Eis o que pensam, mas enganam-se, sua malícia os cega:
+
+[[v27-2-22]]
+
+^<<v27-2-22,22>>^ eles desconhecem os segredos de Deus, não esperam que a santidade seja recompensada, e não acreditam na glorificação das almas puras.
+
+[[v27-2-23]]
+
+^<<v27-2-23,23>>^ Ora, Deus criou o homem para a imortalidade, e o fez à imagem de sua própria natureza.^&#42;1^
+
+[[v27-2-24]]
+
+^<<v27-2-24,24>>^ É por inveja do demônio que a morte entrou no mundo, e os que pertencem ao demônio a provarão.^&#42;1^
+
+'''
+
+xref:027-sabedoria/027-sabedoria-001.adoc#v27-1-0[&#60; Capítulo Anterior] | <<v27-2-0,Topo>> | xref:027-sabedoria/027-sabedoria-003.adoc#v27-3-0[Próximo Capítulo &#62;]

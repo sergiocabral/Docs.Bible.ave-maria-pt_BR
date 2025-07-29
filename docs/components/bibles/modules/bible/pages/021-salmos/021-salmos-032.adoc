@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v21-32-0]]
+=== Salmos, 32
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* O Salmo 32 é um salmo de confissão e perdão, no qual o salmista expressa sua alegria por ter sido perdoado por Deus. Ele fala sobre como a falta de confissão de seus pecados o afetou fisicamente e emocionalmente, mas também celebra a bondade de Deus em perdoar e restaurar aqueles que se voltam para Ele. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 32:
+* Provérbios 28:13: "O que encobre as suas transgressões nunca prosperará; mas o que as confessa e deixa, alcançará misericórdia." Este versículo destaca a importância da confissão e do arrependimento para receber o perdão de Deus.
+* Isaías 1:18: "Vinde, pois, e arrazoemos, diz o Senhor; ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a branca lã." Este versículo fala da misericórdia de Deus em perdoar pecados e torná-los brancos como a neve.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Este versículo enfatiza a importância da confissão e do arrependimento para receber o perdão e a purificação de Deus.
+* Salmos 51:10: "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto." Este versículo é uma oração de arrependimento e pedido por purificação e renovação do coração.
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado, e salva os contritos de espírito." Este versículo fala da bondade de Deus em estar perto dos que têm um coração quebrantado e contrito, prontos para se arrepender e buscar o perdão.
+****
+
+[[v21-32-1]]
+
+^<<v21-32-1,1>>^ Exultai no Senhor, ó justos, pois aos retos convém o louvor.^&#42;1^
+
+[[v21-32-2]]
+
+^<<v21-32-2,2>>^ Celebrai o Senhor com a cítara, entoai-lhe hinos na harpa de dez cordas.
+
+[[v21-32-3]]
+
+^<<v21-32-3,3>>^ Cantai-lhe um cântico novo, acompanhado de instrumentos de música,
+
+[[v21-32-4]]
+
+^<<v21-32-4,4>>^ porque a palavra do Senhor é reta, em todas as suas obras resplandece a fidelidade:
+
+[[v21-32-5]]
+
+^<<v21-32-5,5>>^ ele ama a justiça e o direito, da bondade do Senhor está cheia a terra.
+
+[[v21-32-6]]
+
+^<<v21-32-6,6>>^ Pela palavra do Senhor foram feitos os céus, e pelo sopro de sua boca todo o seu exército.
+
+[[v21-32-7]]
+
+^<<v21-32-7,7>>^ Ele junta as águas do mar como num cantil, e em reservatórios encerra as ondas.
+
+[[v21-32-8]]
+
+^<<v21-32-8,8>>^ Tema ao Senhor toda a terra; reverenciem-no todos os habitantes do globo.
+
+[[v21-32-9]]
+
+^<<v21-32-9,9>>^ Porque ele disse e tudo foi feito, ele ordenou e tudo existiu.
+
+[[v21-32-10]]
+
+^<<v21-32-10,10>>^ O Senhor desfaz os planos das nações pagãs, reduz a nada os projetos dos povos.
+
+[[v21-32-11]]
+
+^<<v21-32-11,11>>^ Só os desígnios do Senhor permanecem eternamente e os pensamentos de seu coração por todas as gerações.
+
+[[v21-32-12]]
+
+^<<v21-32-12,12>>^ Feliz a nação que tem o Senhor por seu Deus, e o povo que ele escolheu para sua herança.
+
+[[v21-32-13]]
+
+^<<v21-32-13,13>>^ O Senhor olha do céu, vê todos os filhos dos homens.
+
+[[v21-32-14]]
+
+^<<v21-32-14,14>>^ Do alto de sua morada observa todos os habitantes da terra;
+
+[[v21-32-15]]
+
+^<<v21-32-15,15>>^ ele, que formou o coração de cada um, está atento a cada uma de suas ações.
+
+[[v21-32-16]]
+
+^<<v21-32-16,16>>^ Não vence o rei pelo numeroso exército, nem se livra o guerreiro pela grande força.
+
+[[v21-32-17]]
+
+^<<v21-32-17,17>>^ O cavalo não é penhor de vitória, nem salva pela sua resistência.
+
+[[v21-32-18]]
+
+^<<v21-32-18,18>>^ Eis os olhos do Senhor pousados sobre os que o temem, sobre os que esperam na sua bondade,
+
+[[v21-32-19]]
+
+^<<v21-32-19,19>>^ a fim de livrar-lhes a alma da morte e nutri-los no tempo da fome.
+
+[[v21-32-20]]
+
+^<<v21-32-20,20>>^ Nossa alma espera no Senhor, porque ele é nosso amparo e nosso escudo.
+
+[[v21-32-21]]
+
+^<<v21-32-21,21>>^ Nele, pois, se alegra o nosso coração, em seu santo nome confiamos.
+
+[[v21-32-22]]
+
+^<<v21-32-22,22>>^ Seja-nos manifestada, Senhor, a vossa misericórdia, como a esperamos de vós.
+
+'''
+
+xref:021-salmos/021-salmos-031.adoc#v21-31-0[&#60; Capítulo Anterior] | <<v21-32-0,Topo>> | xref:021-salmos/021-salmos-033.adoc#v21-33-0[Próximo Capítulo &#62;]

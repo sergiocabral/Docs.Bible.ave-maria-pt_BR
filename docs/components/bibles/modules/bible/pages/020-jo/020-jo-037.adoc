@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v20-37-0]]
+=== Jó, 37
+// ave-maria 2005-02-05, Ave Maria
+
+.Notas do capítulo
+****
+* Jó 37 é um capítulo em que Eliú continua a falar sobre a grandeza de Deus, o poder da natureza e a incapacidade do homem em compreender completamente os caminhos de Deus. Abaixo estão cinco versículos relacionados com esses temas:
+* Jó 36:26: "Eis que Deus é grande e não o podemos compreender; o número dos seus anos é inescrutável." Este versículo enfatiza a grandeza e a incompreensibilidade de Deus, um tema central em Jó 37.
+* Jó 38:4: "Onde estavas tu, quando eu fundava a terra? Faze-mo saber, se tens inteligência." Deus está questionando Jó sobre sua capacidade de compreender os caminhos de Deus, destacando a ideia de que o homem é incapaz de entender totalmente a grandeza de Deus.
+* Salmos 147:5: "Grande é o nosso Senhor, e de grande poder; o seu entendimento é infinito." Este versículo destaca a grandeza de Deus e sua sabedoria incompreensível.
+* Isaías 40:26: "Levantai ao alto os vossos olhos, e vede: quem criou estas coisas? Aquele que faz sair o seu exército de estrelas, todas bem contadas, as quais ele chama pelos seus nomes; por ser ele grande em força e forte em poder, nem uma só vem a faltar." Este versículo destaca a grandeza e o poder de Deus, bem como a sua capacidade de criar e manter todas as coisas.
+* Salmos 29:4: "A voz do SENHOR é poderosa; a voz do SENHOR é cheia de majestade." Este versículo fala sobre a voz poderosa de Deus, outro tema presente em Jó 37.
+****
+
+[[v20-37-1]]
+
+^<<v20-37-1,1>>^ Por isso, tremeu o meu coração e saltou fora de seu lugar.
+
+[[v20-37-2]]
+
+^<<v20-37-2,2>>^ Escutai, escutai o brado de sua voz e o estrondo que sai da sua boca!
+
+[[v20-37-3]]
+
+^<<v20-37-3,3>>^ Enche dele toda a extensão do céu e seus relâmpagos atingem os confins da terra!
+
+[[v20-37-4]]
+
+^<<v20-37-4,4>>^ Por detrás dele ruge uma voz e troveja com sua voz majestosa. Não retém mais seus raios quando se ouve sua voz.
+
+[[v20-37-5]]
+
+^<<v20-37-5,5>>^ Deus troveja com sua voz maravilhosa, faz prodígios que não compreendemos.
+
+[[v20-37-6]]
+
+^<<v20-37-6,6>>^ Diz à neve: ‘Cai sobre a terra!’. E às pancadas de chuva: ‘Sede fortes!’.
+
+[[v20-37-7]]
+
+^<<v20-37-7,7>>^ Ele põe selos sobre as mãos dos homens, a fim de que todos os mortais reconheçam seu criador.^&#42;1^
+
+[[v20-37-8]]
+
+^<<v20-37-8,8>>^ A fera também entra em seu covil e encolhe-se em sua toca.
+
+[[v20-37-9]]
+
+^<<v20-37-9,9>>^ O furacão sai da câmara do sul e do norte chega o frio.
+
+[[v20-37-10]]
+
+^<<v20-37-10,10>>^ Ao sopro de Deus forma-se o gelo e a superfície das águas se congela.
+
+[[v20-37-11]]
+
+^<<v20-37-11,11>>^ Carrega as nuvens de vapor. As nuvens lançam por toda parte seus relâmpagos,
+
+[[v20-37-12]]
+
+^<<v20-37-12,12>>^ que vão em todos os sentidos sob sua direção, para realizar tudo quanto ele ordena na face da terra.
+
+[[v20-37-13]]
+
+^<<v20-37-13,13>>^ Ora é o castigo que eles trazem, ora seus benefícios.
+
+[[v20-37-14]]
+
+^<<v20-37-14,14>>^ Escuta isto, Jó! Para e considera as maravilhas de Deus!
+
+[[v20-37-15]]
+
+^<<v20-37-15,15>>^ Sabes como Deus as opera e faz brilhar o relâmpago de sua nuvem?
+
+[[v20-37-16]]
+
+^<<v20-37-16,16>>^ Conheces a lei do equilíbrio das nuvens e o milagre daquele cuja ciência é infinita?
+
+[[v20-37-17]]
+
+^<<v20-37-17,17>>^ Por que são quentes as tuas vestes, quando repousa a terra ao sopro do meio-dia?
+
+[[v20-37-18]]
+
+^<<v20-37-18,18>>^ Saberás, como ele, estender as nuvens e torná-las sólidas como um espelho de metal fundido?
+
+[[v20-37-19]]
+
+^<<v20-37-19,19>>^ Dá-me a conhecer o que lhe diremos. Mergulhados em nossas trevas, só sabemos objetar.
+
+[[v20-37-20]]
+
+^<<v20-37-20,20>>^ Quem lhe repetirá o que digo? Acaso pedirá um homem a sua própria perdição?
+
+[[v20-37-21]]
+
+^<<v20-37-21,21>>^ Agora já não se vê a luz, o sol brilha através das nuvens. Passa, porém, um vento e as varre.
+
+[[v20-37-22]]
+
+^<<v20-37-22,22>>^ A luz vem do norte. Deus está envolto numa majestade temível.^&#42;1^
+
+[[v20-37-23]]
+
+^<<v20-37-23,23>>^ Não podemos alcançar o Todo-poderoso. Ele é eminente em força e em equidade; grande na justiça, ele não tem a dar contas a ninguém.
+
+[[v20-37-24]]
+
+^<<v20-37-24,24>>^ Que os homens, pois, o reverenciem! Ele não olha aqueles que se julgam sábios!”.^&#42;1^
+
+'''
+
+xref:020-jo/020-jo-036.adoc#v20-36-0[&#60; Capítulo Anterior] | <<v20-37-0,Topo>> | xref:020-jo/020-jo-038.adoc#v20-38-0[Próximo Capítulo &#62;]
