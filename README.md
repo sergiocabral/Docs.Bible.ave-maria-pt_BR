@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Bíblia Sagrada – Tradução Ave Maria (ave-maria, pt_BR, 1959)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://ave-maria-pt-br.bible.raciocinios.com.br/
 
 ---
 
